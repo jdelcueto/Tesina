@@ -4,15 +4,21 @@
 \usepackage[a4paper,inner=2.5cm, outer=6.5cm, top=6cm, bottom=6cm]{geometry}
 
 %Font
-\usepackage{fontspec}
-\setmainfont[AutoFakeBold=3,AutoFakeSlant=0.25]{Arial Unicode MS}
+%\usepackage{fontspec}
+
+\usepackage{fontspec,xltxtra,xunicode} 
+\defaultfontfeatures{Mapping=tex-text} 
+\setmainfont[AutoFakeBold=1,AutoFakeSlant=0.25,Mapping=tex-text,Scale=1.0]{Arial Unicode MS}
+
+%\setmainfont[AutoFakeBold=3,AutoFakeSlant=0.25]{Arial Unicode MS}
+%\setmainfont{Arial Unicode MS}
 
 %Language
 \usepackage[spanish]{babel}
+
 %Bibliography Language
 %\usepackage[fixlanguage]{babelbib}
 %\selectbiblanguage{spanish}
-
 
 
 %Commented out for xelatex
@@ -33,3 +39,6 @@
 
 %Margin notes
 \usepackage{marginnote}
+
+\setcounter{secnumdepth}{0}
+
