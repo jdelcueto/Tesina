@@ -1,0 +1,20 @@
+\documentclass[../main.tex]{subfiles}
+\begin{document}
+%% my chapter 1 content
+
+%Macro for correct intro numbering
+\newcommand\intro[1]{
+  \chapter*{#1}
+  \markboth{\MakeUppercase{#1}}{}
+  \addcontentsline{toc}{chapter}{#1}
+}
+
+\intro{Introducción}
+
+
+Hello! ¿Jáu Are Yú?\footnote{\cite{greenwade93}}
+Hello! ¿Jáu Are Yú?\footnote{\cite[p.212]{greenwade93}}
+%% more of my chapter 1 content
+
+
+\end{document}

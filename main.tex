@@ -1,0 +1,50 @@
+\documentclass[10pt,twoside]{report}
+
+\usepackage{subfiles}
+
+\usepackage{csquotes}
+
+\usepackage[
+backend=biber,
+style=verbose,
+citestyle=verbose 
+]{biblatex}
+
+\addbibresource{./bibliodb/thesis_biblio.bib}
+
+%\usepackage{graphicx}
+%\usepackage{ifpdf}
+%\ifpdf
+   % put here packages only for the PDF:
+%   \DeclareGraphicsExtensions{.pdf,.png,.jpg,.mps}
+%   \usepackage{hyperref} 
+%\else
+   % put here packages only for the DVI:
+%\fi
+ 
+% put all the other packages here:
+ 
+\usepackage{style}
+ 
+\begin{document}
+ 
+%Title Page
+\input{./tex/title.tex}
+
+%Table of Contents
+\tableofcontents
+ 
+%Intro 
+\subfile{./tex/intro}
+
+%Capítulo 1:
+\subfile{./tex/ch1}
+
+%Bibliography
+%\clearpage
+%\addcontentsline{toc}{chapter}{Bibliography}
+
+
+\subfile{./tex/bibliography}
+ 
+\end{document}
