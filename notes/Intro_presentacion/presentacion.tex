@@ -9,27 +9,186 @@
 
 \renewcommand*{\familydefault}{\sfdefault}
 
-\setcounter{secnumdepth}{0}
+\setcounter{secnumdepth}{3}
 
 \setlength{\parindent}{1.25cm}
 \setlength{\parskip}{0.39cm}
 
+\usepackage{marginnote}
+\usepackage[top=1.5cm, bottom=1.5cm, outer=3.2cm, inner=3.2cm, heightrounded, marginparwidth=2cm, marginparsep=1cm]{geometry}
+
+
+\usepackage[
+backend=biber,
+style=apa,
+citestyle=verbose-ibid
+]{biblatex}
+
+\DeclareLanguageMapping{spanish}{spanish-apa}
+
+\setcounter{smartand}{0}
+\DefineBibliographyStrings{spanish}{%
+    andothers = {et al.},
+}
+
+\addbibresource{biblio.bib}
+
+\title{Presentación Inicial de la tesina.}
+\author{Joel Del Cueto Santiago}
+\date{this month, 2015}
+
+
 \begin{document}
+\reversemarginpar
 
-\section{Introducción}
-\subsection{Motivación Personal}
-\subsubsection{1Jn 1-4}
-Lo que existía desde el principio, lo que hemos oído, lo que hemos visto con nuestros ojos, lo que contemplamos y palparon nuestras manos acerca de la \textbf{Palabra} de vida ---\emph{pues la Vida se manifestó, y nosotros la hemos visto y damos \textbf{testimonio} y os anunciamos la Vida eterna, que estaba junto al Padre y que se nos maifestó}--- lo que hemos visto y oído os lo anunciamos, para que también vosotros \emph{estéis en comunión con nosotros}. Y \emph{nosotros estamos en comunión con el Padre y con su Hijo Jesucristo}. \textbf{Os escribimos esto para que nuestro gozo sea completo}.
+\part{Título}
+\paragraph{\noindent La Categoría del Testimonio en el pensamiento de Elizabeth Anscombe.\\
+\emph{Valoración y crítica en perspectiva teológico-fundamental.}}
 
-\subsubsection{Experiencia Creyente}
-Conocer a Dios para vivir en comunión con Él. 
+\part{Introducción}
+
+\section{Motivación Personal}
+
+\subsection{Categoría del Testimonio}
+
+\subsubsection{El testimonio como experiencia humana y dimensión de la vida cristiana}
+
+\footnote{
+``El testimonio pertenece al grupo de analogías empleadas por la Escritura para introducir al hombre en las riquezas del misterio divino., por ejemplo las categorías de alianza, de palabra, de paternidad y de filiación. Si la revelación misma se apoya en la experiencia humana del testimonio para expresar una de las relaciones fundamentales que unen al hombre con Dios, la reflexión teológica se encuentra entonces autorizada a explorar los datos de esta experiencia.''\cite[p.~1523]{dicctf}
+}
+
+``Es sabido que, especialmente en el Nuevo Testamento, se acentúa la vinculación entre la fe y el conocimiento de Dios. Esta íntima relación es también experimentada por el creyente, que entiende y vive su fe como un modo singular de conocer a Dios. Así lo percibe de modo singular nuestro clásico castellano en su ``Cantar del alma que se huelga de conoscer a Dios por la fe'': <<Qué bien sé yo --afirma-- la fonte que mana y corre, aunque es de noche>>.''\footcite[p.~15]{cyc}
+
+``La reflexión sobre el aspecto o dimensión proposicional de la fe pondrá de relieve que no se trata de algo externo al mismo acto de creer. En la aceptación de las proposiciones de fe opera lo que denominamos <<lógica del testimonio>>: aceptamos las verdades porque las ha dicho aquel en quien ponemos razonablemente la confianza. Creemos algo porque creemos en alguien y le creemos. \textquestiondown Cuál es el valor epistemológico de este asentimiento?''\footcite[p.483]{feylogicaconesa}
+
+\subsubsection{Teología de la Revelación y misión de la Iglesia en el Concilio Vaticano II}
+
+``Lo que el Vaticano I entendía por el signo de la Iglesia, se concentra ahora en la categoría de testimonio. Una vez percibida esta trasposición, se constata que el tema del testimonio es uno de los temas principales y privilegiados del Vaticano II. Como un `leitmotiv', aparece en todas las constituciones y en todos los decretos. A los ojos del concilio, atestiguar significa acreditar el evangelio como verdad y salvación del hombre mediante una vida conforme con el evangelio.''\footcite[p.~1532]{dicctf}
+
+``El Vaticano II redescubrió el enorme valor evangelizador del testimonio cristiano, aún el más sencillo y cotidiano. Sus grandes afirmaciones están en la Constitución Lumen gentium y el Decreto Ad gentes. Entre los documentos postconciliares que se ocupan del tema destaca la Exhortación Evangelii Nuntiandi.''\footcite[pp.~378--379]{ftcpellitero}
+
+Los obispos ofrecen al mundo el rostro de la Iglesia.
+\footnote{
+GS: 43
+``Los Obispos, que han recibido la misión de gobernar a la Iglesia de Dios, prediquen, juntamente con sus sacerdotes, el mensaje de Cristo, de tal manera que toda la actividad temporal de los fieles quede como inundada por la luz del Evangelio. Recuerden todos los pastores, además, que son ellos los que con su trato y su trabajo pastoral diario exponen al mundo el rostro de la Iglesia, que es el que sirve a los hombres para juzgar la verdadera eficacia del mensaje cristiano. Con su vida y con sus palabras, ayudados por los religiosos y por sus fieles, demuestren que la Iglesia, aun por su sola presencia, portadora de todos sus dones, es fuente inagotable de las virtudes de que tan necesitado anda el mundo de hoy.''
+}
+
+Los presbíteros han de ser un vivo testimonio de Dios.
+\footnote{
+LG 41: 
+``Los presbíteros, a semejanza del orden de los Obispos, cuya corona espiritual forman [126] al participar de su gracia ministerial por Cristo, eterno y único Mediador, crezcan en el amor de Dios y del prójimo por el diario desempeño de su oficio. Conserven el vínculo de la comunión sacerdotal, abunden en todo bien espiritual y sean para todos un vivo testimonio de Dios [127], émulos de aquellos sacerdotes que en el decurso de los siglos, con frecuencia en un servicio humilde y oculto, dejaron un preclaro ejemplo de santidad, cuya alabanza se difunde en la Iglesia de Dios.''
+}
+
+Fieles:
+LG 28:  
+``Respecto de los fieles, a quienes han engendrado espiritualmente por el bautismo y la doctrina (cf. 1 Co 4,15; 1 P 1,23), tengan la solicitud de padres en Cristo. Haciéndose de buena gana modelos de la grey (cf.  1 P 5,3), gobiernen y sirvan a su comunidad local de tal manera, que ésta merezca ser llamada con el nombre que es gala del único y total Pueblo de Dios, es decir, Iglesia de Dios (cf. 1 Co 1,2; 2 Co 1,1 y passim). Acuérdense de que, con su conducta de cada día y con su solicitud, deben mostrar a los fieles e infieles, a los católicos y no católicos, la imagen del verdadero ministerio sacerdotal y pastoral, y de que están obligados a dar a todos el testimonio de verdad y de vida, y de que, como buenos pastores, han de buscar también a aquellos (cf. Lc 15,4- 7) que, bautizados en la Iglesia católica, abandonaron la práctica de los sacramentos o incluso han perdido la fe.''
+
+LG 38:
+``Cada laico debe ser ante el mundo un testigo de la resurrección y de la vida del Señor Jesús y una señal del Dios vivo. Todos juntos y cada uno de por sí deben alimentar al mundo con frutos espirituales (cf. Ga 5, 22) y difundir en él el espíritu de que están animados aquellos pobres, mansos y pacíficos, a quienes el Señor en el Evangelio proclamó bienaventurados (cf. Mt 5, 3-9). En una palabra, <<lo que el alma es en el cuerpo, esto han de ser los cristianos en el mundo>> [120].''
+
+Religiosos:
+PC 25:
+``Todos los religiosos, pues, deben infundir el mensaje de Cristo en todo el mundo por la integridad de la fe, por la caridad para con Dios y para con el prójimo, por el amor a la cruz y la esperanza de la gloria futura, a fin de que su testimonio sea patente a todos y sea glorificado nuestro Padre que está en los cielos. De este modo, por intercesión de la dulcísima Virgen María, Madre de Dios, "cuya vida es norma de todos", recibirán mayor incremento cada día y darán más copiosos y saludables frutos.''
+
+Profesores:
+GE 8:
+``Recuerden los maestros que de ellos depende, sobre todo, el que la escuela católica pueda llevar a efecto sus propósitos y sus principios. Esfuércense con exquisita diligencia en conseguir la ciencia profana y religiosa avalada por los títulos convenientes y procuren prepararse debidamente en el arte de educar conforme a los descubrimientos del tiempo que va evolucionando. Unidos entre sí y con los alumnos por la caridad, y llenos del espíritu apostólico, den testimonio, tanto con su vida como con su doctrina, del único Maestro Cristo.''
+
+Misioneros:
+AG 24:
+``El que anuncia el Evangelio entre los gentiles dé a conocer con confianza el misterio de Cristo, cuyo legado es, de suerte que se atreva a hablar de El como conviene, no avergonzándose del escándalo de la cruz. Siguiendo las huellas de su Maestro, manso y humilde de corazón, manifieste que su yugo es suave y su carga ligera. Dé testimonio de su Señor con su vida enteramente evangélica, con mucha paciencia, con longanimidad, con suavidad, con caridad sincera, y si es necesario, hasta con la propia sangre.''
+
+\subsubsection{La Teología de la revelación del evangelista San Juan}
+
+
+\noindent \textbf{Introducción al Evangelio Según San Juan}
+
+\noindent
+\textrm{
+\marginnote{1,1: } En el principio existía la Palabra y la Palabra estaba con Dios, y la Palabra era Dios.\\
+\marginnote{1,2: } Ella estaba en el principio con Dios.\\
+\marginnote{1,3: } Todo se hizo por ella y sin ella no se hizo nada de cuanto existe.\\
+\marginnote{1,4: } En ella estaba la vida y la vida era la luz de los hombres,\\
+\marginnote{1,5: } y la luz brilla en las tinieblas, y las tinieblas no la vencieron.\\
+}
+
+\noindent Comentario de San Agustín
+
+\noindent
+A diario, cuando hablamos, las palabras se nos quedan en nada. A fuerza de sonar palabras y desaparecer, su valor se degrada y no nos parecen sino meras palabras. Pero hay en el hombre una palabra que permanece dentro, porque el sonido sale de la boca. Y hay otra palabra que realmente se pronuncia con el espíritu, lo que entiendes por medio del sonido, no el sonido mismo. Cuando yo digo <<Dios>>, pronuncio una palabra. Bien breve es lo que he pronunciado: cuatro letras y una sílaba. \textquestiondown Acaso Dios es en total una sílaba de cuatro letras? \textquestiondown O quizá cuanto menos vale este sonido, tanto más precioso es lo que por él entendemos? \textquestiondown Qué ocurre en mi interior cuando yo digo <<Dios>>? He pensado en un ser supremo, que trasciende toda criatura mudable, carnal y animal. Y si yo te preguntase: <<\textquestiondown Dios es mudable o inmutable?>>, inmediatamente responderías: <<Lejos de mí creer o pensar en Dios como mudable: Dios es inmutable>>.\footcite[n.~8]{aguscomentjn} 
+
+
+Tu alma, aunque pequeña, quizá carnal todavía, no pudo menos de responderme que Dios en inmutable, puesto que toda criatura es mudable. \textquestiondown De dónde te pudo venir la chispa que te ha iluminado este misterio, para responderme sin titubear que Dios es inmutable? \textquestiondown Qué hay en tu interior, cuando piensas en una sustancia viva, eterna, omnipotente, infinita, presente toda ella en todas partes, y no contenida por límites algunos? Cuando esto piensas, es la Palabra de Dios lo que hay en tu interior. \textquestiondown Es esto aquel sonido que consta de una sílaba y cuatro letras? Todo lo que se pronuncia y desaparece son sonidos, sílabas. La palabra que suena es la que pasa; pero la significada por el sonido está en el pensamiento de quien la dijo, permanece en la inteligencia de quien la ha oído, aunque desaparezcan las palabras.
+
+\textrm{
+\marginnote{1,6: } Hubo un hombre, enviado por Dios: se llamaba Juan.\\
+\marginnote{1,7: } Este vino para un testimonio, para dar testimonio de la luz, para que todos creyeran por él.\\
+}
+
+\textrm{
+\marginnote{1,8: } No era él la luz, sino quien debía dar testimonio de la luz.\\
+\marginnote{1,9: } La Palabra era la luz verdadera que ilumina a todo hombre que viene a este mundo.\\
+}
+
+\textrm{
+\marginnote{1,10: } En el mundo estaba, y el mundo fue hecho por ella, y el mundo no la conoció.\\	
+\marginnote{1,11: } Vino a su casa, y los suyos no la recibieron.\\
+\marginnote{1,12: } Pero a todos los que la recibieron les dio poder de hacerse hijos de Dios, a los que creen en su nombre;\\
+\marginnote{1,13: } la cual no nació de sangre, ni de deseo de hombre, sino que nació de Dios.}
+
+
+
+\noindent \textbf{Conclusión al Evangelio Según San Juan}
+
+
+\noindent
+\textrm{
+\marginnote{20,29: } Dícele Jesús: ``Porque me has visto has creído. Dichosos los que no han visto y han creído.''}
+
+
+\noindent San Gregorio, In Evang. hom. 26
+
+Pero como diga el Apóstol que la fe es la sustancia de cosas que se esperan ( Heb 11,1), pero que no se ven evidentemente, se deduce que, en las que están a la vista, no cabe fe, sino conocimiento. Si, pues, Tomás vio y tocó, \textquestiondown por qué se le dice ``Porque me viste, creíste''? Pero una cosa vio y otra creyó; vio al hombre, y confesó a Dios. Mucho alegra lo que sigue: ``Bienaventurados los que no vieron y creyeron''. En esta sentencia estamos especialmente comprendidos, porque Aquel a quien no hemos visto en carne lo vemos por la fe, si la acompañamos con las obras, pues aquel cree verdaderamente que ejecuta obrando lo que cree.
+
+
+\noindent
+\textrm{
+\marginnote{20,30: } Jesús realizó en presencia de los discípulos otras muchas señales que no están escritas en este libro.\\
+\marginnote{20,31: } Estas han sido escritas para que creáis que Jesús es el Cristo, el Hijo de Dios, y para que creyendo tengáis vida en su nombre.}
+
+
+\noindent \textbf{Introducción a la Primera Carta de Juan}
+
+
+\noindent
+\textrm{
+\marginnote{1,1: } Lo que existía desde el principio, lo que hemos oído, lo que hemos visto con nuestros ojos, lo que contemplamos y tocaron nuestras manos acerca de la Palabra de vida,\\
+\marginnote{1,2: }  ---pues la Vida se manifestó, y nosotros la hemos visto y damos testimonio y os anunciamos la Vida eterna, que estaba vuelta hacia el Padre y que se nos manifestó---\\
+\marginnote{1,3: } lo que hemos visto y oído, os lo anunciamos, para que también vosotros estéis en comunión con nosotros. Y nosotros estamos en comunión con el Padre y con su Hijo Jesucristo.\\
+\marginnote{1,4: } Os escribimos esto para que nuestro gozo sea completo.\\}
+
 
 \subsubsection{Los retos del diálogo}
 El Diálogo con la cultura. El diálogo interreligioso. 
 
+
+\subsection{G. E. M. Anscombe}
+
+\subsubsection{Wittgenstein y la filosofía analítica}
+``En el ámbito de la filosofía analítica --y especialmente por la influencia de Thomas Reid y Ludwig Wittgenstein-- asistimos a una revalorización del testimonio como forma de saber. Formulado en su forma más simple, se viene a decir que <<si alguien sabe que `p' y dice que `p', entonces quien lo escucha también sabe que `p'>>.\footcite[p.~487]{feylogicaconesa}
+
+\subsection{Perspectiva Teológico-Fundamental}
+
+
+
+
+
 \subsection{Objetivo de la Tesina}
 \subsubsection{Reflexionar sobre la categoría del testimonio como un camino de conocimiento de la verdad de Dios.}
 \subsubsection{Presentar la aportación de G. E. M. Anscombe sobre la catégoría teológica del testimonio.}
+
+Realizar un estudio filosófico y teológico sobre la categoría del testimonio como medio adecuado de conocimiento y transmisión de la verdad de Dios según las aportaciones hechas por Gertrude Elizabeth Margaret Anscombe y a la luz de la revalorización de esta categoría en los Concilios Vaticano I y II.
+
 
 \subsection{Fuentes básicas y bibliografía elemental que se van a consultar}
 \subsubsection{Bibliografía Primaria}
@@ -38,5 +197,8 @@ El Diálogo con la cultura. El diálogo interreligioso.
 \subparagraph{Comentarios y escritos sobre Anscombe y su obra}
 \subparagraph{Escritos sobre Wittgenstein}
 \subparagraph{Escritos sobre filosofía analítica}
+
+
+\printbibliography
 
 \end{document}
