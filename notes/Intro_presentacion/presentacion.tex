@@ -14,8 +14,11 @@
 \setlength{\parindent}{1.25cm}
 \setlength{\parskip}{0.39cm}
 
-\usepackage{marginnote}
-\usepackage[top=1.5cm, bottom=1.5cm, outer=3.2cm, inner=3.2cm, heightrounded, marginparwidth=2cm, marginparsep=1cm]{geometry}
+\usepackage{marginnote,letltxmacro}
+\renewcommand*{\marginfont}{\footnotesize}
+\LetLtxMacro\mn\marginnote
+
+\usepackage[top=1.5cm, bottom=1.5cm, outer=4.5cm, inner=2cm, heightrounded, marginparwidth=3.5cm, marginparsep=.5cm]{geometry}
 
 
 \usepackage[
@@ -33,14 +36,15 @@ citestyle=verbose-ibid
 
 \addbibresource{biblio.bib}
 
-\title{Presentación Inicial de la tesina.}
+\title{Presentación General de la tesina.}
 \author{Joel Del Cueto Santiago}
 \date{mayo, 2015}
 
 \interfootnotelinepenalty=10000
 
+
 \begin{document}
-\reversemarginpar
+%\reversemarginpar
 
 \maketitle
 
@@ -50,7 +54,9 @@ citestyle=verbose-ibid
 
 \part*{Introducción}
 
-Esta introducción pretende desarrollar brevemente algunos elementos básicos del trabajo. En la sección dedicada a las motivaciones personales ofrezco las razones detrás del interés en realizar una investigación sobre la categoría del testimonio en el ámbito de la filosofía analítica, específicamente en el pensamiento de G. E. M. Anscombe. Con esto quisiera ofrecer una justificación para este estudio y definir el marco de la reflexión posterior.
+Esta introducción pretende exponer brevemente algunos elementos básicos del trabajo. Sin perseguir ser exhaustivo en los temas presentados, quisiera que desarrollar esta introducción como una hoja de ruta para el recorrido de la investigación. 
+
+En la sección dedicada a las motivaciones personales ofrezco las razones detrás del interés en realizar una investigación sobre la categoría del testimonio en el ámbito de la filosofía analítica, específicamente en el pensamiento de G. E. M. Anscombe. Con esto quisiera ofrecer una justificación para este estudio y definir el marco de la reflexión posterior.
 
 Presento en segundo lugar el objetivo de la tesina desde el cual queda orientada la perspectiva del trabajo y la cuestión principal que pretende abordar.
 
@@ -60,9 +66,9 @@ Finalmente enumero las fuentes básicas catalogadas según los temas principales
 
 \subsection{Categoría del Testimonio}
 
-El interés por la categoría del testimonio está arraigado en mi propia \textbf{experiencia creyente} y en la vivencia de la revelación divina dentro de la Iglesia. La \textbf{teología de la revelación del evangelista San Juan} en una cierta relación de circularidad ha sido iluminadora para comprender y profundizar en estas experiencias.
+El interés por la categoría del testimonio tiene su origen en mi propia \textbf{experiencia creyente} y en la vivencia de la revelación divina dentro de la Iglesia. La \textbf{teología de la revelación del evangelista San Juan}, en una cierta relación de circularidad con mi vida de fe, ha sido iluminadora para comprender y profundizar en estas experiencias.
 
-El testimonio es una categoría fundamental que forma parte del lenguaje que hemos recibido del \textbf{Concilio Vaticano II}, como tal, es un elemento importante en la interpretación del contexto histórico en el que vivimos en la Iglesia y de su misión en nuestro mundo. En consonancia con esto recibimos una renovada llamada a ser testigos de Cristo en \textbf{diálogo con las múltiples culturas y religiones} que conforman la sociedad contemporánea como una auténtica enseñanza del Espíritu Santo manifestada en el Concilio.
+El testimonio es una categoría fundamental que forma parte del lenguaje que hemos recibido del \textbf{Concilio Vaticano II}, como tal, es un elemento importante en la interpretación del contexto histórico en el que vivimos en la Iglesia y de su misión en nuestro mundo. En consonancia con esto interpretamos la renovada llamada que nos hace el Concilio a ser testigos de Cristo en \textbf{diálogo con las múltiples culturas y religiones} que conforman la sociedad contemporánea como una valiosa enseñanza del Espíritu Santo.
 \footnote{ 
 Cfr. Encuentro con los Obispos que Participaron en el Concilio Vaticano II y un Grupo de Presidentes de Conferencias Episcopales, Discurso del Santo Padre Benedicto XVI en la Sala Clementina el Viernes 12 de octubre de 2012:
 \emph{ ``El Concilio fue un tiempo de gracia en que el Espíritu Santo nos enseñó que la Iglesia, en su camino en la historia, debe siempre hablar al hombre contemporáneo, pero esto sólo puede ocurrir por la fuerza de aquellos que tienen raíces profundas en Dios, se dejan guiar por Él y viven con pureza la propia fe; no viene de quien se adapta al momento que pasa, de quien escoge el camino más cómodo. El Concilio lo tenía bien claro, cuando en la constitución dogmática sobre la Iglesia Lumen Gentium, en el número 49, afirmó que todos en la Iglesia están llamados a la santidad según las palabras del Apóstol Pablo: <<Esta es la voluntad de Dios: vuestra santificación>> (1 Tes 4, 3). La santidad muestra el verdadero rostro de la Iglesia, hace entrar el <<hoy>> eterno de Dios en el <<hoy>> de nuestra vida, en el <<hoy>> del hombre de nuestra época.''
@@ -77,7 +83,7 @@ El testimonio, en cuanto analogía, hace referencia a la experiencia humana para
 }
 \footcite[p.~1523]{dicctf}
 
-Aquí se encuentra una linea de interés importante para esta investigación; indagar en la experiencia humana del testimonio tiene el interés teológico de iluminar el misterio que ésta representa. 
+Aquí se encuentra una linea de interés importante para esta investigación; indagar \mn{\textbf{Linea de estudio}\\\emph{testimonio humano analogía del misterio de la revelación}}en la experiencia humana del testimonio tiene el interés teológico de iluminar el misterio que ésta representa. 
 
 El misterio en el que quedamos introducidos por el testimonio es el de la Revelación de Dios. Por medio del testimonio conocemos a Dios y por medio del testimonio se transmite este conocimiento. Esto le confiere a la experiencia del conocimiento de la verdad de Dios las peculiaridades propias de la dinámica de la fe y de la <<lógica del testimonio>>, como afirma F. Conesa:
 
@@ -90,12 +96,11 @@ El misterio en el que quedamos introducidos por el testimonio es el de la Revela
 ``La reflexión sobre el aspecto o dimensión proposicional de la fe pondrá de relieve que no se trata de algo externo al mismo acto de creer. En la aceptación de las proposiciones de fe opera lo que denominamos <<lógica del testimonio>>: aceptamos las verdades porque las ha dicho aquel en quien ponemos razonablemente la confianza. Creemos algo porque creemos en alguien y le creemos. \textquestiondown Cuál es el valor epistemológico de este asentimiento?''}
 \footcite[p.483]{feylogicaconesa}
 
-Esta será otra linea importante en el desarrollo del trabajo; examinar el valor epistemológico del testimonio en cuanto que es medio de conocimiento de Dios y de transmisión de su verdad. En esto tenemos en cuenta la distinción que hay entre el conocimiento de Dios que ha dispuesto revelarse a Sí mismo por medio de Cristo, Verbo encarnado\footnote{cfr. DV 2} y el conocimiento de las verdades o proposiciones de fe por medio de testigos. 
-
+Esta será otra linea importante en el desarrollo del trabajo; examinar el valor epistemológico del testimonio \mn{\textbf{Linea de estudio}\\\emph{Valor epistemológico del conocimiento por testimonio}}en cuanto que es medio de conocimiento de Dios y de transmisión de su verdad. En esto tenemos en cuenta la distinción que hay entre el conocimiento de Dios que ha dispuesto revelarse a Sí mismo por medio de Cristo, Verbo encarnado\footnote{cfr. DV 2} y el conocimiento de las verdades o proposiciones de fe por medio de testigos. 
 
 \subsubsection{La Teología de la revelación del evangelista San Juan}
 
-Al detenernos en la teología joánica ofrecemos como clave fundamental para el estudio la centralidad de Cristo en la dinámica del testimonio. Latourelle afirma:
+Al detenernos en la teología joánica ofrecemos como clave fundamental para el estudio la centralidad de Cristo en la dinámica del testimonio. \mn{\textbf{Clave de valoración}\\\emph{Centralidad de Cristo en la dinámica del testimonio de Dios.}}Latourelle afirma:
 
 ``En san Juan el testimonio culmina como narración, como confesión, como compromiso y como interiorización. El testigo es Cristo (Ap 1, 5; 3, 14); y para Cristo, atestiguar equivale a manifestar al Padre, a revelar al Padre.''
 \footcite[p.~1529]{dicctf}
@@ -110,7 +115,7 @@ Latourelle continúa:
 ``Cristo es, por tanto, el testigo absoluto, el que lleva en sí mismo la garantía de su testimonio. El hombre, sin embargo, no sería capaz de acoger por la fe este testimonio del absoluto, manifestado en la carne y el lenguaje de Jesús, sin una atracción interior (Jn 6, 44), que es un don del Padre y un testimonio del Espíritu (1Jn 5, 9-10).''
 \footcite[p.~1530]{dicctf}
 
-En el trasfondo de la tesina estará esta imagen de la Palabra como Juan la presenta, como Palabra encarnada que es Cristo en donde se revela el rostro del Padre. Es Palabra que se acoge, se interioriza y se comunica.\footnote{
+La centralidad de Cristo en el misterio de la Revelación de Dios queda recogida en la imagen de la Palabra encarnada que Juan presenta. En el trasfondo de la tesina estará presente esta imagen; \mn{\textbf{Clave de valoración}\\\emph{Cristo es la Palabra a la que se refiere todo testimonio de Dios.}}la Palabra encarnada que es Cristo en donde se revela el rostro del Padre. Es Palabra que se acoge, se interioriza y se comunica.\footnote{
 cfr. \cite[p.~1530]{dicctf}: \emph{``...el que cree en Cristo tiene dentro de sí el testimonio de Dios. El testimonio que el creyente posee en sí mismo es el testimonio que el espíritu de del Hijo. Si el testimonio se interioriza es siempre en relación con la palabra de Cristo que exterioriza la intimidad de su diálogo con el Padre.''} El comentario de San Agustín a Jn 1, 1--5 ofrece una reflexión significativa al respecto:
 \emph{``A diario, cuando hablamos, las palabras se nos quedan en nada. A fuerza de sonar palabras y desaparecer, su valor se degrada y no nos parecen sino meras palabras. Pero hay en el hombre una palabra que permanece dentro, porque el sonido sale de la boca. Y hay otra palabra que realmente se pronuncia con el espíritu, lo que entiendes por medio del sonido, no el sonido mismo. Cuando yo digo <<Dios>>, pronuncio una palabra. Bien breve es lo que he pronunciado: cuatro letras y una sílaba. \textquestiondown Acaso Dios es en total una sílaba de cuatro letras? \textquestiondown O quizá cuanto menos vale este sonido, tanto más precioso es lo que por él entendemos? \textquestiondown Qué ocurre en mi interior cuando yo digo <<Dios>>? He pensado en un ser supremo, que trasciende toda criatura mudable, carnal y animal. Y si yo te preguntase: <<\textquestiondown Dios es mudable o inmutable?>>, inmediatamente responderías: <<Lejos de mí creer o pensar en Dios como mudable: Dios es inmutable>>. Tu alma, aunque pequeña, quizá carnal todavía, no pudo menos de responderme que Dios en inmutable, puesto que toda criatura es mudable. \textquestiondown De dónde te pudo venir la chispa que te ha iluminado este misterio, para responderme sin titubear que Dios es inmutable? \textquestiondown Qué hay en tu interior, cuando piensas en una sustancia viva, eterna, omnipotente, infinita, presente toda ella en todas partes, y no contenida por límites algunos? Cuando esto piensas, es la Palabra de Dios lo que hay en tu interior. \textquestiondown Es esto aquel sonido que consta de una sílaba y cuatro letras? Todo lo que se pronuncia y desaparece son sonidos, sílabas. La palabra que suena es la que pasa; pero la significada por el sonido está en el pensamiento de quien la dijo, permanece en la inteligencia de quien la ha oído, aunque desaparezcan las palabras.''}(\cite[n.~8]{aguscomentjn})
 }
@@ -119,60 +124,58 @@ El mismo Juan ha conocido a Cristo y anuncia el testimonio de lo que ha visto y 
 Juan ofrece el testimonio de lo que ha visto y oído de la Palabra de la Vida que se ha manifestado y al mismo tiempo este anuncio lo ofrece para aquellos que son dichosos porque <<no han visto y han creído>>(cfr. Jn 20, 29). Aquel que cree en el testimonio manifiesto conoce a Cristo y confiesa su misterio: ``Señor mío y Dios mío''(cfr. Jn 20, 28).\footnote{cfr. San Gregorio, In Evang. hom. 26: \emph{``Pero como diga el Apóstol que la fe es la sustancia de cosas que se esperan (Heb 11,1), pero que no se ven evidentemente, se deduce que, en las que están a la vista, no cabe fe, sino conocimiento. Si, pues, Tomás vio y tocó, \textquestiondown por qué se le dice ``Porque me viste, creíste''? Pero una cosa vio y otra creyó; vio al hombre, y confesó a Dios. Mucho alegra lo que sigue: ``Bienaventurados los que no vieron y creyeron''. En esta sentencia estamos especialmente comprendidos, porque Aquel a quien no hemos visto en carne lo vemos por la fe, si la acompañamos con las obras, pues aquel cree verdaderamente que ejecuta obrando lo que cree.''}
 }
 
-Esta dinámica de la Palabra según Juan la presenta es de gran interés para nuestro estudio y será una clave importante en el análisis que se desarrollará en la investigación.
+Esta dinámica de la Palabra en la Revelación según Juan la presenta nos resulta iluminadora para el estudio sobre el testimonio y por tanto será una clave importante en el análisis que se desarrollará en la investigación.
 
 \subsubsection{Teología de la Revelación y misión de la Iglesia en el Concilio Vaticano II}
 
+El estudio se desarrolla dentro de un contexto filosófico y uno teológico. El contexto teológico nos lo ofrece la teología desarrollada a partir del Concilio Vaticano II. \mn{\textbf{Contexto teológico}\\\emph{Importancia de la categoría del testimonio en los documentos del Concilio como categoría teológica y pastoral.}}Valoramos la categoría del testimonio desde su relevancia teológica y pastoral en el Concilio. 
+
+Como categoría teológica aparece como tema recurrente en los documentos conciliares y pone de manifiesto el cambio de perspectivas desde el Vaticano I. Al respecto Latourelle comenta:
+
 ``Lo que el Vaticano I entendía por el signo de la Iglesia, se concentra ahora en la categoría de testimonio. Una vez percibida esta trasposición, se constata que el tema del testimonio es uno de los temas principales y privilegiados del Vaticano II. Como un `leitmotiv', aparece en todas las constituciones y en todos los decretos. A los ojos del concilio, atestiguar significa acreditar el evangelio como verdad y salvación del hombre mediante una vida conforme con el evangelio.''\footcite[p.~1532]{dicctf}
+
+Como categoría pastoral el testimonio se refiere a la vida comprometida de los que forman parte del pueblo de Dios, la cual es el signo de salvación para este mundo. Sobre esto afirma R. Pellitero:
 
 ``El Vaticano II redescubrió el enorme valor evangelizador del testimonio cristiano, aún el más sencillo y cotidiano. Sus grandes afirmaciones están en la Constitución Lumen gentium y el Decreto Ad gentes. Entre los documentos postconciliares que se ocupan del tema destaca la Exhortación Evangelii Nuntiandi.''\footcite[pp.~378--379]{ftcpellitero}
 
-Los obispos ofrecen al mundo el rostro de la Iglesia.
-\footnote{
-GS: 43
-``Los Obispos, que han recibido la misión de gobernar a la Iglesia de Dios, prediquen, juntamente con sus sacerdotes, el mensaje de Cristo, de tal manera que toda la actividad temporal de los fieles quede como inundada por la luz del Evangelio. Recuerden todos los pastores, además, que son ellos los que con su trato y su trabajo pastoral diario exponen al mundo el rostro de la Iglesia, que es el que sirve a los hombres para juzgar la verdadera eficacia del mensaje cristiano. Con su vida y con sus palabras, ayudados por los religiosos y por sus fieles, demuestren que la Iglesia, aun por su sola presencia, portadora de todos sus dones, es fuente inagotable de las virtudes de que tan necesitado anda el mundo de hoy.''
-}
+El concilio manifiesta su preocupación de hablar al hombre del siglo XX, que rechaza un tipo de santidad platónica y abstracta, y ofrece como respuesta el lenguaje del testimonio de la vida realmente comprometida de los cristianos, de la santidad vivida como compromiso total al servicio de Cristo.\footnote{cfr. \cite[p.~1532 y 1533]{dicctf}} 
 
-Los presbíteros han de ser un vivo testimonio de Dios.
-\footnote{
-LG 41: 
-``Los presbíteros, a semejanza del orden de los Obispos, cuya corona espiritual forman [126] al participar de su gracia ministerial por Cristo, eterno y único Mediador, crezcan en el amor de Dios y del prójimo por el diario desempeño de su oficio. Conserven el vínculo de la comunión sacerdotal, abunden en todo bien espiritual y sean para todos un vivo testimonio de Dios [127], émulos de aquellos sacerdotes que en el decurso de los siglos, con frecuencia en un servicio humilde y oculto, dejaron un preclaro ejemplo de santidad, cuya alabanza se difunde en la Iglesia de Dios.''
-}
+El testimonio aparece como misión de toda la la Iglesia; los obispos ofrecen al mundo el rostro de la Iglesia con su trato y trabajo pastoral\footnote{cfr. GS 43}, los presbíteros, creciendo en el amor por el desempeño de su oficio, han de ser un vivo testimonio de Dios\footnote{cfr. LG 41}, los fieles han de dar testimonio de verdad como testigos de la resurrección\footnote{cfr. LG 28 y LG 38}, los religiosos deben ofrecer un testimonio sostenido por la integridad de la fe, por la caridad y el amor a la cruz y la esperanza de la gloria futura\footnote{PC 25}, los profesores han de dar testimonio tanto con su vida como con su doctrina\footnote{cfr. GE 8}, los misioneros han de ofrecer testimonio con una vida enteramente evangélica, con paciencia, longanimidad, suavidad, caridad sincera, y si es necesario hasta con la propia sangre.\footnote{cfr. AG 24}
 
-Fieles:
-LG 28:  
-``Respecto de los fieles, a quienes han engendrado espiritualmente por el bautismo y la doctrina (cf. 1 Co 4,15; 1 P 1,23), tengan la solicitud de padres en Cristo. Haciéndose de buena gana modelos de la grey (cf.  1 P 5,3), gobiernen y sirvan a su comunidad local de tal manera, que ésta merezca ser llamada con el nombre que es gala del único y total Pueblo de Dios, es decir, Iglesia de Dios (cf. 1 Co 1,2; 2 Co 1,1 y passim). Acuérdense de que, con su conducta de cada día y con su solicitud, deben mostrar a los fieles e infieles, a los católicos y no católicos, la imagen del verdadero ministerio sacerdotal y pastoral, y de que están obligados a dar a todos el testimonio de verdad y de vida, y de que, como buenos pastores, han de buscar también a aquellos (cf. Lc 15,4- 7) que, bautizados en la Iglesia católica, abandonaron la práctica de los sacramentos o incluso han perdido la fe.''
+El afán de hablar con el hombre contemporaneo no deja de ser apremiante, en este estudio se examina el testimonio desde esta preocupación. 
 
-LG 38:
-``Cada laico debe ser ante el mundo un testigo de la resurrección y de la vida del Señor Jesús y una señal del Dios vivo. Todos juntos y cada uno de por sí deben alimentar al mundo con frutos espirituales (cf. Ga 5, 22) y difundir en él el espíritu de que están animados aquellos pobres, mansos y pacíficos, a quienes el Señor en el Evangelio proclamó bienaventurados (cf. Mt 5, 3-9). En una palabra, <<lo que el alma es en el cuerpo, esto han de ser los cristianos en el mundo>> [120].''
+\subsubsection{El diálogo con las culturas y las religiones}
+Desde el afán del Concilio Vaticano II se ha presentado un esbozo breve del interés por estudiar el testimonio como la modalidad de hablar con la sociedad actual, sobre este tema quisiera detallar algunas consideraciones metodológicas adicionales.
 
-Religiosos:
-PC 25:
-``Todos los religiosos, pues, deben infundir el mensaje de Cristo en todo el mundo por la integridad de la fe, por la caridad para con Dios y para con el prójimo, por el amor a la cruz y la esperanza de la gloria futura, a fin de que su testimonio sea patente a todos y sea glorificado nuestro Padre que está en los cielos. De este modo, por intercesión de la dulcísima Virgen María, Madre de Dios, "cuya vida es norma de todos", recibirán mayor incremento cada día y darán más copiosos y saludables frutos.''
+En el recorrido por la obra de Anscombe servirá para orientarnos lo sugerido en la Reflexión ``Conocer la verdad a través de testigos'' donde, al abordar la empresa del cristianismo de ofrecer el testimonio del Hecho de Cristo como verdad de salvación razonable y creíble en esta circunstancia histórica, se propone:
 
-Profesores:
-GE 8:
-``Recuerden los maestros que de ellos depende, sobre todo, el que la escuela católica pueda llevar a efecto sus propósitos y sus principios. Esfuércense con exquisita diligencia en conseguir la ciencia profana y religiosa avalada por los títulos convenientes y procuren prepararse debidamente en el arte de educar conforme a los descubrimientos del tiempo que va evolucionando. Unidos entre sí y con los alumnos por la caridad, y llenos del espíritu apostólico, den testimonio, tanto con su vida como con su doctrina, del único Maestro Cristo.''
+``Si queremos mostrar que dicha empresa es razonable, por una parte debemos recuperar la legitimidad de la pregunta filosófica y religiosa sobre la verdad... en segundo lugar, se tiene que aclarar la naturaleza original del testimonio cristiano; por último, se tienen que poder demostrar que el testimonio es un modo adecuado de conocer y de transmitir la verdad.''\footcite[p.~267]{pradesmulticr}
 
-Misioneros:
-AG 24:
-``El que anuncia el Evangelio entre los gentiles dé a conocer con confianza el misterio de Cristo, cuyo legado es, de suerte que se atreva a hablar de El como conviene, no avergonzándose del escándalo de la cruz. Siguiendo las huellas de su Maestro, manso y humilde de corazón, manifieste que su yugo es suave y su carga ligera. Dé testimonio de su Señor con su vida enteramente evangélica, con mucha paciencia, con longanimidad, con suavidad, con caridad sincera, y si es necesario, hasta con la propia sangre.''
+Estas tres cuestiones servirán de guía en el acercamiento al pensamiento de Anscombe. Junto a estos tres planteamientos servirá de orientación el estudio realizado por  C. A. J. Coady en `Testimony'. El esquema de su investigación ofrece a esta investigación una buena estructura.  
 
+En el recorrido por el pensamiento de Anscombe el primer tema a tratar será la pregunta sobre la verdad. Seguidamente se tratará el tema de la fe. Ambos temas servirán de base al tratar el resto de sus reflexiones.
 
+Al abordar la pregunta sobre la validez del testimonio en la transmisión y conocimiento de la verdad servirá de guía el estudio de Coady; el análisis del testimonio atenderá primero su estado general y su centralidad y fiabilidad como medio de conocimiento. Este análisis tendrá como guía el que realiza Coady, como él mismo lo describe:
 
-\subsubsection{Los retos del diálogo}
-El Diálogo con la cultura. El diálogo interreligioso. 
+``We have been concerned to examine the broad significance of testimony in our lives, its place in our epistemological landscape, the tradition of debate about that place, and finally, what can be said to vindicate the extensive significance we have claimed for our reliance upon testimony.''\footcite[p.~175]{testcoady}
 
+El motivo de la elección del trabajo de Coady radica en su relación con Anscombe y la atención que le presta a las afirmaciones de la filosofía analítica. El `epistemological landscape' que examina coincide con el contexto en el que trabaja Anscombe.
+ 
+Después de atender las cuestiones generales, la reflexión culminará con las interrogantes sobre tipos específicos de testimonio. Estos últimos interrogantes orientarán hacia el tema de la naturaleza del testimonio cristiano.
+
+El interés por `vindicate the extensive significance we have claimed for our reliance upon testimony'\footcite{testcoady}, como lo describe Coady, va en la linea de mostrar que nuestra confianza puesta en el testimonio del Hecho de Cristo es razonable\footcite[p.~267]{pradesmulticr}. Esta finalidad la comparte esta tesina. El objetivo de la investigación es el diálogo.
+
+\subsubsection{Wittgenstein y la filosofía analítica}
+
+``<<I have loved the truth>> a dying teacher once said to me, after speaking of the difficulty he felt about the idea of loving God. But: <<I have loved the truth>>. And then, fearing lest I misconstrue his statement: <<I do not mean, when I say that, that I have the truth.>>''\footcite[p.~71]{truthanscombe}
+
+``En el ámbito de la filosofía analítica --y especialmente por la influencia de Thomas Reid y Ludwig Wittgenstein-- asistimos a una revalorización del testimonio como forma de saber. Formulado en su forma más simple, se viene a decir que <<si alguien sabe que `p' y dice que `p', entonces quien lo escucha también sabe que `p'>>.\footcite[p.~487]{feylogicaconesa}
 
 \subsection{G. E. M. Anscombe}
 
-\subsubsection{Wittgenstein y la filosofía analítica}
-``En el ámbito de la filosofía analítica --y especialmente por la influencia de Thomas Reid y Ludwig Wittgenstein-- asistimos a una revalorización del testimonio como forma de saber. Formulado en su forma más simple, se viene a decir que <<si alguien sabe que `p' y dice que `p', entonces quien lo escucha también sabe que `p'>>.\footcite[p.~487]{feylogicaconesa}
+``Analytical philosophy is more characterized by styles of argument and investigation than by doctrinal content. It is thus possible for people of widely different beliefs to be practitioners of this sort of philosophy. It ought not to surprise anyone that a seriously beleiving Catholic Christian should also be an analytical philosopher.''\footcite[p.~66]{opinionsanscombe}
 
 \subsection{Perspectiva Teológico-Fundamental}
-
-
-
 
 
 \subsection{Objetivo de la Tesina}
