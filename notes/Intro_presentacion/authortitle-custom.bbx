@@ -144,17 +144,37 @@
   
 % =========================== Redefined macroses ==============================
 
+\renewbibmacro*{date}{%
+  \iffieldundef{year}{%
+  }
+  {%
+  \printdate
+  }
+  }
+
 \renewbibmacro*{publisher+location+date}{%
+\iffieldundef{year}{%
+  }
+  {%
   \printtext[parens]{% ADDED
+    \iffieldundef{origyear}{%
+    }{%        
+    \setunit*{\addcomma\space}%
+    {\printorigdate}%
+    \setunit*{\addcomma\space}%
+    \printtext{reimpr.}
+    \setunit*{\addspace}%
+    }%
     \printlist{location}%
     \iflistundef{publisher}
       {\setunit*{\addcomma\space}}
       {\setunit*{\addcolon\space}}%
     \printlist{publisher}%
-    {\addspace\space}%    
+    {\addspace}%    
     \textsuperscript{\printfield{edition}}%
     \usebibmacro{date}%
   }\nopunct% ADDED
+  }
   \newunit}
 
 \renewbibmacro*{byeditor+others}{%
