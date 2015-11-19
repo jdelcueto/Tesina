@@ -476,7 +476,36 @@ it appears to me there is more to be said than that about the priority of rightn
 
 
 ** Hume and Julius Caesar
+Trearise IV.III.I
+Topic: belief in matters falling outside our own experience and memory
 
+For Hume the relation of cause and effect is the one bridge by which to reach belief in matters beyond our present impressions or memories
+
+The historical example is an inference of the original cause, the killing of Caesar, from its remote effect, the present perception of certain characters or letters.
+
+The starting-point is the present perception, and from it we can run through a chain of effects of causes which are effects of causes to the original cause: the killing of Caesar
+
+the end of the chain is thus not our perception and so it doesn't serve as an impression of our memory or senses beyond which there is no room for doubt or enquiry as to stop us going infinitely
+
+"tis impossible for us to carry on our inference in infinitum" means: *the justification of the grounds of our inferences cannot go on in infinitum* *we must come to belief which we do not base on grounds*
+
+What Hume is arguing is that we not only have a perception starting point but that we must reach a starting point in the justification of these inferences
+
+for him tracing back (from effects to causes) is taken to be symmetrical to inferences from causes to effects
+
+it must be purely hypothetical inference
+
+we reason (purely hypothetically) if Caesar was killed, then there were witnesses , if there were witnesses then there was testimonies, then there were records made from them, if there were records made then there are characters and letters to be seen which say that Caesar was Killed
+
+Four parts of Hume's thesis:
+
+1. a chain of reasons for a belief must terminate in something that is believed without being founded on anything else
+2. the ultimate belief must be of a quite different character from derived beliefs: it must be perceptual belief, belief in something perceived, or presently remembered
+3. the immediate justification for a belief p, if the belief is not a perception, will be another belief q, which follows from, just as much as it implies, p.
+4. we believe by inference through the links in a chain of record
+implicit corollary: when we believe in historical information belonging to the remote past, we believe that there has been a chain of record
+
+** Making True
 
 
 * C. Fe, verdad y testimonio
