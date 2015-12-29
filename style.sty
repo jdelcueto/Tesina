@@ -6,19 +6,20 @@
 %Font
 %\usepackage{fontspec}
 
-\usepackage{fontspec,xltxtra,xunicode} 
-\defaultfontfeatures{Mapping=tex-text} 
+%Commented for latex
+%\usepackage{fontspec,xltxtra,xunicode} 
+%\defaultfontfeatures{Mapping=tex-text} 
 
-\setmainfont[
-  Ligatures=TeX,
-  BoldFont=Arial Unicode MS,
-  BoldFeatures={FakeBold=3},
-  ItalicFont=Arial Unicode MS,
-  BoldItalicFont=Arial Unicode MS,
-  BoldItalicFeatures={FakeBold=3},
-]{Arial Unicode MS}
+%\setmainfont[
+%  Ligatures=TeX,
+%  BoldFont=Arial Unicode MS,
+%  BoldFeatures={FakeBold=3},
+%  ItalicFont=Arial Unicode MS,
+%  BoldItalicFont=Arial Unicode MS,
+%  BoldItalicFeatures={FakeBold=3},
+%]{Arial Unicode MS}
 
-\setmainfont[AutoFakeBold=2,AutoFakeSlant=0.25,Mapping=tex-text,Scale=1.0]{Arial Unicode MS}
+%\setmainfont[AutoFakeBold=2,AutoFakeSlant=0.25,Mapping=tex-text,Scale=1.0]{Arial Unicode MS}
 
 %\setmainfont[AutoFakeBold=3,AutoFakeSlant=0.25]{Arial Unicode MS}
 %\setmainfont{Arial Unicode MS}
@@ -32,8 +33,10 @@
 
 
 %Commented out for xelatex
-%\usepackage[utf8]{inputenc}
-%\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[scaled]{helvet}
+
 
 %Line space
 \usepackage{leading}
