@@ -1,0 +1,152 @@
+%% Driver file to produce san_damaso.bst from merlin.mbs
+%% Generated with makebst, version 4.1 (2003/09/08)
+%% Produced on 2015/05/13 at 14:16
+%% 
+\input docstrip
+
+\preamble
+----------------------------------------
+*** Según las directrices de USD ***
+
+\endpreamble
+
+\postamble
+End of customized bst file
+\endpostamble
+
+\keepsilent
+
+\askforoverwritefalse
+\def\MBopts{\from{merlin.mbs}{%
+%EXTERNAL FILES:
+%Name of language file: \cfile=.
+%No included files.
+%<<INTERNAL LANGUAGE SUPPORT (if no external language file)
+%   %: (def) English words used explicitly
+  babel,%: Babel (words replaced by commands defined in babelbst.tex)
+%------\ans=b(==babel)-------
+%>>INTERNAL LANGUAGE SUPPORT (if no external language file)
+%<<STYLE OF CITATIONS:
+    %: (def) Numerical as in standard LaTeX
+% ay,%: Author-year with some non-standard interface
+% alph,%: Alpha style, Jon90 or JWB90 for single or multiple authors
+% alph,alf-1,%: Alpha style, Jon90 even for multiple authors
+% alph,alf-f,%: Alpha style, Jones90 (full name of first author)
+% cite,%: Cite key (special for listing contents of bib file)
+%------\ans=*(==)-------
+%>>STYLE OF CITATIONS:
+%<<HTML OUTPUT (if non author-year citations)
+    %: (def) Normal LaTeX output
+% html,%: Hypertext output, in HTML code, in paragraphs
+% html,htlist,%: Hypertext list with sequence numbers
+% html,htdes,%: Hypertext with keys for viewing databases
+%------\ans=*(==)-------
+%>>HTML OUTPUT (if non author-year citations)
+%<<AUTHOR--YEAR SUPPORT SYSTEM (if author-year citations)
+% nat,%: Natbib for use with natbib v5.3 or later
+%   %: (def) Older Natbib without full authors citations
+% alk,%: Apalike for use with apalike.sty
+% har,%: Harvard system with harvard.sty
+% ast,%: Astronomy system with astron.sty
+% cay,%: Chicago system with chicago.sty
+% nmd,%: Named system with named.sty
+% cn,%: Author-date system with authordate1-4.sty
+%------\ans=*(==nat)-------
+%<<HARVARD EXTENSIONS INCLUDED (if Harvard support selected)
+% harnm,%: With Harvard extensions for LaTeX2e version of harvard.sty
+%   %: (def) Older Harvard style, for LaTeX 2.09
+%------\ans=*(==harnm)-------
+%>>HARVARD EXTENSIONS INCLUDED (if Harvard support selected)
+%>>AUTHOR--YEAR SUPPORT SYSTEM (if author-year citations)
+%<<LANGUAGE FIELD
+    %: (def) No language field 
+% lang,%: Add language field to switch hyphenation patterns temporarily
+%------\ans=*(==)-------
+%>>LANGUAGE FIELD
+%<<ANNOTATIONS:
+%   %: (def) No annotations will be recognized
+  annote,%: Annotations in annote field or in .tex file of citekey name
+%------\ans=a(==annote)-------
+%>>ANNOTATIONS:
+%<<PRESENTATIONS:
+%   %: (def) Do not add presentation type for conference talks
+  pres,%: Add presentation, speaker not highlighted 
+% pres,pres-bf,%: Presentation, speaker bold face 
+% pres,pres-it,%: Presentaion, speaker italic 
+% pres,pres-sc,%: Presentaion, speaker in small caps 
+%------\ans=p(==pres)-------
+%>>PRESENTATIONS:
+%<<ORDERING OF REFERENCES (if non-author/year and non-alph)
+    %: (def) Alphabetical by all authors
+% seq-no,%: Citation order (unsorted, like unsrt.bst)
+% seq-yr,%: Year ordered and then by authors
+% seq-yrr,%: Reverse year ordered and then by authors
+%------\ans=*(==)-------
+%>>ORDERING OF REFERENCES (if non-author/year and non-alph)
+%<<ORDERING OF REFERENCES (if author-year citations)
+%   %: (def) Alphabetical by all authors
+% seq-lab,%: By label (Jones before Jones and James before Jones et al)
+% seq-labc,%: By label and cite order (like above but all Jones et al ordered as cited)
+% seq-key,%: By label and cite key instead of label and title, as above
+% seq-yr,%: Year ordered and then by authors (for publication lists)
+% seq-yrr,%: Reverse year ordered and then by authors (most recent first)
+% seq-no,%: Citation order (unsorted, only meaningful for numericals)
+%------\ans=*(==)-------
+%>>ORDERING OF REFERENCES (if author-year citations)
+%<<ORDER ON VON PART (if not citation order)
+    %: (def) Sort on von part (de la Maire before Defoe)
+% vonx,%: Sort without von part (de la Maire after Mahone)
+%------\ans=*(==)-------
+%>>ORDER ON VON PART (if not citation order)
+%<<IGNORE FIRST NAMES (if author-year citations)
+%   %: (def) Respect first names or initials, treat as different authors
+% xintls,%: Sort on surname only and treat all Smiths as one
+%------\ans=*(==)-------
+%>>IGNORE FIRST NAMES (if author-year citations)
+%<<AUTHOR NAMES:
+% ed-au,%: Full, surname last (John Frederick Smith)
+% nm-revf,%: Full, surname first (Smith, John Frederick)
+  nm-init,ed-au,%: Initials + surname (J. F. Smith)
+% nm-rev,%: Surname + initials (Smith, J. F.)
+% nm-rv,%: Surname + dotless initials (Smith J F)
+% nm-rvvc,%: Surname + comma + spaceless initials (Smith, J.F.)
+% nm-rvx,%: Surname + pure initials (Smith JF)
+% nm-rvcx,%: Surname + comma + pure initials (Smith, JF)
+% nm-rvv,%: Surname + spaceless initials (Smith J.F.)
+% nm-rev1,%: Only first name reversed, initials (AGU style: Smith, J. F., H. K. Jones)
+% nm-revv1,%: First name reversed, with full names (Smith, John Fred, Harry Kab Jones)
+%------\ans=i(==nm-init,ed-au)-------
+%>>AUTHOR NAMES:
+%<<EDITOR NAMES IN COLLECTIONS (if author names reversed)
+% ed-rev,%: Editor names reversed just like authors'
+%------\ans=r(==ed-rev)-------
+%<<POSITION OF JUNIOR (if author names reversed)
+% jnrlst,%: Junior comes last as Smith, John, Jr.
+%   %: (def) Junior between as Smith, Jr., John
+%------\ans=*(==jnrlst)-------
+%>>POSITION OF JUNIOR (if author names reversed)
+%>>EDITOR NAMES IN COLLECTIONS (if author names reversed)
+%<<JUNIOR PART IN THE CITATION (if author-year citations)
+%   %: (def) No `junior' part in the citations but in the ref listing
+% jnrlab,%: `Junior' in citations as well as in ref listing
+%------\ans=*(==)-------
+%>>JUNIOR PART IN THE CITATION (if author-year citations)
+%<<PUNCTUATION BETWEEN AUTHOR NAMES:
+%   %: (def) Author names separated by commas 
+  aunm-semi,%: Names separated by semi-colon 
+% aunm-sl,%: Names separated by slash /
+%------\ans=s(==aunm-semi)-------
+%>>PUNCTUATION BETWEEN AUTHOR NAMES:
+%<<ADJACENT REFERENCES WITH REPEATED NAMES:
+    %: (def) Author/editor names always present 
+% nmdash,%: Repeated author/editor names replaced by dash 
+% nmdash,nmd-2,%: Repeated author/editor names replaced by 2 dashes 
+% nmdash,nmd-3,%: Repeated author/editor names replaced by 3 dashes 
+%------\ans=*(==)-------
+%>>ADJACENT REFERENCES WITH REPEATED NAMES:
+%<<NUMBER OF AUTHORS IN BIBLIOGRAPHY:
+%   %: (def) All authors included in listing
+  nmlm,%: Limited authors (et al replaces missing names)
+%------\ans=l(==nmlm)-------
+%>>NUMBER OF AUTHORS IN BIBLIOGRAPHY:
+    x90,x9,%: Maximum of 99 authors

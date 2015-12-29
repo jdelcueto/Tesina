@@ -1,0 +1,996 @@
+#+LANGUAGE:es
+
+* Unsorted
+** Mind & Self
+Dos topics que despertaron el interés de Anscombe fueron la Causalidad y la Percepción.
+
+Si hay un ámbito en el que la influencia de Wittgenstein es notable en Anscombe es en su filosofía del pensamiento. Sin embargo, así como ocurre en el resto de su obra, Anscombe mantiene su originalidad. En este caso consiste en considerar que hay un importante elemento de verdad en lo que los empiricistas afirmaban.
+Los argumentos de J. L. Austin y otros filósofos del lenguaje ordinario arrojaron dudas sobre la idea del sense-data. En este intercambio Anscombe creía que había un importante elemento de verdad en lo que los empiristas habían estado tratando de decir. Otra peculiaridad es su propensión a confrontar problemas relacionados con la postura de la primera persona. 
+
+Como Wittgenstein saca mucho de la asimetria entre los verbos psicológicos en primera persona y tercera persona y de la importancia de esa asimetría.  Sin embargo se detiene más en las expresiones en primera persona. En esto se aleja de ser behaviourist y expresa en la centralidad de la primera persona el grano de verdad en el fenomenalismo que con esfuerzo trata de resaltar. 
+
+** Intentionality of sensation
+Para los empiricistas la pregunta central es ¿Qué percibimos directamente? Esta preocupación es crucial pues se entiende que los sensorial-perceptivo es la fuente más básica e importante del conocimiento humano. Lo percibido se conoce con mayor certeza de lo inferido desde estas cosas o datos. Para Locke, Berkeley y Hume somos concsientes de los contenidos de nuestra propia mente, y la cuestión sobre los sentidos-percepción se trata de una sobre la relación entre juicios sore estos contenidos y juicios sobre las cosas. Al llegar a Russell esta descripción ha llegado a ser bastante sofisticada. 
+
+Austin pone en duda estas posturas con la propuesta sobre el lenguaje ordinario. Lo que percibimos es el objeto físico ordinario, no el snes-datum. 
+
+En "The Intentionality of Sensation" Anscombe busca ofrecer una alternativa. Lo hace desvelando los distintos modos en que frases como 'lo que ves', 'objeto de la percepción', etc. han de ser entendidas. La distinción más importante es entre los objetos intencionales de la percepción y los objetos materiales. Ambas lineas de pensamiento cometen el mismo erro: no reconocen la intencionalidad de la sensación. A esto, sin embargo, reaccionan asumiendo posturas opuestas. 
+
+** 'Making True' (1982)
+If you are told or othewise believe an either-or proposition, the question may easily arise what makes it true.
+
+Similarly, if it is said that some elements have a certain property, the question may arise which do.
+
+Thus though an either-or proposition or a some proposition, if true, must be made true by the truth of some such other proposition, in general none of these must be true if the original proposition is.
+This shows that explanation by means of truth conditions does not provide an analysis in these cases.
+By an 'analysis' I mean something that is at least an equivalent proposition. 
+
+** Verdad (1983)
+
+
+** Truth: Anselm ot Thomas?
+
+Anselm: dialogue On Truth
+Proposal to look through the various things that are said to have truth in them.
+Starts with propositions: any signs that come about to signify something's being or not the case.
+Stinkign things about his discussion:
+the identification of truth with rightness of assertion. 
+	What is the assertion for? To signify as being the case what is the case.
+		the truth of a proposition = the rightness of an assertion = truth/rightness of  a signifying
+
+** Notas Sueltas
+
+*** 3.1 A 
+se requiere el poder de un efecto copernicano para cuestionar una concepción ingenua que pretenda ofrecer significado a una afirmación
+
+Anscombe estudio después del primer corte. Desarrolló su filosofía desde el segundo corte. 
+Wittgenstein influenció el pensamiento de Anscombe en su metodología (ella dice que 
+
+
+
+Para Anscombe la filosofía era una actividad ardua y vigorosa. Su comienzo en est actividad fue un ardoroso interés en el tema de la causalidad. En sus diálogos con Foot le manifestó que la mejor manera de comprender a Wittgenstein era un largo periodo de vigorosa objeción.
+
+Wittgenstein recibió aquel día a Anscombe con la pregunta: 
+<<¿Por qué la gente dice que era natural preferir pensar que el sol gira alrededor de la tierra más que pensar que la tierra rota en su propio eje?>> 
+Anscombe respondió:
+<<Supongo que porque parecía verse como si el sol girara alrededor de la tierra.>> 
+<<Bueno>>, añadió Wittgenstein, <<¿cómo se hubiera visto si pareciera verse como si la tierra rotara en en su propio eje?>>. 
+
+Anscombe se percató que esta pregunta había puesto en evidencia que hasta aquel momento no le había dado ningún significado relevante a su expresión "parecía verse como si" en su afirmación "parecía verse como si el sol girara alrededor de la tierra". Su reacción fue extender las manos delante de ella con las palmas hacia arriba y levantarlas desde sus rodillas con un movimiento circular mientras se inclinaba hacia atrás asumiendo una expresión de mareo. <<¡Exactamente!>> exclamó Wittgenstein. 
+
+Este no es el único caso en que Wittgenstein ayudó a Anscombe a descubrir una afirmación que no expresaba realmente un pensamiento. Con una pregunta ponía en evidencia cómo una proposición carecía de algún significado mayor que el que podía sugerir una concepción ingenua. Este era el método general de Wittgenstein: "mostrar que una persona no ha ofrecido ningún significado (o quizás: ninguna referencia) para ciertos signos en sus afirmaciones." Este es el efecto que Wittgenstein causó en el pensamiento de Anscombe, fue para ella una medicina liberadora. cf. Knowledge and certainty, 151 (IWT) 
+Para Elizabeth la filosofía comenzó como un arduo interés en el tema de la causalidad. En su adolescencia se había convertido a la fe Católica motivada por sus lecturas entre los 12 y 15 años. Su conversión le llevó a leer 'Teología Natural' escrita por un jesuita del s. XIX. Esta obra le presento una piedra de tropiezo que le llevó a la tarea filosófica sin darse cuenta. El libro contenía un argumento sobre la existencia de una Causa Primera, y como preliminar de este argumento ofrecía la prueba de un 'principio de causalidad' según el cual cualquier cosa que viene a ser debe tener una causa. Esta prueba tenía el problema de contar como premisa con un escasamente disimulado supuesto de su propia conclusión. Anscombe pensó que esto fue un descuido del autor y que el argumento sólo necesitaba algo de arreglo, así que comenzó a escribir versiones mejoradas de éste. Estas versiones le dejaban satisfecha por un tiempo, pero sucesivas reflexiones terminaban por mostarle que contenían la misma falla que el argumento original. En dos o tres años produjo cinco versiones de la prueba, todas culpables del mismo error, aunque cada vez mejor escondido. Incluso su último intento fue hecho antes de comenzar en Oxford. 
+
+Otro tema central que le cautivó sin darse cuenta que era filosofía fue la percepción. Tras leer 'The Nature of Belief' de Fr. Martin D'Arcy, S.J. sacó este interés. Estaba segura de que veía objetos, aunque mas bien se concentraba en artefactos. Los primeros objetos de la naturaleza que le llamaron la atención fue 'madera' y el cielo. El cielo fue un golpe central ya que solia afirmar dogmáticamente que uno debe conocer la categoría del objeto del que habla ya fuera un color o un tipo de cosa, por ejemplo: eso pertenece a la lógica del termino que uno esta usando. No podía ser una cuestión de descubrimiento empírcio que algo pertenecía a una categoría distinta. El cielo la detuvo. (MPM viii)
+
+Conocer a Wittgenstein permitió a Anscombe interesarse en los filósofos del pasado como participante en su debate. (Intro FPlatotoW)
+Hay un modo Wittgensteiniano de rebatir la tendencia de los filósofos de explicar alguna cosa complicada inventando alguna entidad o evento que la causa, como los físicos inventan particulas para explicar fenómenos, como el graviton(xix FPltoW)
+
+Wittgenstein le dijo que esta es la diferencia que el hizo a la filosofía: los libros de filosofía antes de él eran acerca de epistemología o tenían títulos acerca de los principios de alguna cosa u otra. La pregunta es entonces: ¿cómo puede uno estar haciendo filosofía si uno ni trara de presentar los principios más generales ni trata de fundar todo en las perceptiones infalibles de uno mismo?
+ Anscombe escribió que la filosofía es pensar sobre las preguntas mas difíciles y generales, y eso es lo que ella hacía.FPLW xviii 
+
+Anscombe nació en Limerick en Irlanda porque su padre estaba sirviendo en el British Army. Cuando regresaron a Britain su padre se fue maestro de escuea enseñando ciencia en Dullwich College en Londres.
+Ella se graduó de Sydenham High School en el 1937.
+
+En 1937 se graduó de Sydenham High School y comenzó estudios de clásicos, filosofía e historia antigua en St Hugh's College en Oxford. 
+
+Habiendo comenzado a estudiar en Oxford, en la etapa de Honour Mods, participó de las lecciones de H. H. Price sobre percepción y fenomenalismo. Las encontró muy interesantes. Consideraba que él acertaba en hablar sobre lo importante. Encontró una lectura muy interesante en Hume's Theory of the External World de Price. Despertó en ella interés en el capítulo de Hume: "On scepticism with regard to the senses".
+
+La idea de estudiar con Wittgenstein vino cuando leyó a sección 5.53 "La identidad de objeto la expreso en la identidad del signo y no usando un signo para la 
+identidad. La diferencia de los objetos la expreso por medio de la diferencia de los signos." (fampeople.com)
+
+En 1944 Ludwig ofrecía lecciones en Cambridge. Anscombe todavía se sentía atrapada por el fenomenalismo. No lo creía, pero no podía salir de él. Aún cuando había visto las objeciones de Russell , la fuerza, el nervio, se mantenía fuerte. El pensamiento central: "Tengo esto y defino amarillo (por ejemplo) como esto" fue atacado por Wittgnstein.
+En las clases Wittgenstein discutía en una ocasión la interpretación del "sign-post", y estalló en Anscombe que el modo en el que vas sobre el es la interpretación final. 
+En otra ocasión salió y dijo "Pero aún quiero decir: azul está ahí", hubo risas, pero Wittgenstein considero la pregunta en serio diciendo: "Déjame pensar que medicina necesitas… supón que tuviéramos la palabra 'painy' como la propiedad de algunas superficies". La medicina fue efetiva.
+Uno podría protestar, ciertamente, que esto es lo que está incorrecto en la asimilación de las cualidades secundarias al dolor: puedes esbozar el funcionamiento de "dolor" como una palabra para una cualidad secundaria, pero no puedes hacer la operación inversa.
+La medicina no implicaba que podrías. Si "painy" fuera una posible palabra para una cualidad secundaria, entonces no podría el mismo motivo momverme a decir: Painy is there que lo que movió a decir "Blue is there?" Yo no quería decir "Azul es el nombre de esta sensación que estoy teniendo", ni tampoco cambiar hacia ese pensamiento. 
+
+Foot:(en Teich p.4 ) "pensaba que un largo periodo de vigorosa objeción era la mejor manera de entender a Wittgenstein. Aunque era una amiga cercana y reconocía su grandeza, nada podía estar más lejos de su carácter y modo de pensamiento que el discipulado."
+La filosofía de Anscombe es más cercana al espíritu de la de Wittgenstein precisamente porque no se contenta con repetir lo que el afirmaba en distintos modos. (Teich p.4)
+
+Anscombe también ofrecia una especie de terapia a la filosofía de la mente, como Wittgenstein. Pero su aplicación era más sistemática y minuciosa que las sugestivas y cripticas pistas de Wittgenstein. En Intention critica el modo en que los filosofos desde Descartes han tenido una concepción del conocimiento, aun del conocimiento de las propias acciones, como "incorregiblemente contemplativo", pasivo, especulativo.
+
+Su trabajo en la primera persona singular es una buen ejemplo de su manera de lidiar con los problemas filosóficos al estilo de Wittgenstein. Argumentando como algunas tesis metafísicas son el resultado de ser confundidos por la gramática. En su  ensayo: "The First Person" Anscombe argumenta que la palabra "I" (yo) no se usa para referirse a un objeto, ni a una mente o alma inmaterial, pero tampoco al cuerpo material. La palabra "yo" no es un nombre que me doy a mi mismo. Aunque lo parezca (iep.utm.edu)
+
+En Modern Moral philosophy también saca a relucir cómo el deber moral en el sentido de la palabra ought es realmente meaningless.
+
+En su lección inaugural en cambridge en 1970 Anscombe presentó una perspectiva extraordinariamente original y controversial de la causalidad.
+
+1939 Publicó un panfleto con Norman Daniel
+1956 se opuso al título de Truman
+?         Protestó en clínicas abortivas y fue apresada por ello
+
+En los círculos académicos ingleses es una tentación mantenerse en silencio cuando se dice algo incorrecto o estúpido. Anscombe pensaba que esto podía llevar a una actitud complaciente que está fuera de lugar en una propuesta seria de filosofía. (cf. Teichmann Ch. P 116-17)
+La actitud de Wittgenstein y Anscombe sobre la Bomba y en general sobre la guerra era distinta. Para ella, según la mentalidad cristiana, protestar en contra del mal era algo que merecía la pena hacerse por sus propios meritos: era un caso de ser testigo de la verdad. 
+Wittgenstein desconfiaba casi patológicamente de las personas que toman una postura moral en público. Prefería asumir una reacción de aversión quasi-fatalista más que el hacer algo para cambiarlos.
+en 1946 escribe:
+El miedo histérico que se experimenta ahora sobre la bomba atómica por el público, o en todo caso el que se expresa, casi sugiere que algo verdaderamente saludable se ha inventado. El espanto al menos da la impresión de una muy efectiva y amarga medicina. No puedo evitar pensar: si esto no tuviera algo de bueno los filisteos no estarían haciendo una protesta. (Culture and Value 48e-49e)(Teich p. 4)
+
+En los 50 y 60 la filosofía de Oxford estaba gobernada por la moda, en la época de Anscombe era la escuela del 'lenguaje ordinario' de J. L. Austin.
+Anscombe se sentía fuera de tono en este ambiente. De esta escuela levantaba las mayores resistencias los temas relacionados a sense-perception.
+en 1965 hace un intento de evitar los errores de los fenomenalismo y filósofos del lenguaje ordinario en 'La intencionalidad de la sensación'. 
+
+No nos podemos imaginar a Karol Wojtyla escribiendo The Acting Person sin el tratado de Anscombe sobre la intención. Incluso en distintas audiencias, al recibir a un obispo y un profesor de Oxford Juan Pablo II preguntó  ¿Conocen a la profesora Anscombe? (catholiceducation.com)
+
+Su interés por la filosofía política esta arraigada en su interés en el concepto del asesinato, en los 70. (ER&P Intro)
+adoptó la expresión "consecuencialismo"
+tuvo tres hijos y cuatro hijas
+
+Vivió la verdad como acción
+Murió rezando los misterios dolorosos del rosario. 
+Su último acto conciente fue besar a su esposo.
+
+*** 3.1 B 
+Wittgenstein recibió aquel día a Anscombe con la pregunta:
+<<¿Por qué la gente dice que era natural preferir pensar que el sol gira alrededor de la tierra más que pensar que la tierra rota en su propio eje?>> 
+Anscombe respondió:
+<<Supongo que porque parecía verse como si el sol girara alrededor de la tierra.>> 
+<<Bueno>>, añadió Wittgenstein, <<¿cómo se hubiera visto si pareciera verse como si la tierra rotara en en su propio eje?>>. 
+
+Anscombe se percató que esta pregunta había puesto en evidencia que hasta aquel momento no le había dado ningún significado relevante a su expresión "parecía verse como si" en su afirmación "parecía verse como si el sol girara alrededor de la tierra". Su reacción fue extender las manos delante de ella con las palmas hacia arriba y levantarlas desde sus rodillas con un movimiento circular mientras se inclinaba hacia atrás asumiendo una expresión de mareo. <<¡Exactamente!>> exclamó Wittgenstein.
+
+Este no es el único caso en que Wittgenstein ayudó a Anscombe a descubrir una afirmación que no expresaba realmente un pensamiento. Con una pregunta ponía en evidencia cómo una proposición carecía de algún significado mayor que el que podía sugerir una concepción ingenua. Este era el método general de Wittgenstein: "mostrar que una persona no ha ofrecido ningún significado (o quizás: ninguna referencia) para ciertos signos en sus afirmaciones." cf. Knowledge and certainty, 151 (IWT) Este es el efecto que Wittgenstein causó en el pensamiento de Anscombe, fue para ella una medicina liberadora. 
+
+Para Anscombe "strenous interest", "strenous objection", "strenous activyty Wittgenstein "wild life striving to erupt into the open"
+
+Para Elizabeth la filosofía comenzó como un arduo interés en el tema de la causalidad. En su adolescencia se había convertido a la fe Católica motivada por sus lecturas entre los 12 y 15 años. Su conversión le llevó a leer 'Teología Natural' escrita por un jesuita del s. XIX. Esta obra le presentó una piedra de tropiezo que le llevó a la tarea filosófica sin darse cuenta. El libro contenía un argumento sobre la existencia de una Causa Primera, y como preliminar de este argumento ofrecía la prueba de un 'principio de causalidad' según el cual cualquier cosa que viene a ser debe tener una causa. Esta prueba tenía el problema de contar como premisa con un escasamente disimulado supuesto de su propia conclusión. Anscombe pensó que esto fue un descuido del autor y que el argumento sólo necesitaba algo de arreglo, así que comenzó a escribir versiones mejoradas de éste. Estas versiones le dejaban satisfecha por un tiempo, pero sucesivas reflexiones terminaban por mostarle que contenían la misma falla que el argumento original. En dos o tres años produjo cinco versiones de la prueba, todas culpables del mismo error, aunque cada vez mejor escondido. Incluso su último intento fue hecho antes de comenzar en Oxford. 
+
+Otro tema central que le cautivó sin darse cuenta que era filosofía fue la percepción. Tras leer 'The Nature of Belief' de Fr. Martin D'Arcy, S.J. sacó este interés. Estaba segura de que veía objetos, aunque mas bien se concentraba en artefactos. Los primeros objetos de la naturaleza que le llamaron la atención fue 'madera' y el cielo. El cielo fue un golpe central ya que solia afirmar dogmáticamente que uno debe conocer la categoría del objeto del que habla ya fuera un color o un tipo de cosa, por ejemplo: eso pertenece a la lógica del termino que uno esta usando. No podía ser una cuestión de descubrimiento empírcio que algo pertenecía a una categoría distinta. El cielo la detuvo. (MPM viii)
+
+En 1937 se graduó de Sydenham High School y comenzó estudios de clásicos, filosofía e historia antigua en St Hugh's College en Oxford. 
+
+Habiendo comenzado a estudiar en Oxford, en la etapa de Honour Mods, participó de las lecciones de H. H. Price sobre percepción y fenomenalismo. Las encontró muy interesantes. Consideraba que él acertaba en hablar sobre lo importante. Encontró una lectura muy interesante en Hume's Theory of the External World de Price. Despertó en ella interés en el capítulo de Hume: "On scepticism with regard to the senses".
+
+
+En 1944 Ludwig ofrecía lecciones en Cambridge. Anscombe todavía se sentía atrapada por el fenomenalismo. No lo creía, pero no podía salir de él. Aún cuando había visto las objeciones de Russell , la fuerza, el nervio, se mantenía fuerte. El pensamiento central: "Tengo esto y defino amarillo (por ejemplo) como esto" fue atacado por Wittgnstein.
+En las clases Wittgenstein discutía en una ocasión la interpretación del "sign-post", y estalló en Anscombe que el modo en el que vas sobre el es la interpretación final. 
+En otra ocasión salió y dijo "Pero aún quiero decir: azul está ahí", hubo risas, pero Wittgenstein considero la pregunta en serio diciendo: "Déjame pensar que medicina necesitas… supón que tuviéramos la palabra 'painy' como la propiedad de algunas superficies". La medicina fue efetiva.
+Uno podría protestar, ciertamente, que esto es lo que está incorrecto en la asimilación de las cualidades secundarias al dolor: puedes esbozar el funcionamiento de "dolor" como una palabra para una cualidad secundaria, pero no puedes hacer la operación inversa.
+La medicina no implicaba que podrías. Si "painy" fuera una posible palabra para una cualidad secundaria, entonces no podría el mismo motivo momverme a decir: Painy is there que lo que movió a decir "Blue is there?" Yo no quería decir "Azul es el nombre de esta sensación que estoy teniendo", ni tampoco cambiar hacia ese pensamiento. 
+
+Foot:(en Teich p.4 ) "pensaba que un largo periodo de vigorosa objeción era la mejor manera de entender a Wittgenstein. Aunque era una amiga cercana y reconocía su grandeza, nada podía estar más lejos de su carácter y modo de pensamiento que el discipulado."
+La filosofía de Anscombe es más cercana al espíritu de la de Wittgenstein precisamente porque no se contenta con repetir lo que el afirmaba en distintos modos. (Teich p.4)
+
+
+1939 Publicó un panfleto con Norman Daniel
+1956 se opuso al título de Truman
+?         Protestó en clínicas abortivas y fue apresada por ello
+
+En los círculos académicos ingleses es una tentación mantenerse en silencio cuando se dice algo incorrecto o estúpido. Anscombe pensaba que esto podía llevar a una actitud complaciente que está fuera de lugar en una propuesta sería de filosofía. (cf. Teichmann Ch. P 116-17)
+La actitud de Wittgenstein y Anscombe sobre la Bomba y en general sobre la guerra era distinta. Para ella, según la mentalidad cristiana, protestar en contra del mal era algo que merecía la pena hacerse por sus propios meritos: era un caso de ser testigo de la verdad. 
+Wittgenstein desconfiaba casi patológicamente de las personas que toman una postura moral en público. Prefería asumir una reacción de aversión quasi-fatalista más que el hacer algo para cambiarlos.
+en 1946 escribe:
+El miedo histérico que se experimenta ahora sobre la bomba atómica por el público, o en todo caso el que se expresa, casi sugiere que algo verdaderamente saludable se ha inventado. El espanto al menos da la impresión de una muy efectiva y amarga medicina. No puedo evitar pensar: si esto no tuviera algo de bueno los filisteos no estarían haciendo una protesta. (Culture and Value 48e-49e)(Teich p. 4)
+
+En los 50 y 60 la filosofía de Oxford estaba gobernada por la moda, en la época de Anscombe era la escuela del 'lenguaje ordinario' de J. L. Austin.
+Anscombe se sentía fuera de tono en este ambiente. De esta escuela levantaba las mayores resistencias los temas relacionados a sense-perception.
+en 1965 hace un intento de evitar los errores de los fenomenalismo y filósofos del lenguaje ordinario en 'La intencionalidad de la sensación'. 
+
+** Musings
+Si Cristo no resucitó, vacía es nuestra predicación, vacía también nuestra fe.
+Somos culpables de ser falsos testigos de Dios, porque hemos atestiguado contra Dios que resucitó a Cristo,
+ a quién no resucito, si es que los muertos no resucitan.
+Y si Cristo no resucitó, vuestra fe es vana: estáis todavía en vuestros pecados. 
+
+O Cristo resucitó, o es vana nuestra fe
+
+Los elementos proposicionales que sirven como presupuestos a la fe, como presupuestos, no forman parte del contenido de la fe.
+
+Estos son:
+Creo a Dios implica los siguientes presupuestos:
+
+Creo que Dios existe
+Creo que algo es comunicación de Él
+Creo que esa comunicación dice tal o cual cosa
+
+Estos presupuestos no forman parte del contenido de la fe
+
+** Scraps
+\emph{Y si no resucitó Cristo, vacía es nuestra predicación, vacía también vuestra fe. 
+Y somos convictos de falsos testigos de Dios porque hemos atestiguado contra Dios que resucitó a Cristo, a quien no resucitó, si es que los muertos no resucitan.
+Porque si los muertos no resucitan, tampoco Cristo resucitó.
+Y si Cristo no resucitó, vuestra fe es vana: estáis todavía en vuestros pecados.
+Por tanto, también los que durmieron en Cristo perecieron.\\
+Si solamente para esta vida tenemos puesta nuestra esperanza en Cristo, ¡somos los más dignos de compasión de todos los hombres!
+¡Pero no! Cristo resucitó de entre los muertos como primicias de los que durmieron.
+Porque, habiendo venido por un hombre la muerte, también por un hombre viene la resurrección de los muertos.
+Pues del mismo modo que en Adán mueren todos, así también todos revivirán en Cristo.\\
+Pero cada cual en su rango: Cristo como primicias; luego los de Cristo en su Venida.
+Luego, el fin, cuando entregue a Dios Padre el Reino, después de haber destruido todo Principado, Dominación y Potestad.
+Porque debe él reinar 'hasta que ponga a todos sus enemigos bajo sus pies.'
+El último enemigo en ser destruido será la Muerte.}
+
+<<1Co 15, 17-26>>
+
+
+
+\section{Wittgenstein y Anscombe: La Razonabilidad de la Fe}
+\footnote{
+Ludwig Wittgenstein, 
+Wittgenstein on Rules and Private Language, 
+Wittgenstein, Frege and Ramsey, 
+Wittgenstein: Whose Philosopher?, 
+Wittgenstein's 'two cuts' in the history of philosophy, 
+Consequences of the Picture Theory, 
+On the form of Wittgsenstein's writing, 
+Was Wittgenstein a conventionalist?, 
+The Simplicity of the Tractatus, 
+An Introduction to Wittgenstein's Tractatus
+}
+
+El primer apartado recorre la biógrafía de Anscombe; su desarrollo como filósofa y creyente. Estudia también su relación con Wittgenstein. En este camino examinamos el tema de la razonabilidad de la fe. Cómo Anscombe responde a este aspecto de la fe y cuáles cuestiones Wittgenstein plantea sobre este asunto. Al final de este apartado abrimos la pregunta sobre la verdad.
+
+El primer interés filosófico de Anscombe fue en el tema de la causalidad.
+El segundo la percepción.
+
+For years, I would spend time, in cafés, for example, staring at objects saying to myself: "I see a packet. But what do I really see? How can I say that I see here anything more than a yellow expanse?" ...I always hated phenomenalism and felt trapped by it. I couldn't see my way out of it but I didn't believe it. It was no good pointing to difficulties about it, things which Russell found wrong with it, for example. The strength, the central nerve of it remained alive and raged achingly. It was only in Wittgenstein's classes in 1944 that I saw the nerve being extracted, the central thought I have got this, and I define "yellow" (say) as this being effectively attacked.[viii - ix, M\&PM]
+
+\subsubsection{'Why should one tell the truth if it's to one's advantage to tell a lie?'}
+<<¿Por qué uno debería de decir la verdad si es para beneficio de uno decir una mentira?>> De pie en un portal de su casa, con ocho o nueve años de edad, Wittgenstein no encontraba una objeción a esta consideración. Esta experiencia, si no fue decisiva para el futuro modo de vida del filósofo, es en cualquier caso característica de su naturaleza en esa época. 
+
+\footnote{When I was 8 or 9 I had an experience which if not decisive for my future way of life was at any rate characteristic of my nature at the time. How it happened, I do not know: I only see myself standing in a doorway in our house and thinking 'Why should one tell the truth if it's to one's advantage to tell a lie?' I could see nothing against it. [...] my lies had the aim of making me appear agreeable in the eyes of others. They were simply lies out of cowardice. (Wittgenstein: A Life : Young Ludwig, 1889-1921, Volume 1 By Brian McGuinness p. 48)}
+
+\subsubsection{'wild life striving to erupt into the open'}
+
+\subsubsection{Tractatus: Connection between language, or thought, and reality}
+
+In the Tractatus truth recieves a good deal more attention than meaning
+
+Nature of philosophy
+Accordingly, “the word ‘philosophy’ must mean something which stands above or below, but not beside the natural sciences” (TLP 4.111). Not surprisingly, then, “most of the propositions and questions to be found in philosophical works are not false but nonsensical” (TLP 4.003). Is, then, philosophy doomed to be nonsense (unsinnig), or, at best, senseless (sinnlos) when it does logic, but, in any case, meaningless? What is left for the philosopher to do, if traditional, or even revolutionary, propositions of metaphysics, epistemology, aesthetics, and ethics cannot be formulated in a sensical manner? The reply to these two questions is found in Wittgenstein's characterization of philosophy: philosophy is not a theory, or a doctrine, but rather an activity. It is an activity of clarification (of thoughts), and more so, of critique (of language). Described by Wittgenstein, it should be the philosopher's routine activity: to react or respond to the traditional philosophers' musings by showing them where they go wrong, using the tools provided by logical analysis. In other words, by showing them that (some of) their propositions are nonsense.
+
+“All propositions are of equal value” (TLP 6.4)—that could also be the fundamental thought of the book. For it employs a measure of the value of propositions that is done by logic and the notion of limits. It is here, however, with the constraints on the value of propositions, that the tension in the Tractatus is most strongly felt. It becomes clear that the notions used by the Tractatus—the logical-philosophical notions—do not belong to the world and hence cannot be used to express anything meaningful. Since language, thought and the world, are all isomorphic, any attempt to say in logic (i.e., in language) “this and this there is in the world, that there is not” is doomed to be a failure, since it would mean that logic has got outside the limits of the world, i.e. of itself. That is to say, the Tractatus has gone over its own limits, and stands in danger of being nonsensical.
+
+The “solution” to this tension is found in Wittgenstein's final remarks, where he uses the metaphor of the ladder to express the function of the Tractatus. It is to be used in order to climb on it, in order to “see the world rightly”; but thereafter it must be recognized as nonsense and be thrown away. Hence: “whereof one cannot speak, thereof one must be silent” (7).
+
+\subsubsection{Philosophical Investigations: 'I'll teach you differences'}
+
+meaning gets more attetntion than truth
+
+par 599. In philosophy we do not draw conclusions. ``But it must be like this!'' is not a philosophical proposition. Philosophy only states what everyone admits.
+
+nature of philosophy
+In his later writings Wittgenstein holds, as he did in the Tractatus, that philosophers do not—or should not—supply a theory, neither do they provide explanations. “Philosophy just puts everything before us, and neither explains nor deduces anything.—Since everything lies open to view there is nothing to explain” (PI 126). The anti-theoretical stance is reminiscent of the early Wittgenstein, but there are manifest differences. Although the Tractatus precludes philosophical theories, it does construct a systematic edifice which results in the general form of the proposition, all the while relying on strict formal logic; the Investigations points out the therapeutic non-dogmatic nature of philosophy, verily instructing philosophers in the ways of therapy. “The work of the philosopher consists in marshalling reminders for a particular purpose” (PI 127). Working with reminders and series of examples, different problems are solved. Unlike the Tractatus which advanced one philosophical method, in the Investigations “there is not a single philosophical method, though there are indeed methods, different therapies, as it were” (PI 133d). This is directly related to Wittgenstein's eschewal of the logical form or of any a-priori generalization that can be discovered or made in philosophy. Trying to advance such general theses is a temptation which lures philosophers; but the real task of philosophy is both to make us aware of the temptation and to show us how to overcome it. Consequently “a philosophical problem has the form: ‘I don't know my way about.’” (PI 123), and hence the aim of philosophy is “to show the fly the way out of the fly-bottle” (PI 309).
+
+The style of the Investigations is strikingly different from that of the Tractatus. Instead of strictly numbered sections which are organized hierarchically in programmatic order, the Investigations fragmentarily voices aphorisms about language-games, family resemblance, forms of life, “sometimes jumping, in a sudden change, from one area to another” (PI Preface). This variation in style is of course essential and is “connected with the very nature of the investigation” (PI Preface). As a matter of fact, Wittgenstein was acutely aware of the contrast between the two stages of his thought, suggesting publication of both texts together in order to make the contrast obvious and clear.
+
+Still, it is precisely via the subject of the nature of philosophy that the fundamental continuity between these two stages, rather than the discrepancy between them, is to be found. In both cases philosophy serves, first, as critique of language. It is through analyzing language's illusive power that the philosopher can expose the traps of meaningless philosophical formulations. This means that what was formerly thought of as a philosophical problem may now dissolve “and this simply means that the philosophical problems should completely disappear” (PI 133). Two implications of this diagnosis, easily traced back in the Tractatus, are to be recognized. One is the inherent dialogical character of philosophy, which is a responsive activity: difficulties and torments are encountered which are then to be dissipated by philosophical therapy. In the Tractatus, this took the shape of advice: “The correct method in philosophy would really be the following: to say nothing except what can be said, i.e. propositions of natural science … and then whenever someone else wanted to say something metaphysical, to demonstrate to him that he had failed to give a meaning to certain signs in his propositions” (TLP 6.53) The second, more far- reaching, “discovery” in the Investigations “is the one that enables me to break off philosophizing when I want to” (PI 133). This has been taken to revert back to the ladder metaphor and the injunction to silence in the Tractatus.
+
+\subsubsection{'I have loved the truth'}
+
+'I do not mean, when I say that, that I have the truth'.
+
+\subsubsection {Differences in Anscombe}
+In Anscombe's writing, the two topics of meaning and truth, insofar as they can be separated, seem to enjoy roguhly equal status, although her manner of with each is not the same.
+
+A. Almost always invokes meaning in the course of dealing with a topic not belonging as such to philosophy of language.
+By contrast A. treats truth much more as a topic in its own right. 
+
+For A. in indicative sentences sensefulness is associated with bivalence. W. and Russell is in the same side of the fence. For them 'having a sense' was one and the same thing with being true or false. A. says that W. remained on this side of the fence his whole life.(IWT 58, 59) (TEICH192)
+
+``It was left to the moderns to deduce what could be from what could hold of thought, as we see Hume to have done. This trend is still strong. But the ancientys had the better approach, arguing only that a thought was impossible because the thing was impossible, or as the Tractatus puts i, 'an impossible thought is an impossible thought''. (FPW,p .xi) (TEICH 193)
+
+A. does not swallow the whole of the picture theory of propositions. But she sees what is probably the most illuminating thing about W.'s comparison of propositions and pictures; namely, this janus-faced aspect of a proposition, an aspect that can be expressed in various ways... in her lecture ``la verdad'' A. raises the question having to do with the primacy of truth over falsehood. What is the inequality of truth and falsehood?
+Anselm solution to this is to ascribe a purpose to the assertion, that of saying what is tha case. What is to use a proposition to say what is the case? Could we adopt the rule of using propositional signs to say what is not the case?
+Can we not make ourselves understood with false propositions just as we have done up till now with true ones? So long as it is known that they are false. No! For a proposition is true if we use it to say things stand in a certain way, and they do; and if by 'p' we mean not-p  and things stand as we mean that they do, then, construed in the new way, 'p' is true and not false.(TRACTATUS 4.062)
+
+A. asks: Does the general impossibility [of exchanging the roles of true and false] contain the whole substance of the ``not equally justified relations''? A. takes W. to have said that truth and falsehood do not bear equally justified relations to the things depicted. 
+
+How does truth and not falsehood bear a 'justified relation' to the thing signified?
+Teichmann thinks the answer can be found in A.'s explanation of practical necessity. It has two strands: an account of the nature of stopping/forcing modals; an account of the aristotelian necessity of our going in for the practice within which those modals have force.
+
+Still Teichmann believes this answer wouldn't satisfy A., the justified relation that truth has to the thing signified is not just one of practical necessity, for lying is an offence to truth itself. God as truth is Anselm's notion of summa veritas. A. isn't opposed to the idea of there being mysteries. Trascendental unity of truth is stressed by this idea. (cfr. TEICH 198)
+
+
+\section{La pregunta sobre la Verdad}
+\footnote{
+Truth: Anselm and Wittgenstein, 
+Truth: Anselm or Thomas?, 
+Anselm and the Unity of Truth, 
+A theory of Language?, 
+Necessity and Truth, 
+Thought and Action in Aristotle: What is Practical Truth?, 
+Practical Truth
+}
+
+Atendemos en el segundo apartado la pregunta sobre la verdad en los escritos de Anscombe. Este tema nos conducirá a la cuestión sobre la verdad de la fe.
+
+\section{Fe, verdad y testimonio}
+\footnote{
+Faith, 
+What is to believe someone?, 
+A Reply to Mr. C. S. Lewis's Argument that “Naturalism” is Self- Refuting, 
+Has Mankind One Soul: An Angel Distributed among many Bodies?, 
+Human Essence, 
+La esencia Humana, 
+Plato, Soul and 'the Unity of Apperception', 
+Why Anselm's Proof in the Proslogion in not an onthological argument, 
+On the Hatred of God, 
+On Attachment to Things and Obedience to God, 
+On being on Good Faith, 
+On Humanae Vitae, 
+Philosophers and Economists: Two Philosphers' Objections to Usury, 
+Retractation, 
+Sin: the McGivney Lectures, 
+The Inmortality of the Soul, 
+Two Moral Theologians, 
+You Can Have Sex without Children: Christianity and the New Offer, 
+Morality, 
+Modern Moral Philosophy
+}
+
+Anscombe estudia el tema de la fe en ``Faith'' donde nos introducirá al tema del testimonio. Afirma: ``the supposition that someone has faith is the supposition that he believes that something --it may be a voice, it may be something he has been thaught-- comes as a word from God. Faith is then the belief he accords to that word.'' La relación entre fe y testimonio queda remarcada en ``What is It to Believe Someone?''. Estos dos escritos nos ofrecen el vínculo entre la pregunta sobre la verdad, la fe y el testimonio. Al final de este apartado quedará abierta la pregunta sobre el valor epistemológico del testimonio.
+
+\section{La tradición sobre el valor epistemológico del testimonio}
+\footnote{
+Hume and Julius Caesar, 
+Hume on causality: introductory, 
+The Reality of the Past, 
+Causality and Determination, 
+Causality and Extensionality, 
+“Whatever has a beginning of existence must have a cause”: Hume's Argument Exposed, 
+Times, Beginnings and Causes, 
+Before and After, 
+The Causation of Action, 
+Chisolm on Action, 
+Action, Intention and 'Double Effect', 
+Part Three: Causality and time
+Aristotle and the Sea Battle: De Interpretatione, Chapter IX, 
+Prophecy and Miracles, 
+Hume on Miracles, 
+Modern Moral Philosophy, 
+Good and Bad Human Action
+}
+
+Realizamos el estudio sobre el lugar epistemológico del testimonio y la tradición de ese lugar desde las aportaciones de Hume. En ``Hume and Julius Caesar'' Anscombe plantea la postura de Hume sobre el conocimiento por testimonio en el conocimiento de la historia y argumenta sobre ella. ``Prophecy and Miracles'' y ``Hume on Miracles'' nos permitiran considerar también el valor del testimonio de narraciones extraordinarias. 
+
+\section{El testimonio en el lenguaje epistémico y creyente}
+\footnote{
+On Wisdom, 
+Knowledge and Certainty, 
+Knowledge and Reverence for Human Life, 
+'The General Form of Proposition', 
+Comments on Professor R. L. Gregory's Paper on Perception, 
+On Brute Facts, 
+Will and Emotion, 
+Memory, 'Experience' and Causation, 
+Understanding Proofs: Meno, 85d9 – 86c2, 
+Subjunctive Conditionals, 
+What is it to Believe Someone?, 
+The Intentionality of Sensation, 
+Substance, 
+The Subjectivity of Sensation, 
+Events in the mind, 
+On Sensations of Position, 
+Intention, 
+Pretending, 
+Practical Inference
+What is it to Believe Someone?
+Authority in Morals, 
+On the Source of the Authority of the State, 
+The Moral Enviroment of the Child, 
+On Promising and its justice, and Whether it Need be Respected in Foro Interno, 
+Rules, Rights and Promises, 
+The Two Kinds of error in action
+}
+
+Los temas tratados en los anterirores apartados nos han dejado con algunos terminos epistémicos relacionados con el lenguaje sobre el testimonio como autoridad, creer y confiar. En este apartado los examinamos con más detalle y comparamos el testimonio con otros terminos relacionados con el conocimiento como son la percepción, la memoria y los sentidos. Se trata de considerar y valorar el testimonio como parte del lenguaje epistémico y como parte del lenguaje sobre la fe. Al final de este apartado abrimos la pregunta sobre el misterio.
+
+\section{Sentido, sinsentido y misterio}
+\footnote{
+`Mysticism' and Solipsism, 
+Analytical Philosophy and the Sipirituality of Man, 
+On Transubstantiation, 
+Parmenides, Mystery and Contradiction, 
+The Question of Linguistic Idealism, 
+Paganism, Superstition and Philosophy, 
+On Piety, or: Plato's Euthyphro.
+}
+
+En este último apratado examinamos el misterio, el sentido y el sinsentido. Anscombe afirma en ``The Question of Linguistic Idealism'': ``In the Catholic faith, certain beliefs (such as the Trinity, the Incarnation, the Eucharist) are called 'mysteries'; this means at the very least that it is neither possible to demonstrate them nor possible to show once and for all that they are not contradictory and absurd. On the other hand contradiction and absurdity is not embraced; <<this can be disproved, but I still believe it>> is not an attitude of faith at all.''(QLI, 122) Anscombe se pregunta cómo se puede distinguir entre ``nonsense'' y ``mystery''. Su respuesta tiene que ver con nuestro tema del testimonio y en su escrito ``On transubstantiation'' encontramos un buen lugar para culminar el recorrido por su pensamiento.
+
+* Main Outline
+*EN EL TESTIMONIO ENCONTRAMOS UN TEMA QUE NO SÓLO ES IMPORTANTE PARA LA TEOLOGÍA Y LA FILOSOFÍA DE LA RELIGIÓN, SINO TAMBIÉN PARA LA TEORÍA DEL CONOCIMIENTO*
+** A. Wittgenstein y Anscombe: La Razonabilidad de la Fe
+*** Anscombe's and Wittgenstein's Timetable
+| Month       |      year |    WA | Wittgenstein                                                                                            | AA | Anscombe                                                                                                                                                |
+| 26 April    |      1889 |     0 | Born in Vienna                                                                                          |    |                                                                                                                                                         |
+|             |      1893 |     4 | Frege Publshes Grundgesetze der Arithmetik, Band I                                                      |    |                                                                                                                                                         |
+|             |      1898 |     9 | Why should one tell the truth?                                                                          |    |                                                                                                                                                         |
+| May         |      1902 |    13 | Eldest brother Hans disappears from a boat in Chesapeake Bay, most likely having committed suicide      |    |                                                                                                                                                         |
+|             |      1903 |    14 | Starts studies in Realschule in Linz                                                                    |    |                                                                                                                                                         |
+|             |      1903 |    14 | Frege publishes Grundgesetze der Arithmetik, Band II & Russell publishes The Principles of Mathematics  |    |                                                                                                                                                         |
+|             |      1904 |    15 | Third eldest brother, Rudi, committs suicide in a Berlin bar                                            |    |                                                                                                                                                         |
+|             | 1903-1906 | 14-17 | He aknowledges he doesn't have faith, Reads Schopenhauer after this loss of faith. Later Otto Weininger |    |                                                                                                                                                         |
+| October     |      1906 |    17 | Begins his studies in mechanical engineering at the Technische Hochschule in Charlottenburg, Berlin     |    |                                                                                                                                                         |
+|             |      1908 |    19 | Graduates form the Technische Hochschul                                                                 |    |                                                                                                                                                         |
+|             |      1908 |    19 | Registers as Student in the Engineering department at Manchester                                        |    |                                                                                                                                                         |
+|             |      1908 |    19 | Reads Russell's Principles of Mathemathics                                                              |    |                                                                                                                                                         |
+|             |      1911 |    22 | Visits Frege at the University of Jena                                                                  |    |                                                                                                                                                         |
+| 18 October  |      1911 |    22 | Arrives unannounced at Russell's room at Trinity College                                                |    |                                                                                                                                                         |
+|             |      1912 |    23 | Joins Cambridge  Moral Sciences Club                                                                    |    |                                                                                                                                                         |
+| 20 January  |      1913 |    24 | Karl (Father) Dies                                                                                      |    |                                                                                                                                                         |
+|             |      1913 |    24 | Retreats to Skjolden, Norway, writes Notes on Logic                                                     |    |                                                                                                                                                         |
+| 28 July     |      1914 |    25 | WWI Begins                                                                                              |    |                                                                                                                                                         |
+| March       |      1916 |    27 | Posted on the frontline against Brusilov Offensive                                                      |    |                                                                                                                                                         |
+|             |      1917 |    28 | Posted at the Russsian Front                                                                            |    |                                                                                                                                                         |
+|             |      1918 |    29 | Promoted to Lieutenant, posted at Italian Front                                                         |    |                                                                                                                                                         |
+| August      |      1918 |    29 | Finishes the Tarctatus in Neuwaldegg                                                                    |    |                                                                                                                                                         |
+| October     |      1918 |    29 | Second eldest brother, Kurt, an officer and company director at WWI, shoots himself                     |    |                                                                                                                                                         |
+| November    |      1918 |    29 | Captured, spends nine months as prisioner at Italian War camp                                           |    |                                                                                                                                                         |
+| 11 November |      1918 |    29 | WWI Ends                                                                                                |    |                                                                                                                                                         |
+| 18 March    |      1919 |    30 |                                                                                                         |  0 | Born in Limerick, Ireland, (Her Father Captain Allen Wells was stationed there in the Royal Welch Fusiliers during the Irish War of Independence)       |
+| 25 August   |      1919 |    30 | Returns to Family in Vienna                                                                             |    |                                                                                                                                                         |
+| September   |      1919 |    30 | Enrolled in the Lehrerbildungsanstalt (teacher training college) To be an elementary teacher            |  0 |                                                                                                                                                         |
+| Summer      |      1920 |    31 | Works as gardener at monastery                                                                          |    |                                                                                                                                                         |
+|             |      1920 |    31 | Given his first job as a primary school teacher in Trattenbach                                          |  1 |                                                                                                                                                         |
+| July        |      1921 |    32 |                                                                                                         |  2 | Irish War of Independence Finishes                                                                                                                      |
+|             |      1922 |    33 | Publishes The Tractatus                                                                                 |  3 |                                                                                                                                                         |
+| September   |      1922 |    33 | Moves to Hassbach                                                                                       |  3 |                                                                                                                                                         |
+| September   |      1924 |    35 | Moves to  Otterthal                                                                                     |  5 |                                                                                                                                                         |
+| April       |      1926 |    37 | Der Vorfall Haidbauer (the Haidbauer incident)                                                          |  7 |                                                                                                                                                         |
+|             |      1926 |    37 | Joins the Vienna Circle (Formed by inspiration of the Tractatus)                                        |  7 |                                                                                                                                                         |
+|             |      1926 |    37 | Works a few months at the monastery of Hütteldorf                                                       |  7 |                                                                                                                                                         |
+|             |      1926 |    37 | Begins works on Haus Wittgenstein                                                                       |  7 |                                                                                                                                                         |
+| December    |      1928 |    39 | Finishes Haus Wittgenstein                                                                              |  9 |                                                                                                                                                         |
+|             |      1929 |    40 | Returns to Cambridge                                                                                    | 10 |                                                                                                                                                         |
+|             |      1929 |    40 | Presents Tractatus as his Thesis, gets his PhD                                                          | 10 |                                                                                                                                                         |
+|             |      1929 |    40 | Appointed lecturer at Trinity College (Cambridge)                                                       | 10 |                                                                                                                                                         |
+|             |      1931 |    42 |                                                                                                         | 12 | Starts readings that lead her to a teenage conversion to catholicism                                                                                    |
+|             |      1934 |    45 |                                                                                                         | 15 | Starts reading Natural Theology by a XIX century Jesuit and working on a proof of a principle of causality, sparking her interest on philosphy          |
+|             |      1936 |    47 | Goes back to Norway to work on Philosophical investigations                                             | 17 |                                                                                                                                                         |
+|             |      1937 |    48 |                                                                                                         | 18 | Graduated from Sydenham High School                                                                                                                     |
+|             |      1938 |    49 | Travels to Ireland                                                                                      | 19 |                                                                                                                                                         |
+| 27 april    |      1938 |    49 |                                                                                                         | 19 | Instructed and received into the Catholic Church by Fr Richard Kehoe, Dominican                                                                         |
+|             |      1939 |    50 | Elected for chair of philosophy in Cambridge after Moore's resignment (until 1947)                      | 20 |                                                                                                                                                         |
+|             |      1939 |    50 | Granted British Citizenship                                                                             | 20 |                                                                                                                                                         |
+| August      |      1939 |    50 | Hitler grants mixed-blood status to Wittgenstein Siblings despite having 3 jew grandparents             | 20 |                                                                                                                                                         |
+| 1 September |      1939 |    50 | WWII Starts                                                                                             | 20 |                                                                                                                                                         |
+|             |      1941 |    52 | Works at Guy's Hospital in London                                                                       | 22 | Graduated from St Hugh's College, Oxford                                                                                                                |
+| 26 December |      1941 |    52 |                                                                                                         | 22 | Married Peter Geach                                                                                                                                     |
+|             |      1942 |    53 |                                                                                                         | 23 | Awarded Research fellowship for post-graduate study at Newnham College, Cambridge (Lectures with Wittgenstein from 1942-1945)                           |
+| 29 April    |      1943 |    54 | Laboratory Assistant at Newcastle (until February 1944)                                                 | 24 |                                                                                                                                                         |
+|             |      1944 |    55 | Returns to Cambridge                                                                                    | 25 | Lectures with Wittgenstein "extract phenomenalism nerve"                                                                                                |
+|             |      1945 |    56 |                                                                                                         | 26 | Finished Fellowship at Newnham                                                                                                                          |
+| 6 August    |      1945 |    56 |                                                                                                         | 26 | Hiroshima Bombing                                                                                                                                       |
+| 2 September |      1945 |    56 | WWII Ends                                                                                               | 26 |                                                                                                                                                         |
+|             |      1946 |    57 |                                                                                                         | 27 | Awarded Research fellowship at Somerville College, Oxford                                                                                               |
+|             |      1947 |    58 | Resigns at Cambridge and travels to Ireland to concentrate on writing                                   | 28 | Continued traveling to Cambridge once a week to attend tutorials with Wittgenstein                                                                      |
+|             |      1948 |    59 |                                                                                                         | 29 | Presented a paper at a meeting of Oxford's Socratic Club in which she disputed C. S. Lewis's argument that naturalism was self-refuting                 |
+| April       |      1949 |    60 | Travels to Ithaca, NY                                                                                   | 30 |                                                                                                                                                         |
+|             |      1949 |    60 | On his return to London is diagnosed with inoperable prostate cancer                                    | 30 |                                                                                                                                                         |
+| 11 February |      1950 |    61 | Sister Hermine dies                                                                                     | 31 |                                                                                                                                                         |
+| 25 April    |      1950 |    61 | Stays at Anscombe's house in Oxford                                                                     |    |                                                                                                                                                         |
+| August      |      1950 |    61 | After staying with several friends he settles at "Stoery's End" with the Bevans                         | 31 |                                                                                                                                                         |
+|             |      1951 |    62 |                                                                                                         | 32 | Awarded Lecturship at Sommerville                                                                                                                       |
+| 29 April    |      1951 |    62 | Died in Cambridge                                                                                       | 32 | Travelled to Cambridge to visit Wittgenstein in his deathbed                                                                                            |
+|             |      1953 |       | Posthumous publication of Philosophical Investigations                                                  | 34 |                                                                                                                                                         |
+|             |      1956 |       |                                                                                                         | 37 | Protested against Truman's Honorary Degree at Oxford.                                                                                                   |
+|             |      1957 |       |                                                                                                         | 38 | Publishes Intention                                                                                                                                     |
+|             |      1959 |       |                                                                                                         | 40 | Publishes An Introduction to Wittgenstein's Tractatus                                                                                                   |
+|             |      1964 |       |                                                                                                         | 45 | Awarded tutorial fellowship at Sommerville                                                                                                              |
+|             |      1970 |       |                                                                                                         | 51 | Left Somerville College. Elected Professor of Philosophy at Cambridge                                                                                   |
+|             |      1979 |       |                                                                                                         | 60 | Elected a Foreign Honorary Member of the American Academy of Arts and Sciences in 1979                                                                  |
+|             |      1981 |       |                                                                                                         | 62 | Publishes Three volumes of collected papers: From Parmenides to Wittgenstein; Metaphysics and the Philosophy of Mind; and Ethics, Religion and Politics |
+|             |      1986 |       |                                                                                                         | 67 | Retirement from Cambridge                                                                                                                               |
+|             |      1996 |       |                                                                                                         | 77 | Car Crash                                                                                                                                               |
+| 5 January   |      2001 |       |                                                                                                         | 81 | Died in Cambridge, England                                                                                                                              |
+|             |           |       |                                                                                                         |    |                                                                                                                                                         |
+#+TBLFM: $2=1889+9::$3=1949-1889::$5=1919-1921
+
+** B. La pregunta sobre la Verdad
+Truth, Facts and Faith
+*** Necessity And Truth
+What is known must be true; hence it readily appears that only the necessarily true can be known. 
+
+What is known is necessarily true
+if something is not true then my certainty that it is the case is -necessarily- not knowledge; and from this nothing follows placing any restriction on the objects of knowledge.
+
+-Hence-
+
+Only the necessarily true is known
+
+St Thomas: Must not God's knowledge be only of what is necessarily true?
+Either there is no contingency about the future or God does not know all that is to come.
+
+What is known must be truth (de dicto necessity)
+is compatible with
+What is known is contingent (de res non-necessity)
+
+by the distintion of de re / de dicto
+
+It can be said thus:
+it is true that *what is known is true* (de dicto), it is false that *what is known is necessary* (de res).
+
+-back to the trap:-
+
+must not the fact of the knowledge of such contingency itself be equally contingent?
+must it not always be capable of turning out false, 
+that such-and-such a way for the future to turn out is known to be the way it will turn out?
+(¿será posible que siempre resulte no ser falso que el futuro sea como se conoce que será?)
+For, being contingent, this may not happen. 
+
+Many may want to accept this concerning human knowledge, and hold there is no escape from the trap.
+St Thomas is stopped from accepting it for divine knowledge, which *assumes the position of a pure sample in a thought experiment*
+
+In this case thus:
+*if it was known that p is unalterably true* 
+it does not follow that
+*necessarily p is true*
+
+/even when the *truth of p* follows with logical necessity from *it was known that p*./
+
+This can be applied to human knowledge.
+
+Knowledge is not restricted to what could not imaginably turn out mistaken: 
+given that there are not more specific grounds for refusing the title "knowledge" to my claim that something is true, 
+it is sufficient thet the claim does not turn out mistaken.
+It may be that I can conceive circumstances that would prove me wrong; that does not show that I may be wrong.
+
+"But the reasons for present knowledge must be present reasons, and if these do not prove the future contingent assertion, the alleged knowledge is not knowledge!" (The object of knowledge must be necessary)
+
+None of these show me not to know now:
+
+the thing known, even though it is known now, can be characterized in itself in a way which it cannot be characterized qua belonging to the actual context of knowing (materiality is attributed to a stone as it is in itself, but not as an object of thought)
+
+(I, c.14, a. 13 ad 3)
+El ser conocido por Dios es inseparable de la realidad; porque lo conocido por Dios no puede ser ignorado. Y este razonamiento sería aplicable si lo que llamo conocido implicara alguna disposición inherente al sujeto, Pero como va referido a acto del que conoce, a la misma realidad conocida, aunque sea conocida desde siempre, se le puede atribuir algo esencial y que no se le atribuye en cuanto conocida. Ejemplo: A una piedra se le atribuye la materialidad, que no se le atribuye en cuanto inteligible.
+
+qua object of God's knowledge the future is necessary, when in itself it is not. 
+
+St Thomas maintains the opinion held by tradition, limiting human knowledge to the necessary (history is considered by aristotle as necessary, so it can be known)
+But St Thomas goes further in his adherence to the Greek conception of knowledge; in hte field of speculative reason, he says everything derives from some first, indemonstrable principles which are known of themselves, and in at least one place we find him saying that everything in this sphere is "founded upon" the principle of contradiction.
+
+Are these views as archaic as they appear?
+
+they are similar to some doctrines recently teached. also it is a standard method to test any philosophical assertion by considering wether a conter-example to ti can be conceived without contradiction. Contradiction being generously conceived, as not every inconceivability can be displayed as "both thus and not thus".
+
+Thus what might seem archaic turns out in reflection to conform to very general philosophical practice: 
+philosophic understanding concerns what must be so
+if philosophic understanding is acheived by a succesful deliniation of concepts, then our great interest is to note what could not be supposed changed about a concept without quite changing what we are talking about in using it. What that is belongs to what St Thomas calls the ratio formalis obiecti.
+
+We are nowadays in some ways closer to the ancient and the medievals than, to say, Kant or Hegel. From the point that form this situation two of the most notorious would be the eclipse in the notion of "the given" and the departure from atomistic conceptions (logical atomism).
+
+Regarding the given: we start mediis in rebus. What we belive to exist we credit, what we do not belive to exist we discredit, not on grounds of any apriori conception of knowledge, language, meaning and truth, but because people around us do not. 
+
+So we accept common views, or remain in views not arrived at by philosophy while we work the concepts and it is noteworthy that the concepts of experiencing are only some among those that we want to understand. The logical features of concepts are such as to make us need tools of philosophic description not always unlike those used by a medieval philosopher. 
+
+The sorting put by Aquinas of the 'de re' and 'de dicto' necessities confounded in 'what is known is necessarily true' is something a present-day english philosopher can appreciate.
+
+
+*** Faith
+
+There was a "we used to believe…" which I think could have been said with some truth…
+There was in the preceding time a professed enthusiasm for rationality, perhaps inspired by the teaching of Vatican I against fideism, certainly carried along by the promotion of neo-tomist studies. 
+The word was that the Catholic Christian Faith was rational.
+Why would it essentially need the promptings of grace to follow the process of reasoning? It was as if we were assured there was a chain of proof.
+First God,  then the divinity of Jesus Christ. Then the establishment of a Church with  a Pope at the head of it and with a teaching commission from him. This body was readily identifiable. Hence you could demonstrate the truth of what the church taught.
+
+That faith and knowledge are not the same could be accounted for by the extrinsic character of the proofs of the de fide doctrines.
+
+The knowledge whch was contrasted with faith would be knowledge by proofs intrinsic to the subject matter, 
+not by proofs from someone's having said these things were true.
+
+For matters which were strictly 'of faith' intrinsic proofs were not possible, and that was why faith contrasted with knowledge.
+
+This is a picture of the more extravagant form of this teaching.
+
+A more sober variation:
+Related to the Church that our lord established;
+one wouldn't identify the church by its having the Pope, but the other way around. Allowing the believer to comitt to the Christian faith instead of the pope.
+
+A yet more sober variant:
+avoids trading on the cultural inheritance for which the name of Jesus was so holy that it was easy to go straight from belief in God to belief in Jesus as God's son. 
+In this variant one would be aware of the dependence of the New Testament in the Old, raising consciousness to the meaning of calling our Lord "Christ".
+
+These 'sober variants' had the disadvantage that it wasn't easy to see that what Jesus established was matched by the Catholic Church that we know. Learning and skill would be required to make th identification. 
+
+The so-called preambles of faith could not possibly have the sort of certainty that it had. And if less, then where was the vaunted rationality?
+
+A graver problem was the one about the faith of the simple. They don't have an inferior faith. Also those who studied didn't really knew those things. 
+Knowledge was there somehow, perhaps scattered, perhaps theorethically or abstractly available. In the belief that this was so, one was being rational in having faith.
+
+But this was problematic... and so adherence to faith was really a matter of hanging on, and both its being a gift and its voluntariness would at this point be stressed.
+
+There is a vacuum where the ideas about the faith as rational, these considerations, proofs, arguments and problems are now out of fashion.
+
+The passing away of these positions  is not to be regretted. They attached the character of 'rationality' entirely to what were called the preambles to faith itself.  
+
+Both the preambles and the passage from them to faith itself are an 'ideal' construction a fanciful construction dreamed up according to prejudices about what it is to be reasonable in holding a belief.
+
+*/The right designation for what are called the "preambles" of faith is not that but at least for prt of them, "presuppositions"/*
+
+We can use an example of human faith to explain this.
+
+You receive a letter by jones that tells you his wife has died. You now belief his wife has died because you believe him.
+
+This believing jones, that his wife has died, has a number of presuppositions:
+that your friend jones exists
+that this letter is from him
+that that really is what the letter tells you
+
+those three convictions are, logically, presuppositions that you have if your belief that Jones' wife has died is a case of you believing jones
+
+these are your presuppositions. you beliving jones doesn't entail those three things, but that you believe them.
+
+In modern use faith can be understood as religion or religious belief.
+
+In the tradition where this concept has it's origin "faith" is short for "divine faith" and means beliving God. 
+
+So used, at least amongst Chrisitan thinkers, faith could not be anything but true.
+
+Faith was beliving God, as Abraham believed God, and no false belief could be part of it.
+
+If we regard faith as someone who doesn't have it we could call it, as Russell: certainty without proof or Ambrose Pierce: "the attitude of mind of one who believes without evidence one who tells without knowledge things without parallel".
+
+If faith is beliving God, if the pressupositions are true, it is, then, beliving on the best grounds possible someone who speaks with erfect knowledge. But is there even the possibility of believing God? this is hard to grasp.
+
+'faith comes by hearing'. Those who have faith learn what they believe by faith, learn it from other people. Being so, a man with no knowledge of evidence may have faith when he is taught by a man ignorant of everything except that these are the things that faith believes, and according to faith he believes God and also according to faith this simple man and his teaher have a belief in no way inferior to that of a very learned and clever person who has faith.
+
+It is clear that believing somebody* (*see what is to belive someone*) is in the middle of our target.
+
+If we investigate believing jones:
+
+you can't call it believing jones just if jones says something or other and you do believe that very thing he says. Even if it's someone's saying something that causes you to believe it, that doesn't have to be believing him. In this case you judge the matter for yourself. 
+
+you can't call it believing jones even if his saying is your evidence that it is true. you can suppose a case in which you are sure that he will lie to you and be mistaken. The opposite of what he says will be true and he will tell you the opposite of what he thinks, so what he tells you will be true and you will believe it because he says it, but you won't be believing him.
+
+you can't call it believing jones when you believe what he says assuming that he says what he believes. You could believe that what he believes will be true, but by accident, as it were. Someone may believe what he gathers from all sources, be them lying or telling the truth, and you know which are the liars and which are the truth-telling. He then tells you something you know came from a truth-telling source, and you would believe what he says as true because you know where he got it. In this case you wouldn't be believing him. 
+
+when you believe your history teacher it is enough that you believe what he says because he says it and you don't think he's lying and you think what he believes about that will be true. that's enough for you to be believing him.
+
+The topic of believing someone is difficult. If you could put it that you believe that the person knows what he is telling you, then these difficulties don't arise. 
+
+
+
+
+Another question about what is to believe someone related to presuppositions is
+what are we to say about believing jones going with your presuppositions about his existence, having written that letter and having said what you gathered from it but not in fact presupposing those things?
+
+can we believe someone who doesn't exist?
+
+if we say that the deluded victim does not believe someone who doesn't exist you will deprive yourself of the clearest way of describing this situation: 'he believed the non-existent person". And also what would be the proper expression if we don't use believe in this case?
+
+we have to settle for saying that the ancient was believing in apollo - who doesn't exist. 
+
+the same point holds for the case where the person we believe does exist, but you have misunderstood what he wrote, or mistakenly supposed that this letter is from him. 
+
+Let us think some more about the presuppositions.
+Presuppositions of faith are not themselves part of the content of what in a narrow sense is believed by faith,
+we can describe this in the following sense:
+
+1. Suppose it occurs that you doubt a letter is from someone
+
+in the letter it says is from jones
+it says his wife has died
+
+i believe his wife has died because he says so.
+
+if i decide to believe the letter is from jones even if there is reason to doubt it is from him it isn't because he says so, his credibility is not my warrant for believing that the letter is from him.
+
+in this regard i believe the sentence that states that it is from jones, but it is not because i believe him
+
+
+2. suppose a prisoner in a dungeon,
+
+a letter arrives proposing to help him in various needs. 
+
+the letter says is from an unknown friend: N. 
+
+it invites him to communicate his needs by certain channels
+
+the prisoner doesn't know if it is genuine but he tries the communications and gets some of the things he asks for
+
+he gets more letters ostensibly from the same source, they sometimes contain information
+
+the prisoner now believes that N exists and is the author of the letters
+
+the information received from the letters is coming form N. and so his belief in that information is a case of believing N.
+
+his belief that N exists and that the letters come from N is not a case of believing something on N's say-so
+
+*the beliefs which are cases of believing N and the belief that N exists are logically different*
+
+*this brings out the difference between presuppositions of believing N and believing such-and-such as coming form N*
+
+*pre-suppositions don't have to be temporarily prior to beliefs*
+
+
+believing N pertains the following pre-suppositions for you:
+that N exists
+that this letter is from N
+that that really is what the letter tells you
+
+there is a difference between believing pre-suppositions and believing information on N's say-so
+
+you can believe the pre-suppositions for reasons other than believing N 
+
+Suarez said that in every revelation God reveals that he reveals.
+
+in every bit of information N is also claiming that he is giving the prisoner information
+
+
+it can be made clear what it is for someone to believe someone in the cases considered (human faith)
+
+*And now we come to see the difficulty*
+
+*what can it mean to 'believe God'?*
+
+*could a man inform me on the authority of his learning, that the evidence is that God has spoken?*
+
+No. a learned clever man can only be a causa removens prohibens (removing some obstacle that hinders the action of the cause)
+
+there are gross obstacles in the received opinion of my time and in its characteristic ways of thinking, someone learned and clever may be able to dissolve these
+
+so should w picture it like this?:
+a man hears a voice saying something to him and he believes it is God speaking, and so he believes what it says - so he believes God?
+
+what does he believe when he 'believes it is God speaking'? that God has a voice-box?
+
+in relation to the belief that God is speaking, it doesn't matter how the voice is produced. 
+
+the rabbinical idea of the Bath Qol (daughter of the voice') that describes 
+something heard that leaps out at you, 'speaks to your condition', as a voice that strikes you to the heart and upon which you can act in obedience
+
+Even when the words were uttered in a conversation that had nothing to do with him he beliefs that God has spoken to him in that voice.
+
+We find an example of this in what happened to St. Agustine hearing the child's cry 'Tolle, lege'
+
+*The critical differentiating point is this.*
+
+in all those cases it's clear what the one who believes X *means* by X speaking, even when we judge that X doesn't exist.
+
+when we say: they believe this because they believe apollo, by apollo speaking they mean believing in the oracle.
+
+*But it is not clear what it can mean for God to speak.*
+
+when speaking about God i don't refer to him as an object of worship for worship, being the honour intended to be paid to a deity, may be offered to what is not divine, to a stone or another spirit or a man or to what doesn't exist at all.
+
+We regard God not as the god of such-and-such a worship as if using the expression 'God' as a proper name, but as a definite description (in the technical sense), as equivalent to 'the one and only true god'.
+
+Even an atheist can see this, he should be able to recognize the identity of 'God' with 'the one and only god'.
+
+Because of this equivalence (God = the one and only god) God cannot be formally identified as the god of such-and-such a cult or people. To say that God is the god of Israel is to say that what Israel worshipped as god was 'the one and only god' and that could significantly be denied and that denial can be seen to be true even by one who believed that the description 'the one and only god' is vacuous.
+
+So:
+
+*the supposition that someone has faith is*
+*the supposition that he believes that something*
+*a voice or something he has been taught*
+*comes as a word from God (the one and only god)*
+*Faith is the belief he accords that word*
+
+this much can be understood by an unbeliever
+whether his attitude in face of this phenomenon
+is potentially
+one of reverence or only hostile
+
+*the Christian adds that such a belief is sometimes the truth, and that consequent belief is only then what he means by faith*
+christian faith is the consequent belief that consists in regarding a certain word as truly coming form God.
+
+
+
+*** What is to believe someone
+
+Believing someone seems to be, not only neglected, but an unknown topic in philosophy
+
+It is of great importance in philosophy and in life, and it is itself problematic enough to need philosophical investigation
+
+In the past the term faith has been used with just this meaning (belief with a personal object believe X)
+
+faith was distinguished as human and divine, determined by the personal object of belief.
+
+divine faith was believing God
+
+nowadays it is used to mean much the same thing as 'religion' or 'religious belief'. 
+
+Thus belief in God would now generally be called 'faith' (belief in God at all, not belief that God will help one, for example)
+
+this has had a bad effect on thought about religion; the astounding idea that there should be such a thing as believing God has been lost sight of.
+
+'Abraham believed God and that counted as his justification'
+
+The story has remained well known even to ignorant intellectuals because of the thoughts of Kierkergaard as Johannes de Silentio in Fear and Trembling
+
+in it he cunningly evades the first point of the story, that Abraham believed God, rather we are deluged with rubbish about believing in as opposed to believing that (believing in is good, believing that is bad)
+
+Belief with a personal object is a kind of 'believe that'
+
+believe X = believing X that p
+
+I'm not interested in any sense of believing in X, except in which it means believing that X exists
+
+the belief that God exists could not be 'divine faith': it would be bizarre to say that one believed N that N existed.
+
+imagine receiving a letter
+in it an unheard of relation writes to appraise you of his existence and circumstances
+
+to believe that he exists is to accept the letter for what it purports to be and hence that the writer is who he says he is. then you may believe more things about him
+
+'He says he has a sheep farm in New South Wales, and I suppose he knows and doesn't mean to deceive me' this can be believed in this manner
+
+'He says he exists, and I suppose he knows and doesn't mean to deceive me' this cannot be believed in this manner
+
+this topic is important not only for theology and philosophy of religion, it is also of huge importance for the theory of knowledge.
+
+*The greater part of our knowledge of reality rests upon the belief that we repose in things we have been taught and told.* 
+
+*Hume thought that the idea of cause-and-effect was the bridge enabling us to reach any idea of a world beyond personal experience*
+
+He wanted to subsume belief in testimony under belief in causes and effects, or at least class them together as examples of the same form of belief.
+
+*We believe in a cause, he thought, because we perceive the effect and cause have been found always to go together. Similarly we believe in the truth of testimony because we perceive the testimony and we have found testimony and truth to go together*
+
+the view needs only to be stated to be promptly rejected.
+
+*WE MUST ACKNOWLEDGE TESTIMONY AS GIVING US OUR LARGER WORLD IN NO SMALLER DEGREE, OR EVEN IN A GREATER DEGREE, THAN THE RELATION OF CAUSE AND EFFECT; AND BELIEVING IT IS QUITE DISSIMILAR IN STRUCTURE FROM BELIEF IN CAUSES AND EFFECTS.* *(See Hume and Julius Caesar)
+
+belief in testimony is quite disimilar to belief in the relation between cause and effect
+what testimony gives us is not a detachable part (like the thick fringe of fat on a chunk of steak, it is more like the flecks and streaks distributed through it)
+
+examples of this kind of knowledge can be multiplied idefinitely
+
+what you are taught was your tool in acquiring new knowledge
+a complicated network of information received by testimony goes into the world we know
+
+Our reliance on testimony for knowledge is the preamble for the following investigation
+
+believe with a personal object cannot be reflexive.
+
+to believe another isn't simply to believe what he says, or believe that what he says is true.
+
+it can happen that what someone's saying brings about is that one forms one's own judgement that the thing is true. 
+
+believing involves relying on x for it that p
+
+still, believing someone is not just believing something on the strength of his saying that it is so
+
+to believe N one must believe that N himself believes what he is saying
+---------------
+euthydemus example:
+
+Logic:
+
+A: If that tree falls down, it'll block the road for a long time
+B: If there's a tree clearing machine working that won't be so
+C: If the tree doesn't fall down there will be one
+
+D: Then the tree will fall and the road will be blocked
+
+No problem, the conclusion can be logically derived from the premisses
+
+Belief:
+
+A: If that tree falls down, it'll block the road for a long time
+B: If there's a tree clearing machine working that won't be so (casts doubt on A's remark)
+C: If the tree doesn't fall down there will be one
+
+D: I believe you all, so I infer the tree will fall and the road will be blocked
+
+Problem, D cannot be telling the truth when he says 'I beleive you all'. He cannot be believing A at the stage of that conversation, given as A hasn't given a sign of purpoting to believe what he said.
+
+*to believe N one must believe that N himself believes what he is saying*
+*to know what N believes one needs a sign that shows what N purports to believe*
+------------
+
+let's consider cases of communication without the speaker
+
+in our childhood we are thaught to consult books like oracles, without much attention to the idea of an author
+we may receive a book from a teacher who tells us something about the author, a perceived person gives us a communication about a communicator who is unperceived
+after a time we come to receive communications in books without anyone introducing them to us, and we are apt to believe what the book says about itself
+
+to believe a person is not necessarily to treat him as an *original authority*
+an original authority may be someone who is a witness, as opposed to someone who just transmits information, but whose account is heavily affected by information he has received
+
+if the witness says 'I ate an apple this morning', even when he was thaught the concept of 'apple' we don't have to say this is an example of reliance on information received
+
+if the witness says 'I saw a picture by Leonardo da Vinci' then this is an example of giving an account that relies on information received
+
+*a speaker may be a total original authority for the fact that he gives* (I ate an apple)
+*a speaker may be an original authority, but not a total one for the fact that he gives* (I saw a picture by Leonardo da Vinci)
+*a speaker may not be an original authority at all* (Leonardo made drawings of a flying machine)
+
+even when a speaker is in now way an original authority that doesn't mean that there is not such thing as believing him
+
+much information is aquired from teachers who are not original authorities, and their pupils acquire this information by believing them, as opposed th merely believing that what they say is true.
+
+in this regard a teacher is not the same as an interpreter
+
+an interpreter is not wrong if what he relays is untrue, so far as he doesn't falsely represent what his principal said (believe the interpreter that he has reproduced what his principal said)
+a teacher is wrong if what he says is untrue (the pupils believe him that x is true)
+
+so *there are further beliefs that are involved in believing someone*
+
+it must be that case that you believe that something is a communivation from someone
+you have to believe that by it he means to be telling you this
+the communication is addressed to someone (even if only 'to whom it may concern')
+
+various questions regarding the belief that the communication is addressed to someone:
+
+1) if someone gets hold of a communication not addressed to him at all, only in a reduced sense can he be said to believe the writer
+2) if someone gets a coomunication but the author is not the ostensible communicator, only in a very roundabout case can he be said the believe the author (there would have to be judgement and speculation as mediation to learn of the author), in the case of the ostensible communicator: in the case he doesn't exist, the decision to speak of 'believing him' is a decision to give the verb an intentional use (like 'to look for') all we want is that we should know what is called the communicator's telling him something; in the case the ostensible communicator exists there would be an oscillation in the notion of believing or disbelieving a person and a third party may be less likely to use the verb 'believe' intentionally.
+3) if someone does not believe that the communication is from NN. NN may call it arefusal to believe him.
+4) if X is to believe NN, something must be being taken as a communication, and since X must be believing something 'on NN's say-so', there is also involved the belief that this communication says such-and-such
+
+We can also regard the inmediate producer of what is taken as a communication of NN. (a messenger or interpreter)
+
+the recipient can fail to belive (as opposed to dibelieve) NN out of a variety of attitudes. he may not notice the communication at all, may notice it but not take it as addresed to him, or even if taken as addressed to him he may make the wrong thing of it, and he may make the right thing of it but not believe that it comes from NN. 
+
+Only when we have excluded or the cases (or assumed their exclusion) do we come to the situation in which the question simply is: Does X believe NN or not?
+
+*There are many presuppositions to the question Does X believe NN or not? as we ordinarily understand it.*
+
+*THE OBJECT OF BELIEF IS NOT ONLY THE PROPOSITION BUT ALSO THE PERSON*
+
+in this situation where the object is not only a propposition, but also a person, there is not much importance in the difference between disbelief and suspension of judgement
+it may be an insult and injury not to be believed and failure of some of the presuppositions allows scope for reproach
+
+if A has falsely believed that something was a message from NN and has disbelieved it NN could reproach: 'You showed yourself very ready to credit me with saying something that could not be worthy of belief'
+teachers can justly get irritated at not being believed, except when what was disbelieved turns out to be false, then his complaint collapses
+
+*when all the pressupositions are in*
+*A is the in the situation where the question arises of believing or doubting (suspending judgement in face of) NN*
+*unconfused by all the questions that arise because of the presuppositions*
+*we can see that believing someone* (in the particular case)
+*is trusting him for the truth* (in the particular case)
+
+a final problem:
+
+I can believe that someone will tell me what he thinks is false and also that he will be clean wrong with what he thinks (liar but wrong)
+I can believe that someono will tell me what he thinks is right and also that he will be right with what he thinks  (truthful and right)
+
+in both cases I believe p because NN has told me that p.
+
+what is the difference between the two?
+
+you are only willing to call it believing the man when you believe he is right and truthful in intent
+
+it appears to me there is more to be said than that about the priority of rightness and truthfulness in this matter, but i'm not clear what it is (*See Truth)
+
+
+
+*** Making True
+
+
+*** Hume and Julius Caesar
+Trearise IV.III.I
+Topic: belief in matters falling outside our own experience and memory
+
+For Hume the relation of cause and effect is the one bridge by which to reach belief in matters beyond our present impressions or memories
+
+The historical example is an inference of the original cause, the killing of Caesar, from its remote effect, the present perception of certain characters or letters.
+
+The starting-point is the present perception, and from it we can run through a chain of effects of causes which are effects of causes to the original cause: the killing of Caesar
+
+the end of the chain is thus not our perception and so it doesn't serve as an impression of our memory or senses beyond which there is no room for doubt or enquiry as to stop us going infinitely
+
+"tis impossible for us to carry on our inference in infinitum" means: *the justification of the grounds of our inferences cannot go on in infinitum* *we must come to belief which we do not base on grounds*
+
+What Hume is arguing is that we not only have a perception starting point but that we must reach a starting point in the justification of these inferences
+
+for him tracing back (from effects to causes) is taken to be symmetrical to inferences from causes to effects
+
+it must be purely hypothetical inference
+
+we reason (purely hypothetically) if Caesar was killed, then there were witnesses , if there were witnesses then there was testimonies, then there were records made from them, if there were records made then there are characters and letters to be seen which say that Caesar was Killed
+
+Four parts of Hume's thesis:
+
+1. a chain of reasons for a belief must terminate in something that is believed without being founded on anything else
+2. the ultimate belief must be of a quite different character from derived beliefs: it must be perceptual belief, belief in something perceived, or presently remembered
+3. the immediate justification for a belief p, if the belief is not a perception, will be another belief q, which follows from, just as much as it implies, p.
+4. we believe by inference through the links in a chain of record
+implicit corollary: when we believe in historical information belonging to the remote past, we believe that there has been a chain of record
+
+*** Making True
+
+** C. Fe, verdad y testimonio
+
+** D. La tradición sobre el valor epistemológico del testimonio
+
+** E. El testimonio en el lenguaje epistémico y creyente
+Perception and intentional object.
+What is to see.
+There is some grain of truth in phenomenalism
+
+** F. Sentido, sinsentido y misterio
