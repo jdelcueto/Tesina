@@ -3,25 +3,27 @@
 %Paper Margins and Dimensions
 \usepackage[a4paper,inner=2.5cm, outer=6.5cm, top=6cm, bottom=6cm, marginparwidth=2.5cm, marginparsep=2cm]{geometry}
 
-%Font
-%\usepackage{fontspec}
+%Font: Arial
 
+%\usepackage{fontspec,xltxtra,xunicode} 
+%\defaultfontfeatures{Mapping=tex-text} 
+
+%\setmainfont[
+%  Ligatures=TeX,
+%  BoldFont=Arial Unicode MS,
+%  BoldFeatures={FakeBold=3},
+%  ItalicFont=Arial Unicode MS,
+%  BoldItalicFont=Arial Unicode MS,
+%  BoldItalicFeatures={FakeBold=3},
+%]{Arial Unicode MS}
+
+%\setmainfont[AutoFakeBold=2,AutoFakeSlant=0.25,Mapping=tex-text,Scale=1.0]{Arial
+%    Unicode MS}
+
+%Font: Helvet
 \usepackage{fontspec,xltxtra,xunicode} 
-\defaultfontfeatures{Mapping=tex-text} 
-
-\setmainfont[
-  Ligatures=TeX,
-  BoldFont=Arial Unicode MS,
-  BoldFeatures={FakeBold=3},
-  ItalicFont=Arial Unicode MS,
-  BoldItalicFont=Arial Unicode MS,
-  BoldItalicFeatures={FakeBold=3},
-]{Arial Unicode MS}
-
-\setmainfont[AutoFakeBold=2,AutoFakeSlant=0.25,Mapping=tex-text,Scale=1.0]{Arial Unicode MS}
-
-%\setmainfont[AutoFakeBold=3,AutoFakeSlant=0.25]{Arial Unicode MS}
-%\setmainfont{Arial Unicode MS}
+\usepackage[scaled]{helvet}
+\renewcommand*{\familydefault}{\sfdefault}
 
 %Language
 \usepackage[spanish]{babel}
