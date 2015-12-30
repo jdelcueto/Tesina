@@ -200,3 +200,8 @@ pythontex-files-*/
 # endfloat
 *.ttt
 *.fff
+
+#Ignore pdfs in main and tex
+./.pdf
+tex/.pdf
+
