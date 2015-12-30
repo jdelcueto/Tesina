@@ -1,37 +1,31 @@
 %!TEX TS-program = xelatex
 %!TEX encoding = UTF-8 Unicode
 
-
+%Base Document Class
 \documentclass[10pt,twoside]{report}
 
+%PACKAGES
+%subfiles to include the chapters
 \usepackage{subfiles}
-
+%csquotes for advanced facilities for inline and display quotations
 \usepackage{csquotes}
-
+%hyperref to handle cross-referencing commands
 \usepackage{hyperref}
 
+%STYLE
+%Load ./style.sty 
+\usepackage{style}
+
+%BIBLIOGRAPHY
+%Biblatex using biber engine to manage the bibliography
 \usepackage[
 backend=biber,
 style=verbose,
 citestyle=verbose 
 ]{biblatex}
-
+%The bibliography database
 \addbibresource{./bibliodb/thesis_biblio.bib}
 
-%\usepackage{graphicx}
-%\usepackage{ifpdf}
-%\ifpdf
-   % put here packages only for the PDF:
-%   \DeclareGraphicsExtensions{.pdf,.png,.jpg,.mps}
-%   \usepackage{hyperref} 
-%\else
-   % put here packages only for the DVI:
-%\fi
- 
-% put all the other packages here:
- 
-\usepackage{style}
- 
 \begin{document}
  
 %Title Page
@@ -58,7 +52,6 @@ citestyle=verbose
 %Bibliography
 %\clearpage
 %\addcontentsline{toc}{chapter}{Bibliography}
-
 \subfile{./tex/bibliography}
  
 \end{document}
