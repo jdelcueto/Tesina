@@ -1,0 +1,86 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+
+%Base Document Class
+\documentclass[10pt,twoside,draft]{report}
+
+%PACKAGES
+%subfiles to include the chapters
+\usepackage{subfiles}
+%csquotes for advanced facilities for inline and display quotations
+\usepackage{csquotes}
+%hyperref to handle cross-referencing commands
+\usepackage{hyperref}
+%ifdraft for notes and todos activation
+\usepackage{ifdraft}
+%todonotes for recollection
+\usepackage[obeyDraft,textsize=small]{todonotes}
+
+%STYLE
+%Load ./style.sty 
+\usepackage{style}
+
+%BIBLIOGRAPHY
+\input{./bibliography/bibsettings.tex}
+%Biblatex using biber engine to manage the bibliography
+%\usepackage[
+%backend=biber,
+%style=verbose,
+%citestyle=verbose 
+%]{biblatex}
+%The bibliography database
+\addbibresource{./bibliography/bibliodb/thesis_biblio.bib}
+
+\begin{document}
+ 
+%Title Page
+\ifdraft{
+    \begin{center}
+        \large{
+        La Categoría del Testimonio en el pensamiento de Elizabeth Anscombe.\\
+        Un estudio en perspectiva teológico-fundamental.\\
+        \emph{-//DRAFT//-}}
+    \end{center}
+}
+{
+    \input{./title.tex}
+}
+
+%Table of Contents
+\ifdraft{}{
+    \tableofcontents
+} 
+%Intro 
+\ifdraft{}{
+    \subfile{./intro}
+}
+%Capítulo 1:
+\ifdraft{}{
+    \subfile{./ch1}
+}
+%Capítulo 2:
+\ifdraft{}{
+    \subfile{./ch2}
+}
+%Capítulo 3:
+%\ifdraft{}{
+    \subfile{./ch3}
+%}
+
+%Capítulo 4:
+\ifdraft{}{
+    \subfile{./ch4}
+}
+
+%Bibliography
+%\clearpage
+%\addcontentsline{toc}{chapter}{Bibliography}
+\subfile{./bibliography}
+ 
+\end{document}
+
+%%% Local Variables: 
+%%% coding: utf-8
+%%% mode: latex
+%%% TeX-engine: xetex
+%%% End: 
