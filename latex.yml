@@ -1,2 +1,2 @@
-root_file: main.tex
+root_file: ./tex/main.tex
 compiler: xelatex
