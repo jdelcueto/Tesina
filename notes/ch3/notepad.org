@@ -1,4 +1,4 @@
-# -*- truncate-lines: 1; word-wrap: 1; -*-
+# -*- word-wrap: 1; -*-
 #+LANGUAGE:es
 
 * Unsorted
