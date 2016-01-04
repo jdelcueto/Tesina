@@ -4,7 +4,7 @@
 ** La Categoría del Testimonio en el Contexto actual de la Teología
 * El Valor Cognoscitivo de la Fe y el Problema del Lenguaje Religioso en la Filosofía Analítica
 * La Categoría del Testimonio en el Pensamiento de Elizabeth Anscombe
-** Sección 1: Anscombe y Wittgenstein [[file:~/Thesis/tex/ch3/anscombe_and_wittgenstein.tex][{>}]]
+** Sección 1: Anscombe y Wittgenstein [[file:~/Tesina/tex/ch3/anscombe_and_wittgenstein.tex][{>}]]
 ** Sección 2: La pregunta sobre la Verdad  [[file:~/Thesis/tex/ch3/truth.tex][{>}]]
 ** Fe  [[file:~/Thesis/tex/ch3/faith.tex][{>}]]
 ** To Believe  [[file:~/Thesis/tex/ch3/to_believe.tex][{>}]]
