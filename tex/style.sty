@@ -1,12 +1,26 @@
 \ProvidesPackage{style}
+%____________________________________________________________________________________________
+%Debes recordar, que todo trabajo científico debe incorporar:
+    %Cubierta
+    %Hoja en blanco
+    %Portada interior, la cual debe llevar la misma información que en la cubierta del libro.
+    %Índice General (con paginación)
+    %Siglas y abreviaturas.
+    %Fuentes utilizadas.
+    %Bibliografía (puede ponerse en esta posición o detrás del texto)
+    %Texto:
+        %o Introducción
+        %o Cuerpo de la tesina/tesis
+        %o Conclusión
+    %Índice de nombres / materias / citas bíblicas / particularizado (opcional)
+%--------------------------------------------------------------------------------------------
 
 %PAPER-------------------------------
 %[Tamaño de papel]
-%La tesina/tesis ha de estar escrita en un formato de papel DIN-A4 (21 cm x 29,7 cm)
+%La tesina/tesis ha de estar escrita en un formato de papel DIN-A4 (21 cm x 29,7cm)
 %-------------------------------------------------------------------------------
 %Margins and Dimensions
 \usepackage[a4paper,inner=2.5cm, outer=6.5cm, top=6cm, bottom=6cm, marginparwidth=2.5cm, marginparsep=2cm]{geometry}
-
 
 %LANGUAGE-----------------------------
 \usepackage[main=spanish,english]{babel}
@@ -14,6 +28,9 @@
 %Bibliography Language
 %\usepackage[fixlanguage]{babelbib}
 %\selectbiblanguage{spanish}
+
+%IMAGES------------------------------
+\usepackage{graphicx}
 
 %FONT---------------------------------
 
@@ -54,17 +71,14 @@
 %\tolerance=2000 
 %\emergencystretch=10pt
 
-%Fancy Headers
-\usepackage{fancyhdr}
-\setlength{\headheight}{36pt}
-\pagestyle{fancy}
-
 %Margin notes
 \usepackage{marginnote}
 
-\setcounter{secnumdepth}{0}
-
 %TITLES-----------------------
+%Numbering Depth:
+\setcounter{secnumdepth}{5}
+
+%Custom Titles
 \usepackage[explicit]{titlesec}
 
 %Los títulos de inicio del capítulo/sección centrados, en mayúsculas, y a 12pt
@@ -131,7 +145,6 @@
 %----------------------------------------------------------------------
 
 
-
 %CITING INSIDE THE BODY-------------
 %Las citas literales de una obra, citadas en el cuerpo del texto, irán
 %entrecomilladas
@@ -151,4 +164,30 @@
 \end{adjustwidth}
 }
 %-----------------------------------------------------------------------------
+
+%Fancy Headers
+\usepackage{fancyhdr}
+\setlength{\headheight}{36pt}
+%\pagestyle{fancy}
+%\fancyhead[LO,LE]{\fontsize{10}{12}\selectfont\leftmark} 
+%\fancyhead[RO,RE]{\fontsize{10}{12}\selectfont\rightmark}
+
+\fancypagestyle{fancythesis}{%
+    \fancyhf{}%
+    % Note the ## here. It's required because \fancypagestyle is making a macro (\ps@fancybook).
+    % If we just wrote #1, TeX would think that it's the argument to \ps@fancybook, but
+    % \ps@fancybook doesn't take any arguments, so TeX would complain with an error message.
+    % You are not expected to understand this.
+    \renewcommand*{\sectionmark}[1]{ \markright{\thesection\ ##1} }%
+    \renewcommand*{\chaptermark}[1]{ \markboth{\chaptername\ \thechapter: ##1}{} }%
+    % Increase the length of the header such that the folios 
+    % (typography jargon for page numbers) move into the margin
+    \fancyhfoffset[LE]{6mm}% slightly less than 0.25in
+    \fancyhfoffset[RO]{6mm}%
+    % Put some space and a vertical bar between the folio and the rest of the header
+    \fancyhead[LE]{\thepage\hskip3mm\vrule\hskip3mm\leftmark}%
+    \fancyhead[RO]{\rightmark\hskip3mm\vrule\hskip3mm\thepage}%
+}
+
+\pagestyle{fancythesis}
 

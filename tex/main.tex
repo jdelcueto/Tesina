@@ -3,7 +3,20 @@
 %!TEX encoding = UTF-8 Unicode
 
 %Base Document Class
-\documentclass[10pt,twoside,draft]{report}
+\documentclass[10pt,twoside,
+%draft
+final
+]{report}
+
+%Document Info
+\usepackage{portadasandamaso}
+\title{La Categoría del Testimonio en el pensamiento de Elizabeth
+    Anscombe.\space Valoración y crítica en perspectiva teológico-fundamental.}  
+\author{Joel E. Del Cueto}
+\supervisor{Prof. Javier Prades}
+\project{Tesina de Licenciatura}
+\faculty{Facultad de Teología}
+\date{2016}
 
 %PACKAGES
 %subfiles to include the chapters
@@ -42,12 +55,13 @@
     \begin{center}
         \large{
         La Categoría del Testimonio en el pensamiento de Elizabeth Anscombe.\\
-        Un estudio en perspectiva teológico-fundamental.\\
+        Valoración y crítica en perspectiva teológico-fundamental.\\
         \emph{--//DRAFT//--}}
     \end{center}
 }
 {
-    \input{./title.tex}
+%    \input{./title.tex}
+\maketitle
 }
 
 %Table of Contents
