@@ -20,7 +20,7 @@
 %La tesina/tesis ha de estar escrita en un formato de papel DIN-A4 (21 cm x 29,7cm)
 %-------------------------------------------------------------------------------
 %Margins and Dimensions
-\usepackage[a4paper,inner=2.5cm, outer=6.5cm, top=6cm, bottom=6cm, marginparwidth=2.5cm, marginparsep=2cm]{geometry}
+\usepackage[a4paper,inner=2.5cm, outer=6.5cm, top=6cm, bottom=6cm, marginparwidth=5cm, marginparsep=1cm]{geometry}
 
 %LANGUAGE-----------------------------
 \usepackage[main=spanish,english]{babel}
@@ -70,6 +70,19 @@
 %\pretolerance=10000
 %\tolerance=2000 
 %\emergencystretch=10pt
+
+%Hyphenation Options
+\hyphenation{WITTGENSTEIN ANSCOMBE TRAC-TA-TUS}
+\tolerance=100
+\hyphenpenalty=100
+%Add Blank Pages
+\usepackage{afterpage}
+
+\newcommand\blankpage{%
+    \null
+    \thispagestyle{empty}%
+    \addtocounter{page}{-1}%
+    \newpage}
 
 %Margin notes
 \usepackage{marginnote}
@@ -165,6 +178,7 @@
 }
 %-----------------------------------------------------------------------------
 
+\ifdraft{}{
 %Fancy Headers
 \usepackage{fancyhdr}
 \setlength{\headheight}{36pt}
@@ -190,4 +204,4 @@
 }
 
 \pagestyle{fancythesis}
-
+}

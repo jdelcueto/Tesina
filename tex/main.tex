@@ -3,9 +3,10 @@
 %!TEX encoding = UTF-8 Unicode
 
 %Base Document Class
-\documentclass[10pt,twoside,
-%draft
-final
+\documentclass[
+10pt,twoside,
+draft
+%final
 ]{report}
 
 %Document Info
@@ -46,9 +47,10 @@ final
 \addbibresource{./bibliography/bibliodb/main.bib}
 
 \begin{document}
+
 %Limit hyphenation to long words
-\lefthyphenmin=4
-\righthyphenmin=4
+%\lefthyphenmin=4
+%\righthyphenmin=4
 
 %Title Page
 \ifdraft{
@@ -61,6 +63,8 @@ final
 }
 {
 %    \input{./title.tex}
+\blankpage
+\afterpage{\blankpage}
 \maketitle
 }
 
