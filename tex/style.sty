@@ -20,7 +20,8 @@
 %La tesina/tesis ha de estar escrita en un formato de papel DIN-A4 (21 cm x 29,7cm)
 %-------------------------------------------------------------------------------
 %Margins and Dimensions
-\usepackage[a4paper,inner=2.5cm, outer=6.5cm, top=6cm, bottom=6cm, marginparwidth=5cm, marginparsep=1cm]{geometry}
+\usepackage[a4paper,inner=2.5cm, outer=6.5cm, top=6cm, bottom=6cm,
+marginparwidth=5cm, marginparsep=1cm]{geometry}
 
 %LANGUAGE-----------------------------
 \usepackage[main=spanish,english]{babel}
@@ -59,8 +60,14 @@
 
 %PARAGRAPH----------------------------
 %Line space
-\usepackage{leading}
-\leading{17.07165354402pt}
+%\usepackage{leading}
+%\leading{17.07165354402pt}
+%\usepackage{leading}
+%\leading{0.60cm}
+
+\usepackage{setspace}
+\setstretch{1.7}
+
 
 %Paragraphs
 \setlength{\parindent}{1.25cm}
@@ -93,7 +100,7 @@
 %TITLES-----------------------
 %Numbering Depth:
 \setcounter{secnumdepth}{5}
-
+\ifdraft{}{\renewcommand\thesubsubsection{\alph{subsubsection})}}
 %Custom Titles
 \usepackage[explicit]{titlesec}
 
