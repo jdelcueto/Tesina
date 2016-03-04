@@ -37,6 +37,7 @@ methods
 .Trashes
 ehthumbs.db
 Thumbs.db
+.#*
 
 #Latex Processing Files#
 ########################
