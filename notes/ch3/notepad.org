@@ -399,6 +399,7 @@ En esta sección en la que se trabaja la relación de ambos, dejar implicito los
 La filosofía como actividad
 La relación de Anscombe con los grandes filósofos
 La libertad de anscombe en su hacer filosofía y su lenguaje
+*** Desde El Tractatus Hasta Investigaciones Filosóficas [[file:t_pi.org][{>}]]
 
 ** B. La pregunta sobre la Verdad
 Truth, Facts and Faith
