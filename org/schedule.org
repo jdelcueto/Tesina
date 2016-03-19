@@ -4,7 +4,7 @@
 ** TODO ¿Cuántas veces interrumpió sus clases en Cambridge?
 *** TODO ¿Para qué las interrumpió?
 ** TODO ¿Cómo se podrían catalogar las etapas del desarrollo de su nuevo pensamiento?
-1. Influencia de Ramsey y Straffa
+1. Influencia de Ramsey y Pierro Sraffa
 2. Manuscritos Previos
    1. The Big Typescript (1933-37)
    2. Typescript of the Philosophical Investigations

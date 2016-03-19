@@ -1,0 +1,109 @@
+* How is language posssible?
+** Some elementes of the world intelligently reproducing other elements of the world.
+* What is the relationship of language to the world?
+** Language represents the world by depicting it, propositions are pictures of facts
+** The relation of language to the world cannot be meaningfully represented in language, (it has to be shown)
+** Language has to mirror exactly states of affair in which objects are engage
+* What is the relationship of language to thought?
+** Propositions are expressions of thought, are vehicles of thought, they are what we think with
+ 
+ 
+* John Searle Explanations
+** The key to understanding the Tractatus is the picture theory of meaning
+*** W. felt that if language were to represent reality, if sentences were to represent state of affairs there has to be something in common between the sentence and the state of affairs and he saw the way to describe that on the analogy with the way pictures represent state of affairs
+**** there has to be some structural similarity, that just as the sentence is made of a sequence of words that stood for things, so the arrangements of words in the sentence, pictured or mirrored the arrangement of objects in the fact
+**** this gave him a remarkable sort of lever of the metaphysical kind where he could then read of, he thought, the structure of reality from the structure of language because he thought that the structure of reality has to determine the structure of language, unless language mirrored reality in some way it would be impossible for sentences to mean. 
+*** Words have a relationship to each others within the sentence that correspond to relationship that things have to each other in the world, thats what he called the logical structure. 
+*** Important: we are not talking about ordinary language which he thought concealed the logical structure.
+** If we take ordinary sentences and do an analysis of how they mean we would get down to the groundfloor sentences, what he called the elementary sentences, and there there would be this strict picturing relation between the structure of the sentence and the structure of the fact
+** He inherited from frege the idea that the fundamental unit of meaning isn't the word, but the word only function the name only means in the context of the sentence, is the concatenation of the words in the sentence, that is itself a fact, that enables the sentence to picture the structure of facts in the world. 
+** How does a sentence saying how things aren't is picturing something?
+*** W. thought that logical constants (not, and, or, if...) didn't picture they are not part of the picturing relationship
+*** these logical constants don't themselves represent, they're ways we have of stringing pictures together
+*** Not is a way of operating on the picture, not part of the picture
+*** What we say about the world can be analyzed down to basic sentences which picture the world and are linked together or negated by particular operators (logical constants) that have this function
+** How is the demarcation between talk that makes sense and talk that doesn't done in the early philosophy?
+*** W. thought that the only language that strictly speaking made sense was this fact stating language 
+*** Unlike the positivists he didn't relish that, he thought that the really important things were unsayable (ethics, religion, aesthetics). The important part of the T. as such is the part that isn't said
+*** He made a strict demarcation of meaningful language as fact stating language, and those parts of language that are not used to state facts, he thought are strictly speaking, nonsense. 
+*** Our attempt to say something about these things is meaningless.
+** How did the later W. depart from the picture theory of meaning?
+*** He moved away from the picture metaphor to the tool, or use, metaphor of meaning.
+**** the way to understand language is to look on how words are used. for nearly all cases the meaning of a word is it's use in the language
+*** Now instead of saying that the structure of reality determines the structure of language, he says that the structure of the language determines what we think of as reality. we can't think, discuss, have a conception of the world, independent of the conceptual aparatus which we use for that purpose
+** The later W. is no longer saying that words or sentences picture what they are about, he is saying that a word of sentence is like a tool and what it means is what you can do with it, so in fact the meaning of the term is the sum total of it's possible uses.
+** It's in the nature of a picture to refer to something in particular. it's in the nature of a tool to have indefinite uses
+** Lagunage is indefitively extendable, there isn't any single thing that binds all uses of language together, there isn't any single essence that runs through all of language, and indeed for particular words, there needn't be any particular essence that marks the definition of that word. they have a family resemblance of their uses. 
+** He gives the example of games. What is that all games have in common? what you find is that there isn't any single essence there's rather a family resemblance
+** The strength of the words derives not from some underlying essence but from the fact that they have these series of criss-crossing relationships, similarities, and he compares that to the way that the various members of a family resemble each other, and he calls this a family resemblance relation
+** W. is militating against very powerful philosophical tradition
+*** against his own idea: that words get their meaning by standing for objects
+*** an older tradtion: words get their meaning by being associated with ideas in the head
+*** even older one: that in order for a word to have a meaning there must be some essence, there must be some essential trait that the word marks
+** so the interest of his remarks about language derives a lot from their revolutionary or radical attack on a pre-existing tradition
+** there is no single feature for family resemblance, but a set of features from which they draw. 
+*** this is true of language and meaning, if we look at a term or word is a grave mistake to look for the one thing that it means, because there is no one thing that it means. there is not one thing that the meanings all have in common, which is as it were the essence of that word
+**** he doesn't say that this is true for every word in the language
+***** but this is crucial for philosophers to see, because a lot of the words that trouble us in philosophy, ethics and aesthetics (like good or beautiful) he thought that part of our failure is that we are looking for some essence (of beauty or goodness), were he insists, just look at the various resembling criss-crossing similarities in the use of these words
+** we have all sorts of different kind of talks (scientific, musical, philosophical, etc..) in each of these areas of discourse language is caracteristcally used in different ways and the same words would be used in different ways, so don't ask yourself what is the specific meaning of this term, ask yourself how is this term being used in that particular area of discourse.
+*** this was one of his slogans: don't ask for the meaning, ask for the use
+**** at this point he introduces another metaphor, the notion of a language game, this is a technical term
+***** the idea he has is that we should see speaking a language on analogy with playing a game in that it is caracteristically rule-governed, we aren't ourselves entitled to lay down the rules, not everything is determined by the rules, nontheless we are engaged in rule-governed forms of activity.
+****** this is a disconcerting idea for a lot of philosophers because he wants to insist that there isn't any foundation for the language games, anymore that there is a foundation for any game, these are just human activities, and so he wants to get out of the idea that these language games were the word has it's home, were the words get their meaning, from their role in the language game, he wants out of the idea that there must be some transcendental justification or foundation for the language game. we play a language game of different discourses, and the language game must take care of itself
+****** he is anxious to insist that there are these sequences and series of human activities were the use of words is tied up with the rest of our lives in a regular, ordered, but not in any way predetermined fashion and that's really the task of the philosopher is to describe, not to justify or give a foundation for but to give just a description of how the language game is played.
+** the reasons for the analogy of the language game:
+*** it's an activity, it isn't something sublime that just goes on in our heads, and it isn't an abstract set of relationships, it's an ongoing human activity
+*** it's conventional, it's regular, there are rules involved
+*** those are the features he wanted to get, that we should look to language in action and we should see it as part of regular rule-governed behaviour
+**** that sounds, pretty uncontrovertial
+***** but W. thought that there isn't any point of view outside of language, were we could, sort of speak, stand back and appraise the language game from a non linguistic point of view, there isn't any arquimedian point from which we could get away from operating inside the language game, stand back and appraise the success or failure of language in representing reality, he thought htis was impossible, we are always operatign within the language game, we are always operating within some language game or other, there is no conception that we have of appraise or getting at the world apart of operating within a language game 
+** W. really thinks, he is part of the movement in the past 100 years, it is a caracteristic feature of the 20th century that we no longer can take language for granted, language has become inmensely problematic to us and it has moved into the center of philosophy and W. is one of the great leaders in that movement. 
+*** Reality divides up the way we divide it
+**** the point is deeper than that
+***** there isn't any such thing as thinking, there isn't even any such thing as experience as human beings have, adult full grown human being experiences, that cannot exist apart from language, language permeates that in every point
+** W. of the T. dismissed religious talk as meaningless, later W. wouldn't be so dismissive, what he would have said is let's examine how words are used in a religious context, let's look at their use, let's get inside the language game of religion to asses it
+*** it's not our task of philosophy, to appraise the success or failure of the religious language game, all we can do is describe how it's played, and the important thing is to see that it isn't played like the scientific language game, it's ridiculous, he thinks, that we should take religious utterances as if they were sort of second rate scientific utterances for which there was inadequate evidence, he was always anxious to insist what we ought to look at role that religion and religious utterances play in people lives, thats the meaning of this utterances, he disliked the idea that we should overintellectualize this and make it into some kind of theoretical enterprise were what we are concerned to was to criticize this and see if the evidence for the existence of God was up to snuff by scientific standards.  
+*** W. G Grace once said "...What God wants is a heart..." W. liked that, he thought that was the religious language game in action
+** philosophical puzzlement is caracteristically caused by our using the terms from one language game as if they belonged to another
+*** i.e. trying to judge moral or religious talk as if it was scientific talk
+*** having got ourselves into these puzzles, the way to get out of them was to pay very strict attention to the way the words which we are using normally function in natural human discourse
+*** he says Philosophical problems caracteristically arise when we take the word out of the language game where it is at home and the trying to think of it as something sublime, like when we enquire on the nature of the good, the true or the beautiful, instead of just looking at how these words are actually used in the language game were they get their meaning  
+*** there is not exactly a Philosophical language game, but philosophers must be engaged in the game of describing, they should be describing how words are actually used. they should describe how language is used in a way that would enable us to dissolve the recurring philosophical problems
+** a game is a rule governed activity, and language too, it has to be to be inteligible, as a rule governed activity there cannot be a private language
+*** the notion of a rule is problematic
+*** in fact his discussions of rules is one of his most important contributions to philosophy 
+*** rules don't block off all eventuality, language isn't bounded everywhere by rules, nothing is, there are always lots of gaps open by any system of rules
+*** the rules are never final
+*** rules are always subject to different interpretation
+*** it looks to W. that there is some kind of scepticsm that arises here, because if anything can be made to conform to the rule by some fancy interpretation, then anything can be made to conflict with it and you get either accord nor conflict, the rule would then seem to drop off as irrelevant, the solution to that for him is:  
+**** obeying the rule is a social practice, it's something we learn in society, society has ways of making people and training them to conform to rules
+***** applying this to the private language
+****** could there be a language where i just named my own private sensations in a way that no one else could understand it?
+******* a lot of people in the history of philosophy had thought that must be the basic use of language
+******** language must name inner experience
+******** we get to the real world, the external world by starting from our inner experiences, by starting from inside and working outward
+********* first W. says that isn't how the words for our inner experiences actually function, they don't name private objects, rather they are used in conjunction with public criteria behaviour, situations, so we are not in fact speaking of private language when we use sensation language 
+********* secondly (more controvertially) we couldn't in fact speak a private language, we couldn't give a private ostensive definition, where we sort of point inwardly to some private experience and name that experience, because unless we can appeal to some larger social gathering, there won't be any difference between my thinking i'm using the word right and the actually using it right 
+********** his discussion of the rules and the social character of rule is what underlies his rejection of the idea of a private language
+** the reason the private language problem is important is that traditional epistemology of the sort one finds in Locke, Berkeley, Hume, for example, is based on the idea that we should build knowledge of the world from the inside out
+*** we start by cognition of essentially private states of mind and infer the world, or build up a conception of the world from that
+*** because the sum total of the words possible usage constitute it's meaning, in the end what language means, what words mean, depend on forms of life, on the social context within which they are used, so the only ultimate criteria of meaning are not private at all, they are esentially social
+*** the notion of use it's itself a social notion, it's somthing that i do in conjunction with other members of society and it's only because i'm trained to respond in certain ways that we avoid the scepticsm that says: anything i do can be made to seem to be in accord with some rule or other or i could interpret the rule in some way that it would come to be in accord with it
+**** he emphasizes the idea that a language is a form of life, we can't carve off the language and look at it apart from the human activities where it actually has it meaning
+** once again: W.'s discussion of a private language is a discussion of a separate problem than that of following a rule but they are related in that his solution to the problem of following a rule is also his solution to the private language problem 
+*** the problem of the private language is this: could there be a language in which I use words to name my own private sensations, in such a way that no one else could understand the words, because the words are defined ostensively in terms of private experiences, experiences known only to me?
+**** According to traditional epistemology of Locke, berkeley and hume we start with our inner private sensation and then construct public language and public knowledge on the basis of our inner experiences. 
+*** W. first argues that 
+**** that is not really how our language for inner sensations works 
+***** we don't give private inner definitions to our sensation words, but rather, he points out, our sensation language, our language for describing inner experiences, is tied to public social phenomena at every point. 
+****** It is only because pains, for example, arise in certain sorts of situations and produce certain sorts of behaviour that we can have a vocabulary for talking about pains at all. 
+****** Our ordinary sensation language is not really a private language, because we learn and use the terms of this language in conjunction with public criteria, criteria having to do with behaviour and situations
+*** W. secondly argues that
+**** we could not in fact have a private language, we couldn't give a private ostensive definition where we just point inwardly to a private experience, name that experience and then use the name to refer to the same experience in the future. His argument against this is a reductio ad absurdum argument. If we tried to think of a sensation language on this model, we wouldn't be able to make the distinction between actually using the word right and just thinking we are using it right. But if there isn't a distinction between really getting it right and just thinking we have got it right, then we can't talk about it at all
+**** the idea, then, that we could have a private sensation language reduces to absurdity
+**** his solution to this puzzle, the puzzle of how we can ever use words to refer to inner sensations, is the same as his solution to the general problem about rule following. The rules for using sensation words are public social rules. They are learnt and applied in a social setting. And these external criteria are socially sanctioned and socially applied. It's because we are members of a lingustic community that we can have lingustic rules at all, and it's because we have public social criteria for our inner experiences that we can have a language referring to our inner experiences. He summarises this point by saying: 'An "inner process" stands in need of outward criteria.'
+*** We learn the use of all words, including words for inner sensations, from other people, the words and expressions for tastes, smells, colours, pains, dreams, and every other 'inner experience' all existed long before we were born; and so did the criteria for their proper use. And what we do when we come into the world is learn both the words and their proper use from others. 
+*** Existing words and their meaningful use are inescapably social phenomena no matter how inner, and private what they're used to talk about may be 
+**** this means that we do not and cannot form our conception of the world by starting from elements which are exclusively private to us and building outwards from those until we reach the 'external' world and other people, to say this though, is to go against a whole tradition in philosophy, one that started with Descartes. 
+**** Thus for the later W. all the criteria of meaning are ultimately socialm not personal, and still less private. Words derive their meaning from contexts within which they are used, and these in turn depend on social practices and thus ultimately on ways of living, forms of life. And he does in fact use that term 'forms of life' a great deal in this context. 
+
