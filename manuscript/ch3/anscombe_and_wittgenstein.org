@@ -1,17 +1,19 @@
-% Hi-lock: (("\\\\todo{" (0 (quote hi-green) prepend)))  -*- window-min-width: 84; -*-  
+% Hi-lock: (("\\\\todo{" (0 (quote hi-green) prepend)))  
 %------------------------------------------------------------------------------------
+#+PROPERTY: header-args:latex :tangle ../../tex/ch3/3_1.tex
 
+* 3.1: Anscombe y Wittgenstein
+#+BEGIN_SRC latex
 %SECCIÓN 1: ANSCOMBE Y WITTGENSTEIN
-
 \section{Anscombe y Wittgenstein}
-
-%PRIMERA CUESTIÓN: ILUSTRACIÓN DEL MÉTODO DE WITTGENSTEIN EN SUS LECCIONES CON
-%ANSCOMBE
+#+END_SRC
+ 
+* 3.1.1: Quaestio: 
+** Wittgenstein: el problema de la filosofía es un problema del lenguaje
+*** El método de la filosofía es sacar a la luz la falta de referencia
+#+BEGIN_SRC latex 
 \subsection{El método de Wittgenstein}
-\ifdraft{\subsubsection{Ilustración del Método de Wittgenstein}}{}
 
-\todo{Esta anécdota ofrece un tono testimonial y genera preguntas que serán
-    tratadas en adelante}
 En cierta ocasión Wittgenstein recibió a Anscombe con una pregunta: <<¿Por qué la
 gente dice que era natural pensar que el sol giraba alrededor de la tierra en
 lugar de que la tierra rotaba en su eje?>> Elizabeth contestó: <<Supongo que
@@ -22,16 +24,16 @@ delante de ella con las palmas hacia arriba y, levantándolas desde sus rodillas
 con un movimiento circular, se inclinó hacia atrás asumiendo una expresión de
 mareo. <<¡Exactamente!>> exclamó Wittgenstein.\footcite[cf.~][p.~151]{IWT}
 
-%SEGUNDA CUESTIÓN: EXPLICACIÓN DE LA ILUSTRACIÓN
-\ifdraft{\subsubsection{Panorámica del Pensamiento de Wittgenstein}}{}
-
 Anscombe se percató del problema; la pregunta de Wittgenstein había puesto en
 evidencia que hasta aquél momento no había ofrecido ningún significado relevante
 para su expresión \emph{``se veía como si''} en su respuesta \emph{``se veía
-    como si el sol girara alrededor de la tierra''}.  
+    como si el sol girara alrededor de la tierra''}. 
+ 
 ¿Qué tipo de problema es este? 
 ¿Qué falta cuando una expresión carece de significado?
-
+#+END_SRC
+* Panorama
+#+BEGIN_SRC latex 
 Ordinariamente tomamos parte en la actividad humana que es el
 lenguaje. Jugamos el juego del lenguaje. ---¿Jugarlo es entenderlo?--- 
 A la vista de Wittgenstein saltaban extraños problemas sobre las reglas de este
@@ -806,3 +808,4 @@ interacción de fuerzas dentro de él es sin embargo una completamente distinta,
 de ahí que sea capaz de hacer cosas bastante distintas de las que puede hacer
 alguien que está de pie). (Culture and Value p.38-39 MS 120 108 c: 12.12.1937)
 \end{revision}
+#+END_SRC

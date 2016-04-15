@@ -1,0 +1,29 @@
+% Hi-lock: (("\\\\todo{" (0 (quote hi-green) prepend)))  
+%------------------------------------------------------------------------------------
+#+PROPERTY: header-args:latex :tangle ../../tex/ch3/3_3.tex
+* Hablar del testimonio en el pensamiento de Elizabeth Anscombe es hablar de su analisis de la expresión 'creer a x que p' (fe humana) y 'creer a Dios que p' (fe divina).
+* 3.3: Fe
+#+BEGIN_SRC latex
+%SECCIÓN 1: Fe
+\section{Fe}
+#+END_SRC
+ 
+* 3.3.1: Quaestio:
+** Fe=creer a X que P > Fe divina es creer a Dios que P > creer a Dios que P es poder escucharlo decir que P. Qué es escuchar a Dios?
+* Fe humana y fe divina 
+** "At one time there was the following way of speaking: faith was distinguished as human and divine."
+*** Human faith was believing a human being
+*** divine faith was believing God
+**** Occurring in discussion without any adjective, the word 'faith' tended to mean mostly divine faith
+* What Is It to Believe Someone?
+** Preamble
+*** What's wrong with Euthydemus?
+**** Question about how believing someone is problematic. 
+*** Believing someone is a topic problematic enough to need philosophical enquiry and important enough to deserve it's attention.
+*** Old value of the expression 'faith'
+**** 'I might have called my subject faith'
+*** New value of the expression 'faith'
+**** belief in God at all o religious belief
+**** 'Abraham believed God'
+**** Disgusting effect in thought about religion
+*** Coinage of the expression "believe x that p" (belief with a personal object)

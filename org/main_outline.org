@@ -1,9 +1,55 @@
+* Estructura de los capítulos
+1. Capítulo 1
+   1. Sección 1: Planteamiento de la cuestión y exposición panorámica del tema del capítulo
+      1. Cuestión y panorámica
+      2. Punto de desarrollo X
+      3. Punto de desarrollo Y
+      4. Punto de desaroollo Z,  etc...
+   2. Sección 2: Punto X
+      1. Cuestión y panorámica
+      2. X.1
+      3. X.2
+   3. Sección 3: Punto Y
+      1. Cuestión y panorámica
+      2. Y.1
+      3. Y.2
+   4. Etc...
 * Introducción
-* Naturaleza del Testimonio Cristiano
+* Método
+** +Método original+
+*** ¿Qué dice la el depósito de la fe sobre el testimonio?
+*** ¿Cómo se ha problematizado este concepto?
+*** ¿Qué respuesta ofrece Anscombe a este problema?
+*** Cómo se compara lo que dice Anscombe con lo que dice la Iglesia?
+** _Método actual_
+*** ¿Cómo se usa el término testimonio para hablar de la Revelación?
+*** En un esquema teológico-fundamental de 'monstratio' católica-cristiana-religiosa, ¿Cómo se usa el testimonio para hablar de la fe y de la credibilidad?
+*** En el análisis realizado por Anscombe de distintos problemas, ¿qué descripción hace del uso del lenguaje sobre el testimonio?
+*** ¿Qué consecuencias podemos sacar de usar las aserciones hechas por Anscombe como objeto de comparación con el uso del testimonio en el lenguaje actual de la teología fundamental?
+* Cap. 1: Naturaleza del Testimonio Cristiano
 ** El testimonio en la dinámica de la Revelación
 ** La Categoría del Testimonio en el Contexto actual de la Teología
-* El Valor Cognoscitivo de la Fe y el Problema del Lenguaje Religioso en la Filosofía Analítica
-* La Categoría del Testimonio en el Pensamiento de Elizabeth Anscombe
+* +Cap. 2: El Valor Cognoscitivo de la Fe y el Problema del Lenguaje Religioso en la Filosofía Analítica+
+* Cap. 2: El testimonio en la Teología Fundamental
+* Cap. 3: La Categoría del Testimonio en el Pensamiento de Elizabeth Anscombe
+1. Hubo una época en la que el método que me parecía útil para confrontar la investigación era:
+   - Analizar la categoría del testimonio para conocer sus partes:
+     - ¿Cuales son los elementos y facetas del testimonio como modo de conocer la verdad?
+   - Teniendo el testimonio descompuesto en sus partes,
+     - ¿Qué dice Anscombe sobre cada elemento?
+   - Conociendo lo que dice Anscombe sobre cada elemento,
+     - ¿Que descripción sobre el testimonio queda plasmada al sumar todos los elementos?
+   - Finalmente:
+     - ¿Cómo se compara esta descripción con la que la Iglesia dice?
+2. Anscombe, Sin embargo, no hace filosofía así.
+   - PI §126: Philosophy just puts everything before us, and neither explains nor deduces anything. -Since everything lies open to view, there is nothing to explain. For whatever may be hidden is of no interest to us. The name "philosophy" might also be given to what is possible before all new discoveries and inventions.
+   - PI §131 For we can avoid unfairness or vacuity in our assertions only by presenting the model as what it is, as an object of comparison -as a sort of yardstick; not as a preconception to which reality must correspond. (The dogmatism into which we fall so easily in doing philosophy.)
+3. La investigación, por tanto, se desarrollará indagando en el uso que hace Anscombe del lenguaje relacionado con el testimonio.
+   - Analizar el uso > relacionar los 'parecidos  familiares' > exponer > describir
+
+
+
+** 
 ** Sección 1: Anscombe y Wittgenstein [[file:~/Tesina/tex/ch3/anscombe_and_wittgenstein.tex][{>}]]
 ** Sección 2: La pregunta sobre la Verdad  [[file:~/Thesis/tex/ch3/truth.tex][{>}]]
 ** Fe  [[file:~/Thesis/tex/ch3/faith.tex][{>}]]
