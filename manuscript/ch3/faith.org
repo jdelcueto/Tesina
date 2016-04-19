@@ -1,20 +1,432 @@
 % Hi-lock: (("\\\\todo{" (0 (quote hi-green) prepend)))  
 %------------------------------------------------------------------------------------
 #+PROPERTY: header-args:latex :tangle ../../tex/ch3/3_3.tex
-* Hablar del testimonio en el pensamiento de Elizabeth Anscombe es hablar de su analisis de la expresión 'creer a x que p' (fe humana) y 'creer a Dios que p' (fe divina).
-* 3.3: Fe
+* ABSTRACT
+** Hablar del testimonio en el pensamiento de Elizabeth Anscombe es hablar de su analisis de la expresión 'creer a x que p' (fe humana) y 'creer a Dios que p' (fe divina).
+* NOTES
+** Faith
+There was a "we used to believe…" which I think could have been said with some truth…
+There was in the preceding time a professed enthusiasm for rationality, perhaps inspired by the teaching of Vatican I against fideism, certainly carried along by the promotion of neo-tomist studies. 
+The word was that the Catholic Christian Faith was rational.
+Why would it essentially need the promptings of grace to follow the process of reasoning? It was as if we were assured there was a chain of proof.
+First God,  then the divinity of Jesus Christ. Then the establishment of a Church with  a Pope at the head of it and with a teaching commission from him. This body was readily identifiable. Hence you could demonstrate the truth of what the church taught.
+
+That faith and knowledge are not the same could be accounted for by the extrinsic character of the proofs of the de fide doctrines.
+
+The knowledge whch was contrasted with faith would be knowledge by proofs intrinsic to the subject matter, 
+not by proofs from someone's having said these things were true.
+
+For matters which were strictly 'of faith' intrinsic proofs were not possible, and that was why faith contrasted with knowledge.
+
+This is a picture of the more extravagant form of this teaching.
+
+A more sober variation:
+Related to the Church that our lord established;
+one wouldn't identify the church by its having the Pope, but the other way around. Allowing the believer to comitt to the Christian faith instead of the pope.
+
+A yet more sober variant:
+avoids trading on the cultural inheritance for which the name of Jesus was so holy that it was easy to go straight from belief in God to belief in Jesus as God's son. 
+In this variant one would be aware of the dependence of the New Testament in the Old, raising consciousness to the meaning of calling our Lord "Christ".
+
+These 'sober variants' had the disadvantage that it wasn't easy to see that what Jesus established was matched by the Catholic Church that we know. Learning and skill would be required to make th identification. 
+
+The so-called preambles of faith could not possibly have the sort of certainty that it had. And if less, then where was the vaunted rationality?
+
+A graver problem was the one about the faith of the simple. They don't have an inferior faith. Also those who studied didn't really knew those things. 
+Knowledge was there somehow, perhaps scattered, perhaps theorethically or abstractly available. In the belief that this was so, one was being rational in having faith.
+
+But this was problematic... and so adherence to faith was really a matter of hanging on, and both its being a gift and its voluntariness would at this point be stressed.
+
+There is a vacuum where the ideas about the faith as rational, these considerations, proofs, arguments and problems are now out of fashion.
+
+The passing away of these positions  is not to be regretted. They attached the character of 'rationality' entirely to what were called the preambles to faith itself.  
+
+Both the preambles and the passage from them to faith itself are an 'ideal' construction a fanciful construction dreamed up according to prejudices about what it is to be reasonable in holding a belief.
+
+*/The right designation for what are called the "preambles" of faith is not that but at least for prt of them, "presuppositions"/*
+
+We can use an example of human faith to explain this.
+
+You receive a letter by jones that tells you his wife has died. You now belief his wife has died because you believe him.
+
+This believing jones, that his wife has died, has a number of presuppositions:
+that your friend jones exists
+that this letter is from him
+that that really is what the letter tells you
+
+those three convictions are, logically, presuppositions that you have if your belief that Jones' wife has died is a case of you believing jones
+
+these are your presuppositions. you beliving jones doesn't entail those three things, but that you believe them.
+
+In modern use faith can be understood as religion or religious belief.
+
+In the tradition where this concept has it's origin "faith" is short for "divine faith" and means beliving God. 
+
+So used, at least amongst Chrisitan thinkers, faith could not be anything but true.
+
+Faith was beliving God, as Abraham believed God, and no false belief could be part of it.
+
+If we regard faith as someone who doesn't have it we could call it, as Russell: certainty without proof or Ambrose Pierce: "the attitude of mind of one who believes without evidence one who tells without knowledge things without parallel".
+
+If faith is beliving God, if the pressupositions are true, it is, then, beliving on the best grounds possible someone who speaks with erfect knowledge. But is there even the possibility of believing God? this is hard to grasp.
+
+'faith comes by hearing'. Those who have faith learn what they believe by faith, learn it from other people. Being so, a man with no knowledge of evidence may have faith when he is taught by a man ignorant of everything except that these are the things that faith believes, and according to faith he believes God and also according to faith this simple man and his teaher have a belief in no way inferior to that of a very learned and clever person who has faith.
+
+It is clear that believing somebody* (*see what is to belive someone*) is in the middle of our target.
+
+If we investigate believing jones:
+
+you can't call it believing jones just if jones says something or other and you do believe that very thing he says. Even if it's someone's saying something that causes you to believe it, that doesn't have to be believing him. In this case you judge the matter for yourself. 
+
+you can't call it believing jones even if his saying is your evidence that it is true. you can suppose a case in which you are sure that he will lie to you and be mistaken. The opposite of what he says will be true and he will tell you the opposite of what he thinks, so what he tells you will be true and you will believe it because he says it, but you won't be believing him.
+
+you can't call it believing jones when you believe what he says assuming that he says what he believes. You could believe that what he believes will be true, but by accident, as it were. Someone may believe what he gathers from all sources, be them lying or telling the truth, and you know which are the liars and which are the truth-telling. He then tells you something you know came from a truth-telling source, and you would believe what he says as true because you know where he got it. In this case you wouldn't be believing him. 
+
+when you believe your history teacher it is enough that you believe what he says because he says it and you don't think he's lying and you think what he believes about that will be true. that's enough for you to be believing him.
+
+The topic of believing someone is difficult. If you could put it that you believe that the person knows what he is telling you, then these difficulties don't arise. 
+
+
+
+
+Another question about what is to believe someone related to presuppositions is
+what are we to say about believing jones going with your presuppositions about his existence, having written that letter and having said what you gathered from it but not in fact presupposing those things?
+
+can we believe someone who doesn't exist?
+
+if we say that the deluded victim does not believe someone who doesn't exist you will deprive yourself of the clearest way of describing this situation: 'he believed the non-existent person". And also what would be the proper expression if we don't use believe in this case?
+
+we have to settle for saying that the ancient was believing in apollo - who doesn't exist. 
+
+the same point holds for the case where the person we believe does exist, but you have misunderstood what he wrote, or mistakenly supposed that this letter is from him. 
+
+Let us think some more about the presuppositions.
+Presuppositions of faith are not themselves part of the content of what in a narrow sense is believed by faith,
+we can describe this in the following sense:
+
+1. Suppose it occurs that you doubt a letter is from someone
+
+in the letter it says is from jones
+it says his wife has died
+
+i believe his wife has died because he says so.
+
+if i decide to believe the letter is from jones even if there is reason to doubt it is from him it isn't because he says so, his credibility is not my warrant for believing that the letter is from him.
+
+in this regard i believe the sentence that states that it is from jones, but it is not because i believe him
+
+
+2. suppose a prisoner in a dungeon,
+
+a letter arrives proposing to help him in various needs. 
+
+the letter says is from an unknown friend: N. 
+
+it invites him to communicate his needs by certain channels
+
+the prisoner doesn't know if it is genuine but he tries the communications and gets some of the things he asks for
+
+he gets more letters ostensibly from the same source, they sometimes contain information
+
+the prisoner now believes that N exists and is the author of the letters
+
+the information received from the letters is coming form N. and so his belief in that information is a case of believing N.
+
+his belief that N exists and that the letters come from N is not a case of believing something on N's say-so
+
+*the beliefs which are cases of believing N and the belief that N exists are logically different*
+
+*this brings out the difference between presuppositions of believing N and believing such-and-such as coming form N*
+
+*pre-suppositions don't have to be temporarily prior to beliefs*
+
+
+believing N pertains the following pre-suppositions for you:
+that N exists
+that this letter is from N
+that that really is what the letter tells you
+
+there is a difference between believing pre-suppositions and believing information on N's say-so
+
+you can believe the pre-suppositions for reasons other than believing N 
+
+Suarez said that in every revelation God reveals that he reveals.
+
+in every bit of information N is also claiming that he is giving the prisoner information
+
+
+it can be made clear what it is for someone to believe someone in the cases considered (human faith)
+
+*And now we come to see the difficulty*
+
+*what can it mean to 'believe God'?*
+
+*could a man inform me on the authority of his learning, that the evidence is that God has spoken?*
+
+No. a learned clever man can only be a causa removens prohibens (removing some obstacle that hinders the action of the cause)
+
+there are gross obstacles in the received opinion of my time and in its characteristic ways of thinking, someone learned and clever may be able to dissolve these
+
+so should w picture it like this?:
+a man hears a voice saying something to him and he believes it is God speaking, and so he believes what it says - so he believes God?
+
+what does he believe when he 'believes it is God speaking'? that God has a voice-box?
+
+in relation to the belief that God is speaking, it doesn't matter how the voice is produced. 
+
+the rabbinical idea of the Bath Qol (daughter of the voice') that describes 
+something heard that leaps out at you, 'speaks to your condition', as a voice that strikes you to the heart and upon which you can act in obedience
+
+Even when the words were uttered in a conversation that had nothing to do with him he beliefs that God has spoken to him in that voice.
+
+We find an example of this in what happened to St. Agustine hearing the child's cry 'Tolle, lege'
+
+*The critical differentiating point is this.*
+
+in all those cases it's clear what the one who believes X *means* by X speaking, even when we judge that X doesn't exist.
+
+when we say: they believe this because they believe apollo, by apollo speaking they mean believing in the oracle.
+
+*But it is not clear what it can mean for God to speak.*
+
+when speaking about God i don't refer to him as an object of worship for worship, being the honour intended to be paid to a deity, may be offered to what is not divine, to a stone or another spirit or a man or to what doesn't exist at all.
+
+We regard God not as the god of such-and-such a worship as if using the expression 'God' as a proper name, but as a definite description (in the technical sense), as equivalent to 'the one and only true god'.
+
+Even an atheist can see this, he should be able to recognize the identity of 'God' with 'the one and only god'.
+
+Because of this equivalence (God = the one and only god) God cannot be formally identified as the god of such-and-such a cult or people. To say that God is the god of Israel is to say that what Israel worshipped as god was 'the one and only god' and that could significantly be denied and that denial can be seen to be true even by one who believed that the description 'the one and only god' is vacuous.
+
+So:
+
+*the supposition that someone has faith is*
+*the supposition that he believes that something*
+*a voice or something he has been taught*
+*comes as a word from God (the one and only god)*
+*Faith is the belief he accords that word*
+
+this much can be understood by an unbeliever
+whether his attitude in face of this phenomenon
+is potentially
+one of reverence or only hostile
+
+*the Christian adds that such a belief is sometimes the truth, and that consequent belief is only then what he means by faith*
+christian faith is the consequent belief that consists in regarding a certain word as truly coming form God.
+
+** What is to believe someone
+Believing someone seems to be, not only neglected, but an unknown topic in philosophy
+
+It is of great importance in philosophy and in life, and it is itself problematic enough to need philosophical investigation
+
+In the past the term faith has been used with just this meaning (belief with a personal object believe X)
+
+faith was distinguished as human and divine, determined by the personal object of belief.
+
+divine faith was believing God
+
+nowadays it is used to mean much the same thing as 'religion' or 'religious belief'. 
+
+Thus belief in God would now generally be called 'faith' (belief in God at all, not belief that God will help one, for example)
+
+this has had a bad effect on thought about religion; the astounding idea that there should be such a thing as believing God has been lost sight of.
+
+'Abraham believed God and that counted as his justification'
+
+The story has remained well known even to ignorant intellectuals because of the thoughts of Kierkergaard as Johannes de Silentio in Fear and Trembling
+
+in it he cunningly evades the first point of the story, that Abraham believed God, rather we are deluged with rubbish about believing in as opposed to believing that (believing in is good, believing that is bad)
+
+Belief with a personal object is a kind of 'believe that'
+
+believe X = believing X that p
+
+I'm not interested in any sense of believing in X, except in which it means believing that X exists
+
+the belief that God exists could not be 'divine faith': it would be bizarre to say that one believed N that N existed.
+
+imagine receiving a letter
+in it an unheard of relation writes to appraise you of his existence and circumstances
+
+to believe that he exists is to accept the letter for what it purports to be and hence that the writer is who he says he is. then you may believe more things about him
+
+'He says he has a sheep farm in New South Wales, and I suppose he knows and doesn't mean to deceive me' this can be believed in this manner
+
+'He says he exists, and I suppose he knows and doesn't mean to deceive me' this cannot be believed in this manner
+
+this topic is important not only for theology and philosophy of religion, it is also of huge importance for the theory of knowledge.
+
+*The greater part of our knowledge of reality rests upon the belief that we repose in things we have been taught and told.* 
+
+*Hume thought that the idea of cause-and-effect was the bridge enabling us to reach any idea of a world beyond personal experience*
+
+He wanted to subsume belief in testimony under belief in causes and effects, or at least class them together as examples of the same form of belief.
+
+*We believe in a cause, he thought, because we perceive the effect and cause have been found always to go together. Similarly we believe in the truth of testimony because we perceive the testimony and we have found testimony and truth to go together*
+
+the view needs only to be stated to be promptly rejected.
+
+*WE MUST ACKNOWLEDGE TESTIMONY AS GIVING US OUR LARGER WORLD IN NO SMALLER DEGREE, OR EVEN IN A GREATER DEGREE, THAN THE RELATION OF CAUSE AND EFFECT; AND BELIEVING IT IS QUITE DISSIMILAR IN STRUCTURE FROM BELIEF IN CAUSES AND EFFECTS.* *(See Hume and Julius Caesar)
+
+belief in testimony is quite disimilar to belief in the relation between cause and effect
+what testimony gives us is not a detachable part (like the thick fringe of fat on a chunk of steak, it is more like the flecks and streaks distributed through it)
+
+examples of this kind of knowledge can be multiplied idefinitely
+
+what you are taught was your tool in acquiring new knowledge
+a complicated network of information received by testimony goes into the world we know
+
+Our reliance on testimony for knowledge is the preamble for the following investigation
+
+believe with a personal object cannot be reflexive.
+
+to believe another isn't simply to believe what he says, or believe that what he says is true.
+
+it can happen that what someone's saying brings about is that one forms one's own judgement that the thing is true. 
+
+believing involves relying on x for it that p
+
+still, believing someone is not just believing something on the strength of his saying that it is so
+
+to believe N one must believe that N himself believes what he is saying
+---------------
+euthydemus example:
+
+Logic:
+
+A: If that tree falls down, it'll block the road for a long time
+B: If there's a tree clearing machine working that won't be so
+C: If the tree doesn't fall down there will be one
+
+D: Then the tree will fall and the road will be blocked
+
+No problem, the conclusion can be logically derived from the premisses
+
+Belief:
+
+A: If that tree falls down, it'll block the road for a long time
+B: If there's a tree clearing machine working that won't be so (casts doubt on A's remark)
+C: If the tree doesn't fall down there will be one
+
+D: I believe you all, so I infer the tree will fall and the road will be blocked
+
+Problem, D cannot be telling the truth when he says 'I beleive you all'. He cannot be believing A at the stage of that conversation, given as A hasn't given a sign of purpoting to believe what he said.
+
+*to believe N one must believe that N himself believes what he is saying*
+*to know what N believes one needs a sign that shows what N purports to believe*
+------------
+
+let's consider cases of communication without the speaker
+
+in our childhood we are thaught to consult books like oracles, without much attention to the idea of an author
+we may receive a book from a teacher who tells us something about the author, a perceived person gives us a communication about a communicator who is unperceived
+after a time we come to receive communications in books without anyone introducing them to us, and we are apt to believe what the book says about itself
+
+to believe a person is not necessarily to treat him as an *original authority*
+an original authority may be someone who is a witness, as opposed to someone who just transmits information, but whose account is heavily affected by information he has received
+
+if the witness says 'I ate an apple this morning', even when he was thaught the concept of 'apple' we don't have to say this is an example of reliance on information received
+
+if the witness says 'I saw a picture by Leonardo da Vinci' then this is an example of giving an account that relies on information received
+
+*a speaker may be a total original authority for the fact that he gives* (I ate an apple)
+*a speaker may be an original authority, but not a total one for the fact that he gives* (I saw a picture by Leonardo da Vinci)
+*a speaker may not be an original authority at all* (Leonardo made drawings of a flying machine)
+
+even when a speaker is in now way an original authority that doesn't mean that there is not such thing as believing him
+
+much information is aquired from teachers who are not original authorities, and their pupils acquire this information by believing them, as opposed th merely believing that what they say is true.
+
+in this regard a teacher is not the same as an interpreter
+
+an interpreter is not wrong if what he relays is untrue, so far as he doesn't falsely represent what his principal said (believe the interpreter that he has reproduced what his principal said)
+a teacher is wrong if what he says is untrue (the pupils believe him that x is true)
+
+so *there are further beliefs that are involved in believing someone*
+
+it must be that case that you believe that something is a communivation from someone
+you have to believe that by it he means to be telling you this
+the communication is addressed to someone (even if only 'to whom it may concern')
+
+various questions regarding the belief that the communication is addressed to someone:
+
+1) if someone gets hold of a communication not addressed to him at all, only in a reduced sense can he be said to believe the writer
+2) if someone gets a coomunication but the author is not the ostensible communicator, only in a very roundabout case can he be said the believe the author (there would have to be judgement and speculation as mediation to learn of the author), in the case of the ostensible communicator: in the case he doesn't exist, the decision to speak of 'believing him' is a decision to give the verb an intentional use (like 'to look for') all we want is that we should know what is called the communicator's telling him something; in the case the ostensible communicator exists there would be an oscillation in the notion of believing or disbelieving a person and a third party may be less likely to use the verb 'believe' intentionally.
+3) if someone does not believe that the communication is from NN. NN may call it arefusal to believe him.
+4) if X is to believe NN, something must be being taken as a communication, and since X must be believing something 'on NN's say-so', there is also involved the belief that this communication says such-and-such
+
+We can also regard the inmediate producer of what is taken as a communication of NN. (a messenger or interpreter)
+
+the recipient can fail to belive (as opposed to dibelieve) NN out of a variety of attitudes. he may not notice the communication at all, may notice it but not take it as addresed to him, or even if taken as addressed to him he may make the wrong thing of it, and he may make the right thing of it but not believe that it comes from NN. 
+
+Only when we have excluded or the cases (or assumed their exclusion) do we come to the situation in which the question simply is: Does X believe NN or not?
+
+*There are many presuppositions to the question Does X believe NN or not? as we ordinarily understand it.*
+
+*THE OBJECT OF BELIEF IS NOT ONLY THE PROPOSITION BUT ALSO THE PERSON*
+
+in this situation where the object is not only a propposition, but also a person, there is not much importance in the difference between disbelief and suspension of judgement
+it may be an insult and injury not to be believed and failure of some of the presuppositions allows scope for reproach
+
+if A has falsely believed that something was a message from NN and has disbelieved it NN could reproach: 'You showed yourself very ready to credit me with saying something that could not be worthy of belief'
+teachers can justly get irritated at not being believed, except when what was disbelieved turns out to be false, then his complaint collapses
+
+*when all the pressupositions are in*
+*A is the in the situation where the question arises of believing or doubting (suspending judgement in face of) NN*
+*unconfused by all the questions that arise because of the presuppositions*
+*we can see that believing someone* (in the particular case)
+*is trusting him for the truth* (in the particular case)
+
+a final problem:
+
+I can believe that someone will tell me what he thinks is false and also that he will be clean wrong with what he thinks (liar but wrong)
+I can believe that someono will tell me what he thinks is right and also that he will be right with what he thinks  (truthful and right)
+
+in both cases I believe p because NN has told me that p.
+
+what is the difference between the two?
+
+you are only willing to call it believing the man when you believe he is right and truthful in intent
+
+it appears to me there is more to be said than that about the priority of rightness and truthfulness in this matter, but i'm not clear what it is (*See Truth)
+
+* Analisis
+Después de atender la pregunta sobre la verdad vamos a examinar el análisis de la fe que hace Anscombe.
+Hablar de la categoría del Testimonio en relación con la Fe es preguntarse sobre el conocimiento que se aprehende por la fe; cómo se llega a éste y cómo se describe esta experiencia y conocimiento al que no vive la fe. 
+
+Lo que se conoce por la fe es razonable.
+
+
+
+* Título: "Fe y Conocimiento"
+:DESCRIPCIÓN:
+
+:END:
+
 #+BEGIN_SRC latex
-%SECCIÓN 1: Fe
-\section{Fe}
+%SECCIÓN 1: Fe y Conocimiento
+\section{Fe y Conocimiento}
 #+END_SRC
  
-* 3.3.1: Quaestio:
-** Fe=creer a X que P > Fe divina es creer a Dios que P > creer a Dios que P es poder escucharlo decir que P. Qué es escuchar a Dios?
+* Quaestio:
+** +Qué significa conocer a Dios?+
+** +Fe=creer a X que P > Fe divina es creer a Dios que P > creer a Dios que P es poder escucharlo decir que P. Qué es escuchar a Dios?+
+** "I want to say what might be understood about faith by someone who did not have it..."
+:ESQUEMA:
+
+:END:
+#+BEGIN_SRC latex
+Quiero decir qué puede ser entendido sobre la fe por alguien que no la tenga; alguien, incluso, que no necesariamente crea que Dios existe, pero que sea capaz de pensar cuidadosa y honestamente sobre ella. Bertrand Russell llamó a la fe `certeza sin prueba'. Esto parece correcto. Ambrose Bierce tiene una definición en su \emph{Diccionario del Diablo}: `La actitud de la mente de uno que cree sin evidencia a uno que habla sin conocimiento cosas sin parangón'.
+
+¿Qué deberíamos pensar de esto?
+#+END_SRC
+* "The word was that the Catholic Christian Faith was Rational... a problem was how it was gratuitous"
+** Why would it essentially  
 * Fe humana y fe divina 
 ** "At one time there was the following way of speaking: faith was distinguished as human and divine."
 *** Human faith was believing a human being
 *** divine faith was believing God
 **** Occurring in discussion without any adjective, the word 'faith' tended to mean mostly divine faith
+*** Both sorts of faith have presuppositions
 * What Is It to Believe Someone?
 ** Preamble
 *** What's wrong with Euthydemus?
@@ -27,3 +439,8 @@
 **** 'Abraham believed God'
 **** Disgusting effect in thought about religion
 *** Coinage of the expression "believe x that p" (belief with a personal object)
+* 
+* The column view
+     #+BEGIN: columnview :hlines 4 :id "label"
+     
+     #+END:
