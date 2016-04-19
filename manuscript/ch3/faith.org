@@ -1,6 +1,7 @@
-% Hi-lock: (("\\\\todo{" (0 (quote hi-green) prepend)))  
-%------------------------------------------------------------------------------------
+# Hi-lock: (("\\\\todo{" (0 (quote hi-green) prepend)))  
+#------------------------------------------------------------------------------------
 #+PROPERTY: header-args:latex :tangle ../../tex/ch3/3_3.tex
+
 * ABSTRACT
 ** Hablar del testimonio en el pensamiento de Elizabeth Anscombe es hablar de su analisis de la expresión 'creer a x que p' (fe humana) y 'creer a Dios que p' (fe divina).
 * NOTES
@@ -391,9 +392,12 @@ it appears to me there is more to be said than that about the priority of rightn
 
 * Analisis
 Después de atender la pregunta sobre la verdad vamos a examinar el análisis de la fe que hace Anscombe.
-Hablar de la categoría del Testimonio en relación con la Fe es preguntarse sobre el conocimiento que se aprehende por la fe; cómo se llega a éste y cómo se describe esta experiencia y conocimiento al que no vive la fe. 
 
-Lo que se conoce por la fe es razonable.
+1. Anscombe se plantea decir lo que puede ser entendido sobre la fe por alguien que no la tiene.
+2. Hubo una época en la que se habló de la fe católica como racional. Esta racionalidad estaba apoyada sobre lo que se conoce como 'preámbulos de la fe'.
+3. Hubo una época en la que se hablaba de fe divina y fe humana
+4. Anscombe habla de la fe como se ha propuesto usando la expresión 'creer a X que P' como presupuesto de la fe.
+   1. Tener fe supone confiar en X que P, fe es la creencia puesta en P por la confianza en X.
 
 
 
@@ -407,40 +411,56 @@ Lo que se conoce por la fe es razonable.
 \section{Fe y Conocimiento}
 #+END_SRC
  
-* Quaestio:
-** +Qué significa conocer a Dios?+
-** +Fe=creer a X que P > Fe divina es creer a Dios que P > creer a Dios que P es poder escucharlo decir que P. Qué es escuchar a Dios?+
-** "I want to say what might be understood about faith by someone who did not have it..."
-:ESQUEMA:
 
+* Quaestio: Decir lo que puede ser entendido sobre la fe por quien no la tiene
+:DESCARTADAS:
+ +Qué significa conocer a Dios?+
+ +Fe=creer a X que P > Fe divina es creer a Dios que P > creer a Dios que P es poder escucharlo decir que P. Qué es escuchar a Dios?+
 :END:
-#+BEGIN_SRC latex
-Quiero decir qué puede ser entendido sobre la fe por alguien que no la tenga; alguien, incluso, que no necesariamente crea que Dios existe, pero que sea capaz de pensar cuidadosa y honestamente sobre ella. Bertrand Russell llamó a la fe `certeza sin prueba'. Esto parece correcto. Ambrose Bierce tiene una definición en su \emph{Diccionario del Diablo}: `La actitud de la mente de uno que cree sin evidencia a uno que habla sin conocimiento cosas sin parangón'.
+:DESCRIPCIÓN:
+Se plantea la cuestión: decir de la fe lo que puede ser entendido por quien no la tiene. Esto supone describir aquello de la fe que es razonable. Anscombe usa la expresión creer con objeto personal para describir de manera razonable la fe. Además usará la noción de presupuestos de la fe, en lugar de hablar de preámbulos.
+:END:
+** "I want to say what might be understood about faith by someone who did not have it..."
 
-¿Qué deberíamos pensar de esto?
+#+BEGIN_SRC latex
+En Oscott College, el seminario de la Archidiócesis de Birmingham, se comenzaron a celebrar las conferencias llamadas \eng{Wiseman Lectures} en 1971. Para estas lecciones ofrecidas anualmente en memoria de Nicolás Wiseman se invitaba un ponente que tratara algún tema relacionado con la filosofía de la religión o alguna materia en torno al ecumenísmo.\footcite[cf.~][p.~7]{wisemanlects}
+
+El 27 de octubre de 1975, para la quinta edición de las conferencias, Anscombe presentó una lección titulada simplemente \eng{Faith}. Allí planteaba la siguiente cuestión:\citalitlar{Quiero decir qué puede ser entendido sobre la fe por alguien que no la tenga; alguien, incluso, que no necesariamente crea que Dios existe, pero que sea capaz de pensar cuidadosa y honestamente sobre ella. Bertrand Russell llamó a la fe ``certeza sin prueba''. Esto parece correcto. Ambrose Bierce tiene una definición en su \eng{`Devil's Dictionary'}: ``La actitud de la mente de uno que cree sin evidencia a uno que habla sin conocimiento cosas sin parangón''.}
+\citalitlar{¿Qué deberíamos pensar de esto?\footcite[p.~115]{faith}}
 #+END_SRC
-* "The word was that the Catholic Christian Faith was Rational... a problem was how it was gratuitous"
-** Why would it essentially  
+
+** Preámbulos: Significado de Fe y Racionalidad de la fe
+*** Faith=short for divine faith=believing God.
+#+BEGIN_SRC latex
+\subsection{El significado de la palabra fe}
+<<Abrám creyó a Dios (\textgreek{ἐπίστευσεν τῷ Θεῷ}) y ésto se le contó como justicia.>>\footnote{Gn~15,6} De tal modo que es llamado 'padre de la fe'.\footnote{cfr.~Rm~4~y~Ga 3,7} He aquí una expresión sorprendente: <<creer a Dios>>. Abrahám creyó a Dios que su descendiencia sería tan numerosa como las estrellas del cielo, de este modo se describe su fe. El concepto de la fe tiene su lugar de origen en esta particular tradición religiosa. 
+
+En el uso moderno la palabra 'fe' tiende a significar 'creencia religiosa' o 'religión'. Se le llama generalmente 'fe', por ejemplo, a la creencia en la existencia de Dios. 
+
+
+#+END_SRC
+*** "The word was that the Catholic Christian Faith was Rational... a problem was how it was gratuitous"
+**** These opinions attached the character of rationality entirely to what were called the preambles and to the passage from the preambles to faith itself
+
+
+
 * Fe humana y fe divina 
 ** "At one time there was the following way of speaking: faith was distinguished as human and divine."
 *** Human faith was believing a human being
 *** divine faith was believing God
 **** Occurring in discussion without any adjective, the word 'faith' tended to mean mostly divine faith
 *** Both sorts of faith have presuppositions
-* What Is It to Believe Someone?
-** Preamble
-*** What's wrong with Euthydemus?
-**** Question about how believing someone is problematic. 
-*** Believing someone is a topic problematic enough to need philosophical enquiry and important enough to deserve it's attention.
-*** Old value of the expression 'faith'
-**** 'I might have called my subject faith'
-*** New value of the expression 'faith'
-**** belief in God at all o religious belief
-**** 'Abraham believed God'
-**** Disgusting effect in thought about religion
-*** Coinage of the expression "believe x that p" (belief with a personal object)
-* 
-* The column view
-     #+BEGIN: columnview :hlines 4 :id "label"
-     
-     #+END:
+
+** What Is It to Believe Someone?
+*** Preamble
+**** What's wrong with Euthydemus?
+***** Question about how believing someone is problematic. 
+**** Believing someone is a topic problematic enough to need philosophical enquiry and important enough to deserve it's attention.
+**** Old value of the expression 'faith'
+***** 'I might have called my subject faith'
+**** New value of the expression 'faith'
+***** belief in God at all o religious belief
+***** 'Abraham believed God'
+***** Disgusting effect in thought about religion
+**** Coinage of the expression "believe x that p" (belief with a personal object)
+

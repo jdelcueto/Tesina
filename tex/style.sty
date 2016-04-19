@@ -24,7 +24,7 @@
 marginparwidth=5cm, marginparsep=1cm]{geometry}
 
 %LANGUAGE-----------------------------
-\usepackage[main=spanish,english]{babel}
+\usepackage[main=spanish,english,greek]{babel}
 
 %Bibliography Language
 %\usepackage[fixlanguage]{babelbib}
@@ -45,6 +45,10 @@ marginparwidth=5cm, marginparsep=1cm]{geometry}
     ItalicFont=*-italic,
     BoldItalicFont=*-bolditalic,
 ]{texgyreheros}
+
+\newfontfamily\greekfont[Scale=MatchUppercase,Ligatures=TeX]{Arial Unicode MS}
+
+\renewcommand{\textgreek}[1]{\bgroup\greekfont{#1}\egroup} % Greek text
 
 %OLD ARIAL UNICODE MS OPTIONS
 %\setmainfont[
@@ -188,6 +192,10 @@ marginparwidth=5cm, marginparsep=1cm]{geometry}
 }
 %-----------------------------------------------------------------------------
 
+%ENGLISH WORDS---------
+\babeltags{en = english}
+\newcommand{\eng}[1]{\texten{\emph{#1}}}
+%---------------------------------------------------------------------------
 \ifdraft{}{
 %Fancy Headers
 \usepackage{fancyhdr}
