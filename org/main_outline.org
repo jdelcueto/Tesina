@@ -32,23 +32,34 @@
 * +Cap. 2: El Valor Cognoscitivo de la Fe y el Problema del Lenguaje Religioso en la Filosofía Analítica+
 * Cap. 2: El testimonio en la Teología Fundamental
 * Cap. 3: La Categoría del Testimonio en el Pensamiento de Elizabeth Anscombe
-1. Hubo una época en la que el método que me parecía útil para confrontar la investigación era:
+:NOTAS_METODOLÓGICAS:
+1. Hubo una época en la que el método que me parecía útil para confrontar la
+   investigación era:
    - Analizar la categoría del testimonio para conocer sus partes:
-     - ¿Cuales son los elementos y facetas del testimonio como modo de conocer la verdad?
+     - ¿Cuales son los elementos y facetas del testimonio como modo de conocer
+       la verdad?
    - Teniendo el testimonio descompuesto en sus partes,
      - ¿Qué dice Anscombe sobre cada elemento?
    - Conociendo lo que dice Anscombe sobre cada elemento,
-     - ¿Que descripción sobre el testimonio queda plasmada al sumar todos los elementos?
+     - ¿Que descripción sobre el testimonio queda plasmada al sumar todos los
+       elementos?
    - Finalmente:
      - ¿Cómo se compara esta descripción con la que la Iglesia dice?
 2. Anscombe, Sin embargo, no hace filosofía así.
-   - PI §126: Philosophy just puts everything before us, and neither explains nor deduces anything. -Since everything lies open to view, there is nothing to explain. For whatever may be hidden is of no interest to us. The name "philosophy" might also be given to what is possible before all new discoveries and inventions.
-   - PI §131 For we can avoid unfairness or vacuity in our assertions only by presenting the model as what it is, as an object of comparison -as a sort of yardstick; not as a preconception to which reality must correspond. (The dogmatism into which we fall so easily in doing philosophy.)
-3. La investigación, por tanto, se desarrollará indagando en el uso que hace Anscombe del lenguaje relacionado con el testimonio.
-   - Analizar el uso > relacionar los 'parecidos  familiares' > exponer > describir
-
-
-
+   - PI §126: Philosophy just puts everything before us, and neither explains
+     nor deduces anything. -Since everything lies open to view, there is nothing
+     to explain. For whatever may be hidden is of no interest to us. The name
+     "philosophy" might also be given to what is possible before all new
+     discoveries and inventions.
+   - PI §131 For we can avoid unfairness or vacuity in our assertions only by
+     presenting the model as what it is, as an object of comparison -as a sort
+     of yardstick; not as a preconception to which reality must correspond. (The
+     dogmatism into which we fall so easily in doing philosophy.)
+3. La investigación, por tanto, se desarrollará indagando en el uso que hace
+   Anscombe del lenguaje relacionado con el testimonio.
+   - Analizar el uso > relacionar los 'parecidos familiares' > exponer >
+     describir
+:END:
 ** 1. Desarrollo Filosófico                                                                                                      
 *** Conversión al catolicismo: Causalidad
 *** Oxford: Percepción

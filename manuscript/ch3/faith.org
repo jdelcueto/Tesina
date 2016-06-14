@@ -46,13 +46,17 @@ analisis de la expresión 'creer a x que p' (fe humana) y 'creer a Dios que p'
 
 
 * /////////////////////////////////////////////////////////
-* /Quaestio/: "I want to say what might be understood about faith by someone who did not have it"
-:DESCARTADAS:
- +Qué significa conocer a Dios?+ +Fe=creer a X que P > Fe divina es creer a Dios
- que P > creer a Dios que P es poder escucharlo decir que P. Qué es escuchar a
- Dios?+
+* /Quaestio/: Understand faith without it
+:STATEMENT:
+"I want to say what might be understood about faith by someone who did not have
+it"
 :END:
-:DESCRIPCIÓN:
+:DISCARDED:
++Qué significa conocer a Dios?+ +Fe=creer a X que P > Fe
+divina es creer a Dios que P > creer a Dios que P es poder escucharlo decir que
+P. Qué es escuchar a Dios?+
+:END:
+:DESCRIPTION:
 Se plantea la cuestión: decir de la fe lo que puede ser entendido por quien no
 la tiene. Esto supone describir aquello de la fe que es razonable. Anscombe usa
 la expresión creer con objeto personal para describir de manera razonable la fe.
@@ -81,7 +85,13 @@ preámbulos.
 #+END_SRC
 
 
-* /Expositio/: "The right designation for what are called the 'preambles' of faith is not that but at least for part of them, 'presuppositions'. According to faith itself faith is believing God. If the presuppositions are true, it is, then believing on the best possible grounds."
+* /Expositio/: Presuppositions of faith
+:STATEMENT:
+"The right designation for what are called the 'preambles' of faith is not that
+but at least for part of them, 'presuppositions'. According to faith itself
+faith is believing God. If the presuppositions are true, it is, then believing
+on the best possible grounds."
+:END:
 
 ** Vamos a usar la pregunta planteada para introducir algunos preámbulos:
 ¿Qué deberíamos pensar de las definiciones que dan Russell y Bierce? ¿Esto es
@@ -175,7 +185,10 @@ estrellas del cielo, de este modo se describe su fe.
 #+END_SRC
 
 
-* /Disputatio/: "But is there even the possibility of believing God?"
+* /Disputatio/: Believing God
+:STATEMENT: 
+"But is there even the possibility of believing God?"
+:END:
 ** Fe humana y fe divina 
 *** "At one time there was the following way of speaking: faith was distinguished as human and divine."
 **** Human faith was believing a human being
@@ -198,8 +211,32 @@ estrellas del cielo, de este modo se describe su fe.
 ** What is it to believe someone?
 ** What is it to believe God?
 
-* /Solutio/: "the supposition that someone has faith is the supposition that he believes that something - it may be a voice, it may be something he has been taught - comes as a word from God. Faith is the the belief he accords that word. So much can be discerned by an unbeliever"
+* /Solutio/: Belief accorded to the word of God
+:STATEMENT:
+"the supposition that someone has faith is the supposition that he believes that
+something - it may be a voice, it may be something he has been taught - comes as
+a word from God. Faith is the the belief he accords that word. So much can be
+discerned by an unbeliever"
+:END:
 
-* /In Testimonium/: "We must acknowledge testimony as giving us our larger world in no smaller degree, or even in greater degree than the relation of cause and effect; and believing it is quite dissimilar in structure from belief in causes and effects. What does a man believes when he 'believes it is God speaking?' In relation to the belief that it is God speaking, it doesn't matter how the voice is produced."
+* /In Testimonium/: Structure of belief in testimony
+:STATEMENT:
+"We must acknowledge testimony as giving us our larger world in no smaller
+degree, or even in greater degree than the relation of cause and effect; and
+believing it is quite dissimilar in structure from belief in causes and effects.
+What does a man believes when he 'believes it is God speaking?' In relation to
+the belief that it is God speaking, it doesn't matter how the voice is
+produced."
+:END:
 
-** Believing testimony is dissimilar in structure from belief in causes and effects. Testimony gives us our larger world and is not a detachable part of our knowledge of reality. The topic of believing x that p is important for the theory of knowledge because the greater part of our knowledge of reality rests upon the belief that we repose in things we have been taught and told. Describing what it means to believe someone that x better describes the structure of believing testimony than subsuming it under belief in causes and effects. There are certain things which we are told or taught that we believe come as a word from God. Believing God supposes that we regard certain testimonies come as words from God.
+** Structure of testimony:
+Believing testimony is dissimilar in structure from belief in causes and
+effects. Testimony gives us our larger world and is not a detachable part of our
+knowledge of reality. The topic of believing x that p is important for the
+theory of knowledge because the greater part of our knowledge of reality rests
+upon the belief that we repose in things we have been taught and told.
+Describing what it means to believe someone that x better describes the
+structure of believing testimony than subsuming it under belief in causes and
+effects. There are certain things which we are told or taught that we believe
+come as a word from God. Believing God supposes that we regard certain
+testimonies come as words from God.
