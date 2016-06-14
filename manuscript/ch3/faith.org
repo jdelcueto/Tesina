@@ -1,82 +1,126 @@
+# -*- mode: org; mode: auto-fill; word-wrap:t; truncate-lines: t; -*-
 # Hi-lock: (("\\\\todo{" (0 (quote hi-green) prepend)))  
-#------------------------------------------------------------------------------------
 #+PROPERTY: header-args:latex :tangle ../../tex/ch3/3_3.tex
+# ------------------------------------------------------------------------------------
  
-* /Lectio/: Faith & What is it to believe someone
-
+* /Lectio/: 
+:DESCRIPTION:
+Faith & What is it to believe someone
+:END:
 ** Analisis
-Después de atender la pregunta sobre la verdad vamos a examinar el análisis de la fe que hace Anscombe.
+Después de atender la pregunta sobre la verdad vamos a examinar el análisis de
+la fe que hace Anscombe.
 
-1. Anscombe se plantea decir lo que puede ser entendido sobre la fe por alguien que no la tiene.
-2. Hubo una época en la que se habló de la fe católica como racional. Esta racionalidad estaba apoyada sobre lo que se conoce como 'preámbulos de la fe'.
+1. Anscombe se plantea decir lo que puede ser entendido sobre la fe por alguien
+   que no la tiene.
+2. Hubo una época en la que se habló de la fe católica como racional. Esta
+   racionalidad estaba apoyada sobre lo que se conoce como 'preámbulos de la
+   fe'.
 3. Hubo una época en la que se hablaba de fe divina y fe humana
-4. Anscombe habla de la fe como se ha propuesto usando la expresión 'creer a X que P' como presupuesto de la fe.
-   1. Tener fe supone confiar en X que P, fe es la creencia puesta en P por la confianza en X.
+4. Anscombe habla de la fe como se ha propuesto usando la expresión 'creer a X
+   que P' como presupuesto de la fe.
+   1. Tener fe supone confiar en X que P, fe es la creencia puesta en P por la
+      confianza en X.
 
-* /Propositum/:  Saying what it means 'to believe someone that x' better describes the structure of believing testimony than subsuming it under belief in causes and effects. There are things we believe because we 'believe God that x'. Believing God supposes that we believe certain things which we are told or taught come as a word from God. Faith is the belief that we accord to those words. In that regard 'believing someone that x' describes the structure of believing testimony and the suppositions of faith. 
+* /Propositum/:  
+:DESCRIPTION: 
+Saying what it means 'to believe someone that x' better describes
+the structure of believing testimony than subsuming it under belief in causes
+and effects. There are things we believe because we 'believe God that x'.
+Believing God supposes that we believe certain things which we are told or
+taught come as a word from God. Faith is the belief that we accord to those
+words. In that regard 'believing someone that x' describes the structure of
+believing testimony and the suppositions of faith.
+:END:
 
-** Hablar del testimonio en el pensamiento de Elizabeth Anscombe es hablar de su analisis de la expresión 'creer a x que p' (fe humana) y 'creer a Dios que p' (fe divina).
+** Testimonio y 'creer que'. 
+Hablar del testimonio en el pensamiento de Elizabeth Anscombe es hablar de su
+analisis de la expresión 'creer a x que p' (fe humana) y 'creer a Dios que p'
+(fe divina).
 
 ** Propositio: "Fe y Conocimiento"
 #+BEGIN_SRC latex
-%SECCIÓN 1: Fe y Conocimiento
+  % SECCIÓN 1: Fe y Conocimiento 
 \section{Fe y Conocimiento}
 #+END_SRC
 
 
 * /////////////////////////////////////////////////////////
-
-
 * /Quaestio/: "I want to say what might be understood about faith by someone who did not have it"
 :DESCARTADAS:
- +Qué significa conocer a Dios?+
- +Fe=creer a X que P > Fe divina es creer a Dios que P > creer a Dios que P es poder escucharlo decir que P. Qué es escuchar a Dios?+
+ +Qué significa conocer a Dios?+ +Fe=creer a X que P > Fe divina es creer a Dios
+ que P > creer a Dios que P es poder escucharlo decir que P. Qué es escuchar a
+ Dios?+
 :END:
 :DESCRIPCIÓN:
-Se plantea la cuestión: decir de la fe lo que puede ser entendido por quien no la tiene. Esto supone describir aquello de la fe que es razonable. Anscombe usa la expresión creer con objeto personal para describir de manera razonable la fe. Además usará la noción de presupuestos de la fe, en lugar de hablar de preámbulos.
+Se plantea la cuestión: decir de la fe lo que puede ser entendido por quien no
+la tiene. Esto supone describir aquello de la fe que es razonable. Anscombe usa
+la expresión creer con objeto personal para describir de manera razonable la fe.
+Además usará la noción de presupuestos de la fe, en lugar de hablar de
+preámbulos.
 :END:
  
 #+BEGIN_SRC latex
-En Oscott College, el seminario de la Archidiócesis de Birmingham, se comenzaron a celebrar las conferencias llamadas \eng{Wiseman Lectures} en 1971. Para estas lecciones ofrecidas anualmente en memoria de Nicolás Wiseman se invitaba un ponente que tratara algún tema relacionado con la filosofía de la religión o alguna materia en torno al ecumenísmo.\footcite[cf.~][p.~7]{wisemanlects}
+  En Oscott College, el seminario de la Archidiócesis de Birmingham, se
+  comenzaron a celebrar las conferencias llamadas \eng{Wiseman Lectures}
+  en 1971. Para estas lecciones ofrecidas anualmente en memoria de Nicolás
+  Wiseman se invitaba un ponente que tratara algún tema relacionado con la
+  filosofía de la religión o alguna materia en torno al
+  ecumenísmo.\footcite[cf.~][p.~7]{wisemanlects}
 
-El 27 de octubre de 1975, para la quinta edición de las conferencias, Anscombe presentó una lección titulada simplemente \eng{Faith}. Allí planteaba la siguiente cuestión:\citalitlar{Quiero decir qué puede ser entendido sobre la fe por alguien que no la tenga; alguien, incluso, que no necesariamente crea que Dios existe, pero que sea capaz de pensar cuidadosa y honestamente sobre ella. Bertrand Russell llamó a la fe ``certeza sin prueba''. Esto parece correcto. Ambrose Bierce tiene una definición en su \eng{`Devil's Dictionary'}: ``La actitud de la mente de uno que cree sin evidencia a uno que habla sin conocimiento cosas sin parangón''.}
-\citalitlar{¿Qué deberíamos pensar de esto?\footcite[p.~115]{faith}}
+  El 27 de octubre de 1975, para la quinta edición de las conferencias, Anscombe
+  presentó una lección titulada simplemente \eng{Faith}. Allí planteaba la
+  siguiente cuestión:\citalitlar{Quiero decir qué puede ser entendido sobre la
+  fe por alguien que no la tenga; alguien, incluso, que no necesariamente crea
+  que Dios existe, pero que sea capaz de pensar cuidadosa y honestamente sobre
+  ella. Bertrand Russell llamó a la fe ``certeza sin prueba''. Esto parece
+  correcto. Ambrose Bierce tiene una definición en su \eng{`Devil's
+  Dictionary'}: ``La actitud de la mente de uno que cree sin evidencia a uno que
+  habla sin conocimiento cosas sin parangón''.} \citalitlar{¿Qué deberíamos
+  pensar de esto?\footcite[p.~115]{faith}} 
 #+END_SRC
 
 
-* /Expositio/: "The right designation for what are called the 'preambles' of faith is not that but at least for part of them, 'presuppositions'. According to faith itself faith is believing God. If the presuppositions are true, it is, then belieiving on the best possible grounds."
+* /Expositio/: "The right designation for what are called the 'preambles' of faith is not that but at least for part of them, 'presuppositions'. According to faith itself faith is believing God. If the presuppositions are true, it is, then believing on the best possible grounds."
 
 ** Vamos a usar la pregunta planteada para introducir algunos preámbulos:
-¿Qué deberíamos pensar de las definiciones que dan Russell y Bierce? 
-¿Esto es todo lo que se puede discernir sobre la fe desde una perspectiva no creyente?
-¿Esto es todo lo que se puede decir sobre la fe desde una perspectiva no creyente?
+¿Qué deberíamos pensar de las definiciones que dan Russell y Bierce? ¿Esto es
+todo lo que se puede discernir sobre la fe desde una perspectiva no creyente?
+¿Esto es todo lo que se puede decir sobre la fe desde una perspectiva no
+creyente?
 
-Hubo una época en la que se vivió gran entusiasmo por la racionalidad de la fe. El caracter racional de la fe estaba sujeto a los llamados preambulos y el paso de estos a la fe. Anscombe entiende que éstos son construcciones ideales. Al menos parte de ellos, sería más apropiado llamarles presuposiciones.
+Hubo una época en la que se vivió gran entusiasmo por la racionalidad de la fe.
+El caracter racional de la fe estaba sujeto a los llamados preambulos y el paso
+de estos a la fe. Anscombe entiende que éstos son construcciones ideales. Al
+menos parte de ellos, sería más apropiado llamarles presuposiciones.
 
 *** Presuposiciones
-Abraham tuvo fe porque:
-Abraham creyó que su descendencia sería tan numerosa como las estrellas porque creyó a Dios.
+Abraham tuvo fe porque: Abraham creyó que su descendencia sería tan numerosa
+como las estrellas porque creyó a Dios.
 
 Presuposiciones de Abraham:
 
-Abraham presupuso que Dios existe.
-Abraham presupuso que el mensaje sobre su descendencia venía de Dios.
-Abraham presupuso que el mensaje dice efectivamente eso. 
+Abraham presupuso que Dios existe. Abraham presupuso que el mensaje sobre su
+descendencia venía de Dios. Abraham presupuso que el mensaje dice efectivamente
+eso.
 
-Abraham creyó que su descendencia sería tan numerosa como las estrellas porque creyó a Dios.
+Abraham creyó que su descendencia sería tan numerosa como las estrellas porque
+creyó a Dios.
 
-Es verdad que Dios existe
-Es verdad que el mensaje sobre la descendencia de Abraham venía de Dios
-Es verdad que el mensaje dice efectivamente eso
+Es verdad que Dios existe Es verdad que el mensaje sobre la descendencia de
+Abraham venía de Dios Es verdad que el mensaje dice efectivamente eso
 
 Entonces Abraham creyó apoyado en el mejor fundamento posible.
 
-Si sólo las presuposiciones son dadas sería tonto pensar que Abraham se hallaba en la actitud de la mente de uno que cree sin evidencia a uno que dice sin conocimiento cosas sin paralelo.
+Si sólo las presuposiciones son dadas sería tonto pensar que Abraham se hallaba
+en la actitud de la mente de uno que cree sin evidencia a uno que dice sin
+conocimiento cosas sin paralelo.
 
-Si las presuposiciones son dadas quedaría refutado decir que Abraham tenía certeza sin prueba. 
+Si las presuposiciones son dadas quedaría refutado decir que Abraham tenía
+certeza sin prueba.
 
 
-¿Hay algo que pueda ser entendido sobre la fe 
+¿Hay algo que pueda ser entendido sobre la fe
 
 
 ** Preámbulos: Significado de Fe y Racionalidad de la fe
@@ -87,25 +131,43 @@ Si las presuposiciones son dadas quedaría refutado decir que Abraham tenía cer
 #+END_SRC
 
 #+BEGIN_SRC latex
-\subsection{``Solíamos creer que la fe católica era racional''}
-Habían pasado casi diez años de la clausura del Concilio \mbox{Vaticano II}; Anscombe comenzó su ponencia recordando cómo en los finales de los años sesenta muchas homilias comenzaban: ``Solíamos creer que\ldots''. ``Soliamos creer ---escuchó una vez--- que no había peor pecado que faltar a misa el domingo''. Escuchar la frase le traía un desaliento alarmado, ya que la implicita oposición que se pretendía establecer con la expresión, por lo general, era desecertada. 
+\subsection{``Solíamos creer que la fe católica era racional''} Habían pasado
+casi diez años de la clausura del Concilio \mbox{Vaticano II}; Anscombe comenzó
+su ponencia recordando cómo en los finales de los años sesenta muchas homilias
+comenzaban: ``Solíamos creer que\ldots''. ``Soliamos creer ---escuchó una vez---
+que no había peor pecado que faltar a misa el domingo''. Escuchar la frase le
+traía un desaliento alarmado, ya que la implicita oposición que se pretendía
+establecer con la expresión, por lo general, era desecertada.
 
-Ahora, hay un ``soliamos creer'' que se podía haber usado con algo de acierto. Hubo una tiempo en el que se profesó gran entusiasmo por la racionalidad. Quizás inspirado por las enseñanzas del Concilio Vaticano I contra el fideismo, pero ciertamente promovido por los estudios neo-tomistas. Se decía entre los entendidos que la fe Católica era racional, el problema era más bein 
+Ahora, hay un ``soliamos creer'' que se podía haber usado con algo de acierto.
+Hubo una tiempo en el que se profesó gran entusiasmo por la racionalidad. Quizás
+inspirado por las enseñanzas del Concilio Vaticano I contra el fideismo, pero
+ciertamente promovido por los estudios neo-tomistas. Se decía entre los
+entendidos que la fe Católica era racional, el problema era más bein 
 #+END_SRC
 **** These opinions attached the character of rationality entirely to what were called the preambles and to the passage from the preambles to faith itself
 *** Faith=short for divine faith=believing God.
+
 #+BEGIN_SRC latex
 \subsection{El significado de la palabra fe}
 
-En el trasfondo del análisis de Anscombe sobre la fe se halla otro trabajo suyo titulado \eng{`What Is It to Believe Someone?'}. 
-Un eslabón importante entre ambas investigaciones se haya en la valoración del uso del concepto `fe'. 
-Ella propone: 
-\citalitinterlin{En la tradición donde el concepto tiene su origen, `fe' es la forma breve de `fe divina' y significa `creer a Dios'.} De esa manera fue usada la expresión, al menos por los pensadores cristianos. 
-Según este modo de hablar 'fe' se distinguía como humana y divina. Fe humana era creer a una persona humana, fe divina era creer a Dios.
+En el trasfondo del análisis de Anscombe sobre la fe se halla otro trabajo suyo
+titulado \eng{`What Is It to Believe Someone?'}. Un eslabón importante entre
+ambas investigaciones se haya en la valoración del uso del concepto `fe'. Ella
+propone: \citalitinterlin{En la tradición donde el concepto tiene su origen,
+`fe' es la forma breve de `fe divina' y significa `creer a Dios'.} De esa manera
+fue usada la expresión, al menos por los pensadores cristianos. Según este modo
+de hablar 'fe' se distinguía como humana y divina. Fe humana era creer a una
+persona humana, fe divina era creer a Dios.
 
-En el uso moderno 'fe' tiende a significar 'creencia religiosa' o 'religión'. Se le llama generalmente 'fe', por ejemplo, a la creencia en la existencia de Dios. 
+En el uso moderno 'fe' tiende a significar 'creencia religiosa' o 'religión'. Se
+le llama generalmente 'fe', por ejemplo, a la creencia en la existencia de Dios.
 
-<<Abrám creyó a Dios (\textgreek{ἐπίστευσεν τῷ Θεῷ}) y ésto se le contó como justicia.>>\footnote{Gn~15,6} De tal modo que es llamado 'padre de la fe'.\footnote{cfr.~Rm~4~y~Ga 3,7} He aquí una expresión sorprendente: <<creer a Dios>>. Abrahám creyó a Dios que su descendiencia sería tan numerosa como las estrellas del cielo, de este modo se describe su fe. 
+<<Abrám creyó a Dios (\textgreek{ἐπίστευσεν τῷ Θεῷ}) y ésto se le contó como
+justicia.>>\footnote{Gn~15,6} De tal modo que es llamado 'padre de la
+fe'.\footnote{cfr.~Rm~4~y~Ga 3,7} He aquí una expresión sorprendente: <<creer a
+Dios>>. Abrahám creyó a Dios que su descendiencia sería tan numerosa como las
+estrellas del cielo, de este modo se describe su fe.
 
 
 
@@ -136,7 +198,7 @@ En el uso moderno 'fe' tiende a significar 'creencia religiosa' o 'religión'. S
 ** What is it to believe someone?
 ** What is it to believe God?
 
-* /Solutio/: "the supposition that someone has faith is the supposition that he believes that something - it may be a voice, it may be something he has been thaught - comes as a word from God. Faith is the the belief he accords that word. So much can be discerned by an unbeliever"
+* /Solutio/: "the supposition that someone has faith is the supposition that he believes that something - it may be a voice, it may be something he has been taught - comes as a word from God. Faith is the the belief he accords that word. So much can be discerned by an unbeliever"
 
 * /In Testimonium/: "We must acknowledge testimony as giving us our larger world in no smaller degree, or even in greater degree than the relation of cause and effect; and believing it is quite dissimilar in structure from belief in causes and effects. What does a man believes when he 'believes it is God speaking?' In relation to the belief that it is God speaking, it doesn't matter how the voice is produced."
 
