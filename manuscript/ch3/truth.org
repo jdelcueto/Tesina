@@ -21,52 +21,34 @@ falsedad) está entrelazada con la pregunta sobre el significado.
 
 Wittgenstein, que "amó la verdad" ofreció más atención a la verdad que al
 significado en el Tractatus, mientras que en las Investigaciones Filosóficas
-parece ser al reves. ¿Anscombe atiende estos temas de la misma manera?
+parece ser al revés. ¿Anscombe atiende estos temas de la misma manera?
 
 - En los escritos de Anscombe ambos temas se tratan por separado pero gozan
   aproximadamente del mismo status.
-- El significado se 
+- El significado se ~
 
 * /Propositum/:  
 :DESCRIPTION: 
-Saying what it means 'to believe someone that x' better describes
-the structure of believing testimony than subsuming it under belief in causes
-and effects. There are things we believe because we 'believe God that x'.
-Believing God supposes that we believe certain things which we are told or
-taught come as a word from God. Faith is the belief that we accord to those
-words. In that regard 'believing someone that x' describes the structure of
-believing testimony and the suppositions of faith.
+
 :END:
 
-** Testimonio y 'creer que'. 
-Hablar del testimonio en el pensamiento de Elizabeth Anscombe es hablar de su
-analisis de la expresión 'creer a x que p' (fe humana) y 'creer a Dios que p'
-(fe divina).
-
-** Propositio: "Fe y Conocimiento"
+** Propositio: "Verdad y Significado"
 #+BEGIN_SRC latex
   % SECCIÓN 1: La verdad
-\section{Significado, religión y verdad}
+\section{Verdad y Significado}
 #+END_SRC
 
 
 * /////////////////////////////////////////////////////////
-* /Quaestio/: Understand faith without it
+* /Quaestio/: What is to have truth? 
 :STATEMENT:
-"I want to say what might be understood about faith by someone who did not have
-it"
+THe proposition has a sense which is independent of the facts.
 :END:
 :DISCARDED:
-+Qué significa conocer a Dios?+ +Fe=creer a X que P > Fe
-divina es creer a Dios que P > creer a Dios que P es poder escucharlo decir que
-P. Qué es escuchar a Dios?+
+
 :END:
 :DESCRIPTION:
-Se plantea la cuestión: decir de la fe lo que puede ser entendido por quien no
-la tiene. Esto supone describir aquello de la fe que es razonable. Anscombe usa
-la expresión creer con objeto personal para describir de manera razonable la fe.
-Además usará la noción de presupuestos de la fe, en lugar de hablar de
-preámbulos.
+
 :END:
  
 #+BEGIN_SRC latex
@@ -74,124 +56,27 @@ Quaestio
 #+END_SRC
 
 
-* /Expositio/: Presuppositions of faith
+* /Expositio/: What is truth?
 :STATEMENT:
-"The right designation for what are called the 'preambles' of faith is not that
-but at least for part of them, 'presuppositions'. According to faith itself
-faith is believing God. If the presuppositions are true, it is, then believing
-on the best possible grounds."
+
 :END:
 
-** Vamos a usar la pregunta planteada para introducir algunos preámbulos:
-¿Qué deberíamos pensar de las definiciones que dan Russell y Bierce? ¿Esto es
-todo lo que se puede discernir sobre la fe desde una perspectiva no creyente?
-¿Esto es todo lo que se puede decir sobre la fe desde una perspectiva no
-creyente?
 
-Hubo una época en la que se vivió gran entusiasmo por la racionalidad de la fe.
-El caracter racional de la fe estaba sujeto a los llamados preambulos y el paso
-de estos a la fe. Anscombe entiende que éstos son construcciones ideales. Al
-menos parte de ellos, sería más apropiado llamarles presuposiciones.
-
-*** Presuposiciones
-Abraham tuvo fe porque: Abraham creyó que su descendencia sería tan numerosa
-como las estrellas porque creyó a Dios.
-
-Presuposiciones de Abraham:
-
-Abraham presupuso que Dios existe. Abraham presupuso que el mensaje sobre su
-descendencia venía de Dios. Abraham presupuso que el mensaje dice efectivamente
-eso.
-
-Abraham creyó que su descendencia sería tan numerosa como las estrellas porque
-creyó a Dios.
-
-Es verdad que Dios existe Es verdad que el mensaje sobre la descendencia de
-Abraham venía de Dios Es verdad que el mensaje dice efectivamente eso
-
-Entonces Abraham creyó apoyado en el mejor fundamento posible.
-
-Si sólo las presuposiciones son dadas sería tonto pensar que Abraham se hallaba
-en la actitud de la mente de uno que cree sin evidencia a uno que dice sin
-conocimiento cosas sin paralelo.
-
-Si las presuposiciones son dadas quedaría refutado decir que Abraham tenía
-certeza sin prueba.
-
-
-¿Hay algo que pueda ser entendido sobre la fe
-
-
-** Preámbulos: Significado de Fe y Racionalidad de la fe
-
-*** "The word was that the Catholic Christian Faith was Rational... a problem was how it was gratuitous"
-#+BEGIN_SRC latex 
-
-#+END_SRC
-
-#+BEGIN_SRC latex
-Expositio
-#+END_SRC
-**** These opinions attached the character of rationality entirely to what were called the preambles and to the passage from the preambles to faith itself
-*** Faith=short for divine faith=believing God.
-
-#+BEGIN_SRC latex
-
-#+END_SRC
-
-
-* /Disputatio/: Believing God
+* /Disputatio/: 
 :STATEMENT: 
-"But is there even the possibility of believing God?"
+
 :END:
-** Fe humana y fe divina 
-*** "At one time there was the following way of speaking: faith was distinguished as human and divine."
-**** Human faith was believing a human being
-**** divine faith was believing God
-***** Occurring in discussion without any adjective, the word 'faith' tended to mean mostly divine faith
-**** Both sorts of faith have presuppositions
 
-*** What Is It to Believe Someone?
-**** Preamble
-***** What's wrong with Euthydemus?
-****** Question about how believing someone is problematic. 
-***** Believing someone is a topic problematic enough to need philosophical enquiry and important enough to deserve it's attention.
-***** Old value of the expression 'faith'
-****** 'I might have called my subject faith'
-***** New value of the expression 'faith'
-****** belief in God at all o religious belief
-****** 'Abraham believed God'
-****** Disgusting effect in thought about religion
-***** Coinage of the expression "believe x that p" (belief with a personal object)
-** What is it to believe someone?
-** What is it to believe God?
 
-* /Solutio/: Belief accorded to the word of God
+* /Solutio/: 
 :STATEMENT:
-"the supposition that someone has faith is the supposition that he believes that
-something - it may be a voice, it may be something he has been taught - comes as
-a word from God. Faith is the the belief he accords that word. So much can be
-discerned by an unbeliever"
+
 :END:
 
-* /In Testimonium/: Structure of belief in testimony
+* /In Testimonium/: 
 :STATEMENT:
-"We must acknowledge testimony as giving us our larger world in no smaller
-degree, or even in greater degree than the relation of cause and effect; and
-believing it is quite dissimilar in structure from belief in causes and effects.
-What does a man believes when he 'believes it is God speaking?' In relation to
-the belief that it is God speaking, it doesn't matter how the voice is
-produced."
+
 :END:
 
-** Structure of testimony:
-Believing testimony is dissimilar in structure from belief in causes and
-effects. Testimony gives us our larger world and is not a detachable part of our
-knowledge of reality. The topic of believing x that p is important for the
-theory of knowledge because the greater part of our knowledge of reality rests
-upon the belief that we repose in things we have been taught and told.
-Describing what it means to believe someone that x better describes the
-structure of believing testimony than subsuming it under belief in causes and
-effects. There are certain things which we are told or taught that we believe
-come as a word from God. Believing God supposes that we regard certain
-testimonies come as words from God.
+
+
