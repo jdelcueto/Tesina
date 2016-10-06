@@ -1,0 +1,49 @@
+* On Truth
+
+-  To have the truth, to stand in the truth --what are these?
+-  What did our Lord mean by calling /himself/ the truth?
+-  "There is no such truth, there are only truths"
+-  What are the things that have truth in them? Does creation? Do
+   actions?
+-  What does it mean that the good of practical reason is 'truth in
+   agreement with right desire?
+-  Do things made by men have truth in them?
+-  What does it mean that at (or skill) is productive disposition with a
+   true logos?
+-  */What is the force of counting truth among 'trascendentals?/* >
+   /trascendentals/ > (the things that run through all the categories >
+   and all the special forms of things, > and don't belong each in one
+   category)
+
+** What is the primary bearer of truth?
+
+-  People ask this and concentrate on a narrow range of possible
+   answers: judgments, beliefs, etc...
+-  Many would stop at statements or propositions as bearers of true
+-  In theory of meaning these *classes* are obviously the ones most
+   naturally thought of as containing the bearers of the predicate
+   /"truth"/
+
+** Anselm: what is true in a proposition
+
+-  Is the 'res enunciata' the truth of the proposition? > /res
+   enunciata/ -- the fact, the corresponding reality the true
+   proposition tells
+
+** what is the primacy of truth over falsehood?
+
+Wittgenstein and Anselm are /épris/ with this question.
+
+Wittgenstein: - 'the proposition has a sense which is independent of the
+facts' - the proposition does not lose its meaning when the fact is no
+more - meaning =/= truth
+
+** How Anselm deals with the question about the primacy of truth
+
+-  he asserts the question after answering it
+-  He answers it by asking the pupil /what assertion is for/ > /for
+   signifying that to be the case which is the case/ > pupil's account
+   of truth: Nihil aliud scio nisi quia cum significat esse quod est,
+   tunc est in ea veritas et est vera' > {/'I only know that when it
+   signifies something's being so and it is so, truth is in it and it is
+   true'/}
