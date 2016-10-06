@@ -1,38 +1,103 @@
-% Hi-lock: (("\\\\todo{" (0 (quote hi-green) prepend)))  
-%------------------------------------------------------------------------------------
+# -*- mode: org; mode: auto-fill; word-wrap:t; truncate-lines: t; -*-
+# Hi-lock: (("\\\\todo{" (0 (quote hi-green) prepend)))  
 #+PROPERTY: header-args:latex :tangle ../../tex/ch3/3_1.tex
+# ------------------------------------------------------------------------------------
 
-* 3.1: Anscombe y Wittgenstein
+* /Lectio/: 
+:DESCRIPTION:
+An Introduction to Wittgenstein's Tractatus
+:END:
+** Análisis
+Haremos un recorrido por la vida de Anscombe y Wittgenstein
+
+* /Propositum/:  
+:DESCRIPTION: 
+Saying what it means 'to believe someone that x' better describes
+the structure of believing testimony than subsuming it under belief in causes
+and effects. There are things we believe because we 'believe God that x'.
+Believing God supposes that we believe certain things which we are told or
+taught come as a word from God. Faith is the belief that we accord to those
+words. In that regard 'believing someone that x' describes the structure of
+believing testimony and the suppositions of faith.
+:END:
+
+** Testimonio y 'creer que'. 
+Hablar del testimonio en el pensamiento de Elizabeth Anscombe es hablar de su
+analisis de la expresión 'creer a x que p' (fe humana) y 'creer a Dios que p'
+(fe divina).
+
+** Propositio: "Anscombe y Wittgenstein"
 #+BEGIN_SRC latex
 %SECCIÓN 1: ANSCOMBE Y WITTGENSTEIN
 \section{Anscombe y Wittgenstein}
 #+END_SRC
- 
-* 3.1.1: Quaestio: 
-** Wittgenstein: el problema de la filosofía es un problema del lenguaje
-*** El método de la filosofía es sacar a la luz la falta de referencia
-#+BEGIN_SRC latex 
-\subsection{El método de Wittgenstein}
 
+* /////////////////////////////////////////////////////////
+* /Quaestio/: Wittgenstein as a turning point in philosophical method
+:STATEMENT:
+Wittgenstein: el problema de la filosofía es un problema del lenguaje
+El método de la filosofía es sacar a la luz la falta de referencia
+:END:
+:Lent41-1951:
+| L41                                                                              | E41                                                            | M41                                                               |
+| X                                                                                | X                                                              | X                                                                 |
+| L42                                                                              | E42                                                            | M42                                                               |
+| X                                                                                | X                                                              | Anscombe                                                          |
+| L43                                                                              | E43                                                            | M43                                                               |
+| Anscombe                                                                         | Newcastle                                                      | Newcastle                                                         |
+| L44                                                                              | E44                                                            | M44                                                               |
+| Swansea                                                                          | Swansea                                                        | Anscombe (nerve of phenomenalism extracted)                       |
+| L45                                                                              | E45                                                            | M45                                                               |
+| Anscombe                                                                         | Anscombe                                                       | Anscombe                                                          |
+| L46                                                                              | E46                                                            | M46                                                               |
+| Anscombe                                                                         | Anscombe                                                       | Anscombe at Oxford                                                |
+| L47                                                                              | E47                                                            | M47                                                               |
+| Anscombe at Oxford                                                               | Anscombe at Oxford                                             | Wittgenstein Sabbatical                                           |
+| 1948                                                                             | 1948                                                           | 1948                                                              |
+| Ireland                                                                          | Ireland                                                        | Ireland (Anscombe visits in december)                             |
+| 1949                                                                             | 1949                                                           | 1949                                                              |
+|                                                                                  | Ithaca (Malcolm) (July)                                        | 9 november: cambridge 25 november: diagnosed with prostate cancer |
+| 1950                                                                             | 1950                                                           | 1950                                                              |
+|                                                                                  | March left Vienna for London. April moved back to cambridge    | 25 of april went with anscombe in oxford                          |
+| october left for norway                                                          | came back to oxford and tried to go back in december to norway |                                                                   |
+|                                                                                  |                                                                |                                                                   |
+| february 1951 finally resolved to stay at bevan's home in storeys end, cambridge |                                                                |                                                                   |
+:END:
+
+
+ANSCOMBE LLEGÓ A CAMBRIDGE EN M42 W. OFRECIA CLASES LOS SÁBADOS Y TRABAJABA EN
+GUY'S. DESDE E43 HASTA E44 NO DIO CLASES. EN M44 EMPEZÓ OTRA VEZ. EN L45 EMPEZÓ
+A TRABAJAR MATERIAL CORRESPONDIENTE A 189-421 PI!!!!!!
 En 1942 Elizabeth Anscombe llegó a Cambridge.
 
-En cierta ocasión Wittgenstein recibió a Anscombe con una pregunta: <<¿Por qué la
-gente dice que era natural pensar que el sol giraba alrededor de la tierra en
-lugar de que la tierra rotaba en su eje?>> Elizabeth contestó: <<Supongo que
-porque se veía como si el sol girara alrededor de la tierra.>> <<Bueno\ldots>>,
-añadió Wittgenstein, <<¿cómo se hubiera visto si se hubiera \emph{visto} como si
-la tierra rotara en su propio eje?>> Anscombe reaccionó extendiendo las manos
-delante de ella con las palmas hacia arriba y, levantándolas desde sus rodillas
-con un movimiento circular, se inclinó hacia atrás asumiendo una expresión de
-mareo. <<¡Exactamente!>> exclamó Wittgenstein.\footcite[cf.~][p.~151]{IWT}
+#+BEGIN_SRC latex 
+  \subsection{El método de Wittgenstein}
+  El 16 de octubre de 1944 Wittgenstein reanudó su itinerario habitual de clases
+  con dos encuentros de dos horas cada semana. Aquél trimestre 'Michaelmas'
+  contaba seis estudiantes en su curso, entre ellos Elizabeth Anscombe. Las
+  lecciones entre 1945 y 1947 trataban sobre psicología filosófica, pero el tema
+  no era lo importante, sino su método. Anscombe lo describiría como 
 
-Anscombe se percató del problema; la pregunta de Wittgenstein había puesto en
-evidencia que hasta aquél momento no había ofrecido ningún significado relevante
-para su expresión \emph{``se veía como si''} en su respuesta \emph{``se veía
-    como si el sol girara alrededor de la tierra''}. 
+
+
+
+  En cierta ocasión Wittgenstein recibió a Anscombe con una pregunta: <<¿Por qué la
+  gente dice que era natural pensar que el sol giraba alrededor de la tierra en
+  lugar de que la tierra rotaba en su eje?>> Elizabeth contestó: <<Supongo que
+  porque se veía como si el sol girara alrededor de la tierra.>> <<Bueno\ldots>>,
+  añadió Wittgenstein, <<¿cómo se hubiera visto si se hubiera \emph{visto} como si
+  la tierra rotara en su propio eje?>> Anscombe reaccionó extendiendo las manos
+  delante de ella con las palmas hacia arriba y, levantándolas desde sus rodillas
+  con un movimiento circular, se inclinó hacia atrás asumiendo una expresión de
+  mareo. <<¡Exactamente!>> exclamó Wittgenstein.\footcite[cf.~][p.~151]{IWT}
+
+  Anscombe se percató del problema; la pregunta de Wittgenstein había puesto en
+  evidencia que hasta aquél momento no había ofrecido ningún significado relevante
+  para su expresión \emph{``se veía como si''} en su respuesta \emph{``se veía
+      como si el sol girara alrededor de la tierra''}. 
  
-¿Qué tipo de problema es este? 
-¿Qué falta cuando una expresión carece de significado?
+  ¿Qué tipo de problema es este? 
+  ¿Qué falta cuando una expresión carece de significado?
 #+END_SRC
 * Panorama
 #+BEGIN_SRC latex 

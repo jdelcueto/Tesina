@@ -2,6 +2,7 @@
 # Hi-lock: (("\\\\todo{" (0 (quote hi-green) prepend)))  
 #+PROPERTY: header-args:latex :tangle ../../tex/ch3/3_2.tex
 # ------------------------------------------------------------------------------------
+# Santa Teresa Benedicta de la Cruz, ruega por nosotros
 
 * /Lectio/: 
 :DESCRIPTION:
@@ -10,7 +11,7 @@ Truth: Anselm and Wittgenstein/Verdad
 'Making True'
 
 :END:
-** Analisis
+** Análisis
 Atender la razonabilidad de la tarea de dar testimonio del Hecho de Cristo como
 anuncio de salvación supone:
 <<recuperar la legitimidad de la pregunta filosófica y religiosa sobre la
