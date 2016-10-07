@@ -43,7 +43,7 @@ parece ser al revés. ¿Anscombe atiende estos temas de la misma manera?
 * /////////////////////////////////////////////////////////
 * /Quaestio/: What is to have truth? 
 :STATEMENT:
-THe proposition has a sense which is independent of the facts.
+The proposition has a sense which is independent of the facts.
 :END:
 :DISCARDED:
 

@@ -7,7 +7,7 @@
 :DESCRIPTION:
 Faith & What is it to believe someone
 :END:
-** Analisis
+** Análisis
 Después de atender la pregunta sobre la verdad vamos a examinar el análisis de
 la fe que hace Anscombe.
 
