@@ -72,15 +72,17 @@ En 1942 Elizabeth Anscombe llegó a Cambridge.
 
 #+BEGIN_SRC latex 
   \subsection{El método de Wittgenstein}
-  El 16 de octubre de 1944 Wittgenstein reanudó su itinerario habitual de clases
-  con dos encuentros de dos horas cada semana. Aquél trimestre 'Michaelmas'
-  contaba seis estudiantes en su curso, entre ellos Elizabeth Anscombe. Las
-  lecciones entre 1945 y 1947 trataban sobre psicología filosófica, pero el tema
-  no era lo importante, sino su método. Anscombe lo describiría como 
-
-
-
-
+  El 16 de octubre de 1944 Ludwig Wittgenstein reanudó su itinerario de clases en
+  Cambridge con dos encuentros de dos horas cada semana. Aquél trimestre
+  'Michaelmas' contaba seis estudiantes en su curso, entre ellos Elizabeth
+  Anscombe. Las lecciones trataban sobre psicología filosófica, pero su interés no
+  era impartir una materia, sino un método. Era como un maestro de piano
+  ---decía---, intentaba enseñar un estilo de pensar, una técnica. Su clase no era
+  como escuchar un concierto para sus estudiantes, más bien lo comparaban a
+  escuchar a un gran pianista practicando: eran testigos de aquellas acciones que
+  van dirigidas a construir una gran representación
+  musical.\footcite[p.~357]{pubnpriv}
+ 
   En cierta ocasión Wittgenstein recibió a Anscombe con una pregunta: <<¿Por qué la
   gente dice que era natural pensar que el sol giraba alrededor de la tierra en
   lugar de que la tierra rotaba en su eje?>> Elizabeth contestó: <<Supongo que
@@ -100,7 +102,9 @@ En 1942 Elizabeth Anscombe llegó a Cambridge.
   ¿Qué falta cuando una expresión carece de significado?
 #+END_SRC
 * Panorama
+wild life striving to erupt into the open
 #+BEGIN_SRC latex 
+\subsection{Vida salvaje luchando por hacer erupción en campo abierto.}
 Ordinariamente tomamos parte en la actividad humana que es el
 lenguaje. Jugamos el juego del lenguaje. ---¿Jugarlo es entenderlo?--- 
 A la vista de Wittgenstein saltaban extraños problemas sobre las reglas de este
