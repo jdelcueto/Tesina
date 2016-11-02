@@ -1,4 +1,4 @@
-# -*- mode: org; mode: auto-fill; word-wrap:t; truncate-lines: t; -*-
+# -*- mode: org; mode: auto-fill; word-wrap:t; truncate-lines: t; org-hide-emphasis-markers: t; -*-
 # Hi-lock: (("\\\\todo{" (0 (quote hi-green) prepend)))  
 #+PROPERTY: header-args:latex :tangle ../../tex/ch3/3_1.tex
 # ------------------------------------------------------------------------------------
@@ -77,11 +77,10 @@ En 1942 Elizabeth Anscombe llegó a Cambridge.
   'Michaelmas' contaba seis estudiantes en su curso, entre ellos Elizabeth
   Anscombe. Las lecciones trataban sobre psicología filosófica, pero su interés no
   era impartir una materia, sino un método. Era como un maestro de piano
-  ---decía---, intentaba enseñar un estilo de pensar, una técnica. Su clase no era
-  como escuchar un concierto para sus estudiantes, más bien lo comparaban a
-  escuchar a un gran pianista practicando: eran testigos de aquellas acciones que
-  van dirigidas a construir una gran representación
-  musical.\footcite[p.~357]{pubnpriv}
+  ---decía---, intentaba enseñar un estilo de pensar, una técnica. Para sus
+  estudiantes sus clases eran como escuchar a un gran pianista practicando:
+  atestiguaban aquellas acciones que van dirigidas a construir una gran
+  representación musical.\footcite[p.~357]{pubnpriv}
  
   En cierta ocasión Wittgenstein recibió a Anscombe con una pregunta: <<¿Por qué la
   gente dice que era natural pensar que el sol giraba alrededor de la tierra en
@@ -96,7 +95,7 @@ En 1942 Elizabeth Anscombe llegó a Cambridge.
   Anscombe se percató del problema; la pregunta de Wittgenstein había puesto en
   evidencia que hasta aquél momento no había ofrecido ningún significado relevante
   para su expresión \emph{``se veía como si''} en su respuesta \emph{``se veía
-      como si el sol girara alrededor de la tierra''}. 
+    como si el sol girara alrededor de la tierra''}.
  
   ¿Qué tipo de problema es este? 
   ¿Qué falta cuando una expresión carece de significado?
@@ -107,41 +106,63 @@ La filosofía de Wittgenstein como genuina tarea artística.wild life striving t
 :END:
 #+BEGIN_SRC latex 
   \subsection{El arte de hacer filosofía}
+  \engcitation{``Within all great art there is a WILD animal: tamed.''}
+  Wittgenstein pensaba que
+  \citalitinterlin{dentro de todo buen arte hay un animal salvaje domado}\footcite[p.~43e]{cnv}. 
+  Su talante artístico, sin embargo, no manifestaba esta primitiva vitalidad; o
+  como él mismo decía:
+  \engcitation{``In my artistic activities I have merely good manners''} 
+  \citalitinterlin{en mis actividades artísticas tengo meramente buenos modales.}\footcite[p.~29e]{cnv}
+  Ejemplo de estos ``buenos modales'' fue el diseño que realizó para la casa de su
+  hermana en Viena, terminada en 1928. 
+  \engcitation{``my house for Gretl is the product of a sensitive ear, good
+    manners, the expression of great understanding... wild life striving to erupt
+    in the open is lacking... health is lacking (Kierkergaard)''}
+  Trabajó en los interiores de la casa con exhaustiva minuciosidad y el producto
+  manifestaba gran entendimiento, ``buen oido'', pero le escaseaba ``salud'',
+  pensaba él.\footcite[p.~43e]{cnv}
+  \engcitation{``Even in music... feeling, he showed above all great
+    understanding, rather than manifesting wild life... When he played music with
+    others... his interest was in getting it right... When he played, he was not
+    expressing himself... but the thoughts... of others. He was probably right to
+    regard himself not as creative but as reproductive ...It was only in
+    philosophy that his creativity could really be awakened. Only then, as Russell
+    had long ago noticed, does one see in him 'wild life striving to erupt in the
+    open''}
+  Incluso en la música, arte por la que tenía la mayor afición, era ejemplar su
+  extraordinaria exactitud. Cuando tocaba con otros ponía su mayor interés en
+  lograr una expresión exacta y correcta, recreando la música y los pensamientos
+  de otros, más que expresándose a sí mismo. Perseguía reproducir más que crear.
 
-  \todo{``Within all great art there is a WILD animal: tamed.''} Wittgenstein
-  pensaba que \citalitinterlin{dentro de todo buen arte hay un animal salvaje
-    domado}\footcite[p.~43e]{cnv}. Su talante artístico, sin embargo, no
-  manifestaba esta primitiva vitalidad; o como él mismo decía:\todo{``In my
-    artistic activities I have merely good manners''}\citalitinterlin{en mis
-    actividades artísticas tengo meramente buenos modales.} \footcite[p.~29e]{cnv}
+  Esta fuerza creativa ausente en su rigurosa actitud hacia la actividad artística
+  estallaba, sin embargo, en su actividad filosófica. Aquella cualidad que él
+  encontraba característica del buen arte, esa vida salvaje luchando por emerger
+  abiertamente, estaba en su hacer filosofía.  
 
-  Ejemplo de estos buenos modales fue el diseño que realizó para la casa de su
-  hermana en Viena, terminada en 1928. Trabajó en los interiores de la casa con
-  exhaustiva minuciosidad y el producto manifestaba gran entendimiento, ``buen
-  oido'', pero le escaseaba ``salud'', pensaba él\footcite[p.~43e]{cnv}.
-  \todo{``In the same sense: my house for Gretl is the product of a decidedly
-    sensitive ear, good manners, the expression of great understanding. But
-    primordial life, wild life striving to erupt in the open -- is lacking. And
-    you might say, health is lacking (Kierkergaard)''}
+  Y la filosofía nació así en él. Como una fuerza violenta. Se hallaba estudiando
+  ingeniería en Manchester y se interesó por los fundamentos de las matemáticas.
+  Este interés no tardó en convertirse en el deseo de elaborar un trabajo
+  filosófico. Su hermana Hermine le describe así en sus memorias de la familia
+  Wittgenstein:
+  \citalitlar{Fue repentinamente agarrado por la filosofía ---es decir, por la
+    reflexión en problemas filosóficos--- tan violentamente y tan en contra de
+    su voluntad que sufrió severamente por la doble y conflictiva llamada
+    interior y se veía a sí mismo como roto en dos. Una de muchas
+    transformaciones por las que pasaría en su vida había venido sobre él y le
+    estremeció hasta lo más profundo. Estaba concentrado en escribir un trabajo
+    filosófico y finalmente determinó mostrar el plan de su obra al Profesor
+    Frege en Jena, quien había discutido preguntas similares. [\ldots] Frege
+    alentó a Ludwig en su búsqueda filosófica y le aconsejó que fuera a
+    Cambridge como alumno del Profesor Russell, cosa que Ludwig ciertamente
+    hizo.\footcite[p. 73]{mcguinness}}
 
-  Cuando tocaba música con otros ponía su mayor interés en lograr una expresión
-  exacta y correcta, recreando la música y los pensamientos de otros, más que
-  expresándose a sí mismo. Más que crear, reproducía. \todo{``Even in
-    music, the art for which Wittgenstein had the Greatest feeling, he showed
-    above all great understanding, rather than manifesting wild life... When he
-    played music with others... his interest was in getting it right, in using
-    his acutelysensitive ear to impose upon his fellow musicians an
-    extraordinary exactitude of expression. One could even say he was not
-    intereste in creating music, but in recreating it. When he played, he was
-    not expressing himself, his own primordial life, but the thoughts, the life
-    of others. He was probably right to regard himself not as creative but as
-    reproductive ...It was only in philosophy that his creativity could really
-    be awakened. Only then, as Russell had long ago noticed, does one see in him
-    'wild life striving to erupt in the open''}
+  Estudiando ingeniería en Manchester se interesó por los fundamentos de las
+  matemáticas. Desde las perspectivas de Frege y Russell identificó los problemas
+  de explicar dichos fundamentos en términos de premisas lógicas. Confrontando los
+  problemas fundamentales de la lógica describió las principales razones de los
+  problemas de la filosofía como confusiones en el uso del lenguaje.
 
 
-    Vida salvaje luchando por hacer erupción en campo abierto. Vida Salvaje
-    luchando por emerger abiertamente.
 
   Ordinariamente tomamos parte en la actividad humana que es el
   lenguaje. Jugamos el juego del lenguaje. ---¿Jugarlo es entenderlo?--- 
@@ -151,12 +172,6 @@ La filosofía de Wittgenstein como genuina tarea artística.wild life striving t
   Esta tendencia ilustra una cualidad del carácter filosófico de Wittgenstein: su
   preocupación por investigaciones acerca de las cuestiones más fundamentales. 
 
-  Estudiando ingeniería en Manchester se interesó por los fundamentos de las
-  matemáticas. Desde las perspectivas de Frege y Russell identificó los problemas
-  de explicar dichos fundamentos en términos de premisas lógicas. 
-  Confrontando los problemas fundamentales de la lógica 
-  describió las principales razones de los problemas de la filosofía como
-  confusiones en el uso del lenguaje. 
 
   A lo largo de esta busqueda de respuestas fundamentales el pensamiento de
   Wittgenstein pasó por diversas transformaciones. Sin embargo una de las
@@ -275,8 +290,12 @@ La filosofía de Wittgenstein como genuina tarea artística.wild life striving t
   }
 
 
-  \todo{introducir algunos contrastes y relaciones entre Anscombe y Wittgenstein
+  \pnote{introducir algunos contrastes y relaciones entre Anscombe y Wittgenstein
       para explicar la incursión en la vida/pensamiento de W.}
+
+
+
+
 
   %TERCERA CUESTIÓN: DE LA ILUSTRACIÓN AL TRACTATUS
   \ifdraft{\subsubsection{Desde la Ilustración hacia el desarrollo del Tractatus}}{}
@@ -309,20 +328,11 @@ La filosofía de Wittgenstein como genuina tarea artística.wild life striving t
 
   \todo{El propósito de recorrer el desarrollo que lleva al Tractatus es ofrecer
       un trasfondo a los puntos que resaltamos más adelante.}
+
   Los primeros esfuerzos de Wittgenstein por escribir una obra sobre filosofía
   habían comenzado en 1911. En otoño de ese año en lugar de continuar sus estudios
   de ingeniería en Manchester, determinó irse a Cambridge donde Bertrand Russell
   ofrecía sus lecciones. Su hermana le describe en esa época:   
-  \citalitlar{Fue repentinamente agarrado por la filosofía ---es decir, por la
-      reflexión en problemas filosóficos--- tan violentamente y tan en contra de su
-      voluntad que sufrió severamente por la doble y conflictiva llamada interior
-      y se veía a sí mismo como roto en dos. Una de muchas transformaciones por las
-      que pasaría en su vida había venido sobre él y le estremeció hasta lo más
-      profundo. Estaba concentrado en escribir un trabajo filosófico y finalmente
-      determinó mostrar el plan de su obra al Profesor Frege en Jena, quien
-      había discutido preguntas similares. [\ldots] Frege alentó a Ludwig en su
-      búsqueda filosófica y le aconsejó que fuera a Cambridge como alumno del
-      Profesor Russell, cosa que Ludwig ciertamente hizo.\footcite[p. 73]{mcguinness}}
 
   Asistió a un término de lecciones con Russell y al finalizar no estaba seguro de
   abandonar la ingeniería por la filosofía, se cuestionaba si verdaderamente tenía

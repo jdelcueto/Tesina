@@ -101,6 +101,24 @@ marginparwidth=5cm, marginparsep=1cm]{geometry}
 %Margin notes
 \usepackage{marginnote}
 
+
+%todonotes for recollection
+\usepackage[obeyDraft,textsize=small]{todonotes}
+
+\newcommand{\engcitation}[1]{\todo[
+    backgroundcolor=white,
+    linecolor=gray,
+    bordercolor=white
+    ]{\emph{{\color[rgb]{0.5,0.5,0.5}#1}}}}
+
+\newcommand{\pnote}[1]{\todo[
+    backgroundcolor=green!25,
+    linecolor=green!25,bordercolor=white
+    ]{#1}}
+
+
+
+
 %TITLES-----------------------
 %Numbering Depth:
 \setcounter{secnumdepth}{5}
