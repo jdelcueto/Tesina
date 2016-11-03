@@ -129,15 +129,16 @@ La filosofía de Wittgenstein como genuina tarea artística.wild life striving t
     philosophy that his creativity could really be awakened. Only then, as Russell
     had long ago noticed, does one see in him 'wild life striving to erupt in the
     open''}
-  Incluso en la música, arte por la que tenía la mayor afición, era ejemplar su
-  extraordinaria exactitud. Cuando tocaba con otros ponía su mayor interés en
-  lograr una expresión exacta y correcta, recreando la música y los pensamientos
-  de otros, más que expresándose a sí mismo. Perseguía reproducir más que crear.
+  
+Incluso en la música, arte por la que tenía la mayor afición, era llamativa su
+  recia exactitud. Cuando tocaba con otros ponía su mayor interés en
+  lograr una expresión exacta y correcta, recreando música y pensamientos
+  ajenos, más que expresándose a sí mismo. Perseguía reproducir más que crear.\footcite[loc.˜]{monk}
 
   Esta fuerza creativa ausente en su rigurosa actitud hacia la actividad artística
   estallaba, sin embargo, en su actividad filosófica. Aquella cualidad que él
   encontraba característica del buen arte, esa vida salvaje luchando por emerger
-  abiertamente, estaba en su hacer filosofía.  
+  abiertamente,\footcite[cf.˜][loc.˜]{monk} estaba en su hacer filosofía.
 
   Y la filosofía nació así en él. Como una fuerza violenta. Se hallaba estudiando
   ingeniería en Manchester y se interesó por los fundamentos de las matemáticas.
@@ -156,28 +157,11 @@ La filosofía de Wittgenstein como genuina tarea artística.wild life striving t
     Cambridge como alumno del Profesor Russell, cosa que Ludwig ciertamente
     hizo.\footcite[p. 73]{mcguinness}}
 
-  Estudiando ingeniería en Manchester se interesó por los fundamentos de las
-  matemáticas. Desde las perspectivas de Frege y Russell identificó los problemas
-  de explicar dichos fundamentos en términos de premisas lógicas. Confrontando los
-  problemas fundamentales de la lógica describió las principales razones de los
-  problemas de la filosofía como confusiones en el uso del lenguaje.
+La investigación filosófica comenzada en aquel momento se convirtió en la tarea del resto de su vida.
+Sus incipientes ideas filosóficas pasarían por diversas transformaciones. 
+Sin embargo una de las constantes importantes en su pensamiento es su definición de la naturaleza de los problemas filosóficos.
 
-
-
-  Ordinariamente tomamos parte en la actividad humana que es el
-  lenguaje. Jugamos el juego del lenguaje. ---¿Jugarlo es entenderlo?--- 
-  A la vista de Wittgenstein saltaban extraños problemas sobre las reglas de este
-  juego; entonces no podía evitar escudriñarlas al
-  detalle.\footcite[cf.~][loc.7099]{monk} 
-  Esta tendencia ilustra una cualidad del carácter filosófico de Wittgenstein: su
-  preocupación por investigaciones acerca de las cuestiones más fundamentales. 
-
-
-  A lo largo de esta busqueda de respuestas fundamentales el pensamiento de
-  Wittgenstein pasó por diversas transformaciones. Sin embargo una de las
-  constantes importantes en el desarrollo de sus reflexiones fue su impresión de
-  la naturaleza de los problemas filosóficos.
-  Las cuestiones de la filosofía no son problemáticas por ser erróneas, sino por
+  Para Wittgenstein las cuestiones de la filosofía no son problemáticas por ser erróneas, sino por
   no tener significado.\footcite[cf.~][4.003]{tractatus} Una proposición sin
   significado que no es puesta al descubierto como tal
   atrapa al filósofo dentro de una confusión del lenguaje que no le permite
@@ -192,6 +176,13 @@ La filosofía de Wittgenstein como genuina tarea artística.wild life striving t
   confusiones filosóficas fue su respuesta más definitiva a la naturaleza de estos
   problemas. Para ello halló los más eficaces remedios en sus investigaciones sobre el
   significado y el sentido del lenguaje.
+
+  Ordinariamente tomamos parte en la actividad humana que es el
+  lenguaje. Jugamos el juego del lenguaje. ---¿Jugarlo es entenderlo?--- 
+  A la vista de Wittgenstein saltaban extraños problemas sobre las reglas de este
+  juego; entonces no podía evitar escudriñarlas al
+  detalle.\footcite[cf.~][loc.7099]{monk} Este análisis del lenguaje está a la raíz de sus ideas
+sobre el sentido, el significado y la verdad.
 
   Durante su vida sostuvo dos grandes descripciones del significado.
   Originalmente describió el lenguaje como una imagen que representa el posible
@@ -210,91 +201,18 @@ La filosofía de Wittgenstein como genuina tarea artística.wild life striving t
   son representadas por dos importantes tratados. 
   El \emph{'Tractatus Logico\=/Philosophicus'}, publicado en 1921, recoge sus
   esfuerzos por elaborar un gran tratado filosófico comenzados en 1911 y
-  culminados durante la Primera Guerra Mundial. El segundo, \emph{'Philosophical 
-      Investigations'}, traducido por Anscombe y publicado posthumamente en 1953,
+  culminados durante la Primera Guerra Mundial. El segundo, \emph{'Philosophische 
+      Untersuchungen'}, traducido por Anscombe y publicado posthumamente en 1953,
   fue elaborado a partir de múltiples manuscritos desarrollados por Wittgenstein
   desde su regreso a Cambridge en 1929 hasta su muerte en 1951. 
-  Ambas obras generaron un 'corte' en la historia de la filosofía. La manera de
-  hacer filosofía cambió después de cada tratado.\footcite[cf.~][p.~181]{twocuts}
+  Ambas obras generaron un 'corte' en la historia de la filosofía, es decir, cambiaron el modo de
+  hacer filosofía desde entonces.\footcite[cf.~][p.~181]{twocuts}
 
-  %\begin{revision}
-  %En ocasiones como esta la
-  %discusión con Wittgenstein llevaba a Anscombe a afirmaciones para las cuales no
-  %podía ofrecer mejor significado que los sugeridos por concepciones ingenuas. Una
-  %concepción así no es otra cosa que ausencia de pensamiento, pero su falta de
-  %significado no es evidente, sino que requiere de la fuerza de un `Copérnico'
-  %para ponerla en cuestión efectivamente.\footcite[cf. 151]{IWT} 
-  %\end{revision}
-
-  %\begin{revision}
-  %En lo concerniente a la filosofía, Wittgenstein siempre tendía a escudriñar las
-  %reglas del juego, más que jugarlo. 
-  %Anscombe encontró en la filosofía analítica ---en el método de Wittgenstein---
-  %un método liberador, que le permitió involucrarse en el 'juego' de la filosofía
-  %con enérgica fortaleza. 
-  %\end{revision}
-
-  Anscombe conoció a Wittgenstein en los años culminantes de su pensamiento
-  filosófico. Comenzó a asistir a sus lecciones en el trimestre 'michaelmas' de
-  1942. Eran unos diez estudiantes en clase, y la materia discutida era sobre los
-  fundamentos de las matemáticas. En abril de 1943 Wittgenstein interrumpió sus
-  clases para unirse a los esfuerzos por atender los daños de la Segunda Guerra
-  Mundial trabajando en 'Guy's Hospital' en Newscastle. Regresó a Cambridge en
-  octubre de 1944 y el 16 del mismo mes reanudó sus lecciones con seis
-  estudiantes, Anscombe entre ellos. Los temas trabajados en estas lecciones son
-  correspondientes con los números \S189--\S241 de 'Philosophical Investigations'.
-  En el curso 1945--1946 Elizabeth asistió junto a otros dieciocho estudiantes a
-  lecciones sobre filosofía de la psicología. El curso de 1946--1947 fue el último
-  término de lecciones ofrecidas por Wittgenstein en Cambridge antes de su retiro
-  en octubre de 1947. Durante ese curso le dedicó una tarde a la semana a Anscombe
-  y W. A. Hijab en lecciones sobre filosofía de la religión.
-
-  Al comienzo de sus lecciones en 1944 Wittgenstein escribía a su amigo Rush Rhees:
-  \citalitinterlin{
-      \ldots mis clases no han ido tan mal. Thouless esta asistiendo, y una mujer, 
-      'Mrs so and so'
-      que se llama a sí misma 
-      'Miss Anscombe',
-      que ciertamente es inteligente, aunque no del calibre de Kreisel.
-      \footcite[p.~371]{cambridgeletters}
-  }
-  Un año mas tarde escribía a Norman Malcolm:
-  \citalitinterlin{
-      \ldots mi clase ahora es bastante grande, 19 personas. \ldots Smythies esta
-      viniendo, y una mujer que es muy buena, es decir, más que solamente
-      inteligente\ldots 
-      \footcite[p.~388]{cambridgeletters}
-  }
-  Aquellos años no sólo creció en Wittgenstein la apreciación de la capacidad de
-  Anscombe, sino que se afianzó entre ellos una estrecha amistad. 
-
-  La influencia de Wittgenstein fue decisiva para el desarrollo filosófico de
-  Elizabeth. Las lecciones con Wittgenstein eran directas y con franqueza. Esta
-  metodología carente de cualquier parafernalia era inquietante para algunos,
-  inspiradora para otros, pero fue tremendamente liberadora para
-  ella.\footcite[loc 9853 Chapter 4, Section 24, \S5]{monk} Esta libertad
-  quedaba demostrada en que Anscombe no se contentaba con repetir lo que decía
-  Wittgenstein, sino que pensaba por sí misma; en esto precisamente era más fiel
-  al espíritu de la filosofía que había aprendido de él. Sobre esta relación,
-  Phillipa Foot, amiga de ambos, cuenta que durante mucho tiempo sostuvo
-  objeciones a las afirmaciones de Wittgenstein, eventualmente, un comentario de
-  Norman Malcom la hizo pensar que podía haber valor en lo que Wittgenstein decía.
-  Cuestionó entonces a Anscombe: 
-  ``¿Por qué no me dijiste?'', ella le contestó: ``Porque es importante que uno
-  tenga sus resistencias''. Anscombe evidentemente pensaba ---continúa Foot: 
-  \citalitlar{
-      que un largo periodo de vigorosa objeción era la mejor manera de entender a
-      Wittgenstein. Aun cuando era su amiga cercana y albacea literaria, y una de
-      los primeros en reconocer su grandeza, nada podía ser más lejano de su
-      carácter y modo de pensamiento que el discipulado.\footcite[p.~4]{teichmann}
-  }
-
-
-  \pnote{introducir algunos contrastes y relaciones entre Anscombe y Wittgenstein
-      para explicar la incursión en la vida/pensamiento de W.}
-
-
-
+Anscombe conoció a Wittgenstein en la época en la que desarrollaba la visión expuesta en las
+Investigaciones Filosóficas y es esta segunda etapa la que ejerce la mayor influencia. 
+Sin embargo, como queda manifiesto en su introducción al tractatus publicado en 1959, 
+encuentra valiosas ideas también en este. Atender con algo más de detalle ambos cortes 
+nos dará un trasfondo adecuado para el estudio de su pensamiento. 
 
 
   %TERCERA CUESTIÓN: DE LA ILUSTRACIÓN AL TRACTATUS
@@ -332,7 +250,7 @@ La filosofía de Wittgenstein como genuina tarea artística.wild life striving t
   Los primeros esfuerzos de Wittgenstein por escribir una obra sobre filosofía
   habían comenzado en 1911. En otoño de ese año en lugar de continuar sus estudios
   de ingeniería en Manchester, determinó irse a Cambridge donde Bertrand Russell
-  ofrecía sus lecciones. Su hermana le describe en esa época:   
+  ofrecía sus lecciones.
 
   Asistió a un término de lecciones con Russell y al finalizar no estaba seguro de
   abandonar la ingeniería por la filosofía, se cuestionaba si verdaderamente tenía
@@ -852,8 +770,6 @@ La filosofía de Wittgenstein como genuina tarea artística.wild life striving t
   \end{revision}
 
 
-
-
   %El Tractatus Logico-Philosophicus fue publicado en el 1922 y ciertamente causó
   %un impacto en el modo de hacer filosofía. Anscombe emplea la idea de ``corte''
   %de Boguslaw Wolniewicz para describir el cambio causado por Wittgenstein. Este
@@ -881,6 +797,81 @@ La filosofía de Wittgenstein como genuina tarea artística.wild life striving t
   %apenas ha comenzado.
 
   %El 29 de abril de 1951 murió en Cambridge. 
+  %\begin{revision}
+  %En ocasiones como esta la
+  %discusión con Wittgenstein llevaba a Anscombe a afirmaciones para las cuales no
+  %podía ofrecer mejor significado que los sugeridos por concepciones ingenuas. Una
+  %concepción así no es otra cosa que ausencia de pensamiento, pero su falta de
+  %significado no es evidente, sino que requiere de la fuerza de un `Copérnico'
+  %para ponerla en cuestión efectivamente.\footcite[cf. 151]{IWT} 
+  %\end{revision}
+
+  %\begin{revision}
+  %En lo concerniente a la filosofía, Wittgenstein siempre tendía a escudriñar las
+  %reglas del juego, más que jugarlo. 
+  %Anscombe encontró en la filosofía analítica ---en el método de Wittgenstein---
+  %un método liberador, que le permitió involucrarse en el 'juego' de la filosofía
+  %con enérgica fortaleza. 
+  %\end{revision}
+
+  Anscombe conoció a Wittgenstein en los años culminantes de su pensamiento
+  filosófico. Comenzó a asistir a sus lecciones en el trimestre 'michaelmas' de
+  1942. Eran unos diez estudiantes en clase, y la materia discutida era sobre los
+  fundamentos de las matemáticas. En abril de 1943 Wittgenstein interrumpió sus
+  clases para unirse a los esfuerzos por atender los daños de la Segunda Guerra
+  Mundial trabajando en 'Guy's Hospital' en Newscastle. Regresó a Cambridge en
+  octubre de 1944 y el 16 del mismo mes reanudó sus lecciones con seis
+  estudiantes, Anscombe entre ellos. Los temas trabajados en estas lecciones son
+  correspondientes con los números \S189--\S241 de 'Philosophical Investigations'.
+  En el curso 1945--1946 Elizabeth asistió junto a otros dieciocho estudiantes a
+  lecciones sobre filosofía de la psicología. El curso de 1946--1947 fue el último
+  término de lecciones ofrecidas por Wittgenstein en Cambridge antes de su retiro
+  en octubre de 1947. Durante ese curso le dedicó una tarde a la semana a Anscombe
+  y W. A. Hijab en lecciones sobre filosofía de la religión.
+
+  Al comienzo de sus lecciones en 1944 Wittgenstein escribía a su amigo Rush Rhees:
+  \citalitinterlin{
+      \ldots mis clases no han ido tan mal. Thouless esta asistiendo, y una mujer, 
+      'Mrs so and so'
+      que se llama a sí misma 
+      'Miss Anscombe',
+      que ciertamente es inteligente, aunque no del calibre de Kreisel.
+      \footcite[p.~371]{cambridgeletters}
+  }
+  Un año mas tarde escribía a Norman Malcolm:
+  \citalitinterlin{
+      \ldots mi clase ahora es bastante grande, 19 personas. \ldots Smythies esta
+      viniendo, y una mujer que es muy buena, es decir, más que solamente
+      inteligente\ldots 
+      \footcite[p.~388]{cambridgeletters}
+  }
+  Aquellos años no sólo creció en Wittgenstein la apreciación de la capacidad de
+  Anscombe, sino que se afianzó entre ellos una estrecha amistad. 
+
+  La influencia de Wittgenstein fue decisiva para el desarrollo filosófico de
+  Elizabeth. Las lecciones con Wittgenstein eran directas y con franqueza. Esta
+  metodología carente de cualquier parafernalia era inquietante para algunos,
+  inspiradora para otros, pero fue tremendamente liberadora para
+  ella.\footcite[loc 9853 Chapter 4, Section 24, \S5]{monk} Esta libertad
+  quedaba demostrada en que Anscombe no se contentaba con repetir lo que decía
+  Wittgenstein, sino que pensaba por sí misma; en esto precisamente era más fiel
+  al espíritu de la filosofía que había aprendido de él. Sobre esta relación,
+  Phillipa Foot, amiga de ambos, cuenta que durante mucho tiempo sostuvo
+  objeciones a las afirmaciones de Wittgenstein, eventualmente, un comentario de
+  Norman Malcom la hizo pensar que podía haber valor en lo que Wittgenstein decía.
+  Cuestionó entonces a Anscombe: 
+  ``¿Por qué no me dijiste?'', ella le contestó: ``Porque es importante que uno
+  tenga sus resistencias''. Anscombe evidentemente pensaba ---continúa Foot: 
+  \citalitlar{
+      que un largo periodo de vigorosa objeción era la mejor manera de entender a
+      Wittgenstein. Aun cuando era su amiga cercana y albacea literaria, y una de
+      los primeros en reconocer su grandeza, nada podía ser más lejano de su
+      carácter y modo de pensamiento que el discipulado.\footcite[p.~4]{teichmann}
+  }
+
+
+  \pnote{introducir algunos contrastes y relaciones entre Anscombe y Wittgenstein
+      para explicar la incursión en la vida/pensamiento de W.}
 
   \subsection{Wittgenstein y la fe}
   \todo{En casa de Anscombe, hablando de la fe}
