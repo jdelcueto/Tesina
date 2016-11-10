@@ -1,5 +1,3 @@
-# -*- mode: org; mode: auto-fill; word-wrap:t; truncate-lines: t; -*-
-# Hi-lock: (("\\\\todo{" (0 (quote hi-green) prepend)))  
 #+PROPERTY: header-args:latex :tangle ../../tex/ch3/3_3.tex
 # ------------------------------------------------------------------------------------
  
@@ -240,3 +238,15 @@ structure of believing testimony than subsuming it under belief in causes and
 effects. There are certain things which we are told or taught that we believe
 come as a word from God. Believing God supposes that we regard certain
 testimonies come as words from God.
+
+
+
+
+* [Local Variables]
+# Local Variables:
+# mode: org
+# mode: auto-fill
+# word-wrap:t
+# truncate-lines: t
+# org-hide-emphasis-markers: t
+# End:

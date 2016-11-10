@@ -1,31 +1,26 @@
-# -*- mode: org; mode: auto-fill; word-wrap:t; truncate-lines: t; org-hide-emphasis-markers: t; -*-
 #+PROPERTY: header-args:latex :tangle ../../tex/ch3/3_1.tex
 # ------------------------------------------------------------------------------------
 
 * /Lectio/: 
-:DESCRIPTION:
-An Introduction to Wittgenstein's Tractatus
+:DEFINITION:
+Lo recibido
+:END:
+:BIBLIO:
+An Introduction to Wittgenstein's Tractatus, Two Cuts
 :END:
 ** Análisis
 Haremos un recorrido por la vida de Anscombe y Wittgenstein
 
 * /Propositum/:  
+:DEFINITION:
+Lo que se busca
+:END:
 :DESCRIPTION: 
-Saying what it means 'to believe someone that x' better describes
-the structure of believing testimony than subsuming it under belief in causes
-and effects. There are things we believe because we 'believe God that x'.
-Believing God supposes that we believe certain things which we are told or
-taught come as a word from God. Faith is the belief that we accord to those
-words. In that regard 'believing someone that x' describes the structure of
-believing testimony and the suppositions of faith.
+La filosofía de Wittgenstein como trasfondo para la de Anscombe
 :END:
 
-** Testimonio y 'creer que'. 
-Hablar del testimonio en el pensamiento de Elizabeth Anscombe es hablar de su
-analisis de la expresión 'creer a x que p' (fe humana) y 'creer a Dios que p'
-(fe divina).
-
 ** Propositio: "Anscombe y Wittgenstein"
+
 #+BEGIN_SRC latex
 %SECCIÓN 1: ANSCOMBE Y WITTGENSTEIN
 \section{Anscombe y Wittgenstein}
@@ -33,6 +28,9 @@ analisis de la expresión 'creer a x que p' (fe humana) y 'creer a Dios que p'
 
 * /////////////////////////////////////////////////////////
 * /Quaestio/: Wittgenstein: turning point in philosophical method
+:DEFINITION:
+Lo que se cuestiona
+:END:
 :STATEMENT:
 Wittgenstein: el problema de la filosofía es un problema del lenguaje
 El método de la filosofía es sacar a la luz la falta de referencia
@@ -70,7 +68,6 @@ En 1942 Elizabeth Anscombe llegó a Cambridge.
 :END:
 
 ** El método de Wittgenstein
-
  #+BEGIN_SRC latex 
    \subsection{El método de Wittgenstein}
    El 16 de octubre de 1944 Ludwig Wittgenstein reanudó su itinerario de clases en
@@ -103,6 +100,9 @@ En 1942 Elizabeth Anscombe llegó a Cambridge.
  #+END_SRC
 
 * /Expositio/: 
+:DEFINITION:
+Lo que se describe
+:END:
 :STATEMENT:
 La filosofía de Wittgenstein como genuina tarea artística.wild life striving to erupt
 into the open
@@ -111,17 +111,24 @@ into the open
 ** El arte de hacer filosofía
  #+BEGIN_SRC latex 
    \subsection{El arte de hacer filosofía}
+#+END_SRC
+
+*** Vida salvaje luchando por emerger abiertamente
+ #+BEGIN_SRC latex
+   \ifdraft{\subsubsection{Vida salvaje luchando por emerger abiertamente}}{}
+
    \engcitation{``Within all great art there is a WILD animal: tamed.''}
    Wittgenstein pensaba que
    \citalitinterlin{dentro de todo buen arte hay un animal salvaje
-     domado}\footcite[p.~43e]{cnv}.
+     domado}\footcite[p.~43e]{cnv}. 
    Su talante artístico, sin embargo, no manifestaba esta primitiva vitalidad; o
    como él mismo decía:
    \engcitation{``In my artistic activities I have merely good manners''}
    \citalitinterlin{en mis actividades artísticas tengo meramente buenos
-     modales.}\footcite[p.~29e]{cnv}
-   Ejemplo de estos ``buenos modales'' fue el diseño que realizó para la casa de su
-   hermana Margaret en Viena, terminada en 1928.
+   modales.}\footcite[p.~29e]{cnv}
+
+   Ejemplo de estos ``buenos modales'' fue el diseño que realizó para la casa
+   de su hermana Margaret en Viena, terminada en 1928.
    \engcitation{``my house for Gretl is the product of a sensitive ear, good
      manners, the expression of great understanding... wild life striving to erupt
      in the open is lacking... health is lacking (Kierkergaard)''}
@@ -146,7 +153,7 @@ into the open
    estallaba, sin embargo, en su actividad filosófica. Aquella cualidad que él
    encontraba característica del buen arte, esa vida salvaje luchando por emerger
    abiertamente,\footcite[cf.˜][loc.˜]{monk} estaba en su hacer filosofía.
- #+END_SRC
+  #+END_SRC
 
 *** Filosofía emergente
   #+BEGIN_SRC latex 
@@ -170,189 +177,194 @@ into the open
       filosófica y le aconsejó que fuera a Cambridge como alumno del Profesor
       Russell, cosa que Ludwig ciertamente hizo.\footcite[p. 73]{mcguinness}}
 
-    La investigación filosófica comenzada en aquel momento se convirtió en la
-    tarea del resto de su vida. Sus incipientes ideas filosóficas pasarían por
-    diversas transformaciones, pero expresaban ya desde el principio una
-    preocupación por los problemas fundamentales. Por las reglas del juego, se
-    podría decir.
+    La investigación filosófica comenzada en aquel momento se convirtió en la tarea
+    del resto de su vida. Sus incipientes ideas filosóficas pasarían por diversas
+    transformaciones, pero expresaban ya desde el principio una preocupación por los
+    problemas fundamentales. Por las reglas del juego, se podría decir.
 #+END_SRC
 
 *** Naturaleza de los problemas filosóficos
 #+BEGIN_SRC latex
-    \ifdraft{\subsubsection{La Naturaleza de los problemas Filosóficos}}{} 
+  \ifdraft{\subsubsection{La Naturaleza de los problemas Filosóficos}}{}
 
-    Entre esas cuestiones fundamentales se halla una de las constantes importantes
-    en su pensamiento. Ésta es su definición de la naturaleza de los problemas
-    filosóficos. Para Wittgenstein las cuestiones de la filosofía no son
-    problemáticas por ser erróneas, sino por no tener
-    significado.\footcite[cf.~][4.003]{tractatus} 
+  Entre esas cuestiones fundamentales se halla una de las constantes importantes
+  en su pensamiento. Ésta es su definición de la naturaleza de los problemas
+  filosóficos. Para Wittgenstein las cuestiones de la filosofía no son
+  problemáticas por ser erróneas, sino por no tener
+  significado.\footcite[cf.~][4.003]{tractatus}
 
-    Una proposición sin significado que no es puesta al descubierto como tal
-    atrapa al filósofo dentro de una confusión del lenguaje que no le permite
-    acceder a la realidad. Salir de la confusión no consiste en refutar una
-    doctrina y plantear una teoría alternativa, sino en examinar las operaciones
-    hechas con las palabras para llegar a manejar una visión clara del empleo de
-    nuestras expresiones. La filosofía no es un cuerpo doctrinal, sino una
-    actividad\footcite[cf.~][4.112]{tractatus}y una
-    terapia\footcite[cf.~][\S133]{PI}.
+  Una proposición sin significado que no es puesta al descubierto como tal atrapa
+  al filósofo dentro de una confusión del lenguaje que no le permite acceder a la
+  realidad. Salir de la confusión no consiste en refutar una doctrina y plantear
+  una teoría alternativa, sino en examinar las operaciones hechas con las palabras
+  para llegar a manejar una visión clara del empleo de nuestras expresiones. La
+  filosofía no es un cuerpo doctrinal, sino una
+  actividad\footcite[cf.~][4.112]{tractatus}y una
+  terapia\footcite[cf.~][\S133]{PI}.
 
-    La actitud terapéutica adoptada por Wittgenstein en su atención de las
-    confusiones filosóficas fue su respuesta más definitiva a la naturaleza de estos
-    problemas. Para ello halló los más eficaces remedios en sus investigaciones
-    sobre el significado y el sentido del lenguaje.
+  La actitud terapéutica adoptada por Wittgenstein en su atención de las
+  confusiones filosóficas fue su respuesta más definitiva a la naturaleza de estos
+  problemas. Para ello halló los más eficaces remedios en sus investigaciones
+  sobre el significado y el sentido del lenguaje.
 
-    Ordinariamente tomamos parte en esta actividad humana que es el lenguaje.
-    Jugamos el juego del lenguaje. ---¿Jugarlo es entenderlo?--- A la vista de
-    Wittgenstein saltaban extraños problemas sobre las reglas de este juego;
-    entonces no podía evitar escudriñarlas al
-    detalle.\footcite[cf.~][loc.7099]{monk} En este análisis del lenguaje está la
-    raíz de sus ideas sobre el sentido, el significado y la verdad.
+  Ordinariamente tomamos parte en esta actividad humana que es el lenguaje.
+  Jugamos el juego del lenguaje. ---¿Jugarlo es entenderlo?--- A la vista de
+  Wittgenstein saltaban extraños problemas sobre las reglas de este juego;
+  entonces no podía evitar escudriñarlas al
+  detalle.\footcite[cf.~][loc.7099]{monk} En este análisis del lenguaje está la
+  raíz de sus ideas sobre el sentido, el significado y la verdad.
 
-    Durante su vida sostuvo dos grandes descripciones del significado. Originalmente
-    describió el lenguaje como una imagen que representa el posible estado de las
-    cosas en el mundo. En una segunda etapa se distanció de esta analogía para
-    describir al lenguaje como una herramienta cuyo significado consiste en la suma
-    de las múltiples semejanzas familiares que aparecen en los distintos usos para
-    los cuales el lenguaje es empleado en la actividad humana. Dentro de la primera
-    descripción una expresión sin significado es una cuyos elementos no componen una
-    representación del posible estado de las cosas. Dentro de la segunda descripción
-    una expresión sin significado resulta del empleo de una expresión propia de un
-    ``juego del lenguaje'' fuera de su contexto.
+  Durante su vida sostuvo dos grandes descripciones del significado. Originalmente
+  describió el lenguaje como una imagen que representa el posible estado de las
+  cosas en el mundo. En una segunda etapa se distanció de esta analogía para
+  describir al lenguaje como una herramienta cuyo significado consiste en la suma
+  de las múltiples semejanzas familiares que aparecen en los distintos usos para
+  los cuales el lenguaje es empleado en la actividad humana. Dentro de la primera
+  descripción una expresión sin significado es una cuyos elementos no componen una
+  representación del posible estado de las cosas. Dentro de la segunda descripción
+  una expresión sin significado resulta del empleo de una expresión propia de un
+  ``juego del lenguaje'' fuera de su contexto.
 #+END_SRC
 
 *** Dos cortes en la filosofía
 #+BEGIN_SRC latex
   \ifdraft{\subsubsection{Dos Cortes en la Filosofía}}{}
 
-      Estas dos etapas del pensamiento de Wittgenstein son representadas por dos
-      importantes tratados. El \emph{'Tractatus Logico\=/Philosophicus'}, publicado
-      en 1921, recoge sus esfuerzos por elaborar un gran tratado filosófico
-      comenzados en 1911 y culminados durante la Primera Guerra Mundial. El segundo,
-      \emph{'Philosophische Untersuchungen'}, o \emph{'Investigaciones
-        Filosóficas'}, traducido por Anscombe y publicado posthumamente en 1953, fue
-      elaborado a partir de múltiples manuscritos desarrollados por Wittgenstein
-      desde su regreso a Cambridge en 1929 hasta su muerte en 1951. Ambas obras
-      generaron un 'corte' en la historia de la filosofía, es decir, cambiaron el
-      modo de hacer filosofía desde entonces.\footcite[cf.~][p.~181]{twocuts}
+  Estas dos etapas del pensamiento de Wittgenstein son representadas por dos
+  importantes tratados. El \emph{'Tractatus Logico\=/Philosophicus'}, publicado en
+  1921, recoge sus esfuerzos por elaborar un gran tratado filosófico comenzados en
+  1911 y culminados durante la Primera Guerra Mundial. El segundo,
+  \emph{'Philosophische Untersuchungen'}, o \emph{'Investigaciones Filosóficas'},
+  traducido por Anscombe y publicado posthumamente en 1953, fue elaborado a partir
+  de múltiples manuscritos desarrollados por Wittgenstein desde su regreso a
+  Cambridge en 1929 hasta su muerte en 1951. Ambas obras generaron un 'corte' en
+  la historia de la filosofía, es decir, cambiaron el modo de hacer filosofía
+  desde entonces.\footcite[cf.~][p.~181]{twocuts}
 
-      Años más tarde Anscombe recordaría estos cambios de época generados por la
-      influencia de Wittgenstein. Describe el esfuerzo de comprender cada libro tras
-      su publicación, tarea complicada en ambos casos por la dificultad intrínseca
-      de los tratados ofuscada a su vez por los prejuicios filosóficos proyectados a
-      cada obra por sus lectores. La presunción, por ejemplo, de que las
-      \emph{'Investigaciones Filosóficas'} presenta una teoría del lenguaje
-      ---quizás sobre cómo los sonidos se tornan en discursos significativos--- nos
-      dejaría situados lejos de las preguntas que genuinamente ocupan a
-      Wittgenstein.\footcite[cf.~][p.~183]{twocuts} Por otra parte la comprensión
-      adecuada de su pensamiento y método trae consigo cierto efecto curativo.
+  Anscombe ofrece un análisis estos cambios de época generados por la influencia
+  de Wittgenstein. Describe el esfuerzo de comprender cada libro tras su
+  publicación, tarea complicada en ambos casos por la dificultad intrínseca de los
+  tratados, ofuscada a su vez por los prejuicios filosóficos proyectados a cada
+  obra por sus lectores. La presunción, por ejemplo, de que las
+  \emph{'Investigaciones Filosóficas'} presenta una teoría del lenguaje ---quizás
+  sobre cómo los sonidos se tornan en discursos significativos--- nos dejaría
+  situados lejos de las preguntas que genuinamente ocupan a
+  Wittgenstein.\footcite[cf.~][p.~183]{twocuts} Por otra parte la comprensión
+  adecuada de su pensamiento y método trae consigo cierto efecto curativo.
 
-      Para Anscombe Wittgenstein ataca el tipo de cosas que nos impiden llegar a
-      concepciones verdaderas. La inclinación de los filósofos a manufacturar
-      explicaciones o conexiones necesarias es una de esas cosas. 
-
-
-Decir que necesariamente 
-el triangulo es la figura rectilinea plana con el menor número de lados,
-por ejemplo, 
-es un tipo de concepción de necesidad especializada e inocua,
-
-decir que 
-necesariamente 
-la continuidad espacio-temporal es el criterio de la identidad del cuerpo humano viviente y de la persona humana
-es un tipo de concepción de necesidad engañosa. 
-
-la identidad del cuerpo humano viviente tiene que tener su criterio en 'continuidad espacio-temporal', es decir
-'continuidad espacio-temporal' de una forma humana en el flujo de la materia.
-
-la identidad tiene criterio o estándar por el cuál se juzga la identidad (Frege introduce  
-el termino y Wittgenstein lo enfatiza)
-decir que el criterio es necesario es el error. 
-Necesariamente el criterio tiene que ser o
-el criterio tiene que ser una verdad necesaria 
-
-si e cuerpo humano tiene identidad, necesariamiente tiene continuidad espacio-temporal.
-
-es posible lo contrario?
-es posible el contraejemplo?
-decir un cuerpo humano con identidad sin continuidad espacio temporal
-o un cuerpo humano sin identidad con continuidad espacio temporal
-
-identidad es la relación de algo consigo mismo
-
-dos cuerpos humanos pueden tener la misma continuidad espacio temporal
+  Para Anscombe Wittgenstein ataca el tipo de cosas que nos impiden llegar a
+  concepciones verdaderas. La inclinación de los filósofos a manufacturar
+  explicaciones o conexiones necesarias es una de esas cosas.
 
 
-De hecho, ésta busqueda tiene las cosas al revés: en esta vida, la identidad es nuestro criterio para la continuidad espacio temporal relevante y no vice versa. 
+  Decir que necesariamente el triangulo es la figura rectilinea plana con el menor
+  número de lados, por ejemplo, es un tipo de concepción de necesidad
+  especializada e inocua; decir que necesariamente la continuidad espacio-temporal
+  es el criterio de la identidad del cuerpo humano viviente y de la persona humana
+  es un tipo de concepción de necesidad engañosa.
 
-Insistir en que deben haber necesidades de tipo absolutamente a priori que justifiquen nuestras aseveraciones no nos acerca a ver acertadamente la realidad. 
+  la identidad del cuerpo humano viviente tiene que tener su criterio en
+  'continuidad espacio-temporal', es decir 'continuidad espacio-temporal' de una
+  forma humana en el flujo de la materia.
 
-      pero otros conceptos de necesidad son engañosos. Las discusiones sobre la
-      identidad personal ilustran este concepto engañoso. 
+  la identidad tiene criterio o estándar por el cuál se juzga la identidad (Frege
+  introduce el termino y Wittgenstein lo enfatiza) decir que el criterio es
+  necesario es el error. Necesariamente el criterio tiene que ser o el criterio
+  tiene que ser una verdad necesaria
 
-      Algunos piensan que la identidad de una persona humana es la identidad de un
-      cuerpo humano viviente, y la identidad del cuerpo humano viviente tiene que
-      tener su criterio en una `continuidad espacio-temporal'. Esto es insatisfactorio. 
+  si e cuerpo humano tiene identidad, necesariamiente tiene continuidad
+  espacio-temporal.
 
-Cómo puede éste o cualquier otro criterio sugerido cumplir la exigencia de que no sea logicamente posible que dos personas tales ambas satisfagan el criterio?
+  es posible lo contrario? es posible el contraejemplo? decir un cuerpo humano con
+  identidad sin continuidad espacio temporal o un cuerpo humano sin identidad con
+  continuidad espacio temporal
 
-De hecho, ésta busqueda tiene las cosas al revés: en esta vida, la identidad es nuestro criterio para la continuidad espacio temporal relevante y no vice versa. 
+  identidad es la relación de algo consigo mismo
 
-Es logicamente posible que dos personas distintas cumplan con cualquier tipo de criterio que podamos proponer.  ¿Y qué pasa? 
-¿Por qué queremos algo para lo cual no pueda haber un contraejemplo?, y no simplemente algo para lo que no, o no normalmente, haya todavía ningún contraejemplo?
-En un mundo diferente, las cosas pueden ser diferentes. ¿Y qué pasa?
-
-  Las necesidades dan cierta paz mental, pero el deseo de encontrar 
-
-      A juicio de Anscombe estudiando a Wittgenstein se puede encontrar una cura
-      para la inclinación de los filósofos de manufacturar explicaciones o
-      conexiones necesarias para justificar sus aseveraciónes.
-
-      La descripción detallada de la distribución de parches de colores en un
-      canvas no nos revela la imagen que está sobre él, aunque si dices: `pero
-      está ahí \emph{también} la imagen. \emph{¿En qué consiste ésta?} Tiene
-      que haber algo además de pintura en un canvas' ---te estás embarcando en
-      una búsqueda ilusoria. El vasto número de cosas que conocemos y hacemos
-      y con las que nos involucramos son como la imagen en el canvas. Los
-      hechos acerca de nuestro conocer, nuestro hacer y nuestras
-      preocupaciones son enormemente interesantes; pero necesidades de un tipo
-      de absoluto a priori no pueden ser encontradas para justificar nuestras
-      aseveraciones.
-
-      Las cosas que Wittgenstein ataca ---éstas son impedimentos para una verdadera
-      concepción o verdaderas concepciones. Es un impedimento para ver a la imagen,
-      si estás golpeado por la convicción de que debes una de dos extraer la imagen
-      desde la descripción del color de cada parche de pintura en una fina
-      cuadrícula extendida sobre esta o que debes tener una teoría de lo que la
-      imagen es aparte de lo que esa descripción describe.
-
-      Si tu renuncias a ambas inclinaciones podrás llegar a ver a la pintura y en
-      haciéndolo puedes encontrarte lleno de asombro.
-
-      O, como Wittgenstein una vez lo dijera, puedes encontrarte a tí mismo 'caminando
-      en una montaña de maravillas'
+  dos cuerpos humanos pueden tener la misma continuidad espacio temporal
 
 
-      % Para Ludwig Wittgenstein el método general adecuado de discutir los problemas
-      % filosóficos era mostrar que la persona no ha provisto significado (o
-      % referencia) para ciertos signos en sus expresiones.\footcite[cf. p. 151]{IWT}
-      % Creía que el camino que lleva a formular estos problemas está frecuentemente
-      % trazado por la mala comprensión de la lógica de nuestro lenguaje. Por tanto,
-      % el modo de aclarar esta confusión consistía en identificar en el lenguaje el
-      % límite de lo que expresa pensamiento; lo que queda al otro lado de esta
-      % frontera es simplemente sinsentido. En otras palabras: \citalitinterlin{Lo que
-      % \todo{traducción difícil. \emph{``What can be said at all''}} siquiera puede
-      % ser dicho puede ser dicho claramente; y de lo que uno no puede hablar, de eso,
-      % uno debe guardar silencio}. \footcite[prefacio]{tractatus} Con esta expresión
-      % Wittgenstein resumía el significado del libro que recoge su esfuerzo para
-      % resolver este problema de la filosofía: el \emph{'Tractatus
-      % Logico\=/Philosophicus'}.
+  De hecho, ésta busqueda tiene las cosas al revés: en esta vida, la identidad es
+  nuestro criterio para la continuidad espacio temporal relevante y no vice versa.
 
-      % Elaboración del Tractatus
-      % En el 14 empezó la guerra, en el 15 W. escribió a R. con sus intenciones de
-      % hacer un tratado. En el 18 lo acabó. En el 19 envió el manuscrito a R. En el
-      % 22
-      % lo publicó.
+  Insistir en que deben haber necesidades de tipo absolutamente a priori que
+  justifiquen nuestras aseveraciones no nos acerca a ver acertadamente la
+  realidad.
 
+  pero otros conceptos de necesidad son engañosos. Las discusiones sobre la
+  identidad personal ilustran este concepto engañoso.
+
+  Algunos piensan que la identidad de una persona humana es la identidad de un
+  cuerpo humano viviente, y la identidad del cuerpo humano viviente tiene que
+  tener su criterio en una `continuidad espacio-temporal'. Esto es
+  insatisfactorio.
+
+  Cómo puede éste o cualquier otro criterio sugerido cumplir la exigencia de que
+  no sea logicamente posible que dos personas tales ambas satisfagan el criterio?
+
+  De hecho, ésta busqueda tiene las cosas al revés: en esta vida, la identidad es
+  nuestro criterio para la continuidad espacio temporal relevante y no vice versa.
+
+  Es logicamente posible que dos personas distintas cumplan con cualquier tipo de
+  criterio que podamos proponer. ¿Y qué pasa? ¿Por qué queremos algo para lo cual
+  no pueda haber un contraejemplo?, y no simplemente algo para lo que no, o no
+  normalmente, haya todavía ningún contraejemplo? En un mundo diferente, las cosas
+  pueden ser diferentes. ¿Y qué pasa?
+
+  Las necesidades dan cierta paz mental, pero el deseo de encontrar
+
+  A juicio de Anscombe estudiando a Wittgenstein se puede encontrar una cura para
+  la inclinación de los filósofos de manufacturar explicaciones o conexiones
+  necesarias para justificar sus aseveraciónes.
+
+  La descripción detallada de la distribución de parches de colores en un canvas
+  no nos revela la imagen que está sobre él, aunque si dices: `pero está ahí
+  \emph{también} la imagen. \emph{¿En qué consiste ésta?} Tiene que haber algo
+  además de pintura en un canvas' ---te estás embarcando en una búsqueda ilusoria.
+  El vasto número de cosas que conocemos y hacemos y con las que nos involucramos
+  son como la imagen en el canvas. Los hechos acerca de nuestro conocer, nuestro
+  hacer y nuestras preocupaciones son enormemente interesantes; pero necesidades
+  de un tipo de absoluto a priori no pueden ser encontradas para justificar
+  nuestras aseveraciones.
+
+  Las cosas que Wittgenstein ataca ---éstas son impedimentos para una verdadera
+  concepción o verdaderas concepciones. Es un impedimento para ver a la imagen, si
+  estás golpeado por la convicción de que debes una de dos extraer la imagen desde
+  la descripción del color de cada parche de pintura en una fina cuadrícula
+  extendida sobre esta o que debes tener una teoría de lo que la imagen es aparte
+  de lo que esa descripción describe.
+
+  Si tu renuncias a ambas inclinaciones podrás llegar a ver a la pintura y en
+  haciéndolo puedes encontrarte lleno de asombro.
+
+  O, como Wittgenstein una vez lo dijera, puedes encontrarte a tí mismo 'caminando
+  en una montaña de maravillas'
+
+
+  % Para Ludwig Wittgenstein el método general adecuado de discutir los problemas
+  % filosóficos era mostrar que la persona no ha provisto significado (o
+  % referencia) para ciertos signos en sus expresiones.\footcite[cf. p. 151]{IWT}
+  % Creía que el camino que lleva a formular estos problemas está frecuentemente
+  % trazado por la mala comprensión de la lógica de nuestro lenguaje. Por tanto,
+  % el modo de aclarar esta confusión consistía en identificar en el lenguaje el
+  % límite de lo que expresa pensamiento; lo que queda al otro lado de esta
+  % frontera es simplemente sinsentido. En otras palabras: \citalitinterlin{Lo que
+  % \todo{traducción difícil. \emph{``What can be said at all''}} siquiera puede
+  % ser dicho puede ser dicho claramente; y de lo que uno no puede hablar, de eso,
+  % uno debe guardar silencio}. \footcite[prefacio]{tractatus} Con esta expresión
+  % Wittgenstein resumía el significado del libro que recoge su esfuerzo para
+  % resolver este problema de la filosofía: el \emph{'Tractatus
+  % Logico\=/Philosophicus'}.
+
+  % Elaboración del Tractatus
+  % En el 14 empezó la guerra, en el 15 W. escribió a R. con sus intenciones de
+  % hacer un tratado. En el 18 lo acabó. En el 19 envió el manuscrito a R. En el
+  % 22
+  % lo publicó.
+#+END_SRC
+
+** El gran tratado de Wittgenstein
+#+BEGIN_SRC latex
       \subsection{El gran tratado de Wittgenstein}
       \ifdraft{\subsubsection{De Manchester a Cambridge}}{}
 
@@ -1032,5 +1044,26 @@ En un mundo diferente, las cosas pueden ser diferentes. ¿Y qué pasa?
         \end{revision}
   #+END_SRC
 * /Disputatio/
+:DEFINITION:
+Lo problemático
+:END:
+
 * /Solutio/
+:DEFINITION:
+La salida o desenrredo
+:END:
+
 * /In testimonium/
+:DEFINITION:
+Lo relacionado con el tesimonio
+:END:
+
+
+* [Local Variables]
+# Local Variables:
+# mode: org
+# mode: auto-fill
+# word-wrap:t
+# truncate-lines: t
+# org-hide-emphasis-markers: t
+# End:

@@ -1,5 +1,3 @@
-# -*- mode: org; mode: auto-fill; word-wrap:t; truncate-lines: t; -*-
-# Hi-lock: (("\\\\todo{" (0 (quote hi-green) prepend)))  
 #+PROPERTY: header-args:latex :tangle ../../tex/ch3/3_2.tex
 # ------------------------------------------------------------------------------------
 # Santa Teresa Benedicta de la Cruz, ruega por nosotros
@@ -80,4 +78,11 @@ Quaestio
 :END:
 
 
-
+* [Local Variables]
+# Local Variables:
+# mode: org
+# mode: auto-fill
+# word-wrap:t
+# truncate-lines: t
+# org-hide-emphasis-markers: t
+# End:
