@@ -1,0 +1,555 @@
+\documentclass[10pt]{article}
+
+%LANGUAGE-----------------------------
+\usepackage[main=spanish,english,greek]{babel}
+
+\usepackage[backend=biber,style=verbose-ibid]{biblatex}
+\addbibresource{ps_biblio.bib}
+\usepackage{hyperref}
+\usepackage{blindtext}
+\usepackage{titling}
+
+\title{Apuntes sobre el lenguaje de la fe y su transmisión}
+\author{Joel Del Cueto Santiago}
+\date{}
+
+\pretitle{\begin{flushleft}\fontsize{19bp}{19bp}\normalfont\sffamily\bfseries\selectfont}
+\posttitle{\par\end{flushleft}}
+
+\preauthor{\begin{flushleft}\fontsize{11bp}{11bp}\normalfont\sffamily\fontseries{CndB}\selectfont}
+\postauthor{\par\end{flushleft}}
+
+\predate{\begin{flushright}\fontsize{11bp}{11bp}\normalfont\sffamily\fontseries{CndB}\selectfont}
+\postdate{\par\end{flushright}}
+
+\usepackage{fontspec,xltxtra,xunicode} 
+
+
+\defaultfontfeatures{Ligatures={TeX,Common}}
+
+
+\setmainfont[
+     Path = /home/blest/Bureau/toolkit/texlive/texmf-dist/fonts/truetype/sorkin/merriweather/,
+     Extension      = .ttf,
+     UprightFont    = *-Regular,
+     ItalicFont     = *-Italic,
+     BoldFont       = *-Bold,
+     BoldItalicFont = *-BoldIt,
+     ]{Merriweather}
+
+\setsansfont[
+     Path = /home/blest/Bureau/toolkit/texlive/texmf-dist/fonts/opentype/impallari/cabin/,
+     Extension      = .otf,
+     UprightFont    = *-Regular,
+     ItalicFont     = *-RegularItalic,
+     BoldFont       = *-Bold,
+     BoldItalicFont = *-BoldItalic,
+     FontFace={SB}{n}{*-SemiBold},
+     FontFace={SBIt}{n}{*-SemiBoldItalic},
+     FontFace={M}{n}{*-Medium},
+     FontFace={MIt}{n}{*-MediumItalic},
+     FontFace={CndR}{n}{*Condensed-Regular},
+     FontFace={CndRIt}{n}{*Condensed-RegularItalic},
+     FontFace={CndB}{n}{*Condensed-Bold},
+     FontFace={CndBIt}{n}{*Condensed-BoldItalic},
+     FontFace={CndSB}{n}{*Condensed-SemiBold},
+     FontFace={CndSBIt}{n}{*Condensed-SemiBoldItalic},
+     FontFace={CndM}{n}{*Condensed-Medium},
+     FontFace={CndMIt}{n}{*Condensed-MediumItalic},
+     ]{Cabin}
+
+
+\usepackage{sectsty}
+\allsectionsfont{\normalfont\sffamily\bfseries}
+\paragraphfont{\normalfont\sffamily\fontseries{CndB}\selectfont}
+
+
+\usepackage{changepage}   % for the adjustwidth environment
+
+\newcommand{\citalitlar}[1]{
+\begin{adjustwidth}{1.2cm}{}
+\emph{#1}
+\end{adjustwidth}
+}
+
+%Custom Titles
+\usepackage[explicit]{titlesec}
+
+%Los títulos de inicio del capítulo/sección centrados, en mayúsculas, y a 12pt
+%\titleformat{\chapter}
+%  {\normalfont\filcenter}
+%  {\thechapter}
+%  {12pt}
+%  {\MakeUppercase{#1}}
+%  [\vspace{1ex}%
+%  {\titlerule[2pt]}]
+
+%\titlespacing*{\chapter}
+%{0pt}{.42cm}{0.84cm}
+
+%Los títulos del primer nivel irán en negrita y sin sangría
+
+%\titleformat{\section}
+%  {\normalfont\bfseries}
+%  {\thesection}{10pt}
+%  {#1}
+%
+%\titleformat{name=\section,numberless}[block]
+%  {\normalfont\bfseries}
+%  {#1}
+%  {0pt}
+%  {}
+
+\titlespacing*{\section}
+{0pt}{0.42cm}{0.21cm}
+
+%los del segundo nivel en negrita y con sangría de 0’5cm
+
+%\titleformat{\subsection}
+%  {\normalfont\bfseries}
+%  {\hspace{0.5cm}\thesubsection}{10pt}
+%  {#1}
+
+%\titleformat{name=\subsection,numberless}[block]
+%  {\normalfont\bfseries\hspace{0.5cm}}
+%  {#1}
+%  {0pt}
+%  {}
+
+\titlespacing*{\subsection}
+{0pt}{0.42cm}{0.21cm}
+
+%los de tercer y cuarto nivel, irán sin negrita y con sangría de 0,5cm
+
+%\titleformat{\subsubsection}
+%  {\normalfont}
+%  {\hspace{0.5cm}\thesubsubsection}
+%  {10pt}
+%  {#1}
+
+%\titleformat{name=\subsubsection,numberless}[block]
+%  {\normalfont\hspace{0.5cm}}
+%  {#1}
+%  {0pt}
+%  {}
+
+\titlespacing*{\subsubsection}
+{0pt}{0.42cm}{0.21cm}
+
+
+%----------------------------------------------------------------------
+
+\usepackage{setspace}
+\setstretch{1}
+
+
+%Paragraphs
+\setlength{\parindent}{1.25cm}
+\setlength{\parskip}{0.21cm}
+
+\usepackage[a4paper,inner=3.5cm, outer=3.5cm, top=3.5cm, bottom=3.5cm,
+marginparwidth=5cm, marginparsep=1cm]{geometry}
+
+\setcounter{secnumdepth}{-1}
+
+
+\begin{document}
+
+\maketitle
+%\noindent\rule{\textwidth}{1pt}\\
+
+\emph{Lo que existía desde el principio, lo que hemos oído,
+lo que hemos visto con nuestros ojos,
+lo que contemplamos
+y palparon nuestras manos
+acerca de la Palabra de vida
+---pues la Vida se manifestó,
+y nosotros la hemos visto y damos testimonio
+y os anunciamos la Vida eterna,
+que estaba junto al Padre y que se nos maifestó---
+lo que hemos visto y oído os lo anunciamos,
+para que también vosotros estéis en comunión con nosotros.
+Y nosotros estamos en comunión con el Padre y con su Hijo Jesucristo.
+Os escribimos esto para que nuestro gozo sea completo.}
+\begin{flushright}
+1~Jn 1, 1--4\end
+{flushright}
+
+\section{Anunciar la Palabra de la Vida}
+\paragraph{``Quien intente hoy día hablar del problema de la fe cristiana a los
+  hombres que ni por vocación ni por convicción se hallan dentro de la temática
+  eclesial, notará al punto la ardua dificultad de tal empresa. Probablemente
+  tendrá en seguida la impresión de que su situación ha sido descrita con
+  bastante acierto en la conocida narración parabólica de
+  Kierkegaard sobre el payaso de la aldea en llamas\ldots''\\\\
+}
+
+En 1843 Kierkergaard publicó ``O lo uno o lo otro''. Bajo el pseudónimo de
+`Victor Eremita' presenta una ojeada a la vida de dos personas: `el estético'
+(A) y Wilhelm (B). El libro se divide así en dos partes; los aforismos
+poéticos y afectivos de `A' y cartas mas discursivas y éticas de `B'. Ambas
+partes tratan sobre la vida, su sentido y cuál pueda ser la mejor manera de
+vivirla.
+
+Es `el estético' quién con cierto desdén por la futilidad de la vida y
+cuestionando su sentido cuenta esa breve `parábola' del incendio y los
+payasos: \citalitlar{Sucedió una vez en un teatro que se prendió fuego entre
+  bastidores. El payaso acudió para avisar al público de lo que ocurría.
+  Creyeron que se trataba de un chiste y aplaudieron; aquél lo repitió y ellos
+  rieron aún con más fuerza.\\ De igual modo pienso que el mundo se acabará
+  con la carcajada general de amenos guasones creyendo que se trata de un
+  chiste.\footcite{kierkegaard2006uno}}
+
+Lo más amargo de la historia es que no es ficticia. El 14 de febrero de 1836 una
+lámpara mal montada en el escenario comenzó un incendio en el Teatro Lehmann en
+San Petersburgo que causó la muerte de cientos de
+personas.\footcite{gerhard1896theatre}
+
+En 1969 Joseph Ratzinger comienza ``Introducción al Cristianismo'' haciendo
+  alusión a este relato para `pintar un irritante cuadro' que `refleja en cierto
+  modo la agobiante situación en que se encuentra el pensamiento teológico
+  actual'\footcite{introcrist}. Dice que el teólogo\ldots 
+  \citalitlar{Ya puede decir lo que quiera, lleva siempre la etiqueta del papel
+    que desempeña. Y, aunque se esfuerce por presentarse con toda seriedad, se
+    sabe de antemano lo que es: un payaso. Se conoce lo que dice y se sabe también
+    que sus ideas no tienen nada que ver con la realidad. Se le puede escuchar
+    confiado, sin temor al peligro de tener que preocuparse seriamente por algo.}
+
+  De este modo el pensamiento teológico actual se encuentra \emph{``en la
+    agobiante imposibilidad de romper las formas fijas del pensamiento y del
+    lenguaje, y en la de hacer ver que la teología es algo sumamente serio en la
+    vida de los hombres''}.
+
+  Consideremos el contexto que tiene esta reflexión, los años del Concilio
+  Vaticano II culminado en el 65 y el esfuerzo de la Iglesia por dialogar con la
+  cultura moderna. Así no extraña la pregunta que Ratzinger plantea a
+  continuación: 
+  \citalitlar{¿Es que basta con que nos agarremos al `aggiornamento', que nos
+    quitemos el maquillaje y asumamos el aspecto civil de un lenguaje secular o de
+    un cristianismo sin religión para que todo se arregle?\\ ¿Es que basta con
+    cambiar los vestidos eclesiásticos para que los hombres acudan alegres a
+    apagar el fuego que, como dice el teólogo, existe y es un peligro para
+    nosotros?}
+
+  Esta respuesta es todavía superficial. Para Ratzinger el problema no es
+  simplemente uno de ropajes externos. Así añade:
+  \citalitlar{Al resultar el quehacer teológico algo tan insólito para los hombres
+    de nuestro tiempo, quien tome la cosa en serio se dará cuenta no sólo de lo
+    difícil que es traducir, sino también de lo vulnerable que es su propia fe
+    que, al querer creer, experimentará y reconocerá en sí mismo el inquietante
+    poder de la incredulidad.}
+
+  La situación del creyente, en este sentido, no es tan distinta de la del
+  no-creyente, en ambos operan fuerzas semejantes aunque en modo diverso;
+  \emph{``de la misma manera que el creyente se siente continuamente amenazado por
+    la incredulidad, que es para él su más seria tentación, así también la fe
+    siempre será tentación para el no-creyente''}. Así, \emph{``quien quiera
+    escapar de la incertidumbre de la fe, caerá en la incertidumbre de la
+    incredulidad, que jamás podrá afirmar de forma cierta y definitiva que la fe
+    no sea la verdad.''}. En definitiva: \emph{``nadie puede sustraerse al dilema
+    del ser humano''}.
+
+Culmina la reflexión de Ratzinger con una elocuente narración de Martin Buber:
+\citalitlar{Un racionalista, un hombre muy entendido, fue un día a disputar
+  con un Zaddik con la idea de destruir sus viejas pruebas en favor de la
+  verdad de su fe. Cuando entró en su aposento, lo vio pasear por la
+  habitación con un libro en las manos y sumido en profunda meditación. Ni
+  siquiera se dio cuenta de que había
+  llegado alguien. Por fin, lo miró de soslayo y le dijo: <<Quizá sea verdad>>.\\
+  El hombre instruido intentó en vano conservar la serenidad: el Zaddik le
+  parecía tan terrible, su frase le pareció tan tremenda, que empezaron a
+  temblarle las piernas. El rabí Levi Jizchak se volvió hacia él, le miró fija
+  y tranquilamente, y le dijo: <<Amigo mío, los grandes de la Tora, con los
+  que has disputado, se han prodigado en palabras; tú te has echado a reír. Ni
+  ellos ni yo podemos poner ni a Dios y ni a su Reino encima de la mesa. Pero
+  piensa en esto: quizá sea verdad>> El racionalista movilizó todas sus
+  fuerzas para contrarrestar el ataque; pero aquel <<quizá>>, que de vez en
+  cuando retumbaba en sus oídos, oponía resistencia.}
+
+He aquí una propuesta interesante; tanto para el creyente como para el
+ilustrado este <<quizá sea verdad>> resuena como una fuerza inquietante y
+potente, y esta experiencia común se convierte en punto de encuentro. Así
+añade el futuro Benedicto XVI:
+\citalitlar{Es ley fundamental del destino humano encontrar lo decisivo de su
+  existencia en la perpetua rivalidad entre la duda y la fe, entre la
+  impugnación y la certidumbre. La duda impide que ambos se encierren
+  herméticamente en su yo y tiende al mismo tiempo un puente que los comunica.
+  Impide a ambos que se cierren en sí mismos: al creyente lo acerca al que duda
+  y al que duda lo lleva al creyente; para uno es participar en el destino del
+  no creyente; para el otro la duda es la forma en la que la fe, a pesar de
+  todo, subsiste en él como reto.}
+
+\subsection{Análisis:}
+\begin{itemize}
+  \item ¿Qué servicio puede ofrecer la teología a nuestro pueblo puertorriqueño?
+  \item ¿Qué retos te sugiere el diálogo de la fe en nuestro contexto?
+\end{itemize}
+\newpage
+
+\section{Perseverar en el ejercicio de la actividad filosófica}
+  \paragraph{Hemos considerado anteriormente la teología como servicio. Siguiendo
+    la reflexión de ``Introducción al Cristianismo'' hemos planteado que el
+    territorio de la duda que la fe supone es uno adecuado para la comunicación
+    entre creyentes y no-creyentes. Es preciso ahora examinar la actividad que es
+    preguntar sobre la verdad.\\\\}
+
+  \subsection{¿Dónde te dirigirás en medio de esta ignorancia?}
+  En el Parménides de Platón el filósofo discurre por un diálogo peculiar respecto
+  del resto de su obra. La obra presenta a un joven Socrates en discusión con
+  Parménides y Zenón, y son éstos últimos los que cuestionan y ofrecen consejo a
+  los planteamientos del joven. En esta ocasión Socrates no hace las preguntas,
+  sino que se le dirigen a él. En medio de la discusión se suscita el siguiente
+  intercambio:
+
+  \begin{adjustwidth}{1.2cm}{}
+
+    \noindent\emph{PARMÉNIDES.}~---¿Qué partido tomarás con respecto á la filosofía; y a
+    dónde te dirigirás en medio de esta ignorancia?
+
+    \noindent\emph{SÓCRATES.}~---En este momento no lo sé.
+
+    \noindent\emph{PARMÉNIDES.}~---En eso consiste, mi querido Sócrates, en que te
+    atreves,
+    antes de estar suficientemente ejercitado, a definir lo bello, lo justo, lo
+    bueno, y las demás ideas. Ya, últimamente, te hice esta observación, oyéndote
+    discutir aquí con mi querido Aristóteles. Es muy bello y hasta divino, sírvate
+    de gobierno, ver el ardor con que te entregas a las indagaciones filosóficas;
+    pero es preciso, mientras que eres joven, poner tu espíritu a prueba, y
+    ejercitarte en lo que la multitud juzga inútil y llama una vana palabrería; y de
+    no hacerlo así, se te escapará la verdad.
+
+    \noindent\emph{SÓCRATES.}~---¿De qué clase de ejercicio hablas Parménides?
+
+    \noindent[\ldots]
+
+    \noindent\emph{PARMÉNIDES.}~---En una palabra, cualquiera que sea la cosa que
+    supongas
+    existiendo o no existiendo, o experimentando cualquiera otra modificación, debes
+    indagar lo que la sucederá con relación a sí misma, con relación a cada una de
+    las otras cosas que quieras considerar, o con relación a muchos o a todos los
+    objetos; y después de esto, examinando a su vez las demás cosas, debes también
+    indagar lo que las sucederá con relación a sí mismas, y con relación a cualquier
+    otro objeto que quieras considerar, ya supongas que tales cosas existen o que no
+    existen. Sólo procediendo de este modo, te ejercitarás de una manera completa y
+    discernirás claramente la verdad.
+
+    \noindent\emph{SÓCRATES.}~---Es un trabajo muy arduo el que me propones,
+    Parménides; y no estoy seguro de comprenderlo bien. Pero ¿por qué no me
+    desenvuelves tú alguna hipótesis, para darte mejor á entender?
+
+  \end{adjustwidth}
+
+  El ejercicio que Parménides sugiere a Sócrates puede ser descrito del siguiente
+  modo: ``tomar sucesivamente cada idea, y suponiendo, primero, que existe,
+  segundo, que no existe; examinar cuáles son las consecuencias de esta doble
+  hipótesis, ya con respecto á la idea considerada en sí misma y con relación á
+  las otras cosas, ya con respecto a las otras cosas consideradas en sí mismas y
+  con relación a la idea. Es imposible que el espíritu no encuentre, en esta
+  `gimnasia intelectual', la explicación verdadera de las cosas y de sus
+  principios con más firmeza y rectitud.'' 
+
+  \begin{itemize}
+  \item ¿Es posible aplicar éste método a las verdades de la fe?
+  \end{itemize}
+
+\subsection{¿Puede ser verdadero el lenguaje teológico?}
+En el 2015 la universidad de Viena organizó una exibición dedicada al `Círculo
+de Viena' con el lema: ``Pensamiento exacto en tiempos dementes''. La exhibición
+con tan sugerente `slogan' celebraba un fenómeno en el pensamiento filosófico de
+comienzos del siglo pasado. Esta corriente de pensamiento surgió arraigada en
+tres vertientes de la cultura filosófica dominante: el interés por llegar a un
+univocismo semántico en los términos utilizados por las ciencias; la busqueda de
+un rigor lógico-sintáctico en los sistemas científicos; finalmente, un deseo
+frenético por la verificación empírica de las proposiciones veritativas.
+
+La pretensíon era buscar una fundamentación sólida y suficiente para todas las
+ramas de la ciencia. Esta corriente significó una renovación del positivismo y
+empiricismos del siglo XVIII, también recibió importantes influencias del
+desarrollo de la lógica ocurridos en la busqueda de la fundamentación de los
+principios matemáticos. Esta dimensión lógica de la corriente desembocó en el
+criterio principal de unificación de la ciencia: el análisis del
+lenguaje.\footcite{anteo}
+
+Para lograr la pretendida unificación de la ciencia, el Círculo de Viena vio la
+necesidad de efectuar un análisis lógico del conocimiento científico partiendo
+de su expresión lingüística. Este método de análisis fue el contexto que enmarcó
+ataques a la posibilidad del lenguaje teológico como uno que comunique alguna
+verdad.
+
+A. J. Ayer lo describe de este modo: 
+\citalitlar{Si la existencia de tal dios fuese probable, la proposición de que
+  existiera sería una hipótesis empírica. Y, en este caso, sería posible deducir
+  de ella, y de otras hipótesis científicas, ciertas proposiciones
+  experienciales que no fuesen deducibles de esas otras hipótesis solas. Pero,
+  en realidad, esto no es posible. [\ldots] Porque decir que ``Dios existe'' es
+  realizar una expresión metafísica que no puede ser ni verdadera ni flasa. Y,
+  según el mismo criterio, ninguna oración que pretenda describir la naturaleza
+  de un dios trascendente puede poseer ninguna significación
+  literal.\footcite{ayer}}
+
+En la misma línea Anthony Flew planteó lo que llamó el `desafío falsacionista':
+\emph{<<¿Qué tendría que ocurrir o que haber ocurrido para que constituyera una
+  prueba en contra del amor o la existencia de Dios?>>} Si no se puede describir
+una situación en la que ``Dios existe'' sea falsa entonces tal aserción es
+factualmente no significativa. De este modo las proposiciones religiosas como
+``Dios tiene un designio'', ``Dios creó el mundo'', ``Dios nos ama como un padre
+a sus hijos'', no son falseables y, por tanto, no tienen contenido
+empírico.\footcite{cyc}
+
+Esta crítica hecha por el círculo de Viena no se suma al ``Dios a muerto de
+Nietzsche'', sino que va más allá\ldots Lo que argumenta que ha muerto es la
+misma palabra ``Dios''.\footcite{anteo}
+
+Todo esto tendrá como consecuencia que para el neopositivismo el lenguaje
+teológico sea sólo una proyección de sentimientos o deseos, y no el fruto de una
+reflexión sobre algo real. Esta postura resulta ser claramente perniciosa, no
+sólo por vaciar de contenido las proposiciones teológicas y metafísicas, sino
+ademas por separar lo afectivo de lo racional. A modo de recreación de esta
+unidad Zubiri diría:
+\citalitlar{El sentir humano y la intelección no son dos actos numéricamente
+  distintos, cada uno completo en su orden, sino que cosntituyen dos momentos
+  de un solo acto de aprehensión sentiente de lo real: es la inteligencia
+  sentiente\footcite{zubiri}}
+
+\subsection{Acerca de lo que puede ser dicho}
+Habiendo ofrecido un breve descripción del problema del valor proposicional del
+lenguaje teológico, sera útil ahora deternenos a una de las afirmaciones que
+está a la raiz de estas consideraciones sobre el lenguaje y luego examinaremos
+una posible descripción de la fe en este cotnexto.
+
+En el \emph{``Tractatus Logico-Philosophicus''} L. Wittgenstein plantea lo siguiente:
+\citalitlar{6.53~El método correcto para la filosofía sería este. No decir nada
+  excepto lo que pueda ser dicho, esto es, proposiciones de la ciencia natural,
+  es decir, algo que no tiene nada que ver con la filosofía: y luego siempre,
+  cuando alguien quiera decir algo metafísico, demostrarle que no ha logrado dar
+  significado a ciertos signos en sus proposiciones. Este método sería
+  insatisfactorio para la otra persona ---no tendría la impresión de que le
+  estuviéramos enseñando filosofía--- pero este método sería el único
+  estrictamente correcto.\footcite{tractatus}}
+
+En \emph{``Investigaciones Filosóficas''} el mismo Wittgenstein ofrece este otro
+planteamiento: 
+\citalitlar{\S353~Preguntar sobre el tipo y la posibilidad de la verificación de
+  una proposición es sólo una forma especial de la pregunta ¿Qué quieres decir?
+  (`How do you mean?'). La respuesta es una contribución a la gramática de la
+  proposición.\footcite{PI}}
+
+\subsection{Fe como `creer a Dios'}
+En Oscott College, el seminario de la Archidiócesis de Birmingham, se
+  comenzaron a celebrar las conferencias llamadas `Wiseman Lectures'
+  en 1971. Para estas lecciones ofrecidas anualmente en memoria de Nicolás
+  Wiseman se invitaba un ponente que tratara algún tema relacionado con la
+  filosofía de la religión o alguna materia en torno al
+  ecumenísmo.\footcite[cf.~][p.~7]{wisemanlects}
+
+  El 27 de octubre de 1975, para la quinta edición de las conferencias, Anscombe
+  presentó una lección titulada simplemente `Faith'. Allí planteaba la
+  siguiente cuestión:\citalitlar{Quiero decir qué puede ser entendido sobre la
+  fe por alguien que no la tenga; alguien, incluso, que no necesariamente crea
+  que Dios existe, pero que sea capaz de pensar cuidadosa y honestamente sobre
+  ella. Bertrand Russell llamó a la fe ``certeza sin prueba''. Esto parece
+  correcto. Ambrose Bierce tiene una definición en su `Devil's
+  Dictionary': ``La actitud de la mente de uno que cree sin evidencia a uno que
+  habla sin conocimiento cosas sin parangón''.} \citalitlar{¿Qué deberíamos
+  pensar de esto?\footcite[p.~115]{faith}} 
+
+¿Qué deberíamos pensar de las definiciones que dan Russell y Bierce? ¿Esto es
+todo lo que se puede discernir sobre la fe desde una perspectiva no creyente?
+
+Hubo una época en la que se vivió gran entusiasmo en la Iglesia por la
+racionalidad de la fe. Este carácter racional de la fe, sin embargo, estaba
+sujeto a los llamados `preámbulos' y el paso de éstos a la fe.
+
+Estos preámbulos eran argumentaciones en cierto modo demostrativas que
+ofrecían cierto fundamento racional a las proposiciones de la fe. Para
+Anscombe sin embargo estos llamados preámbulos son construcciones ideales.
+No en el sentido de que fueran la mejor manera del desarrollo del
+pensamiento si ocurriera en un individuo, sino que más bien eran sueños
+imaginados a partir de prejuicios sobre lo que debería de ser razonable en
+sostener una creencia.
+
+El modo correcto de designar estos llamados preámbulos, no es tal cosa, sino
+que al menos parte de ellos, sería más apropiado llamarles `presuposiciones'.
+
+Ahora bien, ¿qué significa que la fe tiene presuposiciones? En el uso moderno
+`fe' tiende a significar `creencia religiosa' o `religión'. Se le llama
+generalmente `fe', por ejemplo, a la creencia en la existencia de Dios. Sin
+embargo \emph{en la tradición donde el concepto tiene su origen, `fe' es la
+  forma breve de `fe divina' y significa `creer a Dios'\footcite{belief}.} De
+esa manera fue usada la expresión, al menos por los pensadores cristianos. Según
+este modo de hablar `fe' se distinguía como humana y divina. Fe humana era creer
+a una persona humana, fe divina era creer a Dios. Dice la escritura: <<Abrahám
+creyó a Dios y ésto se le contó como justicia.>>\footnote{Gn~15,6} De tal modo
+que es llamado `padre de la fe'.\footnote{cfr.~Rm~4~y~Ga 3,7}
+Al describir la fe, por tanto, nos referimos a la forma de la expresión creer a
+\emph{x} que \emph{p}. Ahora, ¿qué se puede entender por presupuestos de la fe?
+
+Supongamos que recibes una carta de un amigo, llamémosle Juan. En la carta Juan
+te cuenta que su esposa ha muerto. Ahora, creer a Juan, creerle que su esposa ha
+muerto tiene varias presuposiciones. Creyéndole a tu amigo, tu presupones que tu
+amigo Juan existe, que esta carta es verdaderamente de su parte y que esta
+comunicación es verdaderamente lo que esta carta te dice.
+
+Estas tres convicciones son presuposiciones lógicas que tiene tu creencia de la
+muerte de la esposa de Juan porque le crees a Juan. Estas tres convicciones son
+tus creencias, no necesariamente reales, sino presupuestos lógicos.
+
+Fe, como hemos dicho, es creer a Dios. Si los presupuestos son ciertos esto
+sería entonces creer en la mejor situación posible a uno que habla con
+conocimiento perfecto.
+
+Consideremos el ejemplo de Abrahám. Abrahám tuvo fe porque creyó que su
+descendencia sería tan numerosa como las estrellas porque creyó a Dios.
+
+Los presupuestos lógicos de esta creencia de Abrahám son que Dios existe,
+que el mensaje sobre su descendencia venía de Dios, que el mensaje dice
+efectivamente eso que él entendió. Si estos presupuestos son ciertos
+entonces Abrahám creyó apoyado en el mejor fundamento posible. Si sólo las
+presuposiciones son dadas sería tonto pensar que Abrahám se hallaba en la
+actitud de la mente de uno que ``cree sin evidencia a uno que dice sin
+conocimiento cosas sin parangón''. Si las presuposiciones son dadas quedaría
+refutado decir que Abrahám ``tenía certeza sin prueba''.
+
+Ahora bien aquí la expresión no deja de ser sorprendente: <<creer a Dios>>. La
+expresión misma es dificil de entender. 
+
+El asunto de creer a álguien en sí mismo es bastante complejo, limitémonos aquí
+ahora a afirmar que dados los presupuestos una persona puede llegar a estar en
+la situación dónde surge la pregunta sobre si creer o dudar (suspender el juicio
+acerca de) \emph{N.}. Sin confusiones por las preguntas que puedan surgir por
+los presupuestos, podemos decir que creer a alguien (acerca de un caso
+particular) es confiar en él para la verdad ---de ese caso particular.
+
+Podemos considerar distintos ejemplos en los cuales puede llegarse a ver
+claramente qué es que alguien crea a alguien. Ahora bien ¿puede verse con
+claridad qué sería creer a Dios? ¿Puede algún experto, por la autoridad de su
+conocimiento, informarme de la evidencia de que Dios ha hablado? El único uso de
+sus conocimientos más bien serían para remover los obstaculos que pueda poner a
+tal posibilidad.
+
+Una creencia rabínica puede ayudar a ilustrar esto. Llamada `Bath Qol' o `hija
+de la voz' que entiende que respecto de la creencia de que Dios está hablando, el
+cómo se produce la voz no importa. Como cuando San Agustín escucha el grito del
+niño: ``tolle, lege''; no tiene que suponer que la expresión no fue hecha en
+medio de alguna conversación que no tiene nada que ver con él, pero la voz le
+golpea directo al corazón y le hace actuar en obediencia a ella.
+
+A esto habría que añadir que por escuchar a Dios no nos referimos al dios de
+tal o cual culto. Definir a Dios como el objeto de tal o cual culto no nos
+sirve, pues puede ofrecerse el honor pretendido para Dios a algo que no lo es.
+
+Por Dios hemos de entender `el único y verdadero dios' el ateo tiene a Dios
+entre los dioses que no existen, pues cree que nada es una deidad. Sin
+embargo puede reconocer la identidad de `Dios' y `el único y verdadero
+dios'.
+
+\emph{Entonces podemos decir esto: la suposición de que alguien tiene fe
+  es la suposición de que cree que algo ---sea una voz, o algo que se le ha
+  enseñado--- viene como una palabra de Dios. Fe es entonces la creencia que da
+  a esta palabra.\\Hasta aquí puede ser discernido por un no-creyente, sea que
+  su actitud respecto de este fenómeno sea potencialmente una de reverencia o de
+  hostilidad. El cristiano, sin embargo, añade que esta creencia en ocasiones es
+  verdadera, y esta consecuente creencia es únicamente lo que \emph{él} llama
+  fe.}
+
+\end{document}
