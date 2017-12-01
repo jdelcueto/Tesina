@@ -1,0 +1,595 @@
+#+PROPERTY: header-args:latex :tangle ./fe_a_las_rocas.tex
+* PREFACE
+#+BEGIN_SRC latex
+  \documentclass[10pt]{article}
+
+  %LANGUAGE-----------------------------
+  \usepackage[main=spanish,english,greek]{babel}
+
+  \usepackage[backend=biber,style=verbose-ibid]{biblatex}
+  \addbibresource{ps_biblio.bib} \usepackage{hyperref} \usepackage{blindtext}
+  \usepackage{titling}
+
+  \title{Grandes Decisiones y la propuesta de Jesús: Vive y Arriésgate. O, Jesús,
+    Universal Concreto} \author{Joel Del Cueto Santiago} \date{}
+
+  \pretitle{\begin{flushleft}\fontsize{19bp}{19bp}\normalfont\sffamily\bfseries\selectfont}
+    \posttitle{\par\end{flushleft}}
+
+  \preauthor{\begin{flushleft}\fontsize{11bp}{11bp}\normalfont\sffamily\fontseries{CndB}\selectfont}
+    \postauthor{\par\end{flushleft}}
+
+  \predate{\begin{flushright}\fontsize{11bp}{11bp}\normalfont\sffamily\fontseries{CndB}\selectfont}
+    \postdate{\par\end{flushright}}
+
+  \usepackage{fontspec,xltxtra,xunicode}
+
+
+  \defaultfontfeatures{Ligatures={TeX,Common}}
+
+
+  \setmainfont[ Path =
+  /home/blest/Bureau/toolkit/texlive/texmf-dist/fonts/truetype/sorkin/merriweather/,
+  Extension = .ttf, UprightFont = *-Regular, ItalicFont = *-Italic, BoldFont =
+  ,*-Bold, BoldItalicFont = *-BoldIt, ]{Merriweather}
+
+  \setsansfont[ Path =
+  /home/blest/Bureau/toolkit/texlive/texmf-dist/fonts/opentype/impallari/cabin/,
+  Extension = .otf, UprightFont = *-Regular, ItalicFont = *-RegularItalic,
+  BoldFont = *-Bold, BoldItalicFont = *-BoldItalic, FontFace={SB}{n}{*-SemiBold},
+  FontFace={SBIt}{n}{*-SemiBoldItalic}, FontFace={M}{n}{*-Medium},
+  FontFace={MIt}{n}{*-MediumItalic}, FontFace={CndR}{n}{*Condensed-Regular},
+  FontFace={CndRIt}{n}{*Condensed-RegularItalic},
+  FontFace={CndB}{n}{*Condensed-Bold},
+  FontFace={CndBIt}{n}{*Condensed-BoldItalic},
+  FontFace={CndSB}{n}{*Condensed-SemiBold},
+  FontFace={CndSBIt}{n}{*Condensed-SemiBoldItalic},
+  FontFace={CndM}{n}{*Condensed-Medium},
+  FontFace={CndMIt}{n}{*Condensed-MediumItalic}, ]{Cabin}
+
+
+  \usepackage{sectsty} \allsectionsfont{\normalfont\sffamily\bfseries}
+  \paragraphfont{\normalfont\sffamily\fontseries{CndB}\selectfont}
+
+
+  \usepackage{changepage} % for the adjustwidth environment
+
+  \newcommand{\citalitlar}[1]{
+  \begin{adjustwidth}{1.2cm}{}
+  \emph{#1}
+  \end{adjustwidth}
+  }
+
+  % Custom Titles
+  \usepackage[explicit]{titlesec}
+
+  % Los títulos de inicio del capítulo/sección centrados, en mayúsculas, y a 12pt
+  % \titleformat{\chapter} {\normalfont\filcenter} {\thechapter} {12pt}
+  % {\MakeUppercase{#1}} [\vspace{1ex}%
+  % {\titlerule[2pt]}]
+
+  % \titlespacing*{\chapter}
+  % {0pt}{.42cm}{0.84cm}
+
+  % Los títulos del primer nivel irán en negrita y sin sangría
+
+  % \titleformat{\section}
+  % {\normalfont\bfseries}
+  % {\thesection}{10pt}
+  % {#1}
+  % \titleformat{name=\section,numberless}[block]
+  % {\normalfont\bfseries}
+  % {#1}
+  % {0pt}
+  % {}
+
+  \titlespacing*{\section} {0pt}{0.42cm}{0.21cm}
+
+  % los del segundo nivel en negrita y con sangría de 0’5cm
+
+  % \titleformat{\subsection}
+  % {\normalfont\bfseries}
+  % {\hspace{0.5cm}\thesubsection}{10pt}
+  % {#1}
+
+  % \titleformat{name=\subsection,numberless}[block]
+  % {\normalfont\bfseries\hspace{0.5cm}}
+  % {#1}
+  % {0pt}
+  % {}
+
+  \titlespacing*{\subsection} {0pt}{0.42cm}{0.21cm}
+
+  % los de tercer y cuarto nivel, irán sin negrita y con sangría de 0,5cm
+
+  % \titleformat{\subsubsection}
+  % {\normalfont}
+  % {\hspace{0.5cm}\thesubsubsection}
+  % {10pt}
+  % {#1}
+
+  % \titleformat{name=\subsubsection,numberless}[block]
+  % {\normalfont\hspace{0.5cm}}
+  % {#1}
+  % {0pt}
+  % {}
+
+  \titlespacing*{\subsubsection} {0pt}{0.42cm}{0.21cm}
+
+
+  %----------------------------------------------------------------------
+
+  \usepackage{setspace} \setstretch{1}
+
+
+  % Paragraphs
+  \setlength{\parindent}{1.25cm} \setlength{\parskip}{0.21cm}
+
+  \usepackage[a4paper,inner=3.5cm, outer=3.5cm, top=3.5cm, bottom=3.5cm,
+  marginparwidth=5cm, marginparsep=1cm]{geometry}
+
+  \setcounter{secnumdepth}{-1}
+
+
+  \begin{document}
+#+END_SRC
+
+
+* Título
+#+BEGIN_SRC latex
+  \maketitle
+  %\noindent\rule{\textwidth}{1pt}\\
+#+END_SRC
+
+
+* Jesús: Suceso histórico con valor absoluto
+#+BEGIN_SRC latex
+    Cuando [Jesús] oyó que Juan había sido entregado, se retiró a Galilea. Y dejando
+    Nazarét, vino a residir en Cafarnaúm junto al mar, en el término de
+    Zabulón y Neftalí; para que se cumpliera el oráculo del profeta Isaías:\\\\
+    \emph{¡Tierra de Zabulón, tierra de Neftalí, camino del mar, allende el Jordán,
+      Galilea de los gentiles! El pueblo que habitaba en tinieblas ha visto una gran
+      luz; a los que habitaban en paraje de sombras de muerte una luz les ha
+      amanecido.}\\\\ Desde entonces comenzó Jesús a predicar y decir:\\\\
+    \emph{<<Convertíos, porque el Reino de los Cielos ha llegado.>>}\\\\ Caminando
+    por la ribera del mar de Galilea vio a dos hermanos, Simón, llamado Pedro, y su
+    hermano Andrés, echando la red en el mar, pues eran pescadores, y les dice:\\\\
+    \emph{<<Venid conmigo, y os haré pescadores de hombres.>>}\\\\ Y ellos al
+    instante, dejando las redes, le siguieron. Caminando adelante, vio a otros dos
+    hermanos, Santiago el de Zebedeo y su hermano Juan, que estaban en la barca con
+    su padre Zebedeo arreglando sus redes; y los llamó. Y ellos al instante, dejando
+    la barca y a su padre, le siguieron.
+        \begin{flushright}
+        Mt 4, 12--22\end
+        {flushright}
+
+        \paragraph{Esta discusión tiene como objetivo suscitar un espacio de
+          discernimiento en dónde se le plantea a los jóvenes que en un contexto
+          de precareidad y fluidez ellos juegan un papel activo en el escenario
+          social, y este papel tiene que ver con la tarea del Reino.}
+#+END_SRC
+
+* Presupuestos
+#+BEGIN_SRC latex
+\section{Presupuestos}
+  \paragraph{Nuestra discusión da por ciertas varias ideas.\\}
+
+  \subsection{<<Quizá sea verdad>>}
+  En una entrevista de Stephen Colbert a Ricky Gervais transmitida en su programa
+  el 1ro de este mes, Colbert, que es católico, propuso el tema de la religión a
+  Gervais, ateo agnóstico. En su discusíon Ricky describió el ateísmo agnóstico
+  con palabras que podemos resumir de esta manera:
+
+  El agnostico afirma que no conocemos que Dios sea verdad. El agnostico ateo
+  afirma que dado que es imposible ofrecer pruebas que sustenten el conocimiento
+  de la verdad de Dios, esta verdad no es creible.
+
+  El diálogo de los comediantes me recuerda una relfexión de Martin Buber relatada
+  por Joseph Ratzinger en su libro ``Introducción al Cristianismo''. Cuenta lo
+  siguiente:
+
+  \citalitlar{Un racionalista, un hombre muy entendido, fue un día a disputar con
+    un Zaddik (Maestro Judio) con la idea de destruir sus viejas pruebas en favor
+    de la verdad de su fe. Cuando entró en su aposento, lo vio pasear por la
+    habitación con un libro en las manos y sumido en profunda meditación. Ni
+    siquiera se dio cuenta de que había
+    llegado alguien. Por fin, lo miró de soslayo y le dijo: <<Quizá sea verdad>>.\\
+    El hombre instruido intentó en vano conservar la serenidad: el Zaddik le
+    parecía tan terrible, su frase le pareció tan tremenda, que empezaron a
+    temblarle las piernas. El rabí Levi Jizchak se volvió hacia él, le miró fija y
+    tranquilamente, y le dijo: <<Amigo mío, los grandes de la Tora, con los que
+    has disputado, se han prodigado en palabras; tú te has echado a reír. Ni ellos
+    ni yo podemos poner ni a Dios y ni a su Reino encima de la mesa. Pero piensa
+    en esto: quizá sea verdad>> El racionalista movilizó todas sus fuerzas para
+    contrarrestar el ataque; pero aquel <<quizá>>, que de vez en cuando retumbaba
+    en sus oídos, oponía resistencia.}
+    
+  Ratzinger añade:
+  \citalitlar{Es ley fundamental del destino humano encontrar lo decisivo de su
+    existencia en la perpetua rivalidad entre la duda y la fe, entre la
+    impugnación y la certidumbre. La duda impide que ambos se encierren
+    herméticamente en su yo y tiende al mismo tiempo un puente que los comunica.
+    Impide a ambos que se cierren en sí mismos: al creyente lo acerca al que duda
+    y al que duda lo lleva al creyente; para uno es participar en el destino del
+    no creyente; para el otro la duda es la forma en la que la fe, a pesar de
+    todo, subsiste en él como reto.}
+#+END_SRC
+
+ #+BEGIN_SRC latex
+   \subsubsection{Primer Presupuesto:}
+   \begin{itemize}
+   \item Tanto el creyente como el no creyente tienen que lidiar con la duda, ante
+     ese reto común tendremos por cierto que el <<quizá sea verdad>> es un
+     postulado que genera, si no atracción, al menos inquietud.
+   \end{itemize}
+ #+END_SRC
+
+#+BEGIN_SRC latex
+  \subsection{La Fe pretende ser un modo de conocer}
+  En esta discusión haremos referencia a premisas que se apoyan en la fe. Por fe
+  no entendemos ``conocimiento sin pruebas'', sino más bien, ``conocimiento
+  adquirido por la confianza en aquello que entendemos que es palabra de
+  alguien''. Según esta definición, hablar de la fe respecto de Dios se refiere a
+  aquello que conocemos por la confianza que tenemos en aquello que entendemos que
+  es palabra de Dios. Entendemos sin embargo la dificultad que trae decir que Dios
+  habla,y que no es una verdad evidente, sin embargo, aquel que dice tener fe
+  afirma precisamente eso, que ha ``escuchado a Dios''.
+#+END_SRC
+
+ #+BEGIN_SRC latex
+   \subsubsection{Segundo Presupuesto:}
+   \begin{itemize}
+   \item Tenemos por cierto que por fe se denomina una experiencia humana que
+     pretende ser medio o camino de conocimiento de la verdad. El tipo de verdad
+     que pretende dar a conocer es la verdad de un ser personal.
+   \end{itemize}
+ #+END_SRC
+
+
+#+BEGIN_SRC latex
+  \subsection{Dios no es el objeto de tal o cual culto}
+ 
+  Definir a Dios como ``objeto de culto'' no nos sirve, porque tendríamos que
+  definir culto como ``honor que se ofrece a la deidad''. Es decir, el culto
+  divino es el tipo especial de honor que se pretende que sea rendido a una
+  deidad, sin embargo, este honor puede ser ofrecido a algo o alguien que no sea
+  una deidad. Por Dios entendemos no un nombre propio, sino una descripción
+  definitiva, es decir, equivale a `el único dios verdadero', o `aquella deidad
+  que sí es verdad'.
+
+#+END_SRC
+
+ #+BEGIN_SRC latex
+   \subsubsection{Tercer Presupuesto:}
+   \begin{itemize}
+   \item Tenemos por cierto que por el término Dios hemos de entender 'el único y
+     verdadero Dios'.
+   \end{itemize}
+ #+END_SRC
+
+
+* Cuestión Central
+#+BEGIN_SRC latex
+  \section{Cuestión Central}
+         \paragraph{Expuestos los presupuestos, planteamos la cuestión a ser
+           discutida.}
+
+           \subsection{El absurdo}
+           Quisiera comenzar con algo un poco absurdo\ldots que nos ayude a
+           plantearnos nuestra pregunta. Douglas Adams comienza la historia en ``Hitchhikers guide
+           to the galaxy'' (1978) con la destrucción del planeta tierra:
+
+           \citalitlar{Este planeta tiene --o tenía-- un problema, que era este:
+             la mayoría de la gente que vivía en él se sentían infelices casi todo
+             el tiempo. Muchas soluciones fueron sugeridas para este problema,
+             pero la mayoría de éstas estaban grandemente relacionadas con el
+             movimiento de pequeños pedazos de papel verde, lo que resulta extraño
+             dado que no eran los pedazos de papel verde los que eran infelices.}
+           \citalitlar{Y así el problema permanecía; muchas de las personas eran
+             crueles, y la mayoría miserables, hasta los que tenían relojes
+             digitales. [\ldots] Entonces, un jueves, casi dos mil años después de
+             que un hombre fuera clavado a un árbol por decir cuán grandioso sería
+             ser amables para variar, una joven sentada en un pequeño café realizó
+             de repente qué era lo que había estado mal todo este tiempo, y
+             finalmente entendió cómo el mundo podía ser hecho un lugar bueno y
+             feliz. Esta vez funcionará --pensó--. Sin embargo, antes de que
+             pudiera contarlo a nadie una estúpida y terrible catástrofe ocurrió.}
+           \citalitlar{<<Como ustedes sin duda sabrán, los planes para el
+             desarrollo de las regiones exteriores de la galaxia requieren la
+             construcción de una autopista hyperespacial que cruzará a través de
+             sus sitema solar y desafortunadamente su planeta es uno de los que ha
+             sido planificado para demolición.>>} \citalitlar{<<No tiene sentido
+             que reaccionen sorprendidos. Todas las tablas de planificación y
+             ordenes de demolición han sido publicadas en el departamento que les
+             corresponde an Alpha Centauri durante 50 de sus años, así que han
+             tenido tiempo de sobra para presentar una querella formal, y es
+             demasiado tarde ahora para quejarse.>>} \citalitlar{<<¿Cómo que no
+             han ido nunca a Alpha Centauri? ¡Si está solo a 4 años luz! Lo
+             sentimos, pero si no se molestan en interesarse por las cuestiones
+             locales, es su problema.>>}
+
+         Nuestro mundo, de valor incalculable para cada uno de nosotros, queda
+         reducido a una cosa insignificante, destruido por una gestión
+         burocrática. Expresa así una cuestión prominente en la obra,
+           \begin{itemize}
+           \item \emph{en esta vida absurda, ¿qué puede darle valor a nuestra
+               existencia?}
+           \end{itemize}
+
+
+         Voy todavía un poco mas allá con esta cuestión. Esta vez inspirado en una
+         escena de la película ``The Meaning of Life'' (1983) de Monty Python.
+         \begin{adjustwidth}{1.2cm}{}
+           Dos trabajadores tocan la puerta de una casa y les recibe un hombre.
+           Inmediatamente le asaltan con la pregunta:``Buenas. Ehh, ¿nos donaria
+           usted su higado?'' Despues de una breve discusión fuerzan al hombre a
+           donarles el higado en una escena estraflaria.
+
+           La esposa del donante entra en escena y sin manifestar ninguna sorpresa
+           por lo que allí ocurre le ofrece té a los trabajadores. Uno de ellos la
+           acompaña a la cocina y allí le pregunta a la Señora:
+
+           \noindent\emph{Trabajador.}~---¿Me pregunto\ldots tendrá algún plan o
+           pretendiente despues de esto?
+
+           \noindent\emph{Mrs. Brown.}~---No, ya no estoy para eso, no creo que
+           vuelva a juntarme con nadie.
+
+           \noindent\emph{Trabajador.}~---¿Segura?
+
+           \noindent\emph{Mrs. Brown.}~---Segura.
+
+           \noindent\emph{Trabajador.}~---¿Donaría usted su hígado entonces?
+
+           \noindent\emph{Mrs. Brown.}~---No, ¡oh no! Me daría miedo\ldots
+
+           \noindent\emph{Trabajador.}~---Muy bien, escuche entonces esto\ldots
+
+           Y de repente sale de la never un hombre que comienza una espectacular
+           presentación musical\ldots y canta\ldots
+
+           \emph{Solo recuerde que está en un planeta que evoluciona y rota a
+             9,000 millas por hora, y está en órbita a 19,000 millas por segundo
+             alrededor del sol, y éste y usted y yo y las estrellas que podemos
+             ver nos movemos millones de millas al día en esta galaxia que
+             llamamos la vía lactea\ldots Y esta galaxia es sólo una de millones
+             de billones en este maravilloso y grandioso universo\ldots}
+
+           \noindent\emph{Mrs. Brown}~---Le hace sentir a uno así como
+           insignificante, ¿no?
+
+           \noindent\emph{Trabajador.}~---Sí, sí. ¿Me dona su higado entonces?
+
+           \noindent\emph{Mrs. Brown}~---Sí, muy bien\ldots Sí que me
+           convenció\ldots
+
+         \end{adjustwidth}
+
+         Aparece aquí un misma consideración de la existencia como una
+         tragicomedia absurda. La vida como una particula insignificante. Y como
+         resultado una idea macabra de lo que significa donar la vida. Podríamos
+         desde aquí plantear la pregunta:
+
+         \begin{itemize}
+         \item \emph{¿Existe alguna causa a la que no sea un error comprometerle
+             la vida por entero?}
+         \end{itemize}
+#+END_SRC
+
+
+* Una cuestión existencial(ista)
+#+BEGIN_SRC latex
+    \section{Una cuestión existencial(ista)}
+      Todo esto nos ha dejado con un sabor existencialista en la boca.
+
+      El planteamiento de que <<no hay una teleología que de orden al mundo\ldots ~La
+      existencia no tiene detrás una intencionalidad>> se convierte en motivo de
+      angustia y urgencia. Nada tiene intención, o sentido, pero entonces puedes
+      dárselo tu a cualquier cosa.
+
+      Un testimonio al que me sigo remitiendo y que ilustra esta noción es el de
+      Victor Frankl y su experiencia en el campo de concentración: 
+
+      <<en realidad no importa lo que esperemos de la vida, sino si la vida
+      espera algo de nosotros. Tenemos que dejar de hacernos preguntas sobre el
+      significado de la vida y, en vez de ello, pensar en nosotros como en seres
+      a quienes la vida les inquiriera continua e incesantemente. Nuestra
+      contestación tiene que estar hecha no de palabras ni tampoco de
+      meditación, sino de una conducta y una actuación rectas. En última
+      instancia, vivir significa asumir la responsabilidad de encontrar la
+      respuesta correcta a los problemas que ello plantea y cumplir las tareas
+      que la vida asigna continuamente a cada individuo.>>
+
+      El mismo Frankl plantea, sin embargo:
+
+      <<La apatía, el principal síntoma de la segunda fase, era un mecanismo
+      necesario de autodefensa.>>
+
+  ¿Por qué invocar todas estas cuestiones?
+
+  El siglo pasado estuvo lleno de experiencias estremecedoras para nuestra
+  cultura. En este sentido Frankl sería portavoz de un sentimiento generalizado,
+  la realidad que nos rodea es tan atroz que es dificil argumentar que haya un
+  propósito detrás de todo.
+
+  Nuestro siglo nos sigue planteando nuevas desiluciones, los sistemas políticos,
+  económicos e idelógicos pasan por crisis que nos hacen cuestionar su valor.
+
+  ¿Cual puede ser nuestra respuesta? Me resuenan las palabras de Frankl, la apatía
+  sería un mecanismo de autodefensa. Dejar la vida en suspenso, perder la audacia
+  de las grandes propuestas. Sería un refugio.
+
+  Albert Camus(1913-1960) en su obra ``El mito de Sísifo'' recuerda el mito de
+  aquel hombre condenado por los dioses a subir sin cesar una roca hasta la cima
+  de una montaña desde donde la piedra volvía a caer por su propio peso. Sísifo es
+  feliz, sin embargo, dice Camus. Aún en su trabajo absurdo, su destino le
+  pertenece, por eso es feliz. El que trabaja hoy ha de juzgar que todo está bien,
+  y creer que su destino está en sus manos?
+
+  ¿Esto es todo lo que se puede esperar? 
+#+END_SRC
+* La propuesta del Reino
+#+BEGIN_SRC latex
+      \subsection{El Reino de los cielos ha llegado}
+
+      Es en este contexto que quisiera evocar la causa de Jesús de Nazaret. Dialogar
+      con él.
+
+      Recuerdo cuando estaba en escuela superior y me puse a leer los evangelios de
+      corrido por primera vez. Empecé por Mateo. No tardé en toparme con un asunto
+      que me llamó la atención.
+
+      Al narrar los inicios de la misión de Jesús de Nazarét el evangelista lo
+      describe proponiendo el siguiente mensaje: <<Convertíos, porque el Reino de
+      los cielos ha llegado>>.
+
+      Recuerdo que no entendí eso del Reino. Pensaba que entendía el mensaje
+      cristiano, pero no entendí a qué se refería esta expresión. Pienso que lo
+      confuso de la idea en el momento era pensar que el mensaje propuesto por Jesús
+      no consistía en enseñanzas para juzgar o aplicarme en mi conciencia o
+      interioridad, sino que invitaba además a juzgar y entender la situación que me
+      rodea.
+
+      El ``Reino de Dios'' no se limita a describir una situación de ``mi mundo'',
+      sino que describe ``nuestro mundo''.
+
+      Quisiera compartirles el relato completo. (Arriba)
+
+      Puntos del relato: 
+
+      -Un hecho histórico adquiere un valor trascendente o universal para la vida
+      de los que lo han experimentado. 
+
+      -Son invitados a entablar una nueva relación con los seres humanos y Dios:
+      Pescadores de hombres
+
+      -Se valora la enseñanza de Jesús desde la fe. Se descubre en ella la palabra
+      de Dios.
+
+      Para el contexto judío al que se dirige el evangelio según san Mateo esta
+      idea no resulta tan problemática. El Malkut de Dios o Reino de Dios es un
+      concepto conocido en ese contexto.
+
+      Cualquier maestro judío podía haber dicho: ``Que el Reino de Dios llegue en
+      nuestros días.'' o ``Si se arrepienten y se comprometen a observar la Torá
+      habrán aceptado el reino de Dios.''
+
+      Sin embargo el mensaje de Jesús va más allá. Dice, por ejemplo: si yo
+      expulso demonios por el dedo de Dios es que el reino de Dios ha llegado a
+      ustedes.
+
+      No se trata de tener a Dios por rey en el sentido de obedecer sus
+      mandamientos, sino de ser confrontados cone el poder de Dios que actúa
+      en el mundo.
+
+      Jesús habla del reino como un hecho presente que ha de ser reconocido tanto por
+      los que lo rechazan como por los que lo aceptan con sus acciones. Nos lo
+      presenta como un hecho histórico que no depende de la actitud de los seres
+      humanos.
+
+  \subsection{La forma pesada de la fe}
+      Las propuestas de la fe se hacen confusas cuando:
+    \begin{itemize}
+    \item se confunde la actitud de la fe con actitudes mágicas o
+      supersticiosas se
+
+    \item evaluan los postulados de la fe como parte de un sistema
+      ideológico o como una doctrina que naciera con la intención de
+      fundar una ideología específica.
+
+    \item se desliga de su finalidad interrelacional
+
+    \item se anteponen discursos que pretenden explicar y que hay que
+      admitir antes de atender el contenido de la fe
+      \end{itemize}
+
+      Lo que nos molesta en la fe cristiana es sobre todo la carga de excesivos
+      enunciados, que se han amontonado a lo largo de la historia, y se
+      presentan ahora todos ellos ante nosotros exigiendo nuestra fe.
+
+      Cuando se oye continuamente que esta o aquella conferenci, este o aquel
+      libro, han sido liberadores, entonces resulta claro que los seres humanos
+      sienten hoy comouna carga la forma de la fe, pero que al mismo tiempo
+      están animados por la exigencias de ser creyentes.
+
+      Habra momentos en la vida en que, en la múltiple oscuridad de la fe,
+      tendremos que concentrarnos realmente en el simple sí: creo en tí Jesus de
+      Nazaret; confío en que en tí se ha mostrado el sentido divino por el cual
+      puedo vivir mi vida paciente y animoso. Mientras esté presente este
+      centro, el ser humano está en la fe aunque muchos de los enunciados
+      concretos de ésta le resulten oscuros y por el momento no practicables.
+
+      La fe cristiana es encontrar un Tú que me sostiene y que, a pesar de la
+      imperfección y del carácter intrínsdsecamente incompleto de tod encuentro
+      humano, regala la promesa de un amor indestructible que no solo aspira a
+      la eternidad, sino que la otroga.
+
+  \subsection{Síntesis de las Parábolas del Reino}
+
+      Jesús usa sus palabras, sus parábolas, para ayudar a los seres humanos que en
+      los acontecimientos que tienen ante sus ojos --desde sus acciones por el bien
+      de los demás, hasta, el trágico conflicto de la cruz-- Dios les sale al paso
+      en su reino, su poder y su gloria. Este mundo se ha convertido en el escenario
+      de un drama divino en el que las decisiones eternas quedan al descubierto.
+
+      - Ha llegado la hora del cumplimiento, Dios actua con poder en la historia. No
+      se trata sin embargo de una exhibición espectacular, sino que lo que se tiene
+      ante los ojos es a un joven carpintero de Galilea, los indiferentes dicen:
+      vino Juan, que estaba loco, ahora viene Jesús, que no merece respeto. Jesús
+      sin embargo insiste, el reino de Dios ha llegado, porque hay una fuerza que
+      actua desde dentro, como la levadura en la masa, y ésta no se detiene.
+
+      -Jesús no ha venido como un reformador religioso a poner un remiendo en la
+      desgarrada vestidura del judaísmo farisaico. Sino a ofrecer un nuevo punto de
+      partida en la relación entre Dios y el ser humano. Jesús se muestra satisfecho
+      de se conocido como el amigo de publicanos y pecadores. Su mensaje fue
+      acogido. Entre judios y no judios el llamamiento de Jesús tuvo éxito.
+
+      - El llamamiento y el éxito de Jesús produjeron escándalo. ¿Cómo puede ser eso
+      del Reino de Dios, cuando todas las salvaguardias morales, laboriosamente
+      levantadas por los maestros de la ley, eran dejadas a un lado y la gente de
+      mal vivir era bien recibida entre los discípulos? Se acoje al que dijo no y
+      después dice sí, a los que acogen la invitación, se da el jornal entero por
+      una hora de trabajo.
+
+      -En el reino se juzga contra los fariseos, a los que viven con cautela
+      egoísta, a los exclusivistas, a los negligentes con sus responsabilidades y
+      ciegos a Dios y su obra. A la sal desabrida.
+
+      -El Reino exige una gran respuesta, una decisión que determine la orientación
+      de la vida. Aceptar el Reino significa arriegar la vida. Muchedumbres fueron
+      atraidas por la predicación de Jesús. Aquellas personas se juzgaron a sí
+      mismas no por un examen introspectivo, sino por la reacción ante la situación
+      concreta.
+
+
+#+END_SRC
+
+* El método de Jesús
+#+BEGIN_SRC latex
+  \subsection{Discernimiento, amistad, comunidad}
+  Como punto final quisiera compartirles una llamada a construir comunidad. ¿Tú y
+  qué otros once? ¿Cuál es tu comunidad en donde disciernes y construyes.
+
+Salmo 1:
+
+Dichoso el hombre
+que no sigue el consejo de los impíos,
+ni entra por la senda de los pecadores,
+ni se sienta en la reunión de los cínicos;
+ sino que su gozo es la ley del Señor,
+y medita su ley día y noche.
+
+
+Será como un árbol 
+plantado al borde de la acequia:
+da fruto en su sazón
+y no se marchitan sus hojas;
+y cuanto emprende tiene buen fin.
+
+
+#+END_SRC
+
+#+BEGIN_SRC latex
+\end{document}
+#+END_SRC
