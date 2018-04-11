@@ -27,7 +27,7 @@ La filosofía de Wittgenstein como trasfondo para la de Anscombe
 #+END_SRC
 
 * /////////////////////////////////////////////////////////
-* /Quaestio/: Wittgenstein: turning point in philosophical method
+* /Quaestio/: Witt: turning point in philosophical method
 :DEFINITION:
 Lo que se cuestiona
 :END:
