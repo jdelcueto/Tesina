@@ -5,8 +5,8 @@
 %Base Document Class
 \documentclass[
 10pt,twoside,
-draft
-%final
+%draft
+final
 ]{report}
 
 %Document Info
@@ -17,7 +17,7 @@ draft
 \supervisor{Prof. Javier Prades}
 \project{Tesina de Licenciatura}
 \faculty{Facultad de Teología}
-\date{2016}
+\date{2018}
 
 %PACKAGES
 %subfiles to include the chapters
@@ -28,7 +28,7 @@ draft
 \usepackage{hyperref}
 %ifdraft for notes and todos activation
 \usepackage{ifdraft}
-%verbatim for multilinXXI Domingo del Tiempo Ordinario, solemnidad	e comments
+%verbatim for multiline comments
 \usepackage{verbatim}
 %Easy Lists
 \usepackage[ampersand]{easylist}
@@ -71,9 +71,10 @@ draft
 }
 
 %Dedicatoria
-
+\ifdraft{}{
 \subfile{./dedicatoria}
 \afterpage{\blankpage}
+}
 %Table of Contents
 \ifdraft{}{
     \tableofcontents
@@ -83,7 +84,7 @@ draft
 %    \subfile{./intro}
 }
 %Capítulo 1:
-\ ifdraft{}{
+\ifdraft{}{
 %    \subfile{./ch1}
 }
 %Capítulo 2:

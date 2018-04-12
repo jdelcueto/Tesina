@@ -28,7 +28,7 @@
 *** ¿Qué consecuencias podemos sacar de usar las aserciones hechas por Anscombe como objeto de comparación con el uso del testimonio en el lenguaje actual de la teología fundamental?
 * Cap. 1: Naturaleza del Testimonio Cristiano
 ** El testimonio en la dinámica de la Revelación
-** La Categoría del Testimonio en el Contexto actual de la Teología
+** +La Categoría del Testimonio en el Contexto actual de la Teología+
 * +Cap. 2: El Valor Cognoscitivo de la Fe y el Problema del Lenguaje Religioso en la Filosofía Analítica+
 * Cap. 2: El testimonio en la Teología Fundamental
 * Cap. 3: La Categoría del Testimonio en el Pensamiento de Elizabeth Anscombe
@@ -67,8 +67,8 @@
 **** Ryle
 **** Mods and Literae Hum
 *** Esposa de Peter Geach: Frege?
-*** Cambridge: Anscombe y Wittgenstein [[file:~/Tesina/tex/ch3/anscombe_and_wittgenstein.tex][{>}]]
-** 2. La pregunta sobre la Verdad  [[file:~/Thesis/tex/ch3/truth.tex][{>}]]
+*** Cambridge: Anscombe y Wittgenstein [[file:~/Tesina/manuscript/ch3/anscombe_and_wittgenstein.org][{>}]]
+** 2. La pregunta sobre la Verdad[file:~/Thesis/tex/ch3/truth.tex][{>}]]
 ** 3. Fe  [[file:~/Thesis/tex/ch3/faith.tex][{>}]]
 *** To Believe  [[file:~/Thesis/tex/ch3/to_believe.tex][{>}]]
 ** La tradición sobre el valor epistemológico del testimonio

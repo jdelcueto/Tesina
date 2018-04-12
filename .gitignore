@@ -47,6 +47,7 @@ Thumbs.db
 *.bcf
 *.blg
 *.xml
+*.xdv
 auto/
 
 ## Core latex/pdflatex auxiliary files:

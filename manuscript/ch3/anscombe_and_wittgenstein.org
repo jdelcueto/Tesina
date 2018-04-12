@@ -27,13 +27,18 @@ La filosofía de Wittgenstein como trasfondo para la de Anscombe
 #+END_SRC
 
 * /////////////////////////////////////////////////////////
-* /Quaestio/: Witt: turning point in philosophical method
+* /Quaestio/: W.: turning point in philosophical method [100%]
 :DEFINITION:
 Lo que se cuestiona
 :END:
 :STATEMENT:
-Wittgenstein: el problema de la filosofía es un problema del lenguaje
-El método de la filosofía es sacar a la luz la faltaKnaphill de referencia
+La cuestión planteada al inicio de este apartado tiene como objetivo presentar a
+Wittgenstein como un punto de inflexión en el desarrollo de la filosofía. Su método
+tiene un efecto en el modo de hacer filosofía. 
+
+Para W. el problema de la filosofía es un problema del lenguaje. El método de la
+filosofía, en consecuencia, es sacar a la luz la falta de referencia relativa a las
+proposiciones. 
 :END:
 :Lent41-1951:
 | L41                                                                              | E41                                                            | M41                                                               |
@@ -67,7 +72,8 @@ En 1942 Elizabeth Anscombe llegó a Cambridge.
 
 :END:
 
-** El método de Wittgenstein
+** DONE El método de Wittgenstein
+   CLOSED: [2018-04-11 Wed 11:02]
  #+BEGIN_SRC latex 
    \subsection{El método de Wittgenstein}
    El 16 de octubre de 1944 Ludwig Wittgenstein reanudó su itinerario de clases en
@@ -111,36 +117,40 @@ En 1942 Elizabeth Anscombe llegó a Cambridge.
    una pregunta sobre el uso que se les da a las palabras?}
  #+END_SRC
 
-* /Expositio/: 
+* /Expositio/: [0%]
 :DEFINITION:
 Lo que se describe
 :END:
 :STATEMENT:
+Este discurso expositivo tiene como objetivo general presentar el talante filosófico de
+W., su método y sus efectos. 
+
+
 La filosofía de Wittgenstein como genuina tarea artística.wild life striving to erupt
 into the open
 :END:
 
-** El arte de hacer filosofía
- #+BEGIN_SRC latex 
-   \subsection{El arte de hacer filosofía}
+** TODO El arte de hacer filosofía [60%]
+#+BEGIN_SRC latex 
+ \subsection{El arte de hacer filosofía}
 #+END_SRC
-
-*** Vida salvaje luchando por emerger abiertamente
+*** DONE Vida salvaje luchando por emerger abiertamente
+    CLOSED: [2018-04-11 Wed 11:13]
  #+BEGIN_SRC latex
    \ifdraft{\subsubsection{Vida salvaje luchando por emerger abiertamente}}{}
 
    \engcitation{``Within all great art there is a WILD animal: tamed.''}
    Wittgenstein pensaba que
    \citalitinterlin{dentro de todo buen arte hay un animal salvaje
-     domado}\footcite[p.~43e]{cnv}. 
+     domado}\footcite[p.~43e]{cnv}.
    Su talante artístico, sin embargo, no manifestaba esta primitiva vitalidad; o
    como él mismo decía:
    \engcitation{``In my artistic activities I have merely good manners''}
    \citalitinterlin{en mis actividades artísticas tengo meramente buenos
-   modales.}\footcite[p.~29e]{cnv}
+     modales.}\footcite[p.~29e]{cnv}
 
-   Ejemplo de estos ``buenos modales'' fue el diseño que realizó para la casa
-   de su hermana Margaret en Viena, terminada en 1928.
+   Ejemplo de estos ``buenos modales'' fue el diseño que realizó para la casa de su
+   hermana Margaret en Viena, terminada en 1928.
    \engcitation{``my house for Gretl is the product of a sensitive ear, good
      manners, the expression of great understanding... wild life striving to erupt
      in the open is lacking... health is lacking (Kierkergaard)''}
@@ -164,21 +174,24 @@ into the open
 
    Esta fuerza creativa ausente en su rigurosa actitud hacia la actividad artística
    estallaba, sin embargo, en su actividad filosófica. Aquella cualidad que él
-   encontraba característica del buen arte, esa vida salvaje luchando por emerger
-   abiertamente,\footcite[cf.˜][loc.˜]{monk} estaba en su hacer filosofía.
+   encontraba característica del buen arte, esa ``vida salvaje luchando por emerger
+   abiertamente'',\footcite[cf.˜][loc.˜]{monk} quedaba expresada en su quehacer
+   filosífico.
   #+END_SRC
 
-*** Filosofía emergente
+*** DONE Filosofía emergente
+    CLOSED: [2018-04-11 Wed 11:16]
   #+BEGIN_SRC latex 
     \ifdraft{\subsubsection{Filosofía emergente}}{}
 
-    Y la filosofía nació así en él. Como una fuerza violenta. Se hallaba estudiando
-    ingeniería en Manchester y se interesó por los fundamentos de las matemáticas.
-    Este interés no tardó en convertirse en el deseo de elaborar un trabajo
-    filosófico. Su hermana Hermine le describe así en sus memorias de la familia
-    Wittgenstein
+    La filosofía nació así en Ludwig. Como una fuerza violenta. Se hallaba
+    estudiando ingeniería en Manchester y se interesó por los fundamentos de las
+    matemáticas. Este interés no tardó en convertirse en el deseo de elaborar un
+    trabajo filosófico. Su hermana Hermine le describe así en sus memorias de la
+    familia Wittgenstein
     \footnote{Hermine Wittgenstein escribió la historia y memorias de su familia
       ``Familienerinnerungen'' durante la segunda Guerra Mundial.}:
+
     \citalitlar{Fue repentinamente agarrado por la filosofía ---es decir, por la
       reflexión en problemas filosóficos--- tan violentamente y tan en contra de su
       voluntad que sufrió severamente por la doble y conflictiva llamada interior y
@@ -196,7 +209,8 @@ into the open
     problemas fundamentales. Por las reglas del juego, se podría decir.
 #+END_SRC
 
-*** Naturaleza de los problemas filosóficos
+*** DONE Naturaleza de los problemas filosóficos
+    CLOSED: [2018-04-11 Wed 11:18]
 #+BEGIN_SRC latex
   \ifdraft{\subsubsection{La Naturaleza de los problemas Filosóficos}}{}
 
@@ -239,7 +253,7 @@ into the open
   ``juego del lenguaje'' fuera de su contexto.
 #+END_SRC
 
-*** Dos cortes en la filosofía
+*** TODO Dos cortes en la filosofía
 #+BEGIN_SRC latex
   \ifdraft{\subsubsection{Dos Cortes en la Filosofía}}{}
 
@@ -331,7 +345,7 @@ into the open
      inclinación de los filósofos de manufacturar explicaciones o conexiones necesarias
      para justificar sus aseveraciónes.
 
-*** Ver el mundo claramente
+*** TODO Ver el mundo claramente
  #+BEGIN_SRC latex
       A modo de insistencia en este contraste entre conceptos de necesidad; considera
       el modo en el que hacemos cuentas en una serie, o el modo en el que calculamos
@@ -423,9 +437,12 @@ into the open
       claridad.
  #+END_SRC
 
-** El gran tratado de Wittgenstein
+** TODO El gran tratado de Wittgenstein [0%]
 #+BEGIN_SRC latex
   \subsection{El gran tratado de Wittgenstein}
+#+END_SRC
+*** TODO De Manchester a Cambridge
+#+BEGIN_SRC latex
   \ifdraft{\subsubsection{De Manchester a Cambridge}}{}
 
   \pnote{El propósito de recorrer el desarrollo que lleva al Tractatus es ofrecer
@@ -448,7 +465,10 @@ into the open
   que trabajó en sus estudios aquel curso. Al finalizar el termino Russell alegaba
   que Ludwig había aprendido todo lo que él podía enseñarle.\footcite[cap. 3 loc
   865]{monk}
+#+END_SRC
 
+*** TODO A Noruega a resolver los problemas de la lógica 
+#+BEGIN_SRC latex
   \ifdraft{\subsubsection{A Noruega a Resolver los problemas de la lógica}}{}
   Después de una temporada en Cambridge llena de eventos y desarrollos
   Wittgenstein anunció en septiembre de 1913 sus planes de retirarse para
@@ -456,7 +476,10 @@ into the open
   la lógica. Su idea era irse a Noruega, a algún lugar apartado, ya que pensaba
   que en Cambridge las interrupciones obstaculizarían su trabajo.\footcite[cap. 4
   loc 1844]{monk}
+#+END_SRC
 
+*** TODO La Gran Guerra
+#+BEGIN_SRC latex
   \ifdraft{\subsubsection{La Gran Guerra}}{} El trabajo en Noruega fue escabroso.
   En el verano de 1914 interrumpió su tarea para tomar un receso en
   Viena.\footcite[cap. 5 loc 2154]{monk} Había planificado regresar a Noruega
@@ -476,7 +499,10 @@ into the open
     he resuelto todos nuestros problemas. Esto puede sonar arrogante, pero no
     puedo evitar creerlo. Terminé el libro en agosto de 1918 y dos meses más
     tarde fui hecho 'Prigioniere'.\footcite[p.89]{cambridgeletters}}
+#+END_SRC
 
+*** TODO Aire de Misticismo 
+#+BEGIN_SRC latex
     \ifdraft{\subsubsection{Aire de Misticismo}}{}
     En junio de aquel año logró enviar el manuscrito del libro a Russell por medio
     de John Maynard Keynes quien intervino con las autoridades italianas para
@@ -502,7 +528,10 @@ into the open
         una idea, no una intención. Su intención es ser profesor. Repartió todo su
         dinero entre sus hermanos y hermanas, pues encuentra que las posesiones
         terrenales son una carga. \footcite[p. 112]{cambridgeletters}}
+#+END_SRC
 
+*** TODO En busca de una experiencia religiosa 
+#+BEGIN_SRC latex
     \ifdraft{\subsubsection{En busca de una experiencia religiosa}}{}
     Cuando Wittgenstein se enlistó en el ejercito para la guerra en 1914 tenía
     motivaciones más complejas que la defensa de su patria.\footcite[loc2276]{monk}
@@ -520,7 +549,10 @@ into the open
     La guerra había coincidido con esta época en la que el deseo de convertirse en
     una persona diferente era más fuerte aún que su deseo de resolver los problemas
     fundamentales de la lógica.\footcite[loc2305]{monk}
+#+END_SRC
 
+*** TODO La Principal Contienda
+#+BEGIN_SRC latex
     \ifdraft{\subsubsection{La Principal Contienda}}{}
     Esta transformación sorprendió a Russell en aquel encuentro en la Haya, pero
     además fue motivo de confusión en la tarea de entender el Tractatus. Cuando
@@ -564,6 +596,10 @@ into the open
     %2. El pensamiento como representación
     %3. Los polos de verdad y falsedad de las proposiciones
     %4. La diferencia ente decir y mostrar
+#+END_SRC
+
+** TODO Las elucidaciones del Tractatus [0%]
+#+BEGIN_SRC latex
     \subsection{Las elucidaciones del Tractatus}
     \todo{Este párrafo resume los cuatro puntos del Tractatus que se desglosarán en
         los próximos párrafos} 
@@ -586,7 +622,9 @@ into the open
     en proposiciones. Adicionalmente hay mucho que es inexpresable, lo cual no
     debemos intentar enunciar, sino más bien contemplar sin palabras.\footcite[cf.
     p.19]{IWT}
-
+#+END_SRC
+*** TODO La filosofia como actividad
+#+BEGIN_SRC latex
     \subsubsection{La filosofía como actividad}
 
     La filosofía es la actividad que tiene como objeto la clarificación lógica
@@ -625,7 +663,10 @@ into the open
     posibilidad del estado de las cosas que son pensadas y la totalidad de los
     pensamientos verdaderos es una imagen del mundo.\footcite[cf.][3 y
     3.001]{tractatus}
+#+END_SRC
 
+*** TODO El pensamiento como representación
+#+BEGIN_SRC latex
     \subsubsection{El pensamiento como representación}
 
     El pensamiento es representación de la realidad por la identidad existente entre
@@ -652,8 +693,11 @@ into the open
         en común con la realidad, de manera que pueda representarla ---cierta o
         falsamente--- de algún modo, es su forma lógica, esto es, la forma de la
         realidad.\footcite[p.34]{tractatus}}  
+#+END_SRC
 
-    \subsubsection{Las proposiciones como proyecciones con polos de verdad-falsedad}
+*** TODO Las proposiciones como proyecciones con polos de verdad-falsedad
+#+BEGIN_SRC latex
+\subsubsection{Las proposiciones como proyecciones con polos de verdad-falsedad}
     \todo{Añadir analogía sobre la verdad ---si es que no se va a usar en el próximo
     apartado---}
     La imagen de la realidad se convierte en proposición en el momento en que
@@ -723,7 +767,10 @@ into the open
     resultan en esto, en formaciones de palabras que carecen de sentido, es decir,
     son formaciones que parecen oraciones, cuyos componentes resultan no tener
     significado en esa forma de oración.\footcite[cf.~][p.~163~\S2]{IWT}.
+#+END_SRC
 
+*** TODO La distinción entre el decir y el mostrar
+#+BEGIN_SRC latex
     \subsubsection{La distinción entre el decir y el mostrar}
     La conexión entre las tautologías y aquello que no se puede decir, sino
     mostrar, es que éstas ---siendo proposiciones lógicas sin sentido--- muestran
@@ -792,13 +839,22 @@ into the open
         le estuviéramos enseñando filosofía--- pero este método sería el único
         estrictamente correcto.\footcite[p. 107--108]{tractatus}}
     \todo{Añadir como conclusión del resumen la finalidad ética del tratado.}
+#+END_SRC
 
+** TODO Formación filosófica de Elizabeth [0%]
+#+BEGIN_SRC latex
     \subsection{Formación filosófica de Elizabeth}
+#+END_SRC
+*** TODO De Wittgenstein a Anscombe
+#+BEGIN_SRC latex
     \subsubsection{De Wittgenstein a Anscombe}
     En el 1929 Wittgenstein presentó el Tractatus Logico\=/Philosophicus como su
     tesis doctoral en Cambridge. Ese mismo año fue designado como profesor en
     ``Trinity College'', allí estaría hasta 1936.
+#+END_SRC
 
+*** TODO Causalidad, reflexiones iniciales de Anscombe
+#+BEGIN_SRC latex
     \subsubsection{Causalidad reflexiones iniciales de Anscombe}
     Por aquella época la joven Gertrude Elizabeth Margaret Anscombe, andaba buscando
     un buen argumento que demostrara que todo lo que existe tiene que tener una
@@ -820,7 +876,10 @@ into the open
     parecían satisfactorias, sin embargo eventualmente descubría que contenían la
     misma falacia, cada vez disimulada más astutamente.\footcite[cf.~][p.~vii
     \S2]{M&PotM} 
+#+END_SRC
 
+*** TODO Oxford: La Percepción y el fenomenalismo de Price 
+#+BEGIN_SRC latex
     \subsubsection{Oxford: La Percepción y el fenomenalismo de Price}
     Otra inquietud ocuparía sus reflexiones. Esta vez, como fruto de su lectura de
     `The Nature of Belief' de Martin D'Arcy, se interesó por el tema de la
@@ -876,7 +935,10 @@ into the open
     manifestó su clara preferencia por la filosofía. Fue premiada con honores de
     primera clase aún cuando su desempeño en las pruebas de historia fue bastante
     menos que espectacular\footcite[p.~3~\S1]{teichmann}.
+#+END_SRC
 
+*** TODO En Cambridge con Wittgenstein 
+#+BEGIN_SRC latex
     \subsubsection{En Cambrdige con Wittgenstein}
     ANSCOMBE LLEGÓ A CAMBRIDGE EN M42 W. OFRECIA CLASES LOS SÁBADOS Y TRABAJABA EN
     GUY'S. DESDE E43 HASTA E44 NO DIO CLASES. EN M44 EMPEZÓ OTRA VEZ. EN L45 EMPEZÓ
@@ -1060,7 +1122,10 @@ into the open
 
     \pnote{introducir algunos contrastes y relaciones entre Anscombe y Wittgenstein
         para explicar la incursión en la vida/pensamiento de W.}
+#+END_SRC
 
+** Wittgenstein y la fe
+#+BEGIN_SRC latex
     \subsection{Wittgenstein y la fe}
     \todo{En casa de Anscombe, hablando de la fe}
     \todo{From IWT: la verdad de la teoría de la imagen sería el fin de la teología
@@ -1112,6 +1177,10 @@ into the open
 Lo problemático
 :END:
 
+:STATEMENT:
+Qué efectos tiene W. en A.?
+:END:
+
 * /Solutio/
 :DEFINITION:
 La salida o desenrredo
@@ -1121,7 +1190,6 @@ La salida o desenrredo
 :DEFINITION:
 Lo relacionado con el tesimonio
 :END:
-
 
 * [Local Variables]
 # Local Variables:
