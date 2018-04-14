@@ -29,8 +29,9 @@
 * Cap. 1: Naturaleza del Testimonio Cristiano
 ** El testimonio en la dinámica de la Revelación
 ** +La Categoría del Testimonio en el Contexto actual de la Teología+
+** La categoría del testimonio en la tradición
 * +Cap. 2: El Valor Cognoscitivo de la Fe y el Problema del Lenguaje Religioso en la Filosofía Analítica+
-* Cap. 2: El testimonio en la Teología Fundamental
+* _Cap. 2: El testimonio en la Teología Fundamental_
 * Cap. 3: La Categoría del Testimonio en el Pensamiento de Elizabeth Anscombe
 :NOTAS_METODOLÓGICAS:
 1. Hubo una época en la que el método que me parecía útil para confrontar la
@@ -60,17 +61,26 @@
    - Analizar el uso > relacionar los 'parecidos familiares' > exponer >
      describir
 :END:
-** 1. Desarrollo Filosófico                                                                                                      
-*** Conversión al catolicismo: Causalidad
-*** Oxford: Percepción
-**** Price
-**** Ryle
-**** Mods and Literae Hum
-*** Esposa de Peter Geach: Frege?
-*** Cambridge: Anscombe y Wittgenstein [[file:~/Tesina/manuscript/ch3/anscombe_and_wittgenstein.org][{>}]]
-** 2. La pregunta sobre la Verdad[file:~/Thesis/tex/ch3/truth.tex][{>}]]
-** 3. Fe  [[file:~/Thesis/tex/ch3/faith.tex][{>}]]
-*** To Believe  [[file:~/Thesis/tex/ch3/to_believe.tex][{>}]]
+:Apartado_1_orig:
+# ** 1. Desarrollo Filosófico                                                                                                      
+# *** Conversión al catolicismo: Causalidad
+# *** Oxford: Percepción
+# **** Price
+# **** Ryle
+# **** Mods and Literae Hum
+# *** Esposa de Peter Geach: Frege?
+# *** Cambridge: Anscombe y Wittgenstein [[file:~/Tesina/manuscript/ch3/anscombe_and_wittgenstein.org][{>}]
+:END:
+** 1. Anscombe y Wittgenstein [[file:~/Tesina/manuscript/ch3/anscombe_and_wittgenstein.org::*Propositio:%20"Anscombe%20y%20Wittgenstein"][>>]]
+*** El método de Wittgenstein [[file:~/Tesina/manuscript/ch3/anscombe_and_wittgenstein.org::*El%20m%C3%A9todo%20de%20Wittgenstein][>>]]  
+*** El arte de hacer filosofía
+*** El gran tratado de Wittgenstein
+*** Las elucidaciones del Tractatus
+*** Formación filosófica de Anscombe
+*** Wittgenstein y la fe
+** 2. La pregunta sobre la Verdad [[file:~/Tesina/manuscript/ch3/truth.tex][>>]]
+** 3. Fe  [[file:~/Tesina/manuscript/ch3/faith.tex][>>]]
+*** To Believe  [[file:~/Tesina/manuscript/ch3/to_believe.tex][>>]]
 ** La tradición sobre el valor epistemológico del testimonio
 ** El testimonio en el lenguaje epistémico y creyente
 ** Sentido, sinsentido y misterio
