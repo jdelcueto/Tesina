@@ -117,7 +117,7 @@ En 1942 Elizabeth Anscombe llegó a Cambridge.
    una pregunta sobre el uso que se les da a las palabras?}
  #+END_SRC
 
-* TODO /Expositio/: [25%]
+* TODO /Expositio/: [60%]
 :DEFINITION:
 Lo que se describe
 :END:
@@ -449,11 +449,12 @@ into the open
   Con esta expresión Wittgenstein resumió el significado del \emph{'Tractatus
   Logico\=/Philosophicus'}.
   #+END_SRC 
-** TODO El gran tratado de Wittgenstein [0%]
+** DONE El gran tratado de Wittgenstein [100%]
 #+BEGIN_SRC latex
   \subsection{El gran tratado de Wittgenstein}
 #+END_SRC
-*** TODO De Manchester a Cambridge
+*** DONE De Manchester a Cambridge
+    CLOSED: [2018-04-14 Sat 11:13]
 #+BEGIN_SRC latex
   \ifdraft{\subsubsection{De Manchester a Cambridge}}{}
 
@@ -479,7 +480,8 @@ into the open
   865]{monk}
 #+END_SRC
 
-*** TODO A Noruega a resolver los problemas de la lógica 
+*** DONE A Noruega a resolver los problemas de la lógica 
+    CLOSED: [2018-04-14 Sat 11:13]
 #+BEGIN_SRC latex
   \ifdraft{\subsubsection{A Noruega a Resolver los problemas de la lógica}}{}
   Después de una temporada en Cambridge llena de eventos y desarrollos
@@ -490,7 +492,8 @@ into the open
   loc 1844]{monk}
 #+END_SRC
 
-*** TODO La Gran Guerra
+*** DONE La Gran Guerra
+    CLOSED: [2018-04-14 Sat 11:13]
 #+BEGIN_SRC latex
   \ifdraft{\subsubsection{La Gran Guerra}}{} El trabajo en Noruega fue escabroso.
   En el verano de 1914 interrumpió su tarea para tomar un receso en
@@ -513,7 +516,8 @@ into the open
     tarde fui hecho 'Prigioniere'.\footcite[p.89]{cambridgeletters}}
 #+END_SRC
 
-*** TODO Aire de Misticismo 
+*** DONE Aire de Misticismo 
+    CLOSED: [2018-04-14 Sat 11:13]
 #+BEGIN_SRC latex
     \ifdraft{\subsubsection{Aire de Misticismo}}{}
     En junio de aquel año logró enviar el manuscrito del libro a Russell por medio
@@ -542,7 +546,8 @@ into the open
         terrenales son una carga. \footcite[p. 112]{cambridgeletters}}
 #+END_SRC
 
-*** TODO En busca de una experiencia religiosa 
+*** DONE En busca de una experiencia religiosa 
+    CLOSED: [2018-04-14 Sat 11:13]
 #+BEGIN_SRC latex
     \ifdraft{\subsubsection{En busca de una experiencia religiosa}}{}
     Cuando Wittgenstein se enlistó en el ejercito para la guerra en 1914 tenía
@@ -563,7 +568,8 @@ into the open
     fundamentales de la lógica.\footcite[loc2305]{monk}
 #+END_SRC
 
-*** TODO La Principal Contienda
+*** DONE La Principal Contienda
+    CLOSED: [2018-04-14 Sat 11:13]
 #+BEGIN_SRC latex
     \ifdraft{\subsubsection{La Principal Contienda}}{}
     Esta transformación sorprendió a Russell en aquel encuentro en la Haya, pero
@@ -610,7 +616,7 @@ into the open
     %4. La diferencia ente decir y mostrar
 #+END_SRC
 
-** TODO Las elucidaciones del Tractatus [0%]
+** DONE Las elucidaciones del Tractatus [100%]
 #+BEGIN_SRC latex
     \subsection{Las elucidaciones del Tractatus}
     \todo{Este párrafo resume los cuatro puntos del Tractatus que se desglosarán en
@@ -635,9 +641,10 @@ into the open
     debemos intentar enunciar, sino más bien contemplar sin palabras.\footcite[cf.
     p.19]{IWT}
 #+END_SRC
-*** TODO La filosofia como actividad
+*** DONE La filosofia como actividad
+    CLOSED: [2018-04-14 Sat 11:13]
 #+BEGIN_SRC latex
-    \subsubsection{La filosofía como actividad}
+    \ifdraft{\subsubsection{La filosofía como actividad}}{}
 
     La filosofía es la actividad que tiene como objeto la clarificación lógica
     de los pensamientos.\footcite[4.112 p. 52]{tractatus} El problema de muchas de
@@ -677,9 +684,10 @@ into the open
     3.001]{tractatus}
 #+END_SRC
 
-*** TODO El pensamiento como representación
+*** DONE El pensamiento como representación
+    CLOSED: [2018-04-14 Sat 11:13]
 #+BEGIN_SRC latex
-    \subsubsection{El pensamiento como representación}
+    \ifdraft{\subsubsection{El pensamiento como representación}}{}
 
     El pensamiento es representación de la realidad por la identidad existente entre
     la posibilidad de la estructura de una proposición y la posibilidad de la
@@ -707,9 +715,10 @@ into the open
         realidad.\footcite[p.34]{tractatus}}  
 #+END_SRC
 
-*** TODO Las proposiciones como proyecciones con polos de verdad-falsedad
+*** DONE Las proposiciones como proyecciones con polos de verdad-falsedad
+    CLOSED: [2018-04-14 Sat 11:13]
 #+BEGIN_SRC latex
-\subsubsection{Las proposiciones como proyecciones con polos de verdad-falsedad}
+\ifdraft{\subsubsection{Las proposiciones como proyecciones con polos de verdad-falsedad}}{}
     \todo{Añadir analogía sobre la verdad ---si es que no se va a usar en el próximo
     apartado---}
     La imagen de la realidad se convierte en proposición en el momento en que
@@ -781,9 +790,10 @@ into the open
     significado en esa forma de oración.\footcite[cf.~][p.~163~\S2]{IWT}.
 #+END_SRC
 
-*** TODO La distinción entre el decir y el mostrar
+*** DONE La distinción entre el decir y el mostrar
+    CLOSED: [2018-04-14 Sat 11:13]
 #+BEGIN_SRC latex
-    \subsubsection{La distinción entre el decir y el mostrar}
+    \ifdraft{\subsubsection{La distinción entre el decir y el mostrar}}{}
     La conexión entre las tautologías y aquello que no se puede decir, sino
     mostrar, es que éstas ---siendo proposiciones lógicas sin sentido--- muestran
     la 'lógica del mundo'.\footcite[cf.~][p.~163~\S3]{IWT}. Esta 'lógica del
@@ -853,13 +863,14 @@ into the open
     \todo{Añadir como conclusión del resumen la finalidad ética del tratado.}
 #+END_SRC
 
-** TODO Formación filosófica de Elizabeth [0%]
+** TODO Formación filosófica de Elizabeth [25%]
 #+BEGIN_SRC latex
     \subsection{Formación filosófica de Elizabeth}
 #+END_SRC
-*** TODO De Wittgenstein a Anscombe
+*** DONE De Wittgenstein a Anscombe
+    CLOSED: [2018-04-14 Sat 11:48]
 #+BEGIN_SRC latex
-    \subsubsection{De Wittgenstein a Anscombe}
+    \ifdraft{\subsubsection{De Wittgenstein a Anscombe}}{}
     En el 1929 Wittgenstein presentó el Tractatus Logico\=/Philosophicus como su
     tesis doctoral en Cambridge. Ese mismo año fue designado como profesor en
     ``Trinity College'', allí estaría hasta 1936.
@@ -867,91 +878,94 @@ into the open
 
 *** TODO Causalidad, reflexiones iniciales de Anscombe
 #+BEGIN_SRC latex
-    \subsubsection{Causalidad reflexiones iniciales de Anscombe}
-    Por aquella época la joven Gertrude Elizabeth Margaret Anscombe, andaba buscando
-    un buen argumento que demostrara que todo lo que existe tiene que tener una
-    causa. ¿Por qué cuando algo ocurre estamos seguros de que tiene una causa? Nadie
-    sabía darle una respuesta. Sin darse cuenta, se había despertado en Anscombe
-    una pasión por la filosofía que le acompañaría el resto de su vida.
+  \ifdraft{\subsubsection{Causalidad reflexiones iniciales de Anscombe}}{}
+  Por aquella época la joven Gertrude Elizabeth Margaret Anscombe, andaba buscando
+  un buen argumento que demostrara que todo lo que existe tiene que tener una
+  causa. ¿Por qué cuando algo ocurre estamos seguros de que tiene una causa? Nadie
+  sabía darle una respuesta. Así, sin darse cuenta, se iniciaba Anscombe en la
+  ardua tarea de la filosofía. Rigurosa y enérgica desde el principio.
 
-    El origen de su peculiar curiosidad por la causalidad se hallaba en una obra
-    llamada `Teología Natural' escrita por un jesuita del siglo XIX. Había llegado a
-    este libro motivada por su conversión a la Iglesia Católica ---fruto, a su vez,
-    de lecturas hechas entre los doce y los quince---.\footcite[cf.~][p.~vii \S1]{M&PotM}
-    El tratado presentaba un argumento sobre la existencia de la `Causa Primera' y
-    como preliminar a éste ofrecía una demostración de un `principio de causalidad'
-    según el cual todo cuanto existe tiene que tener una causa. Anscombe notó,
-    escasamente escondido en una premisa, un presupuesto de la conclusión del propio
-    argumento. Aquel ``petitio principii'' le pareció un simple descuido y resolvió,
-    por tanto, escribir una versión mejorada de la demostración.
-    Durante los siguientes dos o tres años produjo unas cinco versiones que le
-    parecían satisfactorias, sin embargo eventualmente descubría que contenían la
-    misma falacia, cada vez disimulada más astutamente.\footcite[cf.~][p.~vii
-    \S2]{M&PotM} 
+  El origen de su peculiar curiosidad por la causalidad se hallaba en una obra
+  llamada `Teología Natural' escrita por un jesuita del siglo XIX. Había llegado a
+  este libro motivada por su conversión a la Iglesia Católica ---fruto, a su vez,
+  de lecturas hechas entre los doce y los quince---.\footcite[cf.~][p.~vii
+  \S1]{M&PotM} El tratado presentaba un argumento sobre la existencia de la `Causa
+  Primera' y como preliminar a éste ofrecía una demostración de un `principio de
+  causalidad' según el cual todo cuanto existe tiene que tener una causa. Anscombe
+  notó, escasamente escondido en una premisa, un presupuesto de la conclusión del
+  propio argumento. Aquel ``petitio principii'' le pareció un simple descuido y
+  resolvió, por tanto, escribir una versión mejorada de la demostración. Durante
+  los siguientes dos o tres años produjo unas cinco versiones que le parecían
+  satisfactorias, sin embargo eventualmente descubría que contenían la misma
+  falacia, cada vez disimulada más astutamente.\footcite[cf.~][p.~vii \S2]{M&PotM}
 #+END_SRC
 
 *** TODO Oxford: La Percepción y el fenomenalismo de Price 
 #+BEGIN_SRC latex
-    \subsubsection{Oxford: La Percepción y el fenomenalismo de Price}
-    Otra inquietud ocuparía sus reflexiones. Esta vez, como fruto de su lectura de
-    `The Nature of Belief' de Martin D'Arcy, se interesó por el tema de la
-    percepción. 
-    \begin{revision}
-    Estaba segura de que veía objetos, como paquetes de cigarrillos o tazas o\ldots
-    cualquier cosa más o menos sustancial servía. Pero estaba más bien concentrada
-    en artefactos, como los demás objetos de la vida urbana, y los primeros ejemplos
-    mas naturales que le llamaron la atención fueron `madera' y el cielo. Lo segundo
-    le golpeó en el centro porque andaba diciendo dogmáticamente que uno debe
-    conocer la categoría del objeto del cual uno hablaba ---si era un color o un tipo
-    de material, por ejemplo; eso pertenecía a la lógica del termino que uno estaba
-    usando. No podía ser una cuestión de descubrimiento empírico el que algo
-    perteneciera a una categoría distinta. El cielo la detuvo.
+  \ifdraft{\subsubsection{Oxford: La Percepción y el fenomenalismo de Price}}{}
 
-    Durante años ocupaba su tiempo, en cafeterías, por ejemplo, mirando fijamente
-    objetos, diciendose a sí misma: 'Veo un paquete. ¿Pero qué veo realmente? ¿Cómo
-    puedo decir que veo algo más que una extensión amarilla?
-
-    Fue en las clases de Wittgenstein que el pensamiento central ``Tengo esto, y
-    defino `amarillo' como esto'' fue efectivamente atacado. 
-
-    En una ocasión en estas clases Wittgenstein estaba discutiendo la
-    interpretación del letrero\footcite[p.~86~\S198]{PI}, y estallo en mi que el
-    modo en que vas según éste es la interpretación final.
-
-    En otra ocasión salí con ``Pero todavía quiero decir: <<Azul esta ahí>>''.
-    Wittgenstein respondió: <<Déjame pensar qué medicina necesitas\ldots>> <<Supón
-    que tenemos la palabra `painy' ``(dolorante/doloreño)'', como una palabra para la
-    propiedad de ciertas superficies>>. La medicina fue efectiva.
-    Si dolorante fuera una palabra posible para una cualidad secundaria, ¿no podría
-    el mismo motivo conducirme a decir: Dolorante esta aquí que lo que me condujo a
-    decir azul está aquí? Mi expresión no significaba que ``azul'' es el nombre de
-    esta sensación que estoy teniendo, ni cambié a ese pensamiento. 
-
-    Durante años se le escapaba el tiempo mirando fijamente distintos
-    objetos y cuestionandose: <<Veo este objeto, pero ¿qué estoy viendo
-    realmente?>>.\footcite[cf.~][p.~viii \S1]{M&PotM}
-    \end{revision}
+  Después de graduarse de `Sydenham High School' en 1937, se matriculó en `St.
+  Hugh's College'. Allí cursó `Literae Humaniores', el programa clásico de Oxford,
+  compuesto por literatura clásica, historia y filosofía. Muy pronto se interesó
+  por las lecciones de H. H. Price sobre percepción y fenomenalismo. De todos los
+  que escuchó en Oxford fue quién le inspiró mayor respeto, no porque estuviera de
+  acuerdo con lo que decía, sino porque hablaba de lo que había que hablar. El
+  único libro suyo que le pareció realmente bueno fue ``Hume's Theory of the
+  External World'' y lo leyó sin interrupción de principio a fin. Fue Price quien
+  despertó en ella un intenso interés por el capítulo de Hume sobre ``Del
+  escepticismo con respecto a los sentidos''.\footcite[cf.~][p.~viii \S1]{M&PotM}
+  El desempeño de Anscombe en las pruebas finales en `St. Hugh's' manifestó su
+  clara preferencia por la filosofía. Fue premiada con honores de primera clase
+  aún cuando su desempeño en las pruebas de historia fue bastante menos que
+  espectacular\footcite[p.~3~\S1]{teichmann}.
 
 
-    Después de graduarse de `Sydenham High School' en 1937, se matriculó en `St.
-    Hugh's College'. Allí cursó `Literae Humaniores', el programa clásico de Oxford,
-    compuesto por literatura clásica, historia y filosofía. Muy pronto se interesó
-    por las lecciones de H. H. Price sobre percepción y fenomenalismo. De todos los
-    que escuchó en Oxford fue quién le inspiró mayor respeto, no porque estuviera de
-    acuerdo con lo que decía, sino porque hablaba de lo que había que hablar. El
-    único libro suyo que le pareció realmente bueno fue ``Hume's Theory of the
-    External World'' y lo leyó sin interrupción de principio a
-    fin. Fue Price quien despertó en ella un intenso interés por el capítulo de Hume
-    sobre ``Del escepticismo con respecto a los sentidos''.\footcite[cf.~][p.~viii
-    \S1]{M&PotM} El desempeño de Anscombe en las pruebas finales en `St. Hugh's'
-    manifestó su clara preferencia por la filosofía. Fue premiada con honores de
-    primera clase aún cuando su desempeño en las pruebas de historia fue bastante
-    menos que espectacular\footcite[p.~3~\S1]{teichmann}.
-#+END_SRC
+
+       Otra inquietud ocuparía sus reflexiones. Esta vez, como fruto de su lectura de
+       `The Nature of Belief' de Martin D'Arcy, se interesó por el tema de la
+       percepción. 
+       \begin{revision}
+       Estaba segura de que veía objetos, como paquetes de cigarrillos o tazas o\ldots
+       cualquier cosa más o menos sustancial servía. Pero estaba más bien concentrada
+       en artefactos, como los demás objetos de la vida urbana, y los primeros ejemplos
+       mas naturales que le llamaron la atención fueron `madera' y el cielo. Lo segundo
+       le golpeó en el centro porque andaba diciendo dogmáticamente que uno debe
+       conocer la categoría del objeto del cual uno hablaba ---si era un color o un tipo
+       de material, por ejemplo; eso pertenecía a la lógica del termino que uno estaba
+       usando. No podía ser una cuestión de descubrimiento empírico el que algo
+       perteneciera a una categoría distinta. El cielo la detuvo.
+
+       Durante años ocupaba su tiempo, en cafeterías, por ejemplo, mirando fijamente
+       objetos, diciendose a sí misma: 'Veo un paquete. ¿Pero qué veo realmente? ¿Cómo
+       puedo decir que veo algo más que una extensión amarilla?
+
+       Fue en las clases de Wittgenstein que el pensamiento central ``Tengo esto, y
+       defino `amarillo' como esto'' fue efectivamente atacado. 
+
+       En una ocasión en estas clases Wittgenstein estaba discutiendo la
+       interpretación del letrero\footcite[p.~86~\S198]{PI}, y estallo en mi que el
+       modo en que vas según éste es la interpretación final.
+
+       En otra ocasión salí con ``Pero todavía quiero decir: <<Azul esta ahí>>''.
+       Wittgenstein respondió: <<Déjame pensar qué medicina necesitas\ldots>> <<Supón
+       que tenemos la palabra `painy' ``(dolorante/doloreño)'', como una palabra para la
+       propiedad de ciertas superficies>>. La medicina fue efectiva.
+       Si dolorante fuera una palabra posible para una cualidad secundaria, ¿no podría
+       el mismo motivo conducirme a decir: Dolorante esta aquí que lo que me condujo a
+       decir azul está aquí? Mi expresión no significaba que ``azul'' es el nombre de
+       esta sensación que estoy teniendo, ni cambié a ese pensamiento. 
+
+       Durante años se le escapaba el tiempo mirando fijamente distintos
+       objetos y cuestionandose: <<Veo este objeto, pero ¿qué estoy viendo
+       realmente?>>.\footcite[cf.~][p.~viii \S1]{M&PotM}
+       \end{revision}
+
+
+   #+END_SRC
 
 *** TODO En Cambridge con Wittgenstein 
 #+BEGIN_SRC latex
-    \subsubsection{En Cambrdige con Wittgenstein}
+    \ifdraft{\subsubsection{En Cambrdige con Wittgenstein}}{}
     ANSCOMBE LLEGÓ A CAMBRIDGE EN M42 W. OFRECIA CLASES LOS SÁBADOS Y TRABAJABA EN
     GUY'S. DESDE E43 HASTA E44 NO DIO CLASES. EN M44 EMPEZÓ OTRA VEZ. EN L45 EMPEZÓ
     A TRABAJAR MATERIAL CORRESPONDIENTE A 189-421 PI!!!!!!
@@ -1136,7 +1150,10 @@ into the open
         para explicar la incursión en la vida/pensamiento de W.}
 #+END_SRC
 
-** Wittgenstein y la fe
+** Investigaciones Filosóficas
+** Anscombe en Oxford
+** Anscombe en Cambridge
+** TODO Wittgenstein y la fe
 #+BEGIN_SRC latex
     \subsection{Wittgenstein y la fe}
     \todo{En casa de Anscombe, hablando de la fe}
