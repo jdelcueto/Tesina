@@ -870,10 +870,10 @@ into the open
 *** DONE De Wittgenstein a Anscombe
     CLOSED: [2018-04-14 Sat 11:48]
 #+BEGIN_SRC latex
-    \ifdraft{\subsubsection{De Wittgenstein a Anscombe}}{}
-    En el 1929 Wittgenstein presentó el Tractatus Logico\=/Philosophicus como su
-    tesis doctoral en Cambridge. Ese mismo año fue designado como profesor en
-    ``Trinity College'', allí estaría hasta 1936.
+  \ifdraft{\subsubsection{De Wittgenstein a Anscombe}}{} 
+  En el 1929 Wittgenstein presentó el Tractatus Logico\=/Philosophicus como su
+  tesis doctoral en Cambridge. Ese mismo año fue designado como profesor en
+  ``Trinity College'', allí estaría hasta 1936.
 #+END_SRC
 
 *** TODO Causalidad, reflexiones iniciales de Anscombe
@@ -882,8 +882,9 @@ into the open
   Por aquella época la joven Gertrude Elizabeth Margaret Anscombe, andaba buscando
   un buen argumento que demostrara que todo lo que existe tiene que tener una
   causa. ¿Por qué cuando algo ocurre estamos seguros de que tiene una causa? Nadie
-  sabía darle una respuesta. Así, sin darse cuenta, se iniciaba Anscombe en la
-  ardua tarea de la filosofía. Rigurosa y enérgica desde el principio.
+  sabía darle una respuesta.\footcite[cf.~][p.~vii \S1]{M&PotM} Así, sin darse
+  cuenta, se iniciaba Anscombe en la ardua tarea de la filosofía. Rigurosa y
+  enérgica desde el principio.
 
   El origen de su peculiar curiosidad por la causalidad se hallaba en una obra
   llamada `Teología Natural' escrita por un jesuita del siglo XIX. Había llegado a
@@ -921,19 +922,20 @@ into the open
 
 
 
-       Otra inquietud ocuparía sus reflexiones. Esta vez, como fruto de su lectura de
-       `The Nature of Belief' de Martin D'Arcy, se interesó por el tema de la
-       percepción. 
+  Otra inquietud ocuparía sus reflexiones. Esta vez, como fruto de su lectura de
+  `The Nature of Belief' de Martin D'Arcy, se interesó por el tema de la
+  percepción.
        \begin{revision}
-       Estaba segura de que veía objetos, como paquetes de cigarrillos o tazas o\ldots
-       cualquier cosa más o menos sustancial servía. Pero estaba más bien concentrada
-       en artefactos, como los demás objetos de la vida urbana, y los primeros ejemplos
-       mas naturales que le llamaron la atención fueron `madera' y el cielo. Lo segundo
-       le golpeó en el centro porque andaba diciendo dogmáticamente que uno debe
-       conocer la categoría del objeto del cual uno hablaba ---si era un color o un tipo
-       de material, por ejemplo; eso pertenecía a la lógica del termino que uno estaba
-       usando. No podía ser una cuestión de descubrimiento empírico el que algo
-       perteneciera a una categoría distinta. El cielo la detuvo.
+         Estaba segura de que veía objetos, como paquetes de cigarrillos o tazas
+         o\ldots cualquier cosa más o menos sustancial servía. Pero estaba más
+         bien concentrada en artefactos, como los demás objetos de la vida urbana,
+         y los primeros ejemplos mas naturales que le llamaron la atención fueron
+         `madera' y el cielo. Lo segundo le golpeó en el centro porque andaba
+         diciendo dogmáticamente que uno debe conocer la categoría del objeto del
+         cual uno hablaba ---si era un color o un tipo de material, por ejemplo;
+         eso pertenecía a la lógica del termino que uno estaba usando. No podía
+         ser una cuestión de descubrimiento empírico el que algo perteneciera a
+         una categoría distinta. El cielo la detuvo.
 
        Durante años ocupaba su tiempo, en cafeterías, por ejemplo, mirando fijamente
        objetos, diciendose a sí misma: 'Veo un paquete. ¿Pero qué veo realmente? ¿Cómo
