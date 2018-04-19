@@ -864,9 +864,35 @@ into the open
 #+END_SRC
 
 ** TODO Formación filosófica de Elizabeth [25%]
+:STATEMENT:
+Esta no es una biografía de Anscombe, esa estará en la Introducción.
+Esto será un recorrido por su desarrollo intelectual estrictamente.
+:END:
 #+BEGIN_SRC latex
     \subsection{Formación filosófica de Elizabeth}
 #+END_SRC
+
+Anscombe se inició es la filosofía indagando en dos temas: 
+Causalidad y Percepción.
+Causalidad por Natural Theology
+Percepción por Nature of Belief
+
+La causalidad será el tema de su lección inaugural (causality and determination) en
+1971 en cambridge. Está presente también en "intention".
+
+La percepción la lleva a involucrarse en la discusión con Price y el fenomenalismo en
+Oxford y con Wittgesntein en Cambridge.
+Se enfocará con frecuencia en problemas relacionados con la postura de la
+primera-persona. Como Witt, ella le da mucha importancia a la asimetria que hay en los
+verbos psicologicos entre primera-persona/tercera-persona, especificamente se fija en
+"Yo veo, yo recuerdo, yo pienso (no el ve, el recuerda y el piensa). Esta centralidad
+de la primera persona será un grano de verdad que anscombe ve en el fenomenalismo y que
+trata de sacar.
+En el tema de la percepción además entra en la discusión entre fenomenalismo y
+lenguaje-ordinario (austin) proponiendo la distinción entre objetos intencionales y
+objetos materiales.
+
+
 *** DONE De Wittgenstein a Anscombe
     CLOSED: [2018-04-14 Sat 11:48]
 #+BEGIN_SRC latex
@@ -879,6 +905,7 @@ into the open
 *** TODO Causalidad, reflexiones iniciales de Anscombe
 #+BEGIN_SRC latex
   \ifdraft{\subsubsection{Causalidad reflexiones iniciales de Anscombe}}{}
+
   Por aquella época la joven Gertrude Elizabeth Margaret Anscombe, andaba buscando
   un buen argumento que demostrara que todo lo que existe tiene que tener una
   causa. ¿Por qué cuando algo ocurre estamos seguros de que tiene una causa? Nadie
@@ -890,35 +917,46 @@ into the open
   llamada `Teología Natural' escrita por un jesuita del siglo XIX. Había llegado a
   este libro motivada por su conversión a la Iglesia Católica ---fruto, a su vez,
   de lecturas hechas entre los doce y los quince---.\footcite[cf.~][p.~vii
-  \S1]{M&PotM} El tratado presentaba un argumento sobre la existencia de la `Causa
-  Primera' y como preliminar a éste ofrecía una demostración de un `principio de
-  causalidad' según el cual todo cuanto existe tiene que tener una causa. Anscombe
-  notó, escasamente escondido en una premisa, un presupuesto de la conclusión del
-  propio argumento. Aquel ``petitio principii'' le pareció un simple descuido y
-  resolvió, por tanto, escribir una versión mejorada de la demostración. Durante
-  los siguientes dos o tres años produjo unas cinco versiones que le parecían
-  satisfactorias, sin embargo eventualmente descubría que contenían la misma
-  falacia, cada vez disimulada más astutamente.\footcite[cf.~][p.~vii \S2]{M&PotM}
+  \S1]{M&PotM} El tratado le resultó problemático en dos cuestiones. La primera
+  fue la doctrina de la \emph{`scientia media'}, según la cual Dios tiene
+  conocimiento, por ejemplo, de lo que alguien podría haber hecho si no hubiera
+  muerto cuando murió. A Elizabeth le parecía que lo que hubiera ocurrido si lo
+  que pasó no huibera pasado simplemente no existe; no hay qué conocer. Y no podía
+  creer esto.
+
+  La segunda cuestión problematica la encontró en un argumento sobre la existencia
+  de la `Causa Primera'. El tratado ofrecía como preliminar al argumento una
+  demostración de un `principio de causalidad' según el cual todo cuanto existe
+  tiene que tener una causa. Anscombe notó, escasamente escondido en una premisa,
+  un presupuesto de la conclusión del propio argumento. Aquel ``petitio
+  principii'' le pareció un simple descuido y resolvió, por tanto, escribir una
+  versión mejorada de la demostración. Durante los siguientes dos o tres años
+  produjo unas cinco versiones que le parecían satisfactorias, sin embargo
+  eventualmente descubría que contenían la misma falacia, cada vez disimulada más
+  astutamente.\footcite[cf.~][p.~vii \S2]{M&PotM}
 #+END_SRC
 
 *** TODO Oxford: La Percepción y el fenomenalismo de Price 
 #+BEGIN_SRC latex
   \ifdraft{\subsubsection{Oxford: La Percepción y el fenomenalismo de Price}}{}
 
-  Después de graduarse de `Sydenham High School' en 1937, se matriculó en `St.
-  Hugh's College'. Allí cursó `Literae Humaniores', el programa clásico de Oxford,
-  compuesto por literatura clásica, historia y filosofía. Muy pronto se interesó
-  por las lecciones de H. H. Price sobre percepción y fenomenalismo. De todos los
-  que escuchó en Oxford fue quién le inspiró mayor respeto, no porque estuviera de
-  acuerdo con lo que decía, sino porque hablaba de lo que había que hablar. El
-  único libro suyo que le pareció realmente bueno fue ``Hume's Theory of the
-  External World'' y lo leyó sin interrupción de principio a fin. Fue Price quien
-  despertó en ella un intenso interés por el capítulo de Hume sobre ``Del
-  escepticismo con respecto a los sentidos''.\footcite[cf.~][p.~viii \S1]{M&PotM}
-  El desempeño de Anscombe en las pruebas finales en `St. Hugh's' manifestó su
-  clara preferencia por la filosofía. Fue premiada con honores de primera clase
-  aún cuando su desempeño en las pruebas de historia fue bastante menos que
-  espectacular\footcite[p.~3~\S1]{teichmann}.
+  En 1937 Anscombe se graduó de `Sydenham High School' y comenzó sus estudios
+  universitarios en `St. Hugh's College'. Allí cursó `Literae Humaniores', el
+  programa clásico de Oxford, compuesto por literatura clásica, historia y
+  filosofía. 
+
+
+Muy pronto se interesó por las lecciones de H. H. Price sobre
+  percepción y fenomenalismo. De todos los que escuchó en Oxford fue quién le
+  inspiró mayor respeto, no porque estuviera de acuerdo con lo que decía, sino
+  porque hablaba de lo que había que hablar. El único libro suyo que le pareció
+  realmente bueno fue ``Hume's Theory of the External World'' y lo leyó sin
+  interrupción de principio a fin. Fue Price quien despertó en ella un intenso
+  interés por el capítulo de Hume sobre ``Del escepticismo con respecto a los
+  sentidos''.\footcite[cf.~][p.~viii \S1]{M&PotM} El desempeño de Anscombe en las
+  pruebas finales en `St. Hugh's' manifestó su clara preferencia por la filosofía.
+  Fue premiada con honores de primera clase aún cuando su desempeño en las pruebas
+  de historia fue bastante menos que espectacular\footcite[p.~3~\S1]{teichmann}.
 
 
 
@@ -1151,6 +1189,7 @@ into the open
     \pnote{introducir algunos contrastes y relaciones entre Anscombe y Wittgenstein
         para explicar la incursión en la vida/pensamiento de W.}
 #+END_SRC
+
 
 ** Investigaciones Filosóficas
 ** Anscombe en Oxford
