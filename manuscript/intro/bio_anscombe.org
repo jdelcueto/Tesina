@@ -1,3 +1,6 @@
+#+PROPERTY: header-args:latex :tangle ../../tex/intro/bio_anscombe.tex
+# ------------------------------------------------------------------------------------
+
 * Bio de Anscombe
 ** Nacimiento, padres
 ** Ambiente en Sydenham
@@ -8,63 +11,79 @@
 ** Profesora en Cambridge
 ** Retiro 86-2001
  
-En 1919 Alan Wells Anscombe formaba parte de un regimiento Británico instalado
-en Irlanda. Allí vivía junto con su esposa Gertrude Elizabeth y dos hijos en el
-pueblo de Limerick. El 18 de marzo de aquel año nacío Gertrude Elizabeth
-Margaret Anscombe. Alan era profesor de secundaria y al terminar la guerra
-regresó a su tarea enseñando física en Dulwich College en Londres.
+#+BEGIN_SRC latex
+  Gertrude Elizabeth Margaret Anscombe nació el 18 de marzo de 1919, la tercera
+  hija de Gertrude Elizabeth y Alan Wells Anscombe. Aquel año la familia se
+  hallaba en Irlanda donde el Capitán Anscombe había sido asignado como parte de
+  un regimiento Británico instalado en Limerick. Al terminar la guerra la familia
+  regresó a Londres donde Alan era profesor de secundaria en Dulwich
+  College.\footcite[cf.~][p.~31]{biofellows}
 
-En las afueras de Londres se hallaba la escuela independiente `Sydenham High
-School' fundada en 1887 por la `Girl's Public Day School Trust' con el fin de
-ofrecer oportunidades de educación para mujeres. La joven Elizabeth Anscombe
-asistió a sus estudios de bachillerato en Sydenham hasta graduarse en el curso
-1936-1937. 
+  Elizabeth hizo sus estudios de bachillerato en Sydenham High School, una
+  escuela independiente localizada a las afueras de Londres y fundada en 1887 por
+  la Girl's Public Day School Trust con el fin de ofrecer oportunidades de
+  educación para mujeres. Se graduó en el curso 1936--1937.
 
-Con doce años de edad Anscombe descubrió el Catolicismo leyendo los testimonios
-de los trabajos y sufrimientos de los (recusant priests) en (Elizabethean England).
-Esta y otras lecturas realizadas entre los doce y los quince motivaron su
-conversión a la fe católica.
+  Con doce años de edad Anscombe descubrió el Catolicismo leyendo testimonios de
+  las obras y sufrimientos de los sacerdotes recusantes en Inglaterra durante la
+  época Isabelina. Esta y otras lecturas realizadas entre los doce y los quince
+  motivaron su conversión a la fe católica.\footcite[cf.~][p.~33]{biofellows}
 
-Tras su graduación de Sydenham recibió una beca y fue admitida en `St. Hugh's
-College' en la Universidad de Oxford. 
-Allí estudió Litterae Humaniores, un programa de cuatro años dividido en dos
-periodos: Classical Honour Moderations ('Mods') y Final Honour School
-('Greats'). En 1939 Anscombe recibió `Second Class' en 'Mods' compuesto por
-estudios en latín y griego y literatura antigua que servían como preparación
-para el segundo periodo. 
-En 1941 recibió `First Class' en `Litterae Humaniores' cuando culminó los
-exámenes de 'Greats' que comprendía estudios de filosofía y de historia.
+  Tras su graduación de Sydenham recibió una beca y fue admitida en St.~Hugh's
+  College en la Universidad de Oxford. Allí estudió \emph{Litterae Humaniores}, un
+  programa de cuatro años dividido en dos periodos: \emph{Classical Honour
+    Moderations} (`Mods') y \emph{Final Honour School} (`Greats'). En 1939
+  Anscombe recibió Second Class en `Mods' compuesto por estudios en latín y griego
+  y literatura antigua que servían como preparación para el segundo periodo. En
+  1941 recibió First Class en \emph{Litterae Humaniores} cuando culminó los
+  exámenes de 'Greats' que comprendía estudios de filosofía y de historia.
 
-Durante su primer año en Oxford recibió formación en la fe del sacerdote
-dominico Richard Kehoe, profesor del Blackfriar's Private Hall, centro docente
-perteneciente a la Orden de Predicadores. El 27 de abril de 1938 fue admitida en
-la Iglesia Católica. En la procesión del Corpus Christi de aquel año conoció a
-otro catecumeno del Padre Kehoe, su nombre era Peter Geach. Había recibido su
-admisión a la Iglesia unas semanas después de ella, su madre era polaca, su
-padre maestro de filosofía. Había sido instruido en lógica por su padre teniendo
-como libros de texto `Formal Logic' de Neville Keynes y `Principia Mathematica' de
-Bertrand Russell. A pocos meses de haberse conocido Elizabeth y Peter se
-comprometieron y el (boxing day) de 1941 se casaron en el Brompton Oratory de
-Londres.
+  Durante su primer año en Oxford recibió formación en la fe del sacerdote
+  dominico Richard Kehoe, profesor del Blackfriar's Private Hall, centro docente
+  perteneciente a la Orden de Predicadores. El 27 de abril de 1938 fue admitida en
+  la Iglesia Católica.
 
-En el tiempo en el que Anscombe estuvo en St. Hugh's el programa de lecciones
-manifestaba la transformación ocurrida en la universidad durante los últimos
-cincuenta años desde una docencia e interés de carácter teológico hacia una
-orientación más secular. En el periodo de `Greats' los estudios de filosofía se
-fundaban en la República de Platón y la Ética Nicomáquea de Aristóteles. Además
-de las lecciones dedicadas a los clásicos se estudiaba a filósofos modernos como
-Berkeley, Locke, Hume y Kant. Al estudio de la Crítica de la Razón Pura se le
-dedicaban lecciones que ocupaban los tres periodos lectivos de un año académico.
-Había interes por temas de ética y teoría del conocimiento, así como por temas
-relacionados con psicología y ética: motivación, acción, libertad. Se estudiaba
-también a Hobbes y Rosseau y la teoría política. Sin embargo, había pocas
-lecciones dedicadas a cuestiones metafísicas o estéticas, al igual que 
+  En la procesión del \emph{Corpus Christi} de aquel año conoció a otro catecumeno
+  del Padre Kehoe, su nombre era Peter Geach. Había recibido su admisión a la
+  Iglesia unas semanas después de ella, su madre era polaca, su padre maestro de
+  filosofía. Había sido instruido en lógica por su padre teniendo como libros de
+  texto \emph{Formal Logic} de Neville Keynes y \emph{Principia Mathematica} de
+  Bertrand Russell. A los pocos meses de conocerse se habían comprometido y el 26
+  de diciembre de 1941 Elizabeth y Peter se casaron en el Brompton Oratory de
+  Londres.\footcite[cf.~][p.~33]{biofellows}
 
-en las lecciones ofrecidas
-por la universidad predominaban los clásicos --Platón y Aristóteles-- y los
-modernos -Berkeley, Locke, Hume y Kant--
+  En el tiempo en el que Anscombe estuvo en St.~Hugh's el programa de lecciones
+  manifestaba la transformación ocurrida en la universidad durante los últimos
+  cincuenta años; desde una docencia e interés de carácter teológico hacia una
+  orientación más secular. En el periodo de `Greats' los estudios de filosofía se
+  fundaban en la República de Platón y la Ética Nicomáquea de Aristóteles. Además
+  de las lecciones dedicadas a los clásicos se estudiaba a filósofos modernos como
+  Berkeley, Locke, Hume y Kant. Al estudio de la Crítica de la Razón Pura se le
+  dedicaban lecciones que ocupaban los tres periodos lectivos de un año académico.
+  Había interes por temas de ética y teoría del conocimiento, así como por temas
+  relacionados con psicología y ética: motivación, acción, libertad. Se estudiaba
+  también a Hobbes y Rosseau y teoría política. Sin embargo, había pocas lecciones
+  dedicadas a cuestiones metafísicas o estéticas. De filosofía medieval se ofrecía
+  solo una lección dedicada a Tomás de Aquino.\footcite[cf.~][pp.~23-24]{accint}
 
-En 1941 Anscombe continuó en Oxford como `Research Student' y en 1942 obtuvo una
-`Research Fellowship' en el Newnham College en Cambrdige.
+  Los estudiantes de Oxford contaban con un tutor en la preparación de sus
+  materias. Anscombe contó con la supervisión de G.~Ryle quien en 1939 ofreció el
+  curso de introducción a la filosofía y también otro curso sobre el
+  \emph{Tractatus} de Wittgenstein, junto con el joven
+  A.~J.~Ayer.\footcite[cf.~][p.~24]{accint}
 
+
+  En 1941 Anscombe continuó en Oxford como `Research Student' y en 1942 obtuvo una
+  `Research Fellowship' en el Newnham College en Cambrdige.
+#+END_SRC
+
+
+* [Local Variables]
+# Local Variables:
+# mode: org
+# mode: auto-fill
+# word-wrap:t
+# truncate-lines: t
+# org-hide-emphasis-markers: t
+# End:
 
