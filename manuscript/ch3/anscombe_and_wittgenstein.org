@@ -88,11 +88,11 @@ En 1942 Elizabeth Anscombe llegó a Cambridge.
      number like the set a piano teacher might employ, and were not like automatic
      formulae of investigation.'' (Cf. Gass 1971, p. 248: ``what you heard was
      something like a great pianist at practice: not a piece of music, but the very
-     acts which went into making that performance.'')}
-   En aquellas lecciones sobre psicología filosófica se comportaba como un maestro
-   de piano ---decía--- intentaba enseñar un estilo de pensar, una técnica. Los
-   alumnos lo describían como participar de las prácticas donde el buen pianista
-   afina los movimientos que van dirigidos a construir un gran
+     acts which went into making that performance.'')} En aquellas lecciones sobre
+   psicología filosófica se comportaba como un maestro de piano ---decía---
+   intentaba enseñar un estilo de pensar, una técnica. Lo que se escuchaba en sus
+   lecciones no eran piezas musicales, sino más bien las prácticas donde el buen
+   pianista afina los movimientos que van dirigidos a construir un
    concierto.\footcite[p.~357]{pubnpriv}
 
 
@@ -1081,19 +1081,7 @@ Muy pronto se interesó por las lecciones de H. H. Price sobre
     estudios en St. Hugh's escuchaba a Price/ldots
     \end{revision}
 
-    \begin{revision}
-    :OLD:
-    El Tractatus Logico-Philosophicus fue publicado en el 1922 y ciertamente causó
-    un impacto en el modo de hacer filosofía. Anscombe emplea la idea de ``corte''
-    de Boguslaw Wolniewicz para describir el cambio causado por Wittgenstein. Este
-    corte efectuado en la historia de la filosofía por el Tractatus fue atestiguado
-    por un filósofo austriaco que describió a Anscombe el efecto cataclísmico
-    suscitado narrando cómo profesores largamente consolidados se deshacían de sus
-    viejos libros; la tarea consistía ahora en hacer filosofía en el modo indicado
-    por el Tractatus y el primer paso era, ciertamente, entenderlo.
-    \footcite[p.181]{twocuts} 
-    \end{revision}
-
+   
     \begin{revision}
     Este modo de criticar una proposición desvelando que no expresa un pensamiento
     verdadero ilustra los principios propuestos en el \emph{Tractatus} y recuerda
