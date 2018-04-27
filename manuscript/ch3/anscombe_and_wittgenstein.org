@@ -89,12 +89,11 @@ En 1942 Elizabeth Anscombe llegó a Cambridge.
      formulae of investigation.'' (Cf. Gass 1971, p. 248: ``what you heard was
      something like a great pianist at practice: not a piece of music, but the very
      acts which went into making that performance.'')} En aquellas lecciones sobre
-   psicología filosófica se comportaba como un maestro de piano ---decía---
+   filosófia de la psicología se comportaba como un maestro de piano ---decía---
    intentaba enseñar un estilo de pensar, una técnica. Lo que se escuchaba en sus
-   lecciones no eran piezas musicales, sino más bien las prácticas donde el buen
-   pianista afina los movimientos que van dirigidos a construir un
+   lecciones no eran piezas musicales, sino más bien las prácticas de un buen
+   pianista donde afina los movimientos que van dirigidos a construir su
    concierto.\footcite[p.~357]{pubnpriv}
-
 
    En cierta ocasión Wittgenstein recibió a Anscombe con una pregunta: <<¿Por qué
    la gente dice que era natural pensar que el sol giraba alrededor de la tierra en
@@ -112,9 +111,8 @@ En 1942 Elizabeth Anscombe llegó a Cambridge.
      como si el sol girara alrededor de la tierra''}.
 
    ¿Qué tipo de problema es este? ¿Qué falta cuando una expresión carece de
-   significado?
-   \pnote{¿Es esta una pregunta sobre la representación que significan las palabras? ¿Es
-   una pregunta sobre el uso que se les da a las palabras?}
+   significado? \pnote{¿Es esta una pregunta sobre la representación que significan
+     las palabras? ¿Es una pregunta sobre el uso que se les da a las palabras?}
  #+END_SRC
 
 * TODO /Expositio/: [60%]
