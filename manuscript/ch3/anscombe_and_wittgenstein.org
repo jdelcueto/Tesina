@@ -1,4 +1,4 @@
-#+PROPERTY: header-args:latex :tangle ../../tex/ch3/3_1.tex
+#+PROPERTY: header-args:latex :tangle ../../tex/ch3/anscombes_thought.tex
 # ------------------------------------------------------------------------------------
 
 * /Lectio/: 
