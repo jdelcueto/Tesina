@@ -63,7 +63,8 @@ preámbulos.
 :END:
  
 #+BEGIN_SRC latex
-  En Oscott College, el seminario de la Archidiócesis de Birmingham, se
+\subsection{Que se puede entender de la fe sin tenerla}  
+En Oscott College, el seminario de la Archidiócesis de Birmingham, se
   comenzaron a celebrar las conferencias llamadas \eng{Wiseman Lectures}
   en 1971. Para estas lecciones ofrecidas anualmente en memoria de Nicolás
   Wiseman se invitaba un ponente que tratara algún tema relacionado con la

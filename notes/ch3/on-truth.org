@@ -38,7 +38,7 @@ Wittgenstein: - 'the proposition has a sense which is independent of the
 facts' - the proposition does not lose its meaning when the fact is no
 more - meaning =/= truth
 
-** How Anselm deals with the question about the primacy of truth
+* How Anselm deals with the question about the primacy of truth
 
 -  he asserts the question after answering it
 -  He answers it by asking the pupil /what assertion is for/ > /for
