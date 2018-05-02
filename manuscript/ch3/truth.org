@@ -24,7 +24,7 @@ parece ser al revés. ¿Anscombe atiende estos temas de la misma manera?
 
 - En los escritos de Anscombe ambos temas se tratan por separado pero gozan
   aproximadamente del mismo status.
-- El significado se ~
+- El significado se 
 
 * /Propositum/:  
 :DESCRIPTION: 
@@ -51,34 +51,32 @@ The proposition has a sense which is independent of the facts.
 :END:
  
 #+BEGIN_SRC latex
-  \subsection{Qué es tener verdad}
+  \subsection{Qué es tener la verdad}
   Elizabeth Anscombe visitó muchas veces la Universidad de Navarra junto con Peter
   Geach y allí impartió algunos seminarios y participó de las Reuniones
-  Filosóficas.\footcite[cf.~][p.~15]{fa&esphom}}
+  Filosóficas.\footcite[cf.~][p.~15]{fa&esphom}
 
   En una de sus visitas, en octubre de 1983, ofreció dos lecciones tituladas:
   ``Verdad'' y ``La unidad de la verdad''. En la primera lección planteó la
   cuestión de este modo:
 
-  \citalitlar{Hay verdad en muchas cosas. Mirando a mi título [`Truth'] me quedo
+  \citalitlar{Hay verdad en muchas cosas. Mirando a mi título `Truth' me quedo
     algo sobrecogida por él, pues lo que salta de la página hacia mi es uno de los
     nombres de Dios. `He amado la verdad' me dijo una vez un profesor moribundo,
     después de hablarme de la dificultad que sentía sobre la idea de amar a Dios.
     Sin embargo: `He amado la verdad'. Y luego, temiendo que yo no malentendiera
-    su afirmación: `No me refiero, cuando digo eso, que \emph{tenga} la verdad'
-
-    Tener la verdad, estar en la verdad--¿qué es esto? Y qué quiso decir Nuestro
-    Señor al llamarse a \emph{sí mismo} la verdad? `No hay tal cosa como la
-    verdad, sólo hay verdades', dijo mi suegro a la primera esposa de Bertrand
-    Russell. Russell fue su maestro; la influencia se ve con facilidad.
-
-    ¿Pero cuáles son las cosas que tienen verdad en ellas? ¿Tiene la creación?
-    ¿tienen las acciones? A qué se refería Aristóteles cuando dijo que el bien de
-    la razón práctica era `verdad de acuerdo con el recto deseo'? ¿Las cosas
-    hechas por los hombres tienen verdad en ellas? ¿Qué, de nuevo, quiso decir
-    Aristóteles cuando afirmó que el arte o la habilidad es una disposición
+    su afirmación: `No me refiero, cuando digo eso, que \emph{tenga} la verdad'}
+  \citalitlar{Tener la verdad, estar en la verdad--¿qué es esto? Y qué quiso decir
+    Nuestro Señor al llamarse a \emph{sí mismo} la verdad? `No hay tal cosa como
+    la verdad, sólo hay verdades', dijo mi suegro a la primera esposa de Bertrand
+    Russell. Russell fue su maestro; la influencia se ve con facilidad.}
+  \citalitlar{¿Pero cuáles son las cosas que tienen verdad en ellas? ¿Tiene la
+    creación? ¿tienen las acciones? A qué se refería Aristóteles cuando dijo que
+    el bien de la razón práctica era `verdad de acuerdo con el recto deseo'? ¿Las
+    cosas hechas por los hombres tienen verdad en ellas? ¿Qué, de nuevo, quiso
+    decir Aristóteles cuando afirmó que el arte o la habilidad es una disposición
     productiva con un logos verdadero? Mas allá todavía: Qué fuerza tiene contar
-    la verdad entre los `trascendentales', esas cosas que 'atraviesan' todas las
+    la verdad entre los `trascendentales', esas cosas que `atraviesan' todas las
     categorías y todas las formas especiales de las cosas; y que no pertenecen
     cada uno a una categoría, como el color: amarillo; o el area: un acre; o el
     animal: un caballo.\footcite[p.~71]{FPW}}

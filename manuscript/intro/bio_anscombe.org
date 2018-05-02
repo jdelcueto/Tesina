@@ -15,9 +15,9 @@
   Gertrude Elizabeth Margaret Anscombe nació el 18 de marzo de 1919, la tercera
   hija de Gertrude Elizabeth y Alan Wells Anscombe. Aquel año la familia se
   hallaba en Irlanda donde el Capitán Anscombe había sido asignado como parte de
-  un regimiento de los Royal Welch Fusiliers instalado en Limerick. Al terminar la
-  guerra la familia regresó a Londres donde Alan era profesor de secundaria en
-  Dulwich College.\footcite[cf.~][p.~31]{biofellows}
+  un regimiento de los \emph{Royal Welch Fusiliers} instalado en Limerick. Al
+  terminar la guerra la familia regresó a Londres donde Alan era profesor de
+  secundaria en Dulwich College.\footcite[cf.~][p.~31]{biofellows}
 
   Elizabeth hizo sus estudios de bachillerato en Sydenham High School, una escuela
   independiente localizada a las afueras de Londres y fundada en 1887 por la
@@ -37,6 +37,11 @@
   y literatura antigua que servían como preparación para el segundo periodo. En
   1941 recibió First Class en \emph{Litterae Humaniores} cuando culminó los
   exámenes de 'Greats' que comprendía estudios de filosofía y de historia.
+
+El desempeño de Anscombe en las
+      pruebas finales en `St. Hugh's' manifestó su clara preferencia por la filosofía.
+      Fue premiada con honores de primera clase aún cuando su desempeño en las pruebas
+      de historia fue bastante menos que espectacular\footcite[p.~3~\S1]{teichmann}
 
   Durante su primer año en Oxford recibió formación en la fe del sacerdote
   dominico Richard Kehoe, profesor del Blackfriar's Private Hall, centro docente
@@ -79,8 +84,8 @@
   obtuvo una \emph{Research Fellowship} en el Newnham College en Cambridge. El
   ambiente filosófico en Cambridge era distinto a Oxford. La influencia de Russell
   --apoyado en el trabajo de Frege-- con sus investigaciones en la estructura
-  lógica del lenguaje y las reflexiones y metodología de Wittgenstein habían
-  generado lo que se denominó como un `giro
+  lógica del lenguaje, además del creciente peso de las reflexiones y metodología
+  de Wittgenstein, habían generado lo que se denominó como un `giro
   linguístico'\footcite[cf.~][p.14]{phiaut}, prácticamente ausente en Oxford. El
   efecto de Wittgenstein en Anscombe queda bien expresado en las palabras de
   Geach: \citalitlar{Elizabeth recibió mucha enseñanza filosófica de mi; podía ver
@@ -88,112 +93,129 @@
     bajo el poderoso estímulo de las lecciones de Wittgenstein y de sus
     conversaciones personales con él.\footcite[p.~11]{phiaut}}
 
-  Elizabeth llegó a Cambridge para el término Michaelmas del curso del 42.
+  Elizabeth llegó a Cambridge para el periodo Michaelmas\footnote{El año lectivo
+    en Cambridge esta dividido en tres periodos académicos: Michaelmas (octubre a
+    diciembre), Lent (enero a marzo) e Easter (abril a junio).} del curso del 42.
+
+Comenzó a asistir a sus lecciones en el trimestre 'michaelmas' de
+    1942. Eran unos diez estudiantes en clase, y la materia discutida era sobre los
+    fundamentos de las matemáticas. En abril de 1943 Wittgenstein interrumpió sus
+    clases para unirse a los esfuerzos por atender los daños de la Segunda Guerra
+    Mundial trabajando en 'Guy's Hospital' en Newscastle. Regresó a Cambridge en
+    octubre de 1944 y el 16 del mismo mes reanudó sus lecciones con seis
+    estudiantes, Anscombe entre ellos. Los temas trabajados en estas lecciones son
+    correspondientes con los números \S189--\S241 de 'Philosophical Investigations'.
+    En el curso 1945--1946 Elizabeth asistió junto a otros dieciocho estudiantes a
+    lecciones sobre filosofía de la psicología. El curso de 1946--1947 fue el último
+    término de lecciones ofrecidas por Wittgenstein en Cambridge antes de su retiro
+    en octubre de 1947. Durante ese curso le dedicó una tarde a la semana a Anscombe
+    y W. A. Hijab en lecciones sobre filosofía de la religión.
+
   Wittgenstein trabajaba en Guy's Hospital desde noviembre del 41 y ofrecia clases
   los sábados, ese año dedicadas a los fundamentos de las matemáticas. En abril
   del 43 Wittgenstein interrumpió sus lecciones para reanudarlas en octubre 16 de
   1944. Anscombe asistía a sus clases de dos horas dos veces por semana. El
   término Lent del 45 comenzó el 19 de enero con lecciones dedicadas a problemas
-  de filosofía de la psicología. El material era correspondiente a aproximadamente
+  de filosofía de la psicología. El material es correspondiente a aproximadamente
   \S189-421 de \emph{Investigaciones
     Filosóficas}.\footcite[cf.~][pp.~354-356]{pubnpriv} Los seminarios dedicados a
   filosofía de la psicología y material correspondiente a la segunda parte de las
   \emph{Investigaciones Filosóficas} continuaron durante el curso lectivo del
   45-46.
 
-  A comienzos del año 1946 a Anscombe se le acabó la beca en Newnham. En otoño
-  del mismo año Anscombe aceptó un puesto como \emph{Research Fellow} en
-  Sommerville College en Oxford. Peter Geach fue objetor de conciencia para la
-  Segunda Guerra mundial y fue asignado a trabajar en producción de madera en el
-  sur de Inglaterra.\footcite[cf.~][p.~34]{biofellows} Al terminar la guerra en
-  1945 habia decidido que la filosofía sería su medio de sustento, pero antes de
+  A comienzos del año 1946 a Anscombe se le acabó la beca en Newnham. En otoño del
+  mismo año Anscombe aceptó un puesto como \emph{Research Fellow} en Sommerville
+  College en Oxford. Peter Geach fue objetor de conciencia para la Segunda Guerra
+  mundial y fue asignado a trabajar en producción de madera en el sur de
+  Inglaterra.\footcite[cf.~][p.~34]{biofellows} Al terminar la guerra en 1945
+  habia decidido que la filosofía sería su medio de sustento, pero antes de
   aspirar a un puesto de enseñanza tenia que darse a conocer en el mundo
-  filosófico.\footcite[cf.~][p.~12]{phiaut} Los seis años posteriores al final
-  de la guerra se los dedicó a la investigación y durante ese periodo produjo
-  quince artículos sobre lógica. Así fue como ocurrió que entre 1946 y 1950
-  Anscombe se hospedaba en Oxford y viajaba a Cambridge para estar con Geach y
-  sus dos primeros hijos, Barbara y John. En 1950 Anscombe adquirió la tenencia
-  del 27 St.~John Street en Oxford. En 1951 Peter consigió trabajo en Birmingham
-  y la familia se mudó del 19 FitzWilliam Street en Cambridge para
-  Oxford.\footcite[cf.~][p.~208]{NWR} Ese mismo año nacería Mary, la tercera
-  hija.
+  filosófico.\footcite[cf.~][p.~12]{phiaut} Los seis años posteriores al final de
+  la guerra se los dedicó a la investigación. Así fue como ocurrió que entre 1946
+  y 1951 Anscombe se hospedaba en Oxford y viajaba a Cambridge para estar con
+  Geach y sus dos primeros hijos, Barbara y John. En 1950 Anscombe adquirió la
+  tenencia del 27 St.~John Street en Oxford. En 1951 Peter consigió trabajo en
+  Birmingham y la familia se mudó del 19 FitzWilliam Street en Cambridge para
+  Oxford.\footcite[cf.~][p.~208]{NWR} Ese mismo año nacería Mary, la tercera hija.
 
-  El curso 46-47 fue el último en el que Wittgenstein ofreció clases en Cambridge.
-  Norman Malcolm describe el cargado itinerario de Ludwig:
-  \citalitlar{Wittgenstein le dedicó una gran cantidad de tiempo a los estudiantes
-    aquel año. Tenia sus dos clases semanales de dos horas cada una, dos horas
-    semanales en su casa, una tarde completa conmigo, otra tarde completa dedicada
-    a Elizabeth Anscombe y W.~A.~Hijab y finalmente las reuniones semanales con el
-    Moral Science Club que usualmente atendía.\footcite[p.~358]{pubnpriv}}
+    El curso 46-47 fue el último en el que Wittgenstein ofreció clases en Cambridge.
+    Norman Malcolm describe el cargado itinerario de Ludwig:
+    \citalitlar{Wittgenstein le dedicó una gran cantidad de tiempo a los estudiantes
+      aquel año. Tenia sus dos clases semanales de dos horas cada una, dos horas
+      semanales en su casa, una tarde completa conmigo, otra tarde completa dedicada
+      a Elizabeth Anscombe y W.~A.~Hijab y finalmente las reuniones semanales con el
+      Moral Science Club que usualmente atendía.\footcite[p.~358]{pubnpriv}}
 
-  Las discusiones en las tardes que Anscombe compartía con W.~A.~Hijab y
-  Wittgenstein eran dedicadas a filosofía de la religión.
+    Las discusiones en las tardes que Anscombe compartía con W.~A.~Hijab y
+    Wittgenstein eran dedicadas a filosofía de la religión.
 
-  En Oxford el ambiente filosófico estaba dominado por los catedráticos Ryle,
-  Austin y Price. Desde su incorporación a Sommerville Anscombe colaboró con
-  Phillipa Foot en la formación de las estudiantes de filosofía. Foot ocupaba
-  el único puesto de \emph{tutor} en el \emph{college} hasta que en 1964 se
-  trasladó a Estados Unidos y Anscombe asumió el puesto. En el tiempo que
-  compartieron en Sommerville se hicieron grandes amigas, Foot díria:
-  \citalitlar{Eramos amigas cercanas a pesar de mi ateísmo y su intransigente
-    Catolicismo\ldots~ fue una filosofa importante y una gran maestra. Muchos
-    dicen <<le debo todo a ella>> y yo lo digo también de mi propia
-    experiencia.\footcite[p.~35]{biofellows}} 
+    En Oxford el ambiente filosófico estaba dominado por los catedráticos Ryle,
+    Austin y Price. Desde su incorporación a Sommerville Anscombe colaboró con
+    Phillipa Foot en la formación de las estudiantes de filosofía. Foot ocupaba
+    el único puesto de \emph{tutor} en el \emph{college} hasta que en 1964 se
+    trasladó a Estados Unidos y Anscombe asumió el puesto. En el tiempo que
+    compartieron en Sommerville se hicieron grandes amigas, Foot díria:
+    \citalitlar{Eramos amigas cercanas a pesar de mi ateísmo y su intransigente
+      Catolicismo\ldots~ fue una filosofa importante y una gran maestra. Muchos
+      dicen <<le debo todo a ella>> y yo lo digo también de mi propia
+      experiencia.\footcite[p.~35]{biofellows}} 
 
-  A lo largo de su tiempo en Oxford Elizabeth ofreció tutorias a estudiantes de
-  \emph{Litterae Humaniores} en lógica y obras de Platón y Aristóteles, también
-  supervisó a estudiantes de licenciatura y doctorado en filosofía. A sus
-  lecciones y seminarios asistían academicos de Europa y América, además de los
-  estudiantes de la Universidad.\footcite[cfr.~][p.~32]{biofellows}
+    A lo largo de su tiempo en Oxford, Elizabeth ofreció tutorias a estudiantes de
+    \emph{Litterae Humaniores} en lógica y obras de Platón y Aristóteles, también
+    supervisó a estudiantes de licenciatura y doctorado en filosofía. A sus
+    lecciones y seminarios asistían academicos de Europa y América, además de los
+    estudiantes de la Universidad.\footcite[cfr.~][p.~32]{biofellows}
 
-  El 25 de noviembre de 1949 Wittgenstein fue diagnosticado con
-  cancer\footcite[cf.~][loc 11034]{monk}. Durante los próximos dos años trabajaría
-  por la publicación de \emph{Investigaciones Filosóficas} y Anscombe le ayudaría
-  con la traducción al inglés. 
+    El 25 de noviembre de 1949 Wittgenstein fue diagnosticado con
+    cancer\footcite[cf.~][loc 11034]{monk}. Durante los próximos dos años trabajaría
+    por la publicación de \emph{Investigaciones Filosóficas} y Anscombe le ayudaría
+    con la traducción al inglés. 
 
-  Wittgenstein pasó el invierno del 49 en la casa de su familia en Viena. En
-  febrero del año siguiente su hermana Hermine murió de cancer. Anscombe se
-  hallaba en Viena para familiarizarse con el alemán como parte de su preparación
-  para la traducción de las \emph{Investigaciones}. A pesar de su enfermedad y la
-  perdida de su hermana, Wittgenstein contó con la salud suficiente como para
-  encontrarse con Anscombe dos o tres veces cada semana.\footcite[cf.~][loc
-  11138]{monk}
+    Wittgenstein pasó el invierno del 49 en la casa de su familia en Viena. En
+    febrero del año siguiente su hermana Hermine murió de cancer. Anscombe se
+    hallaba en Viena para familiarizarse con el alemán como parte de su preparación
+    para la traducción de las \emph{Investigaciones}. A pesar de su enfermedad y la
+    perdida de su hermana, Wittgenstein contó con la salud suficiente como para
+    encontrarse con Anscombe dos o tres veces cada semana.\footcite[cf.~][loc
+    11138]{monk}
 
-  De regreso de Viena Wittgenstein se hospedó en la casa de Anscombe en St.~John
-  Street desde finales de abril hasta octubre y de principios de diciembre hasta
-  principios de febrero de 1951 cuando se mudaría a la casa del Dr.~Bevans en
-  Storey's End.\footcite[cf.~][loc. 11242]{monk} Allí moriría el 29 de abril.
+    De regreso de Viena Wittgenstein se hospedó en la casa de Anscombe en St.~John
+    Street desde finales de abril hasta octubre y de principios de diciembre hasta
+    principios de febrero de 1951 cuando se mudaría a la casa del Dr.~Bevans en
+    Storey's End.\footcite[cf.~][loc. 11242]{monk} Allí moriría el 29 de abril.
 
-  El testamento de Wittgenstein nombraba como albaceas literarios a Elizabeth
-  Anscombe, G.~H.~von~Wright y Rush Rhees. Anscombe le ofreció la publicación a
-  Basil Blackwell en 1952 y en 1953 fue publicado el texto en alemán editado por
-  von Wright junto con la traducción al inglés de Anscombe. Otras traducciones de
-  la obra de Wittgenstein realizadas por Elizabeth incluyen \emph{Remarks on the
-    Foundation of Mathematics}, \emph{Notebooks 1914-1916}, \emph{Zettel},
-  \emph{Philosophical Remarks}, \emph{On Certainty} (con Denis Paul) y
-  \emph{Remarks on the Philosophy of
-    Psychology}.\footcite[cfr.~][p.~38]{biofellows}
+    El testamento de Wittgenstein nombraba como albaceas literarios a Elizabeth
+    Anscombe, G.~H.~von~Wright y Rush Rhees quienes continuaron el trabajo para
+    publicar las \emph{Investigaciones Filosóficas}. Anscombe le ofreció la
+    publicación a Basil Blackwell en 1952 y en 1953 fue publicado el texto en
+    alemán editado por von Wright junto con la traducción al inglés de Anscombe.
+    Otras traducciones de la obra de Wittgenstein realizadas por Elizabeth
+    incluyen \emph{Remarks on the Foundation of Mathematics}, \emph{Notebooks
+      1914-1916}, \emph{Zettel}, \emph{Philosophical Remarks}, \emph{On Certainty}
+    (con Denis Paul) y \emph{Remarks on the Philosophy of
+      Psychology}.\footcite[cfr.~][p.~38]{biofellows}
 
 
-  En aquellos años Anscombe también publicó \emph{Intention} (1957), \emph{An
-    Introduction to Wittgenstein's Tractatus} (1959) y una parte de \emph{Three
-    Philosophers} (1961) con Peter Geach.\footcite[cfr.~][p.~39]{biofellows}
+    En aquellos años Anscombe también publicó \emph{Intention} (1957), \emph{An
+      Introduction to Wittgenstein's Tractatus} (1959) y una parte de \emph{Three
+      Philosophers} (1961) con Peter Geach.\footcite[cfr.~][p.~39]{biofellows}
 
-  En 1964 Elizabeth recibió la \emph{Official Fellowship} en Oxford, en 1967 fue
-  admitida en la British Academy y en 1970 fue nombrada al \emph{Chair of
-    Philosophy} de la Universidad de Cambridge, la misma cátedra ocupada por
-  Wittgenstein. Cuando la recién nombrada Anscombe pasó por la oficina de
-  administración para su salario fue recibida por el recepcionista con: <<¿Es usted
-  una de las nuevas empleadas de limpieza?>>. Elizabeth, que llevaba su habitual
-  chaqueta y pantalones desliñados, contestó suavemente: <<No, soy la nueva
-  Profesora de Filosofía>>.\footcite[cfr.~][p.~37]{biofellows}
+    En 1964 Elizabeth recibió la \emph{Official Fellowship} en Oxford, en 1967 fue
+    admitida en la British Academy y en 1970 fue nombrada al \emph{Chair of
+      Philosophy} de la Universidad de Cambridge, la misma cátedra ocupada por
+    Wittgenstein. Cuando la recién nombrada Anscombe pasó por la oficina de
+    administración para su salario fue recibida por el recepcionista con: <<¿Es
+    usted una de las nuevas empleadas de limpieza?>>. Elizabeth, que sin duda
+    llevaba su habitual chaqueta y pantalones desaliñados, contestó suavemente:
+    <<No, soy la nueva Profesora de
+    Filosofía>>.\footcite[cfr.~][p.~37]{biofellows}
 
-  El 6 de mayo pronunció la lección inaugural de la Universidad con el título
-  ``Causality and Determination''.
+    El 6 de mayo pronunció la lección inaugural de la Universidad con el título
+    ``Causality and Determination''.
 
-doctorado honoris causa de la Universidad de Navarra
+  doctorado honoris causa de la Universidad de Navarra
 
-  Sus hijos Barbara, John, Mary, Charles, More, Jennifer y Tamsin.
+    Sus hijos Barbara, John, Mary, Charles, More, Jennifer y Tamsin.
 
 #+END_SRC
 

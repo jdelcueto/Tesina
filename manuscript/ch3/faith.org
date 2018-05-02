@@ -69,7 +69,7 @@ En Oscott College, el seminario de la Archidiócesis de Birmingham, se
   en 1971. Para estas lecciones ofrecidas anualmente en memoria de Nicolás
   Wiseman se invitaba un ponente que tratara algún tema relacionado con la
   filosofía de la religión o alguna materia en torno al
-  ecumenísmo.\footcite[cf.~][p.~7]{wisemanlects}
+  ecumenismo.\footcite[cf.~][p.~7]{wisemanlects}
 
   El 27 de octubre de 1975, para la quinta edición de las conferencias, Anscombe
   presentó una lección titulada simplemente \eng{Faith}. Allí planteaba la
@@ -79,7 +79,7 @@ En Oscott College, el seminario de la Archidiócesis de Birmingham, se
   ella. Bertrand Russell llamó a la fe ``certeza sin prueba''. Esto parece
   correcto. Ambrose Bierce tiene una definición en su \eng{`Devil's
   Dictionary'}: ``La actitud de la mente de uno que cree sin evidencia a uno que
-  habla sin conocimiento cosas sin parangón''.} \citalitlar{¿Qué deberíamos
+  habla sin conocimiento cosas sin parangón''. ¿Qué deberíamos
   pensar de esto?\footcite[p.~115]{faith}} 
 #+END_SRC
 
@@ -142,17 +142,17 @@ certeza sin prueba.
 #+BEGIN_SRC latex
 \subsection{``Solíamos creer que la fe católica era racional''} Habían pasado
 casi diez años de la clausura del Concilio \mbox{Vaticano II}; Anscombe comenzó
-su ponencia recordando cómo en los finales de los años sesenta muchas homilias
-comenzaban: ``Solíamos creer que\ldots''. ``Soliamos creer ---escuchó una vez---
+su ponencia recordando cómo a finales de los años sesenta muchas homilias
+comenzaban: ``Solíamos creer que\ldots''. ``Soliamos creer --escuchó una vez--
 que no había peor pecado que faltar a misa el domingo''. Escuchar la frase le
 traía un desaliento alarmado, ya que la implicita oposición que se pretendía
-establecer con la expresión, por lo general, era desecertada.
+establecer con la expresión, por lo general, era desaecertada.
 
 Ahora, hay un ``soliamos creer'' que se podía haber usado con algo de acierto.
 Hubo una tiempo en el que se profesó gran entusiasmo por la racionalidad. Quizás
 inspirado por las enseñanzas del Concilio Vaticano I contra el fideismo, pero
 ciertamente promovido por los estudios neo-tomistas. Se decía entre los
-entendidos que la fe Católica era racional, el problema era más bein 
+entendidos que la fe Católica era racional, el problema era más bien 
 #+END_SRC
 **** These opinions attached the character of rationality entirely to what were called the preambles and to the passage from the preambles to faith itself
 *** Faith=short for divine faith=believing God.
