@@ -38,7 +38,7 @@ draft
 \usepackage{style}
 
 %BIBLIOGRAPHY
-\input{./bibliography/bibsettings.tex}
+\input{../bibliography/style/bibsettings.tex}
 %Biblatex using biber engine to manage the bibliography
 %\usepackage[
 %backend=biber,
@@ -46,7 +46,8 @@ draft
 %citestyle=verbose 
 %]{biblatex}
 %The bibliography database
-\addbibresource{./bibliography/bibliodb/main.bib}
+\addbibresource{../bibliography/bibliodb/primary.bib}
+\addbibresource{../bibliography/bibliodb/secondary.bib}
 
 \begin{document}
 
@@ -104,7 +105,7 @@ draft
 %Bibliography
 %\clearpage
 %\addcontentsline{toc}{chapter}{Bibliography}
-%\subfile{./bibliography}
+\subfile{./bibliography}
  
 \end{document}
 

@@ -93,7 +93,7 @@ En 1942 Elizabeth Anscombe llegó a Cambridge.
    intentaba enseñar un estilo de pensar, una técnica. Lo que se escuchaba en sus
    lecciones no eran piezas musicales, sino más bien las prácticas de un buen
    pianista donde afina los movimientos que van dirigidos a construir su
-   concierto.\footcite[p.~357]{pubnpriv}
+   concierto.\autocite[p.~357]{pubnpriv}
 
    En cierta ocasión Wittgenstein recibió a Anscombe con una pregunta: <<¿Por qué
    la gente dice que era natural pensar que el sol giraba alrededor de la tierra en
@@ -103,7 +103,7 @@ En 1942 Elizabeth Anscombe llegó a Cambridge.
    la tierra rotara en su propio eje?>> Anscombe reaccionó extendiendo las manos
    delante de ella con las palmas hacia arriba y, levantándolas desde sus rodillas
    con un movimiento circular, se inclinó hacia atrás asumiendo una expresión de
-   mareo. <<¡Exactamente!>> exclamó Wittgenstein.\footcite[cf.~][p.~151]{IWT}
+   mareo. <<¡Exactamente!>> exclamó Wittgenstein.\autocite[cf.~][p.~151]{IWT}
 
    Anscombe se percató del problema; la pregunta de Wittgenstein había puesto en
    evidencia que hasta aquél momento no había ofrecido ningún significado relevante
@@ -139,12 +139,12 @@ into the open
    \engcitation{``Within all great art there is a WILD animal: tamed.''}
    Wittgenstein pensaba que
    \citalitinterlin{dentro de todo buen arte hay un animal salvaje
-     domado}\footcite[p.~43e]{cnv}.
+     domado}\autocite[p.~43e]{cnv}.
    Su talante artístico, sin embargo, no manifestaba esta primitiva vitalidad; o
    como él mismo decía:
    \engcitation{``In my artistic activities I have merely good manners''}
    \citalitinterlin{en mis actividades artísticas tengo meramente buenos
-     modales.}\footcite[p.~29e]{cnv}
+     modales.}\autocite[p.~29e]{cnv}
 
    Ejemplo de estos ``buenos modales'' fue el diseño que realizó para la casa de su
    hermana Margaret en Viena, terminada en 1928.
@@ -153,7 +153,7 @@ into the open
      in the open is lacking... health is lacking (Kierkergaard)''}
    Trabajó como arquitecto de la casa con exhaustiva minuciosidad y el producto
    manifestaba gran entendimiento, ``buen oido'', pero le escaseaba ``salud'',
-   pensaba él.\footcite[p.~43e]{cnv}
+   pensaba él.\autocite[p.~43e]{cnv}
    \engcitation{``Even in music... feeling, he showed above all great
      understanding, rather than manifesting wild life... When he played music with
      others... his interest was in getting it right... When he played, he was not
@@ -167,12 +167,12 @@ into the open
    recia exactitud. Cuando tocaba con otros ponía su mayor interés en lograr una
    expresión exacta y correcta, recreando música y pensamientos ajenos, más que
    expresándose a sí mismo. Perseguía reproducir más que
-   crear.\footcite[loc.˜]{monk}
+   crear.\autocite[loc.˜]{monk}
 
    Esta fuerza creativa ausente en su rigurosa actitud hacia la actividad artística
    estallaba, sin embargo, en su actividad filosófica. Aquella cualidad que él
    encontraba característica del buen arte, esa ``vida salvaje luchando por emerger
-   abiertamente'',\footcite[cf.˜][loc.˜]{monk} quedaba expresada en su quehacer
+   abiertamente'',\autocite[cf.˜][loc.˜]{monk} quedaba expresada en su quehacer
    filosífico.
   #+END_SRC
 
@@ -197,7 +197,7 @@ into the open
       determinó mostrar el plan de su obra al Profesor Frege en Jena, quien había
       discutido preguntas similares. [\ldots] Frege alentó a Ludwig en su búsqueda
       filosófica y le aconsejó que fuera a Cambridge como alumno del Profesor
-      Russell, cosa que Ludwig ciertamente hizo.\footcite[p. 73]{mcguinness}}
+      Russell, cosa que Ludwig ciertamente hizo.\autocite[p. 73]{mcguinness}}
 
     La investigación filosófica comenzada en aquel momento se convirtió en la tarea
     del resto de su vida. Sus incipientes ideas filosóficas pasarían por diversas
@@ -213,7 +213,7 @@ into the open
   en su pensamiento. Ésta es su definición de la naturaleza de los problemas
   filosóficos. Para Wittgenstein las cuestiones de la filosofía no son
   problemáticas por ser erróneas, sino por no tener
-  significado.\footcite[cf.~][4.003]{tractatus}
+  significado.\autocite[cf.~][4.003]{tractatus}
 
   Una proposición sin significado que no es puesta al descubierto como tal atrapa
   al filósofo dentro de una confusión del lenguaje que no le permite acceder a la
@@ -221,8 +221,8 @@ into the open
   una teoría alternativa, sino en examinar las operaciones hechas con las palabras
   para llegar a manejar una visión clara del empleo de nuestras expresiones. La
   filosofía no es un cuerpo doctrinal, sino una
-  actividad\footcite[cf.~][4.112]{tractatus}y una
-  terapia\footcite[cf.~][\S133]{PI}.
+  actividad\autocite[cf.~][4.112]{tractatus}y una
+  terapia\autocite[cf.~][\S133]{PI}.
 
   La actitud terapéutica adoptada por Wittgenstein en su atención de las
   confusiones filosóficas fue su respuesta más definitiva a la naturaleza de estos
@@ -233,7 +233,7 @@ into the open
   Jugamos el juego del lenguaje. ---¿Jugarlo es entenderlo?--- A la vista de
   Wittgenstein saltaban extraños problemas sobre las reglas de este juego;
   entonces no podía evitar escudriñarlas al
-  detalle.\footcite[cf.~][loc.7099]{monk} En este análisis del lenguaje está la
+  detalle.\autocite[cf.~][loc.7099]{monk} En este análisis del lenguaje está la
   raíz de sus ideas sobre el sentido, el significado y la verdad.
 
   Durante su vida sostuvo dos grandes descripciones del significado. Originalmente
@@ -264,13 +264,13 @@ into the open
   \citalitinterlin{Wittgenstein es extraordinario entre los filósofos por haber
     generado dos épocas, o cortes\footnote{Anscombe toma el termino 'corte' de
       Boguslaw Wolniewicz, filósofo polaco y amigo.}, en la historia de la
-    filosofía.}\footcite[p.~181]{twocuts} 
+    filosofía.}\autocite[p.~181]{twocuts} 
   Con estas palabras Anscombe comenzaría su discurso inaugural para el 6to
   Simposio Internacional de Wittgenstein unos treinta años después de la
   publicación de las \emph{'Investigaciones Filosóficas'}. Y explica:
   \citalitinterlin{un filósofo hace un corte si genera un cambio en el modo en que
     la filosofía es hecha: la filosofía tras el corte no puede ser la misma de
-    antes.}\footcite[p.~181]{twocuts}
+    antes.}\autocite[p.~181]{twocuts}
 
   Estos cambios de época generados por la influencia de Wittgenstein vinieron
   caracterizados por el esfuerzo de comprender cada libro tras su publicación,
@@ -280,7 +280,7 @@ into the open
     Filosóficas'} presenta una teoría del lenguaje ---quizás sobre cómo los
   sonidos se tornan en discursos significativos--- nos dejaría situados lejos de
   las preguntas que genuinamente ocupan a
-  Wittgenstein.\footcite[cf.~][p.~183]{twocuts} Ahora bien, la comprensión
+  Wittgenstein.\autocite[cf.~][p.~183]{twocuts} Ahora bien, la comprensión
   adecuada de su pensamiento y método trae consigo, a juicio de Anscombe, cierto
   efecto curativo.
 #+END_SRC
@@ -302,7 +302,7 @@ into the open
   \citalitlar{La filosofía profesional es en gran medida una gran fábrica para la
     manufactura de necesidades---sólo las necesidades nos dan paz mental. No es de
     extrañarse que Wittgenstein despierte cierto odio entre nosotros. Amenaza
-    privarnos de nuestro empleo en la fábrica.\footcite[p~.184]{twocuts}}
+    privarnos de nuestro empleo en la fábrica.\autocite[p~.184]{twocuts}}
 #+END_SRC
 
 ***** +Excursus:el asunto de la identidad (contraste necesidad engañosa/inocua)+ 
@@ -314,7 +314,7 @@ into the open
     identidad que pueda ser sugerido satisfacer la exigencia de que no sea lógicamente
     posible que dos personas lo cumplan? Además, ¿qué problema tiene que el criterio no
     sea necesario? ¿Por qué queremos algo para lo que no pueda haber un contraejemplo?
-    \footcite[cf.~][p.~184]{twocuts}
+    \autocite[cf.~][p.~184]{twocuts}
 
     la identidad del cuerpo humano viviente tiene que tener su criterio en 'continuidad
     espacio-temporal', es decir 'continuidad espacio-temporal' de una forma humana en
@@ -373,7 +373,7 @@ into the open
      indagamos son como la imagen en el canvas. Las realidades acerca de nuestro
      conocer, nuestro hacer y nuestro indagar son enormemente interesantes; pero
      necesidades de tipo absolutamente \emph{a priori} no pueden ser encontradas
-     para justificar nuestras aserciones.\footcite[p.~185]{twocuts}}
+     para justificar nuestras aserciones.\autocite[p.~185]{twocuts}}
   #+END_SRC
 ***** Hay un uso de necesidad inofensivo
  #+BEGIN_SRC latex
@@ -387,7 +387,7 @@ into the open
    exactamente manufacturando una necesidad, sino más bien
    \citalitinterlin{tratando de formular el ideal de una necesidad que está siendo
      imitada por los cálculos cuando son de resultados que son `determinados', en
-     ese sentido inofensivo de necesidad \footcite[p.~185]{twocuts}}.
+     ese sentido inofensivo de necesidad \autocite[p.~185]{twocuts}}.
  #+END_SRC
    
 ***** El uso del lenguaje como el uso de funciones
@@ -402,14 +402,14 @@ into the open
   ocasión de otra inclinación:
   \citalitinterlin{Aquí no estamos tan tentados de inventar o manufacturar
     necesidades, sino de descansar conformes con las que creemos haber
-    comprendido.\footcite[p.~185]{twocuts}}
+    comprendido.\autocite[p.~185]{twocuts}}
 
   Esta podría ser nuestra actitud respecto de nuestro uso de las proposiciones
   hasta que alguien nos interrumpe con una pregunta sobre la necesidad de estar en
   lo correcto cuando usamos una palabra de cierto modo. Esta pregunta sería
   esceptica sólo para aquel que asumiera que sus presunciones son
   irrefragablemente correctas y la base del significado y la
-  verdad.\footcite[cfr.~][p.~186]{twocuts}
+  verdad.\autocite[cfr.~][p.~186]{twocuts}
 #+END_SRC
 ***** Conclusión, es como un balance
 #+BEGIN_SRC latex
@@ -430,7 +430,7 @@ into the open
 #+BEGIN_SRC latex
   Según Anscombe el método general adecuado de discutir los problemas filosóficos
   propuesto por Wittgenstein consiste en mostrar que la persona no ha provisto
-  significado (o referencia) para ciertos signos en sus expresiones.\footcite[cf.
+  significado (o referencia) para ciertos signos en sus expresiones.\autocite[cf.
   p. 151]{IWT} Creía que el camino que lleva a formular estos problemas está
   frecuentemente trazado por la mala comprensión de la lógica de nuestro lenguaje.
 
@@ -442,7 +442,7 @@ into the open
   \citalitinterlin{ Lo que \ifdraft{ \todo{ traducción difícil: \emph{``What can
           be said at all''} } }{} siquiera puede ser dicho puede ser dicho
     claramente; y de lo que uno no puede hablar, de eso, uno debe guardar
-    silencio}.\footcite[prefacio]{tractatus}
+    silencio}.\autocite[prefacio]{tractatus}
 
   Con esta expresión Wittgenstein resumió el significado del \emph{'Tractatus
   Logico\=/Philosophicus'}.
@@ -474,7 +474,7 @@ into the open
   Russell alentó a Ludwig a continuar dedicándose a la filosofía. Este apoyo fue
   crucial para Wittgenstein, hecho puesto de manifiesto por el gran empeño con el
   que trabajó en sus estudios aquel curso. Al finalizar el termino Russell alegaba
-  que Ludwig había aprendido todo lo que él podía enseñarle.\footcite[cap. 3 loc
+  que Ludwig había aprendido todo lo que él podía enseñarle.\autocite[cap. 3 loc
   865]{monk}
 #+END_SRC
 
@@ -486,7 +486,7 @@ into the open
   Wittgenstein anunció en septiembre de 1913 sus planes de retirarse para
   dedicarse exclusivamente a trabajar en resolver los problemas fundamentales de
   la lógica. Su idea era irse a Noruega, a algún lugar apartado, ya que pensaba
-  que en Cambridge las interrupciones obstaculizarían su trabajo.\footcite[cap. 4
+  que en Cambridge las interrupciones obstaculizarían su trabajo.\autocite[cap. 4
   loc 1844]{monk}
 #+END_SRC
 
@@ -495,7 +495,7 @@ into the open
 #+BEGIN_SRC latex
   \ifdraft{\subsubsection{La Gran Guerra}}{} El trabajo en Noruega fue escabroso.
   En el verano de 1914 interrumpió su tarea para tomar un receso en
-  Viena.\footcite[cap. 5 loc 2154]{monk} Había planificado regresar a Noruega
+  Viena.\autocite[cap. 5 loc 2154]{monk} Había planificado regresar a Noruega
   después del verano, sin embargo la tensión entre las potencias europeas,
   agravada desde el atentado de Sarajevo a finales de junio de aquel año, detonó
   en el estallido de la Gran Guerra. El 7 de agosto de 1914 Wittgenstein se
@@ -504,14 +504,14 @@ into the open
 
   El 22 de octubre de 1915 Wittgenstein escribió a Russell desde el taller de
   artillería en Sokal, al norte de Lemberg, con lo que sería una primera versión
-  de su libro.\footcite[cf. p.84]{cambridgeletters} Cuatro años más tarde, el 13
+  de su libro.\autocite[cf. p.84]{cambridgeletters} Cuatro años más tarde, el 13
   de marzo, escribía a Russell desde Cassino donde se hallaba como prisionero de
-  guerra en un campamento italiano\footcite[cf. p.268]{mcguinness}: 
+  guerra en un campamento italiano\autocite[cf. p.268]{mcguinness}: 
   \citalitlar{He escrito un libro llamado ``Logisch-Philosophische Abhandlung''
     que contiene todo mi trabajo de los últimos seis años. Creo que finalmente
     he resuelto todos nuestros problemas. Esto puede sonar arrogante, pero no
     puedo evitar creerlo. Terminé el libro en agosto de 1918 y dos meses más
-    tarde fui hecho 'Prigioniere'.\footcite[p.89]{cambridgeletters}}
+    tarde fui hecho 'Prigioniere'.\autocite[p.89]{cambridgeletters}}
 #+END_SRC
 
 *** DONE Aire de Misticismo 
@@ -520,9 +520,9 @@ into the open
     \ifdraft{\subsubsection{Aire de Misticismo}}{}
     En junio de aquel año logró enviar el manuscrito del libro a Russell por medio
     de John Maynard Keynes quien intervino con las autoridades italianas para
-    permitir el envío seguro del texto\footcite[p.90 y 91]{cambridgeletters}. El 26
+    permitir el envío seguro del texto\autocite[p.90 y 91]{cambridgeletters}. El 26
     de agosto de 1919 fue oficialmente liberado de sus funciones
-    militares\footcite[p.277]{mcguinness} y en diciembre finalmente pudo encontrarse
+    militares\autocite[p.277]{mcguinness} y en diciembre finalmente pudo encontrarse
     con Russell en la Haya. De aquel encuentro Russell escribe:
     \citalitlar{Había sentido un sabor a misticismo en su libro, pero me quedé
         asombrado cuando vi que se ha convertido en un completo místico. Lee a gente
@@ -541,7 +541,7 @@ into the open
         poder para hacerle dejar de pensar. No creo que realmente se haga monje, es
         una idea, no una intención. Su intención es ser profesor. Repartió todo su
         dinero entre sus hermanos y hermanas, pues encuentra que las posesiones
-        terrenales son una carga. \footcite[p. 112]{cambridgeletters}}
+        terrenales son una carga. \autocite[p. 112]{cambridgeletters}}
 #+END_SRC
 
 *** DONE En busca de una experiencia religiosa 
@@ -549,21 +549,21 @@ into the open
 #+BEGIN_SRC latex
     \ifdraft{\subsubsection{En busca de una experiencia religiosa}}{}
     Cuando Wittgenstein se enlistó en el ejercito para la guerra en 1914 tenía
-    motivaciones más complejas que la defensa de su patria.\footcite[loc2276]{monk}
+    motivaciones más complejas que la defensa de su patria.\autocite[loc2276]{monk}
     Sentía que, de algún modo, la experiencia de encarar la muerte le haría mejor
     persona. Había leído sobre el valor espiritual de confrontarse con la muerte en
     ``Las variedades de la experiencia religiosa'':
     \citalitlar{No importa cuales sean las fragilidades de un hombre, si estuviera
         dispuesto a encarar la muerte, y más aún si la padece heroicamente, en el
         servicio que éste haya escogido, este hecho le consagra para
-        siempre.\footcite[loc 2295]{monk}}
+        siempre.\autocite[loc 2295]{monk}}
 
     Wittgenstein esperaba esta experiencia religiosa de la guerra.
     \citalitinterlin{Quizás}, escribía en su diario, \citalitinterlin{La cercanía de
-        la muerte traerá luz a la vida. Dios me ilumine.}\footcite[loc2295]{monk}
+        la muerte traerá luz a la vida. Dios me ilumine.}\autocite[loc2295]{monk}
     La guerra había coincidido con esta época en la que el deseo de convertirse en
     una persona diferente era más fuerte aún que su deseo de resolver los problemas
-    fundamentales de la lógica.\footcite[loc2305]{monk}
+    fundamentales de la lógica.\autocite[loc2305]{monk}
 #+END_SRC
 
 *** DONE La Principal Contienda
@@ -577,7 +577,7 @@ into the open
     \citalitlar{Estoy convencido de que estás en lo correcto en tu principal
         contienda, que las proposiciones lógicas son tautologías, las cuales no son
         verdad en el mismo modo que las proposiciones
-        sustanciales.\footcite[p.96]{cambridgeletters}}
+        sustanciales.\autocite[p.96]{cambridgeletters}}
 
     Esta interpretación del texto se ajusta bien a la importancia que había tenido
     esta cuestión en las discusiones entre Russell y Wittgenstein. Así lo expresaba
@@ -591,7 +591,7 @@ into the open
         La importancia de la ``tautología'' para una definición de las
         matemáticas me fue señalada por mi ex-alumno Ludwig Wittgenstein, quien
         estaba trabajando en el problema. No sé si lo ha resuelto, o siquera si está
-        vivo o muerto.\footcite[p.205]{introtomathphi}} 
+        vivo o muerto.\autocite[p.205]{introtomathphi}} 
 
     Sin embargo para el Tractatus la cuestión sobre las proposiciones lógicas como
     tautologías no es ya el tema principal, sino que enfatiza otra cuestión, así
@@ -602,7 +602,7 @@ into the open
         proposiciones ---es decir, por el lenguaje--- (y, lo que viene a ser lo mismo,
         aquello que puede ser pensado) y lo que no puede ser expresado por medio de
         proposiciones, sino solamente mostrado; lo cual, creo, es el problema
-        cardinal de la filosofía\ldots \footcite[p. 98]{cambridgeletters}}
+        cardinal de la filosofía\ldots \autocite[p. 98]{cambridgeletters}}
 
     Esta respuesta de Wittgenstein no solo pone de manifiesto su cambio de enfoque,
     sino que ofrece una clave para introducirse en su obra. 
@@ -636,7 +636,7 @@ into the open
     \todo{4.La distinción entre el decir y el mostrar}
     Sólo las situaciones que pueden ser plasmadas en imágenes pueden ser afirmadas
     en proposiciones. Adicionalmente hay mucho que es inexpresable, lo cual no
-    debemos intentar enunciar, sino más bien contemplar sin palabras.\footcite[cf.
+    debemos intentar enunciar, sino más bien contemplar sin palabras.\autocite[cf.
     p.19]{IWT}
 #+END_SRC
 *** DONE La filosofia como actividad
@@ -645,7 +645,7 @@ into the open
     \ifdraft{\subsubsection{La filosofía como actividad}}{}
 
     La filosofía es la actividad que tiene como objeto la clarificación lógica
-    de los pensamientos.\footcite[4.112 p. 52]{tractatus} El problema de muchas de
+    de los pensamientos.\autocite[4.112 p. 52]{tractatus} El problema de muchas de
     las proposiciones y preguntas que se han escrito acerca de asuntos filosóficos
     no es que sean falsas, sino carentes de significado. Wittgenstein continúa: 
     \citalitlar{4.003~En consecuencia no podemos dar respuesta a preguntas de este
@@ -653,7 +653,7 @@ into the open
         los filósofos resultan del hecho de que no entendemos la lógica de nuestro
         lenguaje. (Son del mismo genero que la pregunta sobre si lo Bueno es más o
         menos idéntico a lo Bello). Y así no hay que sorprenderse ante el hecho de
-        que los problemas más profundos realmente no son problemas.\footcite[4.003
+        que los problemas más profundos realmente no son problemas.\autocite[4.003
         p. 45]{tractatus}} 
 
     Es así que el precipitado de la reflexión filosófica que el Tractatus recoge no
@@ -661,11 +661,11 @@ into the open
     sino más bien ofrecer `elucidaciones' que sirven como etapas escalonadas y
     transitorias que al ser superadas conducen a ver el mundo correctamente. Este
     esfuerzo hace de pensamientos opacos e indistintos unos claros y con límites
-    bien definidos.\footcite[cf. 4.112 y 6.54]{tractatus} 
+    bien definidos.\autocite[cf. 4.112 y 6.54]{tractatus} 
     La posibilidad de llegar a una visión clara del mundo es fruto de la posibilidad
     de lograr aclarar la lógica del lenguaje. El lenguaje, a su vez, está compuesto
     de la totalidad de las proposiciones, y éstas, cuando tienen sentido,
-    representan el pensamiento.\footcite[cf. 4 y 4.001]{tractatus} 
+    representan el pensamiento.\autocite[cf. 4 y 4.001]{tractatus} 
     Sin embargo, el mismo lenguaje que puede expresar el pensamiento lo disfraza:
 
     \citalitlar{4.002~El lenguaje disfraza el pensamiento; de tal manera que de la
@@ -678,7 +678,7 @@ into the open
     proposiciones con significado es el esfuerzo por conocer una imagen de la
     realidad. El pensamiento es la imagen lógica de los hechos, en él se contiene la
     posibilidad del estado de las cosas que son pensadas y la totalidad de los
-    pensamientos verdaderos es una imagen del mundo.\footcite[cf.][3 y
+    pensamientos verdaderos es una imagen del mundo.\autocite[cf.][3 y
     3.001]{tractatus}
 #+END_SRC
 
@@ -710,7 +710,7 @@ into the open
     \citalitlar{2.18~Lo que toda representación, de una forma cualquiera, debe tener
         en común con la realidad, de manera que pueda representarla ---cierta o
         falsamente--- de algún modo, es su forma lógica, esto es, la forma de la
-        realidad.\footcite[p.34]{tractatus}}  
+        realidad.\autocite[p.34]{tractatus}}  
 #+END_SRC
 
 *** DONE Las proposiciones como proyecciones con polos de verdad-falsedad
@@ -721,16 +721,16 @@ into the open
     apartado---}
     La imagen de la realidad se convierte en proposición en el momento en que
     nosotros correlacionamos sus elementos con las cosas
-    actuales.\footcite[cf.~][p.~73]{IWT}
+    actuales.\autocite[cf.~][p.~73]{IWT}
     La condición de posibilidad de entablar dicha correlación es la relación interna
     entre los elementos de la imagen en una estructura con
-    sentido.\footcite[cf.~][p.~68]{IWT}
+    sentido.\autocite[cf.~][p.~68]{IWT}
     De este modo:
     \citalitlar{5.4733~Frege dice: Toda proposición legítimamente construida tiene
         que tener un sentido; y yo digo: Toda proposición posible está legítimamente
         construida, y si ésta no tiene sentido es sólo porque no hemos dado
         significado a alguna de sus partes constitutivas. (Incluso cuando pensemos
-        que lo hemos hecho.)\footcite[p.~78]{tractatus}}
+        que lo hemos hecho.)\autocite[p.~78]{tractatus}}
 
     La proposición expresa el pensamiento perceptiblemente por medio de signos.
     Usamos los signos de las proposiciones como proyecciones del estado de las cosas
@@ -738,34 +738,34 @@ into the open
     mundo. A la proposición le corresponde todo lo que le corresponde a la
     proyección, pero no lo que es proyectado, de tal modo, que la proposición no
     contiene aún su sentido, sino la posibilidad de expresarlo; la forma de su
-    sentido, pero no su contenido.\footcite[cf.~][3.1,3.11-3.13]{tractatus} 
+    sentido, pero no su contenido.\autocite[cf.~][3.1,3.11-3.13]{tractatus} 
 
     La proposición no `contiene su sentido' porque la correlación la hacemos nosotros,
     al `pensar su sentido'. Hacemos esto cuando usamos los elementos de la
     proposición para representar los objetos cuya posible configuración estamos 
     reproduciendo en la disposición de los elementos de la proposición. Esto es lo
     que significa que la proposición sea llamada una imagen de la
-    realidad.\footcite[cf.~][p.69]{IWT}  
+    realidad.\autocite[cf.~][p.69]{IWT}  
 
     Toda proposición-imagen tiene dos acepciones. Puede ser una descripción de
     la existencia de una configuración de objetos o puede ser una descripción de la
-    no-existencia de una configuración de objetos.\footcite[cf.~][p.~72]{IWT} 
+    no-existencia de una configuración de objetos.\autocite[cf.~][p.~72]{IWT} 
     %Es una peculiaridad de la proyección el que de ésta y del método de proyección
     %se puede decir qué es lo que se está proyectando, sin que sea necesario que tal
-    %cosa exista físicamente.\footcite[cf.~][p.~72]{IWT} 
+    %cosa exista físicamente.\autocite[cf.~][p.~72]{IWT} 
     %La idea de la proyección es peculiarmente apta para explicar el carácter de una
     %proposición como teniendo sentido independientemente de los hechos, como
     %inteligible aún antes de que se sepa que es cierta; como algo que concierne lo
     %que se puede cuestionar sobre si es verdad, y saber lo que se pregunta antes de
-    %conocer la respuesta.\footcite[cf.~][p.~73]{IWT}
+    %conocer la respuesta.\autocite[cf.~][p.~73]{IWT}
     Esta doble acepción es el resultado de que la proposición-imagen puede ser una
-    proyección hecha en sentido positivo o negativo.\footcite[cf.~][p.~74]{IWT} Esto
+    proyección hecha en sentido positivo o negativo.\autocite[cf.~][p.~74]{IWT} Esto
     queda ilustrado en una analogía:
 
     \citalitlar{4.463~La proposición, la imagen, el modelo, son en el sentido
         negativo como un cuerpo solido, que restringe el libre movimiento de otro:
         en el sentido positivo, son como un espacio limitado por una sustancia
-        sólida, en la cual un cuerpo puede ser colocado.\footcite[p.~63]{tractatus}}
+        sólida, en la cual un cuerpo puede ser colocado.\autocite[p.~63]{tractatus}}
 
     De este modo toda proposición-imagen tiene dos polos; de verdad y de falsedad.
     Las tautologías y las contradicciones, por su parte, no son imagenes de la
@@ -775,17 +775,17 @@ into the open
     \citalitlar{4.463~Una tautología deja abierto para la realidad el total infinito
         del espacio lógico; una contradicción llena el total del espacio lógico no
         dejando ningún punto de él para la realidad. Así pues ninguna de las dos
-        puede determinar la realidad de ningún modo.\footcite[p.~78]{tractatus}}
+        puede determinar la realidad de ningún modo.\autocite[p.~78]{tractatus}}
 
     La verdad de las proposiciones es posible, de las tautologías es cierta y de las
     contradicciones imposible. La tautología y la contradicción son los casos límite
     de la combinación de signos ---específicamente--- su
-    disolución.\footcite[cf.~][4.464 y 4.466]{tractatus} Las tautologías son
+    disolución.\autocite[cf.~][4.464 y 4.466]{tractatus} Las tautologías son
     proposiciones sin sentido (carecen de polos de verdad y falsedad), su negación son
     las contradicciones. Los intentos de decir lo que sólo puede ser mostrado
     resultan en esto, en formaciones de palabras que carecen de sentido, es decir,
     son formaciones que parecen oraciones, cuyos componentes resultan no tener
-    significado en esa forma de oración.\footcite[cf.~][p.~163~\S2]{IWT}.
+    significado en esa forma de oración.\autocite[cf.~][p.~163~\S2]{IWT}.
 #+END_SRC
 
 *** DONE La distinción entre el decir y el mostrar
@@ -794,7 +794,7 @@ into the open
     \ifdraft{\subsubsection{La distinción entre el decir y el mostrar}}{}
     La conexión entre las tautologías y aquello que no se puede decir, sino
     mostrar, es que éstas ---siendo proposiciones lógicas sin sentido--- muestran
-    la 'lógica del mundo'.\footcite[cf.~][p.~163~\S3]{IWT}. Esta 'lógica del
+    la 'lógica del mundo'.\autocite[cf.~][p.~163~\S3]{IWT}. Esta 'lógica del
     mundo' o 'de los hechos' es la que más prominentemente aparece en el Tractatus
     entre las cosas que no pueden ser dichas, sino mostradas. Esta lógica no solo
     se muestra en las tautologías, sino en todas las proposiciones. Queda exhibida
@@ -806,47 +806,47 @@ into the open
     \citalitlar{4.0312~La posibilidad de las proposiciones se basa en el principio de
         la representación de los objetos por medio de signos. Mi pensamiento
         fundamental es que las ``constantes lógicas'' no son representativas. Que la
-        lógica de los hechos no puede ser representada.\footcite[p.~48]{tractatus}}
+        lógica de los hechos no puede ser representada.\autocite[p.~48]{tractatus}}
 
     La lógica es, por tanto, trascendental, no en el sentido de que las
     proposiciones sobre lógica afirmen verdades trascendentales, sino en que todas
     las proposiciones muestran algo que permea todo lo decible, pero es en sí mismo
-    indecible.\footcite[cf.~][p.~166 \S2]{IWT}
+    indecible.\autocite[cf.~][p.~166 \S2]{IWT}
 
     Otra cuestión notoria entre aquello que no puede ser dicho, sino mostrado es la
     cuestión acerca de la verdad del solipsismo. Los limites del mundo son los
     límites de la lógica, lo que no podemos pensar, no podemos pensarlo, y por tanto
     tampoco decirlo. Los límites de mi lenguaje significan los límites de mi
-    mundo.\footcite[cf~.][5.6~y~5.61]{tractatus} De este modo:
+    mundo.\autocite[cf~.][5.6~y~5.61]{tractatus} De este modo:
     \citalitlar{5.62~[\ldots]Lo que el solipsismo \emph{significa}, es ciertamente
         correcto, sólo que no puede ser \emph{dicho}, pero se muestra a sí
         mismo. Que el mundo es \emph{mi} mundo, se muestra a sí mismo en el hecho
         de que los limites del lenguaje (de \emph{aquel} lenguaje que yo
         entiendo) significan los límites de mi
-        mundo.\footcite[cf~.][p.~89]{tractatus}} 
+        mundo.\autocite[cf~.][p.~89]{tractatus}} 
 
     Así como la lógica del mundo y la verdad del solipsismo quedan mostradas,
     también, las verdades éticas y religiosas, aunque no expresables, se manifiestan
     a sí mismas en la vida. 
 
     Existe, por tanto lo inexpresable que se muestra a sí mismo, esto es lo
-    místico.\footcite[cf.~][6.522]{tractatus}
+    místico.\autocite[cf.~][6.522]{tractatus}
 
     De la voluntad como sujeto de la ética no podemos
-    hablar\footcite[cf.~][6.423]{tractatus}. El mundo es independiente de nuestra
+    hablar\autocite[cf.~][6.423]{tractatus}. El mundo es independiente de nuestra
     voluntad ya que no hay conexión lógica entre ésta y los hechos.
     La voluntad y la acción como fenómenos, por tanto, interesan sólo a la
-    psicología.\footcite[cf.~][p.171 \S3]{IWT}
+    psicología.\autocite[cf.~][p.171 \S3]{IWT}
 
     El significado del mundo tiene que estar fuera del
-    mundo\footcite[cf.~][6.41]{tractatus} y Dios no se revela \emph{en} el
-    mundo\footcite[cf.~][6.432]{tractatus}. 
+    mundo\autocite[cf.~][6.41]{tractatus} y Dios no se revela \emph{en} el
+    mundo\autocite[cf.~][6.432]{tractatus}. 
     Esto se sigue de la teoría de la representación; una proposición y su negación
-    son ambas posibles, cuál es verdad es accidental.\footcite[cf.~][p.170 \S4]{IWT}
+    son ambas posibles, cuál es verdad es accidental.\autocite[cf.~][p.170 \S4]{IWT}
     Si hay un valor que valga la pena para el mundo tiene que estar fuera de lo que
     es el caso que es; lo que hace que el mundo tenga un valor no-accidental tiene
     que estar fuera de lo accidental, tiene que estar fuera del
-    mundo.\footcite[cf.~][6.41]{tractatus} 
+    mundo.\autocite[cf.~][6.41]{tractatus} 
 
     Finalmente, aplicar el límite de lo que puede ser expresado a la actividad
     filosófica significa que:
@@ -857,7 +857,7 @@ into the open
         logrado dar significado a ciertos signos en sus proposiciones. Este método
         sería insatisfactorio para la otra persona ---no tendría la impresión de que
         le estuviéramos enseñando filosofía--- pero este método sería el único
-        estrictamente correcto.\footcite[p. 107--108]{tractatus}}
+        estrictamente correcto.\autocite[p. 107--108]{tractatus}}
     \todo{Añadir como conclusión del resumen la finalidad ética del tratado.}
 #+END_SRC
 
@@ -907,15 +907,15 @@ objetos materiales.
   Por aquella época de mediados de los 30 la joven Gertrude Elizabeth Margaret
   Anscombe, andaba buscando un buen argumento que demostrara que todo lo que
   existe tiene que tener una causa. ¿Por qué cuando algo ocurre estamos seguros de
-  que tiene una causa? Nadie sabía darle una respuesta.\footcite[cf.~][p.~vii
-  \S1]{M&PotM} Así, sin darse cuenta, se iniciaba Anscombe en la ardua tarea de la
-  filosofía. Rigurosa y enérgica desde el principio.
+  que tiene una causa? Nadie sabía darle una respuesta.\autocite[cf.~][p.~vii
+  \S1]{anscombe1981metaphysicsintro} Así, sin darse cuenta, se iniciaba Anscombe en la
+  ardua tarea de la filosofía. Rigurosa y enérgica desde el principio.
 
   El origen de su peculiar curiosidad por la causalidad se hallaba en una obra
   llamada `Teología Natural' escrita por un jesuita del siglo XIX. Había llegado a
   este libro motivada por su conversión a la Iglesia
-  Católica.\footcite[cf.~][p.~vii \S1]{M&PotM} El tratado le resultó problemático
-  en dos cuestiones.
+  Católica.\autocite[cf.~][p.~vii \S1]{anscombe1981metaphysics} El tratado le
+  resultó problemático en dos cuestiones.
 
   La primera fue la doctrina de la \emph{`scientia media'}, según la cual Dios
   tiene conocimiento, por ejemplo, de lo que alguien podría haber hecho si no
@@ -927,7 +927,8 @@ objetos materiales.
   católica. Richard le aclaró que no hacía falta que creyera en eso. Con el tiempo
   entendió que se trataba de una discusión de escuela, en la que los jesuítas y
   dominicos entablaron una ardua disputa y que la postura que ella había adoptado
-  era la defendida por los dominicos.\footcite[cf.~][p.~vii]{M&PotM}
+  era la defendida por los
+  dominicos.\autocite[cf.~][p.~vii]{anscombe1981metaphysics}
 
   La segunda cuestión problematica la encontró en un argumento sobre la existencia
   de la `Causa Primera'. El tratado ofrecía como preliminar al argumento una
@@ -940,7 +941,7 @@ objetos materiales.
   eventualmente descubría que contenían la misma falacia, cada vez disimulada más
   astutamente. Todo este esfuerzo lo realizó sin ninguna enseñanza formal en
   filosofía, incluso su último intento de argumento lo hizo antes de estudiar
-  `Greats'.\footcite[cf.~][p.~vii \S2]{M&PotM}
+  `Greats'.\autocite[cf.~][p.~vii \S2]{anscombe1981metaphysics}
 
 #+END_SRC
 
@@ -953,19 +954,19 @@ objetos materiales.
   interesó por el tema de la percepción. Durante años ocupaba su tiempo, en
   cafeterías, por ejemplo, mirando fijamente objetos, diciendose a sí misma: 'Veo
   un paquete. ¿Pero qué veo realmente? ¿Cómo puedo decir que veo algo más que una
-  extensión amarilla?\footcite[cf.~][p.~viii \S1]{M&PotM}
+  extensión amarilla?\autocite[cf.~][p.~viii \S1]{anscombe1981metaphysics}
 
   Al principio su impresión era que lo que veía eran objetos:
   \citalitinterlin{Estaba segura de que veía objetos, como paquetes de cigarrillos
     o tazas o\ldots~cualquier cosa más o menos sustancial
-    servía.}\footcite[p.~viii \S1]{M&PotM} Además creía que debemos de conocer la
-  categoría de un objeto cuando hablamos de él, eso corresponde a la lógica del
-  término usado para hablar del objeto y no de algún descubrimiento empírico.
-  Estas ideas, sin embargo, las había desarrollado fijándose en artefactos
-  urbanos. Los ejemplos de percepción de la naturaleza que más la impactaron
-  fueron `madera' y el cielo. Este último le hizo retractarse de su creencia sobre
-  el conocimiento lógico de la categoría de los objetos.\footcite[cf.~][p.~viii
-  \S1]{M&PotM}
+    servía.}\autocite[p.~viii \S1]{anscombe1981metaphysics} Además creía que
+  debemos de conocer la categoría de un objeto cuando hablamos de él, eso
+  corresponde a la lógica del término usado para hablar del objeto y no de algún
+  descubrimiento empírico. Estas ideas, sin embargo, las había desarrollado
+  fijándose en artefactos urbanos. Los ejemplos de percepción de la naturaleza que
+  más la impactaron fueron `madera' y el cielo. Este último le hizo retractarse de
+  su creencia sobre el conocimiento lógico de la categoría de los
+  objetos.\autocite[cf.~][p.~viii \S1]{anscombe1981metaphysics}
 
   Sus indagaciones sobre la percepción, así como le ocurrió con la causalidad,
   fueron previas al periodo de `Greats' donde estudiaría formalmente la filosofía.
@@ -981,8 +982,11 @@ objetos materiales.
   discutir. Asncombe, sin embargo, odiaba el fenomenalismo y se sentía atrapada
   por él, pero no sabía salir de él, o rebatirlo. La postura escéptica tampoco la
   convencía como para adoptarla y no la dejaba satisfecha. Esta insatisfacción no
-  haría más que crecer en sus años en Oxford.\footcite[cf.~][p.~viii \S1]{M&PotM}
-
+  haría más que crecer en sus años en Oxford.\autocite[cf.~][p.~viii
+  \S1]{anscombe1981metaphysics}
+\autocite{anscombe1981parmenidespmc}
+\autocite{anscombe2011parmenides}
+\autocite{anscombe1981parmenidesetof}
    #+END_SRC
 
 *** TODO En Cambridge con Wittgenstein 
@@ -993,7 +997,7 @@ objetos materiales.
   defino `amarillo' como esto'' fue efectivamente atacado.
 
   En una ocasión en estas clases Wittgenstein estaba discutiendo la interpretación
-  del letrero\footcite[p.~86~\S198]{PI}, y estalló en mi que el modo en que vas
+  del letrero\autocite[p.~86~\S198]{PI}, y estalló en mi que el modo en que vas
   según éste es la interpretación final.
 
   En otra ocasión salí con ``Pero todavía quiero decir: <<Azul esta ahí>>''.
@@ -1102,7 +1106,7 @@ objetos materiales.
     podía ofrecer mejor significado que los sugeridos por concepciones ingenuas. Una
     concepción así no es otra cosa que ausencia de pensamiento, pero su falta de
     significado no es evidente, sino que requiere de la fuerza de un `Copérnico'
-    para ponerla en cuestión efectivamente.\footcite[cf. 151]{IWT} 
+    para ponerla en cuestión efectivamente.\autocite[cf. 151]{IWT} 
     \end{revision}
 
     \begin{revision}
@@ -1124,14 +1128,14 @@ objetos materiales.
         que se llama a sí misma 
         'Miss Anscombe',
         que ciertamente es inteligente, aunque no del calibre de Kreisel.
-        \footcite[p.~371]{cambridgeletters}
+        \autocite[p.~371]{cambridgeletters}
     }
     Un año mas tarde escribía a Norman Malcolm:
     \citalitinterlin{
         \ldots mi clase ahora es bastante grande, 19 personas. \ldots Smythies esta
         viniendo, y una mujer que es muy buena, es decir, más que solamente
         inteligente\ldots 
-        \footcite[p.~388]{cambridgeletters}
+        \autocite[p.~388]{cambridgeletters}
     }
     Aquellos años no sólo creció en Wittgenstein la apreciación de la capacidad de
     Anscombe, sino que se afianzó entre ellos una estrecha amistad. 
@@ -1140,7 +1144,7 @@ objetos materiales.
     Elizabeth. Las lecciones con Wittgenstein eran directas y con franqueza. Esta
     metodología carente de cualquier parafernalia era inquietante para algunos,
     inspiradora para otros, pero fue tremendamente liberadora para
-    ella.\footcite[loc 9853 Chapter 4, Section 24, \S5]{monk} Esta libertad
+    ella.\autocite[loc 9853 Chapter 4, Section 24, \S5]{monk} Esta libertad
     quedaba demostrada en que Anscombe no se contentaba con repetir lo que decía
     Wittgenstein, sino que pensaba por sí misma; en esto precisamente era más fiel
     al espíritu de la filosofía que había aprendido de él. Sobre esta relación,
@@ -1154,7 +1158,7 @@ objetos materiales.
         que un largo periodo de vigorosa objeción era la mejor manera de entender a
         Wittgenstein. Aun cuando era su amiga cercana y albacea literaria, y una de
         los primeros en reconocer su grandeza, nada podía ser más lejano de su
-        carácter y modo de pensamiento que el discipulado.\footcite[p.~4]{teichmann}
+        carácter y modo de pensamiento que el discipulado.\autocite[p.~4]{teichmann}
     }
 
 
