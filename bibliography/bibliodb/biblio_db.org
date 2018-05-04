@@ -13,7 +13,28 @@ Usually, primary sources are the object discussed in your paper. For instance, i
 are writing an analysis on Upton Sinclair’s The Jungle, the book would be a primary
 source. But, just because a source is old does not mean it is a primary source.
 :END:
-** By G.E.M. Anscombe (Author)
+** By Wittgenstein translated by G.E.M. Anscombe 
+*** Philosophical Investigations (1953)
+*** Remarks on the Foundation of Mathematics (1956)
+*** Notebooks 1914-1916 (1961)
+*** Zettel (1967)
+*** Philosophical Remarks 
+*** On Certainty (with Denis Paul) (1969)
+*** Remarks on the Philosophy of Psicology
+*** Remarks on Colour (1977)
+** By G.E.M. Anscombe
+*** Intention (1957)
+*** An Introduction to Wittgenstein's Tractatus (1959)
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@book{IWT, 
+author={Gertrude Elizabeth Margaret Anscombe}, 
+title={An Introduction to Wittgenstein's Tractatus},
+publisher={St. Augustine's Press, Indiana}, 
+year={1971},
+keywords={primary, anscombe}
+}
+#+END_SRC
+*** Three Philosopers (with Peter Geach) (1961)
 *** Collected Philosophical Papers (1981)
 **** From Parmenides to Wittgenstein
 :worldcat:
@@ -81,8 +102,6 @@ http://www.worldcat.org/oclc/299374922
   abstract={}
   }
 #+END_SRC
-
-
 **** Metaphysics and the Philosophy of the Mind
 :worldcat:
  http://www.worldcat.org/oclc/10430565
@@ -105,6 +124,20 @@ http://www.worldcat.org/oclc/299374922
                     volume's work explores memory, intentionality, causality and
                     time, delving into the language, actions, and logic of
                     perception, sensation, and more.}
+  }
+#+END_SRC
+***** Introduction
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe1981metaphysicsintro,
+  booktitle={Metaphysics and the Philosophy of the Mind},
+  title={Introduction},
+  author={Gertrude Elizabeth Margaret Anscombe},
+  series={The collected philosophical papers of G.E.M. Anscombe},
+  volume={2},
+  publisher={Basil Blackwell, Oxford},
+  year={1981},
+  keywords={Anscombe Elizabeth; Wittgenstein; Logic; Parmenides; Primary Source},
+  abstract={}
   }
 #+END_SRC
 **** Ethics, Religion and Politics
@@ -161,7 +194,21 @@ of the event that was discussed or featured in the primary source.
 They are second-hand accounts that interpret or draw conclusions from one or more
 primary sources.
 
-
+** José María Torralba
+*** Acción intencional y razonamiento práctico según G.E.M. Anscombe
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@book{torralba2005accion,
+author = "José María Torralba",
+title = "Acción Intencional y Razonamiento Práctico Según G.E.M. Anscombe",
+publisher = "Ediciones Universidad de Navarra, S.A., Pamplona",
+year = "2005",
+series = "Colección Filosófica",
+volume = "189",
+keywords = "anscombe, torralba",
+}
+#+END_SRC
+** Roger Teichmann
+*** The Philosophy of Elizabeth Anscombe
 #+BEGIN_SRC bibtex :tangle secondary.bib
 %Books on Anscombe
 @book{teichmann,
@@ -172,16 +219,30 @@ year = "2008",
 keywords = "primary, anscombe, teichmann",
 }
 #+END_SRC
-
-
+** Jenny Teichmann
+*** Biographical Memoirs of Fellows of The British Academy
+:worldcat:
+http://www.worldcat.org/oclc/61430741
+:end:
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@incollection{teichman2002fellows,
+author = "Jenny Teichman",
+editor = "F. M. L. Thompson",
+booktitle = "Biographical Memoirs of Fellows I",
+title = "Gertrude Elizabeth Margaret Anscombe, 1919-2001",
+publisher = "Oxford University Press, Oxford",
+year = "2002",
+series= "Proceedings of the British Academy",
+volume = "115",
+isbn="0197262783",
+keywords = "bio, anscombe",
+}
+#+END_SRC
 
  %Primary Sources 
 
 %Anscombe 
 
-@book{IWT, author = "Gertrude Elizabeth
-Margaret Anscombe", title = "An Introduction to Wittgenstein's Tractatus", publisher =
-"St. Augustine's Press, Indiana", year = "1971", keywords = "primary, anscombe", }
 
 %St. Andrews Studies Essays Collection
 @book{FPW,
@@ -251,17 +312,6 @@ year = "2008",
 keywords = "primary, anscombe, teichmann",
 }
 
-@incollection{biofellows,
-author = "Jenny Teichman",
-%editor = "F. M. L. Thompson",
-booktitle = "Biographical Memoirs of Fellows I",
-title = "Gertrude Elizabeth Margaret Anscombe, 1919-2001",
-publisher = "Oxford University Press, Oxford",
-year = "2002",
-series= "Proceedings of the British Academy",
-volume = "115",
-keywords = "bio, anscombe",
-}
 
 %%url = "https://www.britac.ac.uk/sites/default/files/09\%20Geach\%201820.pdf"
 @incollection{biofellowsxiv,
@@ -276,15 +326,6 @@ isbn = "9780197265918",
 keywords = "bio, anscombe, geach",
 }
 
-@book{accint,
-author = "José María Torralba",
-title = "Acción Intencional y Razonamiento Práctico Según G.E.M. Anscombe",
-publisher = "Ediciones Universidad de Navarra, S.A., Pamplona",
-year = "2005",
-series = "Colección Filosófica",
-volume = "189",
-keywords = "anscombe, torralba",
-}
 
 @incollection{phiaut,
 editor = "H. A. Lewis",
