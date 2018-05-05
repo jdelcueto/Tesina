@@ -1,0 +1,56 @@
+* Estructura de los capítulos
+1. Capítulo 1
+   1. Sección 1: Planteamiento de la cuestión y exposición panorámica del tema del capítulo
+      1. Cuestión y panorámica
+      2. Punto de desarrollo X
+      3. Punto de desarrollo Y
+      4. Punto de desaroollo Z,  etc...
+   2. Sección 2: Punto X
+      1. Cuestión y panorámica
+      2. X.1
+      3. X.2
+   3. Sección 3: Punto Y
+      1. Cuestión y panorámica
+      2. Y.1
+      3. Y.2
+   4. Etc... 
+* Introducción
+** Biografía de Elizabeth Anscombe
+** Método
+*** +Método original+
+**** ¿Qué dice la el depósito de la fe sobre el testimonio?
+**** ¿Cómo se ha problematizado este concepto?
+**** ¿Qué respuesta ofrece Anscombe a este problema?
+**** Cómo se compara lo que dice Anscombe con lo que dice la Iglesia?
+*** _Método actual_
+**** ¿Cómo se usa el término testimonio para hablar de la Revelación?
+**** En un esquema teológico-fundamental de 'monstratio' católica-cristiana-religiosa, ¿Cómo se usa el testimonio para hablar de la fe y de la credibilidad?
+**** En el análisis realizado por Anscombe de distintos problemas, ¿qué descripción hace del uso del lenguaje sobre el testimonio?
+**** ¿Qué consecuencias podemos sacar de usar las aserciones hechas por Anscombe como objeto de comparación con el uso del testimonio en el lenguaje actual de la teología fundamental?
+* Naturaleza del Testimonio Cristiano
+** El testimonio en la dinámica de la Revelación
+** La categoría del testimonio en la tradición
+* El testimonio en la Teología Fundamental
+* Desarrollo filosófico de Elizabeth Anscombe
+** Trasfondo filosófico: El metodo de Wittgenstein
+*** Quaestio
+*** El método de Wittgenstein [[file:~/Tesina/manuscript/ch3/anscombe_and_wittgenstein.org::*El%20m%C3%A9todo%20de%20Wittgenstein][>>]]  
+*** El arte de hacer filosofía
+*** El gran tratado de Wittgenstein
+*** Las elucidaciones del Tractatus
+** Actividad filosófica de G.E.M. Anscombe [[file:~/Tesina/manuscript/ch3/anscombe_and_wittgenstein.org::*Propositio:%20"Anscombe%20y%20Wittgenstein"][>>]]
+*** The first strenous interests
+**** Causalidad
+**** Percepción
+**** The justice of the present war examined
+*** Cambridge
+**** The nerve being extracted
+* La Categoría del Testimonio en el Pensamiento de Elizabeth Anscombe
+** La pregunta sobre la Verdad [[file:~/Tesina/manuscript/ch3/truth.tex][>>]]
+** Fe  [[file:~/Tesina/manuscript/ch3/faith.tex][>>]]
+*** To Believe  [[file:~/Tesina/manuscript/ch3/to_believe.tex][>>]]
+** La tradición sobre el valor epistemológico del testimonio
+** El testimonio en el lenguaje epistémico y creyente
+** Sentido, sinsentido y misterio
+* Valoración y Crítica
+ 

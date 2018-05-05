@@ -1,0 +1,117 @@
+#+PROPERTY: header-args:latex :tangle ../../tex/ch2/fundtheo.tex
+# ------------------------------------------------------------------------------------
+# Santa Teresa Benedicta de la Cruz, ruega por nosotros
+
+* /Lectio/: 
+:DESCRIPTION:
+
+:END:
+** Análisis
+
+
+* /Propositum/:  
+:DESCRIPTION: 
+
+:END:
+
+** Propositio: 
+
+#+BEGIN_SRC latex
+  % SECCIÓN 1: 
+  \section{La categoría del testimonio en el contexto actual de la Teología
+    Fundamental}
+#+END_SRC
+
+
+* /////////////////////////////////////////////////////////
+* /Quaestio/: ? 
+:STATEMENT:
+
+:END:
+:DISCARDED:
+
+:END:
+:DESCRIPTION:
+
+:END:
+ 
+#+BEGIN_SRC latex
+
+#+END_SRC
+
+
+* /Expositio/: ?
+:STATEMENT:
+
+:END:
+
+
+#+BEGIN_SRC latex
+  \section{El Valor Cognoscitvo de la Fe y el problema del lenguaje religioso en la
+  Filosofía Analítica}
+
+  Este capítulo sigue el estudio de F. Conesa en Creer y Conocer. En él se
+  plantean las cuestiones y problemáticas fundamentales relacionadas con el valor
+  cognoscitivo de la fe en el ámbito de la filosofía analítica.
+  \textquestiondown{}Cuál es la significatividad del lenguaje religioso? Si se
+  admite que no carece de significado, \textquestiondown{}Qué valor cognoscitivo
+  tiene? Si se afirma que es susceptible de ser verdadero o falso
+  \textquestiondown{}existe un conocimiento religioso? \textquestiondown{}Cuál es
+  su valor? Esta cuestión nos lleva a la afirmación que estudiaremos en Anscombe:
+  el valor cognoscitivo de la Fe es el del saber por testimonio.
+
+
+  \section{Significatividad del Lenguaje Religioso}
+
+  \section{El Valor Cognoscitivo del Lenguaje Religioso}
+
+  Read Knowledge and Certainty: What is operative here is not a
+  sensible-verification theory, but the picture theory of significant description:
+  both the proposition and its negation are supposed to describe a possibility,
+  otherwise the status of the proposition is other than that of a significant
+  description.
+
+  Psychology is no more akin to philosophy than any natural science. Theory of
+  knowledge is the philosophy of psychology.(4.1121) Wittgenstein and Frege
+  avoided making theory of knowledge the cardinal theory of philosophy simply by
+  cutting it dead; by doing none, and concentrating on the philosophy of logic.
+  But The influence of the tractatus produced logical positivism, whose main
+  doctrine is verificationism and in that doctrine theory of knowledge reigns
+  supreme and a prominent position was given to the test for significance by
+  asking for the observations that would verify a statement.
+
+  Wittgenstein's ideas between the Tractatus and the time when he began writing
+  the Philosophical Investigations were closely akin to logical positivists, less
+  akin before or after that time.
+
+  \section{El Valor Cognoscitivo de la Fe Religiosa}
+
+  \section{La Fe como Saber Por Testimonio}
+
+#+END_SRC
+
+* /Disputatio/: 
+:STATEMENT: 
+
+:END:
+
+
+* /Solutio/: 
+:STATEMENT:
+
+:END:
+
+* /In Testimonium/: 
+:STATEMENT:
+
+:END:
+
+
+* [Local Variables]
+# Local Variables:
+# mode: org
+# mode: auto-fill
+# word-wrap:t
+# truncate-lines: t
+# org-hide-emphasis-markers: t
+# End:

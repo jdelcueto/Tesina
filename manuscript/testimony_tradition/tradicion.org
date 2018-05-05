@@ -1,0 +1,112 @@
+#+PROPERTY: header-args:latex :tangle ../../tex/ch1/tradicion.tex
+# ------------------------------------------------------------------------------------
+# Santa Teresa Benedicta de la Cruz, ruega por nosotros
+
+
+* /Lectio/: 
+:DESCRIPTION:
+
+:END:
+** Análisis
+En este primer capítulo nos preguntamos \textquestiondown{}Cuál testimonio es
+Revelación de Dios? \textquestiondown{}Qué papel juega el testimonio en la Dinámica de
+la Revelación y su transmisión? Como referencia principal tendremos el artículo de
+Latourelle sobre el Testimonio en el Diccionario de Teología Fundamental.
+
+
+* /Propositum/:  
+:DESCRIPTION: 
+
+:END:
+
+** Propositio: La categoría del testimonio en la tradición
+#+BEGIN_SRC latex
+  % SECCIÓN 1: La categoría del testimonio en la tradición
+\section{La categoría del testimonio en la tradición}
+#+END_SRC
+
+
+* /////////////////////////////////////////////////////////
+* /Quaestio/: Lo que hemos visto y oido 
+:STATEMENT:
+
+:END:
+:DISCARDED:
+
+:END:
+:DESCRIPTION:
+
+:END:
+ 
+#+BEGIN_SRC latex
+  Rm 10,8-15: 
+
+  Entonces, ¿qué dice? 'Cerca de ti está la palabra: en tu boca y en tu corazón,'
+  es decir, la palabra de la fe que nosotros proclamamos. Porque, si confiesas con
+  tu boca que Jesús es Señor y crees en tu corazón que Dios le resucitó de entre
+  los muertos, serás salvo. Pues con el corazón se cree para conseguir la
+  justicia, y con la boca se confiesa para conseguir la salvación.
+
+  Porque dice la Escritura: 'Todo el que crea en él no será confundido.' Que no
+  hay distinción entre judío y griego, pues uno mismo es el Señor de todos, rico
+  para todos los que le invocan. Pues 'todo el que invoque el nombre del Señor se
+  salvará.' Pero ¿cómo invocarán a aquel en quien no han creído? ¿Cómo creerán en
+  aquel a quien no han oído? ¿Cómo oirán sin que se les predique? Y ¿cómo
+  predicarán si no son enviados? Como dice la Escritura: '¡Cuán hermosos los pies
+  de los que anuncian el bien!'
+#+END_SRC
+
+
+* /Expositio/: What is truth?
+:STATEMENT:
+
+:END:
+
+#+BEGIN_SRC latex
+\subsection{Cristo Testigo}
+
+\subsection{La transmisión de la revelación: el Testimonio apostólico}
+
+\subsection{El testimonio de la fe en el martirio}
+
+\subsection{Revalorización del testimonio a partir del Concilio Vaticano II}
+
+\subsubsection{Vaticano I}
+
+\subsubsection{Vaticano II}
+
+\subsubsection{Magisterio Post-Conciliar}
+
+\subsubsection{Nueva Evangelización}
+
+\section{El Testimonio como categoría hermeneútica}
+
+\section{El Testimonio como misión}
+#+END_SRC 
+
+
+* /Disputatio/: 
+:STATEMENT: 
+
+:END:
+
+
+* /Solutio/: 
+:STATEMENT:
+
+:END:
+
+* /In Testimonium/: 
+:STATEMENT:
+
+:END:
+
+
+* [Local Variables]
+# Local Variables:
+# mode: org
+# mode: auto-fill
+# word-wrap:t
+# truncate-lines: t
+# org-hide-emphasis-markers: t
+# End:

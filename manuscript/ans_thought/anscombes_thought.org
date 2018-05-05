@@ -1,0 +1,479 @@
+#+PROPERTY: header-args:latex :tangle ../../tex/ch3/anscombes_thought.tex
+# ------------------------------------------------------------------------------------
+
+* /Lectio/: 
+:DEFINITION:
+Lo recibido
+:END:
+:BIBLIO:
+An Introduction to Wittgenstein's Tractatus, Two Cuts
+:END:
+** Análisis
+Haremos un recorrido por la vida de Anscombe y Wittgenstein
+
+* /Propositum/:  
+:DEFINITION:
+Lo que se busca
+:END:
+:DESCRIPTION: 
+La filosofía de Wittgenstein como trasfondo para la de Anscombe
+:END:
+
+** Propositio: ""
+
+#+BEGIN_SRC latex
+%SECCIÓN 1: 
+\section{Actividad Filosófica de Elizabeth Anscombe}
+#+END_SRC
+
+* /////////////////////////////////////////////////////////
+* TODO /Quaestio/: ? [0%]
+:DEFINITION:
+Lo que se cuestiona
+:END:
+:STATEMENT:
+
+:END:
+
+** TODO 
+ 
+* TODO /Expositio/: [60%]
+:DEFINITION:
+Lo que se describe
+:END:
+:STATEMENT:
+
+:END:
+
+** TODO La filosofía de Elizabeth [75%]
+:STATEMENT:
+Esta no es una biografía de Anscombe, esa estará en la Introducción.
+Esto será un recorrido por su desarrollo intelectual estrictamente.
+:END:
+#+BEGIN_SRC latex
+    \subsection{Los primeros arduos esfuerzos}
+#+END_SRC
+
+Anscombe se inició es la filosofía indagando en dos temas: 
+Causalidad y Percepción.
+Causalidad por Natural Theology
+Percepción por Nature of Belief
+
+La causalidad será el tema de su lección inaugural (causality and determination) en
+1971 en cambridge. Está presente también en "intention".
+
+La percepción la lleva a involucrarse en la discusión con Price y el fenomenalismo en
+Oxford y con Wittgesntein en Cambridge.
+Se enfocará con frecuencia en problemas relacionados con la postura de la
+primera-persona. Como Witt, ella le da mucha importancia a la asimetria que hay en los
+verbos psicologicos entre primera-persona/tercera-persona, especificamente se fija en
+"Yo veo, yo recuerdo, yo pienso (no el ve, el recuerda y el piensa). Esta centralidad
+de la primera persona será un grano de verdad que anscombe ve en el fenomenalismo y que
+trata de sacar.
+En el tema de la percepción además entra en la discusión entre fenomenalismo y
+lenguaje-ordinario (austin) proponiendo la distinción entre objetos intencionales y
+objetos materiales.
+
+
+*** DONE De Wittgenstein a Anscombe
+    CLOSED: [2018-04-14 Sat 11:48]
+#+BEGIN_SRC latex
+  \ifdraft{\subsubsection{De Wittgenstein a Anscombe}}{} 
+  En el 1929 Wittgenstein presentó el Tractatus Logico\=/Philosophicus como su
+  tesis doctoral en Cambridge. Ese mismo año fue designado como profesor en
+  ``Trinity College'', allí estaría hasta 1936.
+#+END_SRC
+
+*** DONE Causalidad, reflexiones iniciales de Anscombe
+#+BEGIN_SRC latex
+  \ifdraft{\subsubsection{Causalidad reflexiones iniciales de Anscombe}}{}
+
+  Por aquella época de mediados de los 30 la joven Gertrude Elizabeth Margaret
+  Anscombe, andaba buscando un buen argumento que demostrara que todo lo que
+  existe tiene que tener una causa. ¿Por qué cuando algo ocurre estamos seguros de
+  que tiene una causa? Nadie sabía darle una respuesta.\autocite[cf.~][p.~vii
+  ]{anscombe1981metaphysicsintro} Así, sin darse cuenta, se iniciaba en la ardua
+  tarea de la filosofía. Rigurosa y enérgica desde el principio.
+
+  El origen de su peculiar curiosidad por la causalidad se hallaba en una obra
+  llamada `Teología Natural' escrita por un jesuita del siglo XIX. Había llegado a
+  este libro motivada por su conversión a la Iglesia
+  Católica.\autocite[cf.~][p.~vii]{anscombe1981metaphysicsintro} El tratado le
+  resultó problemático en dos cuestiones.
+
+  La primera fue la doctrina de la \emph{`scientia media'}, según la cual Dios
+  tiene conocimiento, por ejemplo, de lo que alguien podría haber hecho si no
+  hubiera muerto cuando murió. A Elizabeth le parecía que lo que hubiera ocurrido
+  si lo que pasó no hubiera pasado simplemente no existe; no hay qué conocer. Y no
+  podía creer esto. Anscombe tuvo la oportunidad de discutir esta preocupación con
+  Richard Kehoe durante su preparación religiosa en su primer año en Oxford. La
+  dificultad para creer aquella doctrina le parecía un límite para aceptar la fe
+  católica. Richard le aclaró que no hacía falta que creyera en eso. Con el tiempo
+  entendió que se trataba de una discusión de escuela, en la que los jesuítas y
+  dominicos entablaron una ardua disputa y que la postura que ella había adoptado
+  era la qu había sido defendida por los
+  dominicos.\autocite[cf.~][p.~vii]{anscombe1981metaphysicsintro}
+
+  La segunda cuestión problematica la encontró en un argumento sobre la existencia
+  de la `Causa Primera'. El tratado ofrecía como preliminar al argumento una
+  demostración de un `principio de causalidad' según el cual todo cuanto existe
+  tiene que tener una causa. Anscombe notó, escasamente escondido en una premisa,
+  un presupuesto de la conclusión del propio argumento. Aquel \emph{petitio
+    principii} le pareció un simple descuido y resolvió, por tanto, escribir una
+  versión mejorada de la demostración. Durante los siguientes dos o tres años
+  produjo unas cinco versiones que le parecían satisfactorias, sin embargo
+  eventualmente descubría que contenían la misma falacia, cada vez disimulada más
+  astutamente. Todo este esfuerzo lo realizó sin ninguna enseñanza formal en
+  filosofía, incluso su último intento de argumento lo hizo antes de estudiar
+  `Greats'.\autocite[cf.~][p.~vii]{anscombe1981metaphysicsintro}
+#+END_SRC
+
+*** DONE Oxford: La Percepción y el fenomenalismo de Price 
+#+BEGIN_SRC latex
+  \ifdraft{\subsubsection{Oxford: La Percepción y el fenomenalismo de Price}}{}
+
+  Sus lecturas en torno a su conversión fueron motivo de más reflexiones. Esta
+  vez, como fruto de \emph{The Nature of Belief} de Martin D'Arcy, se interesó por
+  el tema de la percepción. Durante años ocupaba su tiempo, en cafeterías, por
+  ejemplo, mirando fijamente objetos, diciendose a sí misma: <<Veo un paquete.
+  ¿Pero qué veo realmente? ¿Cómo puedo decir que veo algo más que una extensión
+  amarilla?>>\autocite[cf.~][p.~viii]{anscombe1981metaphysicsintro}
+
+  Al principio su impresión era que lo que veía eran objetos:
+  \citalitinterlin{Estaba segura de que veía objetos, como paquetes de cigarrillos
+    o tazas o\ldots~cualquier cosa más o menos sustancial
+    servía.}\autocite[p.~viii]{anscombe1981metaphysicsintro} Además creía que
+  debemos de conocer la categoría de un objeto cuando hablamos de él, eso
+  corresponde a la lógica del término usado para hablar del objeto y no de algún
+  descubrimiento empírico. Estas ideas, sin embargo, las había desarrollado
+  fijándose en artefactos urbanos. Los ejemplos de percepción de la naturaleza que
+  más la impactaron fueron `madera' y el cielo. Este último le hizo retractarse de
+  su creencia sobre el conocimiento lógico de la categoría de los
+  objetos.\autocite[cf.~][p.~viii]{anscombe1981metaphysicsintro}
+
+  Sus indagaciones sobre la percepción, así como le ocurrió con la causalidad,
+  fueron previas al periodo de `Greats' donde estudiaría formalmente la filosofía.
+  Ya desde `Mods' asistía a las lecciones de H.H.~Price sobre percepción y
+  fenomenalismo. De todos los que escuchó en Oxford fue quién le inspiró mayor
+  respeto, no porque estuviera de acuerdo con lo que decía, sino porque hablaba de
+  lo que había que hablar. El único libro suyo que le pareció realmente bueno fue
+  \emph{Hume's Theory of the External World} y lo leyó sin interrupción de
+  principio a fin. Fue Price quien despertó en ella un intenso interés por el
+  capítulo de Hume sobre ``Del escepticismo con respecto a los sentidos''. Aunque
+  le parecía que Price tendía a suavizar a Hume, el hecho de que escribiera sobre
+  él le parecia que era escribir sobre las cosas mismas que merecía la pena
+  discutir. Asncombe, sin embargo, odiaba el fenomenalismo y se sentía atrapada
+  por él, pero no sabía salir de él, o rebatirlo. La postura escéptica tampoco la
+  convencía como para adoptarla y no la dejaba satisfecha. Esta insatisfacción no
+  haría más que crecer en sus años en Oxford.
+  \autocites[cf.~][p.~viii]{anscombe1981metaphysicsintro}
+  [~y~][p.~26]{torralba2005accion}
+#+END_SRC
+
+*** TODO En Cambridge con Wittgenstein 
+    1. Wittgenstein está en época de transición.
+    2. La metodología terapéutica y franca de Wittgenstein fue liberadora
+
+#+BEGIN_SRC latex
+    \ifdraft{\subsubsection{En Cambrdige con Wittgenstein}}{}
+
+    En las lecciones con Wittgenstein en Cambridge fue que el pensamiento central
+    <<Tengo \emph{esto}, y defino `amarillo' como \emph{esto}>> fue efectivamente
+    atacado. Anscombe misma lo narra usando dos ejemplos:
+
+    \citalitlar{En cierto punto Wittgenstein estaba discutiendo en sus clases la
+      interpretación del letrero (sign-post), y estalló en mi que el modo en que
+      vas según éste es la interpretación
+      final.\autocite[p.~viii]{andcombe1981metaphysicsintro}}
+
+  En \emph{Investigaciones Filosóficas} \S198 
+
+  toda interpretación queda sostenida en el aire junto con lo que interpreta, y no
+  puede darle a ésto ningún apoyo. Las interpretaciones por sí solas no determinan
+  el significado.
+
+    Aquí Elizabeth se refiere a \autocite[p.~86~\S198]{PI}
+
+    \citalitlar{En otra ocasión salí con: <<Pero todavía quiero decir: ``Azul esta
+      ahí''>>. [\ldots] [Wittgenstein] dijo: <<Déjame pensar qué medicina
+      necesitas\ldots>> <<Supón que tenemos la palabra \emph{`painy'}, como una
+      palabra para la propiedad de ciertas superficies>>. La `medicina' fue efectiva
+      [\ldots] Si \emph{`painy'} fuera una palabra posible para una cualidad
+      secundaria, ¿no podría el mismo motivo conducirme a decir: \emph{`painy'} esta
+      aquí que lo que me condujo a decir azul está aquí? Mi expresión no significaba
+      que `azul' es el nombre de esta sensación que estoy teniendo, ni cambié a ese
+      pensamiento.\autocite[p.~viii]{andcombe1981metaphysicsintro}}
+
+    The issue's significance can be seen by considering how the argument is
+    embedded in the structure of Philosophical Investigations. Immediately
+    prior to the introduction of the argument (§§241f), Wittgenstein suggests
+    that the existence of the rules governing the use of language and making
+    communication possible depends on agreement in human behaviour—such as the
+    uniformity in normal human reaction which makes it possible to train most
+    children to look at something by pointing at it. (Unlike cats, which react
+    in a seemingly random variety of ways to pointing.) One function of the
+    private language argument is to show that not only actual languages but
+    the very possibility of language and concept formation depends on the
+    possibility of such agreement.
+
+    Another, related, function is to oppose the idea that metaphysical
+    absolutes are within our reach, that we can find at least part of the
+    world as it really is in the sense that any other way of conceiving that
+    part must be wrong (cf. Philosophical Investigations p. 230). Philosophers
+    are especially tempted to suppose that numbers and sensations are examples
+    of such absolutes, self-identifying objects which themselves force upon us
+    the rules for the use of their names. Wittgenstein discusses numbers in
+    earlier sections on rules (185–242). Some of his points have analogues in
+    his discussion of sensations, for there is a common underlying confusion
+    about how the act of meaning determines the future application of a
+    formula or name. In the case of numbers, one temptation is to confuse the
+    mathematical sense of ‘determine’ in which, say, the formula y = 2x
+    determines the numerical value of y for a given value of x (in contrast
+    with y > 2x, which does not) with a causal sense in which a certain
+    training in mathematics determines that normal people will always write
+    the same value for y given both the first formula and a value for x—in
+    contrast with creatures for which such training might produce a variety of
+    outcomes (cf. §189). This confusion produces the illusion that the result
+    of an actual properly conducted calculation is the inevitable outcome of
+    the mathematical determining, as though the formula's meaning itself were
+    shaping the course of events.
+
+    In the case of sensations, the parallel temptation is to suppose that they
+    are self-intimating. Itching, for example, seems like this: one just feels
+    what it is directly; if one then gives the sensation a name, the rules for
+    that name's subsequent use are already determined by the sensation itself.
+    Wittgenstein tries to show that this impression is illusory, that even
+    itching derives its identity only from a sharable practice of expression,
+    reaction and use of language. If itching were a metaphysical absolute,
+    forcing its identity upon me in the way described, then the possibility of
+    such a shared practice would be irrelevant to the concept of itching: the
+    nature of itching would be revealed to me in a single mental act of naming
+    it (the kind of mental act which Russell called ‘acquaintance’); all
+    subsequent facts concerning the use of the name would be irrelevant to how
+    that name was meant; and the name could be private. The private language
+    argument is intended to show that such subsequent facts could not be
+    irrelevant, that no names could be private, and that the notion of having
+    the true identity of a sensation revealed in a single act of acquaintance
+    is a confusion.
+
+
+
+
+      \begin{revision}
+         ``For a large class of cases of the employment of the word ‘meaning’—though not
+         for all—this way can be explained in this way: the meaning of a word is its use
+         in the language'' (PI 43). This basic statement is what underlies the change of
+         perspective most typical of the later phase of Wittgenstein's thought: a change
+         from a conception of meaning as representation to a view which looks to use as
+         the crux of the investigation. 
+         \end{revision}
+
+        \begin{revision}
+        Philosophical Investigations:
+        --Undertake an investigation, leading, not to the construction of new and
+        surprising theories or explanations, but the examination of our life with
+        language. This is a grammatical investigation PI~\S90 
+        --The ideas of explanation and discovery are misleading and inappropiate when
+        applied to questions like: what is meaning?
+        --We feel as if we had to repair a spider web with our fingers PI~\S106
+        --PI~\S129
+        --By putting details together in the right way or by using a new analogy or
+        comparison to prompt us to see our practice of using language in a new light, we
+        find that we achieve the understanding that we thought would only come with the
+        construction of an explanatory account. RFGB, p.30
+        --Philosopher's questions must be treated like an illness is treated. PI~\S133
+        and \S255.
+        --The aim of grammatical investigations is perspicious representation PI~\S122
+        --Meaning is use.
+        --The question of a philosopher is: how do I go about this?
+        \end{revision}
+
+
+        \begin{revision}
+        What marks the transition from early to later Wittgenstein can be summed up as
+        the total rejection of dogmatism, i.e., as the working out of all the
+        consequences of this rejection. The move from the realm of logic to that of
+        ordinary language as the center of the philosopher's attention; from an emphasis
+        on definition and analysis to ‘family resemblance’ and ‘language-games’; and
+        from systematic philosophical writing to an aphoristic style—all have to do with
+        this transition towards anti-dogmatism in its extreme. It is in the
+        Philosophical Investigations that the working out of the transitions comes to
+        culmination. Other writings of the same period, though, manifest the same
+        anti-dogmatic stance, as it is applied, e.g., to the philosophy of mathematics
+        or to philosophical psychology.
+        \end{revision}
+
+
+
+
+        2. La metodología terapéutica y franca de Wittgenstein fue liberadora
+        \begin{revision}
+
+
+
+        El método terapeútico de Wittgenstein tuvo éxito en liberarla de confusiones
+        filosóficas donde otras metodologíás mas teoréticas habían fallado. En sus
+        estudios en St. Hugh's escuchaba a Price/ldots
+        \end{revision}
+
+
+        \begin{revision}
+        Este modo de criticar una proposición desvelando que no expresa un pensamiento
+        verdadero ilustra los principios propuestos en el \emph{Tractatus} y recuerda
+        una de sus tesis más conocidas: 
+        En el prefacio de las Investigaciones Filosóficas, con fecha de enero de 1945
+        Wittgenstein dice que los pensamientos que publica en el libro son el
+        precipitado de invetigaciones filosóficas que le han ocupado durante los pasados
+        16 años. En enero 1929 Wittgenstein estaba regresando a Cambridge.
+        \end{revision}
+
+
+        \begin{revision}
+        En ocasiones como esta la
+        discusión con Wittgenstein llevaba a Anscombe a afirmaciones para las cuales no
+        podía ofrecer mejor significado que los sugeridos por concepciones ingenuas. Una
+        concepción así no es otra cosa que ausencia de pensamiento, pero su falta de
+        significado no es evidente, sino que requiere de la fuerza de un `Copérnico'
+        para ponerla en cuestión efectivamente.\autocite[cf. 151]{IWT} 
+        \end{revision}
+#+END_SRC
+
+
+
+#+BEGIN_SRC latex
+      Anscombe conoció a Wittgenstein en los años culminantes de su pensamiento
+      filosófico. 
+      Al comienzo de sus lecciones en 1944 Wittgenstein escribía a su amigo Rush Rhees:
+      \citalitinterlin{
+          \ldots mis clases no han ido tan mal. Thouless esta asistiendo, y una mujer, 
+          'Mrs so and so'
+          que se llama a sí misma 
+          'Miss Anscombe',
+          que ciertamente es inteligente, aunque no del calibre de Kreisel.
+          \autocite[p.~371]{cambridgeletters}
+      }
+      Un año mas tarde escribía a Norman Malcolm:
+      \citalitinterlin{
+          \ldots mi clase ahora es bastante grande, 19 personas. \ldots Smythies esta
+          viniendo, y una mujer que es muy buena, es decir, más que solamente
+          inteligente\ldots 
+          \autocite[p.~388]{cambridgeletters}
+      }
+      Aquellos años no sólo creció en Wittgenstein la apreciación de la capacidad de
+      Anscombe, sino que se afianzó entre ellos una estrecha amistad. 
+
+      La influencia de Wittgenstein fue decisiva para el desarrollo filosófico de
+      Elizabeth. Las lecciones con Wittgenstein eran directas y con franqueza. Esta
+      metodología carente de cualquier parafernalia era inquietante para algunos,
+      inspiradora para otros, pero fue tremendamente liberadora para
+      ella.\autocite[loc 9853 Chapter 4, Section 24, \S5]{monk} Esta libertad
+      quedaba demostrada en que Anscombe no se contentaba con repetir lo que decía
+      Wittgenstein, sino que pensaba por sí misma; en esto precisamente era más fiel
+      al espíritu de la filosofía que había aprendido de él. Sobre esta relación,
+      Phillipa Foot, amiga de ambos, cuenta que durante mucho tiempo sostuvo
+      objeciones a las afirmaciones de Wittgenstein, eventualmente, un comentario de
+      Norman Malcom la hizo pensar que podía haber valor en lo que Wittgenstein decía.
+      Cuestionó entonces a Anscombe: 
+      ``¿Por qué no me dijiste?'', ella le contestó: ``Porque es importante que uno
+      tenga sus resistencias''. Anscombe evidentemente pensaba ---continúa Foot: 
+      \citalitlar{
+          que un largo periodo de vigorosa objeción era la mejor manera de entender a
+          Wittgenstein. Aun cuando era su amiga cercana y albacea literaria, y una de
+          los primeros en reconocer su grandeza, nada podía ser más lejano de su
+          carácter y modo de pensamiento que el discipulado.\autocite[p.~4]{teichmann}
+      }
+
+      Peter geach que dice que les ayudó que estudiaron otros filósofos antes de
+      Wittgenstein.
+
+ \pnote{introducir algunos contrastes y relaciones entre
+        Anscombe y Wittgenstein para explicar la incursión en la vida/pensamiento
+        de W.}
+#+END_SRC
+
+
+** Investigaciones Filosóficas
+** Anscombe en Oxford
+** Anscombe en Cambridge
+
+Torralba p. 25:
+Durante el tercer año empezó a hallar respuestas...
+Causality and Determination
+ La tesis principal de Anscombe...
+
+** TODO Wittgenstein y la fe
+BEGIN_SRC latex
+    \subsection{Wittgenstein y la fe}
+    \todo{En casa de Anscombe, hablando de la fe}
+    \todo{From IWT: la verdad de la teoría de la imagen sería el fin de la teología
+        natural} 
+    \todo{Inquietud respecto del esfuerzo de explicar racionalmente la fe} 
+    \todo{Necesidad de contexto}
+
+    \begin{revision}
+    Es una gran bendición para mi poder trabajar hoy. ¡Pero cuán fácilmente olvido
+    todas mis bendiciones!
+    Estoy leyendo: ``Y ningún hombre puede decir Jesús es el Señor, sino el Espíritu
+    Santo.''(1Co 3) Y es cierto: Yo no puedo llamarlo \emph{Señor}; porque eso no me
+    dice absolutamente nada. Sí podría llamarlo 'el ejemplo por excelencia', 'Dios'
+    incluso o quizás: puedo entenderlo cuando es llamado de ese modo; pero Yo no
+    puedo pronunciar la palabra ``Señor'' significativamente. \emph{Porque yo no
+    creo} que el vendrá a juzgarme; porque \emph{eso} no me dice nada. Y sólo me
+    diría algo si yo viviera de un modo considerablemente distinto.
+
+    ¿Qué me hace inclinarme incluso a mi a creer en la resurrección de Cristo?
+    Entretengo la idea por así decirlo. ---Si él no ha resucitado de los muertos,
+    entonces se descompuso en la tumba como cualquier otro ser humano. \emph{Esta
+    muerto y descompuesto.} En ese caso es un maestro, como cualquier otro y
+    entonces ya no puede \emph{ayudar} más; y estamos una vez más huérfanos y solos.
+    Y tengo que arreglármelas con la sabiduría y la especulación. Es como si
+    estuvieramos en un infierno, en el que solo podemos soñar y estamos dejados
+    fuera del cielo, atrapados bajo el techo, diriamos. Pero si REALMENTE voy a ser
+    redimido, ---necesito \emph{certeza}--- no sabiduría, sueños, especulación--- y
+    esta certeza es la fe. Y fe es fe en lo que mi \emph{corazón}, mi \emph{alma},
+    necesita, no mi intelecto especulativo. Pues mi alma, con sus pasiones, con su
+    carne y sangre, diría, tiene que ser redimida, no mi mente abstracta. Quizás uno
+    podría decir: Sólo el \emph{amor} puede creer la Resurrección. O: es el
+    \emph{amor} lo que cree la Resurrección. Uno puede decir: el amor redentor cree
+    incluso en la Resurrección; se sostiene firme incluso hasta la Resurrección. Lo
+    que lucha con la duda es, por decirlo de algún modo, la redención. Sostenerse
+    firmemente en esto tiene que ser mantenerse firme en esta creencia. Así esto
+    significa: primero se redimido y sujétate firmemente de tu redención (sostente en tu
+    redención) --- entonces veras que a lo que te estás sujetando es a esta
+    creencia. Así que esto sólo puede ocurrir si ya no te sujetas de esta tierra,
+    sino que te suspendes desde el cielo. Entonces \emph{todo} es distinto y 'no
+    será sorpresa' el que puedas hacer entonces lo que ahora no puedes. (Es verdad
+    que alguien que está suspendido se ve como alguien que está de pie, pero la
+    interacción de fuerzas dentro de él es sin embargo una completamente distinta, y
+    de ahí que sea capaz de hacer cosas bastante distintas de las que puede hacer
+    alguien que está de pie). (Culture and Value p.38-39 MS 120 108 c: 12.12.1937)
+    \end{revision}
+END_SRC
+* /Disputatio/
+:DEFINITION:
+Lo problemático
+:END:
+
+:STATEMENT:
+Qué efectos tiene W. en A.?
+:END:
+
+* /Solutio/
+:DEFINITION:
+La salida o desenrredo
+:END:
+
+* /In testimonium/
+:DEFINITION:
+Lo relacionado con el tesimonio
+:END:
+
+* [Local Variables]
+# Local Variables:
+# mode: org
+# mode: auto-fill
+# mode: visual-line
+# word-wrap:t
+# truncate-lines: t
+# org-hide-emphasis-markers: t
+# End:
