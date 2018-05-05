@@ -861,7 +861,7 @@ into the open
     \todo{Añadir como conclusión del resumen la finalidad ética del tratado.}
 #+END_SRC
 
-** TODO Formación filosófica de Elizabeth [75%]
+** TODO La filosofía de Elizabeth [75%]
 :STATEMENT:
 Esta no es una biografía de Anscombe, esa estará en la Introducción.
 Esto será un recorrido por su desarrollo intelectual estrictamente.
@@ -991,104 +991,168 @@ objetos materiales.
     2. La metodología terapéutica y franca de Wittgenstein fue liberadora
 
 #+BEGIN_SRC latex
-   \ifdraft{\subsubsection{En Cambrdige con Wittgenstein}}{}
+       \ifdraft{\subsubsection{En Cambrdige con Wittgenstein}}{}
 
-   En las lecciones con Wittgenstein en Cambridge fue que el pensamiento central
-   <<Tengo \emph{esto}, y defino `amarillo' como \emph{esto}>> fue efectivamente
-   atacado.
+       En las lecciones con Wittgenstein en Cambridge fue que el pensamiento central
+       <<Tengo \emph{esto}, y defino `amarillo' como \emph{esto}>> fue efectivamente
+       atacado. Anscombe misma lo narra usando dos ejemplos:
 
-   En una ocasión en estas clases Wittgenstein estaba discutiendo la interpretación
-   del letrero\autocite[p.~86~\S198]{PI}, y estalló en mi que el modo en que vas
-   según éste es la interpretación final.
+       \citalitlar{En cierto punto Wittgenstein estaba discutiendo en sus clases la
+         interpretación del letrero (sign-post), y estalló en mi que el modo en que vas según éste
+         es la interpretación final.\autocite[p.~viii]{andcombe1981metaphysicsintro}}
 
-   En otra ocasión salí con ``Pero todavía quiero decir: <<Azul esta ahí>>''.
-   Wittgenstein respondió: <<Déjame pensar qué medicina necesitas\ldots>> <<Supón
-   que tenemos la palabra `painy' ``(dolorante/doloreño)'', como una palabra para
-   la propiedad de ciertas superficies>>. La medicina fue efectiva. Si dolorante
-   fuera una palabra posible para una cualidad secundaria, ¿no podría el mismo
-   motivo conducirme a decir: Dolorante esta aquí que lo que me condujo a decir
-   azul está aquí? Mi expresión no significaba que ``azul'' es el nombre de esta
-   sensación que estoy teniendo, ni cambié a ese pensamiento.
+     En \emph{Investigaciones Filosóficas} \S198 
 
-  \begin{revision}
-     ``For a large class of cases of the employment of the word ‘meaning’—though not
-     for all—this way can be explained in this way: the meaning of a word is its use
-     in the language'' (PI 43). This basic statement is what underlies the change of
-     perspective most typical of the later phase of Wittgenstein's thought: a change
-     from a conception of meaning as representation to a view which looks to use as
-     the crux of the investigation. 
-     \end{revision}
+     toda interpretación queda sostenida en el aire junto con lo que interpreta, y no
+     puede darle a ésto ningún apoyo. Las interpretaciones por sí solas no determinan
+     el significado.
 
+       Aquí Elizabeth se refiere a \autocite[p.~86~\S198]{PI}
+
+       \citalitlar{En otra ocasión salí con: <<Pero todavía quiero decir: ``Azul esta
+         ahí''>>. [\ldots] [Wittgenstein] dijo: <<Déjame pensar qué medicina
+         necesitas\ldots>> <<Supón que tenemos la palabra \emph{`painy'}, como una
+         palabra para la propiedad de ciertas superficies>>. La `medicina' fue efectiva
+         [\ldots] Si \emph{`painy'} fuera una palabra posible para una cualidad
+         secundaria, ¿no podría el mismo motivo conducirme a decir: \emph{`painy'} esta
+         aquí que lo que me condujo a decir azul está aquí? Mi expresión no significaba
+         que `azul' es el nombre de esta sensación que estoy teniendo, ni cambié a ese
+         pensamiento.\autocite[p.~viii]{andcombe1981metaphysicsintro}}
+
+       The issue's significance can be seen by considering how the argument is
+       embedded in the structure of Philosophical Investigations. Immediately
+       prior to the introduction of the argument (§§241f), Wittgenstein suggests
+       that the existence of the rules governing the use of language and making
+       communication possible depends on agreement in human behaviour—such as the
+       uniformity in normal human reaction which makes it possible to train most
+       children to look at something by pointing at it. (Unlike cats, which react
+       in a seemingly random variety of ways to pointing.) One function of the
+       private language argument is to show that not only actual languages but
+       the very possibility of language and concept formation depends on the
+       possibility of such agreement.
+
+       Another, related, function is to oppose the idea that metaphysical
+       absolutes are within our reach, that we can find at least part of the
+       world as it really is in the sense that any other way of conceiving that
+       part must be wrong (cf. Philosophical Investigations p. 230). Philosophers
+       are especially tempted to suppose that numbers and sensations are examples
+       of such absolutes, self-identifying objects which themselves force upon us
+       the rules for the use of their names. Wittgenstein discusses numbers in
+       earlier sections on rules (185–242). Some of his points have analogues in
+       his discussion of sensations, for there is a common underlying confusion
+       about how the act of meaning determines the future application of a
+       formula or name. In the case of numbers, one temptation is to confuse the
+       mathematical sense of ‘determine’ in which, say, the formula y = 2x
+       determines the numerical value of y for a given value of x (in contrast
+       with y > 2x, which does not) with a causal sense in which a certain
+       training in mathematics determines that normal people will always write
+       the same value for y given both the first formula and a value for x—in
+       contrast with creatures for which such training might produce a variety of
+       outcomes (cf. §189). This confusion produces the illusion that the result
+       of an actual properly conducted calculation is the inevitable outcome of
+       the mathematical determining, as though the formula's meaning itself were
+       shaping the course of events.
+
+       In the case of sensations, the parallel temptation is to suppose that they
+       are self-intimating. Itching, for example, seems like this: one just feels
+       what it is directly; if one then gives the sensation a name, the rules for
+       that name's subsequent use are already determined by the sensation itself.
+       Wittgenstein tries to show that this impression is illusory, that even
+       itching derives its identity only from a sharable practice of expression,
+       reaction and use of language. If itching were a metaphysical absolute,
+       forcing its identity upon me in the way described, then the possibility of
+       such a shared practice would be irrelevant to the concept of itching: the
+       nature of itching would be revealed to me in a single mental act of naming
+       it (the kind of mental act which Russell called ‘acquaintance’); all
+       subsequent facts concerning the use of the name would be irrelevant to how
+       that name was meant; and the name could be private. The private language
+       argument is intended to show that such subsequent facts could not be
+       irrelevant, that no names could be private, and that the notion of having
+       the true identity of a sensation revealed in a single act of acquaintance
+       is a confusion.
+
+
+
+
+         \begin{revision}
+            ``For a large class of cases of the employment of the word ‘meaning’—though not
+            for all—this way can be explained in this way: the meaning of a word is its use
+            in the language'' (PI 43). This basic statement is what underlies the change of
+            perspective most typical of the later phase of Wittgenstein's thought: a change
+            from a conception of meaning as representation to a view which looks to use as
+            the crux of the investigation. 
+            \end{revision}
+
+           \begin{revision}
+           Philosophical Investigations:
+           --Undertake an investigation, leading, not to the construction of new and
+           surprising theories or explanations, but the examination of our life with
+           language. This is a grammatical investigation PI~\S90 
+           --The ideas of explanation and discovery are misleading and inappropiate when
+           applied to questions like: what is meaning?
+           --We feel as if we had to repair a spider web with our fingers PI~\S106
+           --PI~\S129
+           --By putting details together in the right way or by using a new analogy or
+           comparison to prompt us to see our practice of using language in a new light, we
+           find that we achieve the understanding that we thought would only come with the
+           construction of an explanatory account. RFGB, p.30
+           --Philosopher's questions must be treated like an illness is treated. PI~\S133
+           and \S255.
+           --The aim of grammatical investigations is perspicious representation PI~\S122
+           --Meaning is use.
+           --The question of a philosopher is: how do I go about this?
+           \end{revision}
+
+
+           \begin{revision}
+           What marks the transition from early to later Wittgenstein can be summed up as
+           the total rejection of dogmatism, i.e., as the working out of all the
+           consequences of this rejection. The move from the realm of logic to that of
+           ordinary language as the center of the philosopher's attention; from an emphasis
+           on definition and analysis to ‘family resemblance’ and ‘language-games’; and
+           from systematic philosophical writing to an aphoristic style—all have to do with
+           this transition towards anti-dogmatism in its extreme. It is in the
+           Philosophical Investigations that the working out of the transitions comes to
+           culmination. Other writings of the same period, though, manifest the same
+           anti-dogmatic stance, as it is applied, e.g., to the philosophy of mathematics
+           or to philosophical psychology.
+           \end{revision}
+
+
+
+
+           2. La metodología terapéutica y franca de Wittgenstein fue liberadora
+           \begin{revision}
+
+
+
+           El método terapeútico de Wittgenstein tuvo éxito en liberarla de confusiones
+           filosóficas donde otras metodologíás mas teoréticas habían fallado. En sus
+           estudios en St. Hugh's escuchaba a Price/ldots
+           \end{revision}
+
+
+           \begin{revision}
+           Este modo de criticar una proposición desvelando que no expresa un pensamiento
+           verdadero ilustra los principios propuestos en el \emph{Tractatus} y recuerda
+           una de sus tesis más conocidas: 
+           En el prefacio de las Investigaciones Filosóficas, con fecha de enero de 1945
+           Wittgenstein dice que los pensamientos que publica en el libro son el
+           precipitado de invetigaciones filosóficas que le han ocupado durante los pasados
+           16 años. En enero 1929 Wittgenstein estaba regresando a Cambridge.
+           \end{revision}
+
+
+           \begin{revision}
+           En ocasiones como esta la
+           discusión con Wittgenstein llevaba a Anscombe a afirmaciones para las cuales no
+           podía ofrecer mejor significado que los sugeridos por concepciones ingenuas. Una
+           concepción así no es otra cosa que ausencia de pensamiento, pero su falta de
+           significado no es evidente, sino que requiere de la fuerza de un `Copérnico'
+           para ponerla en cuestión efectivamente.\autocite[cf. 151]{IWT} 
+           \end{revision}
 #+END_SRC
 
-    \begin{revision}
-    Philosophical Investigations:
-    --Undertake an investigation, leading, not to the construction of new and
-    surprising theories or explanations, but the examination of our life with
-    language. This is a grammatical investigation PI~\S90 
-    --The ideas of explanation and discovery are misleading and inappropiate when
-    applied to questions like: what is meaning?
-    --We feel as if we had to repair a spider web with our fingers PI~\S106
-    --PI~\S129
-    --By putting details together in the right way or by using a new analogy or
-    comparison to prompt us to see our practice of using language in a new light, we
-    find that we achieve the understanding that we thought would only come with the
-    construction of an explanatory account. RFGB, p.30
-    --Philosopher's questions must be treated like an illness is treated. PI~\S133
-    and \S255.
-    --The aim of grammatical investigations is perspicious representation PI~\S122
-    --Meaning is use.
-    --The question of a philosopher is: how do I go about this?
-    \end{revision}
-
-
-    \begin{revision}
-    What marks the transition from early to later Wittgenstein can be summed up as
-    the total rejection of dogmatism, i.e., as the working out of all the
-    consequences of this rejection. The move from the realm of logic to that of
-    ordinary language as the center of the philosopher's attention; from an emphasis
-    on definition and analysis to ‘family resemblance’ and ‘language-games’; and
-    from systematic philosophical writing to an aphoristic style—all have to do with
-    this transition towards anti-dogmatism in its extreme. It is in the
-    Philosophical Investigations that the working out of the transitions comes to
-    culmination. Other writings of the same period, though, manifest the same
-    anti-dogmatic stance, as it is applied, e.g., to the philosophy of mathematics
-    or to philosophical psychology.
-    \end{revision}
-
-
- 
-   
-    2. La metodología terapéutica y franca de Wittgenstein fue liberadora
-    \begin{revision}
-
-
-
-    El método terapeútico de Wittgenstein tuvo éxito en liberarla de confusiones
-    filosóficas donde otras metodologíás mas teoréticas habían fallado. En sus
-    estudios en St. Hugh's escuchaba a Price/ldots
-    \end{revision}
-
-   
-    \begin{revision}
-    Este modo de criticar una proposición desvelando que no expresa un pensamiento
-    verdadero ilustra los principios propuestos en el \emph{Tractatus} y recuerda
-    una de sus tesis más conocidas: 
-    En el prefacio de las Investigaciones Filosóficas, con fecha de enero de 1945
-    Wittgenstein dice que los pensamientos que publica en el libro son el
-    precipitado de invetigaciones filosóficas que le han ocupado durante los pasados
-    16 años. En enero 1929 Wittgenstein estaba regresando a Cambridge.
-    \end{revision}
-    
-    
-    \begin{revision}
-    En ocasiones como esta la
-    discusión con Wittgenstein llevaba a Anscombe a afirmaciones para las cuales no
-    podía ofrecer mejor significado que los sugeridos por concepciones ingenuas. Una
-    concepción así no es otra cosa que ausencia de pensamiento, pero su falta de
-    significado no es evidente, sino que requiere de la fuerza de un `Copérnico'
-    para ponerla en cuestión efectivamente.\autocite[cf. 151]{IWT} 
-    \end{revision}
 
 
 #+BEGIN_SRC latex

@@ -168,8 +168,20 @@ http://www.worldcat.org/oclc/873936079
                     thought.}
   }
 #+END_SRC
+***** Faith 
+#+BEGIN_SRC bibtex :tangle primary.bib
+ @incollection{faith,
+ author = "Gertrude Elizabeth Margaret Anscombe",
+ booktitle = "Ethics, Religion and Politics",
+ title = "Faith",
+ publisher = "Blasil Blackwell, Oxford",
+ year = "1981",
+ keywords = "primary, anscombe, standrews",
+ }
+#+END_SRC
 
 *** St. Andrews Studies Collection (2005-2011)
+**** From Plato to Wittgenstein
 #+BEGIN_SRC bibtex :tangle primary.bib
 @mvcollection{anscombe2011parmenides,
 title={From Plato to Wittgenstein},
@@ -184,7 +196,37 @@ keywords={Anscombe Elizabeth; Primary Source; St Andrews}
 }
  #+END_SRC
 
+*****  Wittgenstein's 'two cuts' in the history of philosophy
+#+BEGIN_SRC bibtex :tangle primary.bib
+ @incollection{twocuts,
+ author = "Gertrude Elizabeth Margaret Anscombe",
+ booktitle = "From Plato to Wittgenstein",
+ title = "Wittgenstein's 'two cuts' in the history of philosophy",
+ publisher = "Imprint Academic",
+ year = "2011",
+ keywords = "primary, anscombe, standrews",
+ }
+#+END_SRC
+
+***** The Simplicity of the Tractatus
+#+BEGIN_SRC bibtex :tangle primary.bib
+ @incollection{simplicity,
+ author = "Gertrude Elizabeth Margaret Anscombe",
+ booktitle = "From Plato to Wittgenstein",
+ title = "The Simplicity of the Tractatus",
+ publisher = "Imprint Academic",
+ year = "2011",
+ keywords = "primary, anscombe, standrews",
+ }
+#+END_SRC
+
+
+
+
+
+
 * Secondary Sources 
+:DEFINITION:
 Secondary sources describe, discuss, interpret, comment upon, analyze, evaluate,
 summarize, and process primary sources.
 
@@ -193,6 +235,7 @@ of the event that was discussed or featured in the primary source.
 
 They are second-hand accounts that interpret or draw conclusions from one or more
 primary sources.
+:END:
 
 ** José María Torralba
 *** Acción intencional y razonamiento práctico según G.E.M. Anscombe
@@ -244,64 +287,6 @@ keywords = "bio, anscombe",
 %Anscombe 
 
 
-%St. Andrews Studies Essays Collection
-@book{FPW,
-editor = "Mary Geach and Luke Gormally",
-title = "From Plato to Wittgenstein",
-publisher = "Imprint Academic",
-year = "2011",
-keywords = "primary, anscombe, standrews",
-}
-
-@incollection{twocuts,
-author = "Gertrude Elizabeth Margaret Anscombe",
-booktitle = "From Plato to Wittgenstein",
-title = "Wittgenstein's 'two cuts' in the history of philosophy",
-publisher = "Imprint Academic",
-year = "2011",
-keywords = "primary, anscombe, standrews",
-}
-
-@incollection{simplicity,
-author = "Gertrude Elizabeth Margaret Anscombe",
-booktitle = "From Plato to Wittgenstein",
-title = "The Simplicity of the Tractatus",
-publisher = "Imprint Academic",
-year = "2011",
-keywords = "primary, anscombe, standrews",
-}
-
-
-%Collected Papers
-@book{M&PotM,
-author = "Gertrude Elizabeth Margaret Anscombe",
-title = "Metaphysics and the Philosophy of the Mind",
-series = "The Collected Philosophical Papers of G.E.M. Anscombe",
-volume = "2",
-publisher = "Blasil Blackwell, Oxford",
-year = "1981",
-keywords = "primary, anscombe, collected",
-}
-
-@book{ER&P,
-author = "Gertrude Elizabeth Margaret Anscombe",
-title = "Ethics, Religion and Politics",
-series = "The Collected Philosophical Papers of G.E.M. Anscombe",
-volume = "3",
-publisher = "Blasil Blackwell, Oxford",
-year = "1981",
-keywords = "primary, anscombe, collected",
-}
-
-%Collected Papers Articles
-@incollection{faith,
-author = "Gertrude Elizabeth Margaret Anscombe",
-booktitle = "Ethics, Religion and Politics",
-title = "Faith",
-publisher = "Blasil Blackwell, Oxford",
-year = "1981",
-keywords = "primary, anscombe, standrews",
-}
 
 %Books on Anscombe
 @book{teichmann,
