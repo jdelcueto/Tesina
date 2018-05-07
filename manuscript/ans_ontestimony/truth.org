@@ -1,4 +1,4 @@
-#+PROPERTY: header-args:latex :tangle ../../tex/ch3/truth.tex
+#+PROPERTY: header-args:latex :tangle ../../tex/ch4/truth.tex
 # ------------------------------------------------------------------------------------
 # Santa Teresa Benedicta de la Cruz, ruega por nosotros
 

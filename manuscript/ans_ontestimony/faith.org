@@ -1,4 +1,4 @@
-#+PROPERTY: header-args:latex :tangle ../../tex/ch3/faith.tex
+#+PROPERTY: header-args:latex :tangle ../../source/ch4/faith.tex
 # ------------------------------------------------------------------------------------
  
 * /Lectio/: 
@@ -37,10 +37,10 @@ analisis de la expresión 'creer a x que p' (fe humana) y 'creer a Dios que p'
 (fe divina).
 
 ** Propositio: "Fe y Conocimiento"
-#+BEGIN_SRC latex
++BEGIN_SRC latex
   % SECCIÓN 1: Fe y Conocimiento 
 \section{Fe y Conocimiento}
-#+END_SRC
++END_SRC
 
 
 * /////////////////////////////////////////////////////////
@@ -62,7 +62,7 @@ Además usará la noción de presupuestos de la fe, en lugar de hablar de
 preámbulos.
 :END:
  
-#+BEGIN_SRC latex
++BEGIN_SRC latex
 \subsection{Que se puede entender de la fe sin tenerla}  
 En Oscott College, el seminario de la Archidiócesis de Birmingham, se
   comenzaron a celebrar las conferencias llamadas \eng{Wiseman Lectures}
@@ -81,7 +81,7 @@ En Oscott College, el seminario de la Archidiócesis de Birmingham, se
   Dictionary'}: ``La actitud de la mente de uno que cree sin evidencia a uno que
   habla sin conocimiento cosas sin parangón''. ¿Qué deberíamos
   pensar de esto?\footcite[p.~115]{faith}} 
-#+END_SRC
++END_SRC
 
 
 * /Expositio/: Presuppositions of faith
@@ -93,16 +93,19 @@ on the best possible grounds."
 :END:
 
 ** Vamos a usar la pregunta planteada para introducir algunos preámbulos:
+#+BEGIN_SRC markdown
+# Heading 1
 ¿Qué deberíamos pensar de las definiciones que dan Russell y Bierce? ¿Esto es
 todo lo que se puede discernir sobre la fe desde una perspectiva no creyente?
 ¿Esto es todo lo que se puede decir sobre la fe desde una perspectiva no
 creyente?
 
-Hubo una época en la que se vivió gran entusiasmo por la racionalidad de la fe.
-El caracter racional de la fe estaba sujeto a los llamados preambulos y el paso
-de estos a la fe. Anscombe entiende que éstos son construcciones ideales. Al
-menos parte de ellos, sería más apropiado llamarles presuposiciones.
-
+Hubo una época en la que se vivió gran entusiasmo por la racionalidad de la
+fe. El caracter racional de la fe estaba sujeto a los llamados preambulos y el
+paso de estos a la fe. Anscombe entiende que éstos son construcciones ideales.
+Al menos parte de ellos, sería más apropiado llamarles
+presuposiciones.[@IWT, p. 115]
+#+END_SRC
 *** Presuposiciones
 Abraham tuvo fe porque: Abraham creyó que su descendencia sería tan numerosa
 como las estrellas porque creyó a Dios.
@@ -135,11 +138,11 @@ certeza sin prueba.
 ** Preámbulos: Significado de Fe y Racionalidad de la fe
 
 *** "The word was that the Catholic Christian Faith was Rational... a problem was how it was gratuitous"
-#+BEGIN_SRC latex 
++BEGIN_SRC latex 
 
-#+END_SRC
++END_SRC
 
-#+BEGIN_SRC latex
++BEGIN_SRC latex
 \subsection{``Solíamos creer que la fe católica era racional''} Habían pasado
 casi diez años de la clausura del Concilio \mbox{Vaticano II}; Anscombe comenzó
 su ponencia recordando cómo a finales de los años sesenta muchas homilias
@@ -153,11 +156,11 @@ Hubo una tiempo en el que se profesó gran entusiasmo por la racionalidad. Quiz�
 inspirado por las enseñanzas del Concilio Vaticano I contra el fideismo, pero
 ciertamente promovido por los estudios neo-tomistas. Se decía entre los
 entendidos que la fe Católica era racional, el problema era más bien 
-#+END_SRC
++END_SRC
 **** These opinions attached the character of rationality entirely to what were called the preambles and to the passage from the preambles to faith itself
 *** Faith=short for divine faith=believing God.
 
-#+BEGIN_SRC latex
++BEGIN_SRC latex
 \subsection{El significado de la palabra fe}
 
 En el trasfondo del análisis de Anscombe sobre la fe se halla otro trabajo suyo
@@ -181,7 +184,7 @@ estrellas del cielo, de este modo se describe su fe.
 
 
 
-#+END_SRC
++END_SRC
 
 
 * /Disputatio/: Believing God
