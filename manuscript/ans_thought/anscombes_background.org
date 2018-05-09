@@ -1,33 +1,13 @@
 #+PROPERTY: header-args:latex :tangle ../../tex/ch3/anscombes_background.tex
 # ------------------------------------------------------------------------------------
 
-* /Lectio/: 
-:DEFINITION:
-Lo recibido
-:END:
-:BIBLIO:
-An Introduction to Wittgenstein's Tractatus, Two Cuts
-:END:
-** Análisis
-Haremos un recorrido por la vida de Anscombe y Wittgenstein
-
-* /Propositum/:  
-:DEFINITION:
-Lo que se busca
-:END:
-:DESCRIPTION: 
-La filosofía de Wittgenstein como trasfondo para la de Anscombe
-:END:
-
-** Propositio: "Anscombe y Wittgenstein"
-
+* Propositio: "Filosofía de Wittgenstein como trasfondo"
 #+BEGIN_SRC latex
-%SECCIÓN 1: ANSCOMBE Y WITTGENSTEIN
-\section{Anscombe y Wittgenstein}
+%SECCIÓN 1: TRASFONDO FILOSÓFICO DE ELIZABETH
+\section{La filosofía de Wittgenstein como trasfondo}
 #+END_SRC
 
-* /////////////////////////////////////////////////////////
-* /Quaestio/: W.: turning point in philosophical method [100%]
+* /Quaestio 1/: W.: turning point in philosophical method [100%]
 :DEFINITION:
 Lo que se cuestiona
 :END:
@@ -40,38 +20,6 @@ Para W. el problema de la filosofía es un problema del lenguaje. El método de 
 filosofía, en consecuencia, es sacar a la luz la falta de referencia relativa a las
 proposiciones. 
 :END:
-:Lent41-1951:
-| L41                                                                              | E41                                                            | M41                                                               |
-| X                                                                                | X                                                              | X                                                                 |
-| L42                                                                              | E42                                                            | M42                                                               |
-| X                                                                                | X                                                              | Anscombe                                                          |
-| L43                                                                              | E43                                                            | M43                                                               |
-| Anscombe                                                                         | Newcastle                                                      | Newcastle                                                         |
-| L44                                                                              | E44                                                            | M44                                                               |
-| Swansea                                                                          | Swansea                                                        | Anscombe (nerve of phenomenalism extracted)                       |
-| L45                                                                              | E45                                                            | M45                                                               |
-| Anscombe                                                                         | Anscombe                                                       | Anscombe                                                          |
-| L46                                                                              | E46                                                            | M46                                                               |
-| Anscombe                                                                         | Anscombe                                                       | Anscombe at Oxford                                                |
-| L47                                                                              | E47                                                            | M47                                                               |
-| Anscombe at Oxford                                                               | Anscombe at Oxford                                             | Wittgenstein Sabbatical                                           |
-| 1948                                                                             | 1948                                                           | 1948                                                              |
-| Ireland                                                                          | Ireland                                                        | Ireland (Anscombe visits in december)                             |
-| 1949                                                                             | 1949                                                           | 1949                                                              |
-|                                                                                  | Ithaca (Malcolm) (July)                                        | 9 november: cambridge 25 november: diagnosed with prostate cancer |
-| 1950                                                                             | 1950                                                           | 1950                                                              |
-|                                                                                  | March left Vienna for London. April moved back to cambridge    | 25 of april went with anscombe in oxford                          |
-| october left for norway                                                          | came back to oxford and tried to go back in december to norway |                                                                   |
-|                                                                                  |                                                                |                                                                   |
-| february 1951 finally resolved to stay at bevan's home in storeys end, cambridge |                                                                |                                                                   |
-
-ANSCOMBE LLEGÓ A CAMBRIDGE EN M42 W. OFRECIA CLASES LOS SÁBADOS Y TRABAJABA EN
-GUY'S. DESDE E43 HASTA E44 NO DIO CLASES. EN M44 EMPEZÓ OTRA VEZ. EN L45 EMPEZÓ
-A TRABAJAR MATERIAL CORRESPONDIENTE A 189-421 PI!!!!!!
-En 1942 Elizabeth Anscombe llegó a Cambridge.
-
-:END:
-
 ** DONE El método de Wittgenstein
    CLOSED: [2018-04-11 Wed 11:02]
  #+BEGIN_SRC latex 
@@ -80,42 +28,47 @@ En 1942 Elizabeth Anscombe llegó a Cambridge.
    Cambridge con dos encuentros de dos horas cada semana. Aquél trimestre
    'Michaelmas' contaba seis estudiantes en su curso, entre ellos Elizabeth
    Anscombe. 
+#+END_SRC
+I am like a piano teacher. I am trying to teach a style of thinking, a technique, not a
+subject matter. Anscombe recalls (1995, p. 407): ``He himself in his classes sometimes
+said he was as it were giving examples of `five-finger exercises’ in thinking. These
+were certainly not limited in number like the set a piano teacher might employ, and
+were not like automatic formulae of investigation.'' (Cf. Gass 1971, p. 248: ``what you
+heard was something like a great pianist at practice: not a piece of music, but the
+very acts which went into making that performance.'')
+#+BEGIN_SRC latex
+  En aquellas lecciones sobre filosófia de la psicología se comportaba como un
+  maestro de piano ---decía--- intentaba enseñar un estilo de pensar, una técnica.
+  Lo que se escuchaba en sus lecciones no eran piezas musicales, sino más bien las
+  prácticas de un buen pianista donde afina los movimientos que van dirigidos a
+  construir su concierto.\autocite[p.~357]{pubnpriv}
 
-   \engcitation{I am like a piano teacher. I am trying to teach a style of
-     thinking, a technique, not a subject matter. Anscombe recalls (1995, p. 407):
-     ``He himself in his classes sometimes said he was as it were giving examples
-     of `five-finger exercises’ in thinking. These were certainly not limited in
-     number like the set a piano teacher might employ, and were not like automatic
-     formulae of investigation.'' (Cf. Gass 1971, p. 248: ``what you heard was
-     something like a great pianist at practice: not a piece of music, but the very
-     acts which went into making that performance.'')} En aquellas lecciones sobre
-   filosófia de la psicología se comportaba como un maestro de piano ---decía---
-   intentaba enseñar un estilo de pensar, una técnica. Lo que se escuchaba en sus
-   lecciones no eran piezas musicales, sino más bien las prácticas de un buen
-   pianista donde afina los movimientos que van dirigidos a construir su
-   concierto.\autocite[p.~357]{pubnpriv}
+  En cierta ocasión Wittgenstein recibió a Anscombe con una pregunta: <<¿Por qué
+  la gente dice que era natural pensar que el sol giraba alrededor de la tierra en
+  lugar de que la tierra rotaba en su eje?>> Elizabeth contestó: <<Supongo que
+  porque se veía como si el sol girara alrededor de la tierra.>> <<Bueno\ldots>>,
+  añadió Wittgenstein, <<¿cómo se hubiera visto si se hubiera \emph{visto} como si
+  la tierra rotara en su propio eje?>> Anscombe reaccionó extendiendo las manos
+  delante de ella con las palmas hacia arriba y, levantándolas desde sus rodillas
+  con un movimiento circular, se inclinó hacia atrás asumiendo una expresión de
+  mareo. <<¡Exactamente!>> exclamó Wittgenstein.\autocite[cf.~][p.~151]{IWT}
 
-   En cierta ocasión Wittgenstein recibió a Anscombe con una pregunta: <<¿Por qué
-   la gente dice que era natural pensar que el sol giraba alrededor de la tierra en
-   lugar de que la tierra rotaba en su eje?>> Elizabeth contestó: <<Supongo que
-   porque se veía como si el sol girara alrededor de la tierra.>> <<Bueno\ldots>>,
-   añadió Wittgenstein, <<¿cómo se hubiera visto si se hubiera \emph{visto} como si
-   la tierra rotara en su propio eje?>> Anscombe reaccionó extendiendo las manos
-   delante de ella con las palmas hacia arriba y, levantándolas desde sus rodillas
-   con un movimiento circular, se inclinó hacia atrás asumiendo una expresión de
-   mareo. <<¡Exactamente!>> exclamó Wittgenstein.\autocite[cf.~][p.~151]{IWT}
+  Anscombe se percató del problema; la pregunta de Wittgenstein había puesto en
+  evidencia que hasta aquél momento no había ofrecido ningún significado relevante
+  para su expresión \emph{``se veía como si''} en su respuesta \emph{``se veía
+    como si el sol girara alrededor de la tierra''}.
 
-   Anscombe se percató del problema; la pregunta de Wittgenstein había puesto en
-   evidencia que hasta aquél momento no había ofrecido ningún significado relevante
-   para su expresión \emph{``se veía como si''} en su respuesta \emph{``se veía
-     como si el sol girara alrededor de la tierra''}.
+  ¿Qué tipo de problema es este? ¿Qué falta cuando una expresión carece de
+  significado?
 
-   ¿Qué tipo de problema es este? ¿Qué falta cuando una expresión carece de
-   significado? \pnote{¿Es esta una pregunta sobre la representación que significan
-     las palabras? ¿Es una pregunta sobre el uso que se les da a las palabras?}
+  PI278 "I know how the color green looks to me" -- surely that makes sense! --
+  Certainly: what use of the proposition are you thinking of?
+
  #+END_SRC
+¿Es esta una pregunta sobre la representación que significan las palabras? ¿Es una
+pregunta sobre el uso que se les da a las palabras?
 
-* DONE /Expositio/: [100%]
+* DONE /Expositio/: Efecto W. y desarrollo del Tractatus[100%]
 :DEFINITION:
 Lo que se describe
 :END:
@@ -123,11 +76,9 @@ Lo que se describe
 Este discurso expositivo tiene como objetivo general presentar el talante filosófico de
 W., su método y sus efectos. 
 
-
 La filosofía de Wittgenstein como genuina tarea artística.wild life striving to erupt
 into the open
 :END:
-
 ** DONE El arte de hacer filosofía [100%]
 #+BEGIN_SRC latex 
  \subsection{El arte de hacer filosofía}
@@ -861,24 +812,401 @@ into the open
     \todo{Añadir como conclusión del resumen la finalidad ética del tratado.}
 #+END_SRC
 
-* /Disputatio/
-:DEFINITION:
-Lo problemático
-:END:
+Wittgenstein dejó el Tractatus en manos de Russel para ser publicado y se fue a dar
+clases en noruega con el deseo de mejorarse a sí mismo. Se fue en el 1919 y la
+publicación del tractatus fue en 1922. 
 
-:STATEMENT:
-Qué efectos tiene W. en A.?
-:END:
+*** DONE Del Tractatus a las investigaciones filosóficas
+    CLOSED: [2018-04-14 Sat 11:48]
+#+BEGIN_SRC latex
+  \ifdraft{\subsubsection{Del Tractatus a Investiagaciones Filosóficas}}{} 
+  En el 1929 Wittgenstein presentó el Tractatus Logico\=/Philosophicus como su
+  tesis doctoral en Cambridge. 
+Comenzó lecciones en en L30
+  ``Trinity College''.
 
-* /Solutio/
-:DEFINITION:
-La salida o desenrredo
-:END:
+#+END_SRC
+Wittgenstein dio clases entre 1929 y 1936 en trinity, 
+1936-37 vivio en noruega
+Aproximadamente entre L 1938 o E 1938 de clases otra vez, por invitación
+febrero 11 1939 cuando moore se
+retiró de la cátedra de filosofía en cambridge se le otrogó a Witt.
+1939-1947 estuvo como catedrático en Cambridge.
 
-* /In testimonium/
-:DEFINITION:
-Lo relacionado con el tesimonio
-:END:
+* /Quaestio 2/: W.: De la representación al uso
+  :LOGBOOK:
+  CLOCK: [2018-05-09 Wed 18:53]--[2018-05-09 Wed 19:18] =>  0:25
+  :END:
+** Derrota de la concepción representativa del lenguaje
+
+ Siempre odié el fenomenalismo y me sentía atrapada por él. Yo no podía ver
+ cómo salir de él, pero no lo creía. No era suficiente señalar las dificultades sobre
+ él, las cosas que Russell econtraba incorrectas con él, por ejemplo. La fuerza, el
+ nervio central de éste permanecía vivo y rabiaba terriblemente. Fue sólo en las
+ lecciones con Wittgenstein en 1944 que vi el nervio siendo extraido, el pensamiento
+ central "Tengo esto, y defino `amarillo' (digamos) como esto'' siendo efectivamente
+ atacado.
+
+  \citalitlar{En cierto punto Wittgenstein estaba discutiendo en sus clases la
+       interpretación del letrero (sign-post), y estalló en mi que el modo en que vas
+       según éste es la interpretación
+       final.\autocite[p.~viii]{andcombe1981metaphysicsintro}}
+
+ \citalitlar{En otra ocasión salí con: <<Pero todavía quiero decir: ``Azul esta ahí''>>.
+  Manos más veteranas sonrieron o rieron, pero Wittgenstein les detuvo tomándolo en
+  serio, diciendo: <<Déjame pensar qué medicina necesitas\ldots>> <<Supón que tenemos la
+  palabra \emph{`painy'}, como una palabra para la propiedad de ciertas superficies>>.
+  La `medicina' fue efectiva y la historia ilustra la habilidad de Wittgenstein para
+  comprender el pensamiento que se le estaba siendo ofrecido en objeción.
+
+  Uno podría protestar, desde luego, que precisamente ésto es equivocado en la
+  asimilación que hace Locke de las cualidades secundarias al dolor: puedes esbozar el
+  funcionamiento de ``dolor'' como una palabra para una cualidad secundaria, pero no
+  puedes hacer la operación inversa. Pero la `medicina' no implicaba que podrías. Si
+  \emph{`painy'} fuera una palabra posible para una cualidad secundaria, ¿no podría el
+  mismo motivo conducirme a decir: \emph{`painy'} esta aquí que lo que me condujo a
+  decir azul está aquí? Mi expresión no significaba que `azul' es el nombre de esta
+  sensación que estoy teniendo, ni cambié a ese
+  pensamiento.\autocite[p.~viii]{andcombe1981metaphysicsintro}}
+
+ La concepción de una definición ostensiva como absolutamente báscia en la explicación
+ de uno sobre ambos, los significados de las oraciones de uno y el contenido del
+ conocimiento de uno es --o fue-- una cosa bien natural.
+
+ De esto puedo testificar de mi propia experiencia. Como una adolescente captivada por
+ algunos problemas filosóficos, entre ellos ¿Qué conozco? ¿Y cómo?, y sin saber siquiera
+ que este tipo de indagación se llama `filosofía', y sin haber escuchado nunca las
+ palabras `definición ostensiva', formulé una explicación como esta: Yo sabía lo que
+ algunas palabras significan por definición verbal, hasta que llegaba a algunas que
+ representaban cosas a las que podía señalar. Las cualidades sensibles eran fáciles,
+ pero me preocupaba mucho por gatos y tazas. Cuando escuché más tarde la palabra
+ `definición ostensiva' respondí inmediatamente a ella como expresando una idea
+ familiar; yo había estado dandome a mi misma definiciones ostensivas a modo de ilustrar
+ mi teoría del conocimiento por un año o dos; si hubiera entrado en conversación con
+ alguien al respecto (que no recuerdo haber hecho) hubiera señalado cosas o las hubiera
+ mencionado como objetos familiares de mi experiencia. Cómo una adolescente inexperta
+ captó algo de las poderosas influencias subterraneas de un gran filósofo del que
+ porbablemente apenas había escuchado, no lo sé. Sin embargo, por lo que pueda servir,
+ mi testimonio es que pensar en estas líneas era enteramente natural. 
+
+
+** Investigaciones Filosóficas
+Wittgenstein ofrece clarificaciones gramáticas de los conceptos y redes de los
+conceptos de nombre, palabra, significado de una palabra, significar algo con una
+palabra, explicación de una palabra-significado, definición ostensiva, muestra,
+oración, oración-significado, uso de oraciones, porposición, etc. 
+
+En lugar de la concepción de palabra-significado como determinadas por un nexo
+palabra-mundo, Wittgenstein ahora sostiene que el significado de una expresión es, con
+ciertas cualificaciones, su uso en la practica de hablar el lenguaje. Deberíamos
+concebir las palabras no como nombres de entidades de varios tipos logicos, sino como
+herramientas con una cariedad de usos bastante distintos. Un lenguaje es una práctica
+publica, gobernada por reglas, parcialmente constitutiva de la forma de vida y cultura
+de sus parlantes. El significado de una palabra es lo que es dado por una explicación
+de significado, y una explicación de significado es una regla para el uso de la palabra
+explicada, un estándar de uso correcto.
+
+Conocer una palabra significa ser capaz de usarla de acuerdo con explicaciones
+generalmente aceptadas de lo que ésta significa, ser capaz de explicar apropiadamente
+lo que significa y lo que uno significa por ella en una expresión, y ser capaz de
+responder com-prehendentemente a su uso por otros. La idea de que la función esencial
+de las palabras es denominar entidades, y en consecuencia que la pregunta básica para
+ser atendida respecto de cualquier palabra dada es `¿Qué denomina?' o `¿Qué tipo de
+entidad lógica representa?', está desencaminada. `Todas las palabras son nombres de
+cosas' es como mucho vacuo, como poco erróneno. Las palabras tienen una multitud de
+usos, llenan una gran variedad de roles en el hablar. Las preguntas que tienen que ser
+atendidas por los filósofos son mas bien: ¿Para qué es esta palabra? ¿Qué necesidad
+atiende? ¿Cómo podría uno enseñar su uso? ¿Qúe cuenta como una explicación correcta de
+su uso?--- las respuestas a estas preguntas mostrarían qué es que una palabra tenga
+significado. Similarmente, es mal entendido suponer que la función esencial de las
+oraciones es describir. Si pensamos así, volvemos a ser propensos a preguntar los tipos
+de pregunta equivocados. Podemos preguntar qué describen las oraciones aritméticas ---
+relaciones entre números o entre sifnos, o entre construcciones mentales. Podemos
+preguntar si las oraciones geometricas describen propiedades del espacio o de figuras
+ideales en una esfera platónica. Podemos estar inclinados a pensar que las
+proposiciones lógicas describen relaciones entre proposiciones o los datos mas
+generales en el universo, y que las proposiciones deónticas describen lo que debe de
+ser hecho. Pero nos deberíamos estar preguntando qué roles las proposiciones
+aritmeticas, geométricas y lógicas llenan, qué función tienen, y cuál es el punto de
+una proposición deóntica.
+
+
+
+
+
+*** Signpost
+
+ \citalitlar{En cierto punto Wittgenstein estaba discutiendo en sus clases la
+      interpretación del letrero (sign-post), y estalló en mi que el modo en que
+      vas según éste es la interpretación
+      final.\autocite[p.~viii]{andcombe1981metaphysicsintro}}
+
+    \citalitlar{toda interpretación queda sostenida en el aire junto con lo que
+      interpreta, y no puede darle a ésto ningún apoyo. Las interpretaciones por
+      sí solas no determinan el significado.[\ldots]que tiene que ver la
+      expression de una regla --digamos un sign-post -- con mis acciones?
+      [\ldots]Que tipo de conexión se obtiene aquí -- pues esta por ejemplo: He
+      sido entrenado a reaccionar en un modo particular a este signo, y ahora lo
+      hago y reacciono a él.[\ldots] una persona va según un signpost sólo en
+      cuanto que hay un uso establecido, una costumbre. [\ldots]Seguir una regla,
+      hacer un reportaje, dar una orden, jugar un juego de ajedrez, son costumbres
+      (usos, instituciones). Entender una oración es entender un lenguaje.
+      Entender un lenguaje significa haber dominado una técnica. [\ldots]Por eso
+      es que 'ir según una regla' es una práctica. Y pensar que uno está siguiendo
+      una regla no es seguir una regla. Y por eso es que no es posible seguir una
+      regla 'privadamente'; de otro modo, pensar que se está siguiendo una regla
+      sería lo mismo que seguirla.}
+
+  La interpretación final es una práctica y no la idea de la interpretación. La
+  práctica esta informada por las costumbres. Entender una palabra es dominar una
+  técnica. Lo que la palabra es se entiende por su uso. El uso de la palabra está
+  informado por las costumbres. La palabra 'azul' no se refiere a algo que está
+  ahí, sino a una práctica en la que nos movemos según las reglas de nuestra forma
+  de vida.
+
+*** Ostensive definition
+ +BEGIN_SRC latex
+ #+END_SRC
+
+**** cora diamond
+ se había sentido atrapada por el fenomenalismo porque había respondido fuertemente en
+ contra de un realismo representativo Lockeano que insistía que los colores como ella
+ los veía no eran genuinamente parte del mundo externo. 
+
+ Pero, encontrandose insistiendo
+ que azul (este azul), o amarillo (esto), están allí, allí fuera, ella estaba en un
+ camino que llevaba, o parecía llevar, en una dirección en la que ella no quería seguir,
+ hacia una lectura del mundo como él mismo hecho de estos artículos del los que ella
+ estaba consciente de este modo, un mundo construido de los 'esto's: hecho de el
+ amarillo del que ella era consciente al fijarse en el paquete de cigarillos frente a
+ ella, y de otras cosas como esta. 
+
+ Nosotros debemos entonces imaginarnosla, sentada en
+ las lecciones de Wittgenstein, escuchando la discusión de las definiciones ostensivas
+ que podemos pensar que nos damos a nosotros mismos. 
+
+ Lo que el dice parece no dejar
+ espacio para esos 'esto's de los que ella está consciente. 
+
+ Si el dice que las palabras
+ para las cosas colores son palabras públicas, no palabras que definimos concentrandonos
+ en un `esto', entonces parece que lo que es allí, dada esta comprensión del mundo, no
+ puede ser esto. 
+
+ Pero es esto, azul o esto, amarillo, lo que ella sigue queriendo decir
+ esta allí. 
+
+ Quita la definición ostensiva que ella se da a sí misma y los `esto's que
+ hacen, o parecen hacer, estas definiciones posibles, y quitas el carácter del mundo
+ como ella está consciente de él. Quitas lo que ella quiere decir que está ahí. 
+
+ Como respuesta a la expresión de esa idea, Wittgenstein le pide que suponga que tenemos
+ una palabra 'painy' como una palabra para la propiedad de ciertas superficies. Esta
+ medicina fue efectiva. Ella no pensapba (antes o después de la medicina) que azul es el
+ nombre de esta sensación que ella estaba teniendo; y la sugerencia de Wittgenstein de
+ una palabra que funcionara como una cualidad secundaria para las superficies con una
+ propiedad en ellas por la que causan dolor no la llevo a la idea de que, siempre que
+ estuviera inclinada a decir 'azul está allí' igualmente estaría inclinada a decir painy
+ esta allí. Al contrario. Ella no tenía niguna inclinación de decir 'Painy está allí; y
+ ella podía ver el contraste claramente entre una palabra como painy y una palabra
+ color, como azul. Antes de la medicina, parecia que, si uno estuviera insatisfecho con
+ el realismo Lockeano, y no tomara azul-como-uno-está-consciente-de-él como algo interno
+ en contraste con el 'descolorido' mundo exterior, uno podría preguntar si
+ azul-como-uno-está-consciente-de-el seríá parte de la superficie de las cosas o uno de
+ las cosas de los que el mundo externo está construido o algo distinto de nuevo. Uno se
+ enfocaría en aquello de lo que uno está consciente, y preguntaría sobre eso. La
+ claridad producida por la sugerencia de Wittgenstein descansa en la capacidad del
+ ejemplo de hacer la pregunta lockeana desaparecer, la pregunta donde azul, esto,
+ realmente es. La pregunta surge de cierta falta de claridad. Azul no es como
+ pain/painy, pero el realismo lockeano se hace convincente por dejar este contraste
+ fuera de vista. Painy, como una palabra para una cualidad secundaria, funciona
+ adecuadamente; pero funciona como ese tipo de palabra precisamene porque pain no es una
+ palabra como azul, sino una palabra para lo que nosotros sentimos. Si painy (para las
+ superficies) junto con 'pain' (para lo que sentimos cuando entramos en contacto con una
+ superficie painy) es nuestro modelo sobre como funcionan las palabras para las
+ cualidades secundarias, azul no es una palabra para una cualidad secundaria. Aparece
+ para nosotros, sin embargo, mientras que nos movemos hacia el lodazal lockeano, que, si
+ puede haber una palabra para esas características de las cosas azules que hacen que se
+ vean del modo que las vemos, entonces lo demás que pueda haber acerca de azul debe ser
+ puramente algo como dado. Cuando estamos atrapados por esta idea, parece que hay una
+ pregunta sobre dónde realmente está azul como esto-de-lo-que-estamos-conscientes.
+ Anscombe rechazó la idea de esto como puramente interna, pero la unica alternativa
+ (antes de la medicina) parecia ser que estaba de alguna manera allá afuera. Un
+ reconocimiento (en el caso de Anscombe) de que no hay necesidad de decir painy esta
+ allí puede ayudar a mostrar el contraste entre painy y azul, y el modo en el que una
+ analogía no-pensada-del-todo entre las dos falsifica nuestro pensamiento.
+
+
+**** Standford encyclopedia of philosophy
+       The issue's significance can be seen by considering how the argument is embedded
+       in the structure of Philosophical Investigations. Immediately prior to the
+       introduction of the argument (§§241f), Wittgenstein suggests that the existence
+       of the rules governing the use of language and making communication possible
+       depends on agreement in human behaviour—such as the uniformity in normal human
+       reaction which makes it possible to train most children to look at something by
+       pointing at it. (Unlike cats, which react in a seemingly random variety of ways
+       to pointing.) One function of the private language argument is to show that not
+       only actual languages but the very possibility of language and concept formation
+       depends on the possibility of such agreement.
+
+       Another, related, function is to oppose the idea that metaphysical absolutes are
+       within our reach, that we can find at least part of the world as it really is in
+       the sense that any other way of conceiving that part must be wrong (cf.
+       Philosophical Investigations p. 230). Philosophers are especially tempted to
+       suppose that numbers and sensations are examples of such absolutes,
+       self-identifying objects which themselves force upon us the rules for the use of
+       their names. Wittgenstein discusses numbers in earlier sections on rules
+       (185–242). Some of his points have analogues in his discussion of sensations,
+       for there is a common underlying confusion about how the act of meaning
+       determines the future application of a formula or name. In the case of numbers,
+       one temptation is to confuse the mathematical sense of ‘determine’ in which,
+       say, the formula y = 2x determines the numerical value of y for a given value of
+       x (in contrast with y > 2x, which does not) with a causal sense in which a
+       certain training in mathematics determines that normal people will always write
+       the same value for y given both the first formula and a value for x—in contrast
+       with creatures for which such training might produce a variety of outcomes (cf.
+       §189). This confusion produces the illusion that the result of an actual
+       properly conducted calculation is the inevitable outcome of the mathematical
+       determining, as though the formula's meaning itself were shaping the course of
+       events.
+
+       In the case of sensations, the parallel temptation is to suppose that they are
+       self-intimating. Itching, for example, seems like this: one just feels what it
+       is directly; if one then gives the sensation a name, the rules for that name's
+       subsequent use are already determined by the sensation itself. Wittgenstein
+       tries to show that this impression is illusory, that even itching derives its
+       identity only from a sharable practice of expression, reaction and use of
+       language. If itching were a metaphysical absolute, forcing its identity upon me
+       in the way described, then the possibility of such a shared practice would be
+       irrelevant to the concept of itching: the nature of itching would be revealed to
+       me in a single mental act of naming it (the kind of mental act which Russell
+       called ‘acquaintance’); all subsequent facts concerning the use of the name
+       would be irrelevant to how that name was meant; and the name could be private.
+       The private language argument is intended to show that such subsequent facts
+       could not be irrelevant, that no names could be private, and that the notion of
+       having the true identity of a sensation revealed in a single act of acquaintance
+       is a confusion.
+
+
+
+
+**** PI 198-202
+
+preliminary examination of the example of 
+
+mastering the technique of developing an arithmetical series according to a rule.
+
+The rule for a series here is akin to an explanation of meaning
+that constitues a rule for the use of a word
+
+the development of the series akin to the applications of a word in accordance with the
+explanation of its meaning 
+
+the internal relation between the rule for the series and any given step in its
+extension analogous to the internal relation between a word and its correct application 
+
+nature of understanding: not a mental or neural state, nor a process, but rather an
+ability.
+
+Pero como puede una regla enseñarme lo que he de hacer en este punto? Después de todo,
+lo que sea que haga puede, bajo alguna interpretación, ser hecho compatible con la
+regla.
+
+-- No, eso no es lo que uno debería decir. Más bien esto:
+
+toda interpretación queda sostenida en el aire junto con lo que interpreta, y no
+puede darle a ésto ningún apoyo. Las interpretaciones por sí solas no determinan
+el significado.
+
+<<¿Así que lo que sea que haga es compatible con la regla?>> -- Déjame preguntar
+esto: que tiene la expression de una regla --digamos un sign-post -- con mis
+acciones?
+      
+Que tipo de conexión se obtiene aquí -- pues esta por ejemplo: He sido entrenado
+a reaccionar en un modo particular a este signo, y ahora lo hago y reacciono a
+él.
+
+Pero con esto sólo has señalado una conexión casual; sólo has explicado cómo ha
+llegado a ser que nosotros ahora vamos según el signpost; no en qué realmente
+consiste este ir-según-el-signo .
+
+No es así; he indicado más allá que una persona va según un signpost sólo en
+cuanto que hay un uso establecido, una costumbre.
+
+
+199 Es lo que llamamos "ir según una regla" algo que sería posible hacer para
+sólo una persona, sólo una vez en su vida? Y esto es, por supuesto, una glosa
+en la gramática de la expresión "ir según una regla" 
+
+No es posible que haya habído sólo una ocasión en la que un reporte se haya hecho, una
+orden fuera dada o entendida, y así msucesivamente. -- Seguir una regla, hacer un
+reportaje, dar una orden, jugar un juego de ajedrez, son costumbres (usos,
+instituciones). Entender una oración es entender un lenguaje. Entender un lenguaje
+significa haber dominado una técnica.
+
+
+202 Por eso es que 'ir según una regla' es una práctica. Y pensar que uno está
+siguiendo una regla no es seguir una regla. Y por eso es que no es posible seguir una
+regla 'privadamente'; de otro modo, pensar que se está siguiendo una regla sería lo
+mismo que seguirla.
+
+*** Del tractatus a las investigaciones
+En el tractatus Wittgenstein había propuesto que cualquier lenguaje posible tiene la
+estructura subyacente de un cálculo logico-sintáctico conectado a la realidad por
+nombres lógicamente apropiados cuyos significados son objetos simples que constituyen
+la sustancia del mundo.\rulesngrammar p.44
+
+Ahora (1929) argumenta que cualquier lenguaje posible es un calculo autónomo de reglas.
+Ya que ahora concibe el significado como siendo otorgado en los (alegados) indefinibles
+primitivos de un lenguaje en parte por medio de definiciones ostensivas. Las muestras
+empleadas en la definición ostensiva son ellas mismas parte de los medios de
+representation. 
+
+El significado de una expresion no es un objeto en la realidad, sino que la totalidad
+de las reglas que determinan su uso dentro del cálculo del lenguaje. El lugar de una
+palabra den la gramática, su rol en el cálculo es su significado.
+
+A partir de 1931 Wittgenstein se movió gradualmente desde la idea de que debajo del
+discurso significativo hay un sistema de reglas de un cálculo hacia el reconocimiento
+del hecho de que hablar un lenguaje es un multifacético sistema de actividades
+governado por normas. Por lo general cesó de hablar del cálculo del lenguaje y en
+cambio comenzó a hablar de comparar el lenguaje con un cálculo, una comparación que
+mostraría similitudes y diferencias. Subsecuentemente intrudujo la noción de un juego
+de lenguaje, encontrando las analogias entre el hablar y el jugar juegos, y entre las
+reglas de los juegos y las reglas de los lenguajes más fructíferas que las analogías
+entre el hablar y la operación de un cálculo y entre las reglas de un lenguaje y las
+reglas de un cálculo.
+
+
+De este modo cambió su atención desde las formas de las expresiones y sus patrones de
+relaciones, a usos de las expresiones en las prácticas humanas; desde el discurso visto
+como sistemas de símbolos iguiendo un modelo a el hablar visto como intefrado en la
+vida humana, entretejido con una multitud de actos, actividades, reacciones y respuestas.
+
+
+** esquema PI
+Anscombe 
+1-40 Definiciones ostensivas
+private rules 
+private understanding
+private sense of a word
+private language
+
+143-242 Investigación de ``obedecer una regla''
+243-315 Crítica de las definiciones ostensivas privadas de las palabras de sensaciones
+y cualidades sensibles.
+316-362 discusión sobre el pensar
+363-398 discusión sobre el imaginar
+398-410 sensaciones
+410-428 conciencia
+
+
+
+
+
+
+
+
 
 * [Local Variables]
 # Local Variables:

@@ -94,6 +94,36 @@
 
 #+END_SRC
 ** Ambiente en Cambridge
+:Lent41-1951:
+| L41                                                                              | E41                                                            | M41                                                               |
+| X                                                                                | X                                                              | X                                                                 |
+| L42                                                                              | E42                                                            | M42                                                               |
+| X                                                                                | X                                                              | Anscombe                                                          |
+| L43                                                                              | E43                                                            | M43                                                               |
+| Anscombe                                                                         | Newcastle                                                      | Newcastle                                                         |
+| L44                                                                              | E44                                                            | M44                                                               |
+| Swansea                                                                          | Swansea                                                        | Anscombe (nerve of phenomenalism extracted)                       |
+| L45                                                                              | E45                                                            | M45                                                               |
+| Anscombe                                                                         | Anscombe                                                       | Anscombe                                                          |
+| L46                                                                              | E46                                                            | M46                                                               |
+| Anscombe                                                                         | Anscombe                                                       | Anscombe at Oxford                                                |
+| L47                                                                              | E47                                                            | M47                                                               |
+| Anscombe at Oxford                                                               | Anscombe at Oxford                                             | Wittgenstein Sabbatical                                           |
+| 1948                                                                             | 1948                                                           | 1948                                                              |
+| Ireland                                                                          | Ireland                                                        | Ireland (Anscombe visits in december)                             |
+| 1949                                                                             | 1949                                                           | 1949                                                              |
+|                                                                                  | Ithaca (Malcolm) (July)                                        | 9 november: cambridge 25 november: diagnosed with prostate cancer |
+| 1950                                                                             | 1950                                                           | 1950                                                              |
+|                                                                                  | March left Vienna for London. April moved back to cambridge    | 25 of april went with anscombe in oxford                          |
+| october left for norway                                                          | came back to oxford and tried to go back in december to norway |                                                                   |
+|                                                                                  |                                                                |                                                                   |
+| february 1951 finally resolved to stay at bevan's home in storeys end, cambridge |                                                                |                                                                   |
+
+ANSCOMBE LLEGÓ A CAMBRIDGE EN M42 W. OFRECIA CLASES LOS SÁBADOS Y TRABAJABA EN
+GUY'S. DESDE E43 HASTA E44 NO DIO CLASES. EN M44 EMPEZÓ OTRA VEZ. EN L45 EMPEZÓ
+A TRABAJAR MATERIAL CORRESPONDIENTE A 189-421 PI!!!!!!
+En 1942 Elizabeth Anscombe llegó a Cambridge.
+:END:
 #+BEGIN_SRC latex
   Elizabeth empezó sus estudios en Cambridge en el periodo
   Michaelmas\footnote{El año lectivo en Cambridge esta dividido en tres periodos
