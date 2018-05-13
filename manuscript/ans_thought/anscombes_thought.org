@@ -179,8 +179,6 @@ objetos materiales.
 #+END_SRC
 
 
-
-
       \begin{revision}
         ``For a large class of cases of the employment of the word ‘meaning’—though
         not for all—this way can be explained in this way: the meaning of a word is
@@ -239,14 +237,6 @@ objetos materiales.
             pasados 16 años. En enero 1929 Wittgenstein estaba regresando a Cambridge.
             \end{revision}
 
-            \begin{revision}
-              En ocasiones como esta la discusión con Wittgenstein llevaba a Anscombe
-              a afirmaciones para las cuales no podía ofrecer mejor significado que
-              los sugeridos por concepciones ingenuas. Una concepción así no es otra
-              cosa que ausencia de pensamiento, pero su falta de significado no es
-              evidente, sino que requiere de la fuerza de un `Copérnico' para ponerla
-              en cuestión efectivamente.\autocite[cf. 151]{IWT}
-              \end{revision}
 #+END_SRC
 
 
@@ -361,6 +351,23 @@ BEGIN_SRC latex
     alguien que está de pie). (Culture and Value p.38-39 MS 120 108 c: 12.12.1937)
     \end{revision}
 END_SRC
+
+
+
+
+          ¿Qué podemos aprender de Anscombe? Un cierto acercamiento, una cierta actitud
+          hacia la filosofía.
+
+          ¿Cómo Anscombe hace filosofía? Es una filósofa linguistica? 
+
+     hay filósofos que
+          dirigen nuestra atención hacia lo que decimos de hecho, y a carácteristicas
+          de nuestro lenguaje propiamente (o grupo de lenguajes)
+
+          hay filósofos que nos llevan a pensar sobre posibles, al igual que
+          actuales, lenguajes o juegos de lenguaje. Anscombe pertenece a este segundo
+          grupo.
+
 * /Disputatio/
 :DEFINITION:
 Lo problemático
