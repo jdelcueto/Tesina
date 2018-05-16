@@ -217,7 +217,7 @@ http://www.worldcat.org/oclc/873936079
 *** St. Andrews Studies Collection (2005-2011)
 **** From Plato to Wittgenstein
 #+BEGIN_SRC bibtex :tangle primary.bib
-@mvcollection{anscombe2011parmenides,
+@mvcollection{anscombe2011plato,
 title={From Plato to Wittgenstein},
 author={Gertrude Elizabeth Margaret Anscombe},
 editora={Mary Geach},
@@ -232,7 +232,7 @@ keywords={Anscombe Elizabeth; Primary Source; St Andrews}
 
 *****  Wittgenstein's 'two cuts' in the history of philosophy
 #+BEGIN_SRC bibtex :tangle primary.bib
- @incollection{twocuts,
+ @incollection{anscombe2011plato:twocuts,
  author = "Gertrude Elizabeth Margaret Anscombe",
  booktitle = "From Plato to Wittgenstein",
  title = "Wittgenstein's 'two cuts' in the history of philosophy",
@@ -244,7 +244,7 @@ keywords={Anscombe Elizabeth; Primary Source; St Andrews}
 
 ***** The Simplicity of the Tractatus
 #+BEGIN_SRC bibtex :tangle primary.bib
- @incollection{simplicity,
+ @incollection{anscombe2011plato:simplicity,
  author = "Gertrude Elizabeth Margaret Anscombe",
  booktitle = "From Plato to Wittgenstein",
  title = "The Simplicity of the Tractatus",
@@ -254,6 +254,17 @@ keywords={Anscombe Elizabeth; Primary Source; St Andrews}
  }
 #+END_SRC
 
+***** Wittgenstein on Rules and Private Language
+#+BEGIN_SRC bibtex :tangle primary.bib
+ @incollection{anscombe2011plato:rnpl,
+ author = "Gertrude Elizabeth Margaret Anscombe",
+ booktitle = "From Plato to Wittgenstein",
+ title = "Wittgenstein on Rules and Private Language",
+ publisher = "Imprint Academic",
+ year = "2011",
+ keywords = "primary, anscombe, standrews",
+ }
+#+END_SRC
 
 
 

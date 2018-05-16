@@ -25,44 +25,44 @@
    #+BEGIN_SRC latex 
       \subsection{El método de Wittgenstein}
    #+END_SRC
-   I am like a piano teacher. I am trying to teach a style of thinking, a technique, not a
-   subject matter. Anscombe recalls (1995, p. 407): ``He himself in his classes sometimes
-   said he was as it were giving examples of `five-finger exercises’ in thinking. These
-   were certainly not limited in number like the set a piano teacher might employ, and
-   were not like automatic formulae of investigation.'' (Cf. Gass 1971, p. 248: ``what you
-   heard was something like a great pianist at practice: not a piece of music, but the
-   very acts which went into making that performance.'')
+   I am like a piano teacher. I am trying to teach a style of thinking, a technique,
+   not a subject matter. Anscombe recalls (1995, p. 407): ``He himself in his classes
+   sometimes said he was as it were giving examples of `five-finger exercises’ in
+   thinking. These were certainly not limited in number like the set a piano teacher
+   might employ, and were not like automatic formulae of investigation.'' (Cf. Gass
+   1971, p. 248: ``what you heard was something like a great pianist at practice: not a
+   piece of music, but the very acts which went into making that performance.''
    #+BEGIN_SRC latex
-  Anscombe escuhó alguna vez a Wittgenstein explicar en sus clases cómo pretendía
-  ofrecer ejemplos de `ejercicios para cinco dedos', como los que se emplean para
-  el piano. Eran ejercicios para pensar. <<Soy como un maestro de piano>>
-  --decía-- <<intento enseñar un estilo de pensar, una técnica, no una materia>>.
-  Lo que se escuchaba en sus lecciones, sin embargo, no eran piezas musicales,
-  sino más bien las prácticas donde el pianista afina los movimientos que van
-  dirigidos a construir su concierto.\autocite[cf.~][p.~357]{pubnpriv}
+     Anscombe escuchó alguna vez a Wittgenstein explicar en sus clases cómo pretendía
+     ofrecer ejemplos de `ejercicios para cinco dedos', como los que se emplean para
+     el piano. Eran ejercicios para pensar. <<Soy como un maestro de piano>>
+     --decía-- <<intento enseñar un estilo de pensar, una técnica, no una materia>>.
+     Lo que se escuchaba en sus lecciones, sin embargo, no eran piezas musicales,
+     sino más bien las prácticas donde el pianista afina los movimientos que van
+     dirigidos a construir su concierto.\autocite[cf.~][p.~357]{pubnpriv}
 
-  En cierta ocasión, Wittgenstein recibió a Anscombe con una pregunta: <<¿Por qué
-  la gente dice que era natural pensar que el sol giraba alrededor de la tierra en
-  lugar de que la tierra rotaba en su eje?>> Elizabeth contestó: <<Supongo que
-  porque se veía como si el sol girara alrededor de la tierra.>> <<Bueno\ldots>>,
-  añadió Wittgenstein, <<¿cómo se hubiera visto si se hubiera \emph{visto} como si
-  la tierra rotara en su propio eje?>> Anscombe reaccionó extendiendo las manos
-  delante de ella con las palmas hacia arriba y, levantándolas desde sus rodillas
-  con un movimiento circular, se inclinó hacia atrás asumiendo una expresión de
-  mareo. <<¡Exactamente!>> exclamó Wittgenstein.\autocite[cf.~][p.~151]{IWT}
+     En cierta ocasión, Wittgenstein recibió a Anscombe con una pregunta: <<¿Por qué
+     la gente dice que era natural pensar que el sol giraba alrededor de la tierra en
+     lugar de que la tierra rotaba en su eje?>> Elizabeth contestó: <<Supongo que
+     porque se veía como si el sol girara alrededor de la tierra.>> <<Bueno\ldots>>,
+     añadió Wittgenstein, <<¿cómo se hubiera visto si se hubiera \emph{visto} como si
+     la tierra rotara en su propio eje?>> Anscombe reaccionó extendiendo las manos
+     delante de ella con las palmas hacia arriba y, levantándolas desde sus rodillas
+     con un movimiento circular, se inclinó hacia atrás asumiendo una expresión de
+     mareo. <<¡Exactamente!>> exclamó Wittgenstein.\autocite[cf.~][p.~151]{IWT}
 
-  Anscombe se percató del problema; la pregunta de Wittgenstein había puesto en
-  evidencia que hasta aquél momento no había ofrecido ningún significado relevante
-  para su expresión \emph{``se veía como si''} en su respuesta \emph{``se veía
-    como si el sol girara alrededor de la tierra''}. En ocasiones como ésta
-  Elizabeth descubría cómo no podía ofrecer ningún significado que no fuera
-  respaldado por una concepción ingenua, y ésta podía ser destruida fácilmente por
-  una pregunta. \citalitinterlin{<<La concepción ingenua es realmente descuido en
-    el pensamiento, pero puede necesitar el poder de un Copérnico para
-    cuestionarla efectivamente.>>\autocite[p.~151]{IWT}}
+     Anscombe se percató del problema; la pregunta de Wittgenstein había puesto en
+     evidencia que hasta aquél momento no había ofrecido ningún significado relevante
+     para su expresión \emph{``se veía como si''} en su respuesta \emph{``se veía
+       como si el sol girara alrededor de la tierra''}. En ocasiones como ésta
+     Elizabeth descubría cómo no podía ofrecer ningún significado que no fuera
+     respaldado por una concepción ingenua, y ésta podía ser destruida fácilmente por
+     una pregunta. \citalitinterlin{<<La concepción ingenua es realmente descuido en
+       el pensamiento, pero puede necesitar el poder de un Copérnico para
+       cuestionarla efectivamente.>>\autocite[p.~151]{IWT}}
 
-  ¿Qué tipo de problema es éste? ¿Qué falta cuando una expresión carece de
-  significado?
+     ¿Qué tipo de problema es éste? ¿Qué falta cuando una expresión carece de
+     significado?
    #+END_SRC
 
    PI278 "I know how the color green looks to me" -- surely that makes sense! --
@@ -89,45 +89,47 @@
 *** DONE Vida salvaje luchando por emerger abiertamente
     CLOSED: [2018-04-11 Wed 11:13]
     #+BEGIN_SRC latex
-   \ifdraft{\subsubsection{Vida salvaje luchando por emerger abiertamente}}{}
+      \ifdraft{\subsubsection{Vida salvaje luchando por emerger abiertamente}}{}
 
-   Wittgenstein pensaba que
-   % Within all great art there is a WILD animal: tamed.
-   \citalitinterlin{dentro de todo buen arte hay un animal salvaje
-     domado}\autocite[p.~43e]{cnv}. Su talante artístico, sin embargo, no
-   manifestaba esta primitiva vitalidad; o como él mismo decía:
-   % In my artistic activities I have merely good manners
-   \citalitinterlin{en mis actividades artísticas tengo meramente buenos
-     modales.}\autocite[p.~29e]{cnv}
+      Wittgenstein pensaba que
+      % Within all great art there is a WILD animal: tamed.
+      \citalitinterlin{
+        dentro de todo buen arte hay un animal salvaje domado}\autocite[p.~43e]{cnv}.
+      Su talante artístico, sin embargo, no manifestaba esta primitiva vitalidad; o
+      como él mismo decía:
+      % In my artistic activities I have merely good manners
+      \citalitinterlin{
+        en mis actividades artísticas tengo meramente buenos
+        modales.}\autocite[p.~29e]{cnv}
 
-   Ejemplo de estos ``buenos modales'' fue el diseño que realizó para la casa de su
-   hermana Margaret en Viena, terminada en 1928.
-   % my house for Gretl is the product of a sensitive ear, good
-   % manners, the expression of great understanding... wild life striving to erupt
-   % in the open is lacking... health is lacking (Kierkergaard)
-   Trabajó como arquitecto de la casa con exhaustiva minuciosidad y el producto
-   manifestaba gran entendimiento, ``buen oido'', pero le escaseaba ``salud'',
-   pensaba él.\autocite[p.~43e]{cnv} 
+      Ejemplo de estos ``buenos modales'' fue el diseño que realizó para la casa de su
+      hermana Margaret en Viena, terminada en 1928.
+      % my house for Gretl is the product of a sensitive ear, good manners, the
+      % expression of great understanding... wild life striving to erupt in the open
+      % is lacking... health is lacking (Kierkergaard)
+      Trabajó como arquitecto de la casa con exhaustiva minuciosidad y el producto
+      manifestaba gran entendimiento, ``buen oido'', pero le escaseaba ``salud'',
+      pensaba él.\autocite[p.~43e]{cnv}
 
-   % Even in music... feeling, he showed above all great understanding, rather than
-   % manifesting wild life... When he played music with others... his interest was
-   % in getting it right... When he played, he was not expressing himself... but
-   % the thoughts... of others. He was probably right to regard himself not as
-   % creative but as reproductive ...It was only in philosophy that his creativity
-   % could really be awakened. Only then, as Russell had long ago noticed, does one
-   % see in him 'wild life striving to erupt in the open''
+      % Even in music... feeling, he showed above all great understanding, rather than
+      % manifesting wild life... When he played music with others... his interest was
+      % in getting it right... When he played, he was not expressing himself... but
+      % the thoughts... of others. He was probably right to regard himself not as
+      % creative but as reproductive ...It was only in philosophy that his creativity
+      % could really be awakened. Only then, as Russell had long ago noticed, does one
+      % see in him 'wild life striving to erupt in the open''
 
-   También en la música, arte por la que tenía la mayor afición, era llamativa su
-   recia exactitud. Cuando tocaba con otros ponía su mayor interés en lograr una
-   expresión exacta y correcta, recreando música y pensamientos ajenos, más que
-   expresándose a sí mismo. Perseguía reproducir más que
-   crear.\autocite[loc.˜]{monk1991duty}
+      También en la música, arte por la que tenía la mayor afición, era llamativa su
+      recia exactitud. Cuando tocaba con otros ponía su mayor interés en lograr una
+      expresión exacta y correcta, recreando música y pensamientos ajenos, más que
+      expresándose a sí mismo. Perseguía reproducir más que
+      crear.\autocite[loc.˜]{monk1991duty}
 
-   Esta fuerza creativa ausente en su rigurosa actitud hacia la actividad artística
-   estallaba, sin embargo, en su actividad filosófica. Aquella cualidad que él
-   encontraba característica del buen arte, esa ``vida salvaje luchando por emerger
-   abiertamente'',\autocite[cf.˜][loc.˜]{monk1991duty} quedaba expresada en su quehacer
-   filosífico.
+      Esta fuerza creativa ausente en su rigurosa actitud hacia la actividad artística
+      estallaba, sin embargo, en su actividad filosófica. Aquella cualidad que él
+      encontraba característica del buen arte, esa ``vida salvaje luchando por emerger
+      abiertamente'',\autocite[cf.˜][loc.˜]{monk1991duty} quedaba expresada en su
+      quehacer filosífico.
     #+END_SRC
 
 *** DONE Filosofía emergente
@@ -408,9 +410,9 @@
    #+END_SRC
 *** DONE De Manchester a Cambridge
     CLOSED: [2018-04-14 Sat 11:13]
-El propósito de recorrer el desarrollo que lleva al Tractatus es ofrecer un trasfondo a
+    El propósito de recorrer el desarrollo que lleva al Tractatus es ofrecer un trasfondo a
     los puntos que resaltamos más adelante.
-#+BEGIN_SRC latex
+    #+BEGIN_SRC latex
   \ifdraft{\subsubsection{De Manchester a Cambridge}}{}
   Los primeros esfuerzos de Wittgenstein por escribir una obra sobre filosofía
   habían comenzado en 1911. En otoño de ese año en lugar de continuar sus estudios
@@ -854,8 +856,8 @@ El propósito de recorrer el desarrollo que lleva al Tractatus es ofrecer un tra
      manos de Russell al partir hacia Noruega. En 1922 el libro de Wittgenstein sería
      finalmente publicado.
 
-     En 1929 Wittgenstein regresó a la tarea filosófica. Presentó el Tractatus
-     Logico\=/Philosophicus como su tesis doctoral en Cambridge y recibió un
+     En 1929 Wittgenstein regresó a la tarea filosófica. Presentó el \emph{Tractatus
+       Logico\=/Philosophicus} como su tesis doctoral en Cambridge y recibió un
      fellowship de cinco años en ``Trinity College''. Comenzó sus lecciones en el
      periodo Lent de 1930. Terminó su fellowship en el curso 1935-1936 y tomo un
      receso. Regresó a ofrecer lecciones en Cambridge en 1938. El 11 de febrero de
@@ -871,8 +873,8 @@ El propósito de recorrer el desarrollo que lleva al Tractatus es ofrecer un tra
      de función de verdad\autocite[cf.~][p.~44]{rulesngrammar}.
 
      Una idea que no abandonó inicialmente, sino que reforzó, fue la del lenguaje
-     como un cálculo de reglas. En el tractatus había propuesto que cualquier
-     lenguaje posible tiene como base la estructura de un cálculo logico-sintáctico
+     como un cálculo de reglas. En el \emph{Tractatus} había propuesto que cualquier
+     lenguaje posible tiene como base la estructura de un cálculo lógico--sintáctico
      conectado a la realidad por nombres lógicamente apropiados cuyos significados
      son objetos simples que constituyen la sustancia del mundo. Su argumentación
      ahora es que cualquier lenguaje posible es un calculo autónomo de reglas y el
@@ -914,17 +916,18 @@ El propósito de recorrer el desarrollo que lleva al Tractatus es ofrecer un tra
      Wittgenstein llegará a sostener, como queda atestiguado en \emph{Investigaciones
        Filosóficas} \S90 que la filosofía es una investigación gramática, en la que
      los problemas filosóficos son resueltos por medio de la descripción del uso de
-     las palabras, clarificando la gramática de las expresiones y tabulando
-     reglas\autocite[cf.~][55]{rulesngrammar}. Con Moore, se podría objetar que
-     gramática es el tipo de cosas que se enseña a los niños en la escuela, por
-     ejemplo: <<no se dice ``tres hombres \emph{estaba} en el campo'', sino ``tres
-     hombres \emph{estaban} en el campo''>> ---eso es gramática. Y ¿qué tiene que ver
-     eso con filosofía? A lo que Wittgenstein contestaría: efectivamente este ejemplo
-     no tiene nada que ver con filosofía, ya que en él todo está claro. Pero qué tal
-     si dijéramos ``Dios el Padre, Dios el Hijo y Dios el Espíritu Santo'';
-     ¿\emph{estaban} en el campo o \emph{estaba} en el campo?
+     las palabras, clarificando la gramática de las expresiones y tabulando reglas.
+     Con Moore, se podría objetar que gramática es el tipo de cosas que se enseña a
+     los niños en la escuela, por ejemplo: <<no se dice ``tres hombres \emph{estaba}
+     en el campo'', sino ``tres hombres \emph{estaban} en el campo''>> ---eso es
+     gramática. Y ¿qué tiene que ver eso con filosofía? A lo que Wittgenstein
+     contestaría: efectivamente este ejemplo no tiene nada que ver con filosofía, ya
+     que en él todo está claro. Pero qué tal si dijéramos ``Dios el Padre, Dios el
+     Hijo y Dios el Espíritu Santo''; ¿\emph{estaban} en el campo o \emph{estaba} en
+     el campo?\autocite[cf.~][55]{rulesngrammar}
 
-
+     Esta metodología resultante de la evolución en la filosofía de Wittgenstein será
+     en la que tomaría parte Elizabeth Anscombe cuando llegó a sus lecciones en 1942.
    #+END_SRC
 
 * /Quaestio 2/: W.: De la representación al uso
@@ -939,20 +942,18 @@ El propósito de recorrer el desarrollo que lleva al Tractatus es ofrecer un tra
      \subsection{El nuevo método de Wittgenstein}
 
      En sus reflexiones sobre los fundamentos de las matemáticas entre 1937 y 1938,
-     Wittgenstein se planteaba lo siguiente:
+     Wittgenstein plantea la siguiente pregunta:
+     \citalitinterlin{
+       ¿Cómo sé que al calcular la serie $+2$ debo escribir ``$20004$, $20006$'' y no
+       ``$20004$, $20008$''?}
 
-     ¿Cómo se que al calcular la serie $+$2 debo escribir ``20004, 20006'' y no
-     ``20004, 20008''? (La pregunta ``¿Cómo se que este color es `rojo'?'' es
-     similar.)
-
-     cómo se qué hacer con este conocimiento previo cuando el paso
-     tiene que ser actualmente tomado?
-     dudas de qué tienes que hacer después de 2004? no
-     este no tener duda no significa que ha sido determinado de antemano, sino que se
-     que cualquier numero que se me de seré capaz de del sel siguiete con certeza
-
-     y en qué consiste esta certeza?
-
+     La pregunta tiene que ver con cómo actuamos según una regla. Al calcular esta
+     serie se ha ofrecido $+2$ como norma para el cálculo. Ahora la pregunta es cómo
+     se sabe qué hacer con ese conocimiento previo cuando llega el momento de ponerlo
+     en acto. Sin embargo hay cierta certeza sobre qué hacer después de $20004$, y
+     esta certeza no implica que $20006$ haya quedado determinado de antemano, sino
+     que la certeza consiste en que ante cualquier número ofrecido se tiene la
+     capacidad de ofrecer el siguiente. Entonces continua:
      \citalitlar{
        <<¿Pero entonces en qué consiste la peculiar inexorabilidad de las
        matemáticas?>> ---¿No será acaso la inexorabilidad con la que dos sigue a uno
@@ -961,8 +962,8 @@ El propósito de recorrer el desarrollo que lleva al Tractatus es ofrecer un tra
        seguiría de un modo distinto. Pero ¿acaso esta serie no está definida
        precisamente por esta secuencia? ---<<¿Hay que suponer que esto significa que
        cualquier modo en el que una persona cuente es igualmente correcto, y que
-       cualquiera puede contar en el orden que quiera?>> ---Probablemenre no lo
-       llamariamos `contar' si todo el mundo dijera los números uno después de otro
+       cualquiera puede contar en el orden que quiera?>> ---Probablemente no lo
+       llamaríamos `contar' si todo el mundo dijera los números uno después de otro
        \emph{de cualquier manera}; pero por supuesto no es simplemente una cuestión
        sobre el nombre. Pues lo que llamamos `contar' es una parte importante de las
        actividades de nuestras vidas. Contar y calcular no son --por ejemplo-- un
@@ -970,21 +971,45 @@ El propósito de recorrer el desarrollo que lleva al Tractatus es ofrecer un tra
        que es empleada diariamente en las operaciones más variadas de nuestras vidas.
        Y por eso es que aprendemos a contar como lo hacemos: con prácticas
        interminables, con despiadada exactitud; por eso es que es inexorablemente
-       insistido que hemos de decir `dos' después de `uno', `tres' despues de `dos' y
+       insistido que hemos de decir `dos' después de `uno', `tres' después de `dos' y
        así sucesivamente. ---<<Pero entonces este contar es sólo un uso; ¿acaso no
        hay alguna verdad que se corresponda con esta secuencia?>> La \emph{verdad} es
        que contar ha demostrado que paga. ---<<Entonces quieres decir que `ser
-       verdad' significa: ser usable (o útil)?>> ---No, no eso; pero que no puede ser
-       dicho de la serie de números naturales --y tampoco de nuestro lenguaje-- que
-       es verdad, pero: que es usable, y, sobre todo que \emph{se usa de
+       verdad' significa: ser utilizable (o útil)?>> ---No, no eso; pero que no puede
+       ser dicho de la serie de números naturales --y tampoco de nuestro lenguaje--
+       que es verdad, pero: que es utilizable, y, sobre todo que \emph{se usa de
          hecho}.\autocite[p.~37 \S4]{wittgenstein1956remmath}}
 
-     El lenguaje, como el ir según una serie es una actividad gobernada por reglas. 
+     A la anterior pregunta, Wittgenstein añade la observación:
+     \citalitinterlin{
+       La pregunta ``¿Cómo se que este color es `rojo'?'' es similar.}
+     La cuestión planteada no es sólo relevante con el modo en el que vamos según una
+     serie, sino con las operaciones que hacemos con las palabras. 
+
+     En \emph{Investigaciones Filosóficas} \S380
+     encontramos:
+     \citalitlar{
+       Cómo reconozco que esto es rojo? ---``Veo que es \emph{esto}; y entonces sé
+       que eso es lo que esto es llamado'' ¿Esto? ---¡¿Qué?! ¿Qué tipo de respuesta a
+       esta pregunta tiene sentido? (Sigues girando hacia una explicación ostensiva
+       interna.) No podría aplicar ninguna regla a una transición \emph{privada}
+       desde lo que es visto a las palabras. Aquí las reglas realmente quedarían
+       colgando en el aire; pues la institución para su aplicación esta ausente.}
+
+     En \S381 entonces dirá:
+     \citalitinterlin{
+       Cómo reconozco que este color es rojo? ---Una respuesta sería: `He aprendido
+       [Español]'.}
+
+
+     \autocite{anscombe2011plato:rnpl}
+
+     El lenguaje, como el ir según una serie es una actividad gobernada por reglas.
 
      \citalitlar{ En cierto punto Wittgenstein estaba discutiendo en sus clases la
-             interpretación del letrero (sign-post), y estalló en mi que el modo en que
-             vas según éste es la interpretación
-             final.\autocite[p.~viii]{anscombe1981metaphysicsintro} }
+       interpretación del letrero (sign-post), y estalló en mi que el modo en que vas
+       según éste es la interpretación
+       final.\autocite[p.~viii]{anscombe1981metaphysicsintro} }
 
 
      Las lecciones con Wittgenstein eran directas y con franqueza. Esta metodología
@@ -1064,37 +1089,37 @@ El propósito de recorrer el desarrollo que lleva al Tractatus es ofrecer un tra
        no recuerdo haber hecho) hubiera señalado cosas o las hubiera mencionado como
        objetos familiares de mi experiencia.\autocite[p.~244]{POD}}
 
-     Su reflexión sobre la precepción fue pasando por varias étapas:
+          Su reflexión sobre la precepción fue pasando por varias étapas:
 
-     \citalitlar{ Estaba segura de que veía objetos, como paquetes de cigarrillos o
-       tazas o\ldots cualquier cosa más o menos sustancial servía. Pero pienso que
-       estaba concentrada en artefactos, como otros productos de la vida urbana, y
-       los primeros ejemplos mas naturales que me llamaron la atención fueron
-       `madera' y el cielo. Éste último me golpeó en el centro porque estaba diciendo
-       dogmáticamente que uno debe conocer la categoría de objeto del que uno está
-       hablando -- si era un color o un tipo de cosa, por ejemplo; \emph{eso}
-       pertenecía a la lógica del termino que uno estaba usando. No podía ser una
-       cuestión de descubrimiento empírico que algo perteneciera a una categoría
-       distinta. El cielo me detuvo.}
+          \citalitlar{ Estaba segura de que veía objetos, como paquetes de cigarrillos o
+            tazas o\ldots cualquier cosa más o menos sustancial servía. Pero pienso que
+            estaba concentrada en artefactos, como otros productos de la vida urbana, y
+            los primeros ejemplos mas naturales que me llamaron la atención fueron
+            `madera' y el cielo. Éste último me golpeó en el centro porque estaba diciendo
+            dogmáticamente que uno debe conocer la categoría de objeto del que uno está
+            hablando -- si era un color o un tipo de cosa, por ejemplo; \emph{eso}
+            pertenecía a la lógica del termino que uno estaba usando. No podía ser una
+            cuestión de descubrimiento empírico que algo perteneciera a una categoría
+            distinta. El cielo me detuvo.}
 
-     \citalitlar{Por años gastaría el tiempo, en cafés, por ejemplo, mirando
-       fijamente objetos y diciéndome: <<Veo un paquete. Pero ¿qué veo realmente?
-       ¿Cómo puedo decir que veo aquí algo mas que una extensión amarilla?>>
-       \autocite[p.~viii]{anscombe1981metaphysicsintro}}
+          \citalitlar{Por años gastaría el tiempo, en cafés, por ejemplo, mirando
+            fijamente objetos y diciéndome: <<Veo un paquete. Pero ¿qué veo realmente?
+            ¿Cómo puedo decir que veo aquí algo mas que una extensión amarilla?>>
+            \autocite[p.~viii]{anscombe1981metaphysicsintro}}
 
 
-     \citalitlar{Aún mientras hacía \emph{Honour Mods}, y por tanto antes de entrar
-       en mi curso de estudios de grado en filosofía, asístí a las lecciones de
-       H.~H.~Price en percepción y fenomenalismo. Las encontré intensamente
-       interesantes. Ciertamente, de toda la gente que escuché en Oxford, él fue
-       quien inspiró mi respeto; el único que encontré que merecía la pena escuchar.
-       Esto no era porque estuviera de acuerdo con él, en efecto, solía sentarme
-       rasgando mi vestido a tiras porque quería rebatir tanto de lo que él decía.
-       Aún así, me parecía que lo que decía era absolutamente sobre lo que había que
-       hablar. El único libro suyo que encontre muy bueno fue \emph{Hume's Theory of
-         the External World} lo leí de un golpe desde la primera oración a la última.
-       [\ldots] Fue él quien despertó mi intenso interés por el capítulo de Hume
-       ``Del escepticismo con respecto a los sentidos''.}
+          \citalitlar{Aún mientras hacía \emph{Honour Mods}, y por tanto antes de entrar
+            en mi curso de estudios de grado en filosofía, asístí a las lecciones de
+            H.~H.~Price en percepción y fenomenalismo. Las encontré intensamente
+            interesantes. Ciertamente, de toda la gente que escuché en Oxford, él fue
+            quien inspiró mi respeto; el único que encontré que merecía la pena escuchar.
+            Esto no era porque estuviera de acuerdo con él, en efecto, solía sentarme
+            rasgando mi vestido a tiras porque quería rebatir tanto de lo que él decía.
+            Aún así, me parecía que lo que decía era absolutamente sobre lo que había que
+            hablar. El único libro suyo que encontre muy bueno fue \emph{Hume's Theory of
+              the External World} lo leí de un golpe desde la primera oración a la última.
+            [\ldots] Fue él quien despertó mi intenso interés por el capítulo de Hume
+            ``Del escepticismo con respecto a los sentidos''.}
 
 
 
@@ -1123,9 +1148,9 @@ El propósito de recorrer el desarrollo que lleva al Tractatus es ofrecer un tra
 
 ** Investigaciones Filosóficas
 
-Entender un lenguaje es tener dominio de una técnica (199) Seguir una regla, afirmaba, es
-una práctica (202), una costumbre, uso o institución(199) estas conecciones lógicas
-requieren elucidación.
+   Entender un lenguaje es tener dominio de una técnica (199) Seguir una regla, afirmaba, es
+   una práctica (202), una costumbre, uso o institución(199) estas conecciones lógicas
+   requieren elucidación.
 
    Wittgenstein ofrece clarificaciones gramáticas de los conceptos y redes de los
    conceptos de nombre, palabra, significado de una palabra, significar algo con una
