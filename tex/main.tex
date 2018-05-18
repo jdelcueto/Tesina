@@ -5,8 +5,8 @@
 %Base Document Class
 \documentclass[
 10pt,twoside,
-draft
-%final
+%draft
+final
 ]{report}
 
 %Document Info
@@ -46,8 +46,8 @@ draft
 %citestyle=verbose 
 %]{biblatex}
 %The bibliography database
-%\addbibresource{../bibliography/bibliodb/primary.bib}
-%\addbibresource{../bibliography/bibliodb/secondary.bib}
+\addbibresource{../bibliography/bibliodb/primary.bib}
+\addbibresource{../bibliography/bibliodb/secondary.bib}
 
 \begin{document}
 
@@ -72,13 +72,13 @@ draft
 }
 
 %Dedicatoria
-\ifdraft{}{
-\subfile{./dedicatoria}
-\afterpage{\blankpage}
-}
+%\ifdraft{}{
+%\subfile{./dedicatoria}
+%\afterpage{\blankpage}
+%}
 %Table of Contents
 %\ifdraft{}{
-%    \tableofcontents
+    \tableofcontents
 %} 
 %Intro 
 %\ifdraft{}{
@@ -111,7 +111,7 @@ draft
 %Bibliography
 %\clearpage
 %\addcontentsline{toc}{chapter}{Bibliography}
-%\subfile{./bibliography}
+\subfile{./bibliography}
  
 \end{document}
 

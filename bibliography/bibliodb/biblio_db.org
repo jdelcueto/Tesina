@@ -13,6 +13,24 @@ Usually, primary sources are the object discussed in your paper. For instance, i
 are writing an analysis on Upton Sinclair’s The Jungle, the book would be a primary
 source. But, just because a source is old does not mean it is a primary source.
 :END:
+
+** By Russell
+*** Introduction to Mathematical Philosophy
+#+BEGIN_SRC bibtex :tangle primary.bib
+@book{russell1919intromathphi,
+author={Bertrand Russell},
+title={Introduction to Mathematical Philosophy},
+publisher={Spokesman},
+location={Nottingham},
+year={2008},
+origdate={1919},
+origlocation={London},
+isbn={9780851247380},
+%note={Reprint, Originally published in London in Allen and Unwin, 1919.},
+keywords={primary, wittgenstein, biography},
+}
+#+END_SRC
+
 ** By Wittgenstein
 *** Tractatus Logico-Philosophicus
 #+BEGIN_SRC bibtex :tangle primary.bib
@@ -25,15 +43,43 @@ keywords = "primary, wittgenstein",
 }
 #+END_SRC
 
+*** Wittgenstein's Journal 
+#+BEGIN_SRC bibtex :tangle primary.bib
+@book{wittgenstein1998cnv,
+ author = "Ludwig Wittgenstein",
+ editor = "Georg Henrik von Wright and Heikki Nyman and Alois Pichler",
+ title = "Culture and Value",
+ publisher = "Blackwell Publishing, Oxford",
+ year = "1998",
+ edition = {2 Rev.},
+ keywords = "primary, wittgenstein, biography",
+ }
+#+END_SRC
+*** Wittgenstein's Letters
+#+BEGIN_SRC bibtex :tangle primary.bib
+ @book{wittgenstein2012letters,
+ editor = "Brian McGuinness",
+ title = "Wittgenstein in Cambridge",
+ subtitle = "Letters and Documents 1911-1951",
+ publisher = "Wiley-Blackwell",
+ year = "2012",
+ keywords = "primary, wittgenstein, biography",
+ }
+#+END_SRC
+
+
 ** By Wittgenstein translated by G.E.M. Anscombe 
 *** Philosophical Investigations (1953)
 #+BEGIN_SRC bibtex :tangle primary.bib
 @book{wittgenstein1953phiinv,
-author = "Ludwig Wittgenstein",
-title = "Philosophical Investigations",
-publisher = "Wiley Blackwell",
-year = "2009",
-edition = "4",
+author={Ludwig Wittgenstein},
+title={Philosophical Investigations},
+publisher={Wiley Blackwell},
+location={Chichester},
+year={2009},
+edition={4},
+origdate={1953},
+isbn={9781405159289},
 keywords = "primary, wittgenstein",
 }
 #+END_SRC
@@ -60,7 +106,7 @@ keywords = "primary, wittgenstein",
 *** Intention (1957)
 *** An Introduction to Wittgenstein's Tractatus (1959)
 #+BEGIN_SRC bibtex :tangle primary.bib
-@book{IWT, 
+@book{anscombe1959iwt, 
 author={Gertrude Elizabeth Margaret Anscombe}, 
 title={An Introduction to Wittgenstein's Tractatus},
 publisher={St. Augustine's Press, Indiana}, 
@@ -136,12 +182,13 @@ http://www.worldcat.org/oclc/299374922
   abstract={}
   }
 #+END_SRC
+
 **** Metaphysics and the Philosophy of the Mind
 :worldcat:
  http://www.worldcat.org/oclc/10430565
 :end:
 #+BEGIN_SRC bibtex :tangle primary.bib
-  @mvcollection{anscombe1981metaphysics,
+  @collection{anscombe1981metaphysics,
   title={Metaphysics and the Philosophy of the Mind},
   author={Gertrude Elizabeth Margaret Anscombe},
   editor={Gertrude Elizabeth Margaret Anscombe},
@@ -163,15 +210,16 @@ http://www.worldcat.org/oclc/299374922
 ***** Introduction
 #+BEGIN_SRC bibtex :tangle primary.bib
   @incollection{anscombe1981metaphysicsintro,
-  booktitle={Metaphysics and the Philosophy of the Mind},
+%  booktitle={Metaphysics and the Philosophy of the Mind},
   title={Introduction},
-  author={Gertrude Elizabeth Margaret Anscombe},
-  series={The collected philosophical papers of G.E.M. Anscombe},
-  volume={2},
-  publisher={Basil Blackwell, Oxford},
-  year={1981},
-  keywords={Anscombe Elizabeth; Wittgenstein; Logic; Parmenides; Primary Source},
-  abstract={}
+%  author={Gertrude Elizabeth Margaret Anscombe},
+%  series={The collected philosophical papers of G.E.M. Anscombe},
+%  volume={2},
+%  publisher={Basil Blackwell, Oxford},
+%  year={1981},
+  crossref={anscombe1981metaphysics},
+%  keywords={Anscombe Elizabeth; Wittgenstein; Logic; Parmenides; Primary Source},
+%  abstract={}
   }
 #+END_SRC
 **** Ethics, Religion and Politics
@@ -214,7 +262,7 @@ http://www.worldcat.org/oclc/873936079
  }
 #+END_SRC
 
-*** St. Andrews Studies Collection (2005-2011)
+*** St. Andrews Studies Collection (2005-2015)
 **** From Plato to Wittgenstein
 #+BEGIN_SRC bibtex :tangle primary.bib
 @mvcollection{anscombe2011plato,
@@ -267,6 +315,34 @@ keywords={Anscombe Elizabeth; Primary Source; St Andrews}
 #+END_SRC
 
 
+**** 
+
+*** La Filosofía Analítica y la Espiritualidad del Hombre
+#+BEGIN_SRC bibtex :tangle primary.bib
+ @book{fa&esphom,
+ editor = "J.~M.~Torralba and J.~Nubiola",
+ title = "La Filosofía Analítica y la Espiritualidad del Hombre",
+ publisher = "Ediciones Universidad de Navarra, S.A., Pamplona",
+ year = "2005",
+ keywords = "primary, anscombe",
+ }
+#+END_SRC
+
+** By Peter Geach
+*** A Philosophical Autobiography
+#+BEGIN_SRC bibtex :tangle primary.bib
+ @incollection{phiaut,
+ editor = "H. A. Lewis",
+ booktitle = "Peter Geach: Philosophical Encounters",
+ title = "A Philosophical Autobiography",
+ publisher = "Springer Science \& Business Media",
+ series = "Synthese Library",
+ year = "2013",
+ volume = "213",
+ pages = "1-25",
+ keywords = "bio, anscombe, geach",
+ }
+#+END_SRC
 
 * Secondary Sources 
 :DEFINITION:
@@ -279,7 +355,6 @@ of the event that was discussed or featured in the primary source.
 They are second-hand accounts that interpret or draw conclusions from one or more
 primary sources.
 :END:
-
 ** José María Torralba
 *** Acción intencional y razonamiento práctico según G.E.M. Anscombe
 #+BEGIN_SRC bibtex :tangle secondary.bib
@@ -305,8 +380,9 @@ year = "2008",
 keywords = "primary, anscombe, teichmann",
 }
 #+END_SRC
-** Jenny Teichmann
-*** Biographical Memoirs of Fellows of The British Academy
+
+** Testimonios Biográficos Anscombe y Geach
+*** Biographical Memoirs of Fellows of The British Academy I
 :worldcat:
 http://www.worldcat.org/oclc/61430741
 :end:
@@ -323,6 +399,22 @@ volume = "115",
 isbn="0197262783",
 keywords = "bio, anscombe",
 }
+#+END_SRC
+
+*** Biographical Memoirs of Fellows of The British Academy XIV
+ %%url = "https://www.britac.ac.uk/sites/default/files/09\%20Geach\%201820.pdf"
+#+BEGIN_SRC bibtex :tangle secondary.bib
+ @incollection{biofellowsxiv,
+ author = "Anthony Kenny",
+ booktitle = "Biographical Memoirs of Fellows XIV",
+ title = "Peter Thomas Geach 1916–2013",
+ publisher = "Oxford University Press, Oxford",
+ year = "2016",
+ series= "Biographical Memoirs of Fellows",
+ volume = "14",
+ isbn = "9780197265918",
+ keywords = "bio, anscombe, geach",
+ }
 #+END_SRC
 
 ** Biografías de Wittgenstein
@@ -348,141 +440,143 @@ keywords = "bio, anscombe",
   }
 #+END_SRC 
 
-   %Primary Sources 
+** Accounts of Wittgenstein's Lectures
+*** Public and Private Occasions
+#+BEGIN_SRC bibtex :tangle secondary.bib
+ @book{KlaggeNordman2003pubnpriv,
+ editor = {James C. Klagge and Alfred Nordman},
+ title = {Ludwig Wittgenstein},
+ subtitle = {Public and Private Occasions},
+ publisher = {Rowman \& Littlefield Publishers Inc.}, 
+location = {Maryland},
+ year = {2003},
+ keywords = {secondary, wittgenstein, biography}
+ }
+#+END_SRC
 
-  %Anscombe 
+** Artículos
+*** The Tablet, wiseman lectures
+#+BEGIN_SRC bibtex :tangle secondary.bib
+ @article{wisemanlects,
+     author  = "",
+     title   = "From Our Notebook",
+     day     = "13",
+     month   = "11",
+     year    = "1971",
+     journal = "Tablet",
+     volume  = "225",
+     number  = "6858"
+ }
+#+END_SRC
+*** Cartas de Anscombe
+#+BEGIN_SRC bibtex :tangle secondary.bib
+ @article{NWR,
+	 author = {Christian Eric Erbacher and Sophia Krebs},
+	 title = {The First Nine Months of Editing Wittgenstein - Letters from G.E.M.
+                   Anscombe and Rush Rhees to G.H. von Wright},
+	 journal = {Nordic Wittgenstein Review},
+	 year = {2015},
+	 keywords = {Wittgenstein Ludwig; Wittgenstein's Nachlass; scholarly editing;
+                   history of analytical philosophy; Philosophical
+                   Investigations; Anscombe Elizabeth; Rhees Rush; Wright G.H.
+                   von},
+	 abstract = {The National Library of Finland (NLF) and the Von Wright and
+                   Wittgenstein Archives at the University of Helsinki (WWA) keep
+                   the collected correspondence of Georg Henrik von Wright,
+                   Wittgenstein’s friend and successor at Cambridge and one of
+                   the three literary executors of Wittgenstein’s Nachlass. Among
+                   von Wright’s correspondence partners, Elizabeth Anscombe and
+                   Rush Rhees are of special interest to Wittgenstein scholars as
+                   the two other trustees of the Wittgenstein papers. Thus, von
+                   Wright’s collections held in Finland promise to shed light on
+                   the context of decades of editorial work that made
+                   Wittgenstein’s later philosophy available to all interested
+                   readers. In this text, we present the letters which von Wright
+                   received from Anscombe and Rhees during the first nine months
+                   after Wittgenstein’s death. This correspondence provides a
+                   vivid picture of the literary executors as persons and of
+                   their developing relationships. The presented letters are
+                   beautiful examples of what the correspondence as a whole has
+                   to offer; it depicts – besides facts of editing – the story of
+                   three philosophers, whose conversing voices unfold the human
+                   aspects of inheriting Wittgenstein’s Nachlass. Their story
+                   does not only deal with editing the papers of an eminent
+                   philosopher, but with the attempt to do justice to the man
+                   they knew, to his philosophy and to his wishes for
+                   publication.},
+	 issn = {2242-248X},
+	 pages = {195--231},
+	 url = {https://www.nordicwittgensteinreview.com/article/view/3288}
+ }
+#+END_SRC
+** Exegesis de Investigaciones Filosóficas
+
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@mvcollection{bakerhacker2005understanding,
+title={Wittgenstein: Understanding and Meaning},
+subtitle={Part I: Essays},
+author={Gordon Park Baker and Peter Michael Stephan Hacker},
+isbn={1405101768},
+series={An Analytical Commentary on the Philosophical Investigations},
+volume={1},
+part={1},
+edition={2},
+publisher={Wiley Blackwell},
+year={2014},
+keywords={}
+}
+ #+END_SRC
+
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@mvcollection{bakerhacker2009understanding,
+title={Wittgenstein: Understanding and Meaning},
+subtitle={Part II: Exegesis \S\S1--184},
+author={Gordon Park Baker and Peter Michael Stephan Hacker},
+isbn={9781405199254},
+series={An Analytical Commentary on the Philosophical Investigations},
+volume={1},
+part={2},
+edition={2},
+publisher={Wiley Blackwell},
+year={2009},
+keywords={}
+}
+ #+END_SRC
 
 
-  %%url = "https://www.britac.ac.uk/sites/default/files/09\%20Geach\%201820.pdf"
-  @incollection{biofellowsxiv,
-  author = "Anthony Kenny",
-  booktitle = "Biographical Memoirs of Fellows XIV",
-  title = "Peter Thomas Geach 1916–2013",
-  publisher = "Oxford University Press, Oxford",
-  year = "2016",
-  series= "Biographical Memoirs of Fellows",
-  volume = "14",
-  isbn = "9780197265918",
-  keywords = "bio, anscombe, geach",
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@mvcollection{bakerhacker2014rules,
+title={Wittgenstein: Rules, Grammar and Necessity},
+subtitle={Essays and Exegesis \S\S185--242},
+author={Gordon Park Baker and Peter Michael Stephan Hacker},
+isbn={9781118854594},
+series={An Analytical Commentary on the Philosophical Investigations},
+volume={2},
+edition={2},
+publisher={Wiley Blackwell},
+year={2014},
+keywords={}
+}
+ #+END_SRC
+
+** Wittgenstein at Work
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@collection{ammereller2004wittgenstein,
+  title={Wittgenstein at Work: Method in the Philosophical Investigations},
+  author={Erich Ammereller and Eugen Fischer},
+  isbn={9781134374953},
+  year={2004},
+  publisher={Taylor \& Francis},
+  location={New York}
+}
+#+END_SRC
+
+#+BEGIN_SRC bibtex :tangle secondary.bib
+  @incollection{diamond2004crisscross,
+  title={Criss-cross Philosophy},
+  author={Cora Diamond},
+  pages={201-220},
+  crossref={ammereller2004wittgenstein},
   }
+#+END_SRC
 
-
-  @incollection{phiaut,
-  editor = "H. A. Lewis",
-  booktitle = "Peter Geach: Philosophical Encounters",
-  title = "A Philosophical Autobiography",
-  publisher = "Springer Science \& Business Media",
-  series = "Synthese Library",
-  year = "2013",
-  volume = "213",
-  pages = "1-25",
-  keywords = "bio, anscombe, geach",
-  }
-
-  @book{fa&esphom,
-  editor = "J.~M.~Torralba and J.~Nubiola",
-  title = "La Filosofía Analítica y la Espiritualidad del Hombre",
-  publisher = "Ediciones Universidad de Navarra, S.A., Pamplona",
-  year = "2005",
-  keywords = "primary, anscombe",
-  }
-
-
-
-
-  %Secondary Sources
-
-
-  %Wittgenstein's Diaries
-  @book{cnv,
-  author = "Ludwig Wittgenstein",
-  editor = "Georg Henrik von Wright and Heikki Nyman and Alois Pichler",
-  title = "Culture and Value",
-  publisher = "Blackwell Publishing, Oxford",
-  year = "1998",
-  edition = {2 Rev.},
-  keywords = "primary, wittgenstein, biography",
-  }
-
-  %Wittgenstein's Letters
-  @book{cambridgeletters,
-  editor = "Brian McGuinness",
-  title = "Wittgenstein in Cambridge",
-  subtitle = "Letters and Documents 1911-1951",
-  publisher = "Wiley-Blackwell",
-  year = "2012",
-  keywords = "primary, wittgenstein, biography",
-  }
-
-
-  %Russell
-  @book{introtomathphi,
-  author = "Bertrand Russell",
-  title = "Introduction to Mathematical Philosophy",
-  publisher = "Nottingham, Spokesman.",
-  year = "2008",
-  note = "Reprint, Originally published in London in Allen and Unwin, 1919.",
-  keywords = "primary, wittgenstein, biography",
-  }
-
-
-  %The Tablet, for news and testimonies
-  @article{wisemanlects,
-      author  = "",
-      title   = "From Our Notebook",
-      day     = "13",
-      month   = "11",
-      year    = "1971",
-      journal = "Tablet",
-      volume  = "225",
-      number  = "6858"
-  }
-
-  %Public and Private Occasions
-  @book{pubnpriv,
-  editor = "James C. Klagge and Alfred Nordman",
-  title = "Ludwig Wittgenstein",
-  subtitle = "Public and Private Occasions",
-  publisher = "{Rowman \& Littlefield Publishers Inc.}, Maryland",
-  year = "2003",
-  keywords = "secondary, wittgenstein, biography",
-  }
-
-  @article{NWR,
-	  author = {Christian Eric Erbacher and Sophia Krebs},
-	  title = {The First Nine Months of Editing Wittgenstein - Letters from G.E.M.
-                    Anscombe and Rush Rhees to G.H. von Wright},
-	  journal = {Nordic Wittgenstein Review},
-	  year = {2015},
-	  keywords = {Wittgenstein Ludwig; Wittgenstein's Nachlass; scholarly editing;
-                    history of analytical philosophy; Philosophical
-                    Investigations; Anscombe Elizabeth; Rhees Rush; Wright G.H.
-                    von},
-	  abstract = {The National Library of Finland (NLF) and the Von Wright and
-                    Wittgenstein Archives at the University of Helsinki (WWA) keep
-                    the collected correspondence of Georg Henrik von Wright,
-                    Wittgenstein’s friend and successor at Cambridge and one of
-                    the three literary executors of Wittgenstein’s Nachlass. Among
-                    von Wright’s correspondence partners, Elizabeth Anscombe and
-                    Rush Rhees are of special interest to Wittgenstein scholars as
-                    the two other trustees of the Wittgenstein papers. Thus, von
-                    Wright’s collections held in Finland promise to shed light on
-                    the context of decades of editorial work that made
-                    Wittgenstein’s later philosophy available to all interested
-                    readers. In this text, we present the letters which von Wright
-                    received from Anscombe and Rhees during the first nine months
-                    after Wittgenstein’s death. This correspondence provides a
-                    vivid picture of the literary executors as persons and of
-                    their developing relationships. The presented letters are
-                    beautiful examples of what the correspondence as a whole has
-                    to offer; it depicts – besides facts of editing – the story of
-                    three philosophers, whose conversing voices unfold the human
-                    aspects of inheriting Wittgenstein’s Nachlass. Their story
-                    does not only deal with editing the papers of an eminent
-                    philosopher, but with the attempt to do justice to the man
-                    they knew, to his philosophy and to his wishes for
-                    publication.},
-	  issn = {2242-248X},
-	  pages = {195--231},
-	  url = {https://www.nordicwittgensteinreview.com/article/view/3288}
-  }
