@@ -13,7 +13,6 @@ Usually, primary sources are the object discussed in your paper. For instance, i
 are writing an analysis on Upton Sinclair’s The Jungle, the book would be a primary
 source. But, just because a source is old does not mean it is a primary source.
 :END:
-
 ** By Russell
 *** Introduction to Mathematical Philosophy
 #+BEGIN_SRC bibtex :tangle primary.bib
@@ -66,7 +65,6 @@ keywords = "primary, wittgenstein",
  keywords = "primary, wittgenstein, biography",
  }
 #+END_SRC
-
 
 ** By Wittgenstein translated by G.E.M. Anscombe 
 *** Philosophical Investigations (1953)
@@ -209,19 +207,37 @@ http://www.worldcat.org/oclc/299374922
 #+END_SRC
 ***** Introduction
 #+BEGIN_SRC bibtex :tangle primary.bib
-  @incollection{anscombe1981metaphysicsintro,
-%  booktitle={Metaphysics and the Philosophy of the Mind},
+  @incollection{anscombe1981metaphysics:intro,
   title={Introduction},
-%  author={Gertrude Elizabeth Margaret Anscombe},
-%  series={The collected philosophical papers of G.E.M. Anscombe},
-%  volume={2},
-%  publisher={Basil Blackwell, Oxford},
-%  year={1981},
   crossref={anscombe1981metaphysics},
-%  keywords={Anscombe Elizabeth; Wittgenstein; Logic; Parmenides; Primary Source},
-%  abstract={}
+  keywords={Anscombe Elizabeth; Wittgenstein; Logic; Parmenides; Primary Source},
+  abstract={}
   }
 #+END_SRC
+***** The Intetionality of Sensation
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe1981metaphysics:intsens,
+  title={The Intetionality of Sensation: A Grammatical Feature},
+  crossref={anscombe1981metaphysics},
+  pages={3-20},
+  keywords={Anscombe Elizabeth; Wittgenstein; Logic; Parmenides; Primary Source},
+  abstract={}
+  }
+#+END_SRC
+***** The First Person
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe1981metaphysics:1stperson,
+  title={The First Person},
+  crossref={anscombe1981metaphysics},
+  pages={21-36},
+  keywords={Anscombe Elizabeth; Wittgenstein; Logic; Parmenides; Primary Source},
+  abstract={}
+  }
+#+END_SRC
+
+
+
+
 **** Ethics, Religion and Politics
 :worldcat:
 http://www.worldcat.org/oclc/873936079
@@ -262,7 +278,35 @@ http://www.worldcat.org/oclc/873936079
  }
 #+END_SRC
 
-*** St. Andrews Studies Collection (2005-2015)
+*** St. Andrews Studies Collection (2005-2016)
+**** Human Life Action and Ethics
+#+BEGIN_SRC bibtex :tangle primary.bib
+@mvcollection{anscombe2005ethics,
+title={Human Life Action and Ethics},
+author={Gertrude Elizabeth Margaret Anscombe},
+editora={Mary Geach},
+editorb={Luke Gormally},
+isbn={9781845400613},
+series={St. Andrews Studies in Philosophy and Public Affairs},
+publisher={Imprint Academic},
+year={2005},
+keywords={Anscombe Elizabeth; Primary Source; St Andrews}
+}
+ #+END_SRC
+**** Faith in a Hard Ground
+#+BEGIN_SRC bibtex :tangle primary.bib
+@mvcollection{anscombe2008faith,
+title={Faith in a Hard Ground},
+author={Gertrude Elizabeth Margaret Anscombe},
+editora={Mary Geach},
+editorb={Luke Gormally},
+isbn={9781845401214},
+series={St. Andrews Studies in Philosophy and Public Affairs},
+publisher={Imprint Academic},
+year={2008},
+keywords={Anscombe Elizabeth; Primary Source; St Andrews}
+}
+ #+END_SRC
 **** From Plato to Wittgenstein
 #+BEGIN_SRC bibtex :tangle primary.bib
 @mvcollection{anscombe2011plato,
@@ -277,8 +321,7 @@ year={2011},
 keywords={Anscombe Elizabeth; Primary Source; St Andrews}
 }
  #+END_SRC
-
-*****  Wittgenstein's 'two cuts' in the history of philosophy
+***** Wittgenstein's 'two cuts' in the history of philosophy
 #+BEGIN_SRC bibtex :tangle primary.bib
  @incollection{anscombe2011plato:twocuts,
  author = "Gertrude Elizabeth Margaret Anscombe",
@@ -314,9 +357,156 @@ keywords={Anscombe Elizabeth; Primary Source; St Andrews}
  }
 #+END_SRC
 
+**** Logic, Truth and Meaning
+#+BEGIN_SRC bibtex :tangle primary.bib
+@mvcollection{anscombe2015logic,
+title={Logic, Truth and Meaning},
+author={Gertrude Elizabeth Margaret Anscombe},
+editora={Mary Geach},
+editorb={Luke Gormally},
+isbn={9781845408800},
+series={St. Andrews Studies in Philosophy and Public Affairs},
+publisher={Imprint Academic},
+year={2015},
+keywords={Anscombe Elizabeth; Primary Source; St Andrews}
+}
+ #+END_SRC
+***** Introduction
+***** PART 1: Wittgenstein and the Tractatus
+***** PART 2: Thought and Belief
+****** Belief and Thought
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe2015logic:,
+  title={Belief and Thought},
+  crossref={anscombe2015logic},
+  keywords={},
+  abstract={}
+  }
+#+END_SRC
+****** Grounds of Belief
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe2015logic:grounds,
+  title={Grounds of Belief},
+  crossref={anscombe2015logic},
+  keywords={},
+  abstract={}
+  }
+#+END_SRC
+****** Motives for Beliefs of All Sorts
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe2015logic:motives,
+  title={Motives for Beliefs of All Sorts},
+  crossref={anscombe2015logic},
+  keywords={},
+  abstract={}
+  }
+#+END_SRC
+****** Thought and Existent Objects
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe2015logic:teo,
+  title={Thought and Existent Objects},
+  crossref={anscombe2015logic},
+  keywords={},
+  abstract={}
+  }
+#+END_SRC
+****** Knowledge and Essence
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe2015logic:ke,
+  title={Knowledge and Essence},
+  crossref={anscombe2015logic},
+  keywords={},
+  abstract={}
+  }
+#+END_SRC
+****** Grammar, Structure and Essence
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe2015logic:gse,
+  title={Grammar, Structure and Essence},
+  crossref={anscombe2015logic},
+  keywords={},
+  abstract={}
+  }
+#+END_SRC
+***** PART 3: Meaning, Truth and Existence
+****** Private Ostensive Definition
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe2015logic:pod,
+  title={Private Ostensive Definition},
+  crossref={anscombe2015logic},
+  keywords={},
+  abstract={}
+  }
+#+END_SRC
+****** Kripke on Rules and Private Language
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe2015logic:krpl,
+  title={Kripke on Rules and Private Language},
+  crossref={anscombe2015logic},
+  keywords={},
+  abstract={}
+  }
+#+END_SRC
+****** Truth, Sense and Assertion
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe2015logic:tsa,
+  title={Truth, Sense and Assertion},
+  crossref={anscombe2015logic},
+  keywords={},
+  abstract={}
+  }
+#+END_SRC
+****** 'Making True'
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe2015logic:mt,
+  title={`Making True'},
+  crossref={anscombe2015logic},
+  keywords={},
+  abstract={}
+  }
+#+END_SRC
+****** Existence and Truth
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe2015logic:et,
+  title={Existence and Truth},
+  crossref={anscombe2015logic},
+  keywords={},
+  abstract={}
+  }
+#+END_SRC
 
-**** 
-
+****** Existence and the Existential Quantifier
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe2015logic:eeq,
+  title={Existence and the Existential Quantifier},
+  crossref={anscombe2015logic},
+  keywords={},
+  abstract={}
+  }
+#+END_SRC
+****** On a Queer Pattern of Argument
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe2015logic:qpa,
+  title={On a Queer Pattern of Argument},
+  crossref={anscombe2015logic},
+  keywords={},
+  abstract={}
+  }
+#+END_SRC
+**** The Moral Philosophy of Elizabeth Anscombe
+#+BEGIN_SRC bibtex :tangle primary.bib
+@mvcollection{anscombe2016moral,
+title={The Moral Philosophy of Elizabeth Anscombe},
+author={Gertrude Elizabeth Margaret Anscombe},
+editora={Mary Geach},
+editorb={Luke Gormally},
+isbn={9781845408961},
+series={St. Andrews Studies in Philosophy and Public Affairs},
+publisher={Imprint Academic},
+year={2011},
+keywords={Anscombe Elizabeth; Primary Source; St Andrews}
+}
+ #+END_SRC
 *** La Filosofía Analítica y la Espiritualidad del Hombre
 #+BEGIN_SRC bibtex :tangle primary.bib
  @book{fa&esphom,

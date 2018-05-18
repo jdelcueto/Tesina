@@ -5,69 +5,114 @@
 ** Mind & Self
 Dos topics que despertaron el interés de Anscombe fueron la Causalidad y la Percepción.
 
-Si hay un ámbito en el que la influencia de Wittgenstein es notable en Anscombe es en su filosofía del pensamiento. Sin embargo, así como ocurre en el resto de su obra, Anscombe mantiene su originalidad. En este caso consiste en considerar que hay un importante elemento de verdad en lo que los empiricistas afirmaban.
-Los argumentos de J. L. Austin y otros filósofos del lenguaje ordinario arrojaron dudas sobre la idea del sense-data. En este intercambio Anscombe creía que había un importante elemento de verdad en lo que los empiristas habían estado tratando de decir. Otra peculiaridad es su propensión a confrontar problemas relacionados con la postura de la primera persona. 
+Si hay un ámbito en el que la influencia de Wittgenstein es notable en Anscombe es en
+su filosofía del pensamiento. Sin embargo, así como ocurre en el resto de su obra,
+Anscombe mantiene su originalidad. En este caso consiste en considerar que hay un
+importante elemento de verdad en lo que los empiricistas afirmaban. Los argumentos de
+J. L. Austin y otros filósofos del lenguaje ordinario arrojaron dudas sobre la idea del
+sense-data. En este intercambio Anscombe creía que había un importante elemento de
+verdad en lo que los empiristas habían estado tratando de decir. Otra peculiaridad es
+su propensión a confrontar problemas relacionados con la postura de la primera persona.
 
-Como Wittgenstein saca mucho de la asimetria entre los verbos psicológicos en primera persona y tercera persona y de la importancia de esa asimetría.  Sin embargo se detiene más en las expresiones en primera persona. En esto se aleja de ser behaviourist y expresa en la centralidad de la primera persona el grano de verdad en el fenomenalismo que con esfuerzo trata de resaltar. 
+Como Wittgenstein saca mucho de la asimetria entre los verbos psicológicos en primera
+persona y tercera persona y de la importancia de esa asimetría. Sin embargo se detiene
+más en las expresiones en primera persona. En esto se aleja de ser behaviourist y
+expresa en la centralidad de la primera persona el grano de verdad en el fenomenalismo
+que con esfuerzo trata de resaltar.
 
 ** Intentionality of sensation
-Para los empiricistas la pregunta central es ¿Qué percibimos directamente? Esta preocupación es crucial pues se entiende que los sensorial-perceptivo es la fuente más básica e importante del conocimiento humano. Lo percibido se conoce con mayor certeza de lo inferido desde estas cosas o datos. Para Locke, Berkeley y Hume somos concsientes de los contenidos de nuestra propia mente, y la cuestión sobre los sentidos-percepción se trata de una sobre la relación entre juicios sore estos contenidos y juicios sobre las cosas. Al llegar a Russell esta descripción ha llegado a ser bastante sofisticada. 
+Para los empiricistas la pregunta central es ¿Qué percibimos directamente? Esta
+preocupación es crucial pues se entiende que los sensorial-perceptivo es la fuente más
+básica e importante del conocimiento humano. Lo percibido se conoce con mayor certeza
+de lo inferido desde estas cosas o datos. Para Locke, Berkeley y Hume somos concsientes
+de los contenidos de nuestra propia mente, y la cuestión sobre los sentidos-percepción
+se trata de una sobre la relación entre juicios sore estos contenidos y juicios sobre
+las cosas. Al llegar a Russell esta descripción ha llegado a ser bastante sofisticada.
 
-Austin pone en duda estas posturas con la propuesta sobre el lenguaje ordinario. Lo que percibimos es el objeto físico ordinario, no el snes-datum. 
+Austin pone en duda estas posturas con la propuesta sobre el lenguaje ordinario. Lo que
+percibimos es el objeto físico ordinario, no el snes-datum.
 
-En "The Intentionality of Sensation" Anscombe busca ofrecer una alternativa. Lo hace desvelando los distintos modos en que frases como 'lo que ves', 'objeto de la percepción', etc. han de ser entendidas. La distinción más importante es entre los objetos intencionales de la percepción y los objetos materiales. Ambas lineas de pensamiento cometen el mismo erro: no reconocen la intencionalidad de la sensación. A esto, sin embargo, reaccionan asumiendo posturas opuestas. 
+En "The Intentionality of Sensation" Anscombe busca ofrecer una alternativa. Lo hace
+desvelando los distintos modos en que frases como 'lo que ves', 'objeto de la
+percepción', etc. han de ser entendidas. La distinción más importante es entre los
+objetos intencionales de la percepción y los objetos materiales. Ambas lineas de
+pensamiento cometen el mismo erro: no reconocen la intencionalidad de la sensación. A
+esto, sin embargo, reaccionan asumiendo posturas opuestas.
 
 ** 'Making True' (1982)
-If you are told or othewise believe an either-or proposition, the question may easily arise what makes it true.
+If you are told or othewise believe an either-or proposition, the question may easily
+arise what makes it true.
 
-Similarly, if it is said that some elements have a certain property, the question may arise which do.
+Similarly, if it is said that some elements have a certain property, the question may
+arise which do.
 
-Thus though an either-or proposition or a some proposition, if true, must be made true by the truth of some such other proposition, in general none of these must be true if the original proposition is.
-This shows that explanation by means of truth conditions does not provide an analysis in these cases.
-By an 'analysis' I mean something that is at least an equivalent proposition. 
+Thus though an either-or proposition or a some proposition, if true, must be made true
+by the truth of some such other proposition, in general none of these must be true if
+the original proposition is. This shows that explanation by means of truth conditions
+does not provide an analysis in these cases. By an 'analysis' I mean something that is
+at least an equivalent proposition.
 
 ** Verdad (1983)
    
 ** Faith
 There was a "we used to believe…" which I think could have been said with some truth…
-There was in the preceding time a professed enthusiasm for rationality, perhaps inspired by the teaching of Vatican I against fideism, certainly carried along by the promotion of neo-tomist studies. 
-The word was that the Catholic Christian Faith was rational.
-Why would it essentially need the promptings of grace to follow the process of reasoning? It was as if we were assured there was a chain of proof.
-First God,  then the divinity of Jesus Christ. Then the establishment of a Church with  a Pope at the head of it and with a teaching commission from him. This body was readily identifiable. Hence you could demonstrate the truth of what the church taught.
+There was in the preceding time a professed enthusiasm for rationality, perhaps
+inspired by the teaching of Vatican I against fideism, certainly carried along by the
+promotion of neo-tomist studies. The word was that the Catholic Christian Faith was
+rational. Why would it essentially need the promptings of grace to follow the process
+of reasoning? It was as if we were assured there was a chain of proof. First God, then
+the divinity of Jesus Christ. Then the establishment of a Church with a Pope at the
+head of it and with a teaching commission from him. This body was readily identifiable.
+Hence you could demonstrate the truth of what the church taught.
 
-That faith and knowledge are not the same could be accounted for by the extrinsic character of the proofs of the de fide doctrines.
+That faith and knowledge are not the same could be accounted for by the extrinsic
+character of the proofs of the de fide doctrines.
 
-The knowledge whch was contrasted with faith would be knowledge by proofs intrinsic to the subject matter, 
-not by proofs from someone's having said these things were true.
+The knowledge whch was contrasted with faith would be knowledge by proofs intrinsic to
+the subject matter, not by proofs from someone's having said these things were true.
 
-For matters which were strictly 'of faith' intrinsic proofs were not possible, and that was why faith contrasted with knowledge.
+For matters which were strictly 'of faith' intrinsic proofs were not possible, and that
+was why faith contrasted with knowledge.
 
 This is a picture of the more extravagant form of this teaching.
 
-A more sober variation:
-Related to the Church that our lord established;
-one wouldn't identify the church by its having the Pope, but the other way around. Allowing the believer to comitt to the Christian faith instead of the pope.
+A more sober variation: Related to the Church that our lord established; one wouldn't
+identify the church by its having the Pope, but the other way around. Allowing the
+believer to comitt to the Christian faith instead of the pope.
 
-A yet more sober variant:
-avoids trading on the cultural inheritance for which the name of Jesus was so holy that it was easy to go straight from belief in God to belief in Jesus as God's son. 
-In this variant one would be aware of the dependence of the New Testament in the Old, raising consciousness to the meaning of calling our Lord "Christ".
+A yet more sober variant: avoids trading on the cultural inheritance for which the name
+of Jesus was so holy that it was easy to go straight from belief in God to belief in
+Jesus as God's son. In this variant one would be aware of the dependence of the New
+Testament in the Old, raising consciousness to the meaning of calling our Lord
+"Christ".
 
-These 'sober variants' had the disadvantage that it wasn't easy to see that what Jesus established was matched by the Catholic Church that we know. Learning and skill would be required to make th identification. 
+These 'sober variants' had the disadvantage that it wasn't easy to see that what Jesus
+established was matched by the Catholic Church that we know. Learning and skill would
+be required to make th identification.
 
-The so-called preambles of faith could not possibly have the sort of certainty that it had. And if less, then where was the vaunted rationality?
+The so-called preambles of faith could not possibly have the sort of certainty that it
+had. And if less, then where was the vaunted rationality?
 
-A graver problem was the one about the faith of the simple. They don't have an inferior faith. Also those who studied didn't really knew those things. 
-Knowledge was there somehow, perhaps scattered, perhaps theorethically or abstractly available. In the belief that this was so, one was being rational in having faith.
+A graver problem was the one about the faith of the simple. They don't have an inferior
+faith. Also those who studied didn't really knew those things. Knowledge was there
+somehow, perhaps scattered, perhaps theorethically or abstractly available. In the
+belief that this was so, one was being rational in having faith.
 
-But this was problematic... and so adherence to faith was really a matter of hanging on, and both its being a gift and its voluntariness would at this point be stressed.
+But this was problematic... and so adherence to faith was really a matter of hanging
+on, and both its being a gift and its voluntariness would at this point be stressed.
 
-There is a vacuum where the ideas about the faith as rational, these considerations, proofs, arguments and problems are now out of fashion.
+There is a vacuum where the ideas about the faith as rational, these considerations,
+proofs, arguments and problems are now out of fashion.
 
-The passing away of these positions  is not to be regretted. They attached the character of 'rationality' entirely to what were called the preambles to faith itself.  
+The passing away of these positions is not to be regretted. They attached the character
+of 'rationality' entirely to what were called the preambles to faith itself.
 
-Both the preambles and the passage from them to faith itself are an 'ideal' construction a fanciful construction dreamed up according to prejudices about what it is to be reasonable in holding a belief.
+Both the preambles and the passage from them to faith itself are an 'ideal'
+construction a fanciful construction dreamed up according to prejudices about what it
+is to be reasonable in holding a belief.
 
-*/The right designation for what are called the "preambles" of faith is not that but at least for prt of them, "presuppositions"/*
+*/The right designation for what are called the "preambles" of faith is not that but at
+least for prt of them, "presuppositions"/*
 
 We can use an example of human faith to explain this.
 
@@ -415,13 +460,12 @@ it appears to me there is more to be said than that about the priority of rightn
 
 ** Truth: Anselm ot Thomas?
 
-Anselm: dialogue On Truth
-Proposal to look through the various things that are said to have truth in them.
-Starts with propositions: any signs that come about to signify something's being or not the case.
-Stinkign things about his discussion:
-the identification of truth with rightness of assertion. 
-	What is the assertion for? To signify as being the case what is the case.
-		the truth of a proposition = the rightness of an assertion = truth/rightness of  a signifying
+Anselm: dialogue On Truth Proposal to look through the various things that are said to
+have truth in them. Starts with propositions: any signs that come about to signify
+something's being or not the case. Stinkign things about his discussion: the
+identification of truth with rightness of assertion. What is the assertion for? To
+signify as being the case what is the case. the truth of a proposition = the rightness
+of an assertion = truth/rightness of a signifying
 
 ** Notas Sueltas
 
