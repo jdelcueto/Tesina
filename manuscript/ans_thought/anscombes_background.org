@@ -73,7 +73,7 @@
    ¿Es esta una pregunta sobre la representación que significan las palabras? ¿Es una
    pregunta sobre el uso que se les da a las palabras?
 
-* DONE /Expositio/: Efecto W. y desarrollo del Tractatus[100%]
+* TODO /Expositio/: Efecto W. y desarrollo del Tractatus[80%]
   :DEFINITION:
   Lo que se describe
   :END:
@@ -576,7 +576,7 @@
       %4. La diferencia ente decir y mostrar
     #+END_SRC
 
-** DONE Las elucidaciones del Tractatus [100%]
+** TODO Las elucidaciones del Tractatus [80%]
    #+BEGIN_SRC latex
      \subsection{Las elucidaciones del Tractatus}
      % Este párrafo resume los cuatro puntos del Tractatus que se desglosarán en los
@@ -601,6 +601,77 @@
      debemos intentar enunciar, sino más bien contemplar sin palabras.\autocite[cf.
      p.19]{anscombe1959iwt}
    #+END_SRC
+*** TODO Proposiciones elementales
+5. Wittgenstein
+In the preface to his first work, the Tractatus Logico-Philosophicus, Wittgenstein
+records his debt to both Frege and Russell. From Frege he inherited the assumptions
+that the logic that Frege had developed was the logic of our language and that
+propositions are essentially of function-argument form. “Like Frege and Russell I
+construe a proposition as a function of the expressions contained in it.” (TLP, 3.318;
+cf. 5.47.) From Russell he learnt the significance of the theory of descriptions. “It
+was Russell who performed the service of showing that the apparent logical form of a
+proposition need not be its real one.” (TLP, 4.0031.) Unlike Frege and Russell,
+however, he thought that ordinary language was in perfect logical order as it was (TLP,
+5.5563). The aim was just to show how this was so through the construction of an ideal
+notation rather than an ideal language, revealing the underlying semantic structure of
+ordinary propositions no longer obscured by their surface syntactic form.
+
+Arguably unlike Frege, too, Wittgenstein was convinced at the time of the Tractatus
+that “A proposition has one and only one complete analysis” (TLP, 3.25). The
+characteristic theses of the Tractatus result from thinking through the consequences of
+this, in the context of Fregean logic. Propositions are seen as truth-functions of
+elementary propositions (4.221, 5, 5.3), and elementary propositions as functions of
+names (4.22, 4.24). The meaning of each name is the simple object that it stands for
+(3.203, 3.22), and these simple objects necessarily exist as the condition of the
+meaningfulness of language (2.02ff.). For Wittgenstein, the existence of simple objects
+was guaranteed by the requirement that sense be determinate (3.23; cf. NB, 63). It was
+in this way that Wittgenstein reached metaphysical conclusions by rigorously pursuing
+the implications of his logical views. As he noted in his Notebooks in 1916, “My work
+has extended from the foundations of logic to the nature of the world” (NB, 79).
+
+According to Wittgenstein, then, analysis—in principle—takes us to the ultimate
+constituents of propositions, and indeed, to the nature of the world itself. That
+Wittgenstein was unable to give any examples of simple objects was not seen as an
+objection to the logical conception itself. Equally definite conclusions were drawn as
+far as our thought was concerned. “If we know on purely logical grounds that there must
+be elementary propositions, then everyone who understands propositions in their
+unanalysed form must know it.” (TLP, 5.5562.) The claim might seem obviously false, but
+it was precisely the task of analysis to bring out what we only tacitly know.
+
+This whole logical and metaphysical picture was dismantled in Wittgenstein’s later work
+(see especially PI, §§1-242). The assumption that Fregean logic provides the logic of
+language and the world was rejected, and the many different uses of language were
+stressed. The idea that names mean their bearers, the various theses of functionality
+and compositionality, and the associated appeal to tacit processes of generating
+meaning were criticized. On Wittgenstein’s later view, “nothing is hidden” (PI, §435;
+cf. Malcolm 1986, 116); philosophy is simply a matter of getting clear about what is
+already in the public domain—the grammar of our language (PI, §§ 122, 126).
+
+Our investigation is therefore a grammatical one. Such an investigation sheds light on
+our problem by clearing misunderstandings away. Misunderstandings concerning the use of
+words, caused, among other things, by certain analogies between the forms of expression
+in different regions of language.—Some of them can be removed by substituting one form
+of expression for another; this may be called an “analysis” of our forms of expression,
+for the process is sometimes like one of taking a thing apart. (PI, §90 [Full
+Quotation]) Wittgenstein’s earlier conception of analysis, as combining logical
+analysis with decompositional analysis, has given way to what has been called
+‘connective’ analysis (Strawson 1992, ch. 2; Hacker 1996, ch. 5). Given how deeply
+embedded that earlier conception was in the whole metaphysics of the Tractatus, the
+critique of the Tractatus has been seen by some to imply the rejection of analysis
+altogether and to herald the age of ‘post-analytic’ philosophy. But even Wittgenstein
+himself does not repudiate analysis altogether, although (as the passage just quoted
+suggests) he does tend to think of ‘analysis’ primarily in its crude decompositional
+sense. Not only may logical analysis, in the sense of ‘translating’ into a logical
+language, still have value in freeing us from misleading views of language, but
+‘connective’ analysis is still worthy of being called ‘analysis’ (as we shall see in
+the next three sections).
+
+For further discussion, see Baker and Hacker 1980, chs. 2-3; Carruthers 1990, ch. 7;
+Glock 1996, 203-8; Hacker 1996, chs. 2, 5; Malcolm 1986, chs. 6-7.
+
+
+
+
 *** DONE La filosofia como actividad
     CLOSED: [2018-04-14 Sat 11:13]
     #+BEGIN_SRC latex

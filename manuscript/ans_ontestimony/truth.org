@@ -107,12 +107,243 @@ On Brute Facts
 
 #+END_SRC
 
-* /Disputatio/: 
-:STATEMENT: 
+* Sensefulness and bivalence
+  In Anscombe's writing, the two topics of meaning and truth, insofar as they can be
+  separated, seem to enjoy roguhly equal status, although her manner of with each is not
+  the same.
 
-:END:
+  A. Almost always invokes meaning in the course of dealing with a topic not belonging
+  as such to philosophy of language. By contrast A. treats truth much more as a topic in
+  its own right.
 
-** San Anselmo
+  For A. in indicative sentences sensefulness is associated with bivalence. W. and
+  Russell is in the same side of the fence. For them 'having a sense' was one and the
+  same thing with being true or false. A. says that W. remained on this side of the
+  fence his whole life.(IWT 58, 59) (TEICH192)
+
+* What can hold of thought
+  ``It was left to the moderns to deduce what could be from what could hold of thought,
+  as we see Hume to have done. This trend is still strong. But the ancientys had the
+  better approach, arguing only that a thought was impossible because the thing was
+  impossible, or as the Tractatus puts i, 'an impossible thought is an impossible
+  thought''. (FPW,p .xi) (TEICH 193)
+
+  A. does not swallow the whole of the picture theory of propositions. But she sees what
+  is probably the most illuminating thing about W.'s comparison of propositions and
+  pictures; namely, this janus-faced aspect of a proposition, an aspect that can be
+  expressed in various ways... in her lecture ``la verdad'' 
+
+
+* Making True (1982)
+
+** If believe an either-or prop question what makes it true? arise
+*** Regarding some historic fact
+*** regarding the elements that may have some property
+
+thus 
+
+though an either-or prop or a some prop, if true, 
+
+must be made true by the truth
+of some such other prop, 
+in general none of these 
+
+must be true 
+
+if the original proposition is
+
+if the original proposition is true then none of the other propositions must be true
+
+This shows that 
+
+*** explanations of truth conditions does not provide analysis in these cases
+explanations by means of truth conditions does not provide an analysis
+in these cases
+
+by analysis I mean  - something that is at least an equivalent proposition
+
+For an either-or proposition 
+neither 
+the conjunction of all of its elements
+nor 
+one of its elements
+nor 
+the conjunction of any subset of its elements up
+to the totality of them all 
+
+is a proposition equivalent to the either-or proposition 
+
+-
+though any subset up to the totality will make the either-or proposition true. 
+
+And
+similarly for 'some' propositions 
+
+either p or q or x or z is true
+      
+| either | p | or | q | or | z |   |
+|        | T |    | F |    | F | T |
+|        | T |    | T |    | T | T |
+
+p and q and z
+
+nor
+
+p
+
+nor
+
+p1 and p2 and p3
+..etc
+
+is a proposition equivalent to an either-or proposition 
+
+'p and q and z' is not equivalent to 'either p or q o z'
+
+some e have p
+
+x != z
+x != a
+x != b
+a != b
+
+(x and z have p) and (a and b have p) is true
+no contradiction
+
+what is the sense of the disjunction in an either-or proposition?
+what is the sense of the disjunction in a some proposition? 
+
+when one asserts a disjunction or a 'some' proposition, the question what does make it
+true is not a question about its sense.
+
+At best it may be a question about one has in mind.
+
+a How do you mean? question.
+
+one need not have anything in mind in that way 
+
+if a disjunction is true because more than one of its elements is true there is no work
+shared between them
+
+there is another way of making true
+what makes that the french flag?
+formal cause: description of the flag going from the flagpole outwards
+efficient cause: historical account of proceedings by which the tricolour was adopted
+
+*there is a way of making true*
+that is the fulfilment of a truth condition 
+that is the formal cause
+that is the efficient cause
+
+how assertions of hypocrisy are made true?
+
+
+p is made true by the fact that p
+
+in a tractatus-like metaphysics of facts this would be possible
+we would have reached an elementary proposition made true by an atomic fact
+
+without such metaphysic we are only saying 
+p is made true by its being the case that p, or by its being true!
+
+that is an empty statement, with only false air of explanation
+In the end we'd have to accept as termini
+
+propositions which are true without being made true
+
+if this seems shocking is because of a deep metaphysical prejudice
+
+there is no reason to be
+shocked if we take making true in any of the senses that she
+has mentioned
+
+a disjunction is made tru by the truth of any of its elements, but they don't have to
+be disjunctions
+
+when they aren't disjunctions we've got to the terminus of that sort of making true
+
+there is a formal cause of this being x
+namely the arrangement of y
+there is a formal cause of y, but 
+it is unlikely that it too will have a formal cause in its turn
+
+
+if we take into account these senses of making true:
+disjunctions are made true by elements that are not disjunctions
+
+formal causes make true without having formal causes
+
+it is not shocking that:
+truths make true without being made true by other truths
+
+there are propositions that are true without being made true
+
+a disjunction is a propostion which is made true by
+
+elements which are not disjunctions
+
+this element is not made true 
+
+this element is a proposition which is true without being made true
+
+and so 
+
+the termination of truths being made true by other truths
+
+ in truths not made true in any sense 
+that has been introduced
+
+is not so bad after all
+
+
+the general principle 
+that 
+can't by rebutted by
+
+the general principle is rebutted 
+if we demand that the particular manner of making true
+always be given
+
+for the question that is being asked
+
+when one says what,
+
+if anything
+
+makes a certain proposition true
+
+
+
+when one says what makes a certain proposition true 
+
+we can demand 
+
+that the particular manner of making true be given
+
+for 
+the question 
+
+in what manner of making true 
+
+are you asking for what makes this true?
+
+it is not so that 
+
+you can call in question any idea of making true 
+to rebute the general principle that
+what is true must be made true by something 
+
+it is so that 
+
+you can demand that the particular manner of making true always be given for the
+question that is being asked when one says what makes a certain proposition true 
+to rebute the general principle that what is true must be made tru by something
+
+
+
+
+
+* San Anselmo
 Capítulo II 
 Sobre la verdad de la significación y las dos verdades de la enunciación.
 
@@ -243,7 +474,54 @@ indicaciones que se hacen con los dedos.
 D. Pasa a las otras cosas.
 
 ** Anscombe
-* Truth Sense and Assertion
+* Truth (1983)
+** truth in a proposition, as we often call that true or false
+*** What is the primary bearer of truth?
+ People ask now whait is the primary bearer of truth, and they concentrate on a narrow
+ range of possible answers: judgements, beliefs, premises, conclusions, reports,
+ testimony, statements or assertions, propositions. 
+*** Now as in 11th century many would stop at propositions
+ Indeed, now as in the eleventh
+ century a great many would stop at statements or porpositions and consider only those.
+ In the theory of meaning, these classes are obviously the ones most naturally thought
+ of as containing the bearers of the predicate `true'.
+*** What is it for a proposition to be true?
+ And so I may say with St. Anselm: `Let us first look for what truth is in a
+ proposition, since we rather often call that true or false.
+*** Is the truth of a proposition it's corresponding reality (fact)?
+ Is it the res enunciata?
+
+** What is the primacy of truth over falsehood?
+
+A. raises the question having to do with the primacy of truth over falsehood. What is
+the inequality of truth and falsehood? Anselm solution to this is to ascribe a purpose
+to the assertion, that of saying what is tha case. What is to use a proposition to say
+what is the case? Could we adopt the rule of using propositional signs to say what is
+not the case? Can we not make ourselves understood with false propositions just as we
+have done up till now with true ones? So long as it is known that they are false. No!
+For a proposition is true if we use it to say things stand in a certain way, and they
+do; and if by 'p' we mean not-p and things stand as we mean that they do, then,
+construed in the new way, 'p' is true and not false.(TRACTATUS 4.062)
+
+A. asks: Does the general impossibility [of exchanging the roles of true and false]
+contain the whole substance of the ``not equally justified relations''? A. takes W. to
+have said that truth and falsehood do not bear equally justified relations to the
+things depicted.
+
+How does truth and not falsehood bear a 'justified relation' to the thing signified?
+Teichmann thinks the answer can be found in A.'s explanation of practical necessity.
+It has two strands: an account of the nature of stopping/forcing modals; an account of
+the aristotelian necessity of our going in for the practice within which those modals
+have force.
+
+Still Teichmann believes this answer wouldn't satisfy A., the justified relation that
+truth has to the thing signified is not just one of practical necessity, for lying is
+an offence to truth itself. God as truth is Anselm's notion of summa veritas. A. isn't
+opposed to the idea of there being mysteries. Trascendental unity of truth is stressed
+by this idea. (cfr. TEICH 198)
+
+* Truth Sense and Assertion (1984)
+** Is enunciation the same as signification?
 
 The significance --the sense-- of the proposition is the same wether it is true or
 false.
@@ -256,104 +534,74 @@ Is enunciation the same as signification?
 This question should elicit from us the last bit, the keystone of the arch representing
 the relations of truth, sense and assertion. 
 
+** There is no 'thing enuntiated' by a false proposition
 There is no `thing enuntiated'  by a false proposition. 
 
 A true proposition tells one something if one believes it.
 
 A false proposition believed still tells its believer nothing.
 
-A /person/ may tell one a falsehood
-but
+** person may tell falsehood,prop tells something only if it's true
 
-just as we say that a proposition as well as a person /says/ such and such,
+ A /person/ may tell one a falsehood
+ but
 
-so we may also say that a proposition believed /tells/ its believer something
+ just as we say that a proposition as well as a person /says/ such and such,
 
-but only if its true
+ so we may also say that a proposition believed /tells/ its believer something
 
-for then it reflects the being so of what it is so 
+ but only if its true
 
-but the analogue of this, for a false propositio, would be that it reflects the being
-so of what is not so.
+ for then it reflects the being so of what it is so 
 
-And there is no such thing as either
+ but the analogue of this, for a false proposition, would be that it reflects the being
+ so of what is not so.
 
-a paradox, on the other hand does not say anything. 
+ And there is no such thing as either
 
-the false proposition, while it does say something, does not, being believed, tell its
-believers anything
+** paradox says nothing,false proposition says something,tells nothing 
+a paradox, on the other hand does not say anything.
 
-So: he who thinks what is false thinks what is not; he thinks something which tells him
-nothing; but that doesn't mean he thinks nothing
-* truth in a proposition, we often call that true or false
-** What is the primary bearer of truth?
-People ask now whait is the primary bearer of truth, and they concentrate on a narrow
-range of possible answers: judgements, beliefs, premises, conclusions, reports,
-testimony, statements or assertions, propositions. 
-** Now as in 11th century many would stop at propositions
-Indeed, now as in the eleventh
-century a great many would stop at statements or porpositions and consider only those.
-In the theory of meaning, these classes are obviously the ones most naturally thought
-of as containing the bearers of the predicate `true'.
-** What is it for a proposition to be true?
-And so I may say with St. Anselm: `Let us first look for what truth is in a
-proposition, since we rather often call that true or false.
-** Is the truth of a proposition it's corresponding reality (fact)?
-Is it the res enunciata?
+ the false proposition, while it does say something, does not, being believed, tell its
+ believers anything
 
-* What is the primacy of truth over falsehood?
+** thinking what is false is thinking something: what is not.
+ So: he who thinks what is false thinks what is not; he thinks something which tells him
+ nothing; but that doesn't mean he thinks nothing
+
+** thinking what is false is thinking something which tells nothing
 
 
 
- In Anscombe's writing, the two topics of meaning and truth, insofar as they can be
- separated, seem to enjoy roguhly equal status, although her manner of with each is not
- the same.
+Unity of truth
 
- A. Almost always invokes meaning in the course of dealing with a topic not belonging
- as such to philosophy of language. By contrast A. treats truth much more as a topic in
- its own right.
+Something can be true without existing
 
- For A. in indicative sentences sensefulness is associated with bivalence. W. and
- Russell is in the same side of the fence. For them 'having a sense' was one and the
- same thing with being true or false. A. says that W. remained on this side of the
- fence his whole life.(IWT 58, 59) (TEICH192)
+if truth, rightness, vary according to what kind of thing is true or right, then their
+existence depends on the existence of those subjects of them 
 
- ``It was left to the moderns to deduce what could be from what could hold of thought,
- as we see Hume to have done. This trend is still strong. But the ancientys had the
- better approach, arguing only that a thought was impossible because the thing was
- impossible, or as the Tractatus puts i, 'an impossible thought is an impossible
- thought''. (FPW,p .xi) (TEICH 193)
+contrast truth(rightness) vs properties so inherent in ther subjects that they wouldn't
+exist without their subjects
 
- A. does not swallow the whole of the picture theory of propositions. But she sees what
- is probably the most illuminating thing about W.'s comparison of propositions and
- pictures; namely, this janus-faced aspect of a proposition, an aspect that can be
- expressed in various ways... in her lecture ``la verdad'' A. raises the question
- having to do with the primacy of truth over falsehood. What is the inequality of truth
- and falsehood? Anselm solution to this is to ascribe a purpose to the assertion, that
- of saying what is tha case. What is to use a proposition to say what is the case?
- Could we adopt the rule of using propositional signs to say what is not the case? Can
- we not make ourselves understood with false propositions just as we have done up till
- now with true ones? So long as it is known that they are false. No! For a proposition
- is true if we use it to say things stand in a certain way, and they do; and if by 'p'
- we mean not-p and things stand as we mean that they do, then, construed in the new
- way, 'p' is true and not false.(TRACTATUS 4.062)
+truth(rightness) exists without bearers
 
- A. asks: Does the general impossibility [of exchanging the roles of true and false]
- contain the whole substance of the ``not equally justified relations''? A. takes W. to
- have said that truth and falsehood do not bear equally justified relations to the
- things depicted.
 
- How does truth and not falsehood bear a 'justified relation' to the thing signified?
- Teichmann thinks the answer can be found in A.'s explanation of practical necessity.
- It has two strands: an account of the nature of stopping/forcing modals; an account of
- the aristotelian necessity of our going in for the practice within which those modals
- have force.
+Truth is:
 
- Still Teichmann believes this answer wouldn't satisfy A., the justified relation that
- truth has to the thing signified is not just one of practical necessity, for lying is
- an offence to truth itself. God as truth is Anselm's notion of summa veritas. A. isn't
- opposed to the idea of there being mysteries. Trascendental unity of truth is stressed
- by this idea. (cfr. TEICH 198)
+-a property (rectitudo) which something can have without existing propositions don't
+have to exist to be true
+
+-if we want to say that truth is something that varies according to its bearers
+that there are different kinds of truth we first have to attack anselm's first argument
+if truth, rightness, vary according to what kind of thing is true or right, then their
+existence depends on the existence of those subjects of them 
+
+-truth(rightness) exists without bearers
+-primary in assertion over falsehood because a true proposition tells something when it
+is believed, but falsehood tells nothing
+-made in propostions by true propositions that aren't made true
+
+
 
 
 
