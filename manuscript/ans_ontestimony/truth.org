@@ -573,7 +573,7 @@ a paradox, on the other hand does not say anything.
 
 
 
-Unity of truth
+* Unity of truth
 
 Something can be true without existing
 
@@ -586,7 +586,7 @@ exist without their subjects
 truth(rightness) exists without bearers
 
 
-Truth is:
+* Truth is:
 
 -a property (rectitudo) which something can have without existing propositions don't
 have to exist to be true
