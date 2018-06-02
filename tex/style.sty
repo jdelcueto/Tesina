@@ -36,7 +36,7 @@ marginparwidth=5cm, marginparsep=1cm]{geometry}
 %FONT---------------------------------
 
 %LOAD FONTSPEC
-\usepackage{fontspec,xltxtra,xunicode} 
+\usepackage{fontspec,xltxtra,xunicode}
 %Font: ARIAL UNICODE REPLACEMENT:TeX Gyre(http://www.gust.org.pl/projects/e-foundry/tex-gyre/)
 \setmainfont[
     Extension=.otf,
@@ -80,7 +80,7 @@ marginparwidth=5cm, marginparsep=1cm]{geometry}
 
 %Disable Hyphenation
 %\pretolerance=10000
-%\tolerance=2000 
+%\tolerance=2000
 %\emergencystretch=10pt
 
 %Control Hyphenation of Compound Words
@@ -119,7 +119,6 @@ marginparwidth=5cm, marginparsep=1cm]{geometry}
 
 % MATH SYMBOLS
 \usepackage{mathtools}
-
 
 %TITLES-----------------------
 %Numbering Depth:
@@ -221,7 +220,7 @@ marginparwidth=5cm, marginparsep=1cm]{geometry}
 \usepackage{fancyhdr}
 \setlength{\headheight}{36pt}
 %\pagestyle{fancy}
-%\fancyhead[LO,LE]{\fontsize{10}{12}\selectfont\leftmark} 
+%\fancyhead[LO,LE]{\fontsize{10}{12}\selectfont\leftmark}
 %\fancyhead[RO,RE]{\fontsize{10}{12}\selectfont\rightmark}
 
 \fancypagestyle{fancythesis}{%
@@ -232,7 +231,7 @@ marginparwidth=5cm, marginparsep=1cm]{geometry}
     % You are not expected to understand this.
     \renewcommand*{\sectionmark}[1]{ \markright{\thesection\ ##1} }%
     \renewcommand*{\chaptermark}[1]{ \markboth{\chaptername\ \thechapter: ##1}{} }%
-    % Increase the length of the header such that the folios 
+    % Increase the length of the header such that the folios
     % (typography jargon for page numbers) move into the margin
     \fancyhfoffset[LE]{6mm}% slightly less than 0.25in
     \fancyhfoffset[RO]{6mm}%
@@ -249,4 +248,3 @@ marginparwidth=5cm, marginparsep=1cm]{geometry}
 \newenvironment{revision}{\color{slightgrey}\itshape}{}
 \definecolor{addition}{RGB}{148,228,98}
 \newenvironment{addition}{\color{addition}}{}
-

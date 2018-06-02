@@ -1,4 +1,284 @@
-* Belief and thought 
+#+PROPERTY: header-args:latex :tangle ../../tex/ch4/belief.tex
+
+#+BEGIN_SRC latex
+\section{Belief}
+#+END_SRC
+
+
+* What is it to Believe Someone
+** Preamble
+*** Question: what is wrong with euthydemus?
+A says if p then q
+B says that's not so if r [if r then not (if p then q)]
+C says if not p then r
+D says i belive you all, so I infer that p and q
+
+this is crazy because in absence of any indication from A, he should not be assumed to
+believe what he said at first, although it can't be ruled out that he still does think
+that way
+
+it is crazy because D can't be telling the true when he says i beleve you all
+A shows no sign to still believe what b has cast doubt on
+
+to believe N one must beleve that N himself believes what he is saying
+*** does this deserve the attention of philosophic enquiry?
+i hope to show that it does.
+
+it is of great importance in philosophy and in life and it's itself problematic enough
+to need philosophical investiagtion
+*** Believe someone used to be called faith
+
+Hubo una época en la que había el siguiente modo de hablar: fe se distinguía como
+humana y divina. Fe humana era creer a un mero ser humano; fe divina era creer a Dios.
+
+Perder esta manera de hablar e igualar fe a religión o creencia religiosa en el sentido
+de creer que Dios existe, por ejemplo, ha tenido un efecto repugnante en el pensamiento
+sobre la religión
+
+Abrahám creyo a Dios y esto le contó como justificación...
+incluso en este contexto bien conocido, donde las palabras aparecen llanamente, la
+expresión no es atendida.
+
+Esta historia de Abraham es conocida incluso por intelectuales ignorantes gracias a
+Temor y temblor de Kiekergaard. En esta el autor entra en el territorio que le interesa
+evadiendo astutamente la primer punto de la historia, que Abrahám creyó a Dios.
+Sabe que está ahí, pero no lo afronta.
+
+Esto ha tenido su efecto pues en asunto s de moda intelectual solemos actuar como
+borregos.
+**** creer a x que p
+ Incluso aunque las palabras aparecen llanamente somos atiborrados con basura sobre
+ creer en como opuesto a creer a, insistiendo en creer en bueno y creer a malo.
+
+ Naturalmente uno que esté pensando en esa linea no tomaría interes en creer con un
+ objeto personal, dado que este será siempre creer que (no creer en)
+
+ Para mis intenciones es necesario adoptar la expresión creer a x que p.
+
+*** Topic important for the theory of knowledge
+    La mayor parte de nuestro conocimiento de la realidad descansa sobre la creencia
+    que depositamos en las cosas que se nos han enseñado y dicho.
+
+    Hume pensaba que la idea de causa y efecto era el puente que nos permite alcanzar
+    alguna idea de un mundo más allá de la experiencia personal.
+
+    Creer en el testimonio pertenece a la misma clase de creencia que el creer en
+    causas y efectos.
+
+    Creemos en una causa, pensaba, porque percibimos el efecto y se ha encontrando que
+    causa y efecto siempre van juntas.
+
+    Similarmente creemos en la verdad del testimonio porque percibimos el testimonio y
+    hemos encontrado (bueno! con frecuencia) que el testimonio y la verdad van juntos.
+
+    La propuesta es absurda.
+
+    Hemos de reconocer al testimonio el darnos nuestro mundo más grande en no menor
+    grado, o incluso en un grado mayor, que la relación de causa y efecto; y creer en
+    él es bastante distinto en estructura que el creer en causa y efectos
+
+    Tampoco es lo que el testimonio nos da como una parte enteramente desprendible como
+    un fleco grueso de grasa de un pedazo de filete. Es más como los flecos rayos de
+    grasa que están distribuida a través de la buena carne; aunque hay nudos de pura
+    grasa también.
+
+Los ejemplos de las ocasiones en las que lo que se nos ha enseñado sirve como
+herramienta para adquirir nuevo conocimiento pueden ser multipicados indefinidamente.
+
+Incluso saber dónde estoy tiene que ver con una complicada red de información recibida.
+** Investigation (what's the grammar)
+*** Believe with a personal object cannot be reflexive
+- To believe someone one must believe that someone himself believes what he is saying
+
+I can say I believe in myself
+I can't say I believe myself that x because I wouldn't be believing that I believe what
+I'm saying
+
+*** believing someone isn't just believing what he says
+I can believe something that another believes, and not because I believe him
+This is as what happens when a philosophy teacher expects the student not to believe
+him but to come to see.
+*** believing someone isn't just believing something on his saying that it is so
+he may be lying to me and also believe what is not so
+i couldn't say to be beliving him
+
+*** believing someone is believing NN believes what he is saying
+this would be the reason why
+it cannot be reflexive
+euthydemus remark sounds crazy
+believing someone isn't just believing what he says based on his saying so
+
+
+*** Cases when the person believed is not perceived
+Often all we have is the communication without the speaker
+
+*** finding something out by a book
+  this is so almost any time we find something because it is told us in a book
+**** it may be a case:
+a communication with a perceived person communicating about another communication where
+the communicator is unperceived
+**** usually it goes:
+the idea of the author is not much brought to our attention at first
+**** in any case:
+we come to receive communications in books and are apto to believe what a book says
+abut itself
+
+*** believing a person is not necessarily taking him as an original authority
+he can be a total authority
+an original authority
+or not an orginal authority at all
+
+believing someone who isn't an original authority is still believing him
+
+an interpreter may be saying something untrue, but he is not wrong if he is not falsely
+representing his principal
+
+if you believe an interpreter you believ his principal
+
+
+a teacher, even though not an original authority is wrong when he says something untrue
+and that hangs together with with the fact that his pupils believe him
+
+*** the further beliefs in believing someone
+**** it must be tha case that you believe something is a communication (from someone)
+**** you have to believe tha by it he is telling you this (is language)
+**** the communication is addressed to someone
+       1. can someone be supposed to be believing someone when he believes what he says
+          while addressing somebody else?
+
+       2. Can someone be supposed to be believing someone when he believes a
+          communication that isn't really frome the ostensible communicator, even
+          though it is addressed to him?
+
+          can he be said to be believing (or disbelieving) the real or the
+          ostensible communicator?
+
+           a. to say in this case that he could be beliving the real communicator would
+           be saying that when we believe someone judgement and speculation intervenes
+
+           when we say we believe someone we don't say belief in the sense of forming a
+           judgement
+
+           if we learned a communication wasn't really from NN. we would simply case to
+           say that we beleve NN.
+
+           b. could we say we believe the ostensible communicator
+               - in the case the ostensible communicator exists
+
+                  a third party may be less likely to use the verb believe
+                 intentionally "so, thinking that NN said this, he believed him"
+
+               nn himself from his perspective
+               "I see, you thought I said this, and you believed me"
+
+               the recepeint from his perspective Naturally i believed you... NN might
+               reject this saying: "Since I didn't say it, you weren't believing me"
+
+               there is an oscillation here on the notion of believing
+
+               - in the case teh ostensible communicator doesn't exist
+
+               the decision to speak of believing him is a decision to give that ver an
+               intentional use like the verb to look for
+
+               it wouldn't be needed to imply the existence of the inexistent
+               communicator, all is needed is to know what it's called the communicator
+               telling something
+
+       3. This comes out another way where the recipient does not believe that the
+          communication is form NN
+
+          NN may call it a refusal to believe him
+       4. If X is to believe NN, something must be being taken as a communication, and
+          since X must be believing something on NN say-so there is also involved the
+          belief that this communication says such-and-such
+
+i may simply believ your words and
+
+I ought to be able to elaborate upon anything that i believe
+
+** Definition
+ Only when we have excluded all the cases
+ or
+ simply assumed their exclusion
+
+ then we come to the situation in which the question simply is: Does X believe NN or
+ not?
+
+ Let us suppose that all the presuppositions are in. A is the in the situation --a very
+ normal one--
+ where the question arises of believing or doubting (suspending judgemente in face of)
+ NN.
+
+ Unconfused by all the questions that arise because of the presuppositions, we can see
+ that believing someone (in the particular case) is
+
+ trusting him for the truth - in the particular case.
+
+** Expositio
+ ¿Qué es creer a alguien? - Hay muchos presupuestos a la pregunta: ¿X cree a NN o no?
+ Creer a alguien (en un asunto particular) es confiar en él acerca de la verdad -- de
+ ese asunto particular.
+
+ Llegar a estar en la situación en la que surge para 'A' la pregunta de creer o dudar
+ (suspender el juicio ante) NN supone que todos los presupuestos están ahí, es decir que
+ han quedado excluidos o se asume que que están excluidos todos estos casos.
+
+ Estos casos son:
+ podriamos hablar de un
+ productor inmediato de lo que es tomado
+ o
+ hace una declaración interna de ser tomado
+
+ como una comunicación de NN
+
+ este productor puede ser un mensajero, o un interprete
+
+ el receptor puede fallar en creer (opuesto a dudar o negar creer)
+ por una serie de actitudes
+
+ A puede no notar la comunicación del todo
+ A puede notar la comunicación y entenderla como lenguaje y hacer algo de ella, pero no
+ tomarla como dirigida a el
+
+ u puede notarla y tomarla como lenguaje y sin embargo, sea que la tome como dirigida a
+ el o no, puede hacer de ella incorrectamente
+
+ y podría tomarla como dirigida a él y no hacer de ell a incorrectamente pero no creer
+ que viene de NN.
+
+** Síntesis:
+Un productor inmediato, que puede ser un mensajero o un interprete, ofrece lo que puede
+entenderse o declara poder ser entendido como una comunicación de NN.
+
+El receptor de esta comunicación estará en la situación de preguntarse si creer o dudar
+de NN si:
+Nota la comunicación
+Toma la comunicación como lenguaje
+Toma la comunicación como dirigda a él
+Interpreta la comunicación correctamente
+Cree que viene de NN
+
+
+Presuponiendo que X notó la comunicación, la tomó como lenguaje y como dirigida a él,
+la interpretó correctamente y cree que viene de NN; afirmar que X cree a NN es decir
+que X confia en NN acerca de la verdad de este asunto particular.
+
+Presuponiendo que X notó la comunicación, la tomó como lenguaje y como dirigida a él,
+la interpretó correctamente y cree que viene de NN; afirmar que X duda de NN es decir
+que X duda (suspende el juicio ante) de NN acerca de la verdad de este asunto
+particular.
+
+Si los presupuestos no se dan, no se puede decir que X cree o duda de NN, sino que
+falló en creer, o no llego a estar en la situación de preguntarse si creer a NN o dudar
+de él.
+
+
+** cuestión de la primacia de la verdad sobre la falsedad
+
+
+
+* Belief and thought
 ** assertion
  | decision  | Act of Assent |
  | Intention | Belief        |
@@ -10,7 +290,7 @@
  disposition which is a belief that p
 
  1. an /occurrent thought/ that /p/ or that /'p'/ is true
- 2. an inward assent 
+ 2. an inward assent
 
  if both these exist there is no difficulty: sometimes one, sometimes the other might
  perform this role.
@@ -19,7 +299,7 @@
  Let's address the question of assent
 
  assent from one person to a proposition formulated by another gives us the picture of 2
- procedures: 
+ procedures:
  a. the formulation of something assertible --what frege calls judgeable content
  b. the assent to, or inward assertion of, that content
 
@@ -46,9 +326,9 @@
  what one believes
 
 ** 'Voicers'
-Let's use a new term for 
-all these first person present indicatives 
-which form 
+Let's use a new term for
+all these first person present indicatives
+which form
 such 'sustaining frameworks' in our utterances
 
 i will call them 'voicers' for they stand in a special relation to the voicings of our
@@ -57,23 +337,23 @@ beliefs and our -various- thoughts.
 a voicer is not a performative, though it does share some of the peculiarities of a
 performative.
 
-In particular, no voicer is an assertion 
+In particular, no voicer is an assertion
 * Grounds of belief
 
-** 
+**
 *Belief on grounds which can be considered as premises for arguments presupposes belief
 without grounds, or at any rate without grounds that can be so considered*
 
 Hume's philosophical opinion was that these ultimate groundless grounds were sense
-impressions. 
+impressions.
 
 But I say that they are such beliefs as those of which one will say 'Everyones knows
-that!' <- 
-there are grounds, premises for arguments, which are not sense impressions, but 
+that!' <-
+there are grounds, premises for arguments, which are not sense impressions, but
 traditional knowledge or common knowledge or pieces of traditional knowledge
 
 
-** 
+**
 
 I can obtain an experience which, in view of what I have learned, I shall with
 certainty call seeing the present Pope;
@@ -82,14 +362,14 @@ i can not optain any experience which I can call seeing Alexander Borgia
 
 BUT
 that will not make me any better placed for the rationality
-of my belief that there is such a person 
+of my belief that there is such a person
 as the present pope, than for the rationality of my belief that there was such a person
 as Alexander Borgia
 
 MY KNOWLEDGE OF THE THINGS AMONG WHICH AND THE PLACES IN WHICH I LIVE IS NOT SO MUCH
 THEORY LADEN, AS COMMON-KNOWLEDGE LADEN
 
-** 
+**
  it's a falsification here to speak of testimony:
  to say that it is by testimony that i know that i was born
 
@@ -98,7 +378,7 @@ THEORY LADEN, AS COMMON-KNOWLEDGE LADEN
 
 
  The work of determining England and fixing the meaning of the name /would/ depend on
- testimony 
+ testimony
  -the testimony of many different people for different parts of it
 
  the work done, people could be taught what England was (no doubt still disputing some
@@ -109,14 +389,14 @@ THEORY LADEN, AS COMMON-KNOWLEDGE LADEN
  They were taught to call something England.
 
  Something indeed which could in large part only be defined for them by hearsay;
- and they so taught those who came after them 
+ and they so taught those who came after them
 
- i am an heir of this tradition 
+ i am an heir of this tradition
 
  i would be queer to say i know this by testimony
 
  it is rather as if i had been taught to join in doing something, than to believe
- something 
+ something
 
  -but because everyone is taught to do such things, an object of belief is generated
 
@@ -135,7 +415,7 @@ Topic: belief in matters falling outside our own experience and memory
 when infering effects from causes
 we must establish the existence of these causes
 either by:
- 
+
 inmediate perception of our memory or senses
 
 or by
@@ -146,12 +426,12 @@ these other causes must be ascertained in the same manner
 
 it is impossible to carry on our inferences in infinitum
 
-Hume tries to ilustrate this by an example of historical belief 
+Hume tries to ilustrate this by an example of historical belief
 
 we believe that caesar was killed....
 
 it is obvious all this chain of argument or connexion of causes and effects is at first
-founded on those characters or letters which are seen or remembered 
+founded on those characters or letters which are seen or remembered
 
 But this is not infering effects from causes, it is infering causes from effects.
 
@@ -173,7 +453,7 @@ and also cause and effect are inferentially symmetrical
 are they?
 
 what is the starting point? (the start of inference or the start of the justification
-chain) 
+chain)
 
 
 
@@ -224,7 +504,7 @@ Hume must believe all this
 
 
 If the written records that we now see are grounds of our belief, they are first and
-foremost 
+foremost
 
 *grounds for belief*
 in Caesar's killing,
@@ -232,7 +512,7 @@ belief that the assasination is a solid bit of history
 
 THEN
 
-our belief in that original event IS A GROUND FOR BELIEF in 
+our belief in that original event IS A GROUND FOR BELIEF in
 
 much of the intermediate transmission <-
 
@@ -259,15 +539,15 @@ and then none of them would have anythin to test it by
 
 What is a motive?
 
-It wouldn't ordinarily be called a motive; 
+It wouldn't ordinarily be called a motive;
 
 the term motive seems to be restricted to passions or objects
 
 but if
 
-by motive we mean what prompts one 
+by motive we mean what prompts one
 
-what is one's ground for doing or omitting anything, then "Someone told me" may well be 
+what is one's ground for doing or omitting anything, then "Someone told me" may well be
 said to give me a motive
 
 wether or not it gives a ground for the belief, or gives my ground for the belief, it
@@ -289,13 +569,13 @@ La importancia es para la historia de la filosofía en el sentido de la historia
 pensamiento filosófico.
 
 No se cuanto ha sido notado, pero aquí, en esta afirmación, 'La teoría del conocimiento
-es filosofía de la psicología' un corte queda hecho. 
+es filosofía de la psicología' un corte queda hecho.
 
 Durante varios siglos la teoríá del conocimiento había sido lo que la metafísica había
 sido antes de ellas. Había llegado a ser la teoría de la esencia del mundo, de los
 componentes definitivos del universo. Esta corriente empezo a venir con Descartes, si
 él se ganó el título 'el padre de la filosofía moderna'. Las olas llegaron a su máxima
-altitud con declaración de Kant de haber hecho una revolución Copernicana. 
+altitud con declaración de Kant de haber hecho una revolución Copernicana.
 
 La posición suprema de la teoría del conocimiento estaba garantizada mucho antes que
 Kant y se mantuvo incluso entre filósofos como Bertrand Russell que abobinaba  a Kant.
@@ -315,24 +595,24 @@ el determinar del que habla es un determinar por proposiciones adicionales que
 describan las circunstancias en las que llamo a una proposición verdadera.
 
 Ciertamente hemos de pensar que no, pues de otro modo la explicación no llegará a su
-fin o habrá una invocación de la experiencia con la que si se llega al fin. 
+fin o habrá una invocación de la experiencia con la que si se llega al fin.
 
 Esta última puede estar bien pero no consistirá en una descripción de las
 circunstancias en las que llamo 'p' verdadero -- no si esa descripción misma tiene que
-tener su sentido indicado por una ulterior descripción del mismo tipo. 
+tener su sentido indicado por una ulterior descripción del mismo tipo.
 
 A la luz del pensamiento más tardío, podriamos hablar de la experiencia en cuestión
 como la de aprender un lenguaje.
 ...
 
 
-Las indagaciones interesantes sobre el conocimiento, 
+Las indagaciones interesantes sobre el conocimiento,
 
 una vez que se ha abandonado el
 intento de caracterizarlo como un tipo de creer que satisface ciertas condiciones,
 
 conciernen lo que todos, o todos en ciertas culturas, puede ser asumido que conocen una
-vez que han crecido y son razonablemente competentes; 
+vez que han crecido y son razonablemente competentes;
 
 y la relación de algunas afirmaciones de conocer con preguntas como ¿cómo lo sabes
 (know)?
@@ -349,3 +629,35 @@ I am in pain is the expression of a sensation
 
 not a description based on internal or external criteria
 
+
+* Cual es la estructura del creer en el testimonio?
+
+Anscombe dice que creer en el testimonio es un creer bastante distinto en estructura
+que creer en causas y efectos.
+
+Parece que habla de esto en hume and julius caesar y en grounds for belief
+
+puede decirse lo siguiente?
+
+la estructura de creer en el testimonio es la estructura de creer en alguien
+la estructura de creer en alguien es
+
+dados los presupuestos
+A Nota la comunicación
+A Toma la comunicación como lenguaje
+A Toma la comunicación como dirigda a él
+A Interpreta la comunicación correctamente
+A Cree que viene de NN
+
+confiar en NN acerca de la verdad de x cuando una comunicación de NN llega a A por
+medio de un productor inmediato.
+
+
+* [Local Variables]
+# Local Variables:
+# mode: org
+# mode: auto-fill
+# word-wrap:t
+# truncate-lines: t
+# org-hide-emphasis-markers: t
+# End:

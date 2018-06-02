@@ -2,7 +2,7 @@
 # ------------------------------------------------------------------------------------
 # Santa Teresa Benedicta de la Cruz, ruega por nosotros
 
-* /Lectio/: 
+* /Lectio/:
 :DESCRIPTION:
 Truth: Anselm or Thomnas?
 Truth: Anselm and Wittgenstein/Verdad
@@ -24,10 +24,10 @@ parece ser al revés. ¿Anscombe atiende estos temas de la misma manera?
 
 - En los escritos de Anscombe ambos temas se tratan por separado pero gozan
   aproximadamente del mismo status.
-- El significado se 
+- El significado se
 
-* /Propositum/:  
-:DESCRIPTION: 
+* /Propositum/:
+:DESCRIPTION:
 
 :END:
 
@@ -39,7 +39,7 @@ parece ser al revés. ¿Anscombe atiende estos temas de la misma manera?
 
 
 * /////////////////////////////////////////////////////////
-* /Quaestio/: What is to have truth? 
+* /Quaestio/: What is to have truth?
 :STATEMENT:
 The proposition has a sense which is independent of the facts.
 :END:
@@ -49,63 +49,184 @@ The proposition has a sense which is independent of the facts.
 :DESCRIPTION:
 
 :END:
- 
+
 #+BEGIN_SRC latex
-  \subsection{Qué es tener la verdad}
+  \subsection{¿Qué es tener la verdad?}
   Elizabeth Anscombe visitó muchas veces la Universidad de Navarra junto con Peter
-  Geach y allí impartió algunos seminarios y participó de las Reuniones
-  Filosóficas.\footcite[cf.~][p.~15]{fa&esphom}
-
-  En una de sus visitas, en octubre de 1983, ofreció dos lecciones tituladas:
-  ``Verdad'' y ``La unidad de la verdad''. En la primera lección planteó la
-  cuestión de este modo:
-
-  \citalitlar{Hay verdad en muchas cosas. Mirando a mi título `Truth' me quedo
-    algo sobrecogida por él, pues lo que salta de la página hacia mi es uno de los
-    nombres de Dios. <<He amado la verdad>> me dijo una vez un profesor moribundo,
-    después de hablarme de la dificultad que sentía sobre la idea de amar a Dios.
-    Sin embargo: <<He amado la verdad>>. Y luego, temiendo que yo no malentendiera
-    su afirmación: <<No me refiero, cuando digo eso, que \emph{tenga} la verdad>>}
-  \citalitlar{Tener la verdad, estar en la verdad--¿qué es esto? Y qué quiso decir
-    Nuestro Señor al llamarse a \emph{sí mismo} la verdad? `No hay tal cosa como
-    la verdad, sólo hay verdades', dijo mi suegro a la primera esposa de Bertrand
-    Russell. Russell fue su maestro; la influencia se ve con facilidad.}
-  \citalitlar{¿Pero cuáles son las cosas que tienen verdad en ellas? ¿Tiene la
-    creación? ¿tienen las acciones? A qué se refería Aristóteles cuando dijo que
-    el bien de la razón práctica era `verdad de acuerdo con el recto deseo'? ¿Las
-    cosas hechas por los hombres tienen verdad en ellas? ¿Qué, de nuevo, quiso
-    decir Aristóteles cuando afirmó que el arte o la habilidad es una disposición
-    productiva con un logos verdadero? Mas allá todavía: Qué fuerza tiene contar
-    la verdad entre los `trascendentales', esas cosas que `atraviesan' todas las
-    categorías y todas las formas especiales de las cosas; y que no pertenecen
-    cada uno a una categoría, como el color: amarillo; o el area: un acre; o el
-    animal: un caballo.\footcite[p.~71]{FPW}}
+  Geach. Allí impartió algunos seminarios y participó de las Reuniones
+  Filosóficas.\footcite[cf.~][p.~15]{fa&esphom} En una de sus visitas, en octubre
+  de 1983, ofreció dos lecciones tituladas: ``Verdad'' y ``La unidad de la
+  verdad''. Las dos investigaciones estan apoyadas en algunas reflexiones de San
+  Anselmo cuyos argumentos sirven a Anscombe para explorar modos de hablar de
+  aquello de lo que decimos que tiene verdad. Anscombe dio inicio a su ponencia
+  planteando la cuestión como sigue: \citalitlar{Hay verdad en muchas cosas.
+    Mirando a mi título `Truth' me quedo algo sobrecogida por él, pues lo que
+    salta de la página hacia mi es uno de los nombres de Dios. <<He amado la
+    verdad>> me dijo una vez un profesor moribundo, después de hablarme de la
+    dificultad que sentía sobre la idea de amar a Dios. Sin embargo: <<He amado la
+    verdad>>. Y luego, temiendo que yo no malentendiera su afirmación: <<No me
+    refiero, cuando digo eso, que \emph{tenga} la verdad>>} \citalitlar{Tener la
+    verdad, estar en la verdad---¿qué es esto? Y qué quiso decir Nuestro Señor al
+    llamarse a \emph{sí mismo} la verdad? <<No hay tal cosa como la verdad, sólo
+    hay verdades>>, decía mi suegro a la primera esposa de Bertrand Russell.
+    Russell fue su maestro; la influencia se ve con facilidad.} \citalitlar{¿Pero
+    cuáles son las cosas que tienen verdad en ellas? ¿Tiene la creación? ¿tienen
+    las acciones? A qué se refería Aristóteles cuando dijo que el bien de la razón
+    práctica era `verdad de acuerdo con el recto deseo'? ¿Las cosas hechas por los
+    hombres tienen verdad en ellas? ¿Qué, de nuevo, quiso decir Aristóteles cuando
+    afirmó que el arte o la habilidad es una disposición productiva con un logos
+    verdadero? Mas allá todavía: Qué fuerza tiene contar la verdad entre los
+    `trascendentales', esas cosas que `atraviesan' todas las categorías y todas
+    las formas especiales de las cosas; y que no pertenecen cada uno a una
+    categoría, como el color: amarillo; o el area: un acre; o el animal: un
+    caballo.\footcite[~71]{anscombe2011plato:truth}}
 #+END_SRC
 
-* /Expositio/: What is truth?
+* /Expositio/: What can be said about what is truth?
 :STATEMENT:
 
 :END:
+:Resources:
 Verdad
 Unidad de la Verdad
 Truth: Anselm or Thomas
 Making True
 Necessity of Truth
 On Brute Facts
-
+:END:
+** La primacia de la verdad sobre la falsedad
 #+BEGIN_SRC latex
-  La cuestión que Anscombe trae en esta lección tiene que ver con la primacia de
-  la verdad sobre la falsedad.\footcite[195]{teichmann}
+  \subsection{La primacia de la verdad sobre la falsedad}
+  Estos cuestionamientos llevan a Anscombe a indagar en una materia en la que
+  Wittgenstein y San Anselmo ---dice--- son `hermanos intelectuales': ¿cuál es la
+  primacía de la verdad sobre la falsedad?.
 
-  Anscombe no se traga toda la teoría de la imagen de las proposiciones. Pero ella
-  ve lo que es probablemente la cosa mas iluminadora de la comparación de
-  Wittgenstein de imagenes y proposiciones; es decir, este `Janus-faced aspect' de
-  las proposiciones, un aspecto que puede ser expresado de diversos modos--como el
-  que `No' no se corresponde con nada en la realidad, o que P y no-P (los
-  símbolos) pueden ser sistematicamente inercambiados, cada uno asumiendo la
-  función del otro..
-
+  San Anselmo queda prendado de esta pregunta como consecuencia de su indagación
+  en \emph{De Veritate}: ¿Qué es la verdad de una proposición o declaración? Ha
+  elegido indagar en las proposiciones o las declaraciones como aquellas clases de
+  las cuales más naturalmente se puede pensar que contienen los posibles
+  portadores del predicado `verdadero'. Así lo expresa cuando dice
+  \citalitinterlin{Busquemos primero qué es la verdad en una proposición, dado que
+    con frecuencia llamamos a éstas verdaderas o falsas.}\autocite{De Veritate c.
+    2} Anscombe sigue esta misma consideración.
 #+END_SRC
+*** Distinción entre significado y verdad
+#+BEGIN_SRC latex
+  El primer movimiento que Elizabeth realiza en su análisis es presentar la
+  distinción entre significado y verdad.
+  Esta distinción es familiar en las elucidaciones del Tractatus:
+  \citalitinterlin{La proposición tiene un sentido que es independiente de los
+    hechos} \autocite[\S~4.061]{wittgenstein1922tractatus} San Anselmo también lo
+  considera. Una proposición no pierde su significado cuando no es verdadera. Si
+  la \emph{significatio} de una proposición fuera su verdad ésta
+  \citalitinterlin{semper esset vera}, siempre sería verdadera. Sin embargo el
+  significado de una proposicion \citalitinterlin{manent \ldots et cum est quod
+    enunciat, et cum non est}, permanece lo mismo cuando lo que se afirma es el
+  caso que es y cuando no lo es.
+
+  ¿Qué es la verdad de una proposición? Se podría responder que es la
+  \citalitinterlin{res enunciata}, es decir, la realidad correspondiente, lo que
+  la proposición verdadera dice. Esta respuesta nos llevaría a confusión. <<La
+  verdad de una proposición es que significa estos hechos.>> Si esto es así,
+  entonces cuando deja de ser verdadera también pierde su significado, pues el
+  hecho que era su signifcado ya no es. Además, si la desaparición del hecho es la
+  desaparición del significado y la verdad, ¿no será entonces que el hecho es la
+  misma cosa que el significado y la verdad? Sin embargo no es así, el hecho es lo
+  que la hace verdadera: lo que la proposición dice, la \emph{res enunciata} es la
+  causa de la verdad de una proposición y no su verdad: \citalitinterlin{non eius
+    veritas, sed causa veritatis eius dicenda est}
+#+END_SRC
+*** Verdad y falsedad, ¿relaciones igualmente justificadas?
+#+BEGIN_SRC latex
+  La distinción abre otra línea de consideraciones. El hecho o la \emph{res
+    enunciata} por la proposición verdadera es la causa de la verdad del
+  enunciado. La proposición tiene significado independientemente de si es
+  verdadera o falsa. En este sentido, una proposición con significado puede
+  guardar relación de verdad o de falsedad con los hechos. Una proposición falsa
+  no carece de toda relación con el hecho, sino que contiene una descripción del
+  hecho que hace a la proposición contraria verdadera. Podríamos pensar, entonces,
+  que la proposición verdadera y la proposición falsa pueden intercambiar roles.
+
+  Wittgenstein sugiere esto cuando afirma que el hecho de que `\emph{p}' y
+  `$\sim$\emph{p}' pueden intercambiar roles es importante pues muestra que `no'
+  no representa nada en la realidad. Más aún `\emph{p}' y `$\sim$\emph{p}' son
+  opuestos en significado pero a ambos enunciados corresponde una sola realidad;
+  esto es el hecho, la \emph{res enunciata} por el enunciado verdadero. Esto
+  permitiría sostener que que verdadero y falso son tipos de relaciones entre el
+  signo y la cosa significada que están igualmente justificadas.
+
+  San Anselmo también llega a afrimar esta noción de relaciones igualmente
+  justificadas entre signo y lo que es significado en las proposiciones verdaderas
+  y falsas. El diálogo entre el discípulo y el maestro se desarrolla en este punto
+  como sigue:
+  \citalitlar{\emph{Maestro} ¿Qué te parece que es la verdad en el enunciado mismo?\\
+  \emph{Discípulo.} No sé más que esto: cuando significa ser lo que es, entonces es verdadero y hay
+   verdad en él.\\
+  \emph{M.} ¿Para qué se hace una afirmación?\\
+  \emph{D.} Para significar que lo que es, es.\\
+  \emph{M.} Luego, debe significarlo.\\
+  \emph{D.} Es cierto.\\
+  \emph{M.} Cuando significa que lo que es, es, significa lo que debe.\\
+  \emph{D.} Es manifiesto.\\
+  \emph{M.} Y cuando significa lo que debe, significa rectamente.\\
+  \emph{D.} Así es.\\}
+
+  El maestro propone que la afirmación haciendo lo que debe significa rectamente,
+  y es lo mismo que la afirmación se recta y sea verdadera.
+
+  Dime qué he de responder si alguien dice que incluso cuando una expresión
+  significa que es algo que no es, está significando lo que debe. Puesto que se le
+  ha dado igualmente el significar como ser tanto lo que es como lo que no es.
+  Pues si no se le hubiera dado el significar como siendo incluso lo que no es, no
+  lo significaría. Así que incluso cuando significa que es lo que no es, está
+  significando lo que debe. Pero si es correcto y verdadero en significar lo que
+  debe, como has mostrado, entonces la expresión es verdadera incluso cuando dice
+  que es algo que no es.
+
+  algo es el caso que no es el caso que es,
+
+  En el diálogo con su discípulo le invita a examinar \emph{para qué} es
+  una aseveración o afirmación. Su respuesta será que es para significar
+  signifying that to be the case which is the case
+  significar aquello como siendo el caso que es el cuál es el caso que es.
+  que es
+  el caso
+
+
+  Al respecto, Wittgenstein plantea:
+  \citalitinterlin{¿Acaso no podríamos hacernos entender usando proposiciones
+    falsas tal como hemos hecho hasta ahora por medio de las verdaderas---siempre
+    y cuando sepamos que están significadas
+    falsamente?\footcite[\S4.062]{wittgenstein1922tractatus}}
+
+  Anscombe compara este posible modo de actuar a una táctica de Santa Juana de
+  Arco. La Santa empleaba un código en las comunicaciones con sus generales
+  subordinados que consistía en que las cartas que ella marcaba con una cruz
+  contenían proposiciones que debían ser interpretadas en el sentido contrario.
+  Juana no mentía con este código y, si no estaba en error acerca de los hechos,
+  sus oraciones eran verdaderas y no falsas. El código es posible.
+
+  Hasta aquí parece que las proposiciones falsas y verdaderas tienen igualdad de
+  relación con la realidad significada. La pregunta ahora es ¿qué, entonces,
+  \emph{es} desigual entre ellas? ¿Cuál es la primacia de la verdad?
+#+END_SRC
+*** ¿Cuál es la primacia de la verdad?
+**** La respuesta de Wittgenstein
+La respuesta de
+Wittgenstein
+a esta pregunta llegará a ser: no se puede describir a alguien como comunicándose con
+proposiciones falsas
+responde su pregunta sobre darnos a entender con proposiciones falsas
+diciendo: \citalitinterlin{¡No! Pues una proposición es verdadera si }
+**** La respuesta de San Anselmo
+
+     Anscombe no se traga toda la teoría de la imagen de las proposiciones. Pero ella
+     ve lo que es probablemente la cosa mas iluminadora de la comparación de
+     Wittgenstein de imagenes y proposiciones; es decir, este `Janus-faced aspect' de
+     las proposiciones, un aspecto que puede ser expresado de diversos modos--como el
+     que `No' no se corresponde con nada en la realidad, o que P y no-P (los
+     símbolos) pueden ser sistematicamente inercambiados, cada uno asumiendo la
+     función del otro..
 
 * Sensefulness and bivalence
   In Anscombe's writing, the two topics of meaning and truth, insofar as they can be
@@ -123,7 +244,7 @@ On Brute Facts
 
 * What can hold of thought
   ``It was left to the moderns to deduce what could be from what could hold of thought,
-  as we see Hume to have done. This trend is still strong. But the ancientys had the
+  as we see Hume to have done. This trend is still strong. But the ancients had the
   better approach, arguing only that a thought was impossible because the thing was
   impossible, or as the Tractatus puts i, 'an impossible thought is an impossible
   thought''. (FPW,p .xi) (TEICH 193)
@@ -131,7 +252,7 @@ On Brute Facts
   A. does not swallow the whole of the picture theory of propositions. But she sees what
   is probably the most illuminating thing about W.'s comparison of propositions and
   pictures; namely, this janus-faced aspect of a proposition, an aspect that can be
-  expressed in various ways... in her lecture ``la verdad'' 
+  expressed in various ways... in her lecture ``la verdad''
 
 
 * Making True (1982)
@@ -140,21 +261,21 @@ On Brute Facts
 *** Regarding some historic fact
 *** regarding the elements that may have some property
 
-thus 
+thus
 
-though an either-or prop or a some prop, if true, 
+though an either-or prop or a some prop, if true,
 
 must be made true by the truth
-of some such other prop, 
-in general none of these 
+of some such other prop,
+in general none of these
 
-must be true 
+must be true
 
 if the original proposition is
 
 if the original proposition is true then none of the other propositions must be true
 
-This shows that 
+This shows that
 
 *** explanations of truth conditions does not provide analysis in these cases
 explanations by means of truth conditions does not provide an analysis
@@ -162,25 +283,25 @@ in these cases
 
 by analysis I mean  - something that is at least an equivalent proposition
 
-For an either-or proposition 
-neither 
+For an either-or proposition
+neither
 the conjunction of all of its elements
-nor 
+nor
 one of its elements
-nor 
+nor
 the conjunction of any subset of its elements up
-to the totality of them all 
+to the totality of them all
 
-is a proposition equivalent to the either-or proposition 
+is a proposition equivalent to the either-or proposition
 
 -
-though any subset up to the totality will make the either-or proposition true. 
+though any subset up to the totality will make the either-or proposition true.
 
 And
-similarly for 'some' propositions 
+similarly for 'some' propositions
 
 either p or q or x or z is true
-      
+
 | either | p | or | q | or | z |   |
 |        | T |    | F |    | F | T |
 |        | T |    | T |    | T | T |
@@ -196,7 +317,7 @@ nor
 p1 and p2 and p3
 ..etc
 
-is a proposition equivalent to an either-or proposition 
+is a proposition equivalent to an either-or proposition
 
 'p and q and z' is not equivalent to 'either p or q o z'
 
@@ -211,7 +332,7 @@ a != b
 no contradiction
 
 what is the sense of the disjunction in an either-or proposition?
-what is the sense of the disjunction in a some proposition? 
+what is the sense of the disjunction in a some proposition?
 
 when one asserts a disjunction or a 'some' proposition, the question what does make it
 true is not a question about its sense.
@@ -220,7 +341,7 @@ At best it may be a question about one has in mind.
 
 a How do you mean? question.
 
-one need not have anything in mind in that way 
+one need not have anything in mind in that way
 
 if a disjunction is true because more than one of its elements is true there is no work
 shared between them
@@ -231,7 +352,7 @@ formal cause: description of the flag going from the flagpole outwards
 efficient cause: historical account of proceedings by which the tricolour was adopted
 
 *there is a way of making true*
-that is the fulfilment of a truth condition 
+that is the fulfilment of a truth condition
 that is the formal cause
 that is the efficient cause
 
@@ -243,7 +364,7 @@ p is made true by the fact that p
 in a tractatus-like metaphysics of facts this would be possible
 we would have reached an elementary proposition made true by an atomic fact
 
-without such metaphysic we are only saying 
+without such metaphysic we are only saying
 p is made true by its being the case that p, or by its being true!
 
 that is an empty statement, with only false air of explanation
@@ -264,7 +385,7 @@ when they aren't disjunctions we've got to the terminus of that sort of making t
 
 there is a formal cause of this being x
 namely the arrangement of y
-there is a formal cause of y, but 
+there is a formal cause of y, but
 it is unlikely that it too will have a formal cause in its turn
 
 
@@ -282,25 +403,25 @@ a disjunction is a propostion which is made true by
 
 elements which are not disjunctions
 
-this element is not made true 
+this element is not made true
 
 this element is a proposition which is true without being made true
 
-and so 
+and so
 
 the termination of truths being made true by other truths
 
- in truths not made true in any sense 
+ in truths not made true in any sense
 that has been introduced
 
 is not so bad after all
 
 
-the general principle 
-that 
+the general principle
+that
 can't by rebutted by
 
-the general principle is rebutted 
+the general principle is rebutted
 if we demand that the particular manner of making true
 always be given
 
@@ -314,29 +435,29 @@ makes a certain proposition true
 
 
 
-when one says what makes a certain proposition true 
+when one says what makes a certain proposition true
 
-we can demand 
+we can demand
 
 that the particular manner of making true be given
 
-for 
-the question 
+for
+the question
 
-in what manner of making true 
+in what manner of making true
 
 are you asking for what makes this true?
 
-it is not so that 
+it is not so that
 
-you can call in question any idea of making true 
+you can call in question any idea of making true
 to rebute the general principle that
-what is true must be made true by something 
+what is true must be made true by something
 
-it is so that 
+it is so that
 
 you can demand that the particular manner of making true always be given for the
-question that is being asked when one says what makes a certain proposition true 
+question that is being asked when one says what makes a certain proposition true
 to rebute the general principle that what is true must be made tru by something
 
 
@@ -344,7 +465,7 @@ to rebute the general principle that what is true must be made tru by something
 
 
 * San Anselmo
-Capítulo II 
+Capítulo II
 Sobre la verdad de la significación y las dos verdades de la enunciación.
 
 M. Busquemos primero qué es la verdad en la enunciación, dado que con frecuencia
@@ -397,11 +518,11 @@ D. Es cierto.
 
 M. Cuando significa que lo que es, es, significa lo que debe.
 
-D. Es manifiesto. 
+D. Es manifiesto.
 
 M. Y cuando significa lo que debe, significa rectamente.
 
-D. Así es. 
+D. Así es.
 
 M. Cuando significa rectamente, la significación es recta.
 
@@ -430,7 +551,7 @@ cuando el enunciado significa también que lo que es, no es, significa lo que de
 paridad de condiciones ha recibido el significar, tanto que lo que es, es, cuanto que
 lo que no es, es, porque si no hubiese recibido también el significar que lo que no es,
 es, no lo significaría. Por lo cual, también cuando significa que lo que no es,
-significa lo que debe. Y si significand lo que debe, es recta y verdadera, como
+significa lo que debe. Y si significando lo que debe, es recta y verdadera, como
 mostraste, el enunciado es verdadero también cuando enuncia que lo que no es, es.
 
 M. No suele decirse verdadera cuando enuncia que lo que no es, es; sin embargo tiene
@@ -479,7 +600,7 @@ D. Pasa a las otras cosas.
 *** What is the primary bearer of truth?
  People ask now whait is the primary bearer of truth, and they concentrate on a narrow
  range of possible answers: judgements, beliefs, premises, conclusions, reports,
- testimony, statements or assertions, propositions. 
+ testimony, statements or assertions, propositions.
 *** Now as in 11th century many would stop at propositions
  Indeed, now as in the eleventh
  century a great many would stop at statements or porpositions and consider only those.
@@ -532,10 +653,10 @@ as when it is true?
 Is enunciation the same as signification?
 
 This question should elicit from us the last bit, the keystone of the arch representing
-the relations of truth, sense and assertion. 
+the relations of truth, sense and assertion.
 
 ** There is no 'thing enuntiated' by a false proposition
-There is no `thing enuntiated'  by a false proposition. 
+There is no `thing enuntiated'  by a false proposition.
 
 A true proposition tells one something if one believes it.
 
@@ -552,14 +673,14 @@ A false proposition believed still tells its believer nothing.
 
  but only if its true
 
- for then it reflects the being so of what it is so 
+ for then it reflects the being so of what it is so
 
  but the analogue of this, for a false proposition, would be that it reflects the being
  so of what is not so.
 
  And there is no such thing as either
 
-** paradox says nothing,false proposition says something,tells nothing 
+** paradox says nothing,false proposition says something,tells nothing
 a paradox, on the other hand does not say anything.
 
  the false proposition, while it does say something, does not, being believed, tell its
@@ -578,7 +699,7 @@ a paradox, on the other hand does not say anything.
 Something can be true without existing
 
 if truth, rightness, vary according to what kind of thing is true or right, then their
-existence depends on the existence of those subjects of them 
+existence depends on the existence of those subjects of them
 
 contrast truth(rightness) vs properties so inherent in ther subjects that they wouldn't
 exist without their subjects
@@ -594,7 +715,7 @@ have to exist to be true
 -if we want to say that truth is something that varies according to its bearers
 that there are different kinds of truth we first have to attack anselm's first argument
 if truth, rightness, vary according to what kind of thing is true or right, then their
-existence depends on the existence of those subjects of them 
+existence depends on the existence of those subjects of them
 
 -truth(rightness) exists without bearers
 -primary in assertion over falsehood because a true proposition tells something when it
@@ -605,12 +726,12 @@ is believed, but falsehood tells nothing
 
 
 
-* /Solutio/: 
+* /Solutio/:
 :STATEMENT:
 
 :END:
 
-* /In Testimonium/: 
+* /In Testimonium/:
 :STATEMENT:
 
 :END:
