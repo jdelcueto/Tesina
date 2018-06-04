@@ -94,31 +94,83 @@ Making True
 Necessity of Truth
 On Brute Facts
 :END:
+
+4.06 Una proposición puede ser verdadera o falsa sólo en virtud de ser una imagen de la
+realidad.
+
+4.061 No debe ser pasado por alto que una proposición tiene un sentido que es
+independiente de los hechos: de otra manera uno podría fácilmente suponer que verdadero
+y falso son relaciones de igualdad entre los signos y aquello que significan. En ese
+caso uno podría decir, por ejemplo, que 'p' significaba de un modo verdadero lo que
+'Pp' significaba en un modo falso, etc.
+
+4.062 ¿No podemos acaso hacer que se nos entienda con proposiciones falsas igual que lo
+hemos hecho hasta ahora con verdaderas? -- Siempre y cuando se sepa que se pretende que
+sean falsas. -- ¡No! Puesto que una proposición es verdadera si la usamos para decir
+que las cosas se encuentran de una cierta manera, y lo están; y si por 'p' queremos
+decir Pp y las cosas se encuentran como queremos decir que se encuentran, entonces,
+construida de la nueva manera, 'p' es verdadera y no falsa.
+
+4.0621 Pero es importante que los signos 'p' y 'Pp' puedan decir la misma cosa. Puesto
+que muestra que nada en realidad corresponde al signo 'P'. La aparición de la negación
+en una proposición no es suficiente para caracterizar su sentido (PPp = p). Las
+proposiciones 'p' y 'Pp' tienen sentido opuesto, pero a ellas les corresponde una y la
+misma realidad.
+
+4.063 Una analogía para ilustrar el concepto de verdad: imagine una mancha negra sobre
+un papel blanco: puede describir la forma de la mancha diciendo, para cada punto del
+papel, si es blanco o negro. Al hecho de que un punto sea negro le corresponde un hecho
+positivo, y al hecho de que un punto sea blanco (no negro), un hecho negativo. Si yo
+elijo un punto sobre la hoja (un valor de verdad según Frege), entonces esto se
+corresponde con la suposición que es presentada a juicio, etc, etc. Pero para ser capaz
+de decir que un punto es blanco o negro, debo antes saber cuándo a un punto se le llama
+negro, y cuándo blanco: para ser capaz de decir: '"p" es verdadero (o falso)', debo
+haber determinado en qué circunstancias llamo a 'p' verdadero, y haciendo esto
+determino el sentido de la proposición. Ahora bien, el punto donde el símil se rompe es
+éste: podemos indicar un punto en el papel incluso sin saber lo que son blanco o negro,
+pero si una proposición no tiene sentido, nada se corresponde a ella, puesto que no
+designa ninguna cosa (un valor de verdad) que pudiera tener propiedades que pudieran
+ser llamadas 'verdaderas' o 'falsas'. El verbo de una proposición no es 'verdadero' o
+'falso' como pensó Frege: más bien, aquello que 'es cierto' debe contener ya el verbo.
+
+4.064 Cada proposición debe ya contener un sentido: no puede recibir un sentido
+mediante la afirmación. Efectivamente, su sentido es precisamente lo que es afirmado. Y
+lo mismo se aplica a la negación, etc.
+
 ** La primacia de la verdad sobre la falsedad
 #+BEGIN_SRC latex
   \subsection{La primacia de la verdad sobre la falsedad}
   Estos cuestionamientos llevan a Anscombe a indagar en una materia en la que
-  Wittgenstein y San Anselmo ---dice--- son `hermanos intelectuales': ¿cuál es la
+  Wittgenstein y San Anselmo --dice-- son `hermanos intelectuales': ¿cuál es la
   primacía de la verdad sobre la falsedad?.
 
   San Anselmo queda prendado de esta pregunta como consecuencia de su indagación
-  en \emph{De Veritate}: ¿Qué es la verdad de una proposición o declaración? Ha
-  elegido indagar en las proposiciones o las declaraciones como aquellas clases de
-  las cuales más naturalmente se puede pensar que contienen los posibles
-  portadores del predicado `verdadero'. Así lo expresa cuando dice
-  \citalitinterlin{Busquemos primero qué es la verdad en una proposición, dado que
-    con frecuencia llamamos a éstas verdaderas o falsas.}\autocite{De Veritate c.
-    2} Anscombe sigue esta misma consideración.
+  en el capítulo segundo del \emph{De Veritate}: ¿Qué es la verdad de una
+  proposición o declaración? Ha elegido indagar en las proposiciones o las
+  declaraciones como aquellas clases de las cuales más naturalmente se puede
+  pensar que contienen los posibles portadores del predicado `verdadero'. Así lo
+  expresa cuando dice \citalitinterlin{Busquemos primero qué es la verdad en una
+    proposición, dado que con frecuencia llamamos a éstas verdaderas o
+    falsas.}\autocite{De Veritate c. 2}
+
+  Wittgesntein recorre la ruta analoga en los apartados que conoforman el \S4.06
+  del Tractatus. Argumenta que \citalitinterlin{Una proposición puede ser
+    verdadera o falsa sólo en virtud de ser una imagen de la
+    realidad}\autocite[\S4.06]{wittgenstein1922tractatus}. Y advierte que
+  \citalitinterlin{No debe ser pasado por alto que una proposición tiene un
+    sentido que es independiente de los hechos: de otra manera uno podría
+    fácilmente suponer que verdadero y falso son relaciones de igualdad entre los
+    signos y aquello que significan}\autocite[\S4.061]{wittgenstein1922tractatus}.
 #+END_SRC
 *** Distinción entre significado y verdad
 #+BEGIN_SRC latex
-  El primer movimiento que Elizabeth realiza en su análisis es presentar la
-  distinción entre significado y verdad. Esta distinción es familiar en las
-  elucidaciones del Tractatus: \citalitinterlin{La proposición tiene un sentido
-    que es independiente de los hechos}
+  El primer movimiento que Elizabeth realiza en su análisis es indagar en la
+  distinción entre significado y verdad. Según se ha visto, la distinción es
+  familiar en las elucidaciones del Tractatus: \citalitinterlin{La proposición
+    tiene un sentido que es independiente de los hechos}
   \autocite[\S~4.061]{wittgenstein1922tractatus} San Anselmo también lo considera.
   Una proposición no pierde su significado cuando no es verdadera. Si el
-  significar (\emph{significatio}) de una proposición fuera su verdad, ésta
+  significado (\emph{significatio}) de una proposición fuera su verdad, ésta
   \citalitinterlin{semper esset vera}, siempre sería verdadera. Sin embargo el
   significado de una proposicion \citalitinterlin{manent \ldots et cum est quod
     enunciat, et cum non est}, permanece lo mismo cuando lo que se afirma es el
@@ -207,73 +259,108 @@ On Brute Facts
   significadas falsamente ya que se tornan en proposiciones verdaderas al ser
   afirmadas. Esta es su respuesta a la pregunta ¿podemos darnos a entender con
   proposiciones falsas?: \citalitinterlin{¡No! Pues una proposición es verdadera
-    si las cosas son así como estamos usandola para decir que son, y entonces si
+    si las cosas son así como estamos usándola para decir que son, y entonces si
     usamos `\emph{p}' para decir que $\sim$\emph{p} y las cosas son como queremos
     decir que son, entonces `\emph{p}' es vedadero en nuestro nuevo modo de
     tomarlo y no falso.\autocite[\S4.062]{wittgenstein1922tractatus}} En la
   táctica antes descrita, Santa Juana de Arco no mentía con su código y, si no
   estaba en error acerca de los hechos, sus oraciones eran verdaderas y no falsas.
 
-  Anscombe, sin embargo, no se queda satisfecha con esta respuesta; ¿Acaso este
-  tipo de imposibilidad general contiene toda la sustancia de las `relaciones no
+  Esta descripción de la primacía de la verdad no parece explicar cómo rechazar
+  que verdadero y falso tengan relaciones igualmente justificadas ¿Acaso este tipo
+  de imposibilidad general contiene toda la sustancia de las `relaciones no
   igualmente justificadas'? Se puede aceptar que verdadero y falso no son
   relaciones igualmente justificadas porque lo falso no podría hacerse cargo del
   rol de lo verdadero en las afirmaciones y en el pensamiento. Sin embargo,
-  podemos mentir\ldots o equivocarnos. La imposibilidad general de intercambiar
-  los roles de verdadero y falso no excluye ni el error ni la mentira, por
-  ejemplo. Esta imposibilidad general puede ofrecer una cierta primacia de la
-  verdad dentro de la teoría del significado, pero ¿se podría apoyar en esto el
-  decir que la proposición verdadera tiene una relación mas \emph{justificada} con
-  la realidad que la falsa?
+  podemos mentir\ldots\, o equivocarnos. La imposibilidad general de intercambiar
+  los roles de verdadero y falso no excluye ni el error ni la mentira. Esta
+  imposibilidad general puede ofrecer una cierta primacia de la verdad dentro de
+  la teoría del significado, pero ¿se podría apoyar en esto el decir que la
+  proposición verdadera tiene una relación mas \emph{justificada} con la realidad
+  que la falsa?
 #+END_SRC
-
 **** La respuesta de San Anselmo
 #+BEGIN_SRC latex
-  San Anselmo ofrece una respuesta sobre la primacía de la verdad al decir lo que
-  la verdad es y la pregunta que le lleva a esta descripción será: ¿\emph{Para
-    qué} es un enunciado? El diálogo se desarrolla de este modo:
-  \citalitlar{
-  \begin{tabbing}
-      \emph{Maestro} \hspace{0.5cm}\=¿Qué te parece que es la verdad en el enunciado mismo?\\
-      \emph{Discípulo.} \>No sé más que esto: cuando significa ser lo que es,
-      entonces
-      es verdadero y hay verdad en él.\\
-      \emph{M.} \>¿Para qué se hace una afirmación?\\
-      \emph{D.} \>Para significar que lo que es, es.\\
-      \emph{M.} Luego, debe significarlo.\\
-      \emph{D.} Es cierto.\\
-      \emph{M.} Cuando significa que lo que es, es, significa lo que debe.\\
-      \emph{D.} Es manifiesto.\\
-      \emph{M.} Y cuando significa lo que debe, significa rectamente.\\
-      \emph{D.} Así es.\\
-      \emph{M.} Cuando significa rectamente, la significación es recta.\\
-      \emph{D.} No hay duda. M. Luego, cuando significa que lo que es, es, la
-      significación es recta.\\
-      \emph{D.} Eso se sigue.\\
-      \emph{M.} También cuando significa que lo que es, es, la significación es verdadera.\\
-      \emph{D.} Verdaderamente, cuando significa que lo que es, es, es recta y verdadera.\\
-      \emph{M.} Para ella es lo mismo ser recta y ser verdadera, es decir
-      significar
-      que lo que es, es.\\
-      \emph{D.} Es lo mismo, en verdad.\\
-      \emph{M.} Por lo tanto, para ella, la verdad no es otra cosa que la rectitud.\\
-      \emph{D.} Ahora veo claramente que la verdad es esa rectitud.\\
-      \emph{M.} E igual sucede cuando el enunciado significa que lo que no es, no
-      es.
-  \end{tabbing}}
+  En San Anselmo, por su parte, se puede encontrar una propuesta sobre la primacía
+  de la verdad dentro de su definición de lo que la verdad es. Su punto de partida
+  ha sido la pregunta: ¿\emph{Para qué} es un enunciado? El diálogo se desarrolla
+  de este modo: \citalitlar{\emph{Maestro.} ¿Qué te parece que es la verdad en
+    el enunciado mismo?\\
+    \emph{Discípulo.} No sé más que esto: cuando significa
+    ser lo que es, entonces es verdadero y hay verdad en él.\\
+    \emph{M.} ¿Para qué se hace una afirmación?\\
+    \emph{D.} Para significar que lo que es, es.\\
+    \emph{M.} Luego, debe significarlo.\\
+    \emph{D.} Es cierto.\\
+    \emph{M.} Cuando significa que lo que es, es, significa lo que debe.\\
+    \emph{D.} Es manifiesto.\\
+    \emph{M.} Y cuando significa lo que debe, significa rectamente.\\
+    \emph{D.} Así es.\\
+    \emph{M.} Cuando significa rectamente, la significación es recta.\\
+    \emph{D.} No hay duda.\\
+    \emph{M.} Luego, cuando significa que lo que es, es, la significación es recta.\\
+    \emph{D.} Eso se sigue.\\
+    \emph{M.} También cuando significa que lo que es,
+    es, la significación es verdadera.\\
+    \emph{D.} Verdaderamente, cuando significa que
+    lo que es, es, es recta y verdadera.\\
+    \emph{M.} Para ella es lo mismo ser recta y ser verdadera, es decir significar
+    que lo que es, es.\\
+    \emph{D.} Es lo mismo, en verdad.\\
+    \emph{M.} Por lo tanto, para ella, la verdad no es otra cosa que la rectitud.\\
+    \emph{D.} Ahora veo claramente que la verdad es esa rectitud.\\
+    \emph{M.} E igual sucede cuando el enunciado significa que lo que no es, no
+    es.}
 
-  El maestro propone que la afirmación haciendo lo que debe significa rectamente,
-  y es lo mismo que la afirmación se recta y sea verdadera.
+  El discípulo ha visto que la verdad del enunciado no es la \emph{res enunciata}
+  por una proposición verdadera, tampoco está en la significación, o en cualquier
+  cosa perteneciente a la definición, sino que \citalitinterlin{Nihil aliud scio
+    nisi quia cum significat esse qous est, tunc est in ea veritas et est vera}.
+  Cuando una afirmación hace aquello para lo que es, la significación
+  (\emph{significatio}) está hecha rectamente. Esta rectitud es lo que la verdad
+  es. Es aquí que el discípulo presenta la objeción antes expuesta: `Cuando una
+  expresión significa que es algo que no es, ¿se puede decir que está significando
+  lo que debe?'. La respuesta del maestro será: \citalitinterlin{Veritatem et
+    rectitudinem habet, quia facit quod debet}. Una expresión falsa hace lo que
+  debe en significar aquello que le ha sido dado significar, hace aquello para lo
+  que la expresión es. Sin embargo, teniendo este modo de ser verdadera, no
+  solemos llamarla verdadera pues habitualmente decimos que la expresión es
+  verdadera y correcta sólo cuando significa que es aquello que es y no cuando
+  significa que es aquello que no es, pues tiene mayor deber de hacer aquello para
+  lo que se le ha dado significar que para lo que no se le ha dado. Es
+  sorprendente que el maestro no rechace la descripción del discípulo, más aún que
+  la reitere. La objeción presentada no supone un impedimento para sostener esta
+  descripción de la verdad. El maestro retiene su explicación apoyada en que la
+  verdad de un enunciado es que hace lo que debe.
 
-  algo es el caso que no es el caso que es,
+  ¿En qué consiste entonces la primacía de la verdad? La proposición verdadera
+  hace lo que debe de dos maneras: significa justo aquello que se le ha dado
+  significar --independientemente de si es el caso que es o no-- y significa
+  aquello para lo que se le ha dado esa significación, esto es, afirmar como que
+  es el caso lo que \emph{es} el caso.
 
-  En el diálogo con su discípulo le invita a examinar \emph{para qué} es
-  una aseveración o afirmación. Su respuesta será que es para significar
-  signifying that to be the case which is the case
-  significar aquello como siendo el caso que es el cuál es el caso que es.
-  que es
-  el caso
+  Una observación adicional de Anselmo puede ser relacionada la pregunta de
+  Wittgenstein: `¿Podríamos darnos a entender por medio de proposiciones falsas?'.
+  A la proposición no se le da el significar como siendo aquello que no es [o no
+  siendo aquello que sí es], excepto porque no se le podía dar significar que algo
+  es solamente cuando eso que significa da el caso que es o su no ser sólo cuando
+  es el caso que no es. La observación se acerca a la respuesta de Wittgenstein.
+  En este sentido, lo falso sólo es posible porque lo verdadero (en este tipo de
+  proposiciones) no puede ser la única posibilidad.
+
+  La descripción de la verdad que Anselmo comienza aquí le llevará por medio de
+  consideraciones sobre la verdad en el pensamiento, la voluntad, la acción y el
+  ser de las cosas a su conocida definición de la verdad como \emph{rectitudo sola
+    mente perceptibilis}.
+
 #+END_SRC
+
+
+
+ Ambos indican una cierta primacia de la verdad en la materia del significado,
+  aunque sus razones son distintas.
+
+
 
 
      Anscombe no se traga toda la teoría de la imagen de las proposiciones. Pero ella
@@ -283,6 +370,9 @@ On Brute Facts
      que `No' no se corresponde con nada en la realidad, o que P y no-P (los
      símbolos) pueden ser sistematicamente inercambiados, cada uno asumiendo la
      función del otro..
+
+
+
 
 * Sensefulness and bivalence
   In Anscombe's writing, the two topics of meaning and truth, insofar as they can be
