@@ -113,12 +113,12 @@ On Brute Facts
 *** Distinción entre significado y verdad
 #+BEGIN_SRC latex
   El primer movimiento que Elizabeth realiza en su análisis es presentar la
-  distinción entre significado y verdad.
-  Esta distinción es familiar en las elucidaciones del Tractatus:
-  \citalitinterlin{La proposición tiene un sentido que es independiente de los
-    hechos} \autocite[\S~4.061]{wittgenstein1922tractatus} San Anselmo también lo
-  considera. Una proposición no pierde su significado cuando no es verdadera. Si
-  la \emph{significatio} de una proposición fuera su verdad ésta
+  distinción entre significado y verdad. Esta distinción es familiar en las
+  elucidaciones del Tractatus: \citalitinterlin{La proposición tiene un sentido
+    que es independiente de los hechos}
+  \autocite[\S~4.061]{wittgenstein1922tractatus} San Anselmo también lo considera.
+  Una proposición no pierde su significado cuando no es verdadera. Si el
+  significar (\emph{significatio}) de una proposición fuera su verdad, ésta
   \citalitinterlin{semper esset vera}, siempre sería verdadera. Sin embargo el
   significado de una proposicion \citalitinterlin{manent \ldots et cum est quod
     enunciat, et cum non est}, permanece lo mismo cuando lo que se afirma es el
@@ -127,14 +127,14 @@ On Brute Facts
   ¿Qué es la verdad de una proposición? Se podría responder que es la
   \citalitinterlin{res enunciata}, es decir, la realidad correspondiente, lo que
   la proposición verdadera dice. Esta respuesta nos llevaría a confusión. <<La
-  verdad de una proposición es que significa estos hechos.>> Si esto es así,
+  verdad de una proposición es este hecho que significa.>> Si esto es así,
   entonces cuando deja de ser verdadera también pierde su significado, pues el
   hecho que era su signifcado ya no es. Además, si la desaparición del hecho es la
   desaparición del significado y la verdad, ¿no será entonces que el hecho es la
   misma cosa que el significado y la verdad? Sin embargo no es así, el hecho es lo
-  que la hace verdadera: lo que la proposición dice, la \emph{res enunciata} es la
-  causa de la verdad de una proposición y no su verdad: \citalitinterlin{non eius
-    veritas, sed causa veritatis eius dicenda est}
+  que la hace verdadera: lo que la proposición verdadera dice, la \emph{res
+    enunciata} es la causa de la verdad de una proposición y no su verdad:
+  \citalitinterlin{non eius veritas, sed causa veritatis eius dicenda est}
 #+END_SRC
 *** Verdad y falsedad, ¿relaciones igualmente justificadas?
 #+BEGIN_SRC latex
@@ -152,36 +152,118 @@ On Brute Facts
   no representa nada en la realidad. Más aún `\emph{p}' y `$\sim$\emph{p}' son
   opuestos en significado pero a ambos enunciados corresponde una sola realidad;
   esto es el hecho, la \emph{res enunciata} por el enunciado verdadero. Esto
-  permitiría sostener que que verdadero y falso son tipos de relaciones entre el
-  signo y la cosa significada que están igualmente justificadas.
+  permitiría sostener que verdadero y falso son tipos de relaciones entre el signo
+  y la cosa significada que están igualmente justificadas. `\emph{p}' y
+  `$\sim$\emph{p}' significan la misma realidad, cualquiera de las dos
+  posibilidades que resulte ser la realidad correspondería con ambas. La única
+  distinción entre ambas proposiciones parece ser que una significa falsamente lo
+  que la otra significa verdaderamente. Sin embargo esta distinción puede quedar
+  disuelta con facilidad si se considera que `significa verdaderamente' o
+  `significa falsamente' no son descripciones de los sentidos de las proposiciones
+  verdaderas o falsas. Se puede entender el sentido de ``estoy sentado'' o ``no
+  estoy sentado'' sin conocer cuál enunciado se corresponde con la realidad o cuál
+  de ambas expresiones está significando verdaderamente y cuál falsamente. En
+  cuanto a la relación entre signo y significado ambas proposiciones no tienen
+  diferencia.
 
-  San Anselmo también llega a afrimar esta noción de relaciones igualmente
-  justificadas entre signo y lo que es significado en las proposiciones verdaderas
-  y falsas. El diálogo entre el discípulo y el maestro se desarrolla en este punto
-  como sigue:
-  \citalitlar{\emph{Maestro} ¿Qué te parece que es la verdad en el enunciado mismo?\\
-  \emph{Discípulo.} No sé más que esto: cuando significa ser lo que es, entonces es verdadero y hay
-   verdad en él.\\
-  \emph{M.} ¿Para qué se hace una afirmación?\\
-  \emph{D.} Para significar que lo que es, es.\\
-  \emph{M.} Luego, debe significarlo.\\
-  \emph{D.} Es cierto.\\
-  \emph{M.} Cuando significa que lo que es, es, significa lo que debe.\\
-  \emph{D.} Es manifiesto.\\
-  \emph{M.} Y cuando significa lo que debe, significa rectamente.\\
-  \emph{D.} Así es.\\}
+  En San Anselmo esta noción de relaciones igualmente justificadas aparece con la
+  forma de una pregunta planteada por el discípulo en el diálogo con su maestro.
+  Dice: \citalitlar{Dime qué he de responder si alguien dice que incluso cuando
+    una expresión significa que es algo que no es, está significando lo que debe.
+    Puesto que se le ha dado igualmente el significar como que es tanto lo que es
+    como lo que no es. Pues si no se le hubiera dado el significar como siendo
+    incluso lo que no es, no lo significaría. Así que incluso cuando significa que
+    es lo que no es, está significando lo que debe. Pero si es correcto y
+    verdadero en significar lo que debe, como has mostrado, entonces la expresión
+    es verdadera incluso cuando dice que es algo que no es.\autocite{deveritate}}
+  Las dos relaciones son expresadas como una paridad: \citalitinterlin{pariter
+    accepit significare esse, et quod est, et quod non est}. Esta paridad es
+  esencial ya que si la proposición no significara lo que significa igualmente
+  cuando lo que significa es y también cuando tal cosa no es, no sería capaz de
+  significar del todo.
+
+  A propósito de esta paridad, Wittgenstein plantea: \citalitinterlin{¿Acaso no
+    podríamos hacernos entender usando proposiciones falsas tal como hemos hecho
+    hasta ahora por medio de las verdaderas---siempre y cuando sepamos que están
+    significadas falsamente?\footcite[\S4.062]{wittgenstein1922tractatus}}
+  Anscombe compara este posible modo de actuar a una táctica de Santa Juana de
+  Arco. La Santa empleaba un código en las comunicaciones con sus generales
+  subordinados que consistía en que las cartas que ella marcaba con una cruz
+  contenían proposiciones que debían ser interpretadas en el sentido contrario. El
+  código es posible.
+
+  Hasta aquí Anscombe ha insitido en los argumentos de San Anselmo y de
+  Wittgenstein que apoyan la idea de que las proposiciones falsas y verdaderas
+  tienen igualdad de relación con la realidad significada. Esta paridad propuesta
+  es esencial para el significado, el sentido o \emph{significatio} del tipo de
+  proposiciones que pueden ser verdaderas o falsas. La pregunta ahora es ¿qué,
+  entonces, \emph{es} desigual entre ellas? ¿Cuál es la primacia de la verdad?
+#+END_SRC
+*** ¿Cuál es la primacia de la verdad?
+**** La respuesta de Wittgenstein
+#+BEGIN_SRC latex
+  La respuesta de Wittgenstein a esta pregunta llegará a ser: no se puede
+  describir a alguien como comunicándose con proposiciones falsas entendidas como
+  significadas falsamente ya que se tornan en proposiciones verdaderas al ser
+  afirmadas. Esta es su respuesta a la pregunta ¿podemos darnos a entender con
+  proposiciones falsas?: \citalitinterlin{¡No! Pues una proposición es verdadera
+    si las cosas son así como estamos usandola para decir que son, y entonces si
+    usamos `\emph{p}' para decir que $\sim$\emph{p} y las cosas son como queremos
+    decir que son, entonces `\emph{p}' es vedadero en nuestro nuevo modo de
+    tomarlo y no falso.\autocite[\S4.062]{wittgenstein1922tractatus}} En la
+  táctica antes descrita, Santa Juana de Arco no mentía con su código y, si no
+  estaba en error acerca de los hechos, sus oraciones eran verdaderas y no falsas.
+
+  Anscombe, sin embargo, no se queda satisfecha con esta respuesta; ¿Acaso este
+  tipo de imposibilidad general contiene toda la sustancia de las `relaciones no
+  igualmente justificadas'? Se puede aceptar que verdadero y falso no son
+  relaciones igualmente justificadas porque lo falso no podría hacerse cargo del
+  rol de lo verdadero en las afirmaciones y en el pensamiento. Sin embargo,
+  podemos mentir\ldots o equivocarnos. La imposibilidad general de intercambiar
+  los roles de verdadero y falso no excluye ni el error ni la mentira, por
+  ejemplo. Esta imposibilidad general puede ofrecer una cierta primacia de la
+  verdad dentro de la teoría del significado, pero ¿se podría apoyar en esto el
+  decir que la proposición verdadera tiene una relación mas \emph{justificada} con
+  la realidad que la falsa?
+#+END_SRC
+
+**** La respuesta de San Anselmo
+#+BEGIN_SRC latex
+  San Anselmo ofrece una respuesta sobre la primacía de la verdad al decir lo que
+  la verdad es y la pregunta que le lleva a esta descripción será: ¿\emph{Para
+    qué} es un enunciado? El diálogo se desarrolla de este modo:
+  \citalitlar{
+  \begin{tabbing}
+      \emph{Maestro} \hspace{0.5cm}\=¿Qué te parece que es la verdad en el enunciado mismo?\\
+      \emph{Discípulo.} \>No sé más que esto: cuando significa ser lo que es,
+      entonces
+      es verdadero y hay verdad en él.\\
+      \emph{M.} \>¿Para qué se hace una afirmación?\\
+      \emph{D.} \>Para significar que lo que es, es.\\
+      \emph{M.} Luego, debe significarlo.\\
+      \emph{D.} Es cierto.\\
+      \emph{M.} Cuando significa que lo que es, es, significa lo que debe.\\
+      \emph{D.} Es manifiesto.\\
+      \emph{M.} Y cuando significa lo que debe, significa rectamente.\\
+      \emph{D.} Así es.\\
+      \emph{M.} Cuando significa rectamente, la significación es recta.\\
+      \emph{D.} No hay duda. M. Luego, cuando significa que lo que es, es, la
+      significación es recta.\\
+      \emph{D.} Eso se sigue.\\
+      \emph{M.} También cuando significa que lo que es, es, la significación es verdadera.\\
+      \emph{D.} Verdaderamente, cuando significa que lo que es, es, es recta y verdadera.\\
+      \emph{M.} Para ella es lo mismo ser recta y ser verdadera, es decir
+      significar
+      que lo que es, es.\\
+      \emph{D.} Es lo mismo, en verdad.\\
+      \emph{M.} Por lo tanto, para ella, la verdad no es otra cosa que la rectitud.\\
+      \emph{D.} Ahora veo claramente que la verdad es esa rectitud.\\
+      \emph{M.} E igual sucede cuando el enunciado significa que lo que no es, no
+      es.
+  \end{tabbing}}
 
   El maestro propone que la afirmación haciendo lo que debe significa rectamente,
   y es lo mismo que la afirmación se recta y sea verdadera.
-
-  Dime qué he de responder si alguien dice que incluso cuando una expresión
-  significa que es algo que no es, está significando lo que debe. Puesto que se le
-  ha dado igualmente el significar como ser tanto lo que es como lo que no es.
-  Pues si no se le hubiera dado el significar como siendo incluso lo que no es, no
-  lo significaría. Así que incluso cuando significa que es lo que no es, está
-  significando lo que debe. Pero si es correcto y verdadero en significar lo que
-  debe, como has mostrado, entonces la expresión es verdadera incluso cuando dice
-  que es algo que no es.
 
   algo es el caso que no es el caso que es,
 
@@ -191,34 +273,8 @@ On Brute Facts
   significar aquello como siendo el caso que es el cuál es el caso que es.
   que es
   el caso
-
-
-  Al respecto, Wittgenstein plantea:
-  \citalitinterlin{¿Acaso no podríamos hacernos entender usando proposiciones
-    falsas tal como hemos hecho hasta ahora por medio de las verdaderas---siempre
-    y cuando sepamos que están significadas
-    falsamente?\footcite[\S4.062]{wittgenstein1922tractatus}}
-
-  Anscombe compara este posible modo de actuar a una táctica de Santa Juana de
-  Arco. La Santa empleaba un código en las comunicaciones con sus generales
-  subordinados que consistía en que las cartas que ella marcaba con una cruz
-  contenían proposiciones que debían ser interpretadas en el sentido contrario.
-  Juana no mentía con este código y, si no estaba en error acerca de los hechos,
-  sus oraciones eran verdaderas y no falsas. El código es posible.
-
-  Hasta aquí parece que las proposiciones falsas y verdaderas tienen igualdad de
-  relación con la realidad significada. La pregunta ahora es ¿qué, entonces,
-  \emph{es} desigual entre ellas? ¿Cuál es la primacia de la verdad?
 #+END_SRC
-*** ¿Cuál es la primacia de la verdad?
-**** La respuesta de Wittgenstein
-La respuesta de
-Wittgenstein
-a esta pregunta llegará a ser: no se puede describir a alguien como comunicándose con
-proposiciones falsas
-responde su pregunta sobre darnos a entender con proposiciones falsas
-diciendo: \citalitinterlin{¡No! Pues una proposición es verdadera si }
-**** La respuesta de San Anselmo
+
 
      Anscombe no se traga toda la teoría de la imagen de las proposiciones. Pero ella
      ve lo que es probablemente la cosa mas iluminadora de la comparación de
