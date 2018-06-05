@@ -94,7 +94,8 @@ Making True
 Necessity of Truth
 On Brute Facts
 :END:
-
+:Matter:
+Wittgenstein (Tractatus 4.06)
 4.06 Una proposición puede ser verdadera o falsa sólo en virtud de ser una imagen de la
 realidad.
 
@@ -136,7 +137,7 @@ ser llamadas 'verdaderas' o 'falsas'. El verbo de una proposición no es 'verdad
 4.064 Cada proposición debe ya contener un sentido: no puede recibir un sentido
 mediante la afirmación. Efectivamente, su sentido es precisamente lo que es afirmado. Y
 lo mismo se aplica a la negación, etc.
-
+:END:
 ** La primacia de la verdad sobre la falsedad
 #+BEGIN_SRC latex
   \subsection{La primacia de la verdad sobre la falsedad}
@@ -145,15 +146,15 @@ lo mismo se aplica a la negación, etc.
   primacía de la verdad sobre la falsedad?.
 
   San Anselmo queda prendado de esta pregunta como consecuencia de su indagación
-  en el capítulo segundo del \emph{De Veritate}: ¿Qué es la verdad de una
-  proposición o declaración? Ha elegido indagar en las proposiciones o las
+  en el capítulo segundo del \emph{De Veritate}: ¿qué es la verdad de una
+  proposición o declaración?. Ha elegido indagar en las proposiciones o las
   declaraciones como aquellas clases de las cuales más naturalmente se puede
   pensar que contienen los posibles portadores del predicado `verdadero'. Así lo
   expresa cuando dice \citalitinterlin{Busquemos primero qué es la verdad en una
     proposición, dado que con frecuencia llamamos a éstas verdaderas o
     falsas.}\autocite{De Veritate c. 2}
 
-  Wittgesntein recorre la ruta analoga en los apartados que conoforman el \S4.06
+  Wittgesntein recorre la ruta analoga en los apartados que conforman el \S4.06
   del Tractatus. Argumenta que \citalitinterlin{Una proposición puede ser
     verdadera o falsa sólo en virtud de ser una imagen de la
     realidad}\autocite[\S4.06]{wittgenstein1922tractatus}. Y advierte que
@@ -164,7 +165,8 @@ lo mismo se aplica a la negación, etc.
 #+END_SRC
 *** Distinción entre significado y verdad
 #+BEGIN_SRC latex
-  El primer movimiento que Elizabeth realiza en su análisis es indagar en la
+  Elizabeth realiza su invetigación adentrándose en la misma cuestión trabajada
+  por ambos autores. El primer movimiento que hace en su análisis es indagar en la
   distinción entre significado y verdad. Según se ha visto, la distinción es
   familiar en las elucidaciones del Tractatus: \citalitinterlin{La proposición
     tiene un sentido que es independiente de los hechos}
@@ -172,14 +174,15 @@ lo mismo se aplica a la negación, etc.
   Una proposición no pierde su significado cuando no es verdadera. Si el
   significado (\emph{significatio}) de una proposición fuera su verdad, ésta
   \citalitinterlin{semper esset vera}, siempre sería verdadera. Sin embargo el
-  significado de una proposicion \citalitinterlin{manent \ldots et cum est quod
+  significado de una proposición \citalitinterlin{manent \ldots et cum est quod
     enunciat, et cum non est}, permanece lo mismo cuando lo que se afirma es el
   caso que es y cuando no lo es.
 
-  ¿Qué es la verdad de una proposición? Se podría responder que es la
+  Significado y verdad en una proposición son distintos. Entonces, ¿qué es la
+  verdad de una proposición?. Se podría querer responder que es la
   \citalitinterlin{res enunciata}, es decir, la realidad correspondiente, lo que
-  la proposición verdadera dice. Esta respuesta nos llevaría a confusión. <<La
-  verdad de una proposición es este hecho que significa.>> Si esto es así,
+  la proposición verdadera dice. Esta respuesta nos llevaría a confusión. ``La
+  verdad de una proposición es este hecho que significa''. Si esto es así,
   entonces cuando deja de ser verdadera también pierde su significado, pues el
   hecho que era su signifcado ya no es. Además, si la desaparición del hecho es la
   desaparición del significado y la verdad, ¿no será entonces que el hecho es la
@@ -208,17 +211,17 @@ lo mismo se aplica a la negación, etc.
   y la cosa significada que están igualmente justificadas. `\emph{p}' y
   `$\sim$\emph{p}' significan la misma realidad, cualquiera de las dos
   posibilidades que resulte ser la realidad correspondería con ambas. La única
-  distinción entre ambas proposiciones parece ser que una significa falsamente lo
-  que la otra significa verdaderamente. Sin embargo esta distinción puede quedar
-  disuelta con facilidad si se considera que `significa verdaderamente' o
-  `significa falsamente' no son descripciones de los sentidos de las proposiciones
-  verdaderas o falsas. Se puede entender el sentido de ``estoy sentado'' o ``no
-  estoy sentado'' sin conocer cuál enunciado se corresponde con la realidad o cuál
-  de ambas expresiones está significando verdaderamente y cuál falsamente. En
-  cuanto a la relación entre signo y significado ambas proposiciones no tienen
-  diferencia.
+  distinción que Wittgenstein se reserva entre ambas proposiciones es que una
+  significa falsamente lo que la otra significa verdaderamente. Sin embargo esta
+  distinción puede quedar disuelta con facilidad si se considera que `significa
+  verdaderamente' o `significa falsamente' no son descripciones de los sentidos de
+  las proposiciones verdaderas o falsas. Se puede entender el sentido de ``estoy
+  sentado'' o ``no estoy sentado'' sin conocer cuál enunciado se corresponde con
+  la realidad o cuál de ambas expresiones está significando verdaderamente y cuál
+  falsamente. En cuanto a la relación entre signo y significado ambas
+  proposiciones no tienen diferencia.
 
-  En San Anselmo esta noción de relaciones igualmente justificadas aparece con la
+  En San Anselmo esta noción de relaciones igualmente justificadas aparece bajo la
   forma de una pregunta planteada por el discípulo en el diálogo con su maestro.
   Dice: \citalitlar{Dime qué he de responder si alguien dice que incluso cuando
     una expresión significa que es algo que no es, está significando lo que debe.
@@ -246,10 +249,13 @@ lo mismo se aplica a la negación, etc.
 
   Hasta aquí Anscombe ha insitido en los argumentos de San Anselmo y de
   Wittgenstein que apoyan la idea de que las proposiciones falsas y verdaderas
-  tienen igualdad de relación con la realidad significada. Esta paridad propuesta
-  es esencial para el significado, el sentido o \emph{significatio} del tipo de
-  proposiciones que pueden ser verdaderas o falsas. La pregunta ahora es ¿qué,
-  entonces, \emph{es} desigual entre ellas? ¿Cuál es la primacia de la verdad?
+  tienen igualdad de relación con la realidad significada. Wittgenstein ha
+  advertido del supuesto de entender ambas relaciones como igualmente
+  justificadas, sin embargo lo que ha propuesto hasta ahora parece apoyar esta
+  idea. La paridad propuesta ha resultado esencial para el significado, el sentido
+  o \emph{significatio} del tipo de proposiciones que pueden ser verdaderas o
+  falsas. La pregunta ahora es ¿qué, entonces, \emph{es} desigual entre ellas?
+  ¿Cuál es la primacia de la verdad?
 #+END_SRC
 *** ¿Cuál es la primacia de la verdad?
 **** La respuesta de Wittgenstein
@@ -266,18 +272,18 @@ lo mismo se aplica a la negación, etc.
   táctica antes descrita, Santa Juana de Arco no mentía con su código y, si no
   estaba en error acerca de los hechos, sus oraciones eran verdaderas y no falsas.
 
-  Esta descripción de la primacía de la verdad no parece explicar cómo rechazar
-  que verdadero y falso tengan relaciones igualmente justificadas ¿Acaso este tipo
-  de imposibilidad general contiene toda la sustancia de las `relaciones no
-  igualmente justificadas'? Se puede aceptar que verdadero y falso no son
-  relaciones igualmente justificadas porque lo falso no podría hacerse cargo del
-  rol de lo verdadero en las afirmaciones y en el pensamiento. Sin embargo,
-  podemos mentir\ldots\, o equivocarnos. La imposibilidad general de intercambiar
-  los roles de verdadero y falso no excluye ni el error ni la mentira. Esta
-  imposibilidad general puede ofrecer una cierta primacia de la verdad dentro de
-  la teoría del significado, pero ¿se podría apoyar en esto el decir que la
-  proposición verdadera tiene una relación mas \emph{justificada} con la realidad
-  que la falsa?
+  Para Anscombe, esta descripción de la primacía de la verdad no parece explicar
+  cómo rechazar que verdadero y falso tengan relaciones igualmente justificadas
+  ¿Acaso este tipo de imposibilidad general contiene toda la sustancia de las
+  `relaciones no igualmente justificadas'? Se puede aceptar que verdadero y falso
+  no son relaciones igualmente justificadas porque lo falso no podría hacerse
+  cargo del rol de lo verdadero en las afirmaciones y en el pensamiento. Sin
+  embargo, podemos mentir\ldots\, o equivocarnos. La imposibilidad general de
+  intercambiar los roles de verdadero y falso propuesta por Wittgenstein no
+  considera ni el error ni la mentira. Esta imposibilidad general puede ofrecer una
+  cierta primacia de la verdad dentro de la teoría del significado, pero ¿se
+  podría apoyar en esto el decir que la proposición verdadera tiene una relación
+  mas \emph{justificada} con la realidad que la falsa?
 #+END_SRC
 **** La respuesta de San Anselmo
 #+BEGIN_SRC latex
@@ -339,7 +345,7 @@ lo mismo se aplica a la negación, etc.
   aquello para lo que se le ha dado esa significación, esto es, afirmar como que
   es el caso lo que \emph{es} el caso.
 
-  Una observación adicional de Anselmo puede ser relacionada la pregunta de
+  Una observación adicional de Anselmo puede ser relacionada con la pregunta de
   Wittgenstein: `¿Podríamos darnos a entender por medio de proposiciones falsas?'.
   A la proposición no se le da el significar como siendo aquello que no es [o no
   siendo aquello que sí es], excepto porque no se le podía dar significar que algo
@@ -354,22 +360,124 @@ lo mismo se aplica a la negación, etc.
     mente perceptibilis}.
 
 #+END_SRC
+**** La aportación adicional de Anscombe
+***** balance
+ #+BEGIN_SRC latex
+   Ambos indican una cierta primacia de la verdad en la materia del significado,
+   aunque sus razones son distintas.
+  #+END_SRC
 
+***** recurrence to the sophists
+where the sophists were right... the false proposition
+while it does say something
+does not,
+being believed
+tell its believers
+anything
 
+***** Una misma proposición cambia su rectitud cuando es usada
 
- Ambos indican una cierta primacia de la verdad en la materia del significado,
-  aunque sus razones son distintas.
+***** verdad: teleologia y uso recto
+\citalitlar{Es de notar que aquí tenemos dos cosas: uno, una teleología del tipo de la
+proposición que se esté usando, y aquí hay un argumento --una proposición (si es del
+tipo que es verdadera o falsa) es para ser verdadera porque la otra posibilidad para
+esta es `ancillary'. Lo segundo es para qué la afirmación fue creada para --dígase
+el recto uso de la proposición de acuerdo a aquello para lo que esta misma es.}
 
+***** Proposición para anselmo
+****** Qué entiende
+Entiende por proposición una oración, dicha vocalmente o escrita o hecha mediante
+gesticulaciones con las manos como en el lenguaje de señas.
+No se refiere a lo que hoy en día llamaríamos una proposición abstracta
+****** La misma proposición tiene multiples ocurrencias
+Anselmo contrasta con casi todos los logicians modernos en que considera que una misma
+proposición puede aparecer en multiples ocasiones. Para los logicians modernos cada vez
+es una proposición distinta.
 
+***** El sujeto de la asserción
+Anselmo habla separadamente de afirmación y de denegación de o en las proposiciones.
+Esto era bastante tradicional, pero de su decir el argumento sirve también para la
+denegación' podemos asumir que hubiera aceptado el blanket term `assertion' --la
+denegación de una proposición sería la aserción de su negación. `Aserción'
+presumiblemente tiene un sujeto personal, así que podemos ver que Anselmo dice
+ambas
+que la proposición significa las cosas siendo de este modo
+y
+que la persona usando la proposición también lo hace.
 
+Sin embargo, parece que no nota que la proposicion puede ocurrir como una clausula
+subordinada,
+una if-clause, por ejemplo, y entonces no hay nada malo con su ser falsa .
 
-     Anscombe no se traga toda la teoría de la imagen de las proposiciones. Pero ella
-     ve lo que es probablemente la cosa mas iluminadora de la comparación de
-     Wittgenstein de imagenes y proposiciones; es decir, este `Janus-faced aspect' de
-     las proposiciones, un aspecto que puede ser expresado de diversos modos--como el
-     que `No' no se corresponde con nada en la realidad, o que P y no-P (los
-     símbolos) pueden ser sistematicamente inercambiados, cada uno asumiendo la
-     función del otro..
+Lo podemos corregir, entonces, diciendo que una proposición, verdadera o falsa, realiza
+la tarea de significar lo que hace, y la persona que la asserts
+también la usa para significar lo que hace, pero hay un deber ulterior, de parte del
+que está haciendo la aserción, de significar como siendo el caso solamente lo que es el
+caso.
+
+Puede usar la proposición así, porque si esta es la cosa completa que se quiere decir,
+esto es propiamente para lo que esta es.
+Es posible, por supuesto, que Anselmo sólo llamara algo una proposición si fuera una
+completa --es decir una que no es parte de otra.
+
+***** Is enuntiation the same as signification?
+This question should elicit from us the last bit, the keystone of the arch representing
+the relations of truth, sense and assertion
+
+there is no thing enuntiated by a false proposition
+
+***** Paradoxes and falsehood
+
+* Truth Sense and Assertion (1987)
+** Is enunciation the same as signification?
+
+The significance --the sense-- of the proposition is the same wether it is true or
+false.
+
+What about `what is enuntiated'? Will it too be the same when the proposition is false
+as when it is true?
+
+Is enunciation the same as signification?
+
+This question should elicit from us the last bit, the keystone of the arch representing
+the relations of truth, sense and assertion.
+
+** There is no 'thing enuntiated' by a false proposition
+There is no `thing enuntiated'  by a false proposition.
+
+A true proposition tells one something if one believes it.
+
+A false proposition believed still tells its believer nothing.
+
+** person may tell falsehood,prop tells something only if it's true
+
+ A /person/ may tell one a falsehood
+ but
+
+ just as we say that a proposition as well as a person /says/ such and such,
+
+ so we may also say that a proposition believed /tells/ its believer something
+
+ but only if its true
+
+ for then it reflects the being so of what it is so
+
+ but the analogue of this, for a false proposition, would be that it reflects the being
+ so of what is not so.
+
+ And there is no such thing as either
+
+** paradox says nothing,false proposition says something,tells nothing
+a paradox, on the other hand does not say anything.
+
+ the false proposition, while it does say something, does not, being believed, tell its
+ believers anything
+
+** thinking what is false is thinking something: what is not.
+ So: he who thinks what is false thinks what is not; he thinks something which tells him
+ nothing; but that doesn't mean he thinks nothing
+
+** thinking what is false is thinking something which tells nothing
 
 
 
@@ -387,6 +495,17 @@ lo mismo se aplica a la negación, etc.
   Russell is in the same side of the fence. For them 'having a sense' was one and the
   same thing with being true or false. A. says that W. remained on this side of the
   fence his whole life.(IWT 58, 59) (TEICH192)
+
+ Anscombe no se traga toda la teoría de la imagen de las proposiciones. Pero ella
+  ve lo que es probablemente la cosa mas iluminadora de la comparación de
+  Wittgenstein de imagenes y proposiciones; es decir, este `Janus-faced aspect' de
+  las proposiciones, un aspecto que puede ser expresado de diversos modos--como el
+  que `No' no se corresponde con nada en la realidad, o que P y no-P (los
+  símbolos) pueden ser sistematicamente inercambiados, cada uno asumiendo la
+  función del otro..
+
+
+
 
 * What can hold of thought
   ``It was left to the moderns to deduce what could be from what could hold of thought,
@@ -606,10 +725,6 @@ you can demand that the particular manner of making true always be given for the
 question that is being asked when one says what makes a certain proposition true
 to rebute the general principle that what is true must be made tru by something
 
-
-
-
-
 * San Anselmo
 Capítulo II
 Sobre la verdad de la significación y las dos verdades de la enunciación.
@@ -786,59 +901,6 @@ truth has to the thing signified is not just one of practical necessity, for lyi
 an offence to truth itself. God as truth is Anselm's notion of summa veritas. A. isn't
 opposed to the idea of there being mysteries. Trascendental unity of truth is stressed
 by this idea. (cfr. TEICH 198)
-
-* Truth Sense and Assertion (1984)
-** Is enunciation the same as signification?
-
-The significance --the sense-- of the proposition is the same wether it is true or
-false.
-
-What about `what is enuntiated'? Will it too be the same when the proposition is false
-as when it is true?
-
-Is enunciation the same as signification?
-
-This question should elicit from us the last bit, the keystone of the arch representing
-the relations of truth, sense and assertion.
-
-** There is no 'thing enuntiated' by a false proposition
-There is no `thing enuntiated'  by a false proposition.
-
-A true proposition tells one something if one believes it.
-
-A false proposition believed still tells its believer nothing.
-
-** person may tell falsehood,prop tells something only if it's true
-
- A /person/ may tell one a falsehood
- but
-
- just as we say that a proposition as well as a person /says/ such and such,
-
- so we may also say that a proposition believed /tells/ its believer something
-
- but only if its true
-
- for then it reflects the being so of what it is so
-
- but the analogue of this, for a false proposition, would be that it reflects the being
- so of what is not so.
-
- And there is no such thing as either
-
-** paradox says nothing,false proposition says something,tells nothing
-a paradox, on the other hand does not say anything.
-
- the false proposition, while it does say something, does not, being believed, tell its
- believers anything
-
-** thinking what is false is thinking something: what is not.
- So: he who thinks what is false thinks what is not; he thinks something which tells him
- nothing; but that doesn't mean he thinks nothing
-
-** thinking what is false is thinking something which tells nothing
-
-
 
 * Unity of truth
 
