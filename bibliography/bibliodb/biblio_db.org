@@ -530,7 +530,7 @@ keywords={Anscombe Elizabeth; Primary Source; St Andrews}
 ** By Peter Geach
 *** A Philosophical Autobiography
 #+BEGIN_SRC bibtex :tangle primary.bib
- @incollection{phiaut,
+ @incollection{geach1991philaut,
  editor = "H. A. Lewis",
  booktitle = "Peter Geach: Philosophical Encounters",
  title = "A Philosophical Autobiography",
