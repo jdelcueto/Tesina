@@ -1,0 +1,245 @@
+#+PROPERTY: header-args:latex :tangle ../tex/outline.tex
+#+BEGIN_SRC latex
+\documentclass[./main.tex]{subfiles}
+\begin{document}
+#+END_SRC
+* Desarrollo filosófico de Elizabeth Anscombe
+#+BEGIN_SRC latex
+\setcounter{chapter}{2}
+\chapter{
+Desarrollo filosófico de Elizabeth Anscombe
+}
+#+END_SRC
+** Wittgenstein en el trasfondo de la filosofía de Anscombe
+#+BEGIN_SRC latex
+\section{Wittgenstein en el Transfondo de la Filosofía de Anscombe}
+#+END_SRC
+*** El método filosófico como esclarecimiento del lenguaje
+#+BEGIN_SRC latex
+\subsection{El método filosófico como esclarecimiento del lenguaje}
+#+END_SRC
+*** Dos Cortes en la Filosofía
+#+BEGIN_SRC latex
+\subsection{Dos Cortes en la Filosofía}
+#+END_SRC
+*** Desarrollo del Tractatus
+#+BEGIN_SRC latex
+\subsection{Desarrollo del Tractatus}
+#+END_SRC
+*** Las elucidaciones del Tractatus
+#+BEGIN_SRC latex
+\subsection{Las elucidaciones del Tractatus}
+#+END_SRC
+**** Filosofía como actividad
+#+BEGIN_SRC latex
+\subsubsection{Filosofía como actividad}
+#+END_SRC
+**** El pensamiento como representación
+#+BEGIN_SRC latex
+\subsubsection{El pensamiento como representación}
+#+END_SRC
+**** Proposiciones elementales
+#+BEGIN_SRC latex
+\subsubsection{Proposiciones elementales}
+#+END_SRC
+**** Proposiciones como proyecciones con polos de verdad-falsedad
+#+BEGIN_SRC latex
+\subsubsection{Proposiciones como proyecciones con polos de verdad-falsedad}
+#+END_SRC
+**** La distinción entre el decir y el mostrar
+#+BEGIN_SRC latex
+\subsubsection{La distinción entre el decir y el mostrar}
+#+END_SRC
+*** El método filosófico como medicina para la confusión
+#+BEGIN_SRC latex
+\subsection{El método filosófico como medicina para la confusión}
+#+END_SRC
+*** Las Investigaciones Filosóficas
+#+BEGIN_SRC latex
+\subsection{Investigaciones Filosóficas}
+#+END_SRC
+**** Descripción agustiniana del lenguaje
+#+BEGIN_SRC latex
+\subsubsection{Descripción agustiniana del lenguaje}
+#+END_SRC
+**** El uso como significado
+#+BEGIN_SRC latex
+\subsubsection{El uso como significado}
+#+END_SRC
+**** La gramática como esencia
+#+BEGIN_SRC latex
+\subsubsection{La gramática como esencia}
+#+END_SRC
+**** Juegos de Lenguaje
+#+BEGIN_SRC latex
+\subsubsection{Juegos de Lenguaje}
+#+END_SRC
+**** Siguiendo una regla
+#+BEGIN_SRC latex
+\subsubsection{Seguir una regla}
+#+END_SRC
+**** Definiciones ostensivas privadas
+#+BEGIN_SRC latex
+\subsubsection{Definiciones Ostensivas Privadas}
+#+END_SRC
+** Actividad filosófica de Elizabeth Anscombe
+#+BEGIN_SRC latex
+\newpage
+\section{Actividad filosófica de Elizabeth Anscombe}
+#+END_SRC
+*** Conversión y primeras reflexiones filosóficas
+#+BEGIN_SRC latex
+\subsection{Conversión y primeras reflexiones filosóficas}
+#+END_SRC
+**** Causalidad
+#+BEGIN_SRC latex
+\subsubsection{Causalidad}
+#+END_SRC
+**** Percepción
+#+BEGIN_SRC latex
+\subsubsection{Percepción}
+#+END_SRC
+*** Oxford
+#+BEGIN_SRC latex
+\subsection{Estudiante en Oxford}
+#+END_SRC
+**** H. H. Price y Hume: Fenomenalismo y Escepticismo
+#+BEGIN_SRC latex
+\subsubsection{H.H. Price y Hume: Fenomenalismo y Escepticismo}
+#+END_SRC
+**** /The Justice of the Present War Examined/
+#+BEGIN_SRC latex
+\subsubsection{\emph{The Justice of the Present War Examined}}
+#+END_SRC
+*** Cambridge
+#+BEGIN_SRC latex
+\subsection{Estudiante en Cambridge}
+#+END_SRC
+*** Profesora en Oxford
+#+BEGIN_SRC latex
+\subsection{Profesora en Oxford}
+#+END_SRC
+**** A Reply to Mr C. S. Lewis's Argument that Naturalism is Self-Refuting
+#+BEGIN_SRC latex
+\subsubsection{\emph{A Reply to Mr C. S. Lewis's Argument that Naturalism is Self-Refuting}}
+#+END_SRC
+**** Traducción y Publicación de obra Postuma de Wittgenstein
+ #+BEGIN_SRC latex
+\subsubsection{Traducción y Publicación de Obra Póstuma de Wittgenstein}
+ #+END_SRC
+**** Intention
+#+BEGIN_SRC latex
+\subsubsection{Intention}
+#+END_SRC
+**** An Introduction to Wittgenstein's Tractatus
+#+BEGIN_SRC latex
+\subsubsection{\emph{An Introduction to Wittgenstein's Tractatus}}
+#+END_SRC
+**** Three Philosophers
+#+BEGIN_SRC latex
+\subsubsection{\emph{Three Philosophers} con Peter Geach}
+#+END_SRC
+*** Cátedra de Filosofía en Cambridge
+#+BEGIN_SRC latex
+\subsection{Cátedra de Filosofía en Cambridge}
+#+END_SRC
+**** Causality and Determination
+#+BEGIN_SRC latex
+\subsubsection{\emph{Causality and Determination}}
+#+END_SRC
+**** Collected Philosophical Papers
+#+BEGIN_SRC latex
+\subsubsection{\emph{Collected Philosophical papers}}
+#+END_SRC
+*** Actividad académica tras su retiro
+#+BEGIN_SRC latex
+\subsection{Actividad académica tras su retiro}
+#+END_SRC
+* La Categoría del Testimonio en el Pensamiento de Elizabeth Anscombe
+#+BEGIN_SRC latex
+\setcounter{chapter}{3}
+\chapter{
+La Categoría del Testimonio en el Pensamiento de Elizabeth Anscombe
+}
+#+END_SRC
+** Verdad
+#+BEGIN_SRC latex
+\section{Verdad}
+#+END_SRC
+*** Truth & Truth, Sense and Assertion
+#+BEGIN_SRC latex
+  \subsection{``Truth'' y ``Truth Sense and Assertion''}
+
+  ¿Qué es la primacía de la verdad sobre la falsedad? Anscombe recorre el análisis
+  en torno a esta cuestión realizado por San Anselmo en el Capítulo 2 del \emph{De
+    Veritate} y por Wittgenstein en el \emph{Tractatus}.
+
+
+#+END_SRC
+**** Primacía de la Verdad sobre la falsedad
+*** The Unity of Truth
+#+BEGIN_SRC latex
+\subsection{``The Unity of Truth''}
+#+END_SRC
+*** Making True
+#+BEGIN_SRC latex
+\subsection{``Making True''}
+#+END_SRC
+** Creer
+#+BEGIN_SRC latex
+\section{Creer}
+#+END_SRC
+*** What is it to believe someone?
+#+BEGIN_SRC latex
+\subsection{``What is it to believe someone?''}
+#+END_SRC
+*** Belief and Thought
+#+BEGIN_SRC latex
+\subsection{``Belief and Thought''}
+#+END_SRC
+*** Grounds of belief
+#+BEGIN_SRC latex
+\subsection{``Grounds of belief''}
+#+END_SRC
+*** Motives for beliefs of all sorts
+#+BEGIN_SRC latex
+\subsection{``Motives for beliefs of all sorts''}
+#+END_SRC
+** Fe
+#+BEGIN_SRC latex
+\section{Fe}
+#+END_SRC
+*** Faith
+#+BEGIN_SRC latex
+\subsection{``Faith''}
+#+END_SRC
+** Verdad, misterio y sinsentido
+*** Parmenides, contradiction and mystery
+#+BEGIN_SRC latex
+    \subsection{``Parmenides, contradiction and Mystery''}
+
+    ¿Podemos llegar a decir de alguna proposición particular `esto es verdad, pero
+    lo que afirma es irreductiblemente enigmático'? ¿Debería descartarse este tipo
+    de afirmación amparados en la idea de que `lo que puede ser dicho ha de ser
+    dicho claramente'? Esto implicaría que todos los misterios, incluyendo los
+    misterios centrales del Cristianismo son meramente ilusiones.
+
+    Anscombe le dedica breves palabras al rechazo de esta postura. Afirma que no
+    hay fundamento para el punto de vista de que nada que no pueda ser captado en
+    el pensamiento puede ser verdad. Esto es más bien un tipo de prejuicio.
+#+END_SRC
+*** Hume on Miracles
+#+BEGIN_SRC latex
+\subsection{``Hume on Miracles''}
+#+END_SRC
+*** Prophecy and Miracles
+#+BEGIN_SRC latex
+\subsection{``Prophecy and Miracles''}
+#+END_SRC
+*** On transubstantiation
+#+BEGIN_SRC latex
+\subsection{``On Transubstantiation''}
+#+END_SRC
+#+BEGIN_SRC latex
+\end{document}
+#+END_SRC

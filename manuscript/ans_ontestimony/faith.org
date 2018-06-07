@@ -1,7 +1,7 @@
-#+PROPERTY: header-args:latex :tangle ../../source/ch4/faith.tex
+#+PROPERTY: header-args:latex :tangle ../../tex/ch4/faith.tex
 # ------------------------------------------------------------------------------------
- 
-* /Lectio/: 
+
+* /Lectio/:
 :DESCRIPTION:
 Faith & What is it to believe someone
 :END:
@@ -20,8 +20,8 @@ la fe que hace Anscombe.
    1. Tener fe supone confiar en X que P, fe es la creencia puesta en P por la
       confianza en X.
 
-* /Propositum/:  
-:DESCRIPTION: 
+* /Propositum/:
+:DESCRIPTION:
 Saying what it means 'to believe someone that x' better describes
 the structure of believing testimony than subsuming it under belief in causes
 and effects. There are things we believe because we 'believe God that x'.
@@ -31,16 +31,16 @@ words. In that regard 'believing someone that x' describes the structure of
 believing testimony and the suppositions of faith.
 :END:
 
-** Testimonio y 'creer que'. 
+** Testimonio y 'creer que'.
 Hablar del testimonio en el pensamiento de Elizabeth Anscombe es hablar de su
 analisis de la expresión 'creer a x que p' (fe humana) y 'creer a Dios que p'
 (fe divina).
 
 ** Propositio: "Fe y Conocimiento"
-+BEGIN_SRC latex
-  % SECCIÓN 1: Fe y Conocimiento 
-\section{Fe y Conocimiento}
-+END_SRC
+#+BEGIN_SRC latex
+  % SECCIÓN 1: Fe y Conocimiento
+\section{Fe}
+#+END_SRC
 
 
 * /////////////////////////////////////////////////////////
@@ -61,27 +61,25 @@ la expresión creer con objeto personal para describir de manera razonable la fe
 Además usará la noción de presupuestos de la fe, en lugar de hablar de
 preámbulos.
 :END:
- 
-+BEGIN_SRC latex
-\subsection{Que se puede entender de la fe sin tenerla}  
-En Oscott College, el seminario de la Archidiócesis de Birmingham, se
-  comenzaron a celebrar las conferencias llamadas \eng{Wiseman Lectures}
-  en 1971. Para estas lecciones ofrecidas anualmente en memoria de Nicolás
-  Wiseman se invitaba un ponente que tratara algún tema relacionado con la
-  filosofía de la religión o alguna materia en torno al
-  ecumenismo.\footcite[cf.~][p.~7]{wisemanlects}
+#+BEGIN_SRC latex
+  \subsection{Que se puede entender de la fe sin tenerla}
+  En Oscott College, el seminario de la Archidiócesis de Birmingham, se comenzaron
+  a celebrar las conferencias llamadas Wiseman Lectures en 1971. Para estas
+  lecciones ofrecidas anualmente en memoria de Nicholas Wiseman se invitaba un
+  ponente que tratara algún tema relacionado con la filosofía de la religión o
+  alguna materia en torno al ecumenismo.\footcite[cf.~][p.~7]{wisemanlects}
 
   El 27 de octubre de 1975, para la quinta edición de las conferencias, Anscombe
-  presentó una lección titulada simplemente \eng{Faith}. Allí planteaba la
-  siguiente cuestión:\citalitlar{Quiero decir qué puede ser entendido sobre la
-  fe por alguien que no la tenga; alguien, incluso, que no necesariamente crea
-  que Dios existe, pero que sea capaz de pensar cuidadosa y honestamente sobre
-  ella. Bertrand Russell llamó a la fe ``certeza sin prueba''. Esto parece
-  correcto. Ambrose Bierce tiene una definición en su \eng{`Devil's
-  Dictionary'}: ``La actitud de la mente de uno que cree sin evidencia a uno que
-  habla sin conocimiento cosas sin parangón''. ¿Qué deberíamos
-  pensar de esto?\footcite[p.~115]{faith}} 
-+END_SRC
+  presentó una lección titulada simplemente ``Faith''. Allí planteaba la
+  siguiente cuestión: \citalitlar{Quiero decir qué puede ser entendido sobre la fe
+    por alguien que no la tenga; alguien, incluso, que no necesariamente crea que
+    Dios existe, pero que sea capaz de pensar cuidadosa y honestamente sobre ella.
+    Bertrand Russell llamó a la fe ``certeza sin prueba''. Esto parece correcto.
+    Ambrose Bierce tiene una definición en su \emph{Devil's Dictionary}: ``La
+    actitud de la mente de uno que cree sin evidencia a uno que habla sin
+    conocimiento cosas sin parangón''. ¿Qué deberíamos pensar de
+    esto?\footcite[p.~115]{faith}}
+#+END_SRC
 
 
 * /Expositio/: Presuppositions of faith
@@ -92,19 +90,16 @@ faith is believing God. If the presuppositions are true, it is, then believing
 on the best possible grounds."
 :END:
 
-** Vamos a usar la pregunta planteada para introducir algunos preámbulos:
-#+BEGIN_SRC markdown
-# Heading 1
-¿Qué deberíamos pensar de las definiciones que dan Russell y Bierce? ¿Esto es
-todo lo que se puede discernir sobre la fe desde una perspectiva no creyente?
-¿Esto es todo lo que se puede decir sobre la fe desde una perspectiva no
-creyente?
-
+** ¿Qué hace la fe razonable?
+#+BEGIN_SRC latex
+\subsection{La razonabilidad de la fe}
 Hubo una época en la que se vivió gran entusiasmo por la racionalidad de la
-fe. El caracter racional de la fe estaba sujeto a los llamados preambulos y el
+fe.
+
+El carácter racional de la fe estaba sujeto a los llamados preambulos y el
 paso de estos a la fe. Anscombe entiende que éstos son construcciones ideales.
 Al menos parte de ellos, sería más apropiado llamarles
-presuposiciones.[@IWT, p. 115]
+presuposiciones.
 #+END_SRC
 *** Presuposiciones
 Abraham tuvo fe porque: Abraham creyó que su descendencia sería tan numerosa
@@ -138,25 +133,46 @@ certeza sin prueba.
 ** Preámbulos: Significado de Fe y Racionalidad de la fe
 
 *** "The word was that the Catholic Christian Faith was Rational... a problem was how it was gratuitous"
-+BEGIN_SRC latex 
-
-+END_SRC
-
 +BEGIN_SRC latex
-\subsection{``Solíamos creer que la fe católica era racional''} Habían pasado
-casi diez años de la clausura del Concilio \mbox{Vaticano II}; Anscombe comenzó
-su ponencia recordando cómo a finales de los años sesenta muchas homilias
-comenzaban: ``Solíamos creer que\ldots''. ``Soliamos creer --escuchó una vez--
-que no había peor pecado que faltar a misa el domingo''. Escuchar la frase le
-traía un desaliento alarmado, ya que la implicita oposición que se pretendía
-establecer con la expresión, por lo general, era desaecertada.
 
-Ahora, hay un ``soliamos creer'' que se podía haber usado con algo de acierto.
-Hubo una tiempo en el que se profesó gran entusiasmo por la racionalidad. Quizás
-inspirado por las enseñanzas del Concilio Vaticano I contra el fideismo, pero
-ciertamente promovido por los estudios neo-tomistas. Se decía entre los
-entendidos que la fe Católica era racional, el problema era más bien 
 +END_SRC
+
+#+BEGIN_SRC latex
+  \subsection{``Solíamos creer que la fe católica era racional''}
+  Anscombe comienza su investigación
+
+  cómo se ha dicho de la fe que es racional?
+  .
+
+
+
+  Habían pasado casi diez años de la clausura del Concilio Vaticano~II; Anscombe
+  comenzó su ponencia recordando cómo a finales de los años sesenta muchas
+  homilias comenzaban: ``Solíamos creer que\ldots''. ``Soliamos creer --escuchó
+  una vez-- que no había peor pecado que faltar a misa el domingo''. Escuchar la
+  frase le traía un desaliento alarmado, ya que la implicita oposición que se
+  pretendía establecer con la expresión, por lo general, era desaecertada.
+
+  Ahora, hay un ``soliamos creer'' que se podía haber usado con algo de acierto.
+  Hubo una época en el que se profesó gran entusiasmo por la racionalidad. Quizás
+  inspirado por las enseñanzas del Concilio Vaticano I contra el fideismo, pero
+  ciertamente promovido por los estudios neo-tomistas. Se decía entre los
+  entendidos que la fe Católica era racional, el problema parecía ser más bien
+  cómo era un regalo de la gracia. ¿Por qué sería necesaria la gracia para seguir
+  un proceso de razonamiento?
+
+  Es como si se tuviera la seguirdad de que hay una línea de demostración.
+
+  La fe es ciertamente distinta que el conocimiento--pero eso podía ser explicado
+  por el carácter extrinseco de las pruebas de las doctrinas de de fide
+
+  el conocimiento que podía ser contrastado con la fe sería el conocimiento por
+  pruebas intrínsecas a la matería en cuestión, no por pruebas haber dicho de
+  alguien que estas cosas son verdad
+
+  para asuntos que eran estrictamente de la fe las pruebas intrínsecas no eran
+  posibles, y eso era por lo que la fe contrastaba con el conocimiento
+#+END_SRC
 **** These opinions attached the character of rationality entirely to what were called the preambles and to the passage from the preambles to faith itself
 *** Faith=short for divine faith=believing God.
 
@@ -188,10 +204,10 @@ estrellas del cielo, de este modo se describe su fe.
 
 
 * /Disputatio/: Believing God
-:STATEMENT: 
+:STATEMENT:
 "But is there even the possibility of believing God?"
 :END:
-** Fe humana y fe divina 
+** Fe humana y fe divina
 *** "At one time there was the following way of speaking: faith was distinguished as human and divine."
 **** Human faith was believing a human being
 **** divine faith was believing God
@@ -201,7 +217,7 @@ estrellas del cielo, de este modo se describe su fe.
 *** What Is It to Believe Someone?
 **** Preamble
 ***** What's wrong with Euthydemus?
-****** Question about how believing someone is problematic. 
+****** Question about how believing someone is problematic.
 ***** Believing someone is a topic problematic enough to need philosophical enquiry and important enough to deserve it's attention.
 ***** Old value of the expression 'faith'
 ****** 'I might have called my subject faith'
@@ -288,12 +304,12 @@ Posiblemente sea una idea derivada de las nociones leibnicianas de ser necesario
 
 también va con la idea de Lessing de que las verdades de la religion tienen que ser
 todas de tal naturaleza que la raza humana hubiera podido al final pensarlas por si
-misma. 
+misma.
 
 2. Desde el punto de vista del decreto Vaticano la insistencia de Lessing ssobre las
    verdades historicas siendo inciertas seria poco importante dado que no hay nada
    acerca de demostración de la verdad del cristianismo, sino más bien sobre solidos
-   argumentos externos. 
+   argumentos externos.
 
 Sería herejía o casi herejía decir que los misterios de la fe pueden ser demostrados
 (Como si pudieramos decir Jesús es el Señor sin la ayuda del Espíritu Santo y por la
@@ -316,7 +332,7 @@ justificación para construir.
 4. La prueba de poder y espíritu es en milagros y profecias contemporaneos. Lessing
    exagera la certeza que Orígenes podría tener de éstos. Signos y prodigios, incluso
    en tiempos apostólicos y realizados por Cristo mismo fueron suficientemente raros
-   como para que la mayoría de la gente los conociera de oídas. 
+   como para que la mayoría de la gente los conociera de oídas.
 
 
 ----
@@ -329,11 +345,11 @@ El argumento central llega a ser sobre la razonabilidad de decir:
 Puesto de ese modo su argumento aparece con fuerza. Y puesto de ese modo está
 claramanete en conflicto con el decreto Vaticano. Su argumento es valioso, porque no
 confunde el problema atacando la verdad de los milagros y cumplimientos de profecias
-que han quedado consignadas. 
+que han quedado consignadas.
 
 Lo que hace que el decreto tenga interés extraordinario es que es probablemente común
 enre nosotros el creer en el cumplimiento de profecías y milagros porque creemos en la
-religion católica y estos forman parte de nuestra doctrina. 
+religion católica y estos forman parte de nuestra doctrina.
 
 Ademas, el pasaje del Deuteronomio, así como la reflexión razonable en los
 requerimientos de la fe, nos inclinaría a decir que un profeta o hacedor de maravillas
@@ -352,7 +368,7 @@ hay que concederle que no puede ser esperado que os relatos de éstos despierten
 en un jeuz externo como ciertamente ciertos
 
 La resurrección de Cristo, es el más famoso y el único que todavía se emplea en la
-apologética. 
+apologética.
 
 Lessing concede que éste es tan cierto como culaquier otro hecho histórico. Yo no estoy
 de acuerdo.

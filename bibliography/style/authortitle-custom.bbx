@@ -1,7 +1,7 @@
 \ProvidesFile{authortitle-custom.bbx}%[2015/05/13 v1.0 biblatex bibliography style]
 
 % =========================== Redefined drivers ==============================
-% for article, book, booklet, inbook, incollection, 
+% for article, book, booklet, inbook, incollection,
 % inproceedings, manual, phdthesis entry types
 % ============================================================================
 
@@ -141,7 +141,7 @@
     {}%
   \usebibmacro{finentry}}
 
-  
+
 % =========================== Redefined macroses ==============================
 
 \renewbibmacro*{date}{%
@@ -149,7 +149,7 @@
   }
   {%
   \printdate
-  }
+  }\nopunct
   }
 
 \renewbibmacro*{publisher+location+date}{%
@@ -158,7 +158,7 @@
   {%
   \printtext[parens]{% ADDED
     \iffieldundef{origyear}{%
-    }{%        
+    }{%
     \setunit*{\addcomma\space}%
     {\printorigdate}%
     \setunit*{\addcomma\space}%
@@ -166,11 +166,11 @@
     \setunit*{\addspace}%
     }%
     \printlist{location}%
-    \iflistundef{publisher}
-      {\setunit*{\addcomma\space}}
-      {\setunit*{\addcolon\space}}%
-    \printlist{publisher}%
-    {\addspace}%    
+    %\iflistundef{publisher}
+    %  {\setunit*{\addcomma\space}}
+    %  {\setunit*{\addcolon\space}}%
+    %\printlist{publisher}%
+    %{\addspace}%
     \textsuperscript{\printfield{edition}}%
     \usebibmacro{date}%
   }\nopunct% ADDED
@@ -205,4 +205,3 @@
 \renewcommand*{\mkbibnamelast}[1]{\textsc{#1}}
 
 \endinput
-

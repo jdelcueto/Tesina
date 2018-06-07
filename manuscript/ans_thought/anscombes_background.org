@@ -14,15 +14,15 @@
   :STATEMENT:
   La cuestión planteada al inicio de este apartado tiene como objetivo presentar a
   Wittgenstein como un punto de inflexión en el desarrollo de la filosofía. Su método
-  tiene un efecto en el modo de hacer filosofía. 
+  tiene un efecto en el modo de hacer filosofía.
 
   Para W. el problema de la filosofía es un problema del lenguaje. El método de la
   filosofía, en consecuencia, es sacar a la luz la falta de referencia relativa a las
-  proposiciones. 
+  proposiciones.
   :END:
 ** DONE El método de Wittgenstein
    CLOSED: [2018-04-11 Wed 11:02]
-   #+BEGIN_SRC latex 
+   #+BEGIN_SRC latex
       \subsection{El método de Wittgenstein}
    #+END_SRC
    I am like a piano teacher. I am trying to teach a style of thinking, a technique,
@@ -79,14 +79,14 @@
   :END:
   :STATEMENT:
   Este discurso expositivo tiene como objetivo general presentar el talante filosófico de
-  W., su método y sus efectos. 
+  W., su método y sus efectos.
 
   La filosofía de Wittgenstein como genuina tarea artística.wild life striving to erupt
   into the open
   :END:
 ** DONE El arte de hacer filosofía [100%]
-   #+BEGIN_SRC latex 
- \subsection{El arte de hacer filosofía}
+   #+BEGIN_SRC latex
+   \subsection{El arte de hacer filosofía}
    #+END_SRC
 *** DONE Vida salvaje luchando por emerger abiertamente
     CLOSED: [2018-04-11 Wed 11:13]
@@ -133,7 +133,7 @@
 
 *** DONE Filosofía emergente
     CLOSED: [2018-04-11 Wed 11:16]
-    #+BEGIN_SRC latex 
+    #+BEGIN_SRC latex
     \ifdraft{\subsubsection{Filosofía emergente}}{}
     La filosofía nació así en Ludwig. Como una fuerza violenta. Se hallaba
     estudiando ingeniería en Manchester y se interesó por los fundamentos de las
@@ -219,7 +219,7 @@
  \citalitinterlin{Wittgenstein es extraordinario entre los filósofos por haber
    generado dos épocas, o cortes\footnote{Anscombe toma el termino 'corte' de
      Boguslaw Wolniewicz, filósofo polaco y amigo.}, en la historia de la
-   filosofía.}\autocite[p.~181]{anscombe2011plato:twocuts} 
+   filosofía.}\autocite[p.~181]{anscombe2011plato:twocuts}
  Con estas palabras Anscombe comenzaría su discurso inaugural para el Sexto
  Simposio Internacional de Wittgenstein unos treinta años después de la
  publicación de las \emph{'Investigaciones Filosóficas'}. Y explica:
@@ -239,7 +239,7 @@
  adecuada de su pensamiento y método trae consigo, a juicio de Anscombe, cierto
  efecto curativo.
    #+END_SRC
- 
+
 *** DONE Ver el mundo claramente
     CLOSED: [2018-04-13 Fri 14:08]
 **** Qué significa quedar curado?
@@ -260,7 +260,7 @@
     privarnos de nuestro empleo en la fábrica.\autocite[p~.184]{anscombe2011plato:twocuts}}
      #+END_SRC
 
-***** +Excursus:el asunto de la identidad (contraste necesidad engañosa/inocua)+ 
+***** +Excursus:el asunto de la identidad (contraste necesidad engañosa/inocua)+
       Decir que necesariamente el triangulo es la figura rectilinea plana con el menor
       número de lados, por ejemplo, es un tipo de concepción de necesidad especializada e
       inocua; decir que necesariamente la continuidad espacio-temporal es el criterio de
@@ -282,34 +282,34 @@
 
       si el cuerpo humano tiene identidad, necesariamiente tiene continuidad
       espacio-temporal.
-   
+
       es posible lo contrario? es posible el contraejemplo? decir un cuerpo humano con
       identidad sin continuidad espacio temporal o un cuerpo humano sin identidad con
       continuidad espacio temporal
-   
+
       identidad es la relación de algo consigo mismo
-   
+
       dos cuerpos humanos pueden tener la misma continuidad espacio temporal
-   
+
       De hecho, ésta busqueda tiene las cosas al revés: en esta vida, la identidad es
       nuestro criterio para la continuidad espacio temporal relevante y no vice versa.
-     
+
       Insistir en que deben haber necesidades de tipo absolutamente a priori que
       justifiquen nuestras aseveraciones no nos acerca a ver acertadamente la realidad.
-   
+
       pero otros conceptos de necesidad son engañosos. Las discusiones sobre la
       identidad personal ilustran este concepto engañoso.
 
       Algunos piensan que la identidad de una persona humana es la identidad de un
       cuerpo humano viviente, y la identidad del cuerpo humano viviente tiene que tener
       su criterio en una `continuidad espacio-temporal'. Esto es insatisfactorio.
-   
+
       Cómo puede éste o cualquier otro criterio sugerido cumplir la exigencia de que no
       sea logicamente posible que dos personas tales ambas satisfagan el criterio?
-   
+
       De hecho, ésta busqueda tiene las cosas al revés: en esta vida, la identidad es
       nuestro criterio para la continuidad espacio temporal relevante y no vice versa.
-   
+
       Es logicamente posible que dos personas distintas cumplan con cualquier tipo de
       criterio que podamos proponer. ¿Y qué pasa? ¿Por qué queremos algo para lo cual no
       pueda haber un contraejemplo?, y no simplemente algo para lo que no, o no
@@ -344,9 +344,9 @@
      imitada por los cálculos cuando son de resultados que son `determinados', en
      ese sentido inofensivo de necesidad \autocite[p.~185]{anscombe2011plato:twocuts}}.
       #+END_SRC
-   
+
 ***** El uso del lenguaje como el uso de funciones
-      #+BEGIN_SRC latex 
+      #+BEGIN_SRC latex
   Pues bien, para Wittgenstein la pregunta sobre la manera adecuada de continuar
   una serie es la misma pregunta sobre cómo usar la palabra `rojo'. Así como la
   serie tiene una cierta determinación por su formula, la palabra tiene una cierta
@@ -402,7 +402,7 @@
 
        Con esta expresión Wittgenstein resumió el sentido del \emph{`Tractatus
        Logico\=/Philosophicus'}.
-     #+END_SRC 
+     #+END_SRC
 ** DONE El gran tratado de Wittgenstein [100%]
    #+BEGIN_SRC latex
   \subsection{El gran tratado de Wittgenstein}
@@ -432,7 +432,7 @@
   865]{monk1991duty}
     #+END_SRC
 
-*** DONE A Noruega a resolver los problemas de la lógica 
+*** DONE A Noruega a resolver los problemas de la lógica
     CLOSED: [2018-04-14 Sat 11:13]
     #+BEGIN_SRC latex
   \ifdraft{\subsubsection{A Noruega a Resolver los problemas de la lógica}}{}
@@ -447,7 +447,7 @@
 *** DONE La Gran Guerra
     CLOSED: [2018-04-14 Sat 11:13]
     #+BEGIN_SRC latex
-  \ifdraft{\subsubsection{La Gran Guerra}}{} 
+  \ifdraft{\subsubsection{La Gran Guerra}}{}
 
   El trabajo en Noruega fue escabroso. En el verano de 1914 interrumpió su tarea
   para tomar un receso en Viena.\autocite[cap. 5 loc 2154]{monk1991duty} Había planificado
@@ -459,7 +459,7 @@
 
   El 22 de octubre de 1915 Wittgenstein escribió a Russell desde el taller de
   artillería en Sokal, al norte de Lemberg, con lo que sería una primera versión
-  de su libro.\autocite[cf. p.84]{wittgenstein2012letters} 
+  de su libro.\autocite[cf. p.84]{wittgenstein2012letters}
 
   En 1918 se le otorgó a Wittgenstein un largo periodo de excedencia entre julio y
   septiembre. En ese tiempo pudo terminar su libro. Culminado el trabajo, ofreció
@@ -468,7 +468,7 @@
   que regresar al frente en Italia. En octubre le llegaron noticias de que la
   publicación había sido rechazada. Al final del mes fue hecho prisionero de
   guerra. Estuvo en un campamento en Como y en enero fue trasladado a Cassino. El
-  13 de marzo, escribió a Russell\autocite[cf. p.268]{mcguinness}: 
+  13 de marzo, escribió a Russell\autocite[cf. p.268]{mcguinness}:
   \citalitlar{He escrito un libro llamado ``Logisch-Philosophische Abhandlung''
     que contiene todo mi trabajo de los últimos seis años. Creo que finalmente he
     resuelto todos nuestros problemas. Esto puede sonar arrogante, pero no puedo
@@ -476,7 +476,7 @@
     hecho 'Prigioniere'.\autocite[p.89]{wittgenstein2012letters}}
     #+END_SRC
 
-*** DONE Aire de Misticismo 
+*** DONE Aire de Misticismo
     CLOSED: [2018-04-14 Sat 11:13]
     #+BEGIN_SRC latex
     \ifdraft{\subsubsection{Aire de Misticismo}}{}
@@ -506,7 +506,7 @@
         terrenales son una carga. \autocite[p. 112]{wittgenstein2012letters}}
     #+END_SRC
 
-*** DONE En busca de una experiencia religiosa 
+*** DONE En busca de una experiencia religiosa
     CLOSED: [2018-04-14 Sat 11:13]
     #+BEGIN_SRC latex
     \ifdraft{\subsubsection{En busca de una experiencia religiosa}}{}
@@ -535,7 +535,7 @@
       Esta transformación sorprendió a Russell en aquel encuentro en la Haya, pero
       además fue motivo de confusión en la tarea de entender el Tractatus. Cuando
       Russell recibió el manuscrito en agosto escribió a Wittgenstein cuestionando
-      algunos puntos difíciles del texto. En su carta observaba: 
+      algunos puntos difíciles del texto. En su carta observaba:
       \citalitlar{Estoy convencido de que estás en lo correcto en tu principal
           contienda, que las proposiciones lógicas son tautologías, las cuales no son
           verdad en el mismo modo que las proposiciones
@@ -544,7 +544,7 @@
       Esta interpretación del texto se ajusta bien a la importancia que había tenido
       esta cuestión en las discusiones entre Russell y Wittgenstein. Así lo expresaba
       Russell en ``Introducción a la Filosofía Matemática'' publicado en mayo de aquel
-      año: 
+      año:
       \citalitlar{
         % The importance of “tautology” for a definition of
         % mathematics was pointed out to me by my former pupil Ludwig
@@ -553,7 +553,7 @@
           La importancia de la ``tautología'' para una definición de las
           matemáticas me fue señalada por mi ex-alumno Ludwig Wittgenstein, quien
           estaba trabajando en el problema. No sé si lo ha resuelto, o siquera si está
-          vivo o muerto.\autocite[p.205 n\,1]{russell1919intromathphi}} 
+          vivo o muerto.\autocite[p.205 n\,1]{russell1919intromathphi}}
 
       Sin embargo para el Tractatus la cuestión sobre las proposiciones lógicas como
       tautologías no es ya el tema principal, sino que enfatiza otra cuestión, así
@@ -567,7 +567,7 @@
           cardinal de la filosofía\ldots \autocite[p. 98]{wittgenstein2012letters}}
 
       Esta respuesta de Wittgenstein no solo pone de manifiesto su cambio de enfoque,
-      sino que ofrece una clave para introducirse en su obra. 
+      sino que ofrece una clave para introducirse en su obra.
 
       %CUARTA CUESTIÓN: LA ``DOCTRINA'' DEL TRACTATUS
       %1. La filosofía como actividad
@@ -583,7 +583,7 @@
      % próximos párrafos
      Desde las proposiciones principales del Tractatus queda claro que el tema
      central del libro es la conexión entre el lenguaje, o el pensamiento, y la
-     realidad.  
+     realidad.
      % 1.Filosofía como actividad
      En este nexo es donde la actividad filosófica ha de buscar esclarecer el
      pensamiento.
@@ -680,25 +680,25 @@ Glock 1996, 203-8; Hacker 1996, chs. 2, 5; Malcolm 1986, chs. 6-7.
     La filosofía es la actividad que tiene como objeto la clarificación lógica
     de los pensamientos.\autocite[4.112 p. 52]{wittgenstein1922tractatus} El problema de muchas de
     las proposiciones y preguntas que se han escrito acerca de asuntos filosóficos
-    no es que sean falsas, sino carentes de significado. Wittgenstein continúa: 
+    no es que sean falsas, sino carentes de significado. Wittgenstein continúa:
     \citalitlar{4.003~En consecuencia no podemos dar respuesta a preguntas de este
         tipo, sino exponer su falta de sentido. Muchas cuestiones y proposiciones de
         los filósofos resultan del hecho de que no entendemos la lógica de nuestro
         lenguaje. (Son del mismo genero que la pregunta sobre si lo Bueno es más o
         menos idéntico a lo Bello). Y así no hay que sorprenderse ante el hecho de
         que los problemas más profundos realmente no son problemas.\autocite[4.003
-        p. 45]{wittgenstein1922tractatus}} 
+        p. 45]{wittgenstein1922tractatus}}
 
     Es así que el precipitado de la reflexión filosófica que el Tractatus recoge no
     pretende componer un cuerpo doctrinal articulado por proposiciones filosóficas,
     sino más bien ofrecer `elucidaciones' que sirven como etapas escalonadas y
     transitorias que al ser superadas conducen a ver el mundo correctamente. Este
     esfuerzo hace de pensamientos opacos e indistintos unos claros y con límites
-    bien definidos.\autocite[cf. 4.112 y 6.54]{wittgenstein1922tractatus} 
+    bien definidos.\autocite[cf. 4.112 y 6.54]{wittgenstein1922tractatus}
     La posibilidad de llegar a una visión clara del mundo es fruto de la posibilidad
     de lograr aclarar la lógica del lenguaje. El lenguaje, a su vez, está compuesto
     de la totalidad de las proposiciones, y éstas, cuando tienen sentido,
-    representan el pensamiento.\autocite[cf. 4 y 4.001]{wittgenstein1922tractatus} 
+    representan el pensamiento.\autocite[cf. 4 y 4.001]{wittgenstein1922tractatus}
     Sin embargo, el mismo lenguaje que puede expresar el pensamiento lo disfraza:
 
     \citalitlar{4.002~El lenguaje disfraza el pensamiento; de tal manera que de la
@@ -734,7 +734,7 @@ Glock 1996, 203-8; Hacker 1996, chs. 2, 5; Malcolm 1986, chs. 6-7.
         los objetos denominados por ellos como combinados específicamente en ese
         mismo modo. La combinación de los elementos de la imagen ---la combinación
         siendo presentada--- se llama su estructura y su posibilidad se llama la
-        forma de representación de la imagen.   
+        forma de representación de la imagen.
         Esta `forma de representación' es la posibilidad de que las cosas están
         combinadas como lo están los elementos de la imagen.
         \footnote{\cite[cf.][p.~171]{simplicity}; \cite[n.~2.15]{wittgenstein1922tractatus}}}
@@ -743,7 +743,7 @@ Glock 1996, 203-8; Hacker 1996, chs. 2, 5; Malcolm 1986, chs. 6-7.
     \citalitlar{2.18~Lo que toda representación, de una forma cualquiera, debe tener
         en común con la realidad, de manera que pueda representarla ---cierta o
         falsamente--- de algún modo, es su forma lógica, esto es, la forma de la
-        realidad.\autocite[p.34]{wittgenstein1922tractatus}}  
+        realidad.\autocite[p.34]{wittgenstein1922tractatus}}
     #+END_SRC
 
 *** DONE Las proposiciones como proyecciones con polos de verdad-falsedad
@@ -769,21 +769,21 @@ Glock 1996, 203-8; Hacker 1996, chs. 2, 5; Malcolm 1986, chs. 6-7.
     mundo. A la proposición le corresponde todo lo que le corresponde a la
     proyección, pero no lo que es proyectado, de tal modo, que la proposición no
     contiene aún su sentido, sino la posibilidad de expresarlo; la forma de su
-    sentido, pero no su contenido.\autocite[cf.~][3.1,3.11-3.13]{wittgenstein1922tractatus} 
+    sentido, pero no su contenido.\autocite[cf.~][3.1,3.11-3.13]{wittgenstein1922tractatus}
 
     La proposición no `contiene su sentido' porque la correlación la hacemos nosotros,
     al `pensar su sentido'. Hacemos esto cuando usamos los elementos de la
-    proposición para representar los objetos cuya posible configuración estamos 
+    proposición para representar los objetos cuya posible configuración estamos
     reproduciendo en la disposición de los elementos de la proposición. Esto es lo
     que significa que la proposición sea llamada una imagen de la
-    realidad.\autocite[cf.~][p.69]{anscombe1959iwt}  
+    realidad.\autocite[cf.~][p.69]{anscombe1959iwt}
 
     Toda proposición-imagen tiene dos acepciones. Puede ser una descripción de
     la existencia de una configuración de objetos o puede ser una descripción de la
-    no-existencia de una configuración de objetos.\autocite[cf.~][p.~72]{anscombe1959iwt} 
+    no-existencia de una configuración de objetos.\autocite[cf.~][p.~72]{anscombe1959iwt}
     %Es una peculiaridad de la proyección el que de ésta y del método de proyección
     %se puede decir qué es lo que se está proyectando, sin que sea necesario que tal
-    %cosa exista físicamente.\autocite[cf.~][p.~72]{anscombe1959iwt} 
+    %cosa exista físicamente.\autocite[cf.~][p.~72]{anscombe1959iwt}
     %La idea de la proyección es peculiarmente apta para explicar el carácter de una
     %proposición como teniendo sentido independientemente de los hechos, como
     %inteligible aún antes de que se sepa que es cierta; como algo que concierne lo
@@ -854,11 +854,11 @@ Glock 1996, 203-8; Hacker 1996, chs. 2, 5; Malcolm 1986, chs. 6-7.
           mismo. Que el mundo es \emph{mi} mundo, se muestra a sí mismo en el hecho
           de que los limites del lenguaje (de \emph{aquel} lenguaje que yo
           entiendo) significan los límites de mi
-          mundo.\autocite[cf~.][p.~89]{wittgenstein1922tractatus}} 
+          mundo.\autocite[cf~.][p.~89]{wittgenstein1922tractatus}}
 
       Así como la lógica del mundo y la verdad del solipsismo quedan mostradas,
       también, las verdades éticas y religiosas, aunque no expresables, se manifiestan
-      a sí mismas en la vida. 
+      a sí mismas en la vida.
 
       Existe, por tanto lo inexpresable que se muestra a sí mismo, esto es lo
       místico.\autocite[cf.~][6.522]{wittgenstein1922tractatus}
@@ -871,13 +871,13 @@ Glock 1996, 203-8; Hacker 1996, chs. 2, 5; Malcolm 1986, chs. 6-7.
 
       El significado del mundo tiene que estar fuera del
       mundo\autocite[cf.~][6.41]{wittgenstein1922tractatus} y Dios no se revela \emph{en} el
-      mundo\autocite[cf.~][6.432]{wittgenstein1922tractatus}. 
+      mundo\autocite[cf.~][6.432]{wittgenstein1922tractatus}.
       Esto se sigue de la teoría de la representación; una proposición y su negación
       son ambas posibles, cuál es verdad es accidental.\autocite[cf.~][p.170 \S4]{anscombe1959iwt}
       Si hay un valor que valga la pena para el mundo tiene que estar fuera de lo que
       es el caso que es; lo que hace que el mundo tenga un valor no-accidental tiene
       que estar fuera de lo accidental, tiene que estar fuera del
-      mundo.\autocite[cf.~][6.41]{wittgenstein1922tractatus} 
+      mundo.\autocite[cf.~][6.41]{wittgenstein1922tractatus}
 
       Finalmente, aplicar el límite de lo que puede ser expresado a la actividad
       filosófica significa que:
@@ -1005,7 +1005,7 @@ Glock 1996, 203-8; Hacker 1996, chs. 2, 5; Malcolm 1986, chs. 6-7.
    :LOGBOOK:
    CLOCK: [2018-05-10 Thu 12:57]--[2018-05-10 Thu 13:22] =>  0:25
    :END:
-   #+BEGIN_SRC latex 
+   #+BEGIN_SRC latex
      \subsection{El nuevo método de Wittgenstein}
      En sus reflexiones sobre los fundamentos de las matemáticas entre 1937 y 1938,
      Wittgenstein plantea la siguiente pregunta: \citalitinterlin{¿Cómo sé que al
@@ -1124,7 +1124,7 @@ Glock 1996, 203-8; Hacker 1996, chs. 2, 5; Malcolm 1986, chs. 6-7.
      Las primeras lineas del prefacio de \emph{Investigaciones Filosóficas} leen:
      \citalitinterlin{Los pensamientos que publico en lo que sigue son el precipitado
        de investigaciones filosóficas que me han ocupado durante los últimos
-       dieciseis años.} El prefacio fue escrito en 1945. 
+       dieciseis años.} El prefacio fue escrito en 1945.
 
      Qué vamos a ver?
 
@@ -1293,7 +1293,7 @@ Glock 1996, 203-8; Hacker 1996, chs. 2, 5; Malcolm 1986, chs. 6-7.
    mencionado como objetos familiares de mi experiencia. Cómo una adolescente inexperta
    captó algo de las poderosas influencias subterraneas de un gran filósofo del que
    porbablemente apenas había escuchado, no lo sé. Sin embargo, por lo que pueda servir,
-   mi testimonio es que pensar en estas líneas era enteramente natural. 
+   mi testimonio es que pensar en estas líneas era enteramente natural.
 
 
 ** Investigaciones Filosóficas
@@ -1305,7 +1305,7 @@ Glock 1996, 203-8; Hacker 1996, chs. 2, 5; Malcolm 1986, chs. 6-7.
    Wittgenstein ofrece clarificaciones gramáticas de los conceptos y redes de los
    conceptos de nombre, palabra, significado de una palabra, significar algo con una
    palabra, explicación de una palabra-significado, definición ostensiva, muestra,
-   oración, oración-significado, uso de oraciones, porposición, etc. 
+   oración, oración-significado, uso de oraciones, porposición, etc.
 
    En lugar de la concepción de palabra-significado como determinadas por un nexo
    palabra-mundo, Wittgenstein ahora sostiene que el significado de una expresión es, con
@@ -1382,7 +1382,7 @@ Glock 1996, 203-8; Hacker 1996, chs. 2, 5; Malcolm 1986, chs. 6-7.
 **** cora diamond
      se había sentido atrapada por el fenomenalismo porque había respondido fuertemente en
      contra de un realismo representativo Lockeano que insistía que los colores como ella
-     los veía no eran genuinamente parte del mundo externo. 
+     los veía no eran genuinamente parte del mundo externo.
 
      Pero, encontrandose insistiendo
      que azul (este azul), o amarillo (esto), están allí, allí fuera, ella estaba en un
@@ -1390,25 +1390,25 @@ Glock 1996, 203-8; Hacker 1996, chs. 2, 5; Malcolm 1986, chs. 6-7.
      hacia una lectura del mundo como él mismo hecho de estos artículos del los que ella
      estaba consciente de este modo, un mundo construido de los 'esto's: hecho de el
      amarillo del que ella era consciente al fijarse en el paquete de cigarillos frente a
-     ella, y de otras cosas como esta. 
+     ella, y de otras cosas como esta.
 
      Nosotros debemos entonces imaginarnosla, sentada en
      las lecciones de Wittgenstein, escuchando la discusión de las definiciones ostensivas
-     que podemos pensar que nos damos a nosotros mismos. 
+     que podemos pensar que nos damos a nosotros mismos.
 
      Lo que el dice parece no dejar
-     espacio para esos 'esto's de los que ella está consciente. 
+     espacio para esos 'esto's de los que ella está consciente.
 
      Si el dice que las palabras para las cosas colores son palabras públicas, no palabras
      que definimos concentrandonos en un `esto', entonces parece que lo que es allí, dada
      esta comprensión del mundo, no puede ser esto.
 
      Pero es esto, azul o esto, amarillo, lo que ella sigue queriendo decir
-     esta allí. 
+     esta allí.
 
      Quita la definición ostensiva que ella se da a sí misma y los `esto's que
      hacen, o parecen hacer, estas definiciones posibles, y quitas el carácter del mundo
-     como ella está consciente de él. Quitas lo que ella quiere decir que está ahí. 
+     como ella está consciente de él. Quitas lo que ella quiere decir que está ahí.
 
      Como respuesta a la expresión de esa idea, Wittgenstein le pide que suponga que
      tenemos una palabra 'painy' como una palabra para la propiedad de ciertas superficies.
@@ -1503,7 +1503,7 @@ Glock 1996, 203-8; Hacker 1996, chs. 2, 5; Malcolm 1986, chs. 6-7.
 
 **** PI 198-202
 
-     preliminary examination of the example of 
+     preliminary examination of the example of
 
      mastering the technique of developing an arithmetical series according to a rule.
 
@@ -1511,10 +1511,10 @@ Glock 1996, 203-8; Hacker 1996, chs. 2, 5; Malcolm 1986, chs. 6-7.
      that constitues a rule for the use of a word
 
      the development of the series akin to the applications of a word in accordance with the
-     explanation of its meaning 
+     explanation of its meaning
 
      the internal relation between the rule for the series and any given step in its
-     extension analogous to the internal relation between a word and its correct application 
+     extension analogous to the internal relation between a word and its correct application
 
      nature of understanding: not a mental or neural state, nor a process, but rather an
      ability.
@@ -1532,7 +1532,7 @@ Glock 1996, 203-8; Hacker 1996, chs. 2, 5; Malcolm 1986, chs. 6-7.
      <<¿Así que lo que sea que haga es compatible con la regla?>> -- Déjame preguntar
      esto: que tiene la expression de una regla --digamos un sign-post -- con mis
      acciones?
-      
+
      Que tipo de conexión se obtiene aquí -- pues esta por ejemplo: He sido entrenado
      a reaccionar en un modo particular a este signo, y ahora lo hago y reacciono a
      él.
@@ -1547,7 +1547,7 @@ Glock 1996, 203-8; Hacker 1996, chs. 2, 5; Malcolm 1986, chs. 6-7.
 
      199 Es lo que llamamos "ir según una regla" algo que sería posible hacer para
      sólo una persona, sólo una vez en su vida? Y esto es, por supuesto, una glosa
-     en la gramática de la expresión "ir según una regla" 
+     en la gramática de la expresión "ir según una regla"
 
      No es posible que haya habído sólo una ocasión en la que un reporte se haya hecho, una
      orden fuera dada o entendida, y así msucesivamente. -- Seguir una regla, hacer un
@@ -1564,9 +1564,9 @@ Glock 1996, 203-8; Hacker 1996, chs. 2, 5; Malcolm 1986, chs. 6-7.
 
 
 ** esquema PI
-   Anscombe 
+   Anscombe
    1-40 Definiciones ostensivas
-   private rules 
+   private rules
    private understanding
    private sense of a word
    private language

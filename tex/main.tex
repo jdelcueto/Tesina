@@ -5,8 +5,8 @@
 %Base Document Class
 \documentclass[
 10pt,twoside,
-draft
-%final
+%draft
+final
 ]{report}
 
 %Document Info
@@ -67,8 +67,8 @@ draft
 {
 %    \input{./title.tex}
 %\blankpage
-\afterpage{\blankpage}
-\maketitle
+%\afterpage{\blankpage}
+%\maketitle
 }
 
 %Dedicatoria
@@ -78,9 +78,11 @@ draft
 %}
 %Table of Contents
 %\ifdraft{}{
-    \tableofcontents
+%    \tableofcontents
 %}
-%Intro
+%    Outline
+%    \subfile{./outline}
+%    Intro
 %\ifdraft{}{
 %    \subfile{./intro}
 %}

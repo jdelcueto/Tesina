@@ -36,7 +36,9 @@ keywords={primary, wittgenstein, biography},
 @book{wittgenstein1922tractatus,
 author = "Ludwig Wittgenstein",
 title = "Tractatus Logico-Philosophicus",
-publisher = "Dover Publications, Mineola, New York",
+publisher = "Dover Publications",
+location = "Mineola, New York",
+origdate = "1922",
 year = "1999",
 keywords = "primary, wittgenstein",
 }
@@ -307,6 +309,15 @@ year={2008},
 keywords={Anscombe Elizabeth; Primary Source; St Andrews}
 }
  #+END_SRC
+***** What is it to Believe Someone
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe2008faith:tobelieve,
+  title={What Is It to Believe Someone?},
+  crossref={anscombe2008faith},
+  keywords={},
+  abstract={}
+  }
+#+END_SRC
 **** From Plato to Wittgenstein
 #+BEGIN_SRC bibtex :tangle primary.bib
 @mvcollection{anscombe2011plato,
@@ -316,6 +327,7 @@ editors={Mary Geach and Luke Gormally},
 isbn={9781845402334},
 series={St. Andrews Studies in Philosophy and Public Affairs},
 publisher={Imprint Academic},
+location={Exeter},
 year={2011},
 keywords={Anscombe Elizabeth; Primary Source; St Andrews}
 }
@@ -371,8 +383,7 @@ keywords={Anscombe Elizabeth; Primary Source; St Andrews}
 @mvcollection{anscombe2015logic,
 title={Logic, Truth and Meaning},
 author={Gertrude Elizabeth Margaret Anscombe},
-editora={Mary Geach},
-editorb={Luke Gormally},
+editors={Mary Geach and Luke Gormally},
 isbn={9781845408800},
 series={St. Andrews Studies in Philosophy and Public Affairs},
 publisher={Imprint Academic},
@@ -521,7 +532,8 @@ keywords={Anscombe Elizabeth; Primary Source; St Andrews}
  @book{fa&esphom,
  editor = "J.~M.~Torralba and J.~Nubiola",
  title = "La Filosofía Analítica y la Espiritualidad del Hombre",
- publisher = "Ediciones Universidad de Navarra, S.A., Pamplona",
+ publisher = "Ediciones Universidad de Navarra",
+ location= "S.A., Pamplona",
  year = "2005",
  keywords = "primary, anscombe",
  }
@@ -534,6 +546,7 @@ keywords={Anscombe Elizabeth; Primary Source; St Andrews}
  editor = "H. A. Lewis",
  booktitle = "Peter Geach: Philosophical Encounters",
  title = "A Philosophical Autobiography",
+author = "Peter Geach",
  publisher = "Springer Science \& Business Media",
  series = "Synthese Library",
  year = "2013",
@@ -560,7 +573,8 @@ primary sources.
 @book{torralba2005accion,
 author = "José María Torralba",
 title = "Acción Intencional y Razonamiento Práctico Según G.E.M. Anscombe",
-publisher = "Ediciones Universidad de Navarra, S.A., Pamplona",
+publisher = "Ediciones Universidad de Navarra",
+location = "S.A., Pamplona",
 year = "2005",
 series = "Colección Filosófica",
 volume = "189",

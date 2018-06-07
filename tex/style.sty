@@ -23,6 +23,9 @@
 \usepackage[a4paper,inner=2.5cm, outer=6.5cm, top=6cm, bottom=6cm,
 marginparwidth=5cm, marginparsep=1cm]{geometry}
 
+%\usepackage[a4paper,inner=2cm, outer=2cm, top=2cm, bottom=2cm,
+%marginparwidth=2cm, marginparsep=0cm]{geometry}
+
 %LANGUAGE-----------------------------
 \usepackage[main=spanish,english,greek]{babel}
 
@@ -34,9 +37,25 @@ marginparwidth=5cm, marginparsep=1cm]{geometry}
 \usepackage{graphicx}
 
 %FONT---------------------------------
-\usepackage{mathpazo}
+%\usepackage{mathpazo}
 %LOAD FONTSPEC
-\usepackage{fontspec,xltxtra,xunicode}
+
+% fix the error in cmbright.sty that executes \normalfont
+%\let\latexnormalfont\normalfont
+%\let\normalfont\relax
+% load cmbright
+%\usepackage{cmbright}
+% restore the meaning of \normalfont
+%\let\normalfont\latexnormalfont
+
+% restore the standard fonts for text
+%\renewcommand{\familydefault}{\rmdefault}
+%\renewcommand{\sfdefault}{cmr}
+%\renewcommand{\ttdefault}{cmtt}
+
+%\usepackage[no-math]{fontspec}
+\usepackage{fontspec}
+\usepackage{xltxtra,xunicode}
 %Font: ARIAL UNICODE REPLACEMENT:TeX Gyre(http://www.gust.org.pl/projects/e-foundry/tex-gyre/)
 \setmainfont[
     Extension=.otf,
@@ -47,9 +66,17 @@ marginparwidth=5cm, marginparsep=1cm]{geometry}
     Ligatures={Common, TeX},
 ]{texgyreheros}
 
+%\usepackage{unicode-math}
+%\setmainfont{texgyrehermes}
+%\setsansfont{texgyreheros}
+%\setmonofont{texgyrecursor}
+%\setmathfont{TeX Gyre Termes Math}
+%\setmathfont[range={\setminus}]{Asana Math}
+
 \newfontfamily\greekfont[Scale=MatchUppercase,Ligatures=TeX]{Arial Unicode MS}
 
 \renewcommand{\textgreek}[1]{\bgroup\greekfont{#1}\egroup} % Greek text
+
 
 %OLD ARIAL UNICODE MS OPTIONS
 %\setmainfont[
@@ -121,15 +148,15 @@ marginparwidth=5cm, marginparsep=1cm]{geometry}
 %\RequirePackage{blkcntrl,moredefs,relsize}
 %\usepackage{dialogue}
 % MATH SYMBOLS
-\usepackage{mathtools}
+%\usepackage{mathtools}
 
 % More Math Symbols (therefore)
 \usepackage{amsmath}
 \usepackage{amssymb}
 
 % Math size
-% \DeclareMathSizes{14}{17.28}{12}{8} % (a)
-
+%\DeclareMathSizes{14pt}{14pt}{14pt}{14pt} % (a)
+%\DeclareMathSizes{10.95}{14}{10}{10}
 %TITLES-----------------------
 %Numbering Depth:
 \setcounter{secnumdepth}{5}
@@ -206,7 +233,7 @@ marginparwidth=5cm, marginparsep=1cm]{geometry}
 %entrecomilladas
 %\newcommand{name}[num][default]{definition}
 %Macro: Cita literal interlineada
-\newcommand{\citalitinterlin}[1]{\emph{``#1''}}
+\newcommand{\citalitinterlin}[1]{\emph{<<#1>>}}
 
 %excepto cuando tengan más de tres líneas, en cuyo caso será un
 %párrafo independiente con una sangría de 1,2cm y opcionalmente en cursiva.
@@ -226,33 +253,33 @@ marginparwidth=5cm, marginparsep=1cm]{geometry}
 \babeltags{en = english}
 \newcommand{\eng}[1]{\texten{\emph{#1}}}
 %---------------------------------------------------------------------------
-\ifdraft{}{
+%\ifdraft{}{
 %Fancy Headers
-\usepackage{fancyhdr}
-\setlength{\headheight}{36pt}
+%\usepackage{fancyhdr}
+%\setlength{\headheight}{36pt}
 %\pagestyle{fancy}
 %\fancyhead[LO,LE]{\fontsize{10}{12}\selectfont\leftmark}
 %\fancyhead[RO,RE]{\fontsize{10}{12}\selectfont\rightmark}
 
-\fancypagestyle{fancythesis}{%
-    \fancyhf{}%
+%\fancypagestyle{fancythesis}{%
+%    \fancyhf{}%
     % Note the ## here. It's required because \fancypagestyle is making a macro (\ps@fancybook).
     % If we just wrote #1, TeX would think that it's the argument to \ps@fancybook, but
     % \ps@fancybook doesn't take any arguments, so TeX would complain with an error message.
     % You are not expected to understand this.
-    \renewcommand*{\sectionmark}[1]{ \markright{\thesection\ ##1} }%
-    \renewcommand*{\chaptermark}[1]{ \markboth{\chaptername\ \thechapter: ##1}{} }%
+%    \renewcommand*{\sectionmark}[1]{ \markright{\thesection\ ##1} }%
+%    \renewcommand*{\chaptermark}[1]{ \markboth{\chaptername\ \thechapter: ##1}{} }%
     % Increase the length of the header such that the folios
     % (typography jargon for page numbers) move into the margin
-    \fancyhfoffset[LE]{6mm}% slightly less than 0.25in
-    \fancyhfoffset[RO]{6mm}%
+%    \fancyhfoffset[LE]{6mm}% slightly less than 0.25in
+%    \fancyhfoffset[RO]{6mm}%
     % Put some space and a vertical bar between the folio and the rest of the header
-    \fancyhead[LE]{\thepage\hskip3mm\vrule\hskip3mm\leftmark}%
-    \fancyhead[RO]{\rightmark\hskip3mm\vrule\hskip3mm\thepage}%
-}
+%    \fancyhead[LE]{\thepage\hskip3mm\vrule\hskip3mm\leftmark}%
+%    \fancyhead[RO]{\rightmark\hskip3mm\vrule\hskip3mm\thepage}%
+%}
 
-\pagestyle{fancythesis}
-}
+%\pagestyle{fancythesis}
+%}
 
 %Text being revised
 \definecolor{slightgrey}{RGB}{180,180,180}

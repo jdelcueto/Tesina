@@ -14,23 +14,18 @@
 
 \usepackage[
 backend=biber,
-bibstyle=./bibliography/authortitle-custom,
-citestyle=./bibliography/verbose-ibid-custom,
-%style=authortitle-dw,
-%style=authortitle,
+%bibstyle=./bibliography/authortitle-custom,
+%citestyle=./bibliography/verbose-ibid-custom,
+bibstyle=authortitle,
+citestyle=verbose-ibid,
 refsection=section,
-%xref=true,
-%firstfull=true,
 giveninits=true,
-%idembibformat=dash,
-%namefont=smallcaps,
 autocite=footnote,
 block=none,
 useprefix=true,
 sorting=nyvt,
 isbn=false,
 url=false,
-%edsuper=true,
 ]{biblatex}
 
 \DefineBibliographyStrings{spanish}{%
@@ -39,3 +34,15 @@ url=false,
     editor = {(\lowercase{e}d.),},
     editors = {(\lowercase{e}ds.),},
 }
+
+\AtEveryBibitem{%
+%  \clearname{translator}%
+  \clearlist{publisher}%
+%  \clearfield{pagetotal}%
+}
+
+
+\renewcommand{\mkbibnamefamily}[1]{\textsc{#1}} % IMPORTANT LINE TO BE COMMENTED
+
+\DeclareNameAlias{sortname}{last-first}
+\DeclareNameAlias{default}{last-first}
