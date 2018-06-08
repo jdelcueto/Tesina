@@ -37,24 +37,38 @@ marginparwidth=5cm, marginparsep=1cm]{geometry}
 \usepackage{graphicx}
 
 %FONT---------------------------------
-%\usepackage{mathpazo}
-%LOAD FONTSPEC
+%Better font defaults
+% import font loading packages
+%\usepackage{fontspec}
+%\usepackage{unicode-math}
 
-% fix the error in cmbright.sty that executes \normalfont
-%\let\latexnormalfont\normalfont
-%\let\normalfont\relax
-% load cmbright
-%\usepackage{cmbright}
-% restore the meaning of \normalfont
-%\let\normalfont\latexnormalfont
+% set up Termes (Times) and its companion math font
+%\setmainfont[Ligatures=TeX,
+%Extension=.otf,
+%BoldFont=*-bold,
+%UprightFont=*-regular,
+%ItalicFont=*-italic,
+%BoldItalicFont=*-bolditalic,
+%SmallCapsFeatures={Letters=SmallCaps}]{texgyretermes}
+%\setmathfont[Ligatures=TeX]{texgyretermes-math.otf}
 
-% restore the standard fonts for text
-%\renewcommand{\familydefault}{\rmdefault}
-%\renewcommand{\sfdefault}{cmr}
-%\renewcommand{\ttdefault}{cmtt}
+% set up Heros (Helvetica)
+%\setsansfont[Ligatures=TeX,
+%Extension=.otf,
+%BoldFont=*-bold,
+%UprightFont=*-regular,
+%ItalicFont=*-italic,
+%BoldItalicFont=*-bolditalic,
+%SmallCapsFeatures={Letters=SmallCaps}]{texgyreheros}
 
-%\usepackage[no-math]{fontspec}
-\usepackage{fontspec}
+% More Math Symbols (therefore)
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+%Mathspec for math and fontspec for the rest
+\usepackage{mathspec}
+\usepackage[no-math]{fontspec}
+%\usepackage{fontspec}
 \usepackage{xltxtra,xunicode}
 %Font: ARIAL UNICODE REPLACEMENT:TeX Gyre(http://www.gust.org.pl/projects/e-foundry/tex-gyre/)
 \setmainfont[
@@ -63,19 +77,26 @@ marginparwidth=5cm, marginparsep=1cm]{geometry}
     BoldFont=*-bold,
     ItalicFont=*-italic,
     BoldItalicFont=*-bolditalic,
-    Ligatures={Common, TeX},
+    Ligatures={Common,TeX},
+    SmallCapsFeatures={Letters=SmallCaps}
 ]{texgyreheros}
 
-%\usepackage{unicode-math}
-%\setmainfont{texgyrehermes}
-%\setsansfont{texgyreheros}
-%\setmonofont{texgyrecursor}
-%\setmathfont{TeX Gyre Termes Math}
-%\setmathfont[range={\setminus}]{Asana Math}
+\setmathsfont(Digits,Latin)[Scale=MatchLowercase, Extension=.otf,
+UprightFont=*-regular, ItalicFont=*-italic, Ligatures=TeX]{texgyreheros}
+
+%\setmathfont[Ligatures=TeX]{texgyretermes-math.otf}
+
+%\AtBeginDocument{\addfontfeatures{Ligatures=Historic}}
 
 \newfontfamily\greekfont[Scale=MatchUppercase,Ligatures=TeX]{Arial Unicode MS}
 
 \renewcommand{\textgreek}[1]{\bgroup\greekfont{#1}\egroup} % Greek text
+
+% Dialogue
+%\RequirePackage{blkcntrl,moredefs,relsize}
+%\usepackage{dialogue}
+% MATH SYMBOLS
+%\usepackage{mathtools}
 
 
 %OLD ARIAL UNICODE MS OPTIONS
@@ -144,19 +165,7 @@ marginparwidth=5cm, marginparsep=1cm]{geometry}
     linecolor=green!25,bordercolor=white
     ]{#1}}
 
-% Dialogue
-%\RequirePackage{blkcntrl,moredefs,relsize}
-%\usepackage{dialogue}
-% MATH SYMBOLS
-%\usepackage{mathtools}
 
-% More Math Symbols (therefore)
-\usepackage{amsmath}
-\usepackage{amssymb}
-
-% Math size
-%\DeclareMathSizes{14pt}{14pt}{14pt}{14pt} % (a)
-%\DeclareMathSizes{10.95}{14}{10}{10}
 %TITLES-----------------------
 %Numbering Depth:
 \setcounter{secnumdepth}{5}

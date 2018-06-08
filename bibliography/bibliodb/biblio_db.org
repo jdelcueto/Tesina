@@ -280,6 +280,24 @@ http://www.worldcat.org/oclc/873936079
  }
 #+END_SRC
 
+*** En Philosophical Encounters
+#+BEGIN_SRC bibtex :tangle primary.bib
+ @incollection{anscombe1991aqp,
+ editor = "H. A. Lewis",
+ booktitle = "Peter Geach: Philosophical Encounters",
+ title = "On a Queer Pattern of Argument",
+ author = "Gertrude Elizabeth Margaret Anscombe",
+ publisher = "Springer Science \& Business Media",
+ series = "Synthese Library",
+ year = "1991",
+ location="Dordrecht",
+ number = "213",
+ pages = "121-135",
+ keywords = "bio, anscombe, geach",
+ }
+#+END_SRC
+
+
 *** St. Andrews Studies Collection (2005-2016)
 **** Human Life Action and Ethics
 #+BEGIN_SRC bibtex :tangle primary.bib
@@ -300,11 +318,12 @@ keywords={Anscombe Elizabeth; Primary Source; St Andrews}
 @mvcollection{anscombe2008faith,
 title={Faith in a Hard Ground},
 author={Gertrude Elizabeth Margaret Anscombe},
-editora={Mary Geach},
-editorb={Luke Gormally},
+editor={Mary Geach and Luke Gormally},
 isbn={9781845401214},
 series={St. Andrews Studies in Philosophy and Public Affairs},
+number={3},
 publisher={Imprint Academic},
+location={Exeter},
 year={2008},
 keywords={Anscombe Elizabeth; Primary Source; St Andrews}
 }
@@ -509,6 +528,7 @@ keywords={Anscombe Elizabeth; Primary Source; St Andrews}
   @incollection{anscombe2015logic:qpa,
   title={On a Queer Pattern of Argument},
   crossref={anscombe2015logic},
+  pages={299-312},
   keywords={},
   abstract={}
   }
@@ -546,11 +566,12 @@ keywords={Anscombe Elizabeth; Primary Source; St Andrews}
  editor = "H. A. Lewis",
  booktitle = "Peter Geach: Philosophical Encounters",
  title = "A Philosophical Autobiography",
-author = "Peter Geach",
+ author = "Peter Geach",
  publisher = "Springer Science \& Business Media",
  series = "Synthese Library",
- year = "2013",
- volume = "213",
+ year = "1991",
+ location="Dordrecht",
+ number = "213",
  pages = "1-25",
  keywords = "bio, anscombe, geach",
  }
@@ -790,5 +811,108 @@ keywords={}
   author={Cora Diamond},
   pages={201-220},
   crossref={ammereller2004wittgenstein},
+  }
+#+END_SRC
+
+
+
+* Testers
+
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @mvcollection{mvcollectiontest,
+  title={Multiple Volume Collection},
+  author={Collection's Author Dickens},
+  editor={John Editor Flint and Alan Editor Anderson and Evan Editor Baker and
+                    Jonas Editor Belcher},
+  isbn={4444444},
+  lccn={5555555},
+  series={Series this belongs to},
+  volume={1},
+  publisher={Publishing Agency},
+  location={Location},
+  year={2000},
+  edition={5},
+  origpublisher={Original Publisher},
+  origlocation={Original Location},
+  keywords = {},
+  abstract = {}
+  }
+#+END_SRC
+
+#+BEGIN_SRC bibtex :tangle secondary.bib
+  @incollection{incollectiontest,
+  title={Article in a Collection},
+  author={Article's Author Smith},
+  pages={201-220},
+  crossref={mvcollectiontest},
+  }
+#+END_SRC
+
+#+BEGIN_SRC bibtex :tangle secondary.bib
+  @incollection{incollectiontest2,
+  title={Second Article in a Collection},
+  author={Article's Author Smith},
+  pages={201-220},
+  crossref={mvcollectiontest},
+  }
+#+END_SRC
+
+#+BEGIN_SRC bibtex :tangle secondary.bib
+ @article{articletest,
+     author  = "Article's Author",
+     title   = "Article's Title",
+     day     = "13",
+     month   = "11",
+     year    = "1971",
+     journal = "Journal",
+     volume  = "225",
+     number  = "6858"
+ }
+#+END_SRC
+
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @book{booktest,
+  title={Book},
+  author={Book's Author Higgins},
+  isbn={4444444},
+  lccn={5555555},
+  publisher={Publishing Agency},
+  location={Location},
+  year={2000},
+  edition={5},
+  origpublisher={Original Publisher},
+  origlocation={Original Location},
+  keywords = {},
+  abstract = {}
+  }
+#+END_SRC
+
+
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @mvcollection{anothermvcollectiontest,
+  title={Another Multiple Volume Collection},
+  editor={John Editor Flint and Alan Editor Anderson and Evan Editor Baker},
+  isbn={4444444},
+  lccn={5555555},
+  series={Another Series this belongs to},
+  volume={4},
+  publisher={Publishing Agency},
+  location={Location},
+  year={2000},
+  edition={5},
+  origpublisher={Original Publisher},
+  origlocation={Original Location},
+  origyear={1922},
+  keywords = {},
+  abstract = {}
+  }
+#+END_SRC
+
+#+BEGIN_SRC bibtex :tangle secondary.bib
+  @incollection{anotherincollectiontest,
+  title={Another Article in a Collection},
+  author={Another Author Smith},
+  pages={201-220},
+  crossref={mvcollectiontest},
   }
 #+END_SRC

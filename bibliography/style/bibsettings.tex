@@ -14,10 +14,10 @@
 
 \usepackage[
 backend=biber,
-%bibstyle=./bibliography/authortitle-custom,
-%citestyle=./bibliography/verbose-ibid-custom,
-bibstyle=authortitle,
-citestyle=verbose-ibid,
+bibstyle=../bibliography/style/authortitle-edited,
+citestyle=../bibliography/style/verbose-ibid-custom,
+%bibstyle=authortitle,
+%citestyle=verbose-ibid,
 refsection=section,
 giveninits=true,
 autocite=footnote,
@@ -26,6 +26,7 @@ useprefix=true,
 sorting=nyvt,
 isbn=false,
 url=false,
+autopunct=false,
 ]{biblatex}
 
 \DefineBibliographyStrings{spanish}{%
@@ -35,14 +36,14 @@ url=false,
     editors = {(\lowercase{e}ds.),},
 }
 
+%Hide Publisher
 \AtEveryBibitem{%
-%  \clearname{translator}%
   \clearlist{publisher}%
-%  \clearfield{pagetotal}%
 }
 
+%Author's Last Name in Small Caps
+%\renewcommand{\mkbibnamefamily}[1]{\textsc{#1}}
 
-\renewcommand{\mkbibnamefamily}[1]{\textsc{#1}} % IMPORTANT LINE TO BE COMMENTED
 
-\DeclareNameAlias{sortname}{last-first}
-\DeclareNameAlias{default}{last-first}
+%\DeclareNameAlias{sortname}{last-first}
+%\DeclareNameAlias{default}{last-first}
