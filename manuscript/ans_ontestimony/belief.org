@@ -8,34 +8,37 @@
  #+BEGIN_SRC latex
    \subsection{Un Peculiar Patrón de Argumento.}
    Peter Geach dedica un breve apartado a Anscombe en su ``Autobiografía
-   Filosófica'', entre otras cosas que relata sobre ella, destaca el talante
-   filosófico de su esposa; dice: \citalitlar{Como una filósofa madura,
-     Elizabeth me parece ser una pensadora más intrépida que yo: es ella quien
-     tiene ideas audaces y que a primera vista resultan meramente alocadas, a lo
-     que en ocasiones he reaccionado con inicial indignación. (Cf. sus escritos
-     \emph{The Intentionality of Sensation} y \emph{The First Person}) Usualmente
-     llego a ver cómo estas audaces ideas son más justificables de lo que
-     originalmente suponía.\footnote{\cite[11]{geach1991philaut} <<As a mature
-       philosopher, Elizabeth strikes me as a more adventurous thinker than I am:
-       it is she who gets bold and at first sight merely zany ideas, to which I
-       sometimes reacted with initial outrage. (Cfr. her papers `The Intentionality
-       of Sensation' and `The First Person') Usually I come to think these bold
-       ideas are more defensible than I had originally supposed.>>}} En el mismo
-   libro que recoge estas memorias de Geach, hay un breve artículo de Elizabeth
-   titulado \emph{On a Queer Pattern of Argument}\footnote{\cite{anscombe1991aqp}
-     En adelante la referencia al artículo será como aparece en:
-     \cite{anscombe2015logic:qpa}} que ejemplifica adecudamente las palabras de
-   Geach.
+   Filosófica''. Ambos se dedicaban a la filosofía y era común que cuestionaran a
+   uno sobre el pensamiento del otro, sin embargo no era raro que no supieran cómo
+   contestar. Los dos tenían distintos intereses en sus investigaciones y tambíen
+   un estilo diferente al acercarse a los problemas filosóficos. Geach lo describe
+   así: \citalitlar{Como una filósofa madura, Elizabeth me parece ser una pensadora
+     más intrépida que yo: es ella quien tiene ideas audaces y que a primera vista
+     resultan meramente alocadas, a lo que en ocasiones he reaccionado con inicial
+     indignación. (Cfr. sus escritos \emph{The Intentionality of Sensation} y
+     \emph{The First Person}) Usualmente llego a ver cómo estas audaces ideas son
+     más justificables de lo que originalmente
+     suponía\footnote{\cite[11]{geach1991philaut}: <<As a mature philosopher,
+       Elizabeth strikes me as a more adventurous thinker than I am: it is she who
+       gets bold and at first sight merely zany ideas, to which I sometimes reacted
+       with initial outrage. (Cfr. her papers `The Intentionality of Sensation' and
+       `The First Person') Usually I come to think these bold ideas are more
+       defensible than I had originally supposed.>>}.} El mismo libro que recoge
+   estas memorias de Geach contiene un breve artículo de Elizabeth titulado
+   \emph{On a Queer Pattern of Argument}\footnote{\cite{anscombe1991aqp} En
+     adelante la referencia al artículo será como aparece en:
+     \cite{anscombe2015logic:qpa}} que ejemplifica adecudamente las palabras antes
+   referidas sobre su esposa.
 
    En esta ocasión la consideración intrépida consitirá en indagar sobre la validez
    de principios lógicos familiares aplicándolos a diversos ejemplos de
    argumentaciones. El extraño patrón de argumento que da título a la investigación
    queda expresado de este modo:
      \begin{adjustwidth}{1.2cm}{}
-       1.\hspace{.5cm}Si $p$, entonces $q$.\\
-       2.\hspace{.5cm}Si $r$, entonces no (si $p$ entonces $q$).\\
-       3.\hspace{.5cm}Si no $p$ entonces $r$.\\
-       $\therefore$\hspace{.5cm}$p$ y $q$.
+       1.\hspace{.459cm}Si $p$, entonces $q$.\\
+       2.\hspace{.459cm}Si $r$, entonces no (si $p$ entonces $q$).\\
+       3.\hspace{.459cm}Si no $p$ entonces $r$.\\
+       $\therefore$\hspace{.459cm}$p$ y $q$.
      \end{adjustwidth}
 
      Se obtiene `no $r$' de las primeras dos premisas y entonces `$p$' de `no $r$'
@@ -46,13 +49,13 @@
      descripción, Anscombe entonces invita a considerar el siguiente argumento
      construido según el patrón anterior:
      \begin{adjustwidth}{1.2cm}{}
-       1.\hspace{.5cm}Si ese árbol cae, entonces interrumpirá el paso por el camino
+       1.\hspace{.459cm}Si ese árbol cae, entonces interrumpirá el paso por el camino
        durante mucho tiempo.\\
-       2.\hspace{.5cm}Eso no es verdad si hay una maquina para remover árboles
+       2.\hspace{.459cm}Eso no es verdad si hay una máquina para remover árboles
        funcionando.\\
-       3.\hspace{.5cm}Si el árbol no cae, habrá una maquina para remover árboles
+       3.\hspace{.459cm}Si el árbol no cae, habrá una máquina para remover árboles
        funcionando.\\
-       $\therefore$\hspace{.5cm}El árbol caerá e interrumpirá el paso por el camino
+       $\therefore$\hspace{.459cm}El árbol caerá e interrumpirá el paso por el camino
        durante mucho tiempo.
      \end{adjustwidth}
 
@@ -81,8 +84,143 @@
      conclusión o parte de ella para considerar verdadera alguna de las premisas,
      pero sí reclama que parte de la conclusión sea fundamento para aceptar la
      combinación de modo que se pueda formar un juicio
-     razonable\autocite[Cf.~][301]{anscombe2015logic:qpa}.
+     razonable\footnote{\cite[Cf.~][301]{anscombe2015logic:qpa}}.
+
+     En este caso `$q$' no se sigue necesariamente de `$p$' y así, al no ser una
+     verdad necesaria, sólo se puede aceptar la conjunción de las primeras dos
+     premisas si se está independientemente seguro de que `no $r$'. No es común que
+     estemos en la situación de pensar que `si $p$ entonces $q$' y que sólo por eso
+     esté claro que `si $r$ entonces no (si $p$ entonces $q$)' y entonces poder
+     deducir razonablemente de esto que `no $r$'. Es más común que al juzgar la
+     conjunción de las primeras dos premisas, el antecedente de la segunda pierda
+     fuerza. El punto de la segunda premisa es arrojar duda sobre la primera; la
+     conjunción de la segunda premisa y la tercera refuerzan la pertinencia de la
+     segunda. Sin embargo la segunda premisa sólo tendrá la fuerza de poner en duda
+     la primera premisa ---y no al revés--- si, además de ser verdadera y
+     pertinente, resulta imposible de descartar porque resulta necesario tomar en
+     serio su antecedente `si $r$'\autocite[Cf.~][301]{anscombe2015logic:qpa}.
+
+     Anscombe acuña la expresión `revocabilidad
+     esencial'\footnote{\cite[Cf.~][301]{anscombe2015logic:qpa}: <<Then we have
+       perhaps discovered the special character of (theoretical) hypotheticals
+       whose consquents don't follow logically from their antecedents. We might
+       call this character `essential defeasibility'>>.} para denominar al carácter
+     especial de hipotéticos teoréticos cuyos consecuentes no se siguen lógicamente
+     de sus antecedentes. En este caso esta característica es la que hace que
+     incluso cuando `no $r$' se sigue de `si $p$ entonces $q$ y si $r$, entonces no
+     (si $p$ entonces $q$)', no sería razonable deducir `no $r$' de esa conjunción.
+     Elizabeth además observa que hay un gran número de juicios que son así. Al
+     hacer una afirmación categórica con la seguridad apropiada, frecuentemente se
+     descarta inmediatamente lo que la falsificaría sólo porque se sabe que ésta es
+     verdadera. Sin embargo existe toda una clase de juicios como el que se ha
+     analizado que al ser hecho no se descarta implicitamente como falso todo lo
+     que los falsificaría\autocite[Cf.~][302]{anscombe2015logic:qpa}.
  #+END_SRC
+*** ramble bramble mumble
+ que puedas sacar esta conclusion de estas tres premisas es fundamento para
+  dudar de la conjunción de las tres
+
+  la razón no es que la conclusion sea falsa o absurda
+  es una proposición perfectamente posible
+  y
+  es objetada solo como una conclusión de proposiciones perfectamente posibles,
+  que son mutuamente compatibles y de las que si se sigue
+
+  se puede objetar la conclusión, no porque sea falsa o absurda, sino
+  que se objeta como la conclusion de estas proposiciones que sí son posibles y
+  compatibles y de las cuales si se sigue.
+
+  de donde sacas esa conclusión?
+  se sigue de las premisas
+  no lo creo
+  por qué?
+
+  q no se sigue de p, no es una verdad necesaria
+  entonces si q no se sigue necesariamente de p
+  sólo puedo aceptar la conjunción de 1 y 2 si estoy independientemente seguro
+  de que no r
+
+ las circunstancias son raras en las que puedo decir que si p entonces q y sólo
+ por eso que sea claro que si r, entonces no (si p entonces q) y uno puede
+ deducir que no r
+
+ Por lo regular cuando se juzga si p entonces q es fácil aceptar cualquier
+ antecedente en la segunda premisa sin que este perturbe realmente la creencia
+ de que si p entonces q
+
+ sin embargo el punto de que exista la segunda premisa es exactamente arrojar
+ duda sobre la primera
+
+ la pertinencia de esa duda parece depender de las circunstancias
+
+ se puede pensar en una manera de discutir el asunto fuera de la influencia de algún contexto
+ específico?
+
+ Pero tenemos una tercera premisa que es perfectamente posible y hace pertinente
+ la segunda
+
+ entonces el punto es que la verdad y también la pertinencia de la segunda
+ proposición
+ tiene que necesariamente arrojar duda sobre la primera excepto para alguien que
+ tenga especial información de que sin duda no r (no habrá una maquina)
+
+ si juzgamos que si p entonces q
+ y se nos lanza una premisa segunda verdadera si r entonces no (si p entonces q)
+ esta segunda sólo será capaz de arrojar duda sobre la segunda no sólo si es
+ verdadera, sino también si es imposible que sea simplemente descartada porque
+ no tenemos que tomar en serio su antecedente
+
+ hay un gran numero de juicios hipoteticos que son como esto
+
+ hay toda una clase de juicios tales que cuando los hacemos
+ no estamos implicitamente descartando como falso
+ todo lo que los falsificaría
+
+ en contraste cuando hacemos una afirmación categórica con la seguridad
+ apropiada
+ es con frecuencia el caso que
+ puedo descartar inmediatamente como falso
+ lo que lo falsificaría
+ sólo por que sé que es verdad
+
+ cuando hago una afirmación categórica con la seguridad apropiada
+ sólo porque sé que es verdad
+ puedo descartar inmediatamente como falso todo lo que
+ falsificaría esta afirmación
+
+ en esta ocasión estoy haciendo un juicio en el que afirmo como verdadero algo
+ sin poder descartar inmediatamente todo lo que falsificaría esta afirmación
+
+ quizás aquí hemos descubierto
+ el caracter especial
+ de los
+ hipotéticos (teoreticos) cuyos consecuentes no se siguen lógicamente de sus
+ antecedentes
+ podemos llamar a esta característica revocabilidad (inviabilidad) esencial
+
+ (no r) se sigue
+ pero no es razonable deducirlo de esa conjunción
+
+ sino que reclama otro fundamento (como creer que x cree)
+
+ parece que llegar a la conclusión reclama dudar del antecedente de la segunda
+ premisa si r
+
+ si p entonces q
+ si r entonces no (si p entonces q)
+ por lo tanto no r
+ bueno, si no p entonces r
+ por lo tanto no r
+ si p entonces no r
+ por lo tanto p y q
+
+Cuando la primera premisa no expresa una verdad necesaria, cuando q no se sigue
+de p el car
+
+  p y q es una afirmación categórica?
+  p y q es un tipo de juicio que cuando lo hacemos no estamos descartando
+  implicitamente como falso cualquier cosa que lo falsificaría
+
 *** thoughts
  Cuestiona la aplicabilidad de principios lógicos que ya son familiares usando
  ejemplos de argumentación actual
@@ -160,30 +298,36 @@
    \end{adjustwidth}
 ** Quaestio cont.
 #+BEGIN_SRC latex
-  El curioso patrón de argumento aparece como punto de partida en otra
-  investigación de Elizabeth titulada ``What is it to believe someone?''. En esta
-  ocasión cada premisa aparece atribuida a una persona distinta y la conclusión a
-  un cuarto personaje. El pequeño relato aparece como sigue: \citalitlar{Había
-    tres hombres, $A$, $B$ y $C$, hablando en cierta aldea. $A$ dijo: ``Si ese
-    árbol cae, interrumpirá el paso por el camino durante mucho tiempo.'' ``No
-    será así si hay alguna máquina para remover árboles funcionando'', dijo $B$.
-    $C$ destacó: ``\emph{Habrá} una, si el árbol no cae.'' El famoso sofista
-    Eutidemo, un extraño en el lugar, estaba escuchando. Inmediatamente dijo:
-    ``Les creo a todos. Así que infiero que el árbol caerá e interrumpirá el paso
-    por el camino.'' \footnote{\cite[1]{anscombe2008faith:tobelieve} <<There were
-      three men, $A$, $B$ and $C$, talking in a certain village. $A$ said ``If
-      that tree falls down, it'll block the road for a long time.'' ``That's not
-      so if there's a tree-clearing machine working'', said $B$. $C$ remarked
-      ``There \emph{will} be one, if the tree doesn't fall down.'' The famous
-      sophist Euthydemus, a stranger in the place, was listening. He immediately
-      said ``I believe you all. So I infer that the tree will fall and the road
-      will be blocked.''>>}}
+  \subsection{¿Qué significa creer a alguien?}
+  \subsubsection{Cuestión preliminar}
+  El análisis antes expuesto resulta útil a Anscombe para describir un aspecto
+  importante de la gramática del creer. El tipo de juicio que se genera cuando se
+  cree a alguien alguna cosa implica las mismas relaciones antes descritas entre
+  premisas y conclusión, además de la peculiaridad del fundamento para la
+  conclusión. En su investigación titulada \emph{What is it to believe someone?}
+  Anscombe propone empezar considerando un argumento construido según el patrón
+  antes expuesto. En esta ocasión cada premisa aparece atribuida a una persona
+  distinta y la conclusión a un cuarto personaje. El pequeño relato aparece como
+  sigue: \citalitlar{Había tres hombres, $A$, $B$ y $C$, hablando en cierta aldea.
+    $A$ dijo: ``Si ese árbol cae, interrumpirá el paso por el camino durante mucho
+    tiempo.'' ``No será así si hay alguna máquina para remover árboles
+    funcionando'', dijo $B$. $C$ destacó: ``\emph{Habrá} una, si el árbol no
+    cae.'' El famoso sofista Eutidemo, un extraño en el lugar, estaba escuchando.
+    Inmediatamente dijo: ``Les creo a todos. Así que infiero que el árbol caerá e
+    interrumpirá el paso por el camino.''
+    \footnote{\cite[1]{anscombe2008faith:tobelieve} <<There were three men, $A$,
+      $B$ and $C$, talking in a certain village. $A$ said ``If that tree falls
+      down, it'll block the road for a long time.'' ``That's not so if there's a
+      tree-clearing machine working'', said $B$. $C$ remarked ``There \emph{will}
+      be one, if the tree doesn't fall down.'' The famous sophist Euthydemus, a
+      stranger in the place, was listening. He immediately said ``I believe you
+      all. So I infer that the tree will fall and the road will be blocked.''>>}}
 
-    ¿En qué está mal Eutidemo? Si se evalúa la lógica del argumento antes expuesto
-    no aparece ninguna contradicción, sin embargo hay algo extraño en la afirmación
-    ``les creo a todos''. Si la lógica del argumento parece permitir que la
-    inferencia de Eutidemo sea posible, por qué suena tan extraña la posibilidad de
-    que les crea a todos?
+  ¿En qué está mal Eutidemo? Si se evalúa la lógica del argumento antes expuesto
+  no aparece ninguna contradicción, sin embargo hay algo extraño en la afirmación
+  ``les creo a todos''. Si la lógica del argumento parece permitir que la
+  inferencia de Eutidemo sea posible, ¿por qué suena tan extraña la posibilidad de
+  que les crea a todos?
  #+END_SRC
 ** La pregunta es importante para la teoría del conocimiento
 - Investigación: análisis de la gramática de creer con un objeto (complemento?)
@@ -197,29 +341,86 @@ Atender la pregunta que es eso que llamamos creer a alguien
 consistirá para anscombe en una descripción de la estructura del creer
 desde un análisis de su gramática.
 y
-#+BEGIN_SRC latex
-  \subsection{Un tema importante para la teoría del conocimiento}
-  ¿Qué relevancia puede tener una investigación sobre la gramática de la expresión
-  `creer a $X$ que $p$'? ¿Acaso no es un fenómeno tremendamente familiar? <<Si me
-  dices que has comido salchichas para el desayuno, te
-  creería>>\autocite[1]{anscombe2008faith:tobelieve}, no tiene nada de extraño.
 
-  No es difícil imaginar una motivación de fe a esta investigación de Elizabeth,
-  sin embargo su objetivo es más general. El tema en sí mismo es suficientemente
-  problemático como para merecer investigación filosófica. Creer a alguien es,
-  además, una herramienta que empleamos tan ampliamente que representa un tema de
-  gran impotancia para la vida y debe ocupar un lugar en la teoría del
+** Naturaleza de la Investigación
+#+BEGIN_SRC latex
+  \subsubsection{Naturaleza de la Investigación}
+  Es útil recordar aquí lo que supone para Anscombe una investigación que parte de
+  la pregunta `¿qué significa?'. Wittgenstein inicialmente describió el análisis
+  del lenguaje bajo la concepción de que la lógica conforma el orden que está
+  debajo y que sostiene todo lenguaje posible. El trabajo del filósofo es analizar
+  el lenguaje para sacar al descubierto el orden lógico que está debajo del
+  lenguaje ordinario y que es la forma de la realidad. Wittgenstein abandonó esta
+  concepción; en Investigaciones Filosóficas exclama: \citalitlar{Cuanto más de
+    cerca examinamos el lenguaje actual, más crece el conflicto entre éste y
+    nuestro requisito. (Pues la pureza cristalina de la lógica no era, por
+    supuesto, algo que yo hubiera \emph{descubierto}: era un requisito.) El
+    conflicto se hace intolerable; el requisito llega ahora a estar en peligro de
+    tornarse vacuo. --- Nos hemos situado en hielo resbaladizo donde no hay
+    fricción, y así, en cierto sentido, las condiciones son ideales; pero también,
+    justo por eso, no somos capaces de caminar. Queremos caminar: así que
+    necesitamos \emph{fricción}. ¡De vuelta al terreno
+    escarpado!\footnote{\cite[\S107]{wittgenstein1953phiinv}: <<The more closely
+      we examine actual language, the greater becomes the conflict between it and
+      our requirement. (For the crystalline purity of logic was, of course, not
+      something I had \emph{discovered}: it was a requirement.) The conflict
+      becomes intolerable; the requirement is in danger of becoming vacuous. ---
+      We have got on to slippery ice where there is no friction, and so, in a
+      certain sense, the conditions are ideal; but also, just because of that, we
+      are unable to walk. We want to walk: so we need \emph{friction}. Back to the
+      rough ground!>>}.}
+
+  Los nombres, las proposiciones, el lenguaje, no tienen una forma esencial para
+  ser puesta al descubierto por el análisis, sino que son familias de estructuras
+  que están a plena vista y que pueden ser clarificadas por medio de la
+  descripción\autocite[Cf.~][12]{bakerhacker2009understanding}. Wittgenstein le
+  \citalitinterlin{da la vuelta a la
+    busqueda}\autocite[\S108]{wittgenstein1953phiinv}, y trata a la lógica no como
+  lo que está debajo del lenguaje para ser descubierto, sino como
+  \citalitinterlin{una cuadrícula que imponemos sobre los argumentos para probar y
+    demostrar su validez}\footnote{\cite[12]{bakerhacker2009understanding}: <<a
+    grid we impose upon arguments to test and demonstrate their validity>>}.
+
+  Descartada esta concepción sublime, Wittgenstein describe los problemas
+  filosóficos como formas de malentendidos o falta de entendimiento que pueden ser
+  disueltos por medio de descripciones de los usos de las palabras. La tarea de la
+  filosofía es la \citalitinterlin{clarificación gramatical que disuelve la
+    perplejidad conceptual y ofrece una visión amplia o representación estudiable
+    de un segmento de la gramática de nuestro
+    lenguaje}\footnote{\cite[12]{bakerhacker2009understanding}: <<grammatical
+    clarification that dissolves conceptual puzzlement and gives an overview of or
+    surveyable representation of a segment of the grammar of our language>>}. Esta
+  metodología, por tanto, no pretende ofrecer teorías explicativas fruto de la
+  deducción o la hipótesis; tampoco pretende ofrecer tesis dogmáticas o
+  esencialistas. Más bien busca describir usos familiares de las palabras y
+  ordenarlas de tal manera que los patrones de su uso sean
+  estudiables\autocite[Cf.~][12]{bakerhacker2009understanding}.
+#+END_SRC
+** Qué importancia puede tener?
+#+BEGIN_SRC latex
+  \subsubsection{Un tema importante para la teoría del conocimiento}
+  ¿Qué relevancia puede tener una investigación de esta naturaleza sobre la
+  gramática de la expresión `creer a $X$ que $p$'? ¿Acaso no es un fenómeno
+  tremendamente familiar? <<Si me dices que has comido salchichas para el
+  desayuno, te creería>>\autocite[1]{anscombe2008faith:tobelieve}, no tiene nada
+  de extraño.
+
+  No es difícil imaginar una que la motivación de Elizabeth se haya en su ser
+  creyente, sin embargo su objetivo es más general. El tema en sí mismo es
+  suficientemente problemático como para merecer investigación filosófica. Creer a
+  alguien es, además, una herramienta que empleamos tan ampliamente que representa
+  un tema de gran impotancia para la vida y debe ocupar un lugar en la teoría del
   conocimiento.
 
-   Atender la pregunta que es eso que llamamos creer a alguien
-  consistirá para anscombe en una descripción de la estructura del creer
-  desde un análisis de su gramática.
+  Atender la pregunta que es eso que llamamos creer a alguien consistirá para
+  anscombe en una descripción de la estructura del creer desde un análisis de su
+  gramática.
 
   El objetivo de Elizabeth es analizar la expresión `creer' con un objeto
   personal.
-
-
-
+#+END_SRC
+** Conexiones con el tema del testimonio
+#+BEGIN_SRC latex
   \subsection{Nexos}
   Esta investigación de Anscombe establece varios nexos importantes. La gramática
   de `creer a $X$ que $p$' está relacionada en puntos importantes con la gramática
