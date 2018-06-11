@@ -298,7 +298,7 @@ de p el car
    \end{adjustwidth}
 ** What is it to believe someone?
 #+BEGIN_SRC latex
-  \subsection{¿Qué significa creer a alguien?}
+  \subsection{¿Qué es creer a alguien?}
   \subsubsection{Cuestión preliminar}
   En el análisis anterior Anscombe ha descrito un escenario en el que combinar
   varias premisas como conocimiento o juicio razonable resulta problemático a la
@@ -386,7 +386,8 @@ de p el car
   deducción o la hipótesis; tampoco pretende ofrecer tesis dogmáticas o
   esencialistas. Más bien busca describir usos familiares de las palabras y
   ordenarlas de tal manera que los patrones de su uso sean
-  estudiables\autocite[Cf.~][12]{bakerhacker2009understanding}.
+  estudiables\autocite[Cf.~][12]{bakerhacker2009understanding}. La metodología de
+  Elizabeth está basada en esto.
 #+END_SRC
 
 ** Esquema desde aquí:
@@ -402,10 +403,177 @@ hume describe la estructura del testimonio así...
 ** Investigación en la gramática de creer
 #+BEGIN_SRC latex
   \subsubsection{Investigación Gramática de `creer a $x$ que $p$'.}
-  Anscombe insiste en que su análisis será específicamente en la forma de la
-  expresión `creer a $x$ que $p$' y explica: \citalitinterlin{no estoy interesada
-    aquí en ningun sentido de `creer en ---' excepto en el sentido en el que
-    significa `creer que --- existe'}.
+  Anscombe pone el interés de su investigación en la forma de la expresión `creer
+  a $x$ que $p$'\autocite[Cf.~][2]{anscombe2008faith:tobelieve}. Su análisis se va
+  desenvolviendo a lo largo de la descripción de los usos de la expresión.
+
+  \citalitinterlin{Si me dijeras `Napoleón perdió la batalla de Waterloo' y te
+    digo `te creo' sería una
+    broma}\footnote{\cite[4]{anscombe2008faith:tobelieve}: <<If you tell me
+    `Napoleon lost the battle of Waterloo' and I say `I believe you' that is a
+    joke.>>}. A primer golpe `creer a $x$ que $p$' parece que significa
+  simplemente creer lo que alguien me dice, o creer que lo que me dice es
+  verdadero. Sin embargo esto no es suficiente. Puede ser que ya crea lo que
+  alguien me venga a decir. Puede ser que la comunicación suscite que forme mi
+  propio juicio acerca de la verdad comunicada, pero aquí no podría decir que
+  estoy creyendo al que comunica o que estoy contando con él para mi creer que
+  $p$.
+
+  ¿Entonces creer a alguien es creer algo apoyado en el hecho de que lo ha dicho?
+  \citalitinterlin{Puede que se le pregunte a un testigo `¿Por qué pensó que aquel
+    hombre se estaba muriendo?' y que éste responda `Porque el doctor me lo dijo'
+    [\ldots] `no me hice ninguna opinión propia --- yo sólo creí al
+    doctor'}\footnote{\cite[4]{anscombe2008faith:tobelieve}: <<A witness might be
+    asked `Why did you think the man was dying?' and reply `Because the doctor
+    told me'. If asked further what his own judgement was, he may reply `I had no
+    opinion of my own --- I just believed the doctor'.>>}. Este puede ser un
+  ejemplo de contar con $x$ para la verdad de $p$. Esto, sin embargo, tampoco
+  parece ser suficiente. Puedo imaginar el caso en el que esté convencido de que
+  alguien a la vez cree lo opuesto a la verdad de $p$ y quiera mentirme. Según
+  este cálculo podría decir que creo en lo que ha dicho por el hecho de que me lo
+  ha dicho, pero no estaría diciendo que le creo a él.
+
+  ¿Qué se puede decir del <<les creo a todos>> de Eutidemo en la cuestión
+  preliminar? Anscombe juzga que la exclamación no expresa simplemente una opinión
+  apresurada o excesiva credulidad, sino más bien suena a
+  locura\autocite[5]{anscombe2008faith:tobelieve}. Eutidemo no puede estar
+  diciendo la verdad cuando dice que les cree a todos. La expresión de $C$ da
+  pertinencia a lo que dice $B$, y la manera natural de entender lo que dice $B$
+  es como arrojando duda sobre lo que $A$ ha dicho. ¿Se puede pensar que $A$
+  todavía cree lo que ha dicho inicialmente? ¿Eutidemo puede creer a $A$ sin saber
+  cuál es su reacción a lo que $B$ y $C$ han dicho? Entonces Anscombe concluye,
+  \citalitinterlin{Para creer a $N$ uno debe creer que $N$ mismo cree lo que está
+    diciendo}\footnote{\cite[5]{anscombe2008faith:tobelieve}: <<To believe $N$ one
+    must believe that $N$ himself believes what he is saying>>.} Creer a $N$ sin
+  saber si $N$ cree lo que dice le suena a Elizabeth como una locura.
+
+  En este punto queda expuesta a la luz una segunda creencia involucrada en el
+  creer a $x$ que $p$. Anscombe fija su atención en esto. Creer a $x$ que $p$
+  conlleva otras creencias, éstas son presuposiciones implicadas en llegar a
+  plantearse si creer o no. En primer lugar, si se cree a alguien, tiene que ser
+  el caso que se cree que una comunicación es de
+  alguien\autocite[Cf.~][6]{anscombe2008faith:tobelieve}. Esta presuposición no
+  parece tan problemática si se piensa en las ocasiones en las que creemos a
+  alguien que es percibido. Sin embargo tiene más profundidad si se considera que
+  con frecuencia recibimos la comunicación sin que esté presente el que habla,
+  como cuando leemos un libro\autocite[Cf.~][5]{anscombe2008faith:tobelieve}.
+
+  Anscombe distingue entre el que habla en una comunicación y el productor
+  inmediato de la comunicación\autocite[Cf.~][8]{anscombe2008faith:tobelieve}.
+  Éste puede ser cualquiera que pase hacia adelante alguna comunicación, un
+  maestro o mensajero, o un interprete o traductor; éste es \citalitinterlin{el
+    productor inmediato de aquello que se entiende, o incluye una reclamación
+    interna de ser entendido como una comunicación de
+    $NN$}\footnote{\cite[8]{anscombe2008faith:tobelieve}: <<we can speak of the
+    immediate producer of what is taken, or makes an internal claim to be taken,
+    as a communication from $NN$>>}. Si digo que creo a un intérprete estoy
+  afirmando que creo lo que ha dicho su principal, y mi contar con el intérprete
+  consiste en la creencia de que ha reproducido lo que aquel ha dicho. En este
+  sentido el intérprete no le falta rectitud si dice algo que no es verdadero pero
+  no ha representado falsamente lo que ha dicho su principal. Por el contrario, al
+  maestro sí le faltaría rectitud si lo que dice no es verdadero. Cuando se cree
+  al maestro, aún en el caso que no sea de ninguna manera autoridad original de lo
+  que comunica, se le cree a él sobre lo que transmite. Para Anscombe no es
+  necesario que cuando se cree a alguien se le trate como una autoridad
+  original\autocite[Cf.~][5]{anscombe2008faith:tobelieve}. En esto el ejemplo del
+  maestro como distinto del intérprete es ilustrativo. Un maestro puede conocer lo
+  que enseña porque lo ha recibido de alguna tradición de información y al
+  transmitir lo que enseña se le está creyendo a él.
+
+  Asoma aquí otro aspecto relacionado con esta primera presuposición. Al creer que
+  una comunicación es de alguien se cree a una persona que puede tener distintos
+  grados de autoridad sobre lo que dice. El maestro del que se ha hablado antes
+  podría afirmar <<Leonardo da Vinci dibujó diseños para una máquina voladora>> y
+  en esto no es para nada una autoridad
+  original\autocite[Cf.~][6]{anscombe2008faith:tobelieve}. Conoce esto porque lo
+  ha escuchado, incluso si ha visto los diseños; y aún cuando los hubiera
+  descubierto él mismo tendría que haber contado con alguna información recibida
+  de que esos diseños que ve son de Leonardo. En este caso sí seria una autoridad
+  original en notar que estos diseños que ha escuchado que son de Leonardo son de
+  máquinas voladoras. Anscombe explica la distinción diciendo:
+  \citalitlar{[Alguien] es \emph{una} autoridad original en aquello que él mismo
+    ha hecho y visto y oido: digo \emph{una} autoridad original porque sólo quiero
+    decir que él mismo sí contribuye algo, es algún tipo de testigo por ejemplo,
+    en lugar de alguien que sólo transmite información recibida. Pero su informe
+    de aquello de lo que es testigo es con frecuencia [\ldots] fuertemente
+    influenciado o más bien casi del todo formado por la información que \emph{él}
+    ha recibido\footnote{\cite[5]{anscombe2008faith:tobelieve}: <<He is \emph{an}
+      original authority on what he himself has done and seen and heard: I say
+      \emph{an} original authority because I only mean that he does himself
+      contribute something, e.g. is in some sort a witness, as oposed to one who
+      only transmits information received. But his account of what he is a witness
+      to is very often [\ldots] heavily affected or ratherl all but completely
+      formed by what information \emph{he} had received.>>}.} Además de ser
+  \emph{una} autoridad original sobre algún hecho una persona puede ser una
+  autoridad \emph{totalmente} original. Si la distinción entre alguien que no es
+  una autoridad original y alguien que sí lo es ha sido descrita como la
+  contribución de algo propio que junto con la información recibida permite
+  construir un informe, lo particular de una autoridad totalmente original es que
+  no se apoya en ninguna información recibida para construir su informe de los
+  hechos. Anscombe no entiende el lenguaje como información recibida. Pone como
+  ejemplo de informe de una autoridad totalmente original a alguien que dice `esta
+  mañana comí una manzana' y dice: \citalitlar{si él está en la situación usual
+    entre nosotros, el sabe lo que una manzana es --- es decir, puede reconocer
+    una. Así que aún cuando se le ha `enseñado el concepto' al aprender a usar el
+    lenguaje en la vida ordinaria, no cuento esto como un caso de depender en
+    información recibida.\footnote{\cite[6]{anscombe2008faith:tobelieve}: <<if he
+      is in the situation usual among us, he knows what an apple is --- i.e. can
+      recognise one. So though he was `taught the concept' in learning to use
+      language in everyday life, I do not count that as a case of reliance on
+      information received.>>}}
+#+END_SRC
+  - En segundo lugar tienes que creer que por medio de la comunicación alguien ha
+  querido decirme \emph{esto}.
+
+  - También creo que la comunicación está dirigida a alguien
+  . Y qué pasa cuando recibo una comunicación que no está dirigida a mi? Puedo decir
+  que estoy creyendo al escritor si creo lo que le dice a la otra persona?
+
+  . Y qué pasa cuando el autor de una comunicación no es el comunicador ostensible?
+  Puedo decir que creo al autor actual o osetensivo?
+  >el autor solo en un modo extraordinario y complejo
+  en los casos mas ordinarios de creer a alguien no hay una intervención compleja
+  de juicio y especulación como la que sería necesaria para distinguir el autor
+  real y creer que quiere decirme esto
+
+  En este sentido el tener que creer en que la comunicación viene de NN no es un
+  tener que creer que tenga que ser entendido como ``formarse un juicio'' o
+  descubrir que viene de NN
+
+
+  >Y puedo decir que creo al comunicador ostensivo?
+  Depende de si existe o no
+  +si no existe
+  se le da al verbo un uso intencional
+
+  creer en x (que no existe) que p
+  es dar a creer un uso intencional como el verbo to look for
+
+  +en el caso de que el comunicador ostensivo exista
+
+  creer a x (que existe pero que no se ha comunicado conmigo para decirme) que p
+
+  una tercera persona tenderia menos a usar creer con intencionalidad
+
+  `entonces, creyendo que NN habia dicho esto, le creyo'
+  es un modo inteligible de hablar
+
+  NN puede decir:
+  veo que creiste que yo dije esto y me creiste
+  el creyente puede responder
+  naturalmente te creí a ti
+
+  NN puede rechazar esto diciendo: pues ya que no lo dije, no me estabas creyendo
+  a mi
+
+  >>hay una oscilación en la noción de creer o descreer a una persona
+
+
+
+
+
+
+
 
   Creer a alguien percibido:
 
@@ -460,7 +628,7 @@ hume describe la estructura del testimonio así...
   dijo, sino creer que NN cree lo que dice.
 #+END_SRC
 ** Qué importancia puede tener?
-#+BEGIN_SRC latex
++BEGIN_SRC latex
   \subsubsection{Un tema importante para la teoría del conocimiento}
   ¿Qué relevancia puede tener una investigación de esta naturaleza sobre la
   gramática de la expresión `creer a $X$ que $p$'? ¿Acaso no es un fenómeno
@@ -495,7 +663,7 @@ consistirá para anscombe en una descripción de la estructura del creer
 desde un análisis de su gramática.
 y
 ** Conexiones con el tema del testimonio
-#+BEGIN_SRC latex
++BEGIN_SRC latex
   \subsection{Nexos}
   Esta investigación de Anscombe establece varios nexos importantes. La gramática
   de `creer a $X$ que $p$' está relacionada en puntos importantes con la gramática
@@ -1287,6 +1455,22 @@ cuando la proposición es una paradoja no significa ni comunica nada
 la rectitud es perceptible a la mente sin tener que acudir a la experiencia
 
 
+
+
+* Valoraciones finales
+
+En un argumento que tiene caracter de revocabilidad esencial la razonabilidad de un
+juicio o conocimiento formado a partir de éste reclama un apoyo externo a sus premisas.
+En el caso del creer a alguien que p el que alguien crea lo que dice es este apoyo
+
+Anscombe habla del testigo como una autoridad original, `que él mismo contribuye algo'
+en oposición a simplemente transmitir una información recibida sin embargo se puede
+decir que se cree a x que p sin que este sea una autoridad original
+
+
+Se abren tres rutas desde aquí sobre la primacia de la verdad la fe como creer a Dios
+que p sobre la estructura del testimonio de la estructura del testimonio se pasa a Hume
+on Miracles, de ahí a Prophecy and Miracles
 
 
 * [Local Variables]

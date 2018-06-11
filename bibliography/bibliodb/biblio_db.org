@@ -746,7 +746,7 @@ location = {Maryland},
 ** Exegesis de Investigaciones Filosóficas
 
 #+BEGIN_SRC bibtex :tangle secondary.bib
-@mvcollection{bakerhacker2005understanding,
+@mvbook{bakerhacker2005understanding,
 title={Wittgenstein: Understanding and Meaning},
 subtitle={Part I: Essays},
 author={Gordon Park Baker and Peter Michael Stephan Hacker},
@@ -762,7 +762,7 @@ keywords={}
  #+END_SRC
 
 #+BEGIN_SRC bibtex :tangle secondary.bib
-@mvcollection{bakerhacker2009understanding,
+@mvbook{bakerhacker2009understanding,
 title={Wittgenstein: Understanding and Meaning},
 subtitle={Part II: Exegesis \S\S1--184},
 author={Gordon Park Baker and Peter Michael Stephan Hacker},
@@ -779,7 +779,7 @@ keywords={}
 
 
 #+BEGIN_SRC bibtex :tangle secondary.bib
-@mvcollection{bakerhacker2014rules,
+@mvbook{bakerhacker2014rules,
 title={Wittgenstein: Rules, Grammar and Necessity},
 subtitle={Essays and Exegesis \S\S185--242},
 author={Gordon Park Baker and Peter Michael Stephan Hacker},
