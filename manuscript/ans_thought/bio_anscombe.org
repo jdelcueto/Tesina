@@ -1,4 +1,4 @@
-#+PROPERTY: header-args:latex :tangle ../../tex/intro/bio_anscombe.tex
+#+PROPERTY: header-args:latex :tangle ../../tex/ch2/bio_anscombe.tex
 # ------------------------------------------------------------------------------------
 
 * Biografía de Anscombe
@@ -254,4 +254,3 @@ En 1942 Elizabeth Anscombe llegó a Cambridge.
 # truncate-lines: t
 # org-hide-emphasis-markers: t
 # End:
-

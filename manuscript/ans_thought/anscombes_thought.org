@@ -1,7 +1,7 @@
-#+PROPERTY: header-args:latex :tangle ../../tex/ch3/anscombes_thought.tex
+#+PROPERTY: header-args:latex :tangle ../../tex/ch2/anscombes_thought.tex
 # ------------------------------------------------------------------------------------
 
-* /Lectio/: 
+* /Lectio/:
 :DEFINITION:
 Lo recibido
 :END:
@@ -9,18 +9,18 @@ Lo recibido
 :END:
 ** Análisis
 Descripción de la actividad filosófica de Anscombe desde el principio hasta el final.
-* /Propositum/:  
+* /Propositum/:
 :DEFINITION:
 Lo que se busca
 :END:
-:DESCRIPTION: 
+:DESCRIPTION:
 La filosofía de Wittgenstein como trasfondo para la de Anscombe
 :END:
 
 ** Propositio: ""
 
 #+BEGIN_SRC latex
-%SECCIÓN 2: 
+%SECCIÓN 2:
 \section{Actividad Filosófica de Elizabeth Anscombe}
 #+END_SRC
 
@@ -35,7 +35,7 @@ Lo que se cuestiona
 Aquí la quaestio que tiene sentido es anscombe tackleando algún tema.
 ** TODO tema????
 
- 
+
 * TODO /Expositio/: [60%]
 :DEFINITION:
 Lo que se describe
@@ -53,7 +53,7 @@ Esto será un recorrido por su desarrollo intelectual estrictamente.
     \subsection{Los primeros arduos esfuerzos}
 #+END_SRC
 
-Anscombe se inició es la filosofía indagando en dos temas: 
+Anscombe se inició es la filosofía indagando en dos temas:
 Causalidad y Percepción.
 Causalidad por Natural Theology
 Percepción por Nature of Belief
@@ -119,7 +119,7 @@ objetos materiales.
   `Greats'.\autocite[cf.~][p.~vii]{anscombe1981metaphysicsintro}
 #+END_SRC
 
-*** DONE Oxford: La Percepción y el fenomenalismo de Price 
+*** DONE Oxford: La Percepción y el fenomenalismo de Price
 #+BEGIN_SRC latex
   \ifdraft{\subsubsection{Oxford: La Percepción y el fenomenalismo de Price}}{}
 
@@ -161,7 +161,7 @@ objetos materiales.
   [~y~][p.~26]{torralba2005accion}
 #+END_SRC
 
-*** TODO En Cambridge con Wittgenstein 
+*** TODO En Cambridge con Wittgenstein
     :LOGBOOK:
     CLOCK: [2018-05-06 Sun 20:12]--[2018-05-06 Sun 20:37] =>  0:25
     :END:
@@ -169,13 +169,13 @@ objetos materiales.
     2. La metodología terapéutica y franca de Wittgenstein fue liberadora
 
 #+BEGIN_SRC latex
-    \ifdraft{\subsubsection{En Cambrdige con Wittgenstein}}{} 
+    \ifdraft{\subsubsection{En Cambrdige con Wittgenstein}}{}
 
     En las lecciones con Wittgenstein en Cambridge fue que el pensamiento central
     <<Tengo \emph{esto}, y defino `amarillo' como \emph{esto}>> fue efectivamente
     atacado. Anscombe misma lo narra usando dos ejemplos:
 
-   
+
 #+END_SRC
 
 
@@ -243,12 +243,12 @@ objetos materiales.
 
 #+BEGIN_SRC latex
       Anscombe conoció a Wittgenstein en los años culminantes de su pensamiento
-      filosófico. 
+      filosófico.
       Al comienzo de sus lecciones en 1944 Wittgenstein escribía a su amigo Rush Rhees:
       \citalitinterlin{
-          \ldots mis clases no han ido tan mal. Thouless esta asistiendo, y una mujer, 
+          \ldots mis clases no han ido tan mal. Thouless esta asistiendo, y una mujer,
           'Mrs so and so'
-          que se llama a sí misma 
+          que se llama a sí misma
           'Miss Anscombe',
           que ciertamente es inteligente, aunque no del calibre de Kreisel.
           \autocite[p.~371]{cambridgeletters}
@@ -257,11 +257,11 @@ objetos materiales.
       \citalitinterlin{
           \ldots mi clase ahora es bastante grande, 19 personas. \ldots Smythies esta
           viniendo, y una mujer que es muy buena, es decir, más que solamente
-          inteligente\ldots 
+          inteligente\ldots
           \autocite[p.~388]{cambridgeletters}
       }
       Aquellos años no sólo creció en Wittgenstein la apreciación de la capacidad de
-      Anscombe, sino que se afianzó entre ellos una estrecha amistad. 
+      Anscombe, sino que se afianzó entre ellos una estrecha amistad.
 
       La influencia de Wittgenstein fue decisiva para el desarrollo filosófico de
       Elizabeth. Las lecciones con Wittgenstein eran directas y con franqueza. Esta
@@ -274,9 +274,9 @@ objetos materiales.
       Phillipa Foot, amiga de ambos, cuenta que durante mucho tiempo sostuvo
       objeciones a las afirmaciones de Wittgenstein, eventualmente, un comentario de
       Norman Malcom la hizo pensar que podía haber valor en lo que Wittgenstein decía.
-      Cuestionó entonces a Anscombe: 
+      Cuestionó entonces a Anscombe:
       ``¿Por qué no me dijiste?'', ella le contestó: ``Porque es importante que uno
-      tenga sus resistencias''. Anscombe evidentemente pensaba ---continúa Foot: 
+      tenga sus resistencias''. Anscombe evidentemente pensaba ---continúa Foot:
       \citalitlar{
           que un largo periodo de vigorosa objeción era la mejor manera de entender a
           Wittgenstein. Aun cuando era su amiga cercana y albacea literaria, y una de
@@ -308,8 +308,8 @@ BEGIN_SRC latex
     \subsection{Wittgenstein y la fe}
     \todo{En casa de Anscombe, hablando de la fe}
     \todo{From IWT: la verdad de la teoría de la imagen sería el fin de la teología
-        natural} 
-    \todo{Inquietud respecto del esfuerzo de explicar racionalmente la fe} 
+        natural}
+    \todo{Inquietud respecto del esfuerzo de explicar racionalmente la fe}
     \todo{Necesidad de contexto}
 
     \begin{revision}
@@ -358,7 +358,7 @@ END_SRC
           ¿Qué podemos aprender de Anscombe? Un cierto acercamiento, una cierta actitud
           hacia la filosofía.
 
-          ¿Cómo Anscombe hace filosofía? Es una filósofa linguistica? 
+          ¿Cómo Anscombe hace filosofía? Es una filósofa linguistica?
 
      hay filósofos que
           dirigen nuestra atención hacia lo que decimos de hecho, y a carácteristicas

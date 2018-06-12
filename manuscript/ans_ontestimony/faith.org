@@ -1,4 +1,4 @@
-#+PROPERTY: header-args:latex :tangle ../../tex/ch4/faith.tex
+#+PROPERTY: header-args:latex :tangle ../../tex/ch3/faith.tex
 # ------------------------------------------------------------------------------------
 
 * /Lectio/:
@@ -21,23 +21,23 @@ la fe que hace Anscombe.
       confianza en X.
 
 * /Propositum/:
-:DESCRIPTION:
-Saying what it means 'to believe someone that x' better describes
-the structure of believing testimony than subsuming it under belief in causes
-and effects. There are things we believe because we 'believe God that x'.
-Believing God supposes that we believe certain things which we are told or
-taught come as a word from God. Faith is the belief that we accord to those
-words. In that regard 'believing someone that x' describes the structure of
-believing testimony and the suppositions of faith.
-:END:
+  :DESCRIPTION:
+  Saying what it means 'to believe someone that x' better describes
+  the structure of believing testimony than subsuming it under belief in causes
+  and effects. There are things we believe because we 'believe God that x'.
+  Believing God supposes that we believe certain things which we are told or
+  taught come as a word from God. Faith is the belief that we accord to those
+  words. In that regard 'believing someone that x' describes the structure of
+  believing testimony and the suppositions of faith.
+  :END:
 
 ** Testimonio y 'creer que'.
-Hablar del testimonio en el pensamiento de Elizabeth Anscombe es hablar de su
-analisis de la expresión 'creer a x que p' (fe humana) y 'creer a Dios que p'
-(fe divina).
+   Hablar del testimonio en el pensamiento de Elizabeth Anscombe es hablar de su
+   analisis de la expresión 'creer a x que p' (fe humana) y 'creer a Dios que p'
+   (fe divina).
 
 ** Propositio: "Fe y Conocimiento"
-#+BEGIN_SRC latex
+#   #+BEGIN_SRC latex
   % SECCIÓN 1: Fe y Conocimiento
 \section{Fe}
 #+END_SRC

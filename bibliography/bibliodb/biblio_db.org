@@ -191,7 +191,7 @@ http://www.worldcat.org/oclc/299374922
   @collection{anscombe1981metaphysics,
   title={Metaphysics and the Philosophy of the Mind},
   author={Gertrude Elizabeth Margaret Anscombe},
-  editor={Gertrude Elizabeth Margaret Anscombe},
+%  editor={Gertrude Elizabeth Margaret Anscombe},
   isbn={9780816610808},
   series={The collected philosophical papers of G.E.M. Anscombe},
   volume={2},

@@ -1,4 +1,4 @@
-#+PROPERTY: header-args:latex :tangle ../../tex/ch4/truth.tex
+#+PROPERTY: header-args:latex :tangle ../../tex/ch3/truth.tex
 # ------------------------------------------------------------------------------------
 # Santa Teresa Benedicta de la Cruz, ruega por nosotros
 
@@ -32,7 +32,7 @@ parece ser al revés. ¿Anscombe atiende estos temas de la misma manera?
 :END:
 
 ** Propositio: "Verdad y Significado"
-#+BEGIN_SRC latex
+##+BEGIN_SRC latex
   % SECCIÓN 1: La verdad
 \section{Verdad y Significado}
 #+END_SRC
@@ -230,7 +230,7 @@ lo mismo se aplica a la negación, etc.
     incluso lo que no es, no lo significaría. Así que incluso cuando significa que
     es lo que no es, está significando lo que debe. Pero si es correcto y
     verdadero en significar lo que debe, como has mostrado, entonces la expresión
-    es verdadera incluso cuando dice que es algo que no es.\autocite{deveritate}}
+    es verdadera incluso cuando dice que es algo que no es.\autocite{De Veritate c.2}}
   Las dos relaciones son expresadas como una paridad: \citalitinterlin{pariter
     accepit significare esse, et quod est, et quod non est}. Esta paridad es
   esencial ya que si la proposición no significara lo que significa igualmente

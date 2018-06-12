@@ -1,11 +1,11 @@
-#+PROPERTY: header-args:latex :tangle ../../tex/ch3/anscombes_background.tex
+#+PROPERTY: header-args:latex :tangle ../../tex/ch2/anscombes_background.tex
 # ------------------------------------------------------------------------------------
 
 * Propositio: "Filosofía de Wittgenstein como trasfondo"
-  #+BEGIN_SRC latex
+#  #+BEGIN_SRC latex
 %SECCIÓN 1: TRASFONDO FILOSÓFICO DE ELIZABETH
 \section{La filosofía de Wittgenstein como trasfondo}
-  #+END_SRC
+#  #+END_SRC
 
 * /Quaestio 1/: W.: turning point in philosophical method [100%]
   :DEFINITION:
@@ -404,14 +404,14 @@
        Logico\=/Philosophicus'}.
      #+END_SRC
 ** DONE El gran tratado de Wittgenstein [100%]
-   #+BEGIN_SRC latex
+#   #+BEGIN_SRC latex
   \subsection{El gran tratado de Wittgenstein}
    #+END_SRC
 *** DONE De Manchester a Cambridge
     CLOSED: [2018-04-14 Sat 11:13]
     El propósito de recorrer el desarrollo que lleva al Tractatus es ofrecer un trasfondo a
     los puntos que resaltamos más adelante.
-    #+BEGIN_SRC latex
+#    #+BEGIN_SRC latex
   \ifdraft{\subsubsection{De Manchester a Cambridge}}{}
   Los primeros esfuerzos de Wittgenstein por escribir una obra sobre filosofía
   habían comenzado en 1911. En otoño de ese año en lugar de continuar sus estudios
@@ -430,11 +430,11 @@
   que trabajó en sus estudios aquel curso. Al finalizar el termino Russell alegaba
   que Ludwig había aprendido todo lo que él podía enseñarle.\autocite[cap. 3 loc
   865]{monk1991duty}
-    #+END_SRC
+#    #+END_SRC
 
 *** DONE A Noruega a resolver los problemas de la lógica
     CLOSED: [2018-04-14 Sat 11:13]
-    #+BEGIN_SRC latex
+#    #+BEGIN_SRC latex
   \ifdraft{\subsubsection{A Noruega a Resolver los problemas de la lógica}}{}
   Después de una temporada en Cambridge llena de eventos y desarrollos
   Wittgenstein anunció en septiembre de 1913 sus planes de retirarse para
@@ -442,11 +442,11 @@
   la lógica. Su idea era irse a Noruega, a algún lugar apartado, ya que pensaba
   que en Cambridge las interrupciones obstaculizarían su trabajo.\autocite[cap. 4
   loc 1844]{monk1991duty}
-    #+END_SRC
+#    #+END_SRC
 
 *** DONE La Gran Guerra
     CLOSED: [2018-04-14 Sat 11:13]
-    #+BEGIN_SRC latex
+#    #+BEGIN_SRC latex
   \ifdraft{\subsubsection{La Gran Guerra}}{}
 
   El trabajo en Noruega fue escabroso. En el verano de 1914 interrumpió su tarea
@@ -474,11 +474,11 @@
     resuelto todos nuestros problemas. Esto puede sonar arrogante, pero no puedo
     evitar creerlo. Terminé el libro en agosto de 1918 y dos meses más tarde fui
     hecho 'Prigioniere'.\autocite[p.89]{wittgenstein2012letters}}
-    #+END_SRC
+#    #+END_SRC
 
 *** DONE Aire de Misticismo
     CLOSED: [2018-04-14 Sat 11:13]
-    #+BEGIN_SRC latex
+#    #+BEGIN_SRC latex
     \ifdraft{\subsubsection{Aire de Misticismo}}{}
     En junio de aquel año logró enviar el manuscrito del libro a Russell por medio
     de John Maynard Keynes quien intervino con las autoridades italianas para
@@ -504,11 +504,11 @@
         una idea, no una intención. Su intención es ser profesor. Repartió todo su
         dinero entre sus hermanos y hermanas, pues encuentra que las posesiones
         terrenales son una carga. \autocite[p. 112]{wittgenstein2012letters}}
-    #+END_SRC
+#    #+END_SRC
 
 *** DONE En busca de una experiencia religiosa
     CLOSED: [2018-04-14 Sat 11:13]
-    #+BEGIN_SRC latex
+#    #+BEGIN_SRC latex
     \ifdraft{\subsubsection{En busca de una experiencia religiosa}}{}
     Cuando Wittgenstein se enlistó en el ejercito para la guerra en 1914 tenía
     motivaciones más complejas que la defensa de su patria.\autocite[loc2276]{monk1991duty}
@@ -526,11 +526,11 @@
     La guerra había coincidido con esta época en la que el deseo de convertirse en
     una persona diferente era más fuerte aún que su deseo de resolver los problemas
     fundamentales de la lógica.\autocite[loc2305]{monk1991duty}
-    #+END_SRC
+#    #+END_SRC
 
 *** DONE La Principal Contienda
     CLOSED: [2018-04-14 Sat 11:13]
-    #+BEGIN_SRC latex
+#    #+BEGIN_SRC latex
       \ifdraft{\subsubsection{La Principal Contienda}}{}
       Esta transformación sorprendió a Russell en aquel encuentro en la Haya, pero
       además fue motivo de confusión en la tarea de entender el Tractatus. Cuando
@@ -574,7 +574,7 @@
       %2. El pensamiento como representación
       %3. Los polos de verdad y falsedad de las proposiciones
       %4. La diferencia ente decir y mostrar
-    #+END_SRC
+#    #+END_SRC
 
 ** TODO Las elucidaciones del Tractatus [80%]
    #+BEGIN_SRC latex
@@ -668,8 +668,6 @@ the next three sections).
 
 For further discussion, see Baker and Hacker 1980, chs. 2-3; Carruthers 1990, ch. 7;
 Glock 1996, 203-8; Hacker 1996, chs. 2, 5; Malcolm 1986, chs. 6-7.
-
-
 
 
 *** DONE La filosofia como actividad
@@ -1175,7 +1173,7 @@ Glock 1996, 203-8; Hacker 1996, chs. 2, 5; Malcolm 1986, chs. 6-7.
 
      571-693 conceptos psicológicos
 
-
+#+END_SRC
 
 
         Entre las primeras inquetudes filosóficas de Elizabeth estaban las preguntas:

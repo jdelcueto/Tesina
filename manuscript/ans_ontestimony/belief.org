@@ -1,8 +1,8 @@
-#+PROPERTY: header-args:latex :tangle ../../tex/ch4/belief.tex
+#+PROPERTY: header-args:latex :tangle ../../tex/ch3/beliefanditsstructure.tex
 
-#+BEGIN_SRC latex
++BEGIN_SRC latex
 \section{Acerca del creer y su estructura}
-#+END_SRC
++END_SRC
 * Qué es creer a alguien?
 ** Quaestio: Acerca de un Peculiar Patrón de Argumento
  #+BEGIN_SRC latex
@@ -113,7 +113,7 @@
      hacer una afirmación categórica con la seguridad apropiada, frecuentemente se
      descarta inmediatamente lo que la falsificaría sólo porque se sabe que ésta es
      verdadera. Sin embargo existe toda una clase de juicios como el que se ha
-     analizado que al ser hecho no se descarta implicitamente como falso todo lo
+     analizado que al ser hechos no se descarta implicitamente como falso todo lo
      que los falsificaría\autocite[Cf.~][302]{anscombe2015logic:qpa}.
  #+END_SRC
 *** ramble bramble mumble
@@ -306,8 +306,8 @@ de p el car
   premisas y su relación lógica.
 
   En su investigación titulada \emph{What is it to believe someone?} Anscombe
-  comienza describiendo un escenario basado en el mismo argumento, situándose así
-  en un escenario que plantea la misma dificultad; también en el creer a alguien
+  comienza describiendo otro escenario basado en el mismo argumento, situándose así
+  en una situación que plantea la misma dificultad; también en el creer a alguien
   el fundamento para la combinación de las premisas en un juicio razonable parece
   estar más allá de las mismas premisas y sus relaciones. En esta ocasión cada
   premisa aparece atribuida a una persona distinta y la conclusión a un cuarto
@@ -470,28 +470,26 @@ hume describe la estructura del testimonio así...
 
   Respecto de la posibilidad de decir que se cree al comunicador ostensible
   Anscombe distingue entre un comunicador ostensible que exista o no. Ante una
-  comunicación que viene de parte de un comunicador aparente que no existe alguien
-  puede responder diciendo que cree o descree al comunicador aparente, pero la
-  decisión de decir esto ---dice Anscombe--- \citalitinterlin{es una decisión de
-    dar a estos verbos un uso `intencional', como el verbo `ir
+  comunicación que viene de parte de un comunicador aparente que no existe,
+  alguien puede responder diciendo que cree o descree al comunicador aparente,
+  pero la decisión de decir esto ---dice Anscombe--- \citalitinterlin{es una
+    decisión de dar a estos verbos un uso `intencional', como el verbo `ir
     tras'}\footnote{\cite[7]{anscombe2008faith:tobelieve}: <<is a decision to give
-    those verbs an `intentional' use like the verb `to look for'>> Anscombe hace
-    una descripción más detallada de lo que significa usar un verbo
-    intencionalmente en \emph{The Intentionality of Sensation}. Ahí propone que un
-    verbo es usado intencionalmente cuando tiene como objeto directo un `objeto
-    intencional' (`objeto' no en el sentido material, sino de finalidad).}. Esto
-  lo ilustra añadiendo: \citalitlar{Y así uno podría hablar de alguien como
-    creyendo al dios (Apolo, digamos), cuando consultó el oráculo del dios -- sin
-    que por esto uno estuviera implicando que uno mismo cree en la existencia del
-    dios. Todo lo que queremos es que necesitamos saber lo que es llamado que el
-    dios le diga algo\footnote{\cite[7]{anscombe2008faith:tobelieve}: <<And so we
-      might speak of someone as believing the god (Apollo, say), when he consulted
-      the oracle of the god -- without thereby implying that one believed in the
-      existence of the gos oneself. All we want is that we should know what is
-      called the god's telling him something>>}.} `Creer' usado aquí
-  intencionalmente viene a decir que se busca o se desea creer a $x$ (Apolo en
-  este caso) cuando se recibe aquello que alguien entiende como una comunicación
-  suya.
+    those verbs an `intentional' use like the verb `to look for'>> Ver:
+    \cite{anscombe1981metaphysics:intsens}. Anscombe propone que un verbo es usado
+    intencionalmente cuando tiene como objeto directo un `objeto intencional'
+    (`objeto' no en el sentido material, sino de finalidad).}. Esto lo ilustra
+  añadiendo: \citalitlar{Y así uno podría hablar de alguien como creyendo al dios
+    (Apolo, digamos), cuando consultó el oráculo del dios -- sin que por esto uno
+    estuviera implicando que uno mismo cree en la existencia del dios. Todo lo que
+    queremos es que necesitamos saber lo que es llamado que el dios le diga
+    algo\footnote{\cite[7]{anscombe2008faith:tobelieve}: <<And so we might speak
+      of someone as believing the god (Apollo, say), when he consulted the oracle
+      of the god -- without thereby implying that one believed in the existence of
+      the gos oneself. All we want is that we should know what is called the god's
+      telling him something>>}.} `Creer' usado aquí intencionalmente viene a decir
+  que se busca o se desea creer a $x$ (Apolo en este caso) cuando se recibe
+  aquello que alguien entiende como una comunicación suya.
 
   En el caso de que el comunicador ostensivo sí exista, la noción de creerle
   manifiesta una cierta oscilación. Una tercera persona podría decir que `aquel,
@@ -530,8 +528,8 @@ hume describe la estructura del testimonio así...
   podría afirmar <<Leonardo da Vinci dibujó diseños para una máquina voladora>> y
   en esto no es para nada una autoridad
   original\autocite[Cf.~][6]{anscombe2008faith:tobelieve}. Conoce esto porque lo
-  ha escuchado, incluso si ha visto los diseños; y aún cuando los hubiera
-  descubierto él mismo tendría que haber contado con alguna información recibida
+  ha escuchado, incluso si ha visto los diseños. Aún cuando los hubiera
+  descubierto él mismo, tendría que haber contado con alguna información recibida
   de que esos diseños que ve son de Leonardo. En este caso sí seria una autoridad
   original en notar que estos diseños que ha escuchado que son de Leonardo son de
   máquinas voladoras. Anscombe explica la distinción diciendo:
@@ -548,7 +546,7 @@ hume describe la estructura del testimonio así...
       only transmits information received. But his account of what he is a witness
       to is very often [\ldots] heavily affected or ratherl all but completely
       formed by what information \emph{he} had received.>>}.} Además de ser
-  \emph{una} autoridad original sobre algún hecho una persona puede ser una
+  \emph{una} autoridad original sobre algún hecho, una persona puede ser una
   autoridad \emph{totalmente} original. Si la distinción entre alguien que no es
   una autoridad original y alguien que sí lo es ha sido descrita como la
   contribución de algo propio que junto con la información recibida permite
@@ -571,135 +569,49 @@ hume describe la estructura del testimonio así...
   ha descrito lo que tiene que ver con la creencia de que una comunicación viene
   de alguien. Anscombe examina otras presuposiciones más. También tiene que ser el
   caso que creamos que por la comunicación, la persona que habla quiere decir
-  \emph{esto}.
-#+END_SRC
-  - En segundo lugar tienes que creer que por medio de la comunicación alguien ha
-  querido decirme \emph{esto}.
+  \emph{esto}. En situaciones ordinarias no es difícil distinguir si alguien está
+  diciendo o escribiendo algún lenguaje. Sin embargo, aún cuando el que habla use
+  palabras que puedo `hacer mías' y creer simplemente las palabras que dice, aquí
+  queda espacio para decir que hay una creencia adicional de que se ha dicho `tal
+  cosa' en la comunicación. Elaboramos en aquello que hemos creido y usamos otras
+  palabras distintas, nuestras creencias no están atadas a palabras específicas.
+  También podríamos pensar que alguien diga que cree \emph{esto} porque cree a $x$
+  y que se le cuestione su creencia preguntando `¿qué tomaste como $x$ dicicéndote
+  eso?'.
 
-  - También creo que la comunicación está dirigida a alguien
-  . Y qué pasa cuando recibo una comunicación que no está dirigida a mi? Puedo decir
-  que estoy creyendo al escritor si creo lo que le dice a la otra persona?
+  Otra presuposición más sería que se cree que la comunicación está
+  \emph{dirigida} a alguien, aunque sea `quien lea esto' o `a quien pueda
+  interesar'. Esta creencia se podría problematizar pensando en algún caso que
+  alguien reciba una comunicación con otro destinatario, ¿estaría creyendo al que
+  se comunica?. Asncombe opina que en un sentido extendido o reducido y considera
+  que el tema parece de poca
+  importancia\autocite[Cf.~][7]{anscombe2008faith:tobelieve}.
 
-  . Y qué pasa cuando el autor de una comunicación no es el comunicador ostensible?
-  Puedo decir que creo al autor actual o osetensivo?
-  >el autor solo en un modo extraordinario y complejo
-  en los casos mas ordinarios de creer a alguien no hay una intervención compleja
-  de juicio y especulación como la que sería necesaria para distinguir el autor
-  real y creer que quiere decirme esto
-
-  En este sentido el tener que creer en que la comunicación viene de NN no es un
-  tener que creer que tenga que ser entendido como ``formarse un juicio'' o
-  descubrir que viene de NN
-
-
-  >Y puedo decir que creo al comunicador ostensivo?
-  Depende de si existe o no
-  +si no existe
-  se le da al verbo un uso intencional
-
-  creer en x (que no existe) que p
-  es dar a creer un uso intencional como el verbo to look for
-
-  +en el caso de que el comunicador ostensivo exista
-
-  creer a x (que existe pero que no se ha comunicado conmigo para decirme) que p
-
-  una tercera persona tenderia menos a usar creer con intencionalidad
-
-  `entonces, creyendo que NN habia dicho esto, le creyo'
-  es un modo inteligible de hablar
-
-  NN puede decir:
-  veo que creiste que yo dije esto y me creiste
-  el creyente puede responder
-  naturalmente te creí a ti
-
-  NN puede rechazar esto diciendo: pues ya que no lo dije, no me estabas creyendo
-  a mi
-
-  >>hay una oscilación en la noción de creer o descreer a una persona
-
-
-
-
-
-
-
-
-  Creer a alguien percibido:
-
-  Creer con un objeto personal no puede ser reflexivo, vermos esto más tarde
-
-  Creer a alguien es creer lo que dice o creer que lo que dice es verdad?
-
-  No es así
-  uno poría ya creer lo que alguien me dice y entonces lo que el decir de la
-  persona trae es que me haga mi propio juicio al respecto
-
-  Creer a alguien es creer algo apoyados en la fuerza de su decir que las cosas
-  son así?
-
-  Incluso esto no es correcto porque alguien puede a la vez querer mentirme y
-  creer lo opuesto a la verdad. Según este calculo podría creer en lo que me dice
-  esta persona, pero no podría decir que estoy creyendole a ella.
-
-
-  Aquí llegamos a tener la solución a la pregunta sobre eutidemo:
-  no puede estar diciendo la verdad cuando dice les creo a todos,
-  no puede estar creyendo a A en ese estado de la conversación excepto si A
-  todavia pretende creer lo que el dijo
-  la respuesta de Eutidemo no es simplemente una decisión prematura o excesiva
-  credulidad, sino que es locura
-  También aquí llegamos a ver por qué uno no puede `creerse a sí mismo' cuando uno
-  se dice algo a sí mismo
-
-  Para creer a N uno debe creer que N mismo cree lo que está diciendo
-
-  Creer a alguien no percibido
-
-
-  Varias preguntas dirigen la investigación de Anscombe:
-
-  Creer a alguien es creer lo que la persona dice?
-  Puedo creer algo que otra persona cree, y no porque le crea. Un maestro de
-  filosofía, por ejemplo, no espera que sus discípulos le crean, sino que lleguen
-  a ver lo que está diciendo. En este sentido creer a alguien no es solamente
-  creer lo que la persona dice.
-
-  Entonces, ¿creer a alguien es creer en algo porque la persona dice que es así?
-  Una persona puede mentirme y a la vez creer lo que no es. No podría decir aquí
-  que le estoy creyendo.
-
-  ¿Puedo decir que me creo a mi mismo? Creer con un objeto personal no puede ser
-  reflexivo, puesto que creer a alguien es creer que NN cree lo que dice. No
-  podría decir que me creo que x porque no estaría creyendo que creo lo que digo.
-
-  Esta última característica es la que hace que la afirmación de Eutidemo suene
-  como una locura, creer a alguien no es simplemente creer lo que dijo porque lo
-  dijo, sino creer que NN cree lo que dice.
-#+END_SRC
-** Qué importancia puede tener?
-+BEGIN_SRC latex
-  \subsubsection{Un tema importante para la teoría del conocimiento}
-  ¿Qué relevancia puede tener una investigación de esta naturaleza sobre la
-  gramática de la expresión `creer a $X$ que $p$'? ¿Acaso no es un fenómeno
-  tremendamente familiar? <<Si me dices que has comido salchichas para el
-  desayuno, te creería>>\autocite[1]{anscombe2008faith:tobelieve}, no tiene nada
-  de extraño.
-
-  No es difícil imaginar una que la motivación de Elizabeth se haya en su ser
-  creyente, sin embargo su objetivo es más general. El tema en sí mismo es
-  suficientemente problemático como para merecer investigación filosófica. Creer a
-  alguien es, además, una herramienta que empleamos tan ampliamente que representa
-  un tema de gran impotancia para la vida y debe ocupar un lugar en la teoría del
-  conocimiento.
-
-  Atender la pregunta que es eso que llamamos creer a alguien consistirá para
-  anscombe en una descripción de la estructura del creer desde un análisis de su
-  gramática.
-
-  El objetivo de Elizabeth es analizar la expresión `creer' con un objeto
-  personal.
+  Una persona a quien se dirige una comunicación puede \emph{fallar en creerla} si
+  no nota la comunicación, o si notándola no la interpreta como lenguaje, o si
+  notándola como lenguaje no la toma como dirigida hacia ella; o puede que crea
+  todo esto, pero lo interprete incorrectamente, o puede que lo interprete bien
+  pero no crea que viene realmente de $N$. En este tipo de casos la persona no ha
+  descreido, sino que no ha llegado a estar en la situación de plantearse esa
+  pregunta. Para poder llegar a preguntar si alguien cree a $x$ que $p$ habría que
+  excluir o asumir como excluidos todos los casos en los que estas otras
+  presuposiciones no se han cumplido. Es así que Anscombe concluye:
+  \citalitlar{Supongamos que todas la presuposiciones están dadas. $A$ está
+    entonces en la situación ---una muy común--- donde surge la pregunta sobre si
+    creer o dudar (suspender el juicio ante) $NN$. Sin confusión por todas las
+    preguntas que surgen por las presuposiciones, podemos ver que creer a alguien
+    (en el caso particular) es confiar en él para la verdad -- en el caso
+    particular. \footnote{\cite[9]{anscombe2008faith:tobelieve}: <<Let us suppose
+      that all the presuppositions are in. $A$ is then in the situation ---a very
+      normal one--- where the question arises of believing or doubting (suspending
+      judgement in face of) $NN$. Unconfused by all the questions that arise
+      because of the presuppositions, we can see that believing someone (in the
+      particular case) is trusting him for the truth -- in the particular
+      case.>>}.}
+  Que $A$ crea a $N$ que $p$ implica que $A$ cree que en una comunicación, que puede
+  venir de un productor inmediato, $N$ es el que habla y lo que dice es $p$ y esta
+  comunicación está dirigida hacia $A$; entonces $A$, creyendo que $N$ cree que
+  $p$, confia en $N$ sobre la verdad de $p$.
 #+END_SRC
 ** La pregunta es importante para la teoría del conocimiento
 - Investigación: análisis de la gramática de creer con un objeto (complemento?)
@@ -712,10 +624,84 @@ El primer punto, por tanto será
 Atender la pregunta que es eso que llamamos creer a alguien
 consistirá para anscombe en una descripción de la estructura del creer
 desde un análisis de su gramática.
-y
 ** Conexiones con el tema del testimonio
-+BEGIN_SRC latex
-  \subsection{Nexos}
+** Creer Conocimiento y testimonio
+#+BEGIN_SRC latex
+  \subsection{`Creer', Conocimiento y Testimonio}
+  El análisis de Elizabeth ofrece la posibilidad de hacer una descripción general
+  de lo que significa `creer a un testigo que $p$'. Anscombe ha hecho la
+  distinción entre alguien que simplemente transmite información y alguien que
+  puede ser considerado algún tipo de testigo. Un testigo es un ejemplo de
+  autoridad original y alguien es una autoridad original acerca de lo que él mismo
+  ha hecho y visto y oído. Un testigo que es una autoridad original aporta algo de
+  lo que él mismo ha hecho y visto y oído y lo considera junto a información que
+  ha recibido para comunicar su informe de algún hecho. Cuando el testigo no
+  cuenta con información recibida, sino que habla sólo de lo que aporta él mismo,
+  es una autoridad totalmente original. Aunque es una descripción del testigo
+  todavía muy amplia, permite afirmar que cuando $A$ cree a un testigo que $p$,
+  $A$ cree que en una comunicación, que puede venir de un productor inmediato, es
+  esta autoridad original el que habla y que dice $p$ y tiene a $A$ como
+  destinatario; entonces $A$, creyendo que esta autoridad original cree lo que
+  dice, confia en el testigo sobre la verdad de $p$.
+
+  La investigación de Anscombe sobre el creer incluye otra descripción amplia
+  relacionada con el testimonio en la justificación o preámbulo de su análisis.
+  Propone lo que sigue: \citalitlar{Hemos de reconocer al testimonio como el que
+    nos da nuestro mundo más grande en no menor grado, o incluso en un grado
+    mayor, que la relación de causa y efecto; y creerlo es bastante distinto en
+    estructura que el creer en causas y efectos. Tampoco es lo que el testimonio
+    nos da una parte completamente desprendible, como el fleco de grasa en un
+    pedazo de filete. Es más bien como los flequillos y rayas de grasa que están
+    distribuidos a través de la buena carne; aunque hay nudos de pura grasa
+    también\footnote{\cite[3]{anscombe2008faith:tobelieve}:<<We must acknowledge
+      testimony as giving us our larger world in no smaller degree, or even in a
+      greater degree, than the relation of cause and effect; and believing it is
+      quite dissimilar in structure from belief in causes and effects. Nor is what
+      testimony gives us entirely a detachable part, like the thick fringe of fat
+      on a chunk of steak. It is more like the flecks and streaks of fat that are
+      distributed through good meat; though there are lumps of pure fat as
+      well>>}.} Para Anscombe no es problemático entender el creer como parte de
+  la teoría del conocimiento y considera incluso que la mayor parte de nuestro
+  conocimiento de la realidad está apoyado en la creencia que tenemos en las cosas
+  que se nos han enseñado o dicho\autocite[Cf.~][3]{anscombe2008faith:tobelieve}.
+  Al respecto, Elizabeth critica la teoría de Hume en la que propone que nuestro
+  acceso a una idea del mundo más allá de nuestras experiencias personales es la
+  idea de causa-y-efecto. Para él, así como creemos en las causas al percibir sus
+  efectos porque hemos descubierto que causa y efecto van siempre unidos, creemos
+  en la verdad del testimonio porque percibimos el testimonio y hemos descubierto
+  que verdad y testimonio van siempre unidos. Para Anscombe la postura es
+  absurda\autocite[Cf.~][3]{anscombe2008faith:tobelieve}.
+
+  La descripción que hace Anscombe aquí del papel que juega el testimonio en
+  nuestro acceso a una idea
+#+END_SRC
+** Creer y la fe
+#+BEGIN_SRC
+\subsection{`Creer' y la Fe}
+#+END_SRC
+** Creer y la primacía de la verdad
+#+BEGIN_SRC
+\subsection{`Creer' y la Primacía de la Verdad}
+#+END_SRC
+
+  Hasta aquí, se podría decir que un testigo es una autoridad original o
+  totalmente original. Un testigo aporta algo suyo.
+  Cuando digo que creo a un testigo que x
+
+  estoy diciendo que
+  Creo a alguien que cuenta con algo suyo que ha oído, o hecho o visto y que
+  uniendo eso a información recibida ofrece un informe de algún hecho
+
+
+
+  del análisis podemos sacar que creer a alguien que p incluye otras creencias
+
+
+
+  El analisis nos deja una impresión general de lo que decimos cuando decimos que
+  creemos a alguien
+
+
   Esta investigación de Anscombe establece varios nexos importantes. La gramática
   de `creer a $X$ que $p$' está relacionada en puntos importantes con la gramática
   de la fe. El testimonio es descrito como el complemento (in)directo en la
@@ -759,12 +745,7 @@ y
     completamente desprendible, como el fleco de grasa en un pedazo de filete. Es
     más bien como los flequillos y rayas de grasa que están distribuidos a través
     de la buena carne; aunque hay grumos de pura grasa también.}
-
-  Establecidos estos preámbulos, Anscombe se adentra propiamente en la gramática
-  de creer con un objeto personal y, por tanto, su análisis de la estructura del
-  creer el testimonio de alguien.
 #+END_SRC
-
 ** Rambling
 Varios puntos para tratar aquí
 
@@ -1517,6 +1498,7 @@ En el caso del creer a alguien que p el que alguien crea lo que dice es este apo
 Anscombe habla del testigo como una autoridad original, `que él mismo contribuye algo'
 en oposición a simplemente transmitir una información recibida sin embargo se puede
 decir que se cree a x que p sin que este sea una autoridad original
+
 
 
 Se abren tres rutas desde aquí sobre la primacia de la verdad la fe como creer a Dios
