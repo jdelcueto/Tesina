@@ -124,7 +124,7 @@ http://www.worldcat.org/oclc/299374922
   @mvcollection{anscombe1981parmenides,
   title={From Parmenides to Wittgenstein},
   author={Gertrude Elizabeth Margaret Anscombe},
-  editor={Gertrude Elizabeth Margaret Anscombe},
+%  editor={Gertrude Elizabeth Margaret Anscombe},
   isbn={9780631129226},
   lccn={81004317},
   series={The collected philosophical papers of G.E.M. Anscombe},
@@ -183,6 +183,15 @@ http://www.worldcat.org/oclc/299374922
   }
 #+END_SRC
 
+***** Hume and Julius Caesar
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe1981parmenides:humeandjulius,
+  title={Hume and Julius Caesar},
+  crossref={anscombe1981parmenides},
+  keywords={Anscombe Elizabeth; Wittgenstein; Logic; Parmenides; Primary Source},
+  abstract={}
+  }
+#+END_SRC
 **** Metaphysics and the Philosophy of the Mind
 :worldcat:
  http://www.worldcat.org/oclc/10430565
