@@ -92,7 +92,7 @@ on the best possible grounds."
 
 ** ¿Qué hace la fe razonable?
 #+BEGIN_SRC latex
-\subsection{La razonabilidad de la fe}
+\subsection{Descripción del Concepto `Fe'}
 Hubo una época en la que se vivió gran entusiasmo por la racionalidad de la
 fe.
 
@@ -137,7 +137,7 @@ certeza sin prueba.
 
 +END_SRC
 
-#+BEGIN_SRC latex
++BEGIN_SRC latex
   \subsection{``Solíamos creer que la fe católica era racional''}
   Anscombe comienza su investigación
 

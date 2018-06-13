@@ -305,8 +305,6 @@ http://www.worldcat.org/oclc/873936079
  keywords = "bio, anscombe, geach",
  }
 #+END_SRC
-
-
 *** St. Andrews Studies Collection (2005-2016)
 **** Human Life Action and Ethics
 #+BEGIN_SRC bibtex :tangle primary.bib
@@ -404,7 +402,6 @@ keywords={Anscombe Elizabeth; Primary Source; St Andrews}
   abstract={}
   }
 #+END_SRC
-
 
 **** Logic, Truth and Meaning
 #+BEGIN_SRC bibtex :tangle primary.bib
@@ -558,7 +555,7 @@ keywords={Anscombe Elizabeth; Primary Source; St Andrews}
  #+END_SRC
 *** La Filosofía Analítica y la Espiritualidad del Hombre
 #+BEGIN_SRC bibtex :tangle primary.bib
- @book{fa&esphom,
+ @book{torralbaynubiola2005fayeh,
  editor = "J.~M.~Torralba and J.~Nubiola",
  title = "La Filosofía Analítica y la Espiritualidad del Hombre",
  publisher = "Ediciones Universidad de Navarra",
@@ -586,6 +583,31 @@ keywords={Anscombe Elizabeth; Primary Source; St Andrews}
  }
 #+END_SRC
 
+** By Anselm
+#+BEGIN_SRC bibtex :tangle primary.bib
+@mvcollection{anselm1952obras,
+title={Obras Completas de San Anselmo},
+author={San Anselmo},
+editor={P.~Julián Alameda, O.S.B.},
+isbn={},
+series={BAC},
+volume={82},
+part={I},
+publisher={BAC},
+location={Madrid},
+year={1952},
+keywords={Anscombe Elizabeth; Primary Source; St Andrews}
+}
+ #+END_SRC
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anselm1952obras:deveritate,
+  title={De la Verdad},
+  pages={487-535},
+  crossref={anselm1952obras},
+  keywords={},
+  abstract={}
+  }
+#+END_SRC
 * Secondary Sources
 :DEFINITION:
 Secondary sources describe, discuss, interpret, comment upon, analyze, evaluate,
