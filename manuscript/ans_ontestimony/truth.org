@@ -416,7 +416,7 @@ lo mismo se aplica a la negación, etc.
  #+BEGIN_SRC latex
    \subsection{Solución de Anscombe}
    Anscombe no llega a proponer una respuesta suya a la cuestión planteada en
-   \emph{Truth}. Culmina constatando como San Anselmo y Wittgenstein indican una
+   \emph{Truth}. Culmina constatando cómo San Anselmo y Wittgenstein indican una
    cierta primacia de la verdad en la materia del significado apoyados en distintas
    razones. Sin embargo en \emph{Truth, Sense and
      Assertion}\autocite{anscombe2015logic:tsa} quedan recogidas sus notas para una
@@ -424,10 +424,85 @@ lo mismo se aplica a la negación, etc.
    1987\autocite[Cf.~][264 n.~1]{anscombe2015logic:tsa} en donde continúa su
    análisis y ofrece una solución propia.
 
-   La pregunta fundamental que planteará Anscombe en este análisis será:
+   La pregunta fundamental que plantea Anscombe en este análisis es:
    \citalitinterlin{¿Es la enunciación lo mismo que la
      significación?}\footnote{\cite[271]{anscombe2015logic:tsa}:<<Is enuntiation
-     the same as signification?>>}.
+     the same as signification?>>}. El sentido de un enunciado es el mismo cuando
+   éste es verdadero o falso, pero ¿se puede decir lo mismo de la enunciación?. La
+   proposición verdadera tiene una \emph{res enuntiata}, ¿hay algo enunciado cuando
+   una proposición es falsa?.
+
+   Curiosamente, Elizabeth hecha mano de los sofistas para formular su respuesta.
+   Trae a la memoria cómo para el sofista todo lo que opina cualquier persona es
+   verdad, lo que viene al pensamiento es como la percepción, es el modo en que las
+   cosas se presentan a cada uno. Desde esta idea, el sofista inventa el argumento
+   de que \citalitinterlin{Aquel que piensa lo que es falso piensa lo que no es;
+     pero lo que no existe no es nada; así que el que piensa lo que es falso no
+     está pensando nada, pero si no está pensando nada, no está
+     pensando}\footnote{\cite[264]{anscombe2015logic:tsa}: <<`He who thinks what is
+     false thinks what is not; but what is not isn't anything; so he who thinks
+     what is false isn't thinking \emph{anything}, but if he isn't thinking
+     anything, he isn't thinking.'>>}. Anscombe propone entonces lo que considera
+   \citalitinterlin{el último pedazo, la piedra angular del arco que representa las
+     relaciones entre verdad, sentido y
+     aserción}\footnote{\cite[271]{anscombe2015logic:tsa}: <<the last bit, the
+     keystone of the arch representing the relations of truth, sense and
+     assertion>>}, dice:\citalitlar{Se llega a donde los Sofistas estaban en lo
+     correcto en mi formulación presente: la proposición falsa, mientras que sí
+     \emph{dice algo}, no es el caso, cuando es creída, que \emph{enuncie} a sus
+     creyentes cosa alguna. Así: aquel que piensa lo que es falso piensa lo que no
+     es; piensa algo que le dice nada; pero esto no significa que piense nada, es
+     decir, que no esté pensando en nada
+     \footnote{\cite[271]{anscombe2015logic:tsa}<<Where the Sophists were right is
+       reached in my present formulation: the false proposition, while it does
+       \emph{say something}, does not, being believed, \emph{tell} its believers
+       anything. So: he who thinks what is false thinks what is not; he thinks
+       something which tells him nothing; but that does not mean he thinks nothing,
+       i.e. does not think anything.>>}.}
+
+   Según Anscombe una proposición verdadera refleja la existencia de lo que sí es,
+   mientras que la situación analoga en la proposición falsa es que refleja la
+   existencia de aquello que no es; ambos, la existencia reflejada y aquello que no
+   es, son nada\autocite[271]{anscombe2015logic:tsa}. En ese sentido, la proposición
+   falsa, aunque dice o expresa un signo, no transmite o informa nada, puesto que
+   lo que refleja no es.
+
+   Elizabeth establece una distinción adicional. Una aserción no sólo tiene como
+   objeto la proposición afirmada, sino que también tiene un sujeto personal. La
+   persona usa la proposición para afirmar lo que la proposición significa. La
+   proposición cumple con la tarea de significar siendo falsa o cierta, la persona
+   que la usa para afirmar, en este sentido, tiene un deber mayor de emplearla para
+   significar la existencia de lo que sí
+   es\autocite[Cf.~][267]{anscombe2015logic:tsa}. Hecha esta distinción, se puede
+   decir que una persona enuncie una falsedad, pero esta proposición, si es creida,
+   no informa a su creyente. El pensamiento que se construya desde esa creencia
+   dice algo que no informa de nada\autocite[Cf.~][271]{anscombe2015logic:tsa}. Una
+   paradoja, por otra parte, no sólo no informa o eununcia, sino que no dice o
+   expresa nada\autocite[Cf.~][271]{anscombe2015logic:tsa}.
+
+   La cuestión planteada al final de la investigación sobre creer a alguien quedó
+   formulada diciendo: dada la posibilidad de adquirir la misma creencia `$p$' de
+   alguien que habla rectamente y es veraz o de alguien que habla equivocadamente y
+   miente, ¿por qué hay una indisposición a llamar al segundo caso creer al que
+   habla?.
+
+   Después de examinar la descripción que Anscombe ha hecho sobre la verdad se
+   puede añadir aquí que la proposición misma, aún teniendo significación, no
+   enuncia nada (carece de \emph{res enuntiata}) cuando es falsa; en ese sentido
+   significa como debe (tiene esa rectitud) pero no hace aquello para lo que se le
+   ha dado el significar. Cuando una persona hace una afirmación, usa la
+   proposición para significar y en esto tiene rectitud, sin embargo tiene un deber
+   mayor de emplear la proposición para el fin que se le ha dado el significar, es
+   decir, reflejar la existencia de lo que sí es. Cuando una persona se equivoca y
+   miente emplea una proposición que hace lo que debe al significar, y por tanto se
+   puede `calcular' su opuesto para llegar a la verdad; pero no es recta en su
+   deber de emplear la proposición para el fin que se le ha dado el significar. Es
+   esta rectitud en el uso de la proposición lo que generaría la disposición a
+   decir que se cree a alguien, y no sólo lo que dice.
+
+   Después de este recorrido examinaremos el segundo punto derivado anteriormente
+   desde la investigación sobre el creer: la descripción de `fe' como `creer a
+   Dios'.
   #+END_SRC
 
 ***** recurrence to the sophists

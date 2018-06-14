@@ -344,6 +344,16 @@ keywords={Anscombe Elizabeth; Primary Source; St Andrews}
   abstract={}
   }
 #+END_SRC
+***** Faith
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe2008faith:faith,
+  title={Faith},
+  crossref={anscombe2008faith},
+  keywords={},
+  abstract={}
+  }
+#+END_SRC
+
 **** From Plato to Wittgenstein
 #+BEGIN_SRC bibtex :tangle primary.bib
 @mvcollection{anscombe2011plato,
