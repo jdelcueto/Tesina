@@ -156,7 +156,7 @@ http://www.worldcat.org/oclc/299374922
 #+END_SRC
 ***** Parmenides, Mystery and Contradiction
 #+BEGIN_SRC bibtex :tangle primary.bib
-  @incollection{anscombe1981parmenidespmc,
+  @incollection{anscombe1981parmenides:pmc,
   booktitle={From Parmenides to Wittgenstein},
   title={Parmenides, Mystery and Contradiction},
   author={Gertrude Elizabeth Margaret Anscombe},
@@ -353,6 +353,26 @@ keywords={Anscombe Elizabeth; Primary Source; St Andrews}
   abstract={}
   }
 #+END_SRC
+***** Hume on Miracles
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe2008faith:hummi,
+  title={Hume on Miracles},
+  crossref={anscombe2008faith},
+  keywords={},
+  abstract={}
+  }
+#+END_SRC
+
+***** Prophecy and Miracles
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe2008faith:prophandmi,
+  title={Prophecy and Miracles},
+  crossref={anscombe2008faith},
+  keywords={},
+  abstract={}
+  }
+#+END_SRC
+
 
 **** From Plato to Wittgenstein
 #+BEGIN_SRC bibtex :tangle primary.bib
@@ -417,8 +437,8 @@ keywords={Anscombe Elizabeth; Primary Source; St Andrews}
 #+BEGIN_SRC bibtex :tangle primary.bib
 @mvcollection{anscombe2015logic,
 title={Logic, Truth and Meaning},
-author={Gertrude Elizabeth Margaret Anscombe},
-editors={Mary Geach and Luke Gormally},
+%author={Gertrude Elizabeth Margaret Anscombe},
+editor={Mary Geach and Luke Gormally},
 isbn={9781845408800},
 series={St. Andrews Studies in Philosophy and Public Affairs},
 publisher={Imprint Academic},
