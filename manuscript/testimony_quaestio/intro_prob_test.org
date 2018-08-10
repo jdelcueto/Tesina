@@ -1,0 +1,210 @@
+#+PROPERTY: header-args:latex :tangle ../../tex/ch1/intro_prob_test.tex
+# ------------------------------------------------------------------------------------
+# Santa Teresa Benedicta de la Cruz, ruega por nosotros
+Situación de Nuestros Días
+
+La crisis como síntoma:
+Hipótiesis central.
+El malestar es siempre síntoma indeleble del carácter en última instancia infinito del
+conjunto de exigencias y evidencias que constituyen la experiencia elemental, común a
+todo hombre, cuya realización se abre a la constitutiva religiosidad humana. (test
+p.8>de lubac y giussianni)
+Si eso es así, y la crisis económica y social remite a una dimensión antropológica y
+religiosa, debemos entrar en ese orden de realidades para ofrecer una contribución
+válida a la convivencia en las sociedades plurales de occidente.
+
+Un mundo multicultural
+Entre multiculturalismo y globalización
+Como se ve, será de la mayor importancia delinear de modo adecuado la originalidad
+irreductible del acontecimiento cristiano -hecho singular de relevancia universal- y su
+modo propio de comunicación -el testimonio-, para asegurar con ello la permanencia
+efectiva del anuncio de Cristo a los hombres de todas las culturas.
+
+Por una parte se debe distinguir el cristianismo de las ideologías occidentales
+(evangelización =/= occidentalización)
+
+Por otra parte, sólo un cristianismo genuino podrá ayudar a los hombres de occidente a
+afrontar sus propios dilemas no resuletos sobre el uso de la razón y su relación con la
+religión, a la luz de aquella primera síntesis ejemplar de fe y razón que surgió del
+diálogo entre el evangelio -acido en el ambiente judío- y el mundo grecorromano(p. 11)
+
+
+
+En el debate sobre multiculturalismo ofrecer una relfexión (in)acabada desde nuestro
+enfoque propio: teología fundamental. indicamos algunas claves que puedan ayudar a
+profundizar en este debate para precisar la comprensión de la fe cristiana en este
+mundo plural como contexto en el que luego situar la doctrina cristiana sobre el
+testimonio (p. 13)
+
+1. El debate está siendo beneficioso para la cultura moral y jurídica occidental si
+   tomamos como referencia el análisis de Alain Finkielkraut, de 'la' cultura a 'las'
+   culturas y derechos de los ciudadanos como antídoto al relativismo de las
+   identidades comunitarias
+2. discusión sobre la importancia de los aspectos culturales de las comunidades tiene
+   como contexto hoy una sociedad posindustrial y globalizada
+   a. los factores que sostenian el modelo de separación público-privado: el estado
+   moderno y el ciudadano individual, están sufriendo cambios
+   b. la difusión de diferencias culturales lleva a replantear algunos temas clásicos
+   de la teoría jurídica y social clásica como son la relación entre identidades y
+   ciudadania o entre identidades y democracia
+3. **discusiones acerca del tipo de racionalidad capaz de afrontar los retos sociales,
+   culturales y políticos que conlleva. Sin lugar a dudas, la reelaboración adecuada de
+   la racionalidaden el ámbito de las ciencias sociales y de la filosofía es una de las
+   premisas necesarias para poder afrontar hasta el final los desafíos multiculturales
+   den la perspectiva del testimonio cristiano como veremos.**
+4. Debates acerca de la relación entre multiculturalidad y etnicidad. No todas las
+   diferencias culturales son de tipo étnico. En este contexto llama la atención la
+   estima que encuentra la categoría de mestizaje para superar los límites que todos
+   advierten en ciertos planteamientos de la multiculturalidad
+
+En resumen:
+1. autores ofrecen crítica del relativismo cultural excluyente
+2. desde perspectivas antropológicas y sociológicas e históricas se reinvindica un
+   universalismo que permita la comunicación y comparación entre las culturas
+3. remitida la necesidad de sentido de la experiencia humana sobre el que se puedan
+   entablar intercambios q permitan construir la realidad de una sociedad común
+4. se reconoce la necesidad de superar la división entre esfera pública y privada para
+   afrontar convincentemente los desafíos que la sociedad ulticultural plantea
+5. advertencia de oscilación entre el valor de una identidad comunitaria y valor
+   universal del sujeto indiviudal
+6. la categoría de mestizaje adquiere un protagonismo nuevo para describir la mezcla de
+   hecho y expresar la indistición original y la igualdad plena entre los hombres.
+
+
+
+Una sociedad multirreligiosa y (post)secular
+
+Retorno a lo religioso
+En una sociedad postsecular, retorno a lo religioso, pero el subjetivismo religioso y
+el fundamentalismo violento tienen que ser purificados desde la razón. No actuar desde
+la razón es contrario a la naturaleza de Dios.
+
+El problema de la verdad en el contexto de las religiones
+no es aceptable una solución para la compatibilidad entre religión, filosofía y cultura
+que desde una postura relativista moderna diga adios a la verdad, como una promoción de
+un cristianismo de la caridad sin referencia a la verdad. no hace justicia a la
+exigencia filosófica de buscar y conocer la verdad, y tampoco hace justicia al Dios de
+Jesucristo.
+
+Frente a la tentación de una religión -o de una filosofía que se desentiende de la
+pregunta por la verdad se debe reinvindicar que no hay religión humana que no atienda a
+la exigencia racional, así como no hay itinerario humano de la razón que no consista en
+la búsqueda de la verdad y del significado último de la vida.
+
+la fe católica sostiene que Dios mismo se ha encarnado y, en consecuencia, es posible
+que la libertad humana (situada siempre históricamente) lo encuentre en la historia
+donde coexisten las religiones. las invitaciones de la iglesia al diálogo son una
+dimensión intrínseca de la misión evangelizadora y no simple táctica para facilitar la
+convivencia.
+
+El cristianismo en la sociedad actual
+
+I. No universalidad del hecho del cristianismo
+
+A. pretensión cristiana en el mundo multicultural y post secular
+Cita de introducción al cristianismo 117-127
+el cristianismo al irrumpir en la escena cultural del mundo se orientó a interpelar mas
+a la filosofía que a las religiones.
+
+rtzinger argumenta que la fe cristiana carece de universalidad de facto (aunque tiene
+pretensión universal)
+
+Cuando decimos que la verdad de todo hombre se manifiesta en el acontecimiento de
+Cristo, ¿podemos afirmar que esa manifestación es aquí y ahora tan real como lo fue
+para los discípulos? y ¿se puede afirmar que la presencia de esa persona viva, Jesús,
+fundamenta una salvación de carácter universal? Este desafío sigue presente en nustra
+sociedad. De cómo la fe responda a esta objeción formulada, entre otros, por una
+ilustración insatisfecha, depende la solución a la cuestión de la argumentación pública
+de los cristianos en la sociedad democrática, a su credibilidad racional, como pedía
+Habermas. ******<
+
+B. Insuficiencia de un puro método de integración
+No cabe legitimar la posición cristiana mediante una mera acumulación racional de
+argumentos que integre las verdades que otros poseen. Hay que justificar el significado
+de ese más del cristianismo evitando esto y también lo otro: el que se convierta en un
+postulado puramente voluntarista, irracional
+
+al plantear un metodo testimonial para el anuncio cristiano se pretende ofrecer un
+método alternativo al de integración y se busca evitar los dos extremos indeseados: la
+reducción racionalista y la reducción irracional
+
+
+C. Autorelativización del cristianismo
+disociasiones:
+- afirmación hacia adentro del valor absoluto y relativización hacia afuera
+- las tradiciones religiosas pueden ser estimadas al precio de verse reducidas a mera
+  función referencial de una determinada realidad colectiva
+- la verdad del cristianismo sería aceptable a condición de que aparezca sólo como una
+  de las posibles razones subjetivas de compromiso social, fe en Dios sería un
+  corolario opcional del compromiso ético o religioso
+- disociacion fe-caridad, caridad separada de su raiz teologal
+- ****dificultad desde el punto de vista linguístico. posturas que distinguen entre una
+  relación inefable con el misterio y la insuficiencia de las expresiones linguísticas.
+La posibilidad de un diálogo es que la experiencia cristiana sea completa en su
+naturaleza y en su comunicación
+
+
+II. Hacia una interpretación pública de la fe cristiana
+síntesis de lo visto (p. 45)
+A. Inevitable interpretacion cultural de la fe
+dos posturas que no expresan la verdadera naturaleza del cristianismo y su modo de
+presencia en la sociedad: cristianismo como religión civil (con una finalidad ética),
+cristianismo como sólo anuncio de la cruz (desligado de las cuestiones éticas)
+para superar los límites de ámbas necesitmos una interpretación cultural del
+cristianismo den la cual, por una parte, el acontecimiento de Jesucristo se muestre en
+toda su integridad teologal y por otra se perciba la peculiar razonabilidad propia de
+un acontecimiento singular
+
+
+B. La separación fe y vida en occidente
+****La contribución de los cristianos sólo es decisiva si la inteligencia de la fe se
+convierte en inteligencia de la realidad, clave de juicio y de transformación
+
+- drama de la separación fe y razón - cristianismo dividido división inteligencia de la
+  fe - inteligencia de la realidad se produce un creciente alejamiento, una extrañeza
+  entre la mentalidad común y la fe cristiana
+- debilitamiento del yo: urge mostrar una comprensión filosófica y teológica del acceso
+  humano a la verdad que haga justicia, por una parte, a la verdadera condición del
+  hombre en su plena unidad, y por otra, a la índole original del cirstianismo como
+  acontecimiento.
+
+III. La necesaria superación del carácter extrínseco de la relación entre fe y razón
+síntesis de lo anterior***<(p.59)
+A. Superar una concepcion racionalista de razón
+
+B. Fe y saber
+
+C. Fe no es extrínseca a la razón
+entre la fe teologal y la visio beatifica hay una diferecnia que no es esencial, sino
+de grado. En ese sentido quizá lo mas correcto sea considerar la fe como un
+conocimiento indirecto a traves de signos visibles (sacramento, testigo), que remiten a
+un fundamento invisible y a una plenitude definitiva en el cielo.
+
+la fe es una forma de conocimiento de la verdad, singularísima por su origen, su medio
+y su fin, y a la vez correspondiente con los dinamísmos humanos de razón y libertad que
+no se ven mortificados o destruidos, sino exaltados en su índole propia.
+
+en el hombre de fe no se superpone un don ajeno (alienante) al orden de la razón, sino
+que por la gracia el creyente ejerce su propia razón del modo más pleno posible para
+reconocer aquel Hecho singular que es la encarnación redentora (FR 13)
+
+D. La manifestación del absoluto en la historia
+El hombre concreto, al descubrir cada vez más el contenido filial y fraternal de su
+exitencia, puede poner más en juego su capacidad de adhesión y de decisión
+(autodominio), es decir, se convierte cada vez más en él mismo. LLega así en el tiempo
+de la vida y por la gracia de Dios a realizar el ideal de conocimiento verdadero de sí
+mismo y de plena libertad en la acción, por el que han suspirado los hombres
+antiguos y modernos.
+
+
+
+IV. Los ejes de la reflexión: la revelación y la fe; el conocimiento de la realidad; la
+vida de la Iglesia y el diálogo con los hombres de hoy
+
+
+#+BEGIN_SRC latex
+
+
+
+
+#+END_SRC
