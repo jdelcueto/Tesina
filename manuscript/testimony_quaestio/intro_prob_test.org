@@ -1,6 +1,7 @@
 #+PROPERTY: header-args:latex :tangle ../../tex/ch1/intro_prob_test.tex
 # ------------------------------------------------------------------------------------
 # Santa Teresa Benedicta de la Cruz, ruega por nosotros
+* "Testimonio"
 Situación de Nuestros Días
 
 La crisis como síntoma:
@@ -26,11 +27,11 @@ Por una parte se debe distinguir el cristianismo de las ideologías occidentales
 Por otra parte, sólo un cristianismo genuino podrá ayudar a los hombres de occidente a
 afrontar sus propios dilemas no resuletos sobre el uso de la razón y su relación con la
 religión, a la luz de aquella primera síntesis ejemplar de fe y razón que surgió del
-diálogo entre el evangelio -acido en el ambiente judío- y el mundo grecorromano(p. 11)
+diálogo entre el evangelio -nacido en el ambiente judío- y el mundo grecorromano(p. 11)
 
 
 
-En el debate sobre multiculturalismo ofrecer una relfexión (in)acabada desde nuestro
+En el debate sobre multiculturalismo ofrecer una reflexión (in)acabada desde nuestro
 enfoque propio: teología fundamental. indicamos algunas claves que puedan ayudar a
 profundizar en este debate para precisar la comprensión de la fe cristiana en este
 mundo plural como contexto en el que luego situar la doctrina cristiana sobre el
@@ -208,3 +209,34 @@ vida de la Iglesia y el diálogo con los hombres de hoy
 
 
 #+END_SRC
+
+* Analogía teológica
+  :LOGBOOK:
+  CLOCK: [2018-08-23 Thu 12:15]--[2018-08-23 Thu 16:32] =>  4:17
+  :END:
+!!Sin embargo -y esto es un dato de suma importancia-, detrás de todas estas crisis,
+  está una noción de razón -y de libertad- que no es la genuinamente cristiana.
+  Considero que la noción de logos cristiana no cae bajo la crisis post-moderna. Veamos
+  este /novum/ que ha quedado intacto a la deconstrucción moderna.
+
+-> El logos cristiano. Una cosmovisión análoga entre dos univocistas:
+
+!!El logos cristiano emerge como una extraordinaria novedad ente los dos antedichos
+  univocismos. Frente al logos estóico -fuerza pneumática divina e inmanente en la
+  naturaleza-, y frente al logos neoplatónico, trascendente cuasi-divino y ajeno al
+  mundo de lo material, el Logos divino del cristianismo -el Verbum- es, en efecto,
+  trascendente: es una Persona de la Santísima Trinidad, que ha tenido -y tiene- una
+  concreción histórica: se ha Encarnado,es Dios y hombre. p. 187
+
+p. 190; Orígenes, contra celso 2, 31:
+
+No son importantes para el cristiano 'palabra' o 'lenguaje' o 'razón' o 'ley' en sí
+mismas, en un uso absoluto -todas son, de alguna manera, expresiones de la
+autocomprensión humana-, sino sólo lo que Dios tiene que decir al hombre, el logos
+theou, el hecho de que no es compoatible con el concepto griego de Dios, que Dios
+interpele al hombre en el aquí y ahora de su vida.
+
+
+Carácter veritativo del conocimiento teológico: p.194-195
+
+Consistencia y valor de suplencia del lenguaje teológico p. 196-197
