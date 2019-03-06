@@ -480,10 +480,9 @@ su funcionamiento en general.
   CLOCK: [2019-03-04 Mon 12:48]--[2019-03-04 Mon 13:13] =>  0:25
   CLOCK: [2019-03-04 Mon 12:17]--[2019-03-04 Mon 12:42] =>  0:25
   :END:
-
-Intro:
-La naturaleza de la pregunta sobre el testimonio
-
+* Introducción general al problema del Testimonio
+** La naturaleza de la pregunta sobre el testimonio
+*** notas
 Este capítulo comienza planteando la quaestio que será investigada en el trabajo la
 idea central es la descripción que hace Agustín de la pregunta sobre el tiempo: del
 mismo modo en que el tiempo es una realidad presente en nuestro lenguaje cotidiano el
@@ -500,7 +499,7 @@ La motivación de enfocar de este modo la pregunta es introducir el tema dentro 
 language-game o como tal... el testimonio forma parte de nuestro language-game
 eclesial. Otra motivación es enmarcar la pregunta desde el principio en la metodología
 de W. y de Ans.
-
+*** texto
 #+BEGIN_SRC latex
   \section{Naturaleza de la pregunta sobre el testimonio}
   Es una experiencia familiar en nuestras comunidades reunirnos en torno a la
@@ -780,127 +779,169 @@ de W. y de Ans.
   todo cuando se considera su importancia en la transmisión de la fe y el anuncio
   del Evangelio en el mundo.
 #+END_SRC
+*** notas
 !!Es pregunta filosófica como la describe Witt desde Agustín
-!!Es pregunta teológica como la describe ???
+!!Es pregunta teológica como la describe Ratzinger
 
- ^Sigue presente en nuestra sociedad el desafío de responder a una objeción
-  formulada entre otros por una ``ilustración insatisfecha'', en palabras de
-  Angelo Scola; una corriente de pensamiento que ha tenido la capacidad de
-  plantear preguntas pero no ha sabido encontrarle respuestas adecuadas. De ésta
-  forman parte Kant, Lessing o Jaspers (p. 35-36)
+^Sigue presente en nuestra sociedad el desafío de responder a una objeción formulada
+entre otros por una ``ilustración insatisfecha'', en palabras de Angelo Scola; una
+corriente de pensamiento que ha tenido la capacidad de plantear preguntas pero no ha
+sabido encontrarle respuestas adecuadas. De ésta forman parte Kant, Lessing o Jaspers
+(p. 35-36)
 
-  No es un escenario extraño encontrarnos en una misa escuchando esta palabra y
-  llevar esto a nuestra experiencia presente y encontrar en ellas una descripción
-  de una experiencia con la que sentimos que podemos identificarnos.
+No es un escenario extraño encontrarnos en una misa escuchando esta palabra y llevar
+esto a nuestra experiencia presente y encontrar en ellas una descripción de una
+experiencia con la que sentimos que podemos identificarnos.
 
-            No sólo en la parroquia, sino también en ámbitos diversos en donde nuestras
-            acciones o palabras son genuino deseo de seguir a Cristo, su obra, su
-            enseñanza. Actuar como él. Actuar con él. En la oficina, en la calle, en la
-            familia, quisieramos elegir en ese instante, sobre cualquier otro modo de
-            actuar esa ruta que implica seguir a Cristo. Peeero.
+No sólo en la parroquia, sino también en ámbitos diversos en donde nuestras acciones o
+palabras son genuino deseo de seguir a Cristo, su obra, su enseñanza. Actuar como él.
+Actuar con él. En la oficina, en la calle, en la familia, quisieramos elegir en ese
+instante, sobre cualquier otro modo de actuar esa ruta que implica seguir a Cristo.
+Peeero.
 
-            De las confesiones xi.14 (n. 17) ¿Qué es, pues, el tiempo? ¿Quién podrá
-            explicar esto fácil y brevemente? ¿Quién podrá comprenderlo con el
-            pensamiento, para hablar luego de él? Y, sin embargo, ¿qué cosa más
-            familiar y conocida mentamos en nuestras conversaciones que el tiempo? Y
-            cuando hablamos de él, sabemos sin duda qué es, como sabemos o
-            entendemos lo que es cuando lo oímos pronunciar a otro. ¿Qué es, pues,
-            el tiempo? Si nadie me lo pregunta, lo sé; pero si quiero explicárselo
-            al que me lo pregunta, no lo sé.
+De las confesiones xi.14 (n. 17) ¿Qué es, pues, el tiempo? ¿Quién podrá explicar esto
+fácil y brevemente? ¿Quién podrá comprenderlo con el pensamiento, para hablar luego de
+él? Y, sin embargo, ¿qué cosa más familiar y conocida mentamos en nuestras
+conversaciones que el tiempo? Y cuando hablamos de él, sabemos sin duda qué es, como
+sabemos o entendemos lo que es cuando lo oímos pronunciar a otro. ¿Qué es, pues, el
+tiempo? Si nadie me lo pregunta, lo sé; pero si quiero explicárselo al que me lo
+pregunta, no lo sé.
 
-            Prades en dar testimonio p. 37 plantea
-            Cuando decimos que la verdad de todo hombre se manifiesta en el
-            acontecimiento de Cristo, ¿podemos afirmar que esa manifestación es aquí y
-            ahora tan real como lo fue para los discípulos? y se puede afirmar que la
-            presencia de esa persona viva, Jesús, fundamenta una salvación de carácter
-            universal? Ese desafío sigue presente en nuestra sociedad.
+Prades en dar testimonio p. 37 plantea Cuando decimos que la verdad de todo hombre se
+manifiesta en el acontecimiento de Cristo, ¿podemos afirmar que esa manifestación es
+aquí y ahora tan real como lo fue para los discípulos? y se puede afirmar que la
+presencia de esa persona viva, Jesús, fundamenta una salvación de carácter universal?
+Ese desafío sigue presente en nuestra sociedad.
 
 
-        Fides et ratio 13
+Fides et ratio 13
 
-        ratio sacramentalis de la revelación.... a esta se le puede unir una ratio
-        testimonialis (dar testimonio 449)
+ratio sacramentalis de la revelación.... a esta se le puede unir una ratio
+testimonialis (dar testimonio 449)
 
-            13. De todos modos no hay que olvidar que la Revelación está llena de
-            misterio. Es verdad que con toda su vida, Jesús revela el rostro del Padre, ya
-            que ha venido para explicar los secretos de Dios; 13 sin embargo, el
-            conocimiento que nosotros tenemos de ese rostro se caracteriza por el aspecto
-            fragmentario y por el límite de nuestro entendimiento. Sólo la fe permite
-            penetrar en el misterio, favoreciendo su comprensión coherente.
+13. De todos modos no hay que olvidar que la Revelación está llena de
+misterio. Es verdad que con toda su vida, Jesús revela el rostro del Padre, ya que ha
+venido para explicar los secretos de Dios; 13 sin embargo, el conocimiento que nosotros
+tenemos de ese rostro se caracteriza por el aspecto fragmentario y por el límite de
+nuestro entendimiento. Sólo la fe permite penetrar en el misterio, favoreciendo su
+comprensión coherente.
 
-            El Concilio enseña que « cuando Dios revela, el hombre tiene que someterse con
-            la fe ».14 Con esta afirmación breve pero densa, se indica una verdad
-            fundamental del cristianismo. Se dice, ante todo, que la fe es la respuesta de
-            obediencia a Dios. Ello conlleva reconocerle en su divinidad, trascendencia y
-            libertad suprema. El Dios, que se da a conocer desde la autoridad de su
-            absoluta trascendencia, lleva consigo la credibilidad de aquello que revela.
-            Desde la fe el hombre da su asentimiento a ese testimonio divino. Ello quiere
-            decir que reconoce plena e integralmente la verdad de lo revelado, porque Dios
-            mismo es su garante. Esta verdad, ofrecida al hombre y que él no puede exigir,
-            se inserta en el horizonte de la comunicación interpersonal e impulsa a la
-            razón a abrirse a la misma y a acoger su sentido profundo. Por esto el acto
-            con el que uno confía en Dios siempre ha sido considerado por la Iglesia como
-            un momento de elección fundamental, en la cual está implicada toda la persona.
-            Inteligencia y voluntad desarrollan al máximo su naturaleza espiritual para
-            permitir que el sujeto cumpla un acto en el cual la libertad personal se vive
-            de modo pleno.15 En la fe, pues, la libertad no sólo está presente, sino que
-            es necesaria. Más aún, la fe es la que permite a cada uno expresar mejor la
-            propia libertad. Dicho con otras palabras, la libertad no se realiza en las
-            opciones contra Dios. En efecto, ¿cómo podría considerarse un uso auténtico de
-            la libertad la negación a abrirse hacia lo que permite la realización de sí
-            mismo? La persona al creer lleva a cabo el acto más significativo de la propia
-            existencia; en él, en efecto, la libertad alcanza la certeza de la verdad y
-            decide vivir en la misma.
+El Concilio enseña que « cuando Dios revela, el hombre tiene que someterse con la fe
+».14 Con esta afirmación breve pero densa, se indica una verdad fundamental del
+cristianismo. Se dice, ante todo, que la fe es la respuesta de obediencia a Dios. Ello
+conlleva reconocerle en su divinidad, trascendencia y libertad suprema. El Dios, que se
+da a conocer desde la autoridad de su absoluta trascendencia, lleva consigo la
+credibilidad de aquello que revela. Desde la fe el hombre da su asentimiento a ese
+testimonio divino. Ello quiere decir que reconoce plena e integralmente la verdad de lo
+revelado, porque Dios mismo es su garante. Esta verdad, ofrecida al hombre y que él no
+puede exigir, se inserta en el horizonte de la comunicación interpersonal e impulsa a
+la razón a abrirse a la misma y a acoger su sentido profundo. Por esto el acto con el
+que uno confía en Dios siempre ha sido considerado por la Iglesia como un momento de
+elección fundamental, en la cual está implicada toda la persona. Inteligencia y
+voluntad desarrollan al máximo su naturaleza espiritual para permitir que el sujeto
+cumpla un acto en el cual la libertad personal se vive de modo pleno.15 En la fe, pues,
+la libertad no sólo está presente, sino que es necesaria. Más aún, la fe es la que
+permite a cada uno expresar mejor la propia libertad. Dicho con otras palabras, la
+libertad no se realiza en las opciones contra Dios. En efecto, ¿cómo podría
+considerarse un uso auténtico de la libertad la negación a abrirse hacia lo que permite
+la realización de sí mismo? La persona al creer lleva a cabo el acto más significativo
+de la propia existencia; en él, en efecto, la libertad alcanza la certeza de la verdad
+y decide vivir en la misma.
 
-            Para ayudar a la razón, que busca la comprensión del misterio, están también
-            los signos contenidos en la Revelación. Estos sirven para profundizar más la
-            búsqueda de la verdad y permitir que la mente pueda indagar de forma autónoma
-            incluso dentro del misterio. Estos signos si por una parte dan mayor fuerza a
-            la razón, porque le permiten investigar en el misterio con sus propios medios,
-            de los cuales está justamente celosa, por otra parte la empujan a ir más allá
-            de su misma realidad de signos, para descubrir el significado ulterior del
-            cual son portadores. En ellos, por lo tanto, está presente una verdad
-            escondida a la que la mente debe dirigirse y de la cual no puede prescindir
-            sin destruir el signo mismo que se le propone.
+Para ayudar a la razón, que busca la comprensión del misterio, están también los signos
+contenidos en la Revelación. Estos sirven para profundizar más la búsqueda de la verdad
+y permitir que la mente pueda indagar de forma autónoma incluso dentro del misterio.
+Estos signos si por una parte dan mayor fuerza a la razón, porque le permiten
+investigar en el misterio con sus propios medios, de los cuales está justamente celosa,
+por otra parte la empujan a ir más allá de su misma realidad de signos, para descubrir
+el significado ulterior del cual son portadores. En ellos, por lo tanto, está presente
+una verdad escondida a la que la mente debe dirigirse y de la cual no puede prescindir
+sin destruir el signo mismo que se le propone.
 
-            Podemos fijarnos, en cierto modo, en el horizonte sacramental de la Revelación
-            y, en particular, en el signo eucarístico donde la unidad inseparable entre la
-            realidad y su significado permite captar la profundidad del misterio. Cristo
-            en la Eucaristía está verdaderamente presente y vivo, y actúa con su Espíritu,
-            pero como acertadamente decía Santo Tomás, « lo que no comprendes y no ves, lo
-            atestigua una fe viva, fuera de todo el orden de la naturaleza. Lo que aparece
-            es un signo: esconde en el misterio realidades sublimes ».16 A este respecto
-            escribe el filósofo Pascal: « Como Jesucristo permaneció desconocido entre los
-            hombres, del mismo modo su verdad permanece, entre las opiniones comunes, sin
-            diferencia exterior. Así queda la Eucaristía entre el pan común ».17
+Podemos fijarnos, en cierto modo, en el horizonte sacramental de la Revelación y, en
+particular, en el signo eucarístico donde la unidad inseparable entre la realidad y su
+significado permite captar la profundidad del misterio. Cristo en la Eucaristía está
+verdaderamente presente y vivo, y actúa con su Espíritu, pero como acertadamente decía
+Santo Tomás, « lo que no comprendes y no ves, lo atestigua una fe viva, fuera de todo
+el orden de la naturaleza. Lo que aparece es un signo: esconde en el misterio
+realidades sublimes ».16 A este respecto escribe el filósofo Pascal: « Como Jesucristo
+permaneció desconocido entre los hombres, del mismo modo su verdad permanece, entre las
+opiniones comunes, sin diferencia exterior. Así queda la Eucaristía entre el pan común
+».17
 
-            El conocimiento de fe, en definitiva, no anula el misterio; sólo lo hace más
-            evidente y lo manifiesta como hecho esencial para la vida del hombre: Cristo,
-            el Señor, « en la misma revelación del misterio del Padre y de su amor,
-            manifiesta plenamente el hombre al propio hombre y le descubre la grandeza de
-            su vocación »,18 que es participar en el misterio de la vida trinitaria de
-            Dios.19
+El conocimiento de fe, en definitiva, no anula el misterio; sólo lo hace más evidente y
+lo manifiesta como hecho esencial para la vida del hombre: Cristo, el Señor, « en la
+misma revelación del misterio del Padre y de su amor, manifiesta plenamente el hombre
+al propio hombre y le descubre la grandeza de su vocación »,18 que es participar en el
+misterio de la vida trinitaria de Dios.19
 
 
-            William James plantea temprano en sus lectures el tipo de pregunta: ¿De qué
-            modo este libro, que nace de la forma descrita, puede ser una guía para
-            nuestra vida y una revelación? p. 27 y plantea, para contestar a esta
-            pregunta habríamos de poseer una teoría general que nos mostrara con qué
-            peculiaridades ha de contar una cosa para adquirir valor en lo que concierne
-            a la revelación; y, en ella misma, tal teoría sería lo que antes hemos
-            denominado un juicio espiritual, éste distinto de un juicio existencial,
-            sería una proposición de valor como respuesta a cuestionamiento sobre el
-            sentido, importancia o significado actual de algo. La pregunta ¿qué son las
-            tendencias religiosas? esta relacionada con un nivel de investigación, ¿cuál
-            es su signifcado filosófico? con otro. El primero se atiende con un juicio
-            existencial del tipo: cuál es su naturaleza, cómo se ha realizado? ¿Qué
-            constitución, qué origen, qué historia tiene? El segundo se atendería con un
-            juicio de valor del tipo: cuál es su importancia, su sentido, su
-            significado actual?
+William James plantea temprano en sus lectures el tipo de pregunta: ¿De qué modo este
+libro, que nace de la forma descrita, puede ser una guía para nuestra vida y una
+revelación? p. 27 y plantea, para contestar a esta pregunta habríamos de poseer una
+teoría general que nos mostrara con qué peculiaridades ha de contar una cosa para
+adquirir valor en lo que concierne a la revelación; y, en ella misma, tal teoría sería
+lo que antes hemos denominado un juicio espiritual, éste distinto de un juicio
+existencial, sería una proposición de valor como respuesta a cuestionamiento sobre el
+sentido, importancia o significado actual de algo. La pregunta ¿qué son las tendencias
+religiosas? esta relacionada con un nivel de investigación, ¿cuál es su signifcado
+filosófico? con otro. El primero se atiende con un juicio existencial del tipo: cuál es
+su naturaleza, cómo se ha realizado? ¿Qué constitución, qué origen, qué historia tiene?
+El segundo se atendería con un juicio de valor del tipo: cuál es su importancia, su
+sentido, su significado actual?
 
-            En sus lectures William adopta un punto de vista puramente existencial, cosa
-            que advierte dado que causa sorpresa entre personas religiosas. Considera
-            los fenómenos de la experiencia religiosa biológica y psicológicamente como
-            si fuesen simpres hechos curiosos de la historia individual, algunos
-            pensaran que se degrada un tema tan sublime, pero su intención no es
-            desacreditar el aspecto religioso de la vida.
+En sus lectures William adopta un punto de vista puramente existencial, cosa que
+advierte dado que causa sorpresa entre personas religiosas. Considera los fenómenos de
+la experiencia religiosa biológica y psicológicamente como si fuesen simpres hechos
+curiosos de la historia individual, algunos pensaran que se degrada un tema tan
+sublime, pero su intención no es desacreditar el aspecto religioso de la vida.
+
+
+** El testimonio en la Sagrada Escritura
+
+#+BEGIN_SRC latex
+
+  ``El testimonio pertenece al grupo de analogías empleadas por la Escritura para
+  introducir al hombre en las riquezas del misterio divino, por ejemplo las
+  categorías de alianza, de palabra, de paternidad y de filiación. Si la
+  revelación misma se apoya en la experiencia humana del testimonio para expresar
+  una de las relaciones fundamentales que unen al hombre con Dios, la reflexión
+  teológica se encuentra entonces autorizada a explorar los datos de esta
+  experiencia.'' Latourelle 1523
+
+  En el trato de las tres personas divinas con los hombres existe un intercambio
+  de testimonios que tiene la finalidad de proponer la revelación y de alimentar
+  la fe. Son tres los que revelan o dan testimonio, y esos tres son más que uno.
+  Cristo da testimonio del Padre, mientras que el Padre y el Espíritu dan
+  testimonio del Hijo. Los apóstoles a su vez dan testimonio de lo que han visto y
+  oído del verbo de la vida. Pero su testimonio no es la comunicación de una
+  ideología, de un descubrimiento científico, de una técnica inédita, sino la
+  proclamación de la salvación prometida y finalmente realizada. 1531
+
+  el testimonio divino se proyecta luego en el apostólico y se perpetúa en el
+  testimonio eclesial. Por eso, el testimonio es revelación en la actividad de
+  Cristo y de los apóstoles y es transmisión de la revelación en la tradición
+  eclesial. ninot 573
+
+  Sentidos
+  empírico-histórico
+  jurídico
+  ético-antropológico
+  teológico
+
+  latourelle:
+  evangelizacion es triple testimonio:
+  parole-vecue-dans-l'Esprit
+  ninot foot 582
+
+#+END_SRC
+
+** El testimonio en el Magisterio
+Decálogo sobre el testimonio AG 11 (572 tf ninot)
+Evangelii Nuntiandi n21
+** El problema de la categoría del testimonio
+El testimonio como manifestación significativa --hagiofánica-- de la misión de la
+Iglesia en su realidad histórica es, pues, el punto final, pero también puede ser el
+punto inicial, de toda nuestra Teología Fundamental, ya que de él surge el signo
+eclesial de creidibilidad que es la mediación próxima para conocer la Revelación. ninot
+p. 572
