@@ -501,7 +501,7 @@ eclesial. Otra motivación es enmarcar la pregunta desde el principio en la meto
 de W. y de Ans.
 *** texto
 #+BEGIN_SRC latex
-  \section{Naturaleza de la pregunta sobre el testimonio}
+\section{Naturaleza de la pregunta sobre el testimonio}
   Es una experiencia familiar en nuestras comunidades reunirnos en torno a la
   Sagrada Escritura y compartir la Palabra buscando en ella luz para nuestro
   presente. Una escena evangélica en torno a la cual muchos se han reunido a
@@ -900,14 +900,62 @@ sublime, pero su intención no es desacreditar el aspecto religioso de la vida.
 ** El testimonio en la Sagrada Escritura
 
 #+BEGIN_SRC latex
+  \section{La categoría del Testimonio en la Sagrada Escritura}
+  El Evangelio está en el corazón de la Iglesia como fundamento de su esperanza en
+  cada etapa de la historia, desde ahí, esta Buena Nueva es transmitida en el
+  tiempo y en el mundo como <<palabra vivida en el Espíritu>>\footnote{cf. Porque
+    es el Espíritu el que impulsa a la Iglesia a perseguir son obras de
+    evangelización; es el Espíritu quien santifica y fecunda el testimonio de su
+    vida; y es el Espíritu el que inspira la fe, la nutre y la profundiza. Es el
+    Espíritu quien alivia entre estos tres testimonios que son uno: el de la
+    palabra vivida en el Espíritu. A través del testimonio, el Espíritu
+    internaliza el testimonio externo de la Buena Nueva de la salvación en
+    Jesucristo y lo lleva al cumplimiento de la fe, que es la respuesta del amor
+    del verdadero amor de la humanidad a través del Padre. Cristo; Latourelle
+    Evangelisation et temoignage ninot 582}. En este sentido la difusión del
+  Evangelio puede ser entendida como un testimonio con una triple dimensión: el
+  anuncio apostólico del Resucitado, acogido y expresado en la vida de los
+  cristianos, sostenida por la acción interior del Espíritu.\footnote{cf. Ninot
+    582} Este dinamísmo fundamental se haya presente hoy en la comunidad de la
+  Iglesia y actúa en ella desde su origen. El libro de los Hechos nos presenta a
+  los apóstoles como testigos de los acontecimientos de la Pascua de Jesús y su
+  valor salvífico. Este testimonio es acción del Espíritu que impulsa la tarea
+  apostólica y que da nueva vida a los que acogen el anuncio de la Buena Noticia.
+  Así puede encontrarse descrito en el testimonio de Felipe que va más allá de
+  Jerusalén hacia Samaria, todavía llega más lejos a la vida de un extranjero:
+  \citalitlar{El Espíritu dijo a Felipe: <<Acércate y pégate a la carroza>>.
+    Felipe se acercó corriendo, le oyó leer el profeta Isaías, y le preguntó:
+    <<¿Entiendes lo que estás leyendo?>>. Contestó: <<¿Y cómo voy a entenderlo si
+    nadie me guía?>>. E invitó a Felipe a subir y a sentarse con él. El pasaje de
+    la Escritura que estaba leyendo era este: \emph{Como cordero fue llevado al
+      matadero, como oveja muda ante el esquilador, así no abre su boca. En su
+      humillación no se le hizo justicia. ¿Quién podrá contar su descendencia?
+      Pues su vida ha sido arrancada de la tierra.} El eunuco preguntó a Felipe:
+    <<Por favor, ¿de quién dice esto el profeta?; ¿de él mismo o de otro?>>.
+    Felipe se puso a hablarle y, tomando pie de este pasaje, le anunció la Buena
+    Nueva de Jesús. Continuando el camino, llegaron a un sitio donde había agua, y
+    dijo el eunuco: «Mira, agua. ¿Qué dificultad hay en que me bautice?». Mandó
+    parar la carroza, bajaron los dos al agua, Felipe y el eunuco, y lo bautizó.
+    Cuando salieron del agua, el Espíritu del Señor arrebató a Felipe. El eunuco
+    no volvió a verlo, y siguió su camino lleno de alegría. \footnote{Hch 8,
+      29--39}}
 
-  ``El testimonio pertenece al grupo de analogías empleadas por la Escritura para
-  introducir al hombre en las riquezas del misterio divino, por ejemplo las
-  categorías de alianza, de palabra, de paternidad y de filiación. Si la
-  revelación misma se apoya en la experiencia humana del testimonio para expresar
-  una de las relaciones fundamentales que unen al hombre con Dios, la reflexión
-  teológica se encuentra entonces autorizada a explorar los datos de esta
-  experiencia.'' Latourelle 1523
+
+  Este relato de los Hechos de los Apóstoles puede servir de punto de partida para
+  examinar el modo en que la Escritura nos describe el testimonio.
+  \citalitinerlin{El testimonio bíblico es esencialmente religioso. Se trata de un
+    testimonio sobre alguien: el Dios salvador (AT) o el
+    Dios-salvación-en-Jesucristo (NT) 1530}
+
+
+  \citalitinterlin{El testimonio pertenece al grupo de analogías empleadas por la
+    Escritura para introducir al hombre en las riquezas del misterio divino, por
+    ejemplo las categorías de alianza, de palabra, de paternidad y de
+    filiación.}1523
+
+  Globalmente se puede decir que el testimonio bíblico asume pero al mismo tiempo
+  exalta hasta sublimarlos, los rasgos del testimonio humano. 1526
+
 
   En el trato de las tres personas divinas con los hombres existe un intercambio
   de testimonios que tiene la finalidad de proponer la revelación y de alimentar
@@ -923,6 +971,49 @@ sublime, pero su intención no es desacreditar el aspecto religioso de la vida.
   Cristo y de los apóstoles y es transmisión de la revelación en la tradición
   eclesial. ninot 573
 
+  Cristo es constitutivamente revelador del Padre, pero no lo revela plena y
+  perfectamente hasta que en la Resurrección su humanidad supera la condición del
+  tiempo pasando al estadio escatológico
+
+  en este sentido la Resurrección como ``final'' de la unicidad del acontecimiento
+  de Jesucristo, encarnado, muerto y resucitad, subraya específicamente la
+  definitividad de la existencia humana salvada por Dios en la carne de Jesús de
+  Nazaret, ya que la autocomunicación de Dios ha alcanzado su palabra última en la
+  Resurrección de Jesucristo, y por eso es prenda de la resurrección de todos los
+  hombres ninot 404
+
+  el misterio pascual al cual tiende toda la existencia terrena de Cristo,
+  constituye el acto testimonial por excelencia de Dios prades 128
+
+  si Cristo no ha resucitado, nuestra predicación es vana y vana es nuestra fe...
+  y hasta somos falsos testigos de Dios.
+
+  latourelle:
+  en el AT el testigo es ante todo el
+  profeta
+
+  el testigo es también el pueblo de Israel
+
+  El testimonio exterior va acompañado de un testimonio interior del Espíritu que
+  hace al hombre capaz de abrirse al evangelio y de adherirse a él por la fe. 1530
+
+  la autoridad del testigo no viene de él, sino de su vocación privilegiada y de
+  su envío. prades 117
+
+  lo que escinde este nuevo sentido del testimonio de todos sus usos en el
+  lenguaje ordinario es que el testimonio no pertenece al testigo. Este procede de
+  una iniciativa absoluta, en cuanto a su origen y en cuanto a su contenido.
+  prades 118 - ricoeur
+
+  en el AT el testimonio en su sentido más denso y sublime, es el de Dios mismo a
+  través de personas escogidas por Él, que reminten continuamente a hechos
+  acontecidos en la historia y a la interpretación que los acompaña, para
+  reconocer con ello la presencia y actuación de Dios en la historia humana.
+
+  Hay peligro de falsos profetas y también de corazones sordos.
+  El pueblo es infiel y testarudo y actua irracionalmente rechazando las múltiples
+  pruebas de la predilección divina.
+
   Sentidos
   empírico-histórico
   jurídico
@@ -934,12 +1025,99 @@ sublime, pero su intención no es desacreditar el aspecto religioso de la vida.
   parole-vecue-dans-l'Esprit
   ninot foot 582
 
+
+  el misterio pascual al cual tiende toda la existencia terrena de Cristo,
+  constituye el acto testimonial por excelencia de Dios prades 128
+
+  zada. 1531
+
+  el testimonio divino se proyecta luego en el apostólico y se perpetúa en el
+  testimonio eclesial. Por eso, el testimonio es revelación en la actividad de
+  Cristo y de los apóstoles y es transmisión de la revelación en la tradición
+  eclesial. ninot 573
+
+  la autoridad del testigo no viene de él, sino de su vocación privilegiada y de
+  su envío. prades 117
+
+  lo que escinde este nuevo sentido del testimonio de todos sus usos en el
+  lenguaje ordinario es que el testimonio no pertenece al testigo. Este procede de
+  una iniciativa absoluta, en cuanto a su origen y en cuanto a su contenido.
+  prades 118 - ricoeur
+
+  en el AT el testimonio en su sentido más denso y sublime, es el de Dios mismo a
+  través de personas escogidas por Él, que reminten continuamente a hechos
+  acontecidos en la historia y a la interpretación que los acompaña, para
+  reconocer con ello la presencia y actuación de Dios en la historia humana.
+
+  Hay peligro de falsos profetas y también de corazones sordos.
+  El pueblo es infiel y testarudo y actua irracionalmente rechazando las múltiples
+  pruebas de la predilección divina.
+
+  Sentidos
+  empírico-histórico
+  jurídico
+  ético-antropológico
+  teológico
+
+  latourelle:
+  evangelizacion es triple testimonio:
+  parole-vecue-dans-l'Esprit
+  ninot foot 582
+
+
+  el misterio pascual al cual tiende toda la existencia terrena de Cristo,
+  constituye el acto testimonial por excelencia de Dios prades 128 zada. 1531
+
+  el testimonio divino se proyecta luego en el apostólico y se perpetúa en el
+  testimonio eclesial. Por eso, el testimonio es revelación en la actividad de
+  Cristo y de los apóstoles y es transmisión de la revelación en la tradición
+  eclesial. ninot 573
+
+  la autoridad del testigo no viene de él, sino de su vocación privilegiada y de
+  su envío. prades 117
+
+  lo que escinde este nuevo sentido del testimonio de todos sus usos en el
+  lenguaje ordinario es que el testimonio no pertenece al testigo. Este procede de
+  una iniciativa absoluta, en cuanto a su origen y en cuanto a su contenido.
+  prades 118 - ricoeur
+
+  en el AT el testimonio en su sentido más denso y sublime, es el de Dios mismo a
+  través de personas escogidas por Él, que reminten continuamente a hechos
+  acontecidos en la historia y a la interpretación que los acompaña, para
+  reconocer con ello la presencia y actuación de Dios en la historia humana.
+
+  Hay peligro de falsos profetas y también de corazones sordos.
+  El pueblo es infiel y testarudo y actua irracionalmente rechazando las múltiples
+  pruebas de la predilección divina.
+
+  Sentidos
+  empírico-histórico
+  jurídico
+  ético-antropológico
+  teológico
+
+  latourelle:
+  evangelizacion es triple testimonio:
+  parole-vecue-dans-l'Esprit
+  ninot foot 582
+
+
+  el misterio pascual al cual tiende toda la existencia terrena de Cristo,
+  constituye el acto testimonial por excelencia de Dios prades 128
+
 #+END_SRC
 
 ** El testimonio en el Magisterio
 Decálogo sobre el testimonio AG 11 (572 tf ninot)
 Evangelii Nuntiandi n21
 ** El problema de la categoría del testimonio
+
+Si la
+revelación misma se apoya en la experiencia humana del testimonio para expresar
+una de las relaciones fundamentales que unen al hombre con Dios, la reflexión
+teológica se encuentra entonces autorizada a explorar los datos de esta
+experiencia.'' Latourelle 1523
+
 El testimonio como manifestación significativa --hagiofánica-- de la misión de la
 Iglesia en su realidad histórica es, pues, el punto final, pero también puede ser el
 punto inicial, de toda nuestra Teología Fundamental, ya que de él surge el signo
