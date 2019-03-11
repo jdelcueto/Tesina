@@ -943,7 +943,7 @@ sublime, pero su intención no es desacreditar el aspecto religioso de la vida.
     testimonio es revelación en la actividad de Cristo y de los apóstoles y es
     transmisión de la revelación en la tradición eclesial. ninot 573}
 
-  En la actividad de Cristo el, testimonio divino queda proyectado como
+  En la actividad de Cristo el testimonio divino queda proyectado como
   interpelación a la libertad realizada por la identidad propia de Jesús:
   \citalitinterlin{Si conocieras el don de Dios y quién es el que te dice ``dame
     de beber'' le pedirías tu, y él te daría agua viva}\footnote{Jn 4, 10};
@@ -982,28 +982,38 @@ sublime, pero su intención no es desacreditar el aspecto religioso de la vida.
   Testamento. Esta iniciativa de Dios tiende hacia el testimonio de la Palabra
   definitiva del Padre que es Cristo resucitado. En aquellos que creen en el
   testimonio de Dios se engendra alegría y vida nueva. En palabras de R.
-  Latourelle: \citalitlar{En el trato de las tres personas divinas con los hombres
-    existe un intercambio de testimonios que tiene la finalidad de proponer la
-    revelación y de alimentar la fe. Son tres los que revelan o dan testimonio, y
-    esos tres son más que uno. Cristo da testimonio del Padre, mientras que el
-    Padre y el Espíritu dan testimonio del Hijo. Los apóstoles a su vez dan
-    testimonio de lo que han visto y oído del verbo de la vida. Pero su testimonio
-    no es la comunicación de una ideología, de un descubrimiento científico, de
-    una técnica inédita, sino la proclamación de la salvación prometida y
-    finalmente realizada.\footnote{diccion testimonio p.1531}}
+  Latourelle:
+  \citalitlar{En el trato de las tres personas divinas con los hombres existe un
+    intercambio de testimonios que tiene la finalidad de proponer la revelación y
+    de alimentar la fe. Son tres los que revelan o dan testimonio, y esos tres son
+    más que uno. Cristo da testimonio del Padre, mientras que el Padre y el
+    Espíritu dan testimonio del Hijo. Los apóstoles a su vez dan testimonio de lo
+    que han visto y oído del verbo de la vida. Pero su testimonio no es la
+    comunicación de una ideología, de un descubrimiento científico, de una técnica
+    inédita, sino la proclamación de la salvación prometida y finalmente
+    realizada.\footnote{diccion testimonio p.1531}}
   De este modo el anuncio del apóstol Felipe sirve aquí como un ejemplo específico
-  del testimonio, que ilustra, sin embargo, una noción
+  del testimonio, que ilustra sin embargo, una noción
   que\citalitinterlin{atraviesa toda la Escritura y se corresponde con la
     estructura misma de la Revelación.}\footnote{la noción de testimonio atraviesa
     la Escritura y se coresponde con la estructura misma de la Revelación: <<la
     Escritura describe la revelación como una economía del testimonio>>. prades
-    109}
+    109} Adicionalmente, según Latourelle: \citalitinterlin{El testimonio
+    pertenece al grupo de analogías empleadas por la Escritura para introducir al
+    hombre en las riquezas del misterio divino, por ejemplo las categorías de
+    alianza, de palabra, de paternidad y de filiación.}\footnote{latourelle
+    p.1523}
 
-  El testimonio bíblico nos refiere, en definitiva, a \emph{alguien} que tiene la
-  iniciativa de comunicar, al \citalitinterlin{Dios salvador (AT) o el
-    Dios-salvación-en-Jesucristo (NT)}\footnote{p.1530}, presente en el anuncio
-  apostólico de la salvación prometida y realizada.
+  Estas consideraciones permiten tener como clave para el estudio de la categoría
+  del testimonio en la escritura
+  entender al testimonio como estructura de la revelación, o la revelación como
+  acto testimonial de Dios
+  entender el testimonio como actividad humana cuyos rasgos el testimonio bíblico
+  asume, pero al mismo tiempo exalta hasta sublimarlos.
 
+  Estas consideraciones permiten valorar la economía de la revelación como
+  manifestación de Dios realizada con una estuctura testimonial y que puede ser
+  comprendida atendiendo los rasgos del testimonio como actividad humana
 
   La categoría
   categoría del testimonio entre otras como `alianza', `palabra', `paternidad',
@@ -1012,7 +1022,9 @@ sublime, pero su intención no es desacreditar el aspecto religioso de la vida.
   nuestra historia humana.\footnote{El testimonio pertenece al grupo de analogías
     empleadas por la Escritura para introducir al hombre en las riquezas del
     misterio divino, por ejemplo las categorías de alianza, de palabra, de
-    paternidad y de filiación. p.1523} La revelación de Dios así descrita tiene
+    paternidad y de filiación. p.1523}
+
+  La revelación de Dios así descrita tiene
   \emph{estructura testimonial}\footnote{cf. prades 109} de modo que comparte los
   rasgos del testimonio como actividad humana y éstos la escritura los asume, pero
   al mismo tiempo los exalta hasta sublimarlos.\footnote{cf. latourelle 1526
@@ -1035,6 +1047,11 @@ sublime, pero su intención no es desacreditar el aspecto religioso de la vida.
   más detenidamente el papel que juega el testimonio en la escritura; primero en
   el anuncio pascual como centro y luego en el Antiguo y Nuevo testamento mas
   ampliamiente.
+
+
+  La Revelación como acto testimonial de Dios en el AT
+
+  La
   #+END_SRC
 El testimonio en la escritura
 intro:
