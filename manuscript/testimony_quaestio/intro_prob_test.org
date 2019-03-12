@@ -1124,7 +1124,7 @@ acto testimonial de Dios en el NT
   A lo largo de este camino Jesús manifiesta su confianza en el Padre:
   \citalitinterlin{Padre, te doy gracias porque me has escuchado; yo sé que tu me
     escuchas siempre}\footnote{Jn 11, 41b-42a}; esta relación queda afirmada
-  plenamente ante la pasión como confianza puesta en la voluntad del Padre:
+  plenamente ante la pasión como confianza puesta en su voluntad:
   \citalitinterlin{Padre\ldots que no se haga mi voluntad, sino la
     tuya}\footnote{Lc 22,42}. De este modo en el misterio pascual queda
   atestiguada la plena unidad de Cristo con el Padre, en la mayor confianza
@@ -1134,6 +1134,18 @@ acto testimonial de Dios en el NT
 #+BEGIN_SRC latex
   \ifdraft{\subsubsection{Es testimonio y motivo de credibilidad definitvo del
       Amor de Dios}}{}
+
+  Cristo, a lo largo de su misión, dió testimonio del amor del Padre
+  \citalitinterlin{habiendo amado a los suyos que estaban en el
+    mundo\ldots}\footnote{Jn 13,1}. En el misterio pascual, donde \citalitinterlint{los
+  amó hasta el extremo}\footnote{Jn 13, 1}, queda confirmado definitivamente como
+  testigo del Padre.
+
+  también ha dado testimonio
+  \citalitinterlin{Porque tanto amó Dios al mundo, que entregó a su Unigénito,
+    para que todo el que cree en él no perezca, sino que tenga vida
+    eterna}\footnote{Jn 3,16}
+
 #+END_SRC
 ***** Lc 24,27.45-48 Hch 2,23;3,18 testimonio libertad de Dios en proyecto necesario
 #+BEGIN_SRC latex
