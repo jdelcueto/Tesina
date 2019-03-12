@@ -1094,7 +1094,6 @@ acto testimonial de Dios en el NT
 **** El hecho en sí de la Pascua constituye el acto testimonial por excelencia de Dios
 ***** estatuto epistemológico especial
 #+BEGIN_SRC latex
-  \ifdraft{\subsubsection{Estatuto espistemológico especial}}{}
   <<Cristo ha resucitado>>\footnote{Cf. 1 Tes 4,15; 1Cor 15,12--20; Rom 6,4} es la
   confesión que está en el núcleo del más primitivo anuncio del
   evangelio.\footnote{ninot 403} Creer en esta noticia conlleva acoger la
@@ -1113,14 +1112,11 @@ acto testimonial de Dios en el NT
   bondad de Dios, y esta acción va orientada a ese punto culminante que es su
   pasión, muerte y resurrección; \citalitinterlin{el testimonio que Jesús va
     ofreciendo durante su vida pública le va a reclamar una entrega definitiva a
-    favor de los que o han acogido y frente a la resistencia que ha generado en
+    favor de los que lo han acogido y frente a la resistencia que ha generado en
     quienes le rechazan.}\footnote{prades 127}
 #+END_SRC
 ***** Lc 22,42 testimonio de confianza absoluta en el Padre
 #+BEGIN_SRC latex
-  \ifdraft{\subsubsection{Es testimonio y motivo de credibilidad definitvo de
-      confianza absoluta en el Padre}}{}
-
   A lo largo de este camino Jesús manifiesta su confianza en el Padre:
   \citalitinterlin{Padre, te doy gracias porque me has escuchado; yo sé que tu me
     escuchas siempre}\footnote{Jn 11, 41b-42a}; esta relación queda afirmada
@@ -1132,89 +1128,124 @@ acto testimonial de Dios en el NT
 #+END_SRC
 ***** Jn 3 16 testimonio de Amor
 #+BEGIN_SRC latex
-  \ifdraft{\subsubsection{Es testimonio y motivo de credibilidad definitvo del
-      Amor de Dios}}{}
-
-  Cristo, a lo largo de su misión, dió testimonio del amor del Padre
+  A lo largo de su misión, Cristo dió testimonio del amor del Padre
   \citalitinterlin{habiendo amado a los suyos que estaban en el
-    mundo\ldots}\footnote{Jn 13,1}. En el misterio pascual, donde \citalitinterlin{los
-  amó hasta el extremo}\footnote{Jn 13, 1}, queda confirmado definitivamente como
-  testigo del Padre.
-
-  también ha dado testimonio
-  \citalitinterlin{Porque tanto amó Dios al mundo, que entregó a su Unigénito,
-    para que todo el que cree en él no perezca, sino que tenga vida
-    eterna}\footnote{Jn 3,16}
-
+    mundo\ldots}\footnote{Jn 13,1}. En el misterio pascual, donde
+  \citalitinterlin{los amó hasta el extremo}\footnote{Jn 13, 1}, queda confirmado
+  definitivamente como testigo del Padre. Con su entrega ofrece el testimonio
+  pleno del amor salvador del Padre: \citalitinterlin{Porque tanto amó Dios al
+    mundo, que entregó a su Unigénito, para que todo el que cree en él no perezca,
+    sino que tenga vida eterna.}\footnote{Jn 3,16}
 #+END_SRC
 ***** Lc 24,27.45-48 Hch 2,23;3,18 testimonio libertad de Dios en proyecto necesario
 #+BEGIN_SRC latex
-  \ifdraft{\subsubsection{Es testimonio y motivo de credibilidad definitvo del
-      proyecto de salvación deseado libremente por Dios}}{}
+  A lo largo de su vida, Cristo también es testigo de la necesidad del camino
+  salvífico que es libre e irrevocable decisión trinitaria de redimir a los
+  hombres\footnote{prades 128}: \citalitinterlin{¿No sabíais que yo debía estar en
+    las cosas de mi Padre?}\footnote{Lc 2, 49}; \citalitinterlin{El hijo del
+    hombre tiene que padecer mucho, ser reprobado por los ancianos, sumos
+    sacerdotes y escribas, ser ejecutado y resucitar a los tres días.}\footnote{Mc
+    8, 31} Este testimonio de la voluntad divina es comprendido por los discípulos
+  por la luz del Resucitado; \citalitinterlin{les abrió el entendimiento para
+    comprender las Escrituras\ldots ``así está escrito: el Mesías padecerá,
+    resucitaráde entre los muertos al tercer día y en su nombre se proclamará la
+    conversión''}.\footnote{Lc 24, 45-47a}
 #+END_SRC
-
 **** El testimonio de Jesús en su vida pública tiende hacia su entrega definitiva
 Para esto he venido
 verdadero/falso profeta
+#+BEGIN_SRC latex
+  La intencionalidad de este testimonio que Jesús ofrece a lo largo de su vida
+  hasta llegar al acto testimonial definitivo de Dios al mundo que es el misterio
+  pascual aparece con claridad en la respuesta de Cristo a Pilato antes de la
+  Pasión: \citalitinterlin{Yo para esto he nacido y para esto he venido al mundo:
+    para dar testimonio de la verdad. Todo el que es de la verdad escucha mi
+    voz.}\footnote{Jn 18,37} En su vida pública y en su misión Cristo ha actuado
+  como profeta, dando a conocer al Padre, a quien nadie ha visto nunca, pero que
+  el Hijo sí conoce.\footnote{cf. Jn 1,18 vease también Jesús de Nazaret 24} En el
+  misterio pascual Jesús se manifiesta como verdadero profeta, acreditado por el
+  hecho mismo de la Resurrección donde se ha realizado en él mismo lo que ha
+  revelado y prometido. \footnote{prades 128}
+#+END_SRC
 **** El testimonio apostólico de la Pascua anuncia hecho y su valor e interpreta
 si no hay resurrección tampoco cristo y nuestra predicación es vana
 testimonio de pentecostés hch 2
 testimonio cornelio hch 10
 #+BEGIN_SRC latex
-Si Cristo no ha resucitado
-sería vana cualquier argumentación, sin embargo, Jesús es <<el Viviente>>,
-estuvo muerto, pero vive por los siglos de los siglos.\footnote{Ap 1, 17--18}
-Así Pedro da testimonio de ésto el día de Pentecostés: \citalitinterlin{A este
-  Jesús lo resucitó Dios, de lo cual todos nosotros somos
-  testigos}.\footnote{Hch 2, 32} El apóstol es testigo en la fe sobre un
-acontecimiento enraizado en la historia.\footnote{ninot 402 y 406 enraizado}
+  La resurrección de Cristo no sólo acredita su propio testimonio, sino que
+  sostiene el testimonio apostólico. Si Cristo no ha resucitado sería vana
+  cualquier argumentación, sin embargo, Jesús es <<el Viviente>>, estuvo muerto,
+  pero vive por los siglos de los siglos.\footnote{Ap 1, 17--18}
 
-Así mismo es presentado el testimonio de Pedro en casa de Cornelio donde el
-centurión y todos lo que lo acompañaban esperaban reunidos para escuchar lo que
-el Señor quisiera comunicarles por medio del apóstol. Pedro, comprendiendo que
-la verdad de Dios no hace acepción de personas, narra los hechos que él bien
-conoce: \citalitlar{<<Vosotros conocéis lo que sucedió en toda Judea, comenzando
-  por Galilea, después del bautismo que predicó Juan. Me refiero a Jesús de
-  Nazaret, ungido por Dios con la fuerza del Espíritu Santo, que pasó haciendo
-  el bien y curando a todos los oprimidos por el diablo, porque Dios estaba con
-  él. Nosotros somos testigos de todo lo que hizo en la tierra de los judíos y
-  en Jerusalén. A este lo mataron, colgándolo de un madero. Pero Dios lo
-  resucitó al tercer día y le concedió la gracia de manifestarse, no a todo el
-  pueblo, sino a los testigos designados por Dios: a nosotros, que hemos comido
-  y bebido con él después de su resurrección de entre los
-  muertos.>>\footnote{Hch 10, 37--41}} Este testimonio de los hechos queda
-enlazado con un testimonio de fe sobre el sentido profundo de lo que Pedro
-conoce, Jesús, a quien los apóstoles y el pueblo vieron y escucharon es ahora
-juez de vivos y muertos:
-\citalitlar{<<Nos encargó predicar al pueblo, dando solemne testimonio de que
-  Dios lo ha constituido juez de vivos y muertos. De él dan testimonio todos los
-  profetas: que todos los que creen en él reciben, por su nombre, el perdón de
-  los pecados.>>\footnote{Hch 10, 42-43}}
+  Los apóstoles son testigos de la vida de Cristo, de sus palabras y acciones,
+  muerte y resurrección. De tal modo son testigos en continuidad con el testimonio
+  de Cristo. El testimonio apostólico es un anuncio de estos hechos que ellos
+  conocen y cuyo valor han reconocido por la fe. Así Pedro proclama estas cosas el
+  día de Pentecostés: \citalitinterlin{A este Jesús lo resucitó Dios, de lo cual
+    todos nosotros somos testigos}.\footnote{Hch 2, 32} El apóstol es testigo en
+  la fe sobre un acontecimiento enraizado en la historia.\footnote{ninot 402 y 406
+    enraizado}
 
-El apóstol entiende estos hechos y su alcance religioso y salvífico
-interpretándolos en continuidad con la voluntad de Dios manifestada en su acción
-en favor del pueblo judío a quién habló por medio de los profetas; voluntad
-hecha manifiesta en definitva en \citalitinterlin{Jesús el Nazareno, varón
-  acreditado por Dios ante vosotros con los milagros, prodigios y signos que
-  Dios realizó por medio de él, como vosotros mismos sabéis}.\footnote{Hch 2,22}
+  Así mismo es presentado el testimonio de Pedro en casa de Cornelio donde el
+  centurión y todos lo que lo acompañaban esperaban reunidos para escuchar lo que
+  el Señor quisiera comunicarles por medio del apóstol. Pedro, comprendiendo que
+  la verdad de Dios no hace acepción de personas, narra los hechos que él bien
+  conoce: \citalitlar{<<Vosotros conocéis lo que sucedió en toda Judea, comenzando
+    por Galilea, después del bautismo que predicó Juan. Me refiero a Jesús de
+    Nazaret, ungido por Dios con la fuerza del Espíritu Santo, que pasó haciendo
+    el bien y curando a todos los oprimidos por el diablo, porque Dios estaba con
+    él. Nosotros somos testigos de todo lo que hizo en la tierra de los judíos y
+    en Jerusalén. A este lo mataron, colgándolo de un madero. Pero Dios lo
+    resucitó al tercer día y le concedió la gracia de manifestarse, no a todo el
+    pueblo, sino a los testigos designados por Dios: a nosotros, que hemos comido
+    y bebido con él después de su resurrección de entre los
+    muertos.>>\footnote{Hch 10, 37--41}} Este testimonio de los hechos queda
+  enlazado con un testimonio de fe sobre el sentido profundo de lo que Pedro
+  conoce, Jesús, a quien los apóstoles y el pueblo vieron y escucharon es ahora
+  juez de vivos y muertos:
+  \citalitlar{<<Nos encargó predicar al pueblo, dando solemne testimonio de que
+    Dios lo ha constituido juez de vivos y muertos. De él dan testimonio todos los
+    profetas: que todos los que creen en él reciben, por su nombre, el perdón de
+    los pecados.>>\footnote{Hch 10, 42-43}}
 
-La categoría del testimonio en el anuncio pascual es sobre un hecho enraizado en
-la historia, que tiene un alcance religioso y salvífico y que es interpretado
-desde la voluntad de Dios manifestada en los hechos y palabras de Cristo. Sin
-las obras que Jesús realizó, el testimonio apostólico se derrumba, no
-existe.\footnote{Latourelle 1529} Sin la vida y obra, muerte y resurrección de
-Jesús \citalitinterlin{resultamos unos falsos testigos de Dios, porque hemos dado
-  testimonio contra él, diciendo que ha resucitado a Cristo, a quien no ha
-  resucitado}.\footnote{1 Cor 15, 15} Sin embargo, Jesús es testigo verdadero y
-acreditado, en su resurreción se realiza en acto lo que ha
-prometido\footnote{prades 128}, de modo que el testimonio apostólico queda
-acreditado.
+  El apóstol entiende estos hechos y su alcance religioso y salvífico
+  interpretándolos en continuidad con la voluntad de Dios manifestada en su acción
+  en favor del pueblo judío a quién habló por medio de los profetas; voluntad
+  hecha manifiesta en definitva en \citalitinterlin{Jesús el Nazareno, varón
+    acreditado por Dios ante vosotros con los milagros, prodigios y signos que
+    Dios realizó por medio de él, como vosotros mismos sabéis}.\footnote{Hch 2,22}
+
+  Este anuncio es experiencia del Resucitado que comió y bebió con ellos; Cristo
+  vivo; él mismo se apareció a los que él quiso dando testimonio de su
+  resurrección. \citalitinterlin{Cristo glorificado manifiesta su verdad a los que
+    él quiere y esta manifestación es simultaneamente testimonio de su identidad y
+    testimonio de que él es la Vida (1Jn 5,11)}
+
+  El misterio divino que se manifiesta en la Pascua de Jesús no deja de expresarse
+  en el anuncio pascual realizado por los apóstoles. Ellos son testigos de un
+  hecho enraizado en la historia, que tiene un alcance religioso y salvífico y que
+  es interpretado desde la voluntad de Dios manifestada en los hechos y palabras
+  de Cristo. Sin las obras que Jesús realizó, el testimonio apostólico se
+  derrumba, no existe.\footnote{Latourelle 1529} Sin la vida y obra, muerte y
+  resurrección de Jesús \citalitinterlin{resultamos unos falsos testigos de Dios,
+    porque hemos dado testimonio contra él, diciendo que ha resucitado a Cristo, a
+    quien no ha resucitado}.\footnote{1 Cor 15, 15}
+
+  En Cristo, testigo acreditado por su Resurrección, encuentra su cumplimiento la
+  promesa hecha al pueblo de Israel: \citalitinterlin{El Señor, tu Dios, te
+    suscitará de entre los tuyos, de entre tus hermanos, un profeta como yo. A él
+    lo escucharéis}.\footnote{Dt 18, 15 véase intro Jesús de Nazaret} Nos
+  adentramos ahora al Antiguo Testamento para examinar en este el modo en el que
+  se nos describe la Revelación como acto testimonial de Dios.
 #+END_SRC
 
 **** El testimono de Cristo se prolonga en la historia como Resucitado
-enunciados:
+     enunciados:
 Dios lo resucitó
 Relatos sepulcro vacío...
+#+BEGIN_SRC latex
+
+#+END_SRC
 *** El testimonio en el Antiguo Testamento
 #+BEGIN_SRC latex
   \subsection{El testimonio en el Antiguo Testamento}
