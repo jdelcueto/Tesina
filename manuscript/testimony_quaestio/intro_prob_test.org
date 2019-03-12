@@ -900,7 +900,7 @@ sublime, pero su intención no es desacreditar el aspecto religioso de la vida.
 
 
 ** El testimonio en la Sagrada Escritura
-
+*** Texto
 #+BEGIN_SRC latex
   \section{La categoría del Testimonio en la Sagrada Escritura}
   La Iglesia de hoy, como María, conserva el Evangelio meditándolo en su
@@ -995,70 +995,49 @@ sublime, pero su intención no es desacreditar el aspecto religioso de la vida.
   De este modo el anuncio del apóstol Felipe sirve aquí como un ejemplo específico
   del testimonio, que ilustra sin embargo, una noción
   que\citalitinterlin{atraviesa toda la Escritura y se corresponde con la
-    estructura misma de la Revelación.}\footnote{la noción de testimonio atraviesa
+    estructura misma de la revelación.}\footnote{la noción de testimonio atraviesa
     la Escritura y se coresponde con la estructura misma de la Revelación: <<la
     Escritura describe la revelación como una economía del testimonio>>. prades
-    109} Adicionalmente, según Latourelle: \citalitinterlin{El testimonio
-    pertenece al grupo de analogías empleadas por la Escritura para introducir al
-    hombre en las riquezas del misterio divino, por ejemplo las categorías de
-    alianza, de palabra, de paternidad y de filiación.}\footnote{latourelle
-    p.1523}
+    109} El testimonio está presente a lo largo de la Escritura junto a otras
+  categorías como pueden ser la de `alianza', `palabra', `paternidad' o
+  `filiación', como parte del \citalitinterlin{grupo de analogías empleadas por la
+    Escritura para introducir al hombre en las riquezas del misterio
+    divino}.\footnote{latourelle p. 1523}
 
-  Estas consideraciones permiten tener como clave para el estudio de la categoría
-  del testimonio en la escritura
-  entender al testimonio como estructura de la revelación, o la revelación como
-  acto testimonial de Dios
-  entender el testimonio como actividad humana cuyos rasgos el testimonio bíblico
-  asume, pero al mismo tiempo exalta hasta sublimarlos.
+  Esta clave servirá para dar enfoque a un examen sobre la categoría del
+  testimonio en la Escritura. ¿Qué nos dice el Antiguo y el Nuevo Testamento de la
+  revelación como acto testimonial de Dios? Esta pregunta supone que la revelación
+  comparte los rasgos de la actividad humana que es el testimonio, sin embargo,
+  como Latourelle adiverte: \citalitinterlin{globalmente se puede decir que el
+    testimonio bíblico asume pero al mismo tiempo exalta hasta sublimarlos, los
+    rasgos del testimonio humano.}\footnote{cf. latourelle 1526 Globalmente se
+    puede decir que el testimonio bíblico asume pero al mismo tiempo exalta hasta
+    sublimarlos, los rasgos del testimonio humano. latourelle 1526}
 
-  Estas consideraciones permiten valorar la economía de la revelación como
-  manifestación de Dios realizada con una estuctura testimonial y que puede ser
-  comprendida atendiendo los rasgos del testimonio como actividad humana
-
-  La categoría
-  categoría del testimonio entre otras como `alianza', `palabra', `paternidad',
-  como analogías que la escritura emplea para hablar de la manifestación de este
-  Dios salvador, de su identidad y actuar, de su misterio divino en relación con
-  nuestra historia humana.\footnote{El testimonio pertenece al grupo de analogías
-    empleadas por la Escritura para introducir al hombre en las riquezas del
-    misterio divino, por ejemplo las categorías de alianza, de palabra, de
-    paternidad y de filiación. p.1523}
-
-  La revelación de Dios así descrita tiene
-  \emph{estructura testimonial}\footnote{cf. prades 109} de modo que comparte los
-  rasgos del testimonio como actividad humana y éstos la escritura los asume, pero
-  al mismo tiempo los exalta hasta sublimarlos.\footnote{cf. latourelle 1526
-    Globalmente se puede decir que el testimonio bíblico asume pero al mismo
-    tiempo exalta hasta sublimarlos, los rasgos del testimonio humano. 1526}
-
-  La revelación de Dios entendida como acto testimonial suyo tiene como expresión
-  definitiva el misterio pascual de Cristo.\footnote{cf. el misterio pascual al
-    cual tiende toda la existencia terrena de Cristo, constituye el acto
-    testimonial por excelencia de Dios prades 128} Este misterio ocupa el lugar
-  principal en el testimonio bíblico:
+  Cabe añadir una última consideración. La revelación de Dios entendida como acto
+  testimonial suyo tiene como expresión definitiva el misterio pascual de
+  Cristo.\footnote{cf. el misterio pascual al cual tiende toda la existencia
+    terrena de Cristo, constituye el acto testimonial por excelencia de Dios
+    prades 128} Este misterio ocupa el lugar principal en el testimonio bíblico:
   \citalitlar{la Resurrección como ``final'' de la unicidad del acontecimiento de
     Jesucristo, encarnado, muerto y resucitado, subraya específicamente la
     definitividad de la existencia humana salvada por Dios en la carne de Jesús de
     Nazaret, ya que la autocomunicación de Dios ha alcanzado su palabra última en
     la Resurrección de Jesucristo, y por eso es prenda de la resurrección de todos
     los hombres.\footnote{ninot 404}}
-
-  Tras esta descripción general contamos con una buena perspectiva para examinar
-  más detenidamente el papel que juega el testimonio en la escritura; primero en
-  el anuncio pascual como centro y luego en el Antiguo y Nuevo testamento mas
-  ampliamiente.
-
-
-  La Revelación como acto testimonial de Dios en el AT
-
-  La
+  Como tal, parece justo tratar el testimonio que es el misterio pascual en su
+  propio apartado. Y será éste precisamente el punto de partida para esta
+  descripción de la categoría del testimonio en la Escritura.
   #+END_SRC
+*** Notas
 El testimonio en la escritura
-intro:
-la igl no olvida el motivo de su esperanza
-si partimos desde la vivencia de la igle hoy nos encontramos una igl q guarda y transmite
-el motivo de su esperanza
-esta acción evangelizadora la podemos recoger en la exp: palabra vivida en el esp
+
+intro: la igl no olvida el motivo de su esperanza
+
+si partimos desde la vivencia de la igle hoy nos encontramos una igl q guarda y
+transmite el motivo de su esperanza esta acción evangelizadora la podemos recoger en la
+exp: palabra vivida en el esp
+
 esto implica un triple test
 
 esta acción de la iglesa y su tradición es también perpetuación de la accion de cristo/
@@ -1083,8 +1062,6 @@ acto testimonial de Dios en el AT
 acto testimonial de Dios en el NT
 
 *** El testimonio en el anuncio pascual
-#+BEGIN_SRC latex
-  \subsection{El testimonio en el misterio y anuncio pascual}
   Lo que se quiere decir es que
 
   - el misterio pascual (en sí) es el acto testimonial por excelencia de Dios
@@ -1110,12 +1087,14 @@ acto testimonial de Dios en el NT
   el testimonio que Cristo da de éste como revelación/promesa/anuncio
   el testimonio apostólico de éste
   el testimonio de Cristo como resucitado y glorificado
+
+#+BEGIN_SRC latex
+  \subsection{El testimonio en el misterio y anuncio pascual}
 #+END_SRC
 **** El hecho en sí de la Pascua constituye el acto testimonial por excelencia de Dios
 ***** estatuto epistemológico especial
 #+BEGIN_SRC latex
   \ifdraft{\subsubsection{Estatuto espistemológico especial}}{}
-
   <<Cristo ha resucitado>>\footnote{Cf. 1 Tes 4,15; 1Cor 15,12--20; Rom 6,4} es la
   confesión que está en el núcleo del más primitivo anuncio del
   evangelio.\footnote{ninot 403} Creer en esta noticia conlleva acoger la
@@ -1127,12 +1106,29 @@ acto testimonial de Dios en el NT
     suprema y máximo motivo de credibilidad, tal como recuerda el texto citado de
     Pablo ``si Cristo no ha resucitado, nuestra predicación es vana y vana es
     nuestra fe'' (1 Cor 15,14).\footnote{ninot 405}}
-  El misterio al que este anuncio se refiere
+
+  Este misterio pascual no aparece como hecho desconectado del conjunto de la vida
+  y misión de Jesús, sino que hacia él tienden sus obras y palabras desde el
+  comienzo. Cristo pasó por el mundo haciendo el bien, como testimonio de la
+  bondad de Dios, y esta acción va orientada a ese punto culminante que es su
+  pasión, muerte y resurrección; \citalitinterlin{el testimonio que Jesús va
+    ofreciendo durante su vida pública le va a reclamar una entrega definitiva a
+    favor de los que o han acogido y frente a la resistencia que ha generado en
+    quienes le rechazan.}\footnote{prades 127}
 #+END_SRC
 ***** Lc 22,42 testimonio de confianza absoluta en el Padre
 #+BEGIN_SRC latex
   \ifdraft{\subsubsection{Es testimonio y motivo de credibilidad definitvo de
       confianza absoluta en el Padre}}{}
+
+  A lo largo de este camino Jesús manifiesta su confianza en el Padre:
+  \citalitinterlin{Padre, te doy gracias porque me has escuchado; yo sé que tu me
+    escuchas siempre}\footnote{Jn 11, 41b-42a}; esta relación queda afirmada
+  plenamente ante la pasión como confianza puesta en la voluntad del Padre:
+  \citalitinterlin{Padre\ldots que no se haga mi voluntad, sino la
+    tuya}\footnote{Lc 22,42}. De este modo en el misterio pascual queda
+  atestiguada la plena unidad de Cristo con el Padre, en la mayor confianza
+  imaginable.\footnote{prades 127}
 #+END_SRC
 ***** Jn 3 16 testimonio de Amor
 #+BEGIN_SRC latex
