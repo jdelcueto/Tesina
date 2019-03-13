@@ -1161,82 +1161,85 @@ verdadero/falso profeta
   Pasión: \citalitinterlin{Yo para esto he nacido y para esto he venido al mundo:
     para dar testimonio de la verdad. Todo el que es de la verdad escucha mi
     voz.}\footnote{Jn 18,37} En su vida pública y en su misión Cristo ha actuado
-  como profeta, dando a conocer al Padre, a quien nadie ha visto nunca, pero que
-  el Hijo sí conoce.\footnote{cf. Jn 1,18 vease también Jesús de Nazaret 24} En el
-  misterio pascual Jesús se manifiesta como verdadero profeta, acreditado por el
-  hecho mismo de la Resurrección donde se ha realizado en él mismo lo que ha
-  revelado y prometido. \footnote{prades 128}
+  como profeta que anuncia la verdad; da a conocer al Padre, a quien nadie ha
+  visto nunca, pero que el Hijo sí conoce.\footnote{cf. Jn 1,18 vease también
+    Jesús de Nazaret 24} En el misterio pascual Jesús se manifiesta como verdadero
+  profeta, acreditado por el hecho mismo de la Resurrección donde se ha realizado
+  en él mismo lo que ha revelado y prometido. \footnote{prades 128}
 #+END_SRC
 **** El testimonio apostólico de la Pascua anuncia hecho y su valor e interpreta
 si no hay resurrección tampoco cristo y nuestra predicación es vana
 testimonio de pentecostés hch 2
 testimonio cornelio hch 10
 #+BEGIN_SRC latex
-  La resurrección de Cristo no sólo acredita su propio testimonio, sino que
-  sostiene el testimonio apostólico. Si Cristo no ha resucitado sería vana
-  cualquier argumentación, sin embargo, Jesús es <<el Viviente>>, estuvo muerto,
-  pero vive por los siglos de los siglos.\footnote{Ap 1, 17--18}
+    La resurrección de Cristo no sólo acredita su propio testimonio, sino que
+    sostiene el testimonio apostólico. Si Cristo no ha resucitado sería vana
+    cualquier argumentación, sin embargo, Jesús es <<el Viviente>>, estuvo muerto,
+    pero vive por los siglos de los siglos.\footnote{Ap 1, 17--18}
 
-  Los apóstoles son testigos de la vida de Cristo, de sus palabras y acciones,
-  muerte y resurrección. De tal modo son testigos en continuidad con el testimonio
-  de Cristo. El testimonio apostólico es un anuncio de estos hechos que ellos
-  conocen y cuyo valor han reconocido por la fe. Así Pedro proclama estas cosas el
-  día de Pentecostés: \citalitinterlin{A este Jesús lo resucitó Dios, de lo cual
-    todos nosotros somos testigos}.\footnote{Hch 2, 32} El apóstol es testigo en
-  la fe sobre un acontecimiento enraizado en la historia.\footnote{ninot 402 y 406
-    enraizado}
+    Los apóstoles son testigos de la vida de Cristo, de sus palabras y acciones,
+    muerte y resurrección. De tal modo son testigos en continuidad con el testimonio
+    de Cristo. El testimonio apostólico es un anuncio de estos hechos que ellos
+    conocen y cuyo valor han reconocido por la fe. Así Pedro proclama estas cosas el
+    día de Pentecostés: \citalitinterlin{A este Jesús lo resucitó Dios, de lo cual
+      todos nosotros somos testigos}.\footnote{Hch 2, 32} El apóstol es testigo en
+    la fe sobre un acontecimiento enraizado en la historia.\footnote{ninot 402 y 406
+      enraizado}
 
-  Así mismo es presentado el testimonio de Pedro en casa de Cornelio donde el
-  centurión y todos lo que lo acompañaban esperaban reunidos para escuchar lo que
-  el Señor quisiera comunicarles por medio del apóstol. Pedro, comprendiendo que
-  la verdad de Dios no hace acepción de personas, narra los hechos que él bien
-  conoce: \citalitlar{<<Vosotros conocéis lo que sucedió en toda Judea, comenzando
-    por Galilea, después del bautismo que predicó Juan. Me refiero a Jesús de
-    Nazaret, ungido por Dios con la fuerza del Espíritu Santo, que pasó haciendo
-    el bien y curando a todos los oprimidos por el diablo, porque Dios estaba con
-    él. Nosotros somos testigos de todo lo que hizo en la tierra de los judíos y
-    en Jerusalén. A este lo mataron, colgándolo de un madero. Pero Dios lo
-    resucitó al tercer día y le concedió la gracia de manifestarse, no a todo el
-    pueblo, sino a los testigos designados por Dios: a nosotros, que hemos comido
-    y bebido con él después de su resurrección de entre los
-    muertos.>>\footnote{Hch 10, 37--41}} Este testimonio de los hechos queda
-  enlazado con un testimonio de fe sobre el sentido profundo de lo que Pedro
-  conoce, Jesús, a quien los apóstoles y el pueblo vieron y escucharon es ahora
-  juez de vivos y muertos:
-  \citalitlar{<<Nos encargó predicar al pueblo, dando solemne testimonio de que
-    Dios lo ha constituido juez de vivos y muertos. De él dan testimonio todos los
-    profetas: que todos los que creen en él reciben, por su nombre, el perdón de
-    los pecados.>>\footnote{Hch 10, 42-43}}
+    Así mismo es presentado el testimonio de Pedro en casa de Cornelio donde el
+    centurión y todos lo que lo acompañaban esperaban reunidos para escuchar lo que
+    el Señor quisiera comunicarles por medio del apóstol. Pedro, comprendiendo que
+    la verdad de Dios no hace acepción de personas, narra los hechos que él bien
+    conoce: \citalitlar{<<Vosotros conocéis lo que sucedió en toda Judea, comenzando
+      por Galilea, después del bautismo que predicó Juan. Me refiero a Jesús de
+      Nazaret, ungido por Dios con la fuerza del Espíritu Santo, que pasó haciendo
+      el bien y curando a todos los oprimidos por el diablo, porque Dios estaba con
+      él. Nosotros somos testigos de todo lo que hizo en la tierra de los judíos y
+      en Jerusalén. A este lo mataron, colgándolo de un madero. Pero Dios lo
+      resucitó al tercer día y le concedió la gracia de manifestarse, no a todo el
+      pueblo, sino a los testigos designados por Dios: a nosotros, que hemos comido
+      y bebido con él después de su resurrección de entre los
+      muertos.>>\footnote{Hch 10, 37--41}} Este testimonio de los hechos queda
+    enlazado con un testimonio de fe sobre el sentido profundo de lo que Pedro
+    conoce, Jesús, a quien los apóstoles y el pueblo vieron y escucharon es ahora
+    juez de vivos y muertos:
+    \citalitlar{<<Nos encargó predicar al pueblo, dando solemne testimonio de que
+      Dios lo ha constituido juez de vivos y muertos. De él dan testimonio todos los
+      profetas: que todos los que creen en él reciben, por su nombre, el perdón de
+      los pecados.>>\footnote{Hch 10, 42-43}}
 
-  El apóstol entiende estos hechos y su alcance religioso y salvífico
-  interpretándolos en continuidad con la voluntad de Dios manifestada en su acción
-  en favor del pueblo judío a quién habló por medio de los profetas; voluntad
-  hecha manifiesta en definitva en \citalitinterlin{Jesús el Nazareno, varón
-    acreditado por Dios ante vosotros con los milagros, prodigios y signos que
-    Dios realizó por medio de él, como vosotros mismos sabéis}.\footnote{Hch 2,22}
+    El apóstol entiende estos hechos y su alcance religioso y salvífico
+    interpretándolos en continuidad con la voluntad de Dios manifestada en su acción
+    en favor del pueblo judío a quién habló por medio de los profetas; voluntad
+    hecha manifiesta en definitva en \citalitinterlin{Jesús el Nazareno, varón
+      acreditado por Dios ante vosotros con los milagros, prodigios y signos que
+      Dios realizó por medio de él, como vosotros mismos sabéis}.\footnote{Hch 2,22}
 
-  Este anuncio es experiencia del Resucitado que comió y bebió con ellos; Cristo
-  vivo; él mismo se apareció a los que él quiso dando testimonio de su
-  resurrección. \citalitinterlin{Cristo glorificado manifiesta su verdad a los que
-    él quiere y esta manifestación es simultaneamente testimonio de su identidad y
-    testimonio de que él es la Vida (1Jn 5,11)}
+    Este anuncio es experiencia del Resucitado que comió y bebió con ellos;
+    él mismo se apareció a los que él quiso dando testimonio de su
+    resurrección. \citalitinterlin{Cristo glorificado manifiesta su verdad a los que
+      él quiere y esta manifestación es simultaneamente testimonio de su identidad y
+      testimonio de que él es la Vida (1Jn 5,11)}
 
-  El misterio divino que se manifiesta en la Pascua de Jesús no deja de expresarse
-  en el anuncio pascual realizado por los apóstoles. Ellos son testigos de un
-  hecho enraizado en la historia, que tiene un alcance religioso y salvífico y que
-  es interpretado desde la voluntad de Dios manifestada en los hechos y palabras
-  de Cristo. Sin las obras que Jesús realizó, el testimonio apostólico se
-  derrumba, no existe.\footnote{Latourelle 1529} Sin la vida y obra, muerte y
-  resurrección de Jesús \citalitinterlin{resultamos unos falsos testigos de Dios,
-    porque hemos dado testimonio contra él, diciendo que ha resucitado a Cristo, a
-    quien no ha resucitado}.\footnote{1 Cor 15, 15}
+    El misterio divino que se manifiesta en la Pascua de Jesús no deja de expresarse
+    en el anuncio pascual realizado por los apóstoles. Ellos son testigos de un
+    hecho enraizado en la historia, que tiene un alcance religioso y salvífico y que
+    es interpretado desde la voluntad de Dios manifestada en los hechos y palabras
+    de Cristo. Sin las obras que Jesús realizó, el testimonio apostólico se
+    derrumba, no existe.\footnote{Latourelle 1529} Sin la vida y obra, muerte y
+    resurrección de Jesús \citalitinterlin{resultamos unos falsos testigos de Dios,
+      porque hemos dado testimonio contra él, diciendo que ha resucitado a Cristo, a
+      quien no ha resucitado}.\footnote{1 Cor 15, 15}
 
-  En Cristo, testigo acreditado por su Resurrección, encuentra su cumplimiento la
-  promesa hecha al pueblo de Israel: \citalitinterlin{El Señor, tu Dios, te
-    suscitará de entre los tuyos, de entre tus hermanos, un profeta como yo. A él
-    lo escucharéis}.\footnote{Dt 18, 15 véase intro Jesús de Nazaret} Nos
-  adentramos ahora al Antiguo Testamento para examinar en este el modo en el que
-  se nos describe la Revelación como acto testimonial de Dios.
+    En Cristo, testigo acreditado por su Resurrección, encuentra su cumplimiento
+    la promesa hecha al pueblo de Israel: \citalitinterlin{El Señor, tu Dios, te
+      suscitará de entre los tuyos, de entre tus hermanos, un profeta como yo. A
+      él lo escucharéis}.\footnote{Dt 18, 15 véase intro Jesús de Nazaret} Así
+    como el misterio pascual y su anuncio no están desconectados de la vida de
+    Cristo, tampoco lo está de la acción salvadora de Dios en el AT. Como veremos,
+    el misterio divino se manifiesta a un pueblo que también esta llamado a dar
+    testimonio, reconociendo desde la confianza en Dios el valor salvífico de los
+    sucesos de su historia.
 #+END_SRC
 
 **** El testimono de Cristo se prolonga en la historia como Resucitado
@@ -1248,8 +1251,8 @@ Relatos sepulcro vacío...
 #+END_SRC
 *** El testimonio en el Antiguo Testamento
 #+BEGIN_SRC latex
-  \subsection{El testimonio en el Antiguo Testamento}
-
+  \subsection{El acto testimonial de Dios en el Antiguo Testamento}
+#+END_SRC
   I. en el AT se nos describe la revelación como acto testimonial de Dios en estos términos:
   prades 114-115:
 
@@ -1267,7 +1270,7 @@ Relatos sepulcro vacío...
 
 Is 43, 8--12
 
-  la autoridad del testigo no viene de él, sino de su vocación privilegiada y de
+
   su envío. prades 117
 
   lo que escinde este nuevo sentido del testimonio de todos sus usos en el
@@ -1284,8 +1287,129 @@ Is 43, 8--12
   infiel y testarudo y actua irracionalmente rechazando las múltiples pruebas de
   la predilección divina.
 
+#+BEGIN_SRC latex
+  En el AT encontramos ese <<intercambio de testimonios>> que existe en el trato
+  de las tres personas divinas con los hombres.\footnote{cf. Latourelle 1531, ver
+    también apartado de arriba} También aquí la acción testimonial divina se
+  despliega de diversos modos. En la vida del pueblo de la alianza YHWH da
+  testimonio de sí a través de la creación, la ley y, de modo eminente, en
+  personas elegidas y enviadas por él.\footnote{prades 114-115} Esta
+  manifestiación divina implica como testigo al mismo pueblo, hacia quien ha sido
+  dirigida la voz del Señor.
+
+  La literatura sapiencial recoge la profundización en la experiencia de
+  Dios que ha tenido el pueblo de Israel. En ella se describe el acceso posible al
+  conocimiento de Dios a partir de los bienes visibles o de sus obras:
+  \citalitlar{Son necios por naturaleza todos los hombres que han ignorado a Dios
+    y no han sido capaces de conocer al que es a partir de los bienes visibles, ni
+    de reconocer al artífice fijándose en sus obras, sino que tuvieron por dioses
+    al fuego, al viento, al aire ligero, a la bóveda estrellada, al agua impetuosa
+    y a los luceros del cielo, regidores del mundo. Si, cautivados por su
+    hermosura, los creyeron dioses, sepan cuánto los aventaja su Señor, pues los
+    creó el mismo autor de la belleza. Y si los asombró su poder y energía,
+    calculen cuánto más poderoso es quien los hizo, pues por la grandeza y
+    hermosura de las criaturas se descubre por analogía a su creador.\footnote{Sab
+      13,1--5}}
+  El Dios que puede ser reconocido por analogía en el asombro y belleza de las
+  ciraturas es un Dios personal que concede sabiduría al
+  piadoso:\citalitinterlin{Aún quedan misterios mucho más grandes: tan solo hemos
+    visto algo de sus obras. Porque el Señor lo ha hecho todo y a los piadosos les
+    ha dado la sabiduría.}\footnote{Eclo 43,32--33} Esta sabiduria es justicia y
+  raíz de inmortalidad:
+  \citalitlar{Pero tú, Dios nuestro, eres bueno y fiel, eres paciente y todo lo
+    gobiernas con misericordia. Aunque pequemos, somos tuyos y reconocemos tu
+    poder, pero no pecaremos, sabiendo que te pertenecemos. Conocerte a ti es
+    justicia perfecta y reconocer tu poder es la raíz de la
+    inmortalidad.\footnote{Sab 15,1--3}}
+  En este sentido la misma creación es acto testimonial de Dios donde se comunica
+  su misterio y la vida que el ofrece.
+
+  YHWH también aparece en el AT como testigo de los mandamientos contenidos en la
+  Ley.\footnote{prades 115} Ésta queda grabada en las ``tablas del testimonio'' y
+  confiadas a Moisés:\citalitinterlin{Cuando acabó de hablar con Moisés en la
+    montaña del Sinaí, le dio las dos tablas del Testimonio, tablas de piedra
+    escritas por el dedo de Dios.}\footnote{Ex 31,18} Este testimonio se enfrenta
+  a un pueblo con el corazón extraviado:\citalitinterlin{Al acercarse al
+    campamento y ver el becerro y las danzas, Moisés, encendido en ira, tiró las
+    tablas y las rompió al pie de la montaña.}\footnote{Ex 32,19} Sin embargo Dios
+  no se detiene ante el extravío del pueblo. Las tablas del testimonio son
+  reconstruidas:
+  \citalitlar{El Señor dijo a Moisés: <<Labra dos tablas de piedra como las
+    primeras y yo escribiré en ellas las palabras que había en las primeras tablas
+    que tú rompiste.>>\ldots~<<Escribe estas palabras: de acuerdo con estas
+    palabras concierto alianza contigo y con Israel>>.\footnote{Ex 34,1.27}}
+  Moisés, que conoció el nombre del Señor (Ex 3,13s), y habló con Él como un amigo
+  (Ex 33,11), aparece ante el pueblo como testigo del único Dios, y de su lealtad
+  con el pueblo. Así como en Moisés Dios se revela por medio de personas escogidas
+  por él y estos que Él elige como testigos suyos en cada etapa de la historia del
+  pueblo son testimonio de su fidelidad.
+
+  Este es el modo eminente en que el AT describe el testimonio que Dios dirige al
+  pueblo. Los profetas y ungidos por YHWH son testigos del compromiso del Señor
+  con su pueblo expresado en la vida comprometida del propio elegido:
+  \citalitlar{es Dios quien da testimonio de sí mismo y de sus obras y designios a
+    través de las personas elegidas, que se comprometen en su integridad como
+    testigos de YHWH incluso hasta la muerte si el testimonio les lleva a ello.
+    Por eso, la autoridad del testimonio no descansa en los testigos, sino en el
+    mismo YHWH, que es quien los escoge y envía.\footnote{prades 116-117}}
+  En tanto que testigos, la acción de estos escogidos puede ser descrita según los
+  rasgos que tiene la actividad humana de dar testimonio, sin embargo la noción de
+  testigo que aplica a estos elegidos de Dios va más allá de la que encontraríamos
+  en el lenguaje ordinario; son escogidos y enviados por YHWH, por medio de ellos
+  el Señor da testimonio de sí mismo y se propone como quien da sentido y
+  consistencia a toda la realidad humana, este testimonio tiene importancia social
+  puesto que está llamado a ser proclamado y esta proclamación implica el
+  compromiso de los actos y la vida del testigo.\footnote{cf. Latourelle
+    1526--1527} La vida del profeta queda comprometida con un testimonio que no le
+  pertenece, sino que \citalitinterlin{procede de una iniciativa absoluta, en
+    cuanto a su origen y en cuanto a su contenido}\footnote{prades 118}, puesto
+  que viene de Dios y es testimonio de sí. Aquí la categoría de testimonio
+  significa mas allá de su uso ordinario en la actividad humana.
 
 
+  \citalitlar{Saca afuera a un pueblo que tiene ojos, pero está ciego, que tiene
+    oídos, pero está sordo. Que todas las naciones se congreguen y todos los
+    pueblos se reúnan. ¿Quién de entre ellos podría anunciar esto, o proclamar los
+    hechos antiguos? Que presenten sus testigos para justificarse, que los oigan y
+    digan: es verdad. Vosotros sois mis testigos --—oráculo del Señor--—, y
+    también mi siervo, al que yo escogí, para que sepáis y creáis y comprendáis
+    que yo soy Dios. Antes de mí no había sido formado ningún dios, ni lo habrá
+    después. Yo, yo soy el Señor, fuera de mí no hay salvador. Yo lo anuncié y os
+    salvé; lo anuncié y no hubo entre vosotros dios extranjero. Vosotros sois mis
+    testigos --—oráculo del Señor--—: yo soy Dios. Lo soy desde siempre, y nadie
+    se puede liberar de mi mano. Lo que yo hago ¿quién podría deshacerlo?}
+  El siervo es testigo que el Señor ha escogido para que el pueblo sepa, crea y
+  comprenda que YHWH es el único Dios verdadero. Al compartir este saber de Dios
+  con el pueblo, estos también están llamados a ser testigos. Nadie podría
+  anunciar como ellos lo que YHWH ha hecho para proveer, liberar, salvar.
+
+  El pueblo, sin embargo, es un pueblo ciego y sordo. \citalitinterlin{YHWH se
+    enfrenta a un pueblo infiel y testarudo (Jer 2; Os 2; Ez 16) que demuestra la
+    irracionalidad de su obrar al rechazar las múltiples pruebas de la
+    predilección divina}.\footnote{prades 119}
+
+  En el AT la acción testimonial de Dios, perceptible en la naturaleza, en la Ley
+  y de modo eminente en los profetas
+
+  se parece al testimonio profano, pero lo supera, tiene una dimensión religiosa
+
+  el profeta es testigo del absoluto, de los signos históricos, del sentido
+  absoluto de actos redentores
+
+
+  \citalitinterlin{no hay testigo de lo absoluto que no sea testigo de signos
+    históricos, no hay confesor del sentido absoluto que no sea narrador de actos
+    redentores.}\footnote{prades 119; P. Ricoeur Lhermeneutique 44-46}
+
+  Este sentido del testimonio profético distinto de la categoría en el lenguaje
+  ordinario
+
+  El testimonio profético de lo absoluto confesión-profesión y narración son notas
+  constitutivas.
+  no hay testigo
+  El testimonio de YHWH que anuncian los profetas es también narración de los
+  hechos redentores que marcan la historia de la liberación del pueblo de la
+  alianza.\footnote{cf. prades 119} En el
 #+END_SRC
 
 *** El testimonio en el Nuevo Testamento
