@@ -876,7 +876,54 @@ keywords={}
 #+END_SRC
 
 
+** Papa Francisco
+** Papa Benedicto
+** Javier Prades
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@book{prades2015testimonio,
+author = "Javier María Prades",
+title = "Dar Testimonio",
+subtitle = "La Presencia de los Cristianos en la Sociedad Plural",
+publisher = "BAC",
+location = "Madrid",
+year = "2015",
+keywords = "prades, testimonio",
+}
+#+END_SRC
+** René Latourelle
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@incollection{latourelle2000testimonio,
+    editor    = "René Latourelle and Rino Fisichella and Salvador Pié I Ninot",
+    booktitle = "Diccionario de Teología Fundamental",
+    publisher = "San Pablo, Madrid",
+    author    = "René Latourelle",
+    title     = "Testimonio",
+    %volume   = "",
+    %number   = "",
+    %series   = "",
+    %address  = "",
+    edition  = "2",
+    year      = "2000",
+    pages     = "1523--1542",
+    %month    = "",
+    %note     = "",
+    keywords ="testimonio, latourelle",
+}
+#+END_SRC
 
+** Salvador Pié-Ninot
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@book{ninot2009tf,
+author = "Salvador Pié-Ninot",
+title = "La Teología Fundamental",
+subtitle = "Dar Razón de la Esperanza",
+publisher = "Secretariado Trinitario",
+location = "Salamanca",
+year = "2009",
+edition = "7",
+keywords = "ninot, teología fundamental",
+}
+#+END_SRC
 * Testers
 
 #+BEGIN_SRC bibtex :tangle primary.bib
