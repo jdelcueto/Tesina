@@ -532,19 +532,19 @@ de W. y de Ans.
     escucharse en las reflexiones del Papa Francisco en el Ángelus en la Plaza de
     San Pedro, donde destaca el hecho de que la misión de Jesús comience en una zona
     periférica:
-    \citalitlar{Es una tierra de frontera, una zona de tránsito donde se encuentran
-      personas diversas por raza, cultura y religión. La Galilea se convierte así en
-      el lugar simbólico para la apertura del Evangelio a todos los pueblos. Desde
-      este punto de vista, Galilea se asemeja al mundo de hoy: presencia simultánea
-      de diversas culturas, necesidad de confrontación y necesidad de encuentro.
-      También nosotros estamos inmersos cada día en una <<Galilea de los gentiles>>,
-      y en este tipo de contexto podemos asustarnos y ceder a la tentación de
-      construir recintos para estar más seguros, más protegidos. Pero Jesús nos
-      enseña que la Buena Noticia, que Él trae, no está reservada a una parte de la
-      humanidad, sino que se ha de comunicar a todos. Es un feliz anuncio destinado
-      a quienes lo esperan, pero también a quienes tal vez ya no esperan nada y no
-      tienen ni siquiera la fuerza de buscar y pedir.\footnote{PAPA FRANCISCO
-        ÁNGELUS Plaza de San Pedro Domingo 26 de enero de 2014}}
+    \citalitlar{Es una tierra de frontera, una zona de tránsito donde se
+      encuentran personas diversas por raza, cultura y religión. La Galilea se
+      convierte así en el lugar simbólico para la apertura del Evangelio a todos
+      los pueblos. Desde este punto de vista, Galilea se asemeja al mundo de hoy:
+      presencia simultánea de diversas culturas, necesidad de confrontación y
+      necesidad de encuentro. También nosotros estamos inmersos cada día en una
+      <<Galilea de los gentiles>>, y en este tipo de contexto podemos asustarnos y
+      ceder a la tentación de construir recintos para estar más seguros, más
+      protegidos. Pero Jesús nos enseña que la Buena Noticia, que Él trae, no está
+      reservada a una parte de la humanidad, sino que se ha de comunicar a todos.
+      Es un feliz anuncio destinado a quienes lo esperan, pero también a quienes
+      tal vez ya no esperan nada y no tienen ni siquiera la fuerza de buscar y
+      pedir.\autocite{francisco2014angelus}}
 
     Tambíen el Papa Benedicto XVI ofreció su comentario y se fijó en la fuerza de esa
     noticia que Cristo comenzaba a anunciar:
@@ -557,14 +557,13 @@ de W. y de Ans.
       mundo, y el
       verdadero Evangelio es el de Jesucristo.\\
       La ``buena nueva'' que Jesús proclama se resume en estas palabras: ``El reino
-      de Dios —-o reino de los cielos-— está cerca''. ¿Qué significa esta expresión?
+      de Dios —--o reino de los cielos-—- está cerca''. ¿Qué significa esta expresión?
       Ciertamente, no indica un reino terreno, delimitado en el espacio y en el
       tiempo; anuncia que Dios es quien reina, que Dios es el Señor,
       y que su señorío está presente, es actual, se está realizando.\\
       Por tanto, la novedad del mensaje de Cristo es que en él Dios se ha hecho
       cercano, que ya reina en medio de nosotros, como lo demuestran los milagros y
-      las curaciones que realiza.\footnote{BENEDICTO XVI ÁNGELUS Plaza de San Pedro
-        Domingo 27 de enero de 2008}}
+      las curaciones que realiza.\autocite{benedicto2008angelus}}
 
     No sólo en San Pedro, sino que también podría encontrarse este texto en la
     celebración de la eucaristía domincal resonando en las comunidades y parroquias;
@@ -647,8 +646,8 @@ de W. y de Ans.
     configurarían una teoría que nos permitiría juzgar un testimonio concreto como
     valioso, o no, como guía o revelación para nuestras vidas.
 
-    La ruta sugerida por este modo de conducir esta investigación, sin embargo, nos
-    dejaría lejos del modo en que Elizabeth Anscombe se plantea un problema
+    La ruta sugerida por este modo de conducir la investigación, sin embargo, nos
+    dejaría apartados de la manera en que Elizabeth Anscombe se plantea un problema
     filosófico. En el trasfondo de su metodología filosófica está la propuesta por
     Ludwig Wittgenstein. Aunque se verá con más detalle qué implica esto, es
     necesario anticipar ahora algo acerca del modo en que ambos se encaminan a la
@@ -668,7 +667,7 @@ de W. y de Ans.
     Para Wittgenstein es de gran importancia atender el paso que damos para
     resolver la perplejidad causada por el reclamo de explicar un fenómeno. El
     deseo de aclararlo nos puede impulsar a buscar una explicación dentro del
-    fenómeno mismo, o cómo él diría: \citalitinterlin{We feel as if we had to see
+    fenómeno mismo, o como él diría: \citalitinterlin{We feel as if we had to see
       right into phenomena}.\footnote{\S90} Esta predisposición nos puede conducir
     a ignorar la amplitud del modo en que el lenguaje sobre esto es empleado en la
     actividad humana y a enfocarnos sólo en un elemento particular del lenguaje
@@ -926,7 +925,7 @@ sublime, pero su intención no es desacreditar el aspecto religioso de la vida.
   La Evangelización puede ser entendida en este sentido como testimonio de la
   <<palabra de vida>>\footnote{1Jn 1,1} que los apóstoles anuncian como testigos
   de lo que han contemplado y palpado\footnote{1Jn 1,1}. Es también el testimonio
-  del modo de vivir de los cristianos que, acogiendo esta palabra, la viven,
+  de los cristianos que, acogiendo esta palabra, la viven,
   poniendo por obra lo que ella enseña. Es además testimonio del Espíritu Santo
   que internaliza el testimonio externo de la Buena Noticia y lo lleva al
   cumplimiento de la fe en cada persona.\footnote{cf. latourelle, ninot 582} Es el
@@ -1348,7 +1347,7 @@ El pueblo, sin embargo, es un pueblo ciego y sordo. \citalitinterlin{YHWH se
     palabras concierto alianza contigo y con Israel>>.\footnote{Ex 34,1.27}}
   Moisés, que conoció el nombre del Señor (Ex 3,13s), y habló con Él como un amigo
   (Ex 33,11), aparece ante el pueblo como testigo del único Dios, y de su lealtad
-  con el pueblo. En este sentido Moisés es el primero de los profetas. Pertenece a
+  con el pueblo. Pertenece a
   aquellos que el Señor elige como testigos suyos en cada etapa de la historia del
   pueblo de Israel como testimonio suyo y de su fidelidad.
 
@@ -1387,8 +1386,9 @@ El pueblo, sin embargo, es un pueblo ciego y sordo. \citalitinterlin{YHWH se
     testigos --—oráculo del Señor--—: yo soy Dios.\footnote{Is 43,8--12}}
   El siervo es testigo que el Señor ha escogido para que el pueblo sepa, crea y
   comprenda que YHWH es el único Dios verdadero. Al compartir este saber de Dios
-  con el pueblo, estos también están llamados a ser testigos. Ninguna otra nación
+  con el pueblo, éstos también están llamados a ser testigos. Ninguna otra nación
   podría anunciar como ellos lo que YHWH ha hecho para proveer, liberar, salvar.
+
   Así como el profeta, el pueblo es escogido y enviado por YHWH y por medio de él
   el Señor da testimonio de sí mismo y se propone como quien da sentido y
   consistencia a toda la realidad humana. Este testimonio tiene importancia social
@@ -1420,52 +1420,163 @@ Prades Testimonio de Cristo, del E. S. y de los apóstoles
 
 !!!Aquí terminar otra vez con mateo y hablando de el universal concreto
 
+-> Jesús Universal Concreto: testigo singular y testimonio absoluto del absoluto
+Su acción historica, su persona e identidad tienen valor absoluto, esto es singular
+
+    -Su testimonio tiene caracter público y jurídico, es sometido a juicio
+     jn 15 22-24: testimonio con caracter performativo, no es acogido
+    -es testimonio de la Luz
+    -es testimonio del Hijo
+    -cricularidad entre testimonio y su credibilidad
+Juan mismo anuncia lo que ha visto y oído del verbo de la vida para que por la fe en su
+testimonio los hombres entren en comunión de vida con el Padre y con su Hijo.
+
+
+-> Espiritu Santo: testigo de la verdad plena
+    Jn 15, 26 el dará testimonio de mi
+    Jn 16, 13 guiará hasta lverdad plena
+
+latou: El hombre, sin embargo, no sería capaz de acoger por la fe este testimonio del
+absoluto, manifestado en la carne y el lenguaje de Jesús, sin una atracción interior
+(Jn 6,44), que es un don del Padre y un testimonio del Espíritu (1Jn 5,9--10).
+
+En este momento, el testimonio se interioriza casi por completo, ya que se dice que el
+que cree en Cristo tiene dentro de sí el testimonio de Dios. El testimonio que el
+creyente posee en sí mismo es el testimonio que el Espíritu da del Hijo.
+
+-> los apostoles son testigos: martires
+lc 24,48 los apósotles serán testigos de estas cosas
+
+su testimonio es anuncio de un acontecimiento presente y abierto al futuro, que sigue
+aconteciendo en el tiempo... prades 146
+
+la cadena de transmisión viva del testimonio cristiano tiene dos aspectos históricos
+inseparables. como dos momentos históricos de un único testimonio pospascual prades 148
+
+-> su finalidad es el bautismo prades 150
+
+-> en conclusión:
+testimonio es estructura de la revelación. el que la revelación tenga esta forma nos
+dice que la revelación es una forma suprema de amor y libertad que tiene su raiz en el
+Don de Dios. El hecho de ser una comunicción libre y amorosa nos muestra su aspecto
+profundamente humano; el hecho de que es don de Dios nos muestra su aspecto no
+solamente humano. prades 152
+
+lo que se quiere decir aquí es que
+en el nuevo testamento la acción testimonial de Dios mas eminente en el AT que es
+hablar por medio de un elegido adquiere todavía una dimensión más sublime porque Jesús
+es manifestación concreta del absoluto. Este testimonio absoluto no puede ser acogido
+sin una atracción interior que es testimonio del Espíritu. El único testimonio
+pospascual se realiza en el tiempo en los testigos oculares y los martires, testigos de
+compromiso. la finalidad del testimonio es el bautismo.
+
+decir que dios se revela al modo de un testimonio es decir que su revelación es acto de
+libertad y amor, que interpela la libertad nuestra.
+
+la revelación es testimonio del hijo, del padre y del espíritu como acción libre suya
+que es el motivo de credibilidad, es don de Dios
+
+la revelación es testimonio de una comunicación que interpela nuestra libertad que ha
+de acoger la verdad comunicada que es Dios mismo.
+
 #+BEGIN_SRC latex
   \subsection{La acción testimonial de Dios en el Nuevo Testamento}
-  El día que Jesús llegó a Cafarnaún a comenzar su predicación se cumplieron las
-  promesas que Dios había hecho por medio de los profetas. Ese día el Reino de los
-    cielos quedó desvelado en su cercanía. Allí la vida de los primeros discípulos
-  cambió al punto y definitivamente. El testimonio de Cristo \citalitinterlin{no
-    se limita a proponer una cierta inspiración espiritual o un cierto sentido
-    ético para el obrar de la persona o del pueblo, sino que pretende ser
-    radicalmente ``testimonio de la verdad'' (Jn 18,37) de alcance
-    universal.}\autocite[126]{prades2015testimonio} Jesús es testimonio de
-  carácter singular,\autocite[Cf.][279]{ninot2009tf} en quien se da a conocer el
-  momento de la plenitud de la salvación,\autocite[Cf.][290]{ninot2009tf}
-  presencia del hombre nuevo y ``paradigma universal de
-  humanidad''\autocite[Cf.][291]{ninot2009tf}. Este valor universal de la verdad
-  que se comunica en Jesús se desarrolla y se manifiesta en sus acciones
-  concretas: comiendo con los pecadores o sanando a los enfermos es donde se
-  muestra \citalitinterlin{el camino, la verdad y la vida}\footnote{Cf.~Jn 14,6}
-  para todos.
+  El Evangelio de Mateo enseña que el día que Jesús llegó a Cafarnaún a comenzar
+  su predicación se cumplieron las promesas que Dios había hecho por medio de los
+  profetas. Ese día el Reino de los cielos quedó desvelado en su cercanía. Allí la
+  vida de los primeros discípulos cambió al punto y definitivamente. El testimonio
+  de Cristo no es cualquier anuncio o cualquier hecho, sino que tiene un valor
+  absoluto. Jesús de Nazaret \citalitinterlin{no se limita a proponer una cierta
+    inspiración espiritual o un cierto sentido ético para el obrar de la persona o
+    del pueblo, sino que pretende ser radicalmente ``testimonio de la verdad'' (Jn
+    18,37) de alcance universal.}\autocite[126]{prades2015testimonio} Jesús es
+  testimonio de carácter singular,\autocite[Cf.][279]{ninot2009tf} en quien se da
+  a conocer el momento de la plenitud de la
+  salvación,\autocite[Cf.][290]{ninot2009tf} presencia del hombre nuevo y
+  ``paradigma universal de humanidad''\autocite[Cf.][291]{ninot2009tf}. Este valor
+  universal de la verdad que se comunica en Jesús se desarrolla y se manifiesta en
+  sus acciones concretas: comiendo con los pecadores o sanando a los enfermos es
+  donde se muestra \citalitinterlin{el camino, la verdad y la
+    vida}\footnote{Cf.~Jn 14,6} para todos.
 
-  Este testimonio de Cristo, su vida, actos y palabras, fue sometido al
-  juicio de sus contemporaneos que se asombran y se cuestionan ante su autoridad:
+  Este testimonio de Cristo, su vida, actos y palabras, fue sometido al juicio de
+  sus contemporaneos. Asombrados porque no enseña como los demás y por las signos
+  que realiza, se cuestionan sobre su autoridad y poder. Entonces Jesús también
+  tiene que ofrecer testimonio de su credibilidad. La respuesta a este juicio del
+  pueblo se halla en su ministerio en sintonía con las Escrituras:
+  \citalitinterlin{Hoy se ha cumplido esta Escritura que acabáis de
+    oir}\footnote{Lc 4,21}; donde el pueblo puede encontrar la vida y el sentido
+  que buscan: \citalitinterlin{estudiáis las Escrituras pensando encontrar en
+    ellas vida eterna; pues ellas están dando testimonio de mi, ¡y no queréis
+    venir a mí para tener vida!}\footnote{Jn 5, 39--40}. El testimonio de
+  credibilidad de Jesús ante el pueblo se encuentra también en sus obras, que son
+  las obras del Padre y son confirmación y realización de sus enseñanzas:
+  \citalitinterlin{Si no hago las obras de mi Padre, no me creáis, pero si las
+    hago, aunque no me creáis a mí, creed a las obras, para que comprendáis y
+    sepáis que el Padre está en mí y yo en el Padre}\footnote{Jn 10,38}.
+
+  El singular testimonio de Cristo es comunicación de la verdad con valor
+  universal. El testimonio de Cristo es también su actividad e identidad que hacen
+  creíble lo que comunica. De este modo entre lo que Jesús testimonia y la
+  credibilidad que suscita su testimonio hay una circularidad constante:
   \citalitlar{La pretensión única que encerraba su testimonio resultaba tan
     exorbitante que hubiera sido inaceptable para los hombres si no fuera porque
     sus obras, sus palabras y, en rigor, su presencia misma, lo hacían
     profundamente razonable en su
     singularidad.\autocite[124]{prades2015testimonio}}
 
-  En cuanto testigo, Jesús actua como el Hijo y su testimonio es acción
-  trinitaria. Cristo revela al Padre y comunica al Espíritu, y su identidad de
-  Hijo es manifestada como acción del Padre y del Espíritu:
-  \citalitinterlin{Apenas se bautizó Jesús, salió del agua; se abrieron los cielos
-    y vio que el Espíritu de Dios bajaba como una paloma y se posaba sobre él. Y
-    vino una voz de los cielos que decía: <<Este es mi Hijo amado, en quien me
-    complazco>>.}\footnote{Mt 4,16--17}
-  Esta presencia trinitaria en el testimonio de Jesús es descrita por Latourelle
-  en estas palabras:
+  Acoger el testimonio de Jesús es escuchar la Escritura y creer en las obras del
+  Padre. Sin embargo la palabra de Cristo choca con el odio de aquellos que son
+  hostiles a la verdad y que, rechazando su testimonio, se juzgan a sí
+  mismos.\footnote{Pero la palabra de Cristo choca con la contestación y el odio.
+    Enfrentados con Cristo, los judíos, que representan al conjunto del mundo
+    hostil a la verdad, rechazan su testimonio y se juzgan a sí
+    mismos.}\autocite[1530]{latourelle2000testimonio} \citalitlar{Si yo no hubiera
+    venido y no les hubiera hablado, no tendrían pecado, pero ahora no tienen
+    excusas de su pecado. El que me odia a mí, odia también a mi Padre. Si yo no
+    hubiera hecho en medio de ellos obras que ningún otro ha hecho, no tendrían
+    pecado, pero ahora las han visto y me han odiado a mí y a mi Padre\footnote{Jn
+      15,22--24}}
+
+  Jesús es \citalitinterlin{la luz que brilla en la tiniebla y la tiniebla no la
+    recibió}\footnote{Jn 1,5}. Jesús es el \citalitinterlin{unigénito, que está en
+    el seno del Padre, es quien lo ha dado a conocer}\footnote{Jn 1,18}. Este
+  testimonio es manifestación de la comunión trinitaria. Cristo revela al Padre y
+  comunica al Espíritu, y su identidad de Hijo es manifestada como acción del
+  Padre y del Espíritu: \citalitinterlin{Apenas se bautizó Jesús, salió del agua;
+    se abrieron los cielos y vio que el Espíritu de Dios bajaba como una paloma y
+    se posaba sobre él. Y vino una voz de los cielos que decía: <<Este es mi Hijo
+    amado, en quien me complazco>>.}\footnote{Mt 4,16--17}
+
+  La acción testimonial de Dios que se describe en el Nuevo Testamento está
+  concentrada en la persona de Cristo y en su relación manifiesta con el Padre y
+  el Espíritu se expresa el testimonio de la Trinidad misma:
   \citalitlar{la Escritura describe la actividad reveladora de la trinidad en
     forma de testimonios mutuos. El Hijo es el testigo del padre, y como tal se da
-    a conocer a los apóstoles. A su vez, elPadre da tambien testimonio de que
+    a conocer a los apóstoles. A su vez, el Padre da también testimonio de que
     Cristo es el Hijo, por la atracción que produce en las almas, por las obras
     que da al Hijo para que las realice y sobre todo por la resurrección,
     testimonio decisivo del Padre en favor del Hijo. El Hijo da testimonio del
-    Espiritu porque promete enviarlo como educador, consolador, santificador. Y el
+    Espíritu porque promete enviarlo como educador, consolador, santificador. Y el
     Espíritu viene y da testimonio del hijo porque le recuerda, le da a conocer,
-    descubre la plenitud de sentido de sus palabras, lo insinua en las almas.
-    prades 131}
+    descubre la plenitud de sentido de sus palabras, lo insinua en las
+    almas.\footnote{de Latourelle, Teología de la Revelación 410
+      en\autocite[131]{prades2015testimonio}}}
+
+  Esta actividad reveladora de la trinidad introduce al ser humano en la comunión
+  trinitaria. El apostol Juan expresa esto mismo como la finalidad de su
+  testimonio: \citalitinterlin{Eso que hemos visto y oído os lo anunciamos, para
+    que estéis en comunión con nosotros y nuestra comunión es con el Padre y con
+    su Hijo Jesucristo.}\footnote{1Jn 1,3}
+
+  En Cristo
+
+  \citalitlar{Cristo es, por tanto, el testigo absoluto, el que lleva en sí mismo
+    la garantía de su testimonio. El hombre, sin embargo, no sería capaz de acoger
+    por la fe este testimonio del absoluto, manifestado en la carne y el lenguaje
+    de Jesús, sin una atracción interior (Jn 6,44), que es un don del Padre y un
+    testimonio del Espíritu (1Jn 5,9--10).\autocite{latourelle2000testimonio}}
+
 
   Los apóstoles no son solamente testigos oculares de estas cosas (autoptai) sino
   que son martyr, testigos con un compromiso personal. Hch 1,21 lucas reserva para
@@ -1476,7 +1587,6 @@ Prades Testimonio de Cristo, del E. S. y de los apóstoles
   Resucitado y en virtud de esta elección se convertirá en testigo de su
   resurrección.
 
-  En Juan lo esencial es la función reveladora del testimonio
 
 
 #+END_SRC
@@ -1503,3 +1613,38 @@ p. 572
   ético-antropológico
   teológico
 ** El problema del testimonio
+texto de rosseau Prades 243
+lessing
+Hume
+tres objeciones (Prades 294)
+no se puede tener conocimiento directo de milagros o profecías
+en la vida social cabe aceptar un conocimiento por testimonio a condición de que su
+grado de certeza se limite a la probabilidad
+no se puede aceptar una comunicación divina que no sea inmediatamente dirigida al
+individuo
+
+Prades 295
+
+racionalismo y empirismo convergen en su visión negativa del testimonio al poner en
+cuestión la validez de una autoridad externa en orden al conocimiento verdadero
+
+tengamos en cuenta que la Revelación remite a acontecimientos históricos que la razón
+moderna no está dispuesta a tomar en consideración porque no le reconoce valor
+universal.
+
+divorcio entre mediación testimonial y razón universal
+
+refutado el testimonio como transmisión histórica del saber revelado, dicho saber es
+sustituido por el saber ético y religioso accesible a la razón natural y capaz de ser
+atestiguado fundamentalmente por medio del buen ejemplo ético.
+
+desafío lanzado por la filosofía moderna
+
+Prades 297
+puede el hombre conocer el absoluto en la historia?
+
+hume y la tesis reduccionista
+
+
+Prades 298 el conocimiento de la verdad mediante testigos
+el conocimiento testimonial de la verdad de Dios en la historia 329
