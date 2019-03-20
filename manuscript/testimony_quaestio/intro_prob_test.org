@@ -1638,84 +1638,215 @@ de acoger la verdad comunicada que es Dios mismo.
 #+END_SRC
 
 ** El testimonio en el Magisterio
+   :LOGBOOK:
+   CLOCK: [2019-03-20 Wed 16:16]--[2019-03-20 Wed 16:41] =>  0:25
+   CLOCK: [2019-03-20 Wed 15:46]--[2019-03-20 Wed 16:11] =>  0:25
+   CLOCK: [2019-03-20 Wed 11:48]--[2019-03-20 Wed 12:13] =>  0:25
+   CLOCK: [2019-03-20 Wed 11:15]--[2019-03-20 Wed 11:40] =>  0:25
+   CLOCK: [2019-03-20 Wed 10:40]--[2019-03-20 Wed 11:05] =>  0:25
+   CLOCK: [2019-03-20 Wed 10:05]--[2019-03-20 Wed 10:30] =>  0:25
+   :END:
 
 Decálogo sobre el testimonio AG 11 (572 tf ninot)
 Evangelii Nuntiandi n21
 
 #+BEGIN_SRC latex
-  \section{La Categoría del Testimonio en el Magisterio}
-  En el apartado anterior se ha descrito la categoría del testimonio como noción
-  que atraviesa toda la Escritura y que está presente como la estructura o forma
-  de la revelación divina. Aquí se ofrecerá una descripción basada en el Concilio
-  Vaticano II y algunos textos posteriores.
+  \section{Iglesia como signo sacramental el Testimonio en el Magisterio Reciente}
+  Nuestro recorrido comenzó al inicio de este capítulo tomando como punto de
+  partida a la Iglesia como signo visibile. La vida de la comunidad eclesial, sus
+  costumbres y actitudes, son presencia histórica y realidad perceptible. La
+  Iglesia puede ser reconocida hoy actuando según su costumbre de reunirse en
+  torno a la Palabra de Dios para celebrarla y conocer la verdad para su vida. Lo
+  que se vive hoy y se ha transmitido en la tradición eclesial lo hemos valorado
+  como perpetuación de la actividad de Cristo y de los apóstoles y, por tanto,
+  como proyección del testimonio divino. En este sentido hemos considerado la
+  presencia de la Revelación divina en el corazón y anuncio de la Iglesia como
+  triple testimonio usando la expresión de Latourelle: <<palabra vivida en el
+  Espíritu>>. Esta reflexión ha querido servir para describir la naturaleza de la
+  Revelación como experiencia familiar en la vida de la Iglesia. La noción de la
+  categoría del testimonio que atraviesa la escritura ha servido para valorar la
+  naturaleza de la Revelación según su estructura testimonial.
+
+  Así como la categoría del testimonio ha servido para decir algo sobre la
+  Revelación en la Escritura, ahora se pretende decir algo sobre lo que la
+  categoría del testimonio puede aportar para comprender la identidad de la
+  Iglesia y su misión en el mundo y cómo ésta forma parte del dinamismo de la
+  Revelación divina.
+
+  Con Latourelle se ha dicho que el testimonio es una de esas categorías que la
+  escritura emplea como analogía para introducirnos al misterio divino. El
+  Concilio nos regala otra analogía que va de la mano con la categoría del
+  testimonio en la comprensión de la Iglesia y su misión:
+  \citalitlar{la sociedad provista de sus órganos jerárquicos y el Cuerpo místico de
+  Cristo, la asamblea visible y la comunidad espiritual, la Iglesia terrestre y la
+  Iglesia enriquecida con los bienes celestiales, no deben ser consideradas como
+  dos cosas distintas, sino que más bien forman una realidad compleja que está
+  integrada de un elemento humano y otro divino. Por eso se la compara, por una
+  notable analogía, al misterio del Verbo encarnado, pues así como la naturaleza
+  asumida sirve al Verbo divino como de instrumento vivo de salvación unido
+  indisolublemente a Él, de modo semejante la articulación social de la Iglesia
+  sirve al Espíritu Santo\footnote{LG 8}}
+
+  La visibilidad de la Iglesia está al servicio del Espíritu Santo de modo que su
+  naturaleza humana sirve a la presencia divina como instrumento vivo de
+  salvación. La presencia de la articulación social de la Iglesia actua de manera
+  análoga a la presencia de Cristo. Según esto se puede decir que
+  \citalitinterlin{la eclesiología se resuelve en la Cristología y por eso el
+    ``lugar'' de la Iglesia en el acto de creer será ``análogo'' al de
+    Cristo}.\autocite[566]{ninot2009tf} Esta relación con Cristo y el Espíritu
+  otorgan a la Iglesia valor sacramental:
+  \citalitlar{Porque Cristo, levantado sobre la tierra, atrajo hacia sí a todos
+    (cf. Jn 12, 32 gr.); habiendo resucitado de entre los muertos (Rm 6, 9), envió
+    sobre los discípulos a su Espíritu vivificador, y por El hizo a su Cuerpo, que
+    es la Iglesia, sacramento universal de salvación; estando sentado a la derecha
+    del Padre, actúa sin cesar en el mundo para conducir a los hombres a la
+    Iglesia y, por medio de ella, unirlos a sí más estrechamente y para hacerlos
+    partícipes de su vida gloriosa alimentándolos con su cuerpo y sangre. Así que
+    la restauración prometida que esperamos, ya comenzó en Cristo, es impulsada
+    con la misión del Espíritu Santo y por Él continúa en la Iglesia, en la cual
+    por la fe somos instruidos también acerca del sentido de nuestra vida
+    temporal, mientras que con la esperanza de los bienes futuros llevamos a cabo
+    la obra que el Padre nos encomendó en el mundo y labramos nuestra salvación
+    (cf. Flp 2, 12).\footnote{LG 48}}
+  Esta Iglesia que es sacramento es mediación de acción salvadora de Dios;
+  comunica los dones de la gracia y manifiesta el misterio de Dios:
+  \citalitlar{Todo el bien que el Pueblo de Dios puede dar a la familia humana al
+    tiempo de su peregrinación en la tierra, deriva del hecho de que la Iglesia es
+    "sacramento universal de salvación", que manifiesta y al mismo tiempo realiza
+    el misterio del amor de Dios al hombre.\footnote{GS 45}}
+
+  La Iglesia en el mundo es así uno de los signos contenidos en la Revelación que
+  ayudan a la razón que busca la comprensión del misterio. El signo sacramental
+  que es la Iglesia permite atestiguar desde la fe el misterio de Dios que en ella
+  se expresa del mismo modo que ocurre con la Eucaristía o la presencia de Cristo
+  encarnado:
+  \citalitlar{Podemos fijarnos, en cierto modo, en el horizonte sacramental de la
+    Revelación y, en particular, en el signo eucarístico donde la unidad
+    inseparable entre la realidad y su significado permite captar la profundidad
+    del misterio. Cristo en la Eucaristía está verdaderamente presente y vivo, y
+    actúa con su Espíritu, pero como acertadamente decía Santo Tomás, <<lo que no
+    comprendes y no ves, lo atestigua una fe viva, fuera de todo el orden de la
+    naturaleza. Lo que aparece es un signo: esconde en el misterio realidades
+    sublimes>>. A este respecto escribe el filósofo Pascal: <<Como Jesucristo
+    permaneció desconocido entre los hombres, del mismo modo su verdad permanece,
+    entre las opiniones comunes, sin diferencia exterior. Así queda la Eucaristía
+    entre el pan común>>.\footnote{FR 13}}
+  El misterio sublime que aparece en un signo puede ser atestiguado por la fe
+  viva. El asentimiento al signo sacramental por la fe implica el reconocimiento
+  que viene de Dios y por tanto es creer a quien es garante de su propia verdad.
+  Este asentimiento implica a la persona por completo:
+  \citalitlar{Desde la fe el hombre da su asentimiento a ese testimonio divino.
+    Ello quiere decir que reconoce plena e integralmente la verdad de lo revelado,
+    porque Dios mismo es su garante. Esta verdad, ofrecida al hombre y que él no
+    puede exigir, se inserta en el horizonte de la comunicación interpersonal e
+    impulsa a la razón a abrirse a la misma y a acoger su sentido profundo. Por
+    esto el acto con el que uno confía en Dios siempre ha sido considerado por la
+    Iglesia como un momento de elección fundamental, en la cual está implicada
+    toda la persona. Inteligencia y voluntad desarrollan al máximo su naturaleza
+    espiritual para permitir que el sujeto cumpla un acto en el cual la libertad
+    personal se vive de modo pleno.\footnote{FR 13}}
+  La acogida del misterio divino comunicado en el signo sacramental es así un acto
+  de libertad plena que no sólo permite reconocer el misterio de Dios, sino que
+  nos desvela nuestra vocación de comunión con Él, que es nuestro sentido más
+  auténtico:
+  \citalitlar{El conocimiento de fe, en definitiva, no anula el misterio; sólo lo
+    hace más evidente y lo manifiesta como hecho esencial para la vida del hombre:
+    Cristo, el Señor, <<en la misma revelación del misterio del Padre y de su
+    amor, manifiesta plenamente el hombre al propio hombre y le descubre la
+    grandeza de su vocación>>, que es participar en el misterio de la vida
+    trinitaria de Dios.\footnote{FR 13}}
+
+  La Iglesia es signo sacramental unido inseparablemente al misterio divino que
+  comunica, de modo análogo a la unión del Verbo divino y la naturaleza asumida
+  por Él. El conocimiento de la fe abre la razón humana a la verdad revelada como
+  comunicación interpersonal de Dios realizada por medio de este signo sacramental
+  que es la Iglesia. Este acto de confianza es movimiento de la libertad como
+  asentimiento y elección de Dios que se revela y acogida de su llamada a
+  participar de la comunión trinitaria. Aquí sacramento y testimonio son
+  categorías que interactuan para describir el acceso al misterio divino que se
+  comunica a través de signos. Esta Iglesia que es signo sacramental es signo
+  creíble por el testimonio de la vida comprometida con el misterio de amor que
+  significa: \citalitlar{La misión primera y fundamental que recibimos de los
+    santos Misterios que celebramos es la de dar testimonio con nuestra vida. El
+    asombro por el don que Dios nos ha hecho en Cristo infunde en nuestra vida un
+    dinamismo nuevo, comprometiéndonos a ser testigos de su amor. Nos convertimos
+    en testigos cuando, por nuestras acciones, palabras y modo de ser, aparece
+    Otro y se comunica. Se puede decir que el testimonio es el medio con el que la
+    verdad del amor de Dios llega al hombre en la historia, invitándolo a acoger
+    libremente esta novedad radical. En el testimonio Dios, por así decir, se
+    expone al riesgo de la libertad del hombre. Jesús mismo es el testigo fiel y
+    veraz (cf. Ap 1,5; 3,14); vino para dar testimonio de la verdad (cf. Jn
+    18,37). Con estas reflexiones deseo recordar un concepto muy querido por los
+    primeros cristianos, pero que también nos afecta a nosotros, cristianos de
+    hoy: el testimonio hasta el don de sí mismos, hasta el martirio, ha sido
+    considerado siempre en la historia de la Iglesia como la cumbre del nuevo
+    culto espiritual: <<Ofreced vuestros cuerpos>> (Rm 12,1). Se puede recordar,
+    por ejemplo, el relato del martirio de san Policarpo de Esmirna, discípulo de
+    san Juan: todo el acontecimiento dramático es descrito como una liturgia, más
+    aún como si el mártir mismo se convirtiera en Eucaristía. Pensemos también en
+    la conciencia eucarística que san Ignacio de Antioquía expresa ante su
+    martirio: él se considera <<trigo de Dios>> y desea llegar a ser en el
+    martirio <<pan puro de Cristo>>. El cristiano que ofrece su vida en el
+    martirio entra en plena comunión con la Pascua de Jesucristo y así se
+    convierte con Él en Eucaristía. Tampoco faltan hoy en la Iglesia mártires en
+    los que se manifiesta de modo supremo el amor de Dios. Sin embargo, aun cuando
+    no se requiera la prueba del martirio, sabemos que el culto agradable a Dios
+    implica también interiormente esta disponibilidad, y se manifiesta en el
+    testimonio alegre y convencido ante el mundo de una vida cristiana coherente
+    allí donde el Señor nos llama a anunciarlo.\footnote{SCa 85}} El testimonio
+  hasta el don de nosotros mismos se convierte en signo sacramental, el cristiano
+  que ofrece su vida por completo como testigo entra en comunión con la Pascua y
+  se convierte con Cristo en Eucaristía. La vida entregada, este signo
+  sacramental, es el medio adecuado para comunicar la comunión con Dios:
+  \citalitlar{En efecto, la fe necesita un ámbito en el que se pueda testimoniar y
+    comunicar, un ámbito adecuado y proporcionado a lo que se comunica. Para
+    transmitir un contenido meramente doctrinal, una idea, quizás sería suficiente
+    un libro, o la reproducción de un mensaje oral. Pero lo que se comunica en la
+    Iglesia, lo que se transmite en su Tradición viva, es la luz nueva que nace
+    del encuentro con el Dios vivo, una luz que toca la persona en su centro, en
+    el corazón, implicando su mente, su voluntad y su afectividad, abriéndola a
+    relaciones vivas en la comunión con Dios y con los otros. Para transmitir esta
+    riqueza hay un medio particular, que pone en juego a toda la persona, cuerpo,
+    espíritu, interioridad y relaciones. Este medio son los sacramentos,
+    celebrados en la liturgia de la Iglesia. En ellos se comunica una memoria
+    encarnada, ligada a los tiempos y lugares de la vida, asociada a todos los
+    sentidos; implican a la persona, como miembro de un sujeto vivo, de un tejido
+    de relaciones comunitarias. Por eso, si bien, por una parte, los sacramentos
+    son sacramentos de la fe, también se debe decir que la fe tiene una estructura
+    sacramental. El despertar de la fe pasa por el despertar de un nuevo sentido
+    sacramental de la vida del hombre y de la existencia cristiana, en el que lo
+    visible y material está abierto al misterio de lo eterno. \footnote{LF 40}}
+
+  Esta presencia de los sacramentos por la celebración de la Iglesia permite
+  despertar a un nuevo sentido de la vida de las personas en el que lo visible se
+  abre al misterio de lo eterno. El testimonio de los crisitanos sirve a la fe genera
+  las preguntas e inquietudes y eliminando obstaculos a la libertad que busca a Dios.
 
 
-  Continuamos en donde nos dejaba el punto anterior, el bautismo
+  \citalitlar{La Buena Nueva debe ser proclamada en primer lugar, mediante el
+    testimonio. Supongamos un cristiano o un grupo de cristianos que, dentro de la
+    comunidad humana donde viven, manifiestan su capacidad de comprensión y de
+    aceptación, su comunión de vida y de destino con los demás, su solidaridad en
+    los esfuerzos de todos en cuanto existe de noble y bueno. Supongamos además
+    que irradian de manera sencilla y espontánea su fe en los valores que van más
+    allá de los valores corrientes, y su esperanza en algo que no se ve ni osarían
+    soñar. A través de este testimonio sin palabras, estos cristianos hacen
+    plantearse, a quienes contemplan su vida, interrogantes irresistibles: ¿Por
+    qué son así? ¿Por qué viven de esa manera? ¿Qué es o quién es el que los
+    inspira? ¿Por qué están con nosotros? Pues bien, este testimonio constituye ya
+    de por sí una proclamación silenciosa, pero también muy clara y eficaz, de la
+    Buena Nueva. Hay en ello un gesto inicial de evangelización. Son posiblemente
+    las primeras preguntas que se plantearán muchos no cristianos, bien se trate
+    de personas a las que Cristo no había sido nunca anunciado, de bautizados no
+    practicantes, de gentes que viven en una sociedad cristiana pero según
+    principios no cristianos, bien se trate de gentes que buscan, no sin
+    sufrimiento, algo o a Alguien que ellos adivinan pero sin poder darle un
+    nombre. Surgirán otros interrogantes, más profundos y más comprometedores,
+    provocados por este testimonio que comporta presencia, participación,
+    solidaridad y que es un elemento esencial, en general al primero absolutamente
+    en la evangelización.\footnote{EN 21}}
 
-
-  21. La Buena Nueva debe ser proclamada en primer lugar, mediante el testimonio.
-  Supongamos un cristiano o un grupo de cristianos que, dentro de la comunidad
-  humana donde viven, manifiestan su capacidad de comprensión y de aceptación, su
-  comunión de vida y de destino con los demás, su solidaridad en los esfuerzos de
-  todos en cuanto existe de noble y bueno. Supongamos además que irradian de
-  manera sencilla y espontánea su fe en los valores que van más allá de los
-  valores corrientes, y su esperanza en algo que no se ve ni osarían soñar. A
-  través de este testimonio sin palabras, estos cristianos hacen plantearse, a
-  quienes contemplan su vida, interrogantes irresistibles: ¿Por qué son así? ¿Por
-  qué viven de esa manera? ¿Qué es o quién es el que los inspira? ¿Por qué están
-  con nosotros? Pues bien, este testimonio constituye ya de por sí una
-  proclamación silenciosa, pero también muy clara y eficaz, de la Buena Nueva. Hay
-  en ello un gesto inicial de evangelización. Son posiblemente las primeras
-  preguntas que se plantearán muchos no cristianos, bien se trate de personas a
-  las que Cristo no había sido nunca anunciado, de bautizados no practicantes, de
-  gentes que viven en una sociedad cristiana pero según principios no cristianos,
-  bien se trate de gentes que buscan, no sin sufrimiento, algo o a Alguien que
-  ellos adivinan pero sin poder darle un nombre. Surgirán otros interrogantes, más
-  profundos y más comprometedores, provocados por este testimonio que comporta
-  presencia, participación, solidaridad y que es un elemento esencial, en general
-  al primero absolutamente en la evangelización[51].
-
-  Todos los cristianos están llamados a este testimonio y, en este sentido, pueden
-  ser verdaderos evangelizadores. Se nos ocurre pensar especialmente en la
-  responsabilidad que recae sobre los emigrantes en los países que los reciben.
-
-
-
-
-
-  quién es la iglesia y cuál es su misión? en el contexto de esta pregnuta aparece
-  la categoría del testimonio
-
-  GS 43 como superar la separación fe y vida
-
-  el sujeto del testimonio es el bautizado FR 13
-
-
-  \subsubsection{Testimonio como misión de la Iglesia en el Concilio Vaticano II}
-
-  \emph{ ``Lo que el Vaticano I entendía por el signo de la Iglesia, se concentra
-    ahora en la categoría de testimonio. Una vez percibida esta trasposición, se
-    constata que el tema del testimonio es uno de los temas principales y
-    privilegiados del Vaticano II. Como un `leitmotiv', aparece en todas las
-    constituciones y en todos los decretos. A los ojos del concilio, atestiguar
-    significa acreditar el evangelio como verdad y salvación del hombre mediante
-    una vida conforme con el evangelio.''}\footcite[1532]{dicctf}
-
-  Como categoría pastoral el testimonio se refiere a la vida comprometida de los
-  que forman parte del pueblo de Dios, la cual es el signo de salvación para este
-  mundo. Sobre esto afirma R. Pellitero:
-
-  \emph{ ``El Vaticano II redescubrió el enorme valor evangelizador del testimonio
-    cristiano, aún el más sencillo y cotidiano. Sus grandes afirmaciones están en
-    la Constitución Lumen gentium y el Decreto Ad gentes. Entre los documentos
-    postconciliares que se ocupan del tema destaca la Exhortación Evangelii
-    Nuntiandi.''}\footcite[378--379]{ftcpellitero}
-
-  El concilio manifiesta su preocupación de hablar al hombre del siglo XX, que
-  rechaza un tipo de santidad platónica y abstracta, y ofrece como respuesta el
-  lenguaje del testimonio de la vida realmente comprometida de los cristianos, de
-  la santidad vivida como compromiso total al servicio de
-  Cristo.\footnote{\cite[1532 y 1533]{dicctf}}
+  el sujeto del testimonio es el bautizado, miembro de la Iglesia
 
   El testimonio es misión de toda la la Iglesia; los obispos ofrecen al mundo el
   rostro de la Iglesia con su trato y trabajo pastoral\footnote{GS 43}, los
@@ -1729,99 +1860,23 @@ Evangelii Nuntiandi n21
   enteramente evangélica, con paciencia, longanimidad, suavidad, caridad sincera,
   y si es necesario hasta con la propia sangre.\footnote{AG 24}
 
-  El afán de hablar con el hombre contemporáneo es una motivación importante para
-  este estudio y es una preocupación aprendida del Concilio. El testimonio que
-  aparece como 'leitmotiv' en los documentos del Concilio está presente del mismo
-  modo en la Nueva Evangelización, es preciso, por tanto, tener en cuenta este
-  proceso actual que se desarrolla en continuidad con la misión del Concilio.
+  Fe y vida están unidas y el testimonio llamado a ser perfeccionado
 
-  \subsubsection{Testimonio y Nueva Evangelización}
-  En la homilía de las vísperas de los apóstoles Pedro y Pablo el Papa Benedicto
-  XVI reflexionaba sobre la Nueva Evangelización y anunciaba su deseo de crear un
-  Consejo Pontificio dedicado a la promoción de ésta. En la homilía expresaba como
-  sigue el espíritu de este renovado impulso misionero:
+  \citalitlar{Aunque la Iglesia, por la virtud del Espíritu Santo, se ha mantenido
+    como esposa fiel de su Señor y nunca ha cesado de ser signo de salvación en el
+    mundo, sabe, sin embargo, muy bien que no siempre, a lo largo de su prolongada
+    historia, fueron todos sus miembros, clérigos o laicos, fieles al espíritu de
+    Dios. Sabe también la Iglesia que aún hoy día es mucha la distancia que se da
+    entre el mensaje que ella anuncia y la fragilidad humana de los mensajeros a
+    quienes está confiado el Evangelio. Dejando a un lado el juicio de la historia
+    sobre estas deficiencias, debemos, sin embargo, tener conciencia de ellas y
+    combatirlas con máxima energía para que no dañen a la difusión del Evangelio.
+    De igual manera comprende la Iglesia cuánto le queda aún por madurar, por su
+    experiencia de siglos, en la relación que debe mantener con el mundo. Dirigida
+    por el Espíritu Santo, la Iglesia, como madre, no cesa de ``exhortar a sus
+    hijos a la purificación y a la renovación para que brille con mayor claridad
+    la señal de Cristo en el rostro de la Iglesia''\footnote{GS 34}}
 
-  \emph{ ``No hay palabras para explicar cómo el venerable Juan Pablo II, en su
-    largo pontificado, desarrolló esta proyección misionera, que —conviene
-    recordar siempre— responde a la naturaleza misma de la Iglesia, la cual, con
-    san Pablo, puede y debe repetir siempre: <<Si anuncio el Evangelio, no lo hago
-    para gloriarme: al contrario, es para mí una necesidad imperiosa.
-    \textexclamdown{}Ay de mí si no predicara el Evangelio!>> (1 Co 9, 16). El
-    Papa Juan Pablo II representó <<en vivo>> la naturaleza misionera de la
-    Iglesia, con los viajes apostólicos y con la insistencia de su magisterio en
-    la urgencia de una <<nueva evangelización>>: <<nueva>> no en los contenidos,
-    sino en el impulso interior, abierto a la gracia del Espíritu Santo, que
-    constituye la fuerza de la ley nueva del Evangelio y que renueva siempre a la
-    Iglesia; <<nueva>> en la búsqueda de modalidades que correspondan a la fuerza
-    del Espíritu Santo y sean adecuadas a los tiempos y a las situaciones;
-    <<nueva>> porque es necesaria incluso en países que ya han recibido el anuncio
-    del Evangelio. A todos es evidente que mi Predecesor dio un impulso
-    extraordinario a la misión de la Iglesia, no sólo —repito— por las distancias
-    que recorrió, sino sobre todo por el genuino espíritu misionero que lo animaba
-    y que nos dejó en herencia al alba del tercer milenio.''}\footcite{benxvi_ne}
-
-  En la Carta apostólica Porta Fidei expresó la importancia del testimonio en la
-  renovación de la Iglesia:
-
-  \emph{``La renovación de la Iglesia pasa también a través del testimonio
-    ofrecido por la vida de los creyentes: con su misma existencia en el mundo,
-    los cristianos están llamados efectivamente a hacer resplandecer la Palabra de
-    verdad que el Señor Jesús nos dejó.''}\footcite[n. 6]{PF}
-
-  Y en la misa celebrada en octubre del 2011 por la nueva evangelización el mismo
-  Benedicto afirmaba:
-
-  \emph{``Los nuevos evangelizadores están llamados a ser los primeros en avanzar
-    por este camino que es Cristo, para dar a conocer a los demás la belleza del
-    Evangelio que da la vida. Y en este camino, nunca avanzamos solos, sino en
-    compañía: una experiencia de comunión y de fraternidad que se ofrece a cuantos
-    encontramos, para hacerlos partícipes de nuestra experiencia de Cristo y de su
-    Iglesia. Así, el testimonio unido al anuncio puede abrir el corazón de quienes
-    están en busca de la verdad, para que puedan descubrir el sentido de su propia
-    vida.''}\footcite{benxvi_ne2}
-
-  En el 2012 el sínodo de los Obispos dedicó su XIII asamblea a la nueva
-  evangelización para la transmisión de la fe cristiana. En el instrumento de
-  trabajo la categoría del testimonio aparece con frecuencia y el mensaje final se
-  apoya en su punto de partida sobre la imagen de la mujer samaritana que tras su
-  encuentro con Jesús se convierte en testigo:
-
-  \emph{``Sólo Jesús es capaz de leer hasta lo más profundo del corazón y
-    desvelarnos nuestra verdad: <<Me ha dicho todo lo que he hecho>>, confiesa la
-    mujer a sus vecinos. Esta palabra de anuncio --a la que se une la pregunta que
-    abre a la fe: <<\textquestiondown{}Será Él el Cristo?>>-- muestra que quien ha
-    recibido la vida nueva del encuentro con Jesús, a su vez no puede hacer menos
-    que convertirse en anunciador de verdad y esperanza para los demás. La
-    pecadora convertida deviene mensajera de salvación y conduce a toda la ciudad
-    hacia Jesús. De la acogida del testimonio la gente pasará después a la
-    experiencia personal del encuentro: <<Ya no creemos por lo que tú has dicho;
-    nosotros mismos lo hemos oído y sabemos que Él es verdaderamente el Salvador
-    del mundo>>.''}\footcite{sinod}
-
-  En la Evangelii Gaudium el Papa Francisco recoge las palabras de Pablo VI
-  Evangelii nuntiandi sobre la necesidad del testimonio en el anuncio del
-  Evangelio en nuestra época:
-
-  \emph{``También en esta época la gente prefiere escuchar a los testigos: <<tiene
-    sed de autenticidad [\ldots] Exige a los evangelizadores que le hablen de un
-    Dios a quien ellos conocen y tratan familiarmente como si lo estuvieran
-    viendo>>.''}\footcite[n. 150]{EG}
-
-  La convocación al jubileo de la misericordia se expresa también en clave
-  testimonial:
-
-  \emph{``Queridos hermanos y hermanas, he pensado con frecuencia de qué forma la
-    Iglesia puede hacer más evidente su misión de ser testigo de la misericordia.
-    Es un camino que inicia con una conversión espiritual; y tenemos que recorrer
-    este camino. Por eso he decidido convocar un Jubileo extraordinario que tenga
-    en el centro la misericordia de Dios. Será un Año santo de la misericordia. Lo
-    queremos vivir a la luz de la Palabra del Señor: <<Sed misericordiosos como el
-    Padre>> (cf. Lc 6, 36). Esto especialmente para los confesores:
-    \textexclamdown{}mucha misericordia!''}\footcite{fran_mis}
-
-  Las enseñanzas del Concilio Vaticano II y el entusiasmo por la Nueva
-  Evangelización motivan el deseo de comprender profundamente la dinámica del
-  testimonio para conocer también en profundidad nuestra misión de testigos.
 
 #+END_SRC
 
