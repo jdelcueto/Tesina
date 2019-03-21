@@ -1732,7 +1732,7 @@ Evangelii Nuntiandi n21
     entre las opiniones comunes, sin diferencia exterior. Así queda la Eucaristía
     entre el pan común>>.\footnote{FR 13}}
   El misterio sublime que aparece en un signo puede ser atestiguado por la fe
-  viva. El asentimiento al signo sacramental por la fe implica el reconocimiento
+  viva. El asentimiento al signo sacramental por la fe supone el reconocimiento de
   que viene de Dios y por tanto es creer a quien es garante de su propia verdad.
   Este asentimiento implica a la persona por completo:
   \citalitlar{Desde la fe el hombre da su asentimiento a ese testimonio divino.
@@ -1793,10 +1793,10 @@ Evangelii Nuntiandi n21
     no se requiera la prueba del martirio, sabemos que el culto agradable a Dios
     implica también interiormente esta disponibilidad, y se manifiesta en el
     testimonio alegre y convencido ante el mundo de una vida cristiana coherente
-    allí donde el Señor nos llama a anunciarlo.\footnote{SCa 85}} El testimonio
-  hasta el don de nosotros mismos se convierte en signo sacramental, el cristiano
-  que ofrece su vida por completo como testigo entra en comunión con la Pascua y
-  se convierte con Cristo en Eucaristía. La vida entregada, este signo
+    allí donde el Señor nos llama a anunciarlo.\footnote{SCa 85}}
+  El testimonio hasta el don de nosotros mismos se convierte en signo sacramental,
+  el cristiano que ofrece su vida por completo como testigo entra en comunión con
+  la Pascua y se convierte con Cristo en Eucaristía. La vida entregada, este signo
   sacramental, es el medio adecuado para comunicar la comunión con Dios:
   \citalitlar{En efecto, la fe necesita un ámbito en el que se pueda testimoniar y
     comunicar, un ámbito adecuado y proporcionado a lo que se comunica. Para
@@ -1816,13 +1816,15 @@ Evangelii Nuntiandi n21
     sacramental. El despertar de la fe pasa por el despertar de un nuevo sentido
     sacramental de la vida del hombre y de la existencia cristiana, en el que lo
     visible y material está abierto al misterio de lo eterno. \footnote{LF 40}}
+  Al celebrar los sacramentos con fe viva, la comunidad eclesial se deja implicar
+  por completo por la luz del Dios vivo que se comunica y el memorial que se
+  encarna. Despertar a la fe en los sacramentos es también despertar al sentido
+  sacramental que tiene la propia vida cristiana. Así como en los sacramentos los
+  signos visibles comunican la luz de Dios, también la propia existencia del
+  cristiano puede arrojar esa luz.
 
-  Esta presencia de los sacramentos por la celebración de la Iglesia permite
-  despertar a un nuevo sentido de la vida de las personas en el que lo visible se
-  abre al misterio de lo eterno. El testimonio de los crisitanos sirve a la fe genera
-  las preguntas e inquietudes y eliminando obstaculos a la libertad que busca a Dios.
-
-
+  Este valor sacramental de la vida del cristiano y de la comunidad eclesial hace
+  de su propia existencia un testimonio kerygmático:
   \citalitlar{La Buena Nueva debe ser proclamada en primer lugar, mediante el
     testimonio. Supongamos un cristiano o un grupo de cristianos que, dentro de la
     comunidad humana donde viven, manifiestan su capacidad de comprensión y de
@@ -1845,23 +1847,33 @@ Evangelii Nuntiandi n21
     provocados por este testimonio que comporta presencia, participación,
     solidaridad y que es un elemento esencial, en general al primero absolutamente
     en la evangelización.\footnote{EN 21}}
+  La acción testimonial de Dios que se manifiesta en Cristo y en los sacramentos
+  instituidos por Él está analogamente presente en la vida comprometida del
+  cirstiano. El testimonio humano es respuesta de fe de aquellos que han
+  reconocido a Dios en los signos que le encarnan y que corresponden con palabras
+  y obras que quieren significar la vida nueva que viene del Señor. En esta
+  correspondencia se unden las raíces de la misión de proclamar la Buena Nueva.
 
-  el sujeto del testimonio es el bautizado, miembro de la Iglesia
-
-  El testimonio es misión de toda la la Iglesia; los obispos ofrecen al mundo el
-  rostro de la Iglesia con su trato y trabajo pastoral\footnote{GS 43}, los
-  presbíteros, creciendo en el amor por el desempeño de su oficio, han de ser un
-  vivo testimonio de Dios\footnote{LG 41}, los fieles han de dar testimonio de
-  verdad como testigos de la resurrección\footnote{LG 28 y LG 38}, los religiosos
-  deben ofrecer un testimonio sostenido por la integridad de la fe, por la caridad
-  y el amor a la cruz y la esperanza de la gloria futura\footnote{PC 25}, los
+  El testimonio es así acción propia de todo bautizado que ha quedado unido a
+  Cristo y a la Iglesia.\autocite[Cf.][188]{prades2015testimonio} Toda la Iglesia
+  tiene la misión de dar testimonio; los obispos ofrecen al mundo el rostro de la
+  Iglesia con su trato y trabajo pastoral\footnote{GS 43}, los presbíteros,
+  creciendo en el amor por el desempeño de su oficio, han de ser un vivo
+  testimonio de Dios\footnote{LG 41}, los fieles han de dar testimonio de verdad
+  como testigos de la resurrección\footnote{LG 28 y LG 38}, los religiosos deben
+  ofrecer un testimonio sostenido por la integridad de la fe, por la caridad y el
+  amor a la cruz y la esperanza de la gloria futura\footnote{PC 25}, los
   profesores han de dar testimonio tanto con su vida como con su
   doctrina\footnote{GE 8}, los misioneros han de ofrecer testimonio con una vida
   enteramente evangélica, con paciencia, longanimidad, suavidad, caridad sincera,
   y si es necesario hasta con la propia sangre.\footnote{AG 24}
 
-  Fe y vida están unidas y el testimonio llamado a ser perfeccionado
-
+  El signo que es la vida de los cristianos y, por tanto la Iglesia, esta llamado
+  a purificarse y crecer. La contradicción entre la fe y la vida de los cristianos
+  puede constituir un motivo de tropiezo, en lugar de dar a conocer la luz de
+  Dios. El testimonio de la vida entregada, aún cuando ha sido estimado según su
+  valor sacramental, es un signo imperfecto que debe ser madurado con una actitud
+  vigilante:
   \citalitlar{Aunque la Iglesia, por la virtud del Espíritu Santo, se ha mantenido
     como esposa fiel de su Señor y nunca ha cesado de ser signo de salvación en el
     mundo, sabe, sin embargo, muy bien que no siempre, a lo largo de su prolongada
@@ -1876,6 +1888,29 @@ Evangelii Nuntiandi n21
     por el Espíritu Santo, la Iglesia, como madre, no cesa de ``exhortar a sus
     hijos a la purificación y a la renovación para que brille con mayor claridad
     la señal de Cristo en el rostro de la Iglesia''\footnote{GS 34}}
+  La vida de la Iglesia está marcada por esa llamada a este enriquecimiento
+  constante. Como afirma DV 8: \citalitinterlin{la Iglesia, en el decurso de los
+    siglos, tiende constantemente a la plenitud de la verdad divina, hasta que en
+    ella se cumplan las palabras de Dios.}
+
+  La categoría del testimonio ha servido para acercarnos a algunos textos
+  magisteriales y describir la vida de la Iglesia como signo sacramental. A modo
+  de conclusión son luminosas las palabras de K. Wojtyła:
+  \citalitlar{El significado del testimonio en la doctrina del Vaticano II es
+    explícitamente analógico, puesto que el Concilio habla del testimonio de Dios
+    y del hombre, que, de diversa manera, corresponde al divino, y a una respuesta
+    multiforme a la revelación. En todo caso, sin embargo, la respuesta es
+    testimonio y el testimonio, respuesta. \footnote{Para una discusión más amplia
+      de la lectura de Wojtyła véase \cite[194--197]{prades2015testimonio}}}
+
+  Este recorrido a través de algunos modos de emplear la categoría del testimonio
+  en la Escritura y la doctrina magisterial ha servido para describir los
+  dinamísmos de la Revelación como acción libre y amorosa del Padre encarnada en
+  en la naturaleza humana asumida por el Verbo y sostenida por la acción interior
+  del Espíritu. Esta acción de la libertad divina ha encontrado la correspondencia
+  de la libertad humana que acoge la invitación al amor y se compromete por
+  completo a la comunión con Dios. Este intercambio testimonial comunica el amor
+  divino.
 
 
 #+END_SRC
@@ -1885,6 +1920,160 @@ Evangelii Nuntiandi n21
 #+BEGIN_SRC latex
   \section{La Categoría del Testimonio como problema}
 
+  Hasta aquí se ha empleado la categoría del testimonio sin problematizarla. Es
+  decir, hemos tratado el testimonio como <<cosa familiar y conocida>> empleada
+  ordinariamente en nuestras conversaciones. Es aquí donde nos permitimos tratar
+  al testimonio como algo que hay que esclarecer, algo sobre lo que se plantean
+  preguntas, de modo que hay que traer a la mente una explicación adecuada.
+
+  Teniendo en cuenta los desafíos lanzados por al filosofía moderna y algunas
+  reflexiones contemporaneas que ofrecen puntos de contacto con la filosofía de
+  Elizabeth Anscombe formularemos aquí algunas preguntas relacionadas con el
+  testimonio y la revelación. Hasta el momento sólo nos hemos planteado una
+  pregunta que ahora podemos ampliar: ¿qué es conocer una verdad para la vida por
+  el testimonio de la revelación divina?
+
+
+
+
+  Hume: Treatise
+  SECTION IV. Of the component parts of our reasonings concerning cause and
+  effect.
+
+  Tho’ the mind in its reasonings from causes or effects carries its view
+  beyond those objects, which it sees or remembers, it must never lose sight of
+  them entirely, nor reason merely upon its own ideas, without some mixture of
+  impressions, or at least of ideas of the memory, which are equivalent to
+  impressions.
+
+
+  When we infer effects from causes, we must establish the existence
+  of these causes; which we have only two ways of doing, either by an immediate
+  perception of our memory or senses, or by an inference from other causes; which
+  causes again we must ascertain in the same manner, either by a present
+  impression, or by an inference from their causes, and so on, till we arrive at
+  some object, which we see or remember. ’Tis impossible for us to carry on our
+  inferences in infinitum; and the only thing, that can stop them, is an
+  impression of the memory or senses, beyond which there is no room for doubt or
+  enquiry.
+
+
+
+  Enquiries
+
+  37. But here it may be proper to remark, that though our conclusions from
+  experience carry us beyond our memory and senses, and assure us of matters of
+  fact which happened in the most distant places and most remote ages, yet some
+  fact must always be present to the senses or memory, from which we may first
+  proceed in drawing these conclusions. A man, who should find in a desert country
+  the remains of pompous buildings, would conclude that the country had, in
+  ancient times, been cultivated by civilized inhabitants; but did nothing of this
+  nature occur to him, he could never form such an inference. We learn the events
+  of former ages from history; but then we must peruse the volumes in which this
+  instruction is contained, and thence carry up our inferences from one testimony
+  to another, till we arrive at the eyewitnesses and spectators of these distant
+  events. In a word, if we proceed not upon some fact, present to the memory or
+  senses, our reasonings would be merely hypothetical; and however the particular
+  links might be connected with each other, the whole chain of inferences would
+  have nothing to support it, nor could we ever, by its means, arrive at the
+  knowledge of any real existence. If I ask why you believe any particular matter
+  of fact, which you relate, you must tell me some reason; and this reason will be
+  some other fact, connected with it. But as you cannot proceed after this manner,
+  in infinitum, you must at last terminate in some fact, which is present to your
+  memory or senses; or must allow that your belief is entirely without foundation.
+
+
+
+  38. What, then, is the conclusion of the whole matter? A simple one; though, it
+  must be confessed, pretty remote from the common theories of philosophy. All
+  belief of matter of fact or real existence is derived merely from some object,
+  present to the memory or senses, and a customary conjunction between that and
+  some other object. Or in other words; having found, in many instances, that any
+  two kinds of objectsflame and heat, snow and cold- have always been conjoined
+  together; if flame or snow be presented anew to the senses, the mind is carried
+  by custom to expect heat or cold, and to believe that such a quality does exist,
+  and will discover itself upon a nearer approach. This belief is the necessary
+  result of placing the mind in such circumstances. It is an operation of the
+  soul, when we are so situated, as unavoidable as to feel the passion of love,
+  when we receive benefits; or hatred, when we meet with injuries. All these
+  operations are a species of natural instincts, which no reasoning or process of
+  the thought and understanding is able either to produce or to prevent. At this
+  point, it would be very allowable for us to stop our philosophical researches.
+  In most questions we can never make a single step further; and in all questions
+  we must terminate here at last, after our most restless and curious enquiries.
+  But still our curiosity will be pardonable, perhaps commendable, if it carry us
+  on to still farther researches, and make us examine more accurately the nature
+  of this belief, and of the customary conjunction, whence it is derived. By this
+  means we may meet with some explications and analogies that will give
+  satisfaction; at least to such as love the abstract sciences, and can be
+  entertained with speculations, which, however accurate, may still retain a
+  degree of doubt and uncertainty. As to readers of a different taste; the
+  remaining part of this section is not calculated for them, and the following
+  enquiries may well be understood, though it be neglected.
+
+
+
+  86. There is, in Dr. Tillotson’s writings, an argument against the real
+  presence, which is as concise, and elegant, and strong as any argument can
+  possibly be supposed against a doctrine, so little worthy of a serious 76/David
+  Hume refutation. It is acknowledged on all hands, says that learned prelate,
+  that the authority, either of the scripture or of tradition, is founded merely
+  in the testimony of the apostles, who were eye-witnesses to those miracles of
+  our Saviour, by which he proved his divine mission. Our evidence, then, for the
+  truth of the Christian religion is less than the evidence for the truth of our
+  senses; because, even in the first authors of our religion, it was no greater;
+  and it is evident it must diminish in passing from them to their disciples; nor
+  can any one rest such confidence in their testimony, as in the immediate object
+  of his senses. But a weaker evidence can never destroy a stronger; and
+  therefore, were the doctrine of the real presence ever so clearly revealed in
+  scripture, it were directly contrary to the rules of just reasoning to give our
+  assent to it. It contradicts sense, though both the scripture and tradition, on
+  which it is supposed to be built, carry not such evidence with them as sense;
+  when they are considered merely as external evidences, and are not brought home
+  to every one’s breast, by the immediate operation of the Holy Spirit. Nothing is
+  so convenient as a decisive argument of this kind, which must at least silence
+  the most arrogant bigotry and superstition, and free us from their impertinent
+  solicitations. I flatter myself, that I have discovered an argument of a like
+  nature, which, if just, will, with the wise and learned, be an everlasting check
+  to all kinds of superstitious delusion, and consequently, will be useful as long
+  as the world endures. For so long, I presume, will the accounts of miracles and
+  prodigies be found in all history, sacred and profane.
+
+
+  89. This contrariety of evidence, in the present case, may be derived from
+  several different causes; from the opposition of contrary testimony; from the
+  character or number of the witnesses; from the manner of their delivering their
+  testimony; or from the union of all these circumstances. We entertain a
+  suspicion concerning any matter of fact, when the witnesses contradict each
+  other; when they are but few, or of a doubtful character; when they have an
+  interest in what they affirm; when they deliver their testimony with hesitation,
+  or on the contrary, with too violent asseverations. There are many other
+  particulars of the same kind, which may diminish or destroy the force of any
+  argument, derived from human testimony. Suppose, for instance, that the fact,
+  which the testimony endeavours to establish, partakes of the extraordinary and
+  the marvellous; in that case, the evidence, resulting from the testimony, admits
+  of a diminution, greater or less, in proportion as the fact is more or less
+  unusual. The reason why we place any credit in witnesses and historians, is not
+  derived from any connexion, which we perceive a priori, between testimony and
+  reality, but because we are accustomed to find a conformity between them. But
+  when the fact attested is such a one as has seldom fallen under our observation,
+  here is a contest of two opposite experiences; of which the one destroys the
+  other, as far as its force goes, and the superior can only operate on the mind
+  by the force, which remains. Enquiry Concerning Human Understanding/79 The very
+  same principle of experience, which gives us a certain degree of assurance in
+  the testimony of witnesses, gives us also, in this case, another degree of
+  assurance against the fact, which they endeavour to establish; from which
+  contradiction there necessarily arises a counterpoize, and mutual destruction of
+  belief and authority. I should not believe such a story were it told me by Cato,
+  was a proverbial saying in Rome, even during the lifetime of that philosophical
+  patriot.20 The incredibility of a fact, it was allowed, might invalidate so
+  great an authority. The Indian prince, who refused to believe the first
+  relations concerning the effects of frost, reasoned justly; and it naturally
+  required very strong testimony to engage his assent to facts, that arose from a
+  state of nature, with which he was unacquainted, and which bore so little
+  analogy to those events, of which he had had constant and uniform experience.
+  Though they were not contrary to his experience, they were not conformable to
+  it.21
 #+END_SRC
 *** de la pres
 \subsection{Wittgenstein y la filosofía analítica}
