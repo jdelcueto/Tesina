@@ -1924,14 +1924,99 @@ Evangelii Nuntiandi n21
   decir, hemos tratado el testimonio como <<cosa familiar y conocida>> empleada
   ordinariamente en nuestras conversaciones. Es aquí donde nos permitimos tratar
   al testimonio como algo que hay que esclarecer, algo sobre lo que se plantean
-  preguntas, de modo que hay que traer a la mente una explicación adecuada.
+  preguntas, de modo que hay que traer a la mente una explicación adecuada. En
+  palabras de Latourelle:
+  \citalitlar{Si la revelación misma se apoya en la experiencia humana del
+    testimonio para expresar una de las relaciones fundamentales que unen al
+    hombre con Dios, la reflexión teológica se encuentra entonces autorizada a
+    explorar los datos de esta
+    experiencia.\autocite[1523]{latourelle2000testimonio}}
+  Hasta el momento sólo nos hemos planteado una pregunta, que ahora podemos
+  ampliar: ¿qué es conocer una verdad para la vida por el testimonio de la
+  revelación divina? ¿Qué otros cuestionamientos se pueden formular relacionados
+  con este fenómeno? Es posible agrupar algunos desafíos y aportaciones de la
+  filosofía moderna y contemporánea en varías preguntas principales. Éstas serán
+  útiles a la hora de indagar en el pensamiento de Elizabeth Anscombe.
 
-  Teniendo en cuenta los desafíos lanzados por al filosofía moderna y algunas
-  reflexiones contemporaneas que ofrecen puntos de contacto con la filosofía de
-  Elizabeth Anscombe formularemos aquí algunas preguntas relacionadas con el
-  testimonio y la revelación. Hasta el momento sólo nos hemos planteado una
-  pregunta que ahora podemos ampliar: ¿qué es conocer una verdad para la vida por
-  el testimonio de la revelación divina?
+
+  tres objeciones (Prades 294)
+  no se puede tener conocimiento directo de milagros o profecías
+
+  en la vida social cabe aceptar un conocimiento por testimonio a condición de que su
+  grado de certeza se limite a la probabilidad
+
+  no se puede aceptar una comunicación divina que no sea inmediatamente dirigida al
+  individuo
+
+
+  \subsection{Cuál es el valor epistemologico del testimonio?}
+  Epistemology, characterized broadly, is an account of knowledge. Within the
+  discipline of philosophy, epistemology is the study of the nature of knowledge
+  and justification: in particular, the study of (a) the defining components, (b)
+  the substantive conditions or sources, and (c) the limits of knowledge and
+  justification. Categories (a)--(c) have prompted traditional philosophical
+  controversy over the analysis of knowledge and justification, the sources of
+  knowledge and justification (in the case, for instance of rationalism vs
+  empiricism), and the status of skepticism about knowledge and justification.
+
+  Epistemologists have distinguished some species of knowledge, including:
+  propositional knowledge (that something is so), nonpropositional knowledge of
+  something (for instance, knowledge by acquaintance, or by direct awareness),
+  empirical (a posteriori) propositional knowledge, nonempirical (a priori)
+  propositional knowledge, and knowledge how to do something.
+
+  Ever since Plato's Theaetetus, epipstemologists have tried to identify the
+  essential, defining components of propositional knowledge. These components will
+  yield an analysis of propositional knowledge. An influential traditional view,
+  inspired by Plato and Kant among others, is that propositional knowledge has
+  three individually necessary and jointly sufficient components: justification,
+  truth, and belief. On this view, propositional knowledge is, by definition,
+  justified true belief. This tripartite definition has come to be called ``the
+  standard analysis''.
+
+  Knowledge is not just true belief. Knowledge requires that the satisfaction of
+  its belief condition be ``appropriately related'' to the satisfaction of its
+  truth condition. This is one broad way of understanding the justification
+  condition of the standard analysis. Controversy arises over the meaning of
+  ``justification'' as well as over the substantive conditions for a belief's
+  being justified in a way appropriate to knowledge.
+
+  Any standard or strategy worthy of the title ``epistemic'' must have as its
+  fundamental goal the acquisition of truth and the avoidance of error. This
+  follows from the fact that genuine knowledge has truth as an essential condition
+  and excludes error. Of course, contemporary epistemology offers numerous
+  strategies for acquiring truth and avoiding erros, including contextualist,
+  coherentist, foundationalist, internalist, and externalist strategies.
+
+  Ideally, we would be able to say convingcingly that a particular strategy is
+  more effective at acquiring truth and avoiding error than all the others, and
+  then be done with the provlem o f final epistemological authority. Whatever
+  strategy has maximal effectiveness in getting truth and blocking error would
+  then have final epistemological authority for us. Unfortunately for us, the
+  problem resists such quick resolution.
+
+  Skeptics can help us appreciate the problem we face. Thay raise general
+  questions about the reliability of our cognitive sources; that is, they ask
+  about our cognitive sources altogether, as a whole. In doing so, they wonder
+  what convincing reason we have to regard those sources as reliable for aquiring
+  truth and avoiding error.
+
+  Our offering any kind of support for the reliability of our cognitive source
+  will depend on our use of such cognitive sources as perception, introspection,
+  belief, memory, testimony, intuition, and common sense. Since all such sources
+  are under question by skeptics, with regard to reliability, our use of them
+  cannot deliver the kind of evidence of reliability sought by skeptics.
+
+  Unfortunately, we cannot assume a position independent of our own cognitive
+  sources to deliver a test of their reliability of the sort demanded by skeptics.
+  This is the human cognitive predicament, and no one has shown how we can escape
+  it.
+
+  \subsection{Puede haber un hecho histórico que signifique una realidad absoluta?}
+
+
+  \subsection{Lessing es lo mismo relatos de milagros etc...}
+
 
 
 
