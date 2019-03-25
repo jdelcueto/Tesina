@@ -1925,31 +1925,46 @@ Evangelii Nuntiandi n21
   ordinariamente en nuestras conversaciones. Es aquí donde nos permitimos tratar
   al testimonio como algo que hay que esclarecer, algo sobre lo que se plantean
   preguntas, de modo que hay que traer a la mente una explicación adecuada. En
-  palabras de Latourelle:
-  \citalitlar{Si la revelación misma se apoya en la experiencia humana del
-    testimonio para expresar una de las relaciones fundamentales que unen al
-    hombre con Dios, la reflexión teológica se encuentra entonces autorizada a
-    explorar los datos de esta
-    experiencia.\autocite[1523]{latourelle2000testimonio}}
-  Hasta el momento sólo nos hemos planteado una pregunta, que ahora podemos
-  ampliar: ¿qué es conocer una verdad para la vida por el testimonio de la
-  revelación divina? ¿Qué otros cuestionamientos se pueden formular relacionados
-  con este fenómeno? Es posible agrupar algunos desafíos y aportaciones de la
-  filosofía moderna y contemporánea en varías preguntas principales. Éstas serán
-  útiles a la hora de indagar en el pensamiento de Elizabeth Anscombe.
+  palabras de Latourelle: \citalitlar{Si la revelación misma se apoya en la
+    experiencia humana del testimonio para expresar una de las relaciones
+    fundamentales que unen al hombre con Dios, la reflexión teológica se encuentra
+    entonces autorizada a explorar los datos de esta
+    experiencia.\autocite[1523]{latourelle2000testimonio}} Hasta el momento sólo
+  nos hemos planteado una pregunta, que ahora podemos ampliar: ¿qué es conocer una
+  verdad para la vida por el testimonio de la revelación divina? ¿Qué otros
+  cuestionamientos se pueden formular relacionados con este fenómeno? Es posible
+  agrupar algunos desafíos y aportaciones de la filosofía moderna y contemporánea
+  en varías preguntas principales. Éstas serán útiles a la hora de indagar en el
+  pensamiento de Elizabeth Anscombe.
 
+  tres objeciones (Prades 294) no se puede tener conocimiento directo de milagros
+  o profecías
 
-  tres objeciones (Prades 294)
-  no se puede tener conocimiento directo de milagros o profecías
+  en la vida social cabe aceptar un conocimiento por testimonio a condición de que
+  su grado de certeza se limite a la probabilidad
 
-  en la vida social cabe aceptar un conocimiento por testimonio a condición de que su
-  grado de certeza se limite a la probabilidad
-
-  no se puede aceptar una comunicación divina que no sea inmediatamente dirigida al
-  individuo
+  no se puede aceptar una comunicación divina que no sea inmediatamente dirigida
+  al individuo
 
 
   \subsection{Cuál es el valor epistemologico del testimonio?}
+  An account of knowledge
+  which takes testimony into account, how does it look?
+
+  study of nature of knowledge and justification
+
+  Si se hace un estudio de la naturaleza del conocer y su justificación
+  y entonces se hace una descripición del conocimiento
+
+  Si entendemos la epistemología como una descripción del conocer
+
+  ¿Qué papel juega el testimonio
+
+  Una descripción del conocimiento que tenga en cuenta el testimonio cómo
+  quedaría?
+
+
+
   Epistemology, characterized broadly, is an account of knowledge. Within the
   discipline of philosophy, epistemology is the study of the nature of knowledge
   and justification: in particular, the study of (a) the defining components, (b)
