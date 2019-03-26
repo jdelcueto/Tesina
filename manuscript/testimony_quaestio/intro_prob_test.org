@@ -1925,256 +1925,508 @@ Evangelii Nuntiandi n21
   ordinariamente en nuestras conversaciones. Es aquí donde nos permitimos tratar
   al testimonio como algo que hay que esclarecer, algo sobre lo que se plantean
   preguntas, de modo que hay que traer a la mente una explicación adecuada. En
-  palabras de Latourelle: \citalitlar{Si la revelación misma se apoya en la
-    experiencia humana del testimonio para expresar una de las relaciones
-    fundamentales que unen al hombre con Dios, la reflexión teológica se encuentra
-    entonces autorizada a explorar los datos de esta
-    experiencia.\autocite[1523]{latourelle2000testimonio}} Hasta el momento sólo
-  nos hemos planteado una pregunta, que ahora podemos ampliar: ¿qué es conocer una
-  verdad para la vida por el testimonio de la revelación divina? ¿Qué otros
-  cuestionamientos se pueden formular relacionados con este fenómeno? Es posible
-  agrupar algunos desafíos y aportaciones de la filosofía moderna y contemporánea
-  en varías preguntas principales. Éstas serán útiles a la hora de indagar en el
-  pensamiento de Elizabeth Anscombe.
+  palabras de Latourelle:
+  \citalitlar{Si la revelación misma se apoya en la experiencia humana del
+    testimonio para expresar una de las relaciones fundamentales que unen al
+    hombre con Dios, la reflexión teológica se encuentra entonces autorizada a
+    explorar los datos de esta
+    experiencia.\autocite[1523]{latourelle2000testimonio}}
 
-  tres objeciones (Prades 294) no se puede tener conocimiento directo de milagros
-  o profecías
+  Hasta el momento sólo hemos formulado una pregunta, que ahora podemos
+  ampliar: ¿qué es conocer una verdad para la vida por el testimonio de la
+  revelación divina? ¿Qué otros cuestionamientos se pueden plantear relacionados
+  con este fenómeno? Es posible agrupar algunos desafíos y aportaciones de la
+  filosofía moderna y contemporánea en varías preguntas principales. Éstas serán
+  útiles a la hora de indagar en el pensamiento de Elizabeth Anscombe.
 
+  \subsection{¿Cuál es el valor epistemológico del testimonio?}
+  Corresponde a la epistemología la tarea de estudiar la naturaleza del conocer y
+  su justificación. ¿Cuáles son los componentes del conocimiento? ¿sus fuentes o
+  condiciones? ¿sus límites?\footnote{Cf. Oxford Epistemology, characterized
+    broadly, is an account of knowledge. Within the discipline of philosophy,
+    epistemology is the study of the nature of knowledge and justification: in
+    particular, the study of (a) the defining components, (b) the substantive
+    conditions or sources, and (c) the limits of knowledge and justification.} La
+  pregunta sobre el valor epistemológico del testimonio consiste en juzgar el
+  lugar que éste ocupa en una descripición del conocimiento; ¿qué se puede decir
+  del testimonio como estrategia para adquirir la verdad y evitar el
+  error?\footnote{Cf. Any standard or strategy worthy of the title ``epistemic''
+    must have as its fundamental goal the acquisition of truth and the avoidance
+    of error.}
+
+  Un análisis tradicional empleado para hablar del conocimiento proposicional es
+  el que le describe como `creencia verdadera justificada'.\footnote{Ever since
+    Plato's Theaetetus, epipstemologists have tried to identify the essential,
+    defining components of propositional knowledge. These components will yield an
+    analysis of propositional knowledge. An influential traditional view, inspired
+    by Plato and Kant among others, is that propositional knowledge has three
+    individually necessary and jointly sufficient components: justification,
+    truth, and belief. On this view, propositional knowledge is, by definition,
+    justified true belief. This tripartite definition has come to be called ``the
+    standard analysis''.} Según esta composición tripartita la pregunta sobre el
+  valor epistemológico del testimonio se puede plantear diciendo: ¿cómo adquirimos
+  efectivamente una creencia verdadera justificada sobre la base de lo que alguien
+  nos ha dicho?
+
+  Cómo se ve una descripción del conocer que tenga en cuenta el testimonio?
+  ¿Cómo se ve una descripción del conocer
+  Si se entiende
   en la vida social cabe aceptar un conocimiento por testimonio a condición de que
   su grado de certeza se limite a la probabilidad
 
+  how we successfully acquire justified belief or knowledge on the basis of what
+  other people tell us. This, rather than what testimony is, is often taken to be
+  the issue of central import from an epistemological point of view.
+
+  An adequate account of testimony, therefore, should recognize the distinction
+  between entirely non-informational expressions of thought and testimony.
+  Moreover, let us use the general term act of communication to include both
+  verbal and written assertions as well as communicative physical gestures, such
+  as nods, points, and so on. Given this, a rough characterization of testimony
+  may be expressed in something like the following way: T: S testifies that p by
+  making an act of communication a if and only if (in part) in virtue of a's
+  communicable content, (1) S reasonably intends to convey the information that p,
+  or4 (2) a is reasonably taken as conveying the information thatp.5
+
+  However, even if a speaker's assertion is properly connected with the conveying
+  of information, not everything we learn from the testimony of others qualifies
+  as testimonially based knowledge.
+
+  What is of import for justification or knowledge that is distinctively
+  testimonial is that a hearer form a given belief on the basis of the content of
+  a speaker's testimony.
+
+  Even if an expression of thought qualifies as testimony and the resulting belief
+  formed is entirely testimonially based for the hearer, however, there is the
+  further question of how precisely such a belief successfully counts as justified
+  belief or an instance of knowledge. Indeed, this is the question at the center
+  of the epistemology of testimony, and the current philosophical literature
+  contains two central options for answering it: non-reductionism and
+  reductionism.
+
+  \subsection{Puede haber un hecho histórico que signifique una realidad absoluta?}
   no se puede aceptar una comunicación divina que no sea inmediatamente dirigida
   al individuo
 
-
-  \subsection{Cuál es el valor epistemologico del testimonio?}
-  An account of knowledge
-  which takes testimony into account, how does it look?
-
-  study of nature of knowledge and justification
-
-  Si se hace un estudio de la naturaleza del conocer y su justificación
-  y entonces se hace una descripición del conocimiento
-
-  Si entendemos la epistemología como una descripción del conocer
-
-  ¿Qué papel juega el testimonio
-
-  Una descripción del conocimiento que tenga en cuenta el testimonio cómo
-  quedaría?
-
-
-
-  Epistemology, characterized broadly, is an account of knowledge. Within the
-  discipline of philosophy, epistemology is the study of the nature of knowledge
-  and justification: in particular, the study of (a) the defining components, (b)
-  the substantive conditions or sources, and (c) the limits of knowledge and
-  justification. Categories (a)--(c) have prompted traditional philosophical
-  controversy over the analysis of knowledge and justification, the sources of
-  knowledge and justification (in the case, for instance of rationalism vs
-  empiricism), and the status of skepticism about knowledge and justification.
-
-  Epistemologists have distinguished some species of knowledge, including:
-  propositional knowledge (that something is so), nonpropositional knowledge of
-  something (for instance, knowledge by acquaintance, or by direct awareness),
-  empirical (a posteriori) propositional knowledge, nonempirical (a priori)
-  propositional knowledge, and knowledge how to do something.
-
-  Ever since Plato's Theaetetus, epipstemologists have tried to identify the
-  essential, defining components of propositional knowledge. These components will
-  yield an analysis of propositional knowledge. An influential traditional view,
-  inspired by Plato and Kant among others, is that propositional knowledge has
-  three individually necessary and jointly sufficient components: justification,
-  truth, and belief. On this view, propositional knowledge is, by definition,
-  justified true belief. This tripartite definition has come to be called ``the
-  standard analysis''.
-
-  Knowledge is not just true belief. Knowledge requires that the satisfaction of
-  its belief condition be ``appropriately related'' to the satisfaction of its
-  truth condition. This is one broad way of understanding the justification
-  condition of the standard analysis. Controversy arises over the meaning of
-  ``justification'' as well as over the substantive conditions for a belief's
-  being justified in a way appropriate to knowledge.
-
-  Any standard or strategy worthy of the title ``epistemic'' must have as its
-  fundamental goal the acquisition of truth and the avoidance of error. This
-  follows from the fact that genuine knowledge has truth as an essential condition
-  and excludes error. Of course, contemporary epistemology offers numerous
-  strategies for acquiring truth and avoiding erros, including contextualist,
-  coherentist, foundationalist, internalist, and externalist strategies.
-
-  Ideally, we would be able to say convingcingly that a particular strategy is
-  more effective at acquiring truth and avoiding error than all the others, and
-  then be done with the provlem o f final epistemological authority. Whatever
-  strategy has maximal effectiveness in getting truth and blocking error would
-  then have final epistemological authority for us. Unfortunately for us, the
-  problem resists such quick resolution.
-
-  Skeptics can help us appreciate the problem we face. Thay raise general
-  questions about the reliability of our cognitive sources; that is, they ask
-  about our cognitive sources altogether, as a whole. In doing so, they wonder
-  what convincing reason we have to regard those sources as reliable for aquiring
-  truth and avoiding error.
-
-  Our offering any kind of support for the reliability of our cognitive source
-  will depend on our use of such cognitive sources as perception, introspection,
-  belief, memory, testimony, intuition, and common sense. Since all such sources
-  are under question by skeptics, with regard to reliability, our use of them
-  cannot deliver the kind of evidence of reliability sought by skeptics.
-
-  Unfortunately, we cannot assume a position independent of our own cognitive
-  sources to deliver a test of their reliability of the sort demanded by skeptics.
-  This is the human cognitive predicament, and no one has shown how we can escape
-  it.
-
-  \subsection{Puede haber un hecho histórico que signifique una realidad absoluta?}
-
-
   \subsection{Lessing es lo mismo relatos de milagros etc...}
+  no se puede tener conocimiento directo de milagros
+  o profecías
 
 
 
 
 
-  Hume: Treatise
-  SECTION IV. Of the component parts of our reasonings concerning cause and
-  effect.
-
-  Tho’ the mind in its reasonings from causes or effects carries its view
-  beyond those objects, which it sees or remembers, it must never lose sight of
-  them entirely, nor reason merely upon its own ideas, without some mixture of
-  impressions, or at least of ideas of the memory, which are equivalent to
-  impressions.
-
-
-  When we infer effects from causes, we must establish the existence
-  of these causes; which we have only two ways of doing, either by an immediate
-  perception of our memory or senses, or by an inference from other causes; which
-  causes again we must ascertain in the same manner, either by a present
-  impression, or by an inference from their causes, and so on, till we arrive at
-  some object, which we see or remember. ’Tis impossible for us to carry on our
-  inferences in infinitum; and the only thing, that can stop them, is an
-  impression of the memory or senses, beyond which there is no room for doubt or
-  enquiry.
-
-
-
-  Enquiries
-
-  37. But here it may be proper to remark, that though our conclusions from
-  experience carry us beyond our memory and senses, and assure us of matters of
-  fact which happened in the most distant places and most remote ages, yet some
-  fact must always be present to the senses or memory, from which we may first
-  proceed in drawing these conclusions. A man, who should find in a desert country
-  the remains of pompous buildings, would conclude that the country had, in
-  ancient times, been cultivated by civilized inhabitants; but did nothing of this
-  nature occur to him, he could never form such an inference. We learn the events
-  of former ages from history; but then we must peruse the volumes in which this
-  instruction is contained, and thence carry up our inferences from one testimony
-  to another, till we arrive at the eyewitnesses and spectators of these distant
-  events. In a word, if we proceed not upon some fact, present to the memory or
-  senses, our reasonings would be merely hypothetical; and however the particular
-  links might be connected with each other, the whole chain of inferences would
-  have nothing to support it, nor could we ever, by its means, arrive at the
-  knowledge of any real existence. If I ask why you believe any particular matter
-  of fact, which you relate, you must tell me some reason; and this reason will be
-  some other fact, connected with it. But as you cannot proceed after this manner,
-  in infinitum, you must at last terminate in some fact, which is present to your
-  memory or senses; or must allow that your belief is entirely without foundation.
-
-
-
-  38. What, then, is the conclusion of the whole matter? A simple one; though, it
-  must be confessed, pretty remote from the common theories of philosophy. All
-  belief of matter of fact or real existence is derived merely from some object,
-  present to the memory or senses, and a customary conjunction between that and
-  some other object. Or in other words; having found, in many instances, that any
-  two kinds of objectsflame and heat, snow and cold- have always been conjoined
-  together; if flame or snow be presented anew to the senses, the mind is carried
-  by custom to expect heat or cold, and to believe that such a quality does exist,
-  and will discover itself upon a nearer approach. This belief is the necessary
-  result of placing the mind in such circumstances. It is an operation of the
-  soul, when we are so situated, as unavoidable as to feel the passion of love,
-  when we receive benefits; or hatred, when we meet with injuries. All these
-  operations are a species of natural instincts, which no reasoning or process of
-  the thought and understanding is able either to produce or to prevent. At this
-  point, it would be very allowable for us to stop our philosophical researches.
-  In most questions we can never make a single step further; and in all questions
-  we must terminate here at last, after our most restless and curious enquiries.
-  But still our curiosity will be pardonable, perhaps commendable, if it carry us
-  on to still farther researches, and make us examine more accurately the nature
-  of this belief, and of the customary conjunction, whence it is derived. By this
-  means we may meet with some explications and analogies that will give
-  satisfaction; at least to such as love the abstract sciences, and can be
-  entertained with speculations, which, however accurate, may still retain a
-  degree of doubt and uncertainty. As to readers of a different taste; the
-  remaining part of this section is not calculated for them, and the following
-  enquiries may well be understood, though it be neglected.
-
-
-
-  86. There is, in Dr. Tillotson’s writings, an argument against the real
-  presence, which is as concise, and elegant, and strong as any argument can
-  possibly be supposed against a doctrine, so little worthy of a serious 76/David
-  Hume refutation. It is acknowledged on all hands, says that learned prelate,
-  that the authority, either of the scripture or of tradition, is founded merely
-  in the testimony of the apostles, who were eye-witnesses to those miracles of
-  our Saviour, by which he proved his divine mission. Our evidence, then, for the
-  truth of the Christian religion is less than the evidence for the truth of our
-  senses; because, even in the first authors of our religion, it was no greater;
-  and it is evident it must diminish in passing from them to their disciples; nor
-  can any one rest such confidence in their testimony, as in the immediate object
-  of his senses. But a weaker evidence can never destroy a stronger; and
-  therefore, were the doctrine of the real presence ever so clearly revealed in
-  scripture, it were directly contrary to the rules of just reasoning to give our
-  assent to it. It contradicts sense, though both the scripture and tradition, on
-  which it is supposed to be built, carry not such evidence with them as sense;
-  when they are considered merely as external evidences, and are not brought home
-  to every one’s breast, by the immediate operation of the Holy Spirit. Nothing is
-  so convenient as a decisive argument of this kind, which must at least silence
-  the most arrogant bigotry and superstition, and free us from their impertinent
-  solicitations. I flatter myself, that I have discovered an argument of a like
-  nature, which, if just, will, with the wise and learned, be an everlasting check
-  to all kinds of superstitious delusion, and consequently, will be useful as long
-  as the world endures. For so long, I presume, will the accounts of miracles and
-  prodigies be found in all history, sacred and profane.
-
-
-  89. This contrariety of evidence, in the present case, may be derived from
-  several different causes; from the opposition of contrary testimony; from the
-  character or number of the witnesses; from the manner of their delivering their
-  testimony; or from the union of all these circumstances. We entertain a
-  suspicion concerning any matter of fact, when the witnesses contradict each
-  other; when they are but few, or of a doubtful character; when they have an
-  interest in what they affirm; when they deliver their testimony with hesitation,
-  or on the contrary, with too violent asseverations. There are many other
-  particulars of the same kind, which may diminish or destroy the force of any
-  argument, derived from human testimony. Suppose, for instance, that the fact,
-  which the testimony endeavours to establish, partakes of the extraordinary and
-  the marvellous; in that case, the evidence, resulting from the testimony, admits
-  of a diminution, greater or less, in proportion as the fact is more or less
-  unusual. The reason why we place any credit in witnesses and historians, is not
-  derived from any connexion, which we perceive a priori, between testimony and
-  reality, but because we are accustomed to find a conformity between them. But
-  when the fact attested is such a one as has seldom fallen under our observation,
-  here is a contest of two opposite experiences; of which the one destroys the
-  other, as far as its force goes, and the superior can only operate on the mind
-  by the force, which remains. Enquiry Concerning Human Understanding/79 The very
-  same principle of experience, which gives us a certain degree of assurance in
-  the testimony of witnesses, gives us also, in this case, another degree of
-  assurance against the fact, which they endeavour to establish; from which
-  contradiction there necessarily arises a counterpoize, and mutual destruction of
-  belief and authority. I should not believe such a story were it told me by Cato,
-  was a proverbial saying in Rome, even during the lifetime of that philosophical
-  patriot.20 The incredibility of a fact, it was allowed, might invalidate so
-  great an authority. The Indian prince, who refused to believe the first
-  relations concerning the effects of frost, reasoned justly; and it naturally
-  required very strong testimony to engage his assent to facts, that arose from a
-  state of nature, with which he was unacquainted, and which bore so little
-  analogy to those events, of which he had had constant and uniform experience.
-  Though they were not contrary to his experience, they were not conformable to
-  it.21
 #+END_SRC
+*** notas
+tres objeciones (Prades 294) no se puede tener conocimiento directo de milagros
+o profecías
+
+en la vida social cabe aceptar un conocimiento por testimonio a condición de que
+su grado de certeza se limite a la probabilidad
+
+no se puede aceptar una comunicación divina que no sea inmediatamente dirigida
+al individuo
+
+
+
+Hasta el momento sólo nos hemos
+planteado una pregunta que ahora podemos ampliar: ¿qué es conocer una
+verdad para la vida por el testimonio de la revelación divina?
+
+
+Qué otros cuestionamientos se pueden formular relacionados con este fenómeno?
+
+
+Es posible agrupar algunos desafíos y aportaciones de la filosofía moderna y
+contemporánea en varías preguntas principales. Éstas serán útiles a la hora de
+indagar en el pensamiento de Elizabeth Anscombe.
+
+
+Cuál es el valor epistemologico del testimonio?
+
+
+how we successfully acquire justified belief or knowledge on the basis of what
+other people tell us. This, rather than what testimony is, is often taken to be
+the issue of central import from an epistemological point of view.
+
+
+
+
+Because of this, those who are interested in the epistemic status of testimonial
+beliefs often embrace a very broad notion of what it is to testify, one that
+properly leaves the distinction between reliable and unreliable (or otherwise
+epistemically good and bad) testimony for epistemology to delineate.
+
+An adequate account of testimony, therefore, should recognize the distinction
+between entirely non-informational expressions of thought and testimony.
+Moreover, let us use the general term act of communication to include both
+verbal and written assertions as well as communicative physical gestures, such
+as nods, points, and so on. Given this, a rough characterization of testimony
+may be expressed in something like the following way: T: S testifies that p by
+making an act of communication a if and only if (in part) in virtue of a's
+communicable content, (1) S reasonably intends to convey the information that p,
+or4 (2) a is reasonably taken as conveying the information thatp.5
+
+However, even if a speaker's assertion is properly connected with the conveying
+of information, not everything we learn from the testimony of others qualifies
+as testimonially based knowledge.
+
+Even if an expression of thought qualifies as testimony and the resulting belief
+formed is entirely testimonially based for the hearer, however, there is the
+further question of how precisely such a belief successfully counts as justified
+belief or an instance of knowledge. Indeed, this is the question at the center
+of the epistemology ology of testimony, and the current philosophical literature
+contains two central options for answering it: non-reductionism and
+reductionism.
+
+
+According to non-reductionists-whose historical roots are standardly traced back
+to Reid-testimony is just as basic a source of justification (warrant,
+entitlement, knowledge, etc.) as sense perception, memory, inference, and the
+like. Accordingly, so long as there are no relevant defeaters, hearers can
+justifiedly accept the assertions of speakers merely on the basis of a speaker's
+testimony.10
+
+
+In contrast to non-reductionism, reductionists-whose historical roots are typically
+traced back to Hume-maintain that in order to justifiedly accept the testimony of
+speakers, more is needed than the mere absence of undefeated defeaters. In particular,
+proponents of reductionism argue that hearers must have sufficiently good positive
+reasons for accepting a given report, reasons that are not themselves ineliminably
+based on the testimony of others. Typically, these reasons are the result of induction:
+for instance, we observe a general conformity between facts and reports and, with the
+aid of memory and reason, we inductively infer that certain speakers, contexts, or
+types of
+
+
+reports are reliable sources of information. In this way, the justification of
+testimony is reduced to the justification we have for sense perception, memory,
+and inductive 16
+
+
+Puede haber un hecho histórico que signifique una realidad absoluta?
+
+
+Lessing es lo mismo relatos de milagros etc...
+
+I flatter myself, that I have discovered an argument of a like nature, which, if just,
+will, with the wise and learned, be an everlasting check to all kinds of superstitious
+delusion, and consequently, will be useful as long as the world endures. For so long, I
+presume, will the accounts of miracles and prodigies be found in all history, sacred
+and profane.
+
+
+Cita de Lackey
+our dependence....
+
+
+en la filosofía moder
+
+
+cómo suena una descripción del conocer que tenga en cuenta el testimonio?
+
+
+hume diría:
+
+
+It may, therefore, be a subject worthy of curiosity, to enquire what is the nature of
+that evidence which assures us of any real existence and matter of fact, beyond the
+present testimony of our senses, or the records of our memory. This part of philosophy,
+it is observable, has been little cultivated, either by the ancients or moderns ; and
+therefore our doubts and errors, in the prosecution of so important an enquiry, may be
+the more excusable ; while we march through such difficult paths without any guide or
+direction. They may even prove useful, by exciting curiosity, and destroying that
+implicit faith and security, which is the bane of all reasoning and free enquiry. The
+dis covery of defects in the common philosophy, if any such there be, will not, I
+presume, be a discourage ment, but rather an incitement, as is usual, to attempt
+something more full and satisfactory than has yet been proposed to the public. All
+reasonings concerning matter of fact seem to be founded on the relation of Cause and
+Effect
+
+
+We learn the events of former ages from history; but then we must peruse the vol umes
+in which this instruction is contained, and thence carry up our inferences from one
+testimony to another, till we arrive at the eyewitnesses and spectators of these
+distant events. In a word, if we proceed not upon some fact, present to the memory or
+senses, our reasonings would be merely hypothetical ; and how ever the particular links
+might be connected with each other, the whole chain of inferences would have noth ing
+to support it, nor could we ever, by its means, ar rive at the knowledge of any real
+existence. If I ask why you believe any particular matter of fact, which you relate,
+you must tell me some reason ; and this reason will be some other fact, connected with
+it. But as you cannot proceed after this manner, in infini tum, you must at last
+terminate in some fact, which is present to your memory or senses ; or must allow that
+your belief is entirely without foundation.
+
+
+All belief of matter of fact or real existence is derived merely from some object,
+present to the memory or senses, and a customary conjunction between that and some
+other object. Or in other words ; having found in many instances, that any two kinds of
+objects— flame and heat, snow and cold—have always been con joined together ; if flame
+or snow be presented anew to the senses, the mind is carried by custom to expect heat
+or cold, and to believe that such a quality does exist, and will discover itself upon a
+nearer approach.
+
+
+The sceptic, therefore, had better keep within his proper sphere, and display those
+philosophical objec tions, which arise from more profound researches. Here he seems to
+have ample matter of triumph; while he justly insists, that all our evidence for any
+matter of fact, which lies beyond the testimony of sense or memory, is derived entirely
+from the relation of cause and effect ; that we have no other idea of this relation
+than that of two objects, which have been frequently conjoined together ; that we have
+no argu ment to convince us, that objects, which have, in our experience, been
+frequently conjoined, will likewise, in other instances, be conjoined in the same
+manner ; and that nothing leads us to this inference but custom or a certain instinct
+of our nature ; which it is indeed difficult to resist, but which, like other
+instincts, may be fallacious and deceitfuh While the sceptic insists upon these topics,
+he shows his force, or rather, in deed, his own and our weakness ; and seems, for the
+time at least, to destroy all assurance and conviction. These arguments might be
+displayed at greater length, if any durable good, or benefit to society could ever be
+expected to result from them.
+
+
+Hume
+anota un par de cosas
+no se ha estudiado mucho
+no se puede ser tan escéptico q no se valore
+su valor no puede ser exagerado, la confianza q merece descansa en la experiencia q
+tenemos de inferir efectos de causas
+
+todo conocimiento descansará al final en un contacto con la experiencia o la memoria
+
+la filosofía contemporánea aporta otras ideas,
+lackey:
+
+y qué pasa cuando se trata de un testimonio sobre algún hecho extraordinario, como un
+milagro?
+
+
+-----
+
+An account of knowledge
+which takes testimony into account, how does it look?
+
+study of nature of knowledge and justification
+
+Si se hace un estudio de la naturaleza del conocer y su justificación
+y entonces se hace una descripición del conocimiento
+
+Si entendemos la epistemología como una descripción del conocer
+
+¿Qué papel juega el testimonio
+
+Una descripción del conocimiento que tenga en cuenta el testimonio cómo
+quedaría?
+
+
+
+Epistemology, characterized broadly, is an account of knowledge. Within the
+discipline of philosophy, epistemology is the study of the nature of knowledge
+and justification: in particular, the study of (a) the defining components, (b)
+the substantive conditions or sources, and (c) the limits of knowledge and
+justification. Categories (a)--(c) have prompted traditional philosophical
+controversy over the analysis of knowledge and justification, the sources of
+knowledge and justification (in the case, for instance of rationalism vs
+empiricism), and the status of skepticism about knowledge and justification.
+
+Epistemologists have distinguished some species of knowledge, including:
+propositional knowledge (that something is so), nonpropositional knowledge of
+something (for instance, knowledge by acquaintance, or by direct awareness),
+empirical (a posteriori) propositional knowledge, nonempirical (a priori)
+propositional knowledge, and knowledge how to do something.
+
+Ever since Plato's Theaetetus, epipstemologists have tried to identify the
+essential, defining components of propositional knowledge. These components will
+yield an analysis of propositional knowledge. An influential traditional view,
+inspired by Plato and Kant among others, is that propositional knowledge has
+three individually necessary and jointly sufficient components: justification,
+truth, and belief. On this view, propositional knowledge is, by definition,
+justified true belief. This tripartite definition has come to be called ``the
+standard analysis''.
+
+Knowledge is not just true belief. Knowledge requires that the satisfaction of
+its belief condition be ``appropriately related'' to the satisfaction of its
+truth condition. This is one broad way of understanding the justification
+condition of the standard analysis. Controversy arises over the meaning of
+``justification'' as well as over the substantive conditions for a belief's
+being justified in a way appropriate to knowledge.
+
+Any standard or strategy worthy of the title ``epistemic'' must have as its
+fundamental goal the acquisition of truth and the avoidance of error. This
+follows from the fact that genuine knowledge has truth as an essential condition
+and excludes error. Of course, contemporary epistemology offers numerous
+strategies for acquiring truth and avoiding erros, including contextualist,
+coherentist, foundationalist, internalist, and externalist strategies.
+
+Ideally, we would be able to say convingcingly that a particular strategy is
+more effective at acquiring truth and avoiding error than all the others, and
+then be done with the provlem o f final epistemological authority. Whatever
+strategy has maximal effectiveness in getting truth and blocking error would
+then have final epistemological authority for us. Unfortunately for us, the
+problem resists such quick resolution.
+
+Skeptics can help us appreciate the problem we face. Thay raise general
+questions about the reliability of our cognitive sources; that is, they ask
+about our cognitive sources altogether, as a whole. In doing so, they wonder
+what convincing reason we have to regard those sources as reliable for aquiring
+truth and avoiding error.
+
+Our offering any kind of support for the reliability of our cognitive source
+will depend on our use of such cognitive sources as perception, introspection,
+belief, memory, testimony, intuition, and common sense. Since all such sources
+are under question by skeptics, with regard to reliability, our use of them
+cannot deliver the kind of evidence of reliability sought by skeptics.
+
+Unfortunately, we cannot assume a position independent of our own cognitive
+sources to deliver a test of their reliability of the sort demanded by skeptics.
+This is the human cognitive predicament, and no one has shown how we can escape
+it.
+
+
+
+--------
+
+Hume: Treatise
+SECTION IV. Of the component parts of our reasonings concerning cause and
+effect.
+
+Tho’ the mind in its reasonings from causes or effects carries its view
+beyond those objects, which it sees or remembers, it must never lose sight of
+them entirely, nor reason merely upon its own ideas, without some mixture of
+impressions, or at least of ideas of the memory, which are equivalent to
+impressions.
+
+
+When we infer effects from causes, we must establish the existence
+of these causes; which we have only two ways of doing, either by an immediate
+perception of our memory or senses, or by an inference from other causes; which
+causes again we must ascertain in the same manner, either by a present
+impression, or by an inference from their causes, and so on, till we arrive at
+some object, which we see or remember. ’Tis impossible for us to carry on our
+inferences in infinitum; and the only thing, that can stop them, is an
+impression of the memory or senses, beyond which there is no room for doubt or
+enquiry.
+
+
+
+Enquiries
+
+37. But here it may be proper to remark, that though our conclusions from
+experience carry us beyond our memory and senses, and assure us of matters of
+fact which happened in the most distant places and most remote ages, yet some
+fact must always be present to the senses or memory, from which we may first
+proceed in drawing these conclusions. A man, who should find in a desert country
+the remains of pompous buildings, would conclude that the country had, in
+ancient times, been cultivated by civilized inhabitants; but did nothing of this
+nature occur to him, he could never form such an inference. We learn the events
+of former ages from history; but then we must peruse the volumes in which this
+instruction is contained, and thence carry up our inferences from one testimony
+to another, till we arrive at the eyewitnesses and spectators of these distant
+events. In a word, if we proceed not upon some fact, present to the memory or
+senses, our reasonings would be merely hypothetical; and however the particular
+links might be connected with each other, the whole chain of inferences would
+have nothing to support it, nor could we ever, by its means, arrive at the
+knowledge of any real existence. If I ask why you believe any particular matter
+of fact, which you relate, you must tell me some reason; and this reason will be
+some other fact, connected with it. But as you cannot proceed after this manner,
+in infinitum, you must at last terminate in some fact, which is present to your
+memory or senses; or must allow that your belief is entirely without foundation.
+
+
+
+38. What, then, is the conclusion of the whole matter? A simple one; though, it
+must be confessed, pretty remote from the common theories of philosophy. All
+belief of matter of fact or real existence is derived merely from some object,
+present to the memory or senses, and a customary conjunction between that and
+some other object. Or in other words; having found, in many instances, that any
+two kinds of objectsflame and heat, snow and cold- have always been conjoined
+together; if flame or snow be presented anew to the senses, the mind is carried
+by custom to expect heat or cold, and to believe that such a quality does exist,
+and will discover itself upon a nearer approach. This belief is the necessary
+result of placing the mind in such circumstances. It is an operation of the
+soul, when we are so situated, as unavoidable as to feel the passion of love,
+when we receive benefits; or hatred, when we meet with injuries. All these
+operations are a species of natural instincts, which no reasoning or process of
+the thought and understanding is able either to produce or to prevent. At this
+point, it would be very allowable for us to stop our philosophical researches.
+In most questions we can never make a single step further; and in all questions
+we must terminate here at last, after our most restless and curious enquiries.
+But still our curiosity will be pardonable, perhaps commendable, if it carry us
+on to still farther researches, and make us examine more accurately the nature
+of this belief, and of the customary conjunction, whence it is derived. By this
+means we may meet with some explications and analogies that will give
+satisfaction; at least to such as love the abstract sciences, and can be
+entertained with speculations, which, however accurate, may still retain a
+degree of doubt and uncertainty. As to readers of a different taste; the
+remaining part of this section is not calculated for them, and the following
+enquiries may well be understood, though it be neglected.
+
+
+
+86. There is, in Dr. Tillotson’s writings, an argument against the real
+presence, which is as concise, and elegant, and strong as any argument can
+possibly be supposed against a doctrine, so little worthy of a serious 76/David
+Hume refutation. It is acknowledged on all hands, says that learned prelate,
+that the authority, either of the scripture or of tradition, is founded merely
+in the testimony of the apostles, who were eye-witnesses to those miracles of
+our Saviour, by which he proved his divine mission. Our evidence, then, for the
+truth of the Christian religion is less than the evidence for the truth of our
+senses; because, even in the first authors of our religion, it was no greater;
+and it is evident it must diminish in passing from them to their disciples; nor
+can any one rest such confidence in their testimony, as in the immediate object
+of his senses. But a weaker evidence can never destroy a stronger; and
+therefore, were the doctrine of the real presence ever so clearly revealed in
+scripture, it were directly contrary to the rules of just reasoning to give our
+assent to it. It contradicts sense, though both the scripture and tradition, on
+which it is supposed to be built, carry not such evidence with them as sense;
+when they are considered merely as external evidences, and are not brought home
+to every one’s breast, by the immediate operation of the Holy Spirit. Nothing is
+so convenient as a decisive argument of this kind, which must at least silence
+the most arrogant bigotry and superstition, and free us from their impertinent
+solicitations. I flatter myself, that I have discovered an argument of a like
+nature, which, if just, will, with the wise and learned, be an everlasting check
+to all kinds of superstitious delusion, and consequently, will be useful as long
+as the world endures. For so long, I presume, will the accounts of miracles and
+prodigies be found in all history, sacred and profane.
+
+
+89. This contrariety of evidence, in the present case, may be derived from
+several different causes; from the opposition of contrary testimony; from the
+character or number of the witnesses; from the manner of their delivering their
+testimony; or from the union of all these circumstances. We entertain a
+suspicion concerning any matter of fact, when the witnesses contradict each
+other; when they are but few, or of a doubtful character; when they have an
+interest in what they affirm; when they deliver their testimony with hesitation,
+or on the contrary, with too violent asseverations. There are many other
+particulars of the same kind, which may diminish or destroy the force of any
+argument, derived from human testimony. Suppose, for instance, that the fact,
+which the testimony endeavours to establish, partakes of the extraordinary and
+the marvellous; in that case, the evidence, resulting from the testimony, admits
+of a diminution, greater or less, in proportion as the fact is more or less
+unusual. The reason why we place any credit in witnesses and historians, is not
+derived from any connexion, which we perceive a priori, between testimony and
+reality, but because we are accustomed to find a conformity between them. But
+when the fact attested is such a one as has seldom fallen under our observation,
+here is a contest of two opposite experiences; of which the one destroys the
+other, as far as its force goes, and the superior can only operate on the mind
+by the force, which remains. Enquiry Concerning Human Understanding/79 The very
+same principle of experience, which gives us a certain degree of assurance in
+the testimony of witnesses, gives us also, in this case, another degree of
+assurance against the fact, which they endeavour to establish; from which
+contradiction there necessarily arises a counterpoize, and mutual destruction of
+belief and authority. I should not believe such a story were it told me by Cato,
+was a proverbial saying in Rome, even during the lifetime of that philosophical
+patriot.20 The incredibility of a fact, it was allowed, might invalidate so
+great an authority. The Indian prince, who refused to believe the first
+relations concerning the effects of frost, reasoned justly; and it naturally
+required very strong testimony to engage his assent to facts, that arose from a
+state of nature, with which he was unacquainted, and which bore so little
+analogy to those events, of which he had had constant and uniform experience.
+Though they were not contrary to his experience, they were not conformable to
+it.21
+
+
+
+
 *** de la pres
 \subsection{Wittgenstein y la filosofía analítica}
 
