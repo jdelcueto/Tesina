@@ -1971,35 +1971,35 @@ Evangelii Nuntiandi n21
     must have as its fundamental goal the acquisition of truth and the avoidance
     of error.}
 
-  Un análisis tradicional empleado para hablar del conocimiento proposicional es
-  el que le describe como `creencia verdadera justificada'.\footnote{Ever since
-    Plato's Theaetetus, epipstemologists have tried to identify the essential,
-    defining components of propositional knowledge. These components will yield an
-    analysis of propositional knowledge. An influential traditional view, inspired
-    by Plato and Kant among others, is that propositional knowledge has three
-    individually necessary and jointly sufficient components: justification,
-    truth, and belief. On this view, propositional knowledge is, by definition,
-    justified true belief. This tripartite definition has come to be called ``the
-    standard analysis''.} Según esta composición tripartita la pregunta sobre el
-  valor epistemológico del testimonio se puede plantear diciendo: dada una
-  comunicación que cualifique como testimonio y que sea al caso que la creencia
-  formada desde esta comunicación está basada enteramente en el testimonio
-  recibido,\footnote{Even if an expression of thought qualifies as testimony and
-    the resulting belief formed is entirely testimonially based for the hearer,
-    however, there is the further question of how precisely such a belief
-    successfully counts as justified belief or an instance of knowledge.} ¿cómo
-  adquirimos efectivamente una creencia verdadera justificada sobre la base de lo
-  que alguien nos ha dicho?\footnote{how we successfully acquire justified belief
-    or knowledge on the basis of what other people tell us. This, rather than what
-    testimony is, is often taken to be the issue of central import from an
-    epistemological point of view.}, es decir, ¿cómo, precisamente, una creencia
-  como esta puede ser contada satisfactoriamente como creencia justificada o una
-  instancia de conocimiento? \footnote{how precisely such a belief successfully
-    counts as justified belief or an instance of knowledge}
+  Podemos recurrir al análisis tradicional empleado para hablar del conocimiento
+  proposicional y entenderlo como `creencia verdadera justificada'.\footnote{Ever
+    since Plato's Theaetetus, epipstemologists have tried to identify the
+    essential, defining components of propositional knowledge. These components
+    will yield an analysis of propositional knowledge. An influential traditional
+    view, inspired by Plato and Kant among others, is that propositional knowledge
+    has three individually necessary and jointly sufficient components:
+    justification, truth, and belief. On this view, propositional knowledge is, by
+    definition, justified true belief. This tripartite definition has come to be
+    called ``the standard analysis''.} Según esta composición tripartita la
+  pregunta sobre el valor epistemológico del testimonio se puede plantear
+  diciendo: dada una comunicación que cualifique como testimonio y que sea al caso
+  que la creencia formada desde esta comunicación está basada enteramente en el
+  testimonio recibido,\footnote{Even if an expression of thought qualifies as
+    testimony and the resulting belief formed is entirely testimonially based for
+    the hearer, however, there is the further question of how precisely such a
+    belief successfully counts as justified belief or an instance of knowledge.}
+  ¿cómo adquirimos efectivamente una creencia verdadera justificada sobre la base
+  de lo que alguien nos ha dicho?\footnote{how we successfully acquire justified
+    belief or knowledge on the basis of what other people tell us. This, rather
+    than what testimony is, is often taken to be the issue of central import from
+    an epistemological point of view.}, es decir, ¿cómo, precisamente, una
+  creencia como esta puede ser contada satisfactoriamente como creencia
+  justificada o una instancia de conocimiento? \footnote{how precisely such a
+    belief successfully counts as justified belief or an instance of knowledge}
 
   Las respuestas a esta pregunta central sobre la epistemología del testimonio se
-  han situado en lo que se ha llamado la postura reduccionista y la
-  no-reduccionista.\footnote{Indeed, this is the question at the center of the
+  han situado en dos posturas que se han denominado `reduccionista' y
+  `no-reduccionista'.\footnote{Indeed, this is the question at the center of the
     epistemology of testimony, and the current philosophical literature contains
     two central options for answering it: non-reductionism and reductionism.} Las
   raices históricas de la primera postura se le suelen atribuir a Hume y de la
@@ -2017,82 +2017,148 @@ Evangelii Nuntiandi n21
     justifiedly accept the assertions of speakers merely on the basis of a
     speaker's testimony.}
 
-  Hume, por su parte \citalitinterlin{es uno de los pocos filósofos que ha
-    ofrecido algo así como una descripción sostenida acerca del testimonio y si alguna
-    perspectiva puede reclamar el título de `el punto de vista adoptado' es la
-    suya}.\footnote{is one of the few philosophers who has offered anything like
-    a sustained account of testimony and if any view has a claim to the title of
-    `the received view' it is his testimony p 79}
+  Hume, por su parte, \citalitinterlin{es uno de los pocos filósofos que ha
+    ofrecido algo así como una descripción sostenida acerca del testimonio y si
+    alguna perspectiva puede reclamar el título de `el punto de vista adoptado' es
+    la suya}.\footnote{is one of the few philosophers who has offered anything
+    like a sustained account of testimony and if any view has a claim to the title
+    of `the received view' it is his testimony p 79} En la base de su valoración
+  del testimonio está su estima de la relación de causa y efecto como fundamento
+  de cualquier razonamiento conciernente a cuestiones de hecho.
 
-  En primer lugar cabe destacar que le considera un tema poco desarrollado en la
-  filosofía antigua y moderna:
-  \citalitlar{It may, therefore, be a subject worthy of curiosity, to enquire what
-    is the nature of that evidence which assures us of any real existence and
+  Distinto a las relaciones de ideas, la evidencia de la veracidad de una cuestión
+  de hecho no se demuestra a priori, sino que ha de ser descubierta en la
+  experiencia. Ahora bien, ¿cuál es la naturaleza de la evidencia de aquellas
+  cuestiones de hecho que están más allá de la percepción de nuestros sentidos o
+  de las impresiones de nuestra memoria?\footnote{Matters of fact, which are the
+    second objects of human reason, are not ascertained in the same manner; nor is
+    our evidence of their truth, however great, of a like nature with the
+    foregoing (relations of ideas) [\ldots] The contrary of every matter of fact
+    is still possible [\ldots] We should, in vain, therefore attempt to
+    demonstrate its falsehood. Were it demonstratively false, it would imply a
+    contradiction, and could never be distinctly conceived by the mind [\ldots]
+    what is the nature of that evidence which assures us of any real existence and
     matter of fact, beyond the present testimony of our senses, or the records of
-    our memory. This part of philosophy, it is observable, has been little
-    cultivated, either by the ancients or moderns}
+    our memory. enquiry ch IV part I} Nuestros razonamientos relacionados con
+  algún hecho se componen de inferencias realizadas a partir del conocimiento que
+  tenemos de que a una causa se sigue su efecto.\footnote{All our reasonings
+    concerning fact are of the same nature; and here it is constantly supposed
+    that there is a connection between the present fact and that which is inferred
+    from it. Were there nothing to bind them together, the inference would be
+    entirely precarious.} Este conocimiento de la relación causa y efecto, a su
+  vez, no consiste en un razonamiento a priori, \citalitinterlin{sino que surge
+    completamente de la experiencia, cuando descubrimos que cualesquiera objetos
+    particulares están constantemente unidos entre sí}.\footnote{that the
+    knowledge of this relation is not, in any instance, attained by reasonings a
+    priori, but arises entirely from experience, when we find that any particular
+    objects are constantly conjoined with each other. enquiry ch IV part I} Es así
+  que \citalitinterlin{por medio de esta relación solamente, podemos ir más allá
+    de nuestra memoria y sentidos}. \footnote{By means of that relation alone, we
+    can go beyond the evidence of our memory and senses.}
 
+  Esta misma línea de razonamiento es la que se sigue en la descripción acerca del
+  testimonio y su valor: \citalitlar{there is no species of reasoning more common,
+    more useful, and even necessary to human life, than that which is derived from
+    the testimony of men, and the reports of eye witnesses and spectators. This
+    species of reasoning, perhaps, one may deny to be founded on the relation of
+    cause and effect. I shall not dispute about a word. It will be sufficient to
+    observe, that our assurance in any argument of this kind, is derived from no
+    other principle than our observation of the veracity of human testimony, and
+    of the usual conformity of facts to the reports of witnesses. It being a
+    general maxim, that no objects have any discoverable connection together, and
+    that all the inferences which we can draw from one to another, are founded
+    merely on our experience of their constant and regular conjunction; it is
+    evident, that we ought not to make an exception to this maxim in favour of
+    human testimony, whose connection with any event seems, in itself, as little
+    necessary as any other. Were not the memory tenacious to a certain degree; had
+    not men commonly an inclination to truth and a principle of probity; were they
+    not sensible to shame, when detected in a falsehood; were not these, I say,
+    discovered by experience to be qualities inherent in human nature, we should
+    never repose the least confidence in human testimony. A man delirious, or
+    noted for falsehood and villany, has no manner of authority with
+    us.\footnote{enquiry ch X part I}} Así como nuestra habitual experiencia de la
+  relación de causa y efecto nos permite hacer inferencias acerca de las
+  cuestiones de hecho que están más allá de nuestros sentidos, la conformidad que
+  usualmente experimentamos entre los hechos y el informe que un testigo nos da de
+  ellos nos permite inferir su veracidad. Según el análasis ofrecido por
+  C.\,A.\,J.~Coady, la teoría de Hume: \citalitlar{constitutes a reduction of
+    testimony as a form of evidence or support to the status of a species (one
+    might almost say, a mutation) of inductive inference. And, again, in so far as
+    inductive inference is reduced by Hume to a species of observation and
+    consequences attendant upon observations, then in a like fashion testimony
+    meets the same fate.\footnote{testimony p. 79}}
 
+  La valoración epistemológica del testimonio y la perspectiva ofrecida por Hume
+  nos deja así con un primer desafío: \citalitlar{en la vida social cabe aceptar
+    un conocimiento por testimonio a condición de que su grado de certeza se
+    limite a la probabilidad, y a condición de que pueda ser siempre reconducido a
+    una verificación por conocimiento
+    directo}.\autocite[294]{prades2015testimonio} Estas consideraciones añaden
+  algunos elementos a nuestro cuestionamiento original. Conocer una verdad para la
+  vida desde el testimonio implica que pueda obtenerse una creencia verdadera
+  justificada basada en lo que una persona ha comunicado. La visión de Hume es que
+  la evidencia que puede ofrecer un testimonio para justificar una creencia no es
+  mayor que la probabilidad y esta evidencia está basada en la inferencia que nos
+  permite la habitual experiencia de que el testimonio comunicado y la verdad de
+  los hechos suelen ir unidos. Más adelante veremos qué tiene que decir Anscombe
+  ante este desafío. Todavía podemos plantear una segunda cuestión esta vez
+  relacionada con la segunda parte de nuestra pregunta original.
 
-  To apply these principles to a particular instance, we may observe, that there
-  is no species of reasoning more common, more useful, and even necessary to human
-  life, than that which is derived from the testimony of men, and the reports of
-  eye witnesses and spectators. This species of reasoning, perhaps, one may deny
-  to be founded on the relation of cause and effect. I shall not dispute about a
-  word. It will be sufficient to observe, that our assurance in any argument of
-  this kind, is derived from no other principle than our observation of the
-  veracity of human testimony, and of the usual conformity of facts to the reports
-  of witnesses. It being a general maxim, that no objects have any discoverable
-  connection together, and that all the inferences which we can draw from one to
-  another, are founded merely on our experience of their constant and regular
-  conjunction; it is evident, that we ought not to make an exception to this maxim
-  in favour of human testimony, whose connection with any event seems, in itself,
-  as little necessary as any other. Were not the memory tenacious to a certain
-  degree; had not men commonly an inclination to truth and a principle of probity;
-  were they not sensible to shame, when detected in a falsehood; were not these, I
-  say, discovered by experience to be qualities inherent in human nature, we
-  should never repose the least confidence in human testimony. A man delirious, or
-  noted for falsehood and villany, has no manner of authority with us.
-
-
-  en la vida social cabe aceptar un conocimiento por testimonio a condición de que
-  su grado de certeza se limite a la probabilidad
+  \subsection{Lessing es lo mismo relatos de milagros etc... valor abosluto de un
+    hecho histórico}
+  El contexto de la reflexión de Hume sobre el testimonio es precisamente el de la
+  creencia en los milagros. La preocupación de Hume es que el `hombre sabio' pueda
+  verificar sus creencias de modo que no sea víctima de `engaños supersticiosos'.
+  Para esto, estima, que ha encontrado un argumento que servirá para distinguir
+  superstición de verdad.\footnote{I flatter myself, that I have discovered an
+    argument of a like nature, which, if just, will, with the wise and learned, be
+    an everlasting check to all kinds of superstitious delusion, and consequently
+    will be useful as long as the world endures.} Dice: \citalitinterlin{in our
+    reasonings concerning matter of fact, there are all imaginable degrees of
+    assurance, from the highest certainty to the lowest species of moral evidence.
+    A wise man, therefore, proportions his belief to the evidence}. Entonces
+  sugiere un criterio que permite ajustar las creencias a la evidencia:
+  \citalitlar{“That no testimony is sufficient to establish a miracle, unless the
+    testimony be of such a kind, that its falsehood would be more miraculous than
+    the fact which it endeavours to establish; and, even in that case, there is a
+    mutual destruction of arguments; and the superior only gives us an assurance
+    suitable to that degree of force which remains after deducting the inferior.”}
+  Esto tiene como consecuencia que lo razonable sea abandonar la razonabilidad de
+  las verdades cristianas, comprendiendo que solo pueden ser contempladas desde la
+  fe. Empleando su criterio ofrece una valoración de la revelación de la escritura
+  como sigue:
+  \citalitlar{I am the better pleased with the method of reasoning here delivered,
+    as I think it may serve to confound those dangerous friends, or disguised
+    enemies to the Christian religion, who have undertaken to defend it by the
+    principles of human reason. Our most holy religion is founded on faith, not on
+    reason; and it is a sure method of exposing it, to put it to such a trial as
+    it is by no means fitted to endure. To make this more evident, let us examine
+    those miracles related in Scripture; and, not to lose ourselves in too wide a
+    field, let us confine ourselves to such as we find in the Pentateuch, which we
+    shall examine according to the principles of these pretended Christians, not
+    as the word or testimony of God himself, but as the production of a mere human
+    writer and historian. Here then we are first to consider a book, presented to
+    us by a barbarous and ignorant people, written in an age when they were still
+    more barbarous, and in all probability long after the facts which it relates,
+    corroborated by no concurring testimony, and resembling those fabulous
+    accounts which every nation gives of its origin. Upon reading this book, we
+    find it full of prodigies and miracles. It gives an account of a state of the
+    world and of human nature entirely different from the present: of our fall
+    from that state; of the age of man extended to near a thousand years; of the
+    destruction of the world by a deluge; of the arbitrary choice of one people,
+    as the favourites of heaven, and that people the countrymen of the author; of
+    their deliverance from
+    bondage by prodigies the most astonishing imaginable.\\
+    I desire any one to lay his hand upon his heart, and, after a serious
+    consideration, declare, whether he thinks that the falsehood of such a book,
+    supported by such a testimony, would be more extraordinary and miraculous than
+    all the miracles it relates; which is, however, necessary to make it be
+    received according to the measures of probability above established.}
 
   \subsection{Puede haber un hecho histórico que signifique una realidad absoluta?}
   no se puede aceptar una comunicación divina que no sea inmediatamente dirigida
   al individuo
 
-  \subsection{Lessing es lo mismo relatos de milagros etc...}
-  no se puede tener conocimiento directo de milagros
-  o profecías
-
-  I am the better pleased with the method of reasoning here delivered, as I think
-  it may serve to confound those dangerous friends, or disguised enemies to the
-  Christian religion, who have undertaken to defend it by the principles of human
-  reason. Our most holy religion is founded on faith, not on reason; and it is a
-  sure method of exposing it, to put it to such a trial as it is by no means
-  fitted to endure. To make this more evident, let us examine those miracles
-  related in Scrip ture; and, not to lose ourselves in too wide a field, let us
-  con fine ourselves to such as we find in the Pentateuch, which we shall examine
-  according to the principles of these pretended Christians, not as the word or
-  testimony of God himself, but as the production of a mere human writer and
-  historian. Here then we are first to consider a book, presented to us by a
-  barbarous and ignorant people, written in an age when they were still more
-  barbarous, and in all probability long after the facts which it relates,
-  corroborated by no concurring testimony, and resembling those fabulous accounts
-  which every nation gives of its origin. Upon reading this book, we find it full
-  of prodigies and miracles. It gives an account of a state of the world and of
-  human nature entirely different from the present: of our fall from that state;
-  of the age of man extended to near a thousand years; of the destruction of the
-  world by a deluge; of the arbitrary choice of one people, as the favourites of
-  heaven, and that people the countrymen of the author; of their deliverance from
-  bondage by prodigies the most astonishing imaginable.
-
-  I desire any one to lay his hand upon his heart, and, after a serious
-  consideration, declare, whether he thinks that the falsehood of such a book,
-  supported by such a testimony, would be more extraordinary and miraculous than
-  all the miracles it relates; which is, however, necessary to make it be received
-  according to the measures of probability above established.
 
   \subsection{El lenguaje religioso es capaz de transmitir alguna verdad?}
   Ciruclo de viena, falsabilidad como cuarto atributo de el conocimiento
