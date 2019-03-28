@@ -2104,8 +2104,7 @@ Evangelii Nuntiandi n21
   ante este desafío. Todavía podemos plantear una segunda cuestión esta vez
   relacionada con la segunda parte de nuestra pregunta original.
 
-  \subsection{Lessing es lo mismo relatos de milagros etc... valor abosluto de un
-    hecho histórico}
+  \subsection{¿Tiene fuerza un testimonio histórico del absoluto?}
   El contexto de la reflexión de Hume sobre el testimonio es precisamente el de la
   creencia en los milagros. La preocupación de Hume es que el `hombre sabio' pueda
   verificar sus creencias de modo que no sea víctima de `engaños supersticiosos'.
@@ -2154,13 +2153,54 @@ Evangelii Nuntiandi n21
     supported by such a testimony, would be more extraordinary and miraculous than
     all the miracles it relates; which is, however, necessary to make it be
     received according to the measures of probability above established.}
+  ¿Se puede afirmar que sería más ``milagrosa'' la falsedad de los milagros que
+  atestigua la escritura? La posibilidad de recibir este testimonio como evidencia
+  de alguna verdad descansaría sobre esta condición y una persona razonable
+  debería medir la probabilidad de veracidad de estos relatos teniendo en cuenta
+  que el estado de las cosas que describe es distinto al que experimentamos en el
+  presente.
 
-  \subsection{Puede haber un hecho histórico que signifique una realidad absoluta?}
-  no se puede aceptar una comunicación divina que no sea inmediatamente dirigida
-  al individuo
+  En una línea similar de pensamiento encontramos las reflexiones de
+  G.\,E.~Lessing. Dos cuestiones expresadas en ``On the proof of the spirit and
+  power'' merecen ser destacadas:
+  \citalitlar{The problem is that reports of fulfilled prophecies are not
+    fullfiled prophecies; that reports of miracles are not miracles. These, the
+    prophecies fulfilled before my eyes, the miracles that occur before my eyes,
+    are immediate in their effect. But those---the reports of fulfilled prophecies
+    and miracles, have to work through a medium which takes away all their force}
+  Lo que debería tener la fuerza para justificar la credibilidad queda debilitado
+  por su medio de transmisión, entonces \citalitinterlin{the problem is that this
+    proof of the spirit and of power no longer has any spirit or power, but has
+    sunk to the level of human testimonies of spirit and power}. Tal como lo
+  plantea Lessing y teniendo en cuenta el criterio propuesto por Hume, el
+  testimonio, en tanto que dinamismo humano, no tiene fuerza suficiente para
+  justificar razonablemente creencias sobre Dios como verdadero conocimiento.
 
+  Esta objeción nos lleva a la siguiente:
+  \citalitlar{the reports which we have of these prophecies and miracles are as
+    reliable as historical truths can ever be [\ldots] But if they are as reliable
+    as this, why are they treated as if they were infinitely more reliable?
+    [\ldots] If no historical truth can be demonstrated, then nothing can be
+    demonstrated by means of historical truths. That is: \emph{accidental truths
+      of history can never become proof of necessary truths of reason.}}
+  El punto que Lessing señala es infranqueable para su propio intento de
+  comprometerse con la verdad que la creencia cristiana pretende comunicar. La
+  singularidad de la persona y obra de Jesús como manifestación de la realidad de
+  Dios pierde para él toda su fuerza, puesto que no puede estimar estas verdades
+  históricas como fundamento para una verdad necesaria como lo es la verdad de
+  Dios.
 
-  \subsection{El lenguaje religioso es capaz de transmitir alguna verdad?}
+  Esto nos deja con una segunda problemática: \citalitinterlin{no se puede tener
+    conocimiento directo de milagros y profecias [\ldots] no se puede aceptar una
+    comunicación divina que no sea inmediatamente dirigida al
+    individuo}\autocite[294]{prades2015testimonio}. Este desafío viene a poner en
+  cuestión que un hecho histórico de la vida personal o colectiva pueda ser
+  estimado como testimonio del absoluto. La revelación de Dios por medio de
+  testigos no es un fenómeno que tenga justificación razonable para su veracidad,
+  y por tanto sólo puede ser acogida por una fe desconectada de la razón.
+
+  \subsection{¿El lenguaje religioso es capaz de transmitir alguna verdad?}
+
   Ciruclo de viena, falsabilidad como cuarto atributo de el conocimiento
   proposicional. cita de analogía teológica.
 
