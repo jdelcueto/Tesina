@@ -1931,20 +1931,30 @@ Evangelii Nuntiandi n21
     hombre con Dios, la reflexión teológica se encuentra entonces autorizada a
     explorar los datos de esta
     experiencia.\autocite[1523]{latourelle2000testimonio}}
+  Hasta el momento sólo hemos formulado una pregunta, que si ampliamos un poco
+  queda: ``¿qué es conocer una verdad para la vida por el testimonio de la
+  revelación divina?''. Esta formulación puede servir como punto de partida y, si
+  tenemos en cuenta la reflexión filosófica en torno al testimonio, podemos
+  expandirla más.
 
-  Hasta el momento sólo hemos formulado una pregunta, que ahora podemos ampliar:
-  ¿qué es conocer una verdad para la vida por el testimonio de la revelación
-  divina?
-
-  Si atendemos al modo en que se ha reflexionado sobre el testimonio en la
-  filosofía moderna y contemporanea encontramos desafíos y aportaciones que
-  La filosofía moderna y contemporanea
-
-  Desde aquí examinaremos qué otros cuestionamientos se pueden plantear
-  relacionados con este fenómeno. Es posible agrupar algunos desafíos y
-  aportaciones de la filosofía moderna y contemporánea en varías preguntas
-  principales. Éstas serviran luego para navegar en el pensamiento de Elizabeth
-  Anscombe.
+  Aún cuando el testimonio ocupa un lugar vital en nuestro contacto con el mundo,
+  no siempre ha gozado del interés de la investigación filosófica. Más
+  recientemente, sin embargo, su importancia ha sido mejor apreciada y así lo
+  refleja la variedad literatura que puede encontrarse en la filosofía
+  contemporanea.\footnote{Cf. Jennifer Lackey Despite the vital role that
+    testimony occupies in our epistemic lives, traditional epistemological
+    theories focused primarily on other sources, such as sense perception, memory,
+    and reason, with relatively little attention devoted specifically to
+    testimony. In recent years, however, the epistemic significance of testimony
+    has been more fully appreciated, and the current literature has benefited from
+    the publication of a considerable amount of interesting and innovative work in
+    this area.}
+  Esta época mas prolija en discusiones no es, sin embargo, el origen de algunas
+  posturas propuestas en torno al testimonio, éste lo encontramos más bien en la
+  época moderna. Recurriremos, por tanto, a algunas aportaciones y desafíos
+  ofrecidos por la filosofía moderna y contemporánea para expandir nuestra
+  anterior pregunta y formular las cuestiones principales que serviran luego para
+  navegar en el pensamiento de Elizabeth Anscombe.
 
   \subsection{¿Cuál es el valor epistemológico del testimonio?}
   Corresponde a la epistemología la tarea de estudiar la naturaleza del conocer y
@@ -1982,29 +1992,37 @@ Evangelii Nuntiandi n21
   que alguien nos ha dicho?\footnote{how we successfully acquire justified belief
     or knowledge on the basis of what other people tell us. This, rather than what
     testimony is, is often taken to be the issue of central import from an
-    epistemological point of view.} Las respuestas a esta pregunta central sobre
-  la epistemología del testimonio se han situado en lo que se ha llamado la
-  postura reduccionista y la no-reduccionista.\footnote{Indeed, this is the
-    question at the center of the epistemology of testimony, and the current
-    philosophical literature contains two central options for answering it:
-    non-reductionism and reductionism.} Las raices históricas de la primera
-  postura se le suelen atribuir a Hume y de la segunda a Thomas Reid.
+    epistemological point of view.}, es decir, ¿cómo, precisamente, una creencia
+  como esta puede ser contada satisfactoriamente como creencia justificada o una
+  instancia de conocimiento? \footnote{how precisely such a belief successfully
+    counts as justified belief or an instance of knowledge}
+
+  Las respuestas a esta pregunta central sobre la epistemología del testimonio se
+  han situado en lo que se ha llamado la postura reduccionista y la
+  no-reduccionista.\footnote{Indeed, this is the question at the center of the
+    epistemology of testimony, and the current philosophical literature contains
+    two central options for answering it: non-reductionism and reductionism.} Las
+  raices históricas de la primera postura se le suelen atribuir a Hume y de la
+  segunda a Thomas Reid.
 
   De acuerdo a los no-reduccionistas el testimonio es simplemente una fuente de
   justificación como lo sería la percepción de los sentidos, la memoria o la
   inferencia. Según esto, siempre que no haya una justificación contraria
   suficientemente relevante, el que escucha tiene justificación verdadera para
   creer las proposiciones del testimonio del que habla.\footnote{According to
-    non-reductionists-whose historical roots are standardly traced back to
-    Reid-testimony is just as basic a source of justification (warrant,
+    non-reductionists ---whose historical roots are standardly traced back to
+    Reid--- testimony is just as basic a source of justification (warrant,
     entitlement, knowledge, etc.) as sense perception, memory, inference, and the
     like. Accordingly, so long as there are no relevant defeaters, hearers can
     justifiedly accept the assertions of speakers merely on the basis of a
     speaker's testimony.}
 
-  Las reflexiones de Anscombe le llevarán a dialogar más con las preocupaciones de
-  Hume. Conviene anticipar algo sobre sus propuestas. ¿Qué lugar ocupa el
-  testimonio en la descripción que hace sobre el conocimiento?
+  Hume, por su parte \citalitinterlin{es uno de los pocos filósofos que ha
+    ofrecido algo así como una descripción sostenida acerca del testimonio y si alguna
+    perspectiva puede reclamar el título de `el punto de vista adoptado' es la
+    suya}.\footnote{is one of the few philosophers who has offered anything like
+    a sustained account of testimony and if any view has a claim to the title of
+    `the received view' it is his testimony p 79}
 
   En primer lugar cabe destacar que le considera un tema poco desarrollado en la
   filosofía antigua y moderna:
