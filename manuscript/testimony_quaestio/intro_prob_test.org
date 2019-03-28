@@ -1920,7 +1920,7 @@ Evangelii Nuntiandi n21
 #+BEGIN_SRC latex
   \section{La Categoría del Testimonio como problema}
 
-  Hasta aquí se ha empleado la categoría del testimonio sin problematizarla. Es
+  Hasta ahora se ha empleado la categoría del testimonio sin problematizarla. Es
   decir, hemos tratado el testimonio como <<cosa familiar y conocida>> empleada
   ordinariamente en nuestras conversaciones. Es aquí donde nos permitimos tratar
   al testimonio como algo que hay que esclarecer, algo sobre lo que se plantean
@@ -1934,7 +1934,13 @@ Evangelii Nuntiandi n21
 
   Hasta el momento sólo hemos formulado una pregunta, que ahora podemos ampliar:
   ¿qué es conocer una verdad para la vida por el testimonio de la revelación
-  divina? Desde aquí examinaremos qué otros cuestionamientos se pueden plantear
+  divina?
+
+  Si atendemos al modo en que se ha reflexionado sobre el testimonio en la
+  filosofía moderna y contemporanea encontramos desafíos y aportaciones que
+  La filosofía moderna y contemporanea
+
+  Desde aquí examinaremos qué otros cuestionamientos se pueden plantear
   relacionados con este fenómeno. Es posible agrupar algunos desafíos y
   aportaciones de la filosofía moderna y contemporánea en varías preguntas
   principales. Éstas serviran luego para navegar en el pensamiento de Elizabeth
@@ -2070,7 +2076,9 @@ Evangelii Nuntiandi n21
   all the miracles it relates; which is, however, necessary to make it be received
   according to the measures of probability above established.
 
-
+  \subsection{El lenguaje religioso es capaz de transmitir alguna verdad?}
+  Ciruclo de viena, falsabilidad como cuarto atributo de el conocimiento
+  proposicional. cita de analogía teológica.
 
 #+END_SRC
 *** TODO notas
