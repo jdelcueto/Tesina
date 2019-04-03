@@ -6,71 +6,73 @@
   \section{Naturaleza de la pregunta sobre el testimonio}
   Es una experiencia familiar en nuestras comunidades reunirnos en torno a la
   Sagrada Escritura y compartir la Palabra buscando en ella luz para nuestro
-  presente. No sería difícil, así, comenzar visualizando ahora un tercer domingo
-  del Tiempo Ordinario, en el ciclo A, y el evangelio que se proclama ese día:
-  \begin{quotation}
-    Al enterarse Jesús de que habían arrestado a Juan se retiró a Galilea. Dejando
-    Nazaret se estableció en Cafarnaún, junto al mar, en el territorio de Zabulón
-    y Neftalí, para que se cumpliera lo dicho por medio del profeta Isaías:
+  presente. Podemos apelar a esta experiencia familiar para apoyar el primer paso
+  de nuestra investigación sobre el testimonio. Imaginemos un domingo,
+  específicamente un tercer domingo en el Tiempo Ordinario. En el ciclo A, el
+  Evangelio que se proclama ese día es este:
+  \blockquote[Mt~4,12--23]{Al enterarse Jesús de que habían arrestado a Juan se
+    retiró a Galilea. Dejando Nazaret se estableció en Cafarnaún, junto al mar, en
+    el territorio de Zabulón y Neftalí, para que se cumpliera lo dicho por medio
+    del profeta Isaías:
 
-    <<Tierra de Zabulón y tierra de Neftalí, camino del mar, al otro lado del
-    Jordán, Galilea de los gentiles. El pueblo que habitaba en tinieblas vio una
-    luz grande; a los que habitaban en tierra y sombras de muerte, una luz les
-    brilló>>.
+    \enquote{Tierra de Zabulón y tierra de Neftalí, camino del mar, al otro lado
+      del Jordán, Galilea de los gentiles. El pueblo que habitaba en tinieblas vio
+      una luz grande; a los que habitaban en tierra y sombras de muerte, una luz
+      les brilló}.
 
-    Desde entonces comenzó Jesús a predicar diciendo: <<Convertíos, porque está
-    cerca el reino de los cielos>>.
+    Desde entonces comenzó Jesús a predicar diciendo: \enquote{Convertíos, porque
+      está cerca el reino de los cielos}.
 
     Paseando junto al mar de Galilea vio a dos hermanos, a Simón, llamado Pedro, y
     a Andrés, que estaban echando la red en el mar, pues eran pescadores. Les
-    dijo: <<Venid en pos de mí y os haré pescadores de hombres>>. Inmediatamente
-    dejaron las redes y lo siguieron. Y pasando adelante vio a otros dos hermanos,
-    a Santiago, hijo de Zebedeo, y a Juan, su hermano, que estaban en la barca
-    repasando las redes con Zebedeo, su padre, y los llamó. Inmediatamente dejaron
-    la barca y a su padre y lo siguieron. Jesús recorría toda Galilea enseñando en
-    sus sinagogas, proclamando el evangelio del reino y curando toda enfermedad y
-    toda dolencia en el pueblo.
-    \footnote{Mt~4,12--23}
-  \end{quotation}
+    dijo: \enquote{Venid en pos de mí y os haré pescadores de hombres}.
+    Inmediatamente dejaron las redes y lo siguieron. Y pasando adelante vio a
+    otros dos hermanos, a Santiago, hijo de Zebedeo, y a Juan, su hermano, que
+    estaban en la barca repasando las redes con Zebedeo, su padre, y los llamó.
+    Inmediatamente dejaron la barca y a su padre y lo siguieron. Jesús recorría
+    toda Galilea enseñando en sus sinagogas, proclamando el evangelio del reino y
+    curando toda enfermedad y toda dolencia en el pueblo.}
 
-        No sería difícil ahora visualizar una variedad de escenarios en los que este
-        texto pueda ser discutido en nuestro contexto eclesial. Es proclamado, por
-        ejemplo, en el ciclo A el III Domingo del Tiempo Ordinario. Es así que puede
-        escucharse en las reflexiones del Papa Francisco en el Ángelus en la Plaza de
-        San Pedro, donde destaca el hecho de que la misión de Jesús comience en una zona
-        periférica:
-        \citalitlar{Es una tierra de frontera, una zona de tránsito donde se
-          encuentran personas diversas por raza, cultura y religión. La Galilea se
-          convierte así en el lugar simbólico para la apertura del Evangelio a todos
-          los pueblos. Desde este punto de vista, Galilea se asemeja al mundo de hoy:
-          presencia simultánea de diversas culturas, necesidad de confrontación y
-          necesidad de encuentro. También nosotros estamos inmersos cada día en una
-          <<Galilea de los gentiles>>, y en este tipo de contexto podemos asustarnos y
-          ceder a la tentación de construir recintos para estar más seguros, más
-          protegidos. Pero Jesús nos enseña que la Buena Noticia, que Él trae, no está
-          reservada a una parte de la humanidad, sino que se ha de comunicar a todos.
-          Es un feliz anuncio destinado a quienes lo esperan, pero también a quienes
-          tal vez ya no esperan nada y no tienen ni siquiera la fuerza de buscar y
-          pedir.\autocite{francisco2014angelus}}
+  No sería difícil ahora visualizar una variedad de escenarios en los que este
+  texto pueda ser discutido en nuestro contexto eclesial. Puede escucharse en las
+  reflexiones del Papa Francisco en el Ángelus en la Plaza de San Pedro, donde
+  destaca el hecho de que la misión de Jesús comience en una zona periférica:
 
-        Tambíen el Papa Benedicto XVI ofreció su comentario y se fijó en la fuerza de esa
-        noticia que Cristo comenzaba a anunciar:
-        \citalitlar{El término ``evangelio'', en tiempos de Jesús, lo usaban los
-          emperadores romanos para sus proclamas. Independientemente de su contenido, se
-          definían ``buenas nuevas'', es decir, anuncios de salvación, porque el
-          emperador era considerado el señor del mundo, y sus edictos, buenos presagios.
-          Por eso, aplicar esta palabra a la predicación de Jesús asumió un sentido
-          fuertemente crítico, como para decir: Dios, no el emperador, es el Señor del
-          mundo, y el
-          verdadero Evangelio es el de Jesucristo.\\
-          La ``buena nueva'' que Jesús proclama se resume en estas palabras: ``El reino
-          de Dios —--o reino de los cielos-—- está cerca''. ¿Qué significa esta expresión?
-          Ciertamente, no indica un reino terreno, delimitado en el espacio y en el
-          tiempo; anuncia que Dios es quien reina, que Dios es el Señor,
-          y que su señorío está presente, es actual, se está realizando.\\
-          Por tanto, la novedad del mensaje de Cristo es que en él Dios se ha hecho
-          cercano, que ya reina en medio de nosotros, como lo demuestran los milagros y
-          las curaciones que realiza.\autocite{benedicto2008angelus}}
+  \blockquote[{\cite{francisco2014angelus}}]{Es una tierra de frontera, una zona
+    de tránsito donde se encuentran personas diversas por raza, cultura y
+    religión. La Galilea se convierte así en el lugar simbólico para la apertura
+    del Evangelio a todos los pueblos. Desde este punto de vista, Galilea se
+    asemeja al mundo de hoy: presencia simultánea de diversas culturas, necesidad
+    de confrontación y necesidad de encuentro. También nosotros estamos inmersos
+    cada día en una \enquote{Galilea de los gentiles}, y en este tipo de contexto
+    podemos asustarnos y ceder a la tentación de construir recintos para estar más
+    seguros, más protegidos. Pero Jesús nos enseña que la Buena Noticia, que Él
+    trae, no está reservada a una parte de la humanidad, sino que se ha de
+    comunicar a todos. Es un feliz anuncio destinado a quienes lo esperan, pero
+    también a quienes tal vez ya no esperan nada y no tienen ni siquiera la fuerza
+    de buscar y pedir.}
+
+  Tambíen el Papa Benedicto XVI ofreció su comentario y se fijó en la fuerza de
+  esa noticia que Cristo comenzaba a anunciar:
+
+  \blockquote[{\cite{benedicto2008angelus}}]{El término ``evangelio'', en tiempos
+    de Jesús, lo usaban los emperadores romanos para sus proclamas.
+    Independientemente de su contenido, se definían ``buenas nuevas'', es decir,
+    anuncios de salvación, porque el emperador era considerado el señor del mundo,
+    y sus edictos, buenos presagios. \textelp{} Por eso, aplicar esta palabra a la
+    predicación de Jesús asumió un sentido fuertemente crítico, como para decir:
+    Dios, no el emperador, es el Señor del mundo, y el verdadero Evangelio es el
+    de Jesucristo.
+
+    La ``buena nueva'' que Jesús proclama se resume en estas palabras: ``El reino
+    de Dios —--o reino de los cielos-—- está cerca''. ¿Qué significa esta
+    expresión? Ciertamente, no indica un reino terreno, delimitado en el espacio y
+    en el tiempo; anuncia que Dios es quien reina, que Dios es el Señor,
+    y que su señorío está presente, es actual, se está realizando.
+
+    Por tanto, la novedad del mensaje de Cristo es que en él Dios se ha hecho
+    cercano, que ya reina en medio de nosotros, como lo demuestran los milagros y
+    las curaciones que realiza.}
 
         No sólo en San Pedro, sino que también podría encontrarse este texto en la
         celebración de la eucaristía domincal resonando en las comunidades y parroquias;

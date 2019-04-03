@@ -23,7 +23,21 @@ final
 %subfiles to include the chapters
 \usepackage{subfiles}
 %csquotes for advanced facilities for inline and display quotations
-\usepackage{csquotes}
+\usepackage[autostyle,spanish=spanish,maxlevel=3]{csquotes}
+
+\SetBlockEnvironment{quotation}
+\renewcommand{\mkcitation}[1]{\footnote{#1}}
+
+\makeatletter
+\DeclareQuoteStyle{threelevel}
+    {\ifnum\csq@qlevel<2 \guillemotleft\else\textquotedblleft\fi}% opening outer mark
+    {\ifnum\csq@qlevel<2 \guillemotright\else\textquotedblright\fi}% closing outer mark
+    {\textquoteleft}% opening inner mark
+    {\textquoteright}% closing inner mark
+\makeatother
+
+\ExecuteQuoteOptions{style=threelevel}
+
 %hyperref to handle cross-referencing commands
 \usepackage[hyperfootnotes=false]{hyperref}
 %ifdraft for notes and todos activation
