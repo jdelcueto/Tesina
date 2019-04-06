@@ -8,7 +8,7 @@
   Sagrada Escritura y compartir la Palabra buscando en ella luz para nuestro
   presente. Podemos apelar a esta experiencia familiar para apoyar el primer paso
   de nuestra investigación sobre el testimonio. Imaginemos un domingo,
-  específicamente un tercer domingo en el Tiempo Ordinario. En el ciclo A, el
+  específicamente un tercer domingo del Tiempo Ordinario. En el ciclo A, el
   Evangelio que se proclama ese día es este:
   \blockquote[Mt~4,12--23]{Al enterarse Jesús de que habían arrestado a Juan se
     retiró a Galilea. Dejando Nazaret se estableció en Cafarnaún, junto al mar, en
@@ -34,9 +34,9 @@
     curando toda enfermedad y toda dolencia en el pueblo.}
 
   No sería difícil ahora visualizar una variedad de escenarios en los que este
-  texto pueda ser discutido en nuestro contexto eclesial. Puede escucharse en las
-  reflexiones del Papa Francisco en el Ángelus en la Plaza de San Pedro, donde
-  destaca el hecho de que la misión de Jesús comience en una zona periférica:
+  texto pueda ser discutido en nuestro contexto eclesial. En enero de 2014 el Papa
+  Francisco lo reflexionaba en el Ángelus en la Plaza de San Pedro y destacaba que
+  la misión de Jesús comenzara en una zona periférica:
 
   \blockquote[{\cite{francisco2014angelus}}]{Es una tierra de frontera, una zona
     de tránsito donde se encuentran personas diversas por raza, cultura y
@@ -52,59 +52,63 @@
     también a quienes tal vez ya no esperan nada y no tienen ni siquiera la fuerza
     de buscar y pedir.}
 
-  Tambíen el Papa Benedicto XVI ofreció su comentario y se fijó en la fuerza de
-  esa noticia que Cristo comenzaba a anunciar:
+  Unos años antes, el Papa Benedicto XVI había ofrecido su comentario en el que
+  resaltó la fuerza de esa noticia que Cristo comenzaba a anunciar:
 
-  \blockquote[{\cite{benedicto2008angelus}}]{El término ``evangelio'', en tiempos
-    de Jesús, lo usaban los emperadores romanos para sus proclamas.
-    Independientemente de su contenido, se definían ``buenas nuevas'', es decir,
-    anuncios de salvación, porque el emperador era considerado el señor del mundo,
-    y sus edictos, buenos presagios. \textelp{} Por eso, aplicar esta palabra a la
-    predicación de Jesús asumió un sentido fuertemente crítico, como para decir:
-    Dios, no el emperador, es el Señor del mundo, y el verdadero Evangelio es el
-    de Jesucristo.
+  \blockquote[{\cite{benedicto2008angelus}}]{El término \enquote{evangelio}, en
+    tiempos de Jesús, lo usaban los emperadores romanos para sus proclamas.
+    Independientemente de su contenido, se definían \enquote{buenas nuevas}, es
+    decir, anuncios de salvación, porque el emperador era considerado el señor del
+    mundo, y sus edictos, buenos presagios. Por eso, aplicar esta
+    palabra a la predicación de Jesús asumió un sentido fuertemente crítico, como
+    para decir: Dios, no el emperador, es el Señor del mundo, y el verdadero
+    Evangelio es el de Jesucristo.
 
-    La ``buena nueva'' que Jesús proclama se resume en estas palabras: ``El reino
-    de Dios —--o reino de los cielos-—- está cerca''. ¿Qué significa esta
-    expresión? Ciertamente, no indica un reino terreno, delimitado en el espacio y
-    en el tiempo; anuncia que Dios es quien reina, que Dios es el Señor,
-    y que su señorío está presente, es actual, se está realizando.
+    La \enquote{buena nueva} que Jesús proclama se resume en estas palabras:
+    \enquote{El reino de Dios —--o reino de los cielos-—- está cerca}. ¿Qué
+    significa esta expresión? Ciertamente, no indica un reino terreno, delimitado
+    en el espacio y en el tiempo; anuncia que Dios es quien reina, que Dios es el
+    Señor, y que su señorío está presente, es actual, se está realizando.
 
     Por tanto, la novedad del mensaje de Cristo es que en él Dios se ha hecho
     cercano, que ya reina en medio de nosotros, como lo demuestran los milagros y
     las curaciones que realiza.}
 
-        No sólo en San Pedro, sino que también podría encontrarse este texto en la
-        celebración de la eucaristía domincal resonando en las comunidades y parroquias;
-        en las homilias, oraciones, reflexiones o cánticos, invitando a la conversión y
-        haciendo nueva la invitación de Jesús: <<Convertíos, porque está cerca el reino
-        de los cielos>>. Quizás tambíen se le oiga entre algún grupo juvenil donde
-        Simón, Andrés, Santiago y Juan sean tratados como modelos de vocación a la vida
-        consagrada o al apostolado, atendiendo con entusiasmo cómo lo dejaron todo en el
-        momento para seguir a Jesús. Seguramente algún joven reconociendo aquella
-        llamada: <<Venid en pos de mí y os haré pescadores de hombres>> sonando como voz
-        dentro de sí.
+  Ciertamente este texto no se le encontraría solamente en San Pedro, sino que
+  estaría presente en la celebración de la eucaristía domincal resonando en las
+  comunidades y parroquias alrededor del mundo; en las homilias, oraciones,
+  reflexiones o cánticos, invitando a la conversión y haciendo nueva la invitación
+  de Jesús: \enquote{Convertíos, porque está cerca el reino de los cielos}. Quizás
+  tambíen se le oiga entre algún grupo juvenil donde Simón, Andrés, Santiago y
+  Juan sean tratados como modelos de vocación a la vida consagrada o al
+  apostolado, atendiendo con entusiasmo cómo lo dejaron todo en el momento para
+  seguir a Jesús. Seguramente algún joven reconociendo aquella llamada:
+  \enquote{Venid en pos de mí y os haré pescadores de hombres} sonando como voz
+  dentro de sí.
 
-        El texto de la Escritura es tratado en estos contextos como testimonio de la
-        vida de Jesucristo y de la vida de aquellos que le llaman maestro y que
-        participan de su misión. No son, sin embargo, tratados como historias del
-        pasado, sino como palabras para el presente. Es hoy que la Buena Noticia no está
-        reservada a una parte de la humanidad, sino que ha de comunicarse a todos como
-        insiste el Papa Francisco. Es hoy que Dios se hace cercano en Cristo para reinar
-        en medio de nosotros como enseñó Benedicto XVI. Es hoy que Jesús nos invita a la
-        conversión y a ir en pos de él.
+  El texto de la Escritura es tratado en estos contextos como testimonio de la
+  vida de Jesucristo y de la vida de aquellos que le llaman maestro y que
+  participan de su misión. No son, sin embargo, tratados como historias del
+  pasado, sino como palabras para el presente. Es hoy que la Buena Noticia no está
+  reservada a una parte de la humanidad, sino que ha de comunicarse a todos como
+  insiste el Papa Francisco. Es hoy que Dios se hace cercano en Cristo para reinar
+  en medio de nosotros como enseñó Benedicto XVI. Es hoy que Jesús nos invita a la
+  conversión y a ir en pos de él.
 
-        Es sobre esta costumbre de la Iglesia que ha de formularse ahora una pregunta.
-        Resultará apropiado apelar aquí a otra costumbre de la Iglesia y buscar luz para
-        esto en las Confesiones de San Agustín. Pensando en Dios y pensando en el
-        tiempo, Agustín queda inquieto por una serie de preguntas: \citalitlar{¿Qué es,
-          pues, el tiempo? ¿Quién podrá explicar esto fácil y brevemente? ¿Quién podrá
-          comprenderlo con el pensamiento, para hablar luego de él? Y, sin embargo, ¿qué
-          cosa más familiar y conocida mentamos en nuestras conversaciones que el
-          tiempo? Y cuando hablamos de él, sabemos sin duda qué es, como sabemos o
-          entendemos lo que es cuando lo oímos pronunciar a otro. ¿Qué es, pues, el
-          tiempo? Si nadie me lo pregunta, lo sé; pero si quiero explicárselo al que me
-          lo pregunta, no lo sé.\footnote{De las confesiones xi.14 (n. 17)}}
+  Es sobre esta costumbre de la Iglesia que quisieramos formular una pregunta que
+  ponga en marcha nuestra investigación. Para esto nos servirá emplear otra
+  costumbre eclesial y acudir al pensamiento de San Agustín para encontrar algo de
+  luz. En el capítulo XI de las \emph{Confesiones} nos lo encontramos inquieto,
+  como siempre, esta vez pensando en Dios y pensando en el tiempo, asaltado por
+  una serie de preguntas:
+
+  \blockquote[{\cite[XI.14 n.17]{confesiones}}]{¿Qué es, pues, el tiempo? ¿Quién
+    podrá explicar esto fácil y brevemente? ¿Quién podrá comprenderlo con el
+    pensamiento, para hablar luego de él? Y, sin embargo, ¿qué cosa más familiar y
+    conocida mentamos en nuestras conversaciones que el tiempo? Y cuando hablamos
+    de él, sabemos sin duda qué es, como sabemos o entendemos lo que es cuando lo
+    oímos pronunciar a otro. ¿Qué es, pues, el tiempo? Si nadie me lo pregunta, lo
+    sé; pero si quiero explicárselo al que me lo pregunta, no lo sé.}
 
         Agustín expresa su extrañeza de que un concepto empleado ordinariamente se
         torne tan desconocido cuando llega la hora de explicarlo. ``¿Qué es el

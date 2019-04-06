@@ -92,6 +92,8 @@ UprightFont=*-regular, ItalicFont=*-italic, Ligatures=TeX]{texgyreheros}
 
 \renewcommand{\textgreek}[1]{\bgroup\greekfont{#1}\egroup} % Greek text
 
+
+
 % Dialogue
 %\RequirePackage{blkcntrl,moredefs,relsize}
 %\usepackage{dialogue}
@@ -125,6 +127,7 @@ UprightFont=*-regular, ItalicFont=*-italic, Ligatures=TeX]{texgyreheros}
 %Paragraphs
 \setlength{\parindent}{1.2cm}
 \setlength{\parskip}{0.21cm}
+%\setlength\parskip{\baselineskip}
 
 %Disable Hyphenation
 %\pretolerance=10000
@@ -286,7 +289,7 @@ UprightFont=*-regular, ItalicFont=*-italic, Ligatures=TeX]{texgyreheros}
       %          {\endlist}
 
 \renewenvironment{quotation}
-               {\list{}{\listparindent=0.6cm%whatever you need
+               {\list{}{\listparindent=0cm%whatever you need
                         \itemindent    \listparindent
                         \leftmargin=1.2cm%  whatever you need
                         \rightmargin=0cm%whatever you need
