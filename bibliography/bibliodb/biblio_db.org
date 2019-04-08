@@ -72,6 +72,7 @@ keywords = "primary, wittgenstein",
 #+BEGIN_SRC bibtex :tangle primary.bib
  @book{wittgenstein2005bt,
  editor = "C. Grant Luckhardt and Maximilian A. E. Aue",
+ author = "Ludwig Wittgenstein",
  title = "The Big Typescript:\,TS 213",
  publisher = "Wiley-Blackwell",
  location ="Oxford",
@@ -956,6 +957,19 @@ year = "2009",
 edition = "7",
 keywords = "ninot, teología fundamental",
 }
+#+END_SRC
+** William James
+#+BEGIN_SRC bibtex :tangle secondary.bib
+ @book{james2002variedades,
+ translator = "J. F. Yvars",
+ title = "Las Variedades de la Experiencia Religiosa",
+ subtitle = "Estudio de la Naturaleza Humana",
+ publisher = "Peninsula",
+ location = "Barcelona",
+ edition = "1",
+ year = "2002",
+ keywords = "primary, wittgenstein, biography",
+ }
 #+END_SRC
 * Testers
 
