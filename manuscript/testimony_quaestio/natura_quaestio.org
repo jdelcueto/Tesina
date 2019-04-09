@@ -178,22 +178,21 @@
   antes citado de las \emph{Confesiones} para describir la peculiaridad de las
   preguntas filosóficas:
 
-  \blockquote[Augustine says in \emph{Confessions} XI. 14, ``quid est ergo tempus?
-  si nemo ex me quaerat scio; si quaerenti explicare velim nescio''. --This could
-  not be said about a question of natural science (``What is the specific gravity
-  of hydrogen'', for instance). Something that one knows when nobody asks one but
-  no longer knows when one is asked to explain it, is something that has to be
-  \emph{called to mind}. (And it is obviously something which, for some reason, it
-  is difficult to call to mind.)]{Agustín dice en \emph{Confesiones} XI. 14,
-    \enquote{quid est ergo tempus? si nemo ex me quaerat scio; si quaerenti
+  \blockquote[Augustine says in \emph{Confessions} XI. 14, \enquote{quid est ergo
+    tempus? si nemo ex me quaerat scio; si quaerenti explicare velim nescio}.
+  --This could not be said about a question of natural science (\enquote{What is
+    the specific gravity of hydrogen}, for instance). Something that one knows
+  when nobody asks one but no longer knows when one is asked to explain it, is
+  something that has to be \emph{called to mind}. (And it is obviously something
+  which, for some reason, it is difficult to call to mind.)
+  {\cite[\S89]{wittgenstein1953phiinv}}]{Agustín dice en \emph{Confesiones} XI.
+    14, \enquote{quid est ergo tempus? si nemo ex me quaerat scio; si quaerenti
       explicare velim nescio}. ---Esto no podría ser dicho de una pregunta propia
     de la ciencia natural (\enquote{Cuál es la gravedad específica del hidrógeno},
-    por ejemplo).
-  Algo que uno sabe 
-     Something that
-    one knows when nobody asks one but no longer knows when one is asked to
-    explain it, is something that has to be \emph{called to mind}. (And it is
-    obviously something which, for some reason, it is difficult to call to mind.)}
+    por ejemplo). Algo que uno conoce cuando nadie le pregunta pero que no conoce
+    ya cuando alguien pide que lo explique, es algo que tiene que \emph{ser traído
+      a la mente}. (Y esto es obviamente algo que, por algún motivo, es dificil de
+    traer a la mente.)}
 
   Para Wittgenstein es de gran importancia atender el paso que damos para resolver
   la perplejidad causada por el reclamo de explicar un fenómeno. El deseo de
@@ -202,20 +201,24 @@
   \blockquote[We feel as if we had to see right into phenomena.
   {\cite[\S90]{wittgenstein1953phiinv}}]{Nos sentimos como si tuviéramos que mirar
     directamente hacia dentro de los fenómenos}.
-  Esta predisposición nos
-  puede conducir a ignorar la amplitud del modo en que el lenguaje sobre esto es
-  empleado en la actividad humana y a enfocarnos sólo en un elemento particular
-  del lenguaje sobre este fenómeno y tomarlo como un ejemplo paradigmático para
-  construir un modelo abstrayendo explicaciones y generalizaciones sobre él. Esta
-  manera de indagar, le parece a Wittgenstein, nos hunde cada vez más
-  profundamente en un estado de frustración y confusión filosófica de modo que
-  llegamos a imaginar que para alcanzar claridad \citalitinterlin{we have to
-    describe extreme subtleties, which again we are quite unable to describe with
-    the means at our disposal. We feel as if we had to repair a torn spider's web
-    with our fingers.}\footnote{\S106}
+  Esta predisposición nos puede conducir a ignorar la amplitud del modo en que el
+  lenguaje sobre esto es empleado en la actividad humana y a enfocarnos sólo en un
+  elemento particular del lenguaje sobre este fenómeno y tomarlo como un ejemplo
+  paradigmático para construir un modelo abstrayendo explicaciones y
+  generalizaciones sobre él. Esta manera de indagar, le parece a Wittgenstein, nos
+  hunde cada vez más profundamente en un estado de frustración y confusión
+  filosófica de modo que llegamos a imaginar que para alcanzar claridad:
+
+  \blockquote[we have to describe extreme subtleties, which again we are quite
+  unable to describe with the means at our disposal. We feel as if we had to
+  repair a torn spider's web with our fingers.
+  {\cite[\S106]{wittgenstein1953phiinv}}]{tenemos que describir sutilezas
+    extremas, las cuales una vez más somos bastante incapaces de describir con los
+    medios que tenemos a nuestra disposición. Sentimos como si tuvieramos que
+    reparar una telaraña rota usando nuestros dedos.}
 
   La alternativa que Wittgenstein propone es una investigación que no esté
-  dirigida hacia dentro del fenómeno, sino \citalitinterlin{as one might say,
+  dirigida hacia dentro del fenómeno, sino \blockquote{as one might say,
     towards the \emph{`possibilities'} of phenomena. What that means is that we
     call to mind the \emph{kinds of statement} that we make about phenomena}. A
   este esfuerzo le denomina ``investigación gramática''. La describe de este modo:
