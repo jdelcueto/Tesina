@@ -1,7 +1,10 @@
+*/La Categoría del Testimonio en el Pensamiento de Elizabeth Anscombe/*
 
-#+CAPTION: G.E.M. Anscombe
-#+NAME:   fig:Elizabeth Anscombe
 [[./tex/img/anscombe.jpg]]
+
+G.E.M. Anscombe
+1919-2001
+
 * 
 * 
 * 
