@@ -6,12 +6,10 @@
 * Progreso Realizado
 ** TODO Cap. 1: Introducción General al Problema del Testimonio [0%]
 *** TODO Naturaleza de la pregunta sobre el testimonio [50%]
-**** DONE Una experiencia familiar
-     CLOSED: [2019-04-10 Wed 17:31]
-**** DONE Una pregunta "filosófica" sobre el testimonio
-     CLOSED: [2019-04-10 Wed 17:31]
-**** TODO Peculiaridad del método de Anscombe
-**** TODO Carácter teológico del estudio
+        - [X] Una experiencia familiar
+        - [X] Una pregunta "filosófica" sobre el testimonio
+        - [ ] Peculiaridad del método de Anscombe
+        - [ ] Carácter teológico del estudio
 *** TODO El testimonio en la Sagrada Escritura [%]
 *** TODO El testimonio en el Magisterio [%]
 *** TODO El problema de la categoría del testimonio [%]
