@@ -1,3 +1,12 @@
+
+#+CAPTION: G.E.M. Anscombe
+#+NAME:   fig:Elizabeth Anscombe
+[[./tex/img/anscombe.jpg]]
+* 
+* 
+* 
+* 
+
 1.1. QUÉ ES UNA TESINA
 Una tesina es la prueba de la capacidad instrumental propia de los
 licenciados que realizan un trabajo escrito sobre un tema concreto, dirigido
