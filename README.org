@@ -1,15 +1,32 @@
 * La Categoría del Testimonio en el Pensamiento de Elizabeth Anscombe
-#+ATTR_HTML: :style margin-left: auto; margin-right: auto;
 [[./tex/img/anscombe.jpg]]
+<\hr>
 
-* [[./staging/main.pdf][Documento en desarrollo]]
-* Documento Final (pronto?)
+* [[./staging/main.pdf][Documento en desarrollo]]  //  Documento Final (pronto?)
+<\hr>
+
 * Progreso Realizado
 ** TODO Cap. 1: Introducción General al Problema del Testimonio [0%]
-*** TODO 
-** TODO Cap. 2: Vida y Pensamiento de G.E.M. Anscombe [%]
-*** TODO 
+*** TODO Naturaleza de la pregunta sobre el testimonio [50%]
+**** DONE Una experiencia familiar
+     CLOSED: [2019-04-10 Wed 17:31]
+**** DONE Una pregunta "filosófica" sobre el testimonio
+     CLOSED: [2019-04-10 Wed 17:31]
+**** TODO Peculiaridad del método de Anscombe
+**** TODO Carácter teológico del estudio
+*** TODO El testimonio en la Sagrada Escritura [%]
+*** TODO El testimonio en el Magisterio [%]
+*** TODO El problema de la categoría del testimonio [%]
+** TODO Cap. 2: Vida y Pensamiento de G.E.M. Anscombe [0%]
+*** TODO Biografía de G.E.M. Anscombe [%]
+*** TODO La Filosofía de L. Wittgenstein como Trasfondo de la Filosofía de Anscombe [0%]
+**** TODO El método de Wittgenstein
+**** TODO Dos Cortes en la Filosofía
+**** TODO Las Elucidaciones del Tractatus Logico-Philosophicus
+**** TODO Investigaciones Filosóficas
+*** Desarrollo del Pensamiento de G.E.M.Anscombe [%]
 ** TODO Cap. 3: La Concepción de G.E.M. Anscombe Sobre el Testimonio [0%]
-*** TODO 
+*** TODO Desarrollo Diacrónico [%]
+**** 
+*** TODO Desarrollo Sincrónico [%]
 ** TODO Cap. 4: Valoración Final [0%]
-*** TODO 
