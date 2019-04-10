@@ -1,9 +1,7 @@
 * La Categoría del Testimonio en el Pensamiento de Elizabeth Anscombe
 [[./tex/img/anscombe.jpg]]
-<hr>
 
 * [[./staging/main.pdf][Documento en desarrollo]]  //  Documento Final (pronto?)
-<hr>
 
 * Progreso Realizado
 ** TODO Cap. 1: Introducción General al Problema del Testimonio [0%]
