@@ -1,13 +1,15 @@
-#+BEGIN_CENTER
+* La Categoría del Testimonio en el Pensamiento de Elizabeth Anscombe
+#+ATTR_HTML: :style margin-left: auto; margin-right: auto;
 [[./tex/img/anscombe.jpg]]
-*La Categoría del Testimonio en el Pensamiento de Elizabeth Anscombe*
-#+END_CENTER 
-
 
 * [[./staging/main.pdf][Documento en desarrollo]]
 * Documento Final (pronto?)
-* Esquema General del Trabajo
-** Cap. 1: Introducción General al Problema del Testimonio
-** Cap. 2: Vida y Pensamiento de G.E.M. Anscombe
-** Cap. 3: La Categoría del Testimonio en el Pensamiento de G.E.M. Anscombe
-** Cap. 4: Valoración Final
+* Progreso Realizado
+** TODO Cap. 1: Introducción General al Problema del Testimonio [0%]
+*** TODO 
+** TODO Cap. 2: Vida y Pensamiento de G.E.M. Anscombe [%]
+*** TODO 
+** TODO Cap. 3: La Concepción de G.E.M. Anscombe Sobre el Testimonio [0%]
+*** TODO 
+** TODO Cap. 4: Valoración Final [0%]
+*** TODO 
