@@ -10,30 +10,41 @@
         - [X] Una pregunta "filosófica" sobre el testimonio
         - [ ] Peculiaridad del método de Anscombe
         - [ ] Carácter teológico del estudio
-*** TODO El testimonio en la Sagrada Escritura [%]
+*** TODO El testimonio en la Sagrada Escritura [0%]
         - [ ] El testimonio en el anuncio pascual
         - [ ] El testimonio en el Antiguo Testamento
         - [ ] El testimonio en el Nuevo Testamento
-*** TODO El testimonio en el Magisterio [%]
+*** TODO El testimonio en el Magisterio [0%]
         - [ ] Una analogía nada despreciable
         - [ ] El don de sí es signo sacramental
         - [ ] El testimonio es acción propia de todo bautizado
         - [ ] Estructura testimonial y motivo de credibilidad unidos en el signo sacramental
-*** TODO El problema de la categoría del testimonio [%]
+*** TODO El problema de la categoría del testimonio [0%]
         - [ ] Preámbulo
         - [ ] ¿Cuál es el valor epistemológico del testimonio?
         - [ ] ¿Tiene fuerza un testimonio histórico del absoluto?
         - [ ] ¿Tiene carácter veritativo el lenguaje teológico?
 ** TODO Cap. 2: Vida y Pensamiento de G.E.M. Anscombe [0%]
-*** TODO Biografía de G.E.M. Anscombe [%]
+*** TODO Biografía de G.E.M. Anscombe [0%]
+        - [ ] Nacimiento y familia
+        - [ ] Syndenham
+        - [ ] Estudios en Oxford 
+        - [ ] Estudios en Cambridge
+        - [ ] Profesora en Oxford
+        - [ ] Cátedra de Filosofía en Cambridge
+        - [ ] Retiro 1986-2001
 *** TODO La Filosofía de L. Wittgenstein como Trasfondo de la Filosofía de Anscombe [0%]
         - [ ] El método de Wittgenstein
         - [ ] Dos Cortes en la Filosofía
         - [ ] Las Elucidaciones del Tractatus Logico-Philosophicus
         - [ ] Investigaciones Filosóficas
-*** Desarrollo del Pensamiento de G.E.M.Anscombe [%]
+*** Desarrollo del Pensamiento de G.E.M.Anscombe [0%]
+        - [ ] Reflexiones iniciales sobre causalidad
+        - [ ] Oxford: percepción y fenomenalismo de H.H. Price
+        - [ ] Cambridge: filosofía analítica
+        - [ ] Profesora y Catedrática
 ** TODO Cap. 3: La Concepción de G.E.M. Anscombe Sobre el Testimonio [0%]
-*** TODO Desarrollo Diacrónico [%]
+*** TODO Desarrollo Diacrónico [0%]
         - [ ] Faith
         - [ ] What is it to Believe Someone? 
         - [ ] Hume and Julius Caesar
