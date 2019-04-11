@@ -3,7 +3,7 @@
 
 * [[./staging/main.pdf][Documento en desarrollo]]  //  Documento Final (pronto?)
 
-* Progreso Realizado
+* TODO Progreso Realizado [0%]
 ** TODO Cap. 1: Introducción General al Problema del Testimonio [0%]
 *** TODO Naturaleza de la pregunta sobre el testimonio [50%]
         - [X] Una experiencia familiar
@@ -11,18 +11,33 @@
         - [ ] Peculiaridad del método de Anscombe
         - [ ] Carácter teológico del estudio
 *** TODO El testimonio en la Sagrada Escritura [%]
+        - [ ] El testimonio en el anuncio pascual
+        - [ ] El testimonio en el Antiguo Testamento
+        - [ ] El testimonio en el Nuevo Testamento
 *** TODO El testimonio en el Magisterio [%]
+        - [ ] Una analogía nada despreciable
+        - [ ] El don de sí es signo sacramental
+        - [ ] El testimonio es acción propia de todo bautizado
+        - [ ] Estructura testimonial y motivo de credibilidad unidos en el signo sacramental
 *** TODO El problema de la categoría del testimonio [%]
+        - [ ] Preámbulo
+        - [ ] ¿Cuál es el valor epistemológico del testimonio?
+        - [ ] ¿Tiene fuerza un testimonio histórico del absoluto?
+        - [ ] ¿Tiene carácter veritativo el lenguaje teológico?
 ** TODO Cap. 2: Vida y Pensamiento de G.E.M. Anscombe [0%]
 *** TODO Biografía de G.E.M. Anscombe [%]
 *** TODO La Filosofía de L. Wittgenstein como Trasfondo de la Filosofía de Anscombe [0%]
-**** TODO El método de Wittgenstein
-**** TODO Dos Cortes en la Filosofía
-**** TODO Las Elucidaciones del Tractatus Logico-Philosophicus
-**** TODO Investigaciones Filosóficas
+        - [ ] El método de Wittgenstein
+        - [ ] Dos Cortes en la Filosofía
+        - [ ] Las Elucidaciones del Tractatus Logico-Philosophicus
+        - [ ] Investigaciones Filosóficas
 *** Desarrollo del Pensamiento de G.E.M.Anscombe [%]
 ** TODO Cap. 3: La Concepción de G.E.M. Anscombe Sobre el Testimonio [0%]
 *** TODO Desarrollo Diacrónico [%]
-**** 
+        - [ ] Faith
+        - [ ] What is it to Believe Someone? 
+        - [ ] Hume and Julius Caesar
+        - [ ] Hume on Miracles
+        - [ ] Prophecy and Miracles
 *** TODO Desarrollo Sincrónico [%]
 ** TODO Cap. 4: Valoración Final [0%]
