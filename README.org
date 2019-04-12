@@ -6,7 +6,7 @@
 * TODO Progreso Realizado [0%]
 ** TODO Cap. 1: Introducción General al Problema del Testimonio [25%]
 *** DONE Naturaleza de la pregunta sobre el testimonio [100%]
-    CLOSED: [2019-04-12 Fri 09:06]
+    CLOSED: [2019-04-12 Fri 09:49]
         - [X] Una experiencia familiar
         - [X] Una pregunta "filosófica" sobre el testimonio
         - [X] Peculiaridad del método de Anscombe

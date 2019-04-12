@@ -1,7 +1,7 @@
 #+PROPERTY: header-args:latex :tangle ../../tex/ch1/natura_quaestio.tex
 # ------------------------------------------------------------------------------------
 # Santa Teresa Benedicta de la Cruz, ruega por nosotros
-* TODO Naturaleza de la pregunta sobre el testimonio [75%]
+* DONE Naturaleza de la pregunta sobre el testimonio [100%]
 #+BEGIN_SRC latex
   \section{Naturaleza de la pregunta sobre el testimonio}
 #+END_SRC
@@ -390,11 +390,12 @@
   capítulo dedicado a su obra, sino que orienta el desarrollo general de este
   estudio sobre la categoría del testimonio.
 #+END_SRC
-** TODO Carácter teológico del estudio
+** DONE Carácter teológico del estudio
+   CLOSED: [2019-04-12 Fri 09:49]
    :LOGBOOK:
    CLOCK: [2019-04-12 Fri 08:07]--[2019-04-12 Fri 08:54] =>  0:47
    :END:
-#+BEgin_src latex
+#+BEGIN_SRC latex
   Como nuestro título también advierte, este estudio dirigido al pensamiento y
   obra de Anscombe es realizado en perspectiva teológica. Sobre la relación que
   pueda haber en una investigación teológica enfocada en el pensamiento filosófico

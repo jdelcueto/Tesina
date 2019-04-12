@@ -8,7 +8,3 @@
   (mode . auto-fill))
  (org-mode
   (mode . org)))
-
-
-
-
