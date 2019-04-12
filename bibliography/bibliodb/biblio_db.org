@@ -968,9 +968,24 @@ keywords = "ninot, teología fundamental",
  location = "Barcelona",
  edition = "1",
  year = "2002",
+ keywords = "secondary, james, psychology",
+ }
+#+END_SRC
+** Ratzinger
+#+BEGIN_SRC bibtex :tangle secondary.bib
+ @book{ratzinger2005teoria,
+ translator = "Marciano Villanueva",
+ author = "Joseph Ratzinger",
+ title = "Teoría de los Principios Teológicos",
+ subtitle = "Materiales para una teología fundamental",
+ publisher = "Herder",
+ location = "Barcelona",
+ edition = "1",
+ year = "2005",
  keywords = "primary, wittgenstein, biography",
  }
 #+END_SRC
+
 * Testers
 
 #+BEGIN_SRC bibtex :tangle primary.bib
