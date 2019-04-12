@@ -925,6 +925,7 @@ keywords = "prades, testimonio",
 }
 #+END_SRC
 ** René Latourelle
+*** Voz Testimonio en Diccionario Teología Fundamental
 #+BEGIN_SRC bibtex :tangle secondary.bib
 @incollection{latourelle2000testimonio,
     editor    = "René Latourelle and Rino Fisichella and Salvador Pié I Ninot",
@@ -943,6 +944,33 @@ keywords = "prades, testimonio",
     %note     = "",
     keywords ="testimonio, latourelle",
 }
+#+END_SRC
+
+** Evangelisation 
+ #+BEGIN_SRC bibtex :tangle secondary.bib
+ @mvcollection{dhavamony1975evangelisation,
+   title={Evangelisation},
+   editor={Mariasusai Dhavamony~S.J.},
+   isbn={9788876524769},
+   series={Documenta Missionalia},
+   volume={9},
+   url={https://books.google.es/books?id=XPB9U31X7AkC},
+   year={1975},
+   publisher={Università Gregoriana Editrice},
+   location={Roma},
+ }
+ #+END_SRC
+
+*** Evangelisation et temoignage
+#+BEGIN_SRC bibtex :tangle secondary.bib
+  @incollection{latourelle1975et,
+  title={Évangelisation et témoignage},
+  author={René Latourelle},
+  crossref={dhavamony1975evangelisation},
+  pages={77--110},
+  keywords={latourelle; secondary Source},
+  abstract={}
+  }
 #+END_SRC
 
 ** Salvador Pié-Ninot
@@ -985,6 +1013,7 @@ keywords = "ninot, teología fundamental",
  keywords = "primary, wittgenstein, biography",
  }
 #+END_SRC
+
 
 * Testers
 
