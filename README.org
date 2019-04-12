@@ -45,10 +45,10 @@
         - [ ] Profesora y Catedrática
 ** TODO Cap. 3: La Concepción de G.E.M. Anscombe Sobre el Testimonio [0%]
 *** TODO Desarrollo Diacrónico [0%]
-        - [ ] Faith
-        - [ ] What is it to Believe Someone? 
-        - [ ] Hume and Julius Caesar
-        - [ ] Hume on Miracles
+        - [ ] Hume and Julius Caesar 1973
+        - [ ] Faith 1975
+        - [ ] What is it to Believe Someone? 1979
+        - [ ] Hume on Miracles undated and unpublished
         - [ ] Prophecy and Miracles
 *** TODO Desarrollo Sincrónico [%]
 ** TODO Cap. 4: Valoración Final [0%]

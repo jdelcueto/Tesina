@@ -28,6 +28,9 @@ final
 \SetBlockEnvironment{quotation}
 \renewcommand{\mkcitation}[1]{\footnote{#1}}
 
+\SetBlockThreshold{3}
+%\SetCiteCommand{hcommandi}
+
 \makeatletter
 \DeclareQuoteStyle{threelevel}
     {\ifnum\csq@qlevel<2 \guillemotleft\else\textquotedblleft\fi}% opening outer mark

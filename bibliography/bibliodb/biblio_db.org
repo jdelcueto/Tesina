@@ -679,7 +679,7 @@ keywords = "anscombe, torralba",
 *** The Philosophy of Elizabeth Anscombe
 #+BEGIN_SRC bibtex :tangle secondary.bib
 %Books on Anscombe
-@book{teichmann,
+@book{teichmann2008ans,
 author = "Roger Teichmann",
 title = "The Philosophy of Elizabeth Anscombe",
 publisher = "Oxford University Press",
