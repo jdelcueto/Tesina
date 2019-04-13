@@ -1,7 +1,7 @@
 #+PROPERTY: header-args:latex :tangle ../../tex/ch1/scriptura.tex
 # ------------------------------------------------------------------------------------
 # San Jerónimo, ruega por nosotros
-* TODO La Categoría del Testimonio en la Escritura [75%]
+* DONE La Categoría del Testimonio en la Escritura [100%]
 #+BEGIN_SRC latex
   \section{La Categoría del Testimonio en la Sagrada Escritura}
 #+END_SRC
@@ -443,11 +443,13 @@
   la tradición veterotestamentaria y llegará a su manifestación plena en el
   misterio pascual.
 #+END_SRC
-** TODO El testimonio en el NT
+** DONE El testimonio en el NT
+   CLOSED: [2019-04-13 Sat 17:24]
 #+BEGIN_SRC latex
   \subsection{La acción testimonial de Dios en el Nuevo Testamento}
 #+END_SRC
-
+*** DONE Jesús Universal Concreto: testigo singular y testimonio absoluto del absoluto
+    CLOSED: [2019-04-13 Sat 16:51]
 #+BEGIN_SRC latex
   El Evangelio de Mateo enseña que el día que Jesús llegó a Cafarnaún a comenzar
   su predicación se cumplieron las promesas que Dios había hecho por medio de los
@@ -468,7 +470,10 @@
   manifiesta en sus acciones concretas: comiendo con los pecadores o sanando a los
   enfermos es donde se muestra \blockquote[Cf.~Jn 14,6]{el camino, la verdad y la
     vida} para todos.
-
+#+END_SRC
+*** DONE Su testimonio tiene caracter público y jurídico, es sometido a juicio
+    CLOSED: [2019-04-13 Sat 16:57]
+#+BEGIN_SRC latex
   Este testimonio de Cristo, su vida, actos y palabras, fue sometido al juicio de
   sus contemporaneos. Asombrados porque no enseña como los demás y por las signos
   que realiza, se cuestionan sobre su autoridad y poder. Entonces Jesús también
@@ -484,7 +489,9 @@
     Padre, no me creáis, pero si las hago, aunque no me creáis a mí, creed a las
     obras, para que comprendáis y sepáis que el Padre está en mí y yo en el
     Padre}.
-
+#+END_SRC
+**** Circularidad entre testimonio de Cristo y su credibilidad 
+#+BEGIN_SRC latex
   El singular testimonio de Cristo es comunicación de la verdad con valor
   universal. El testimonio de Cristo es también su actividad e identidad que hacen
   creíble lo que comunica. De este modo entre lo que Jesús testimonia y la
@@ -494,21 +501,26 @@
     encerraba su testimonio resultaba tan exorbitante que hubiera sido inaceptable
     para los hombres si no fuera porque sus obras, sus palabras y, en rigor, su
     presencia misma, lo hacían profundamente razonable en su singularidad.}
+#+END_SRC
+**** jn 15 22-24: testimonio con caracter performativo, no es acogido
+#+BEGIN_SRC latex
+   Acoger el testimonio de Jesús es escuchar la Escritura y creer en las obras del
+   Padre. Sin embargo la palabra de Cristo choca con el odio de aquellos que son
+   hostiles a la verdad y que, rechazando su testimonio, se juzgan a sí
+   mismos.\footnote{\cite[1530]{latourelle2000testimonio}: Pero la palabra de
+     Cristo choca con la contestación y el odio. Enfrentados con Cristo, los
+     judíos, que representan al conjunto del mundo hostil a la verdad, rechazan su
+     testimonio y se juzgan a sí mismos.}
 
-  Acoger el testimonio de Jesús es escuchar la Escritura y creer en las obras del
-  Padre. Sin embargo la palabra de Cristo choca con el odio de aquellos que son
-  hostiles a la verdad y que, rechazando su testimonio, se juzgan a sí
-  mismos.\footnote{\cite[1530]{latourelle2000testimonio}: Pero la palabra de
-    Cristo choca con la contestación y el odio. Enfrentados con Cristo, los
-    judíos, que representan al conjunto del mundo hostil a la verdad, rechazan su
-    testimonio y se juzgan a sí mismos.}
-
-  \blockquote[Jn 15,22--24]{Si yo no hubiera venido y no les hubiera hablado, no
-    tendrían pecado, pero ahora no tienen excusas de su pecado. El que me odia a
-    mí, odia también a mi Padre. Si yo no hubiera hecho en medio de ellos obras
-    que ningún otro ha hecho, no tendrían pecado, pero ahora las han visto y me
-    han odiado a mí y a mi Padre}
-
+   \blockquote[Jn 15,22--24]{Si yo no hubiera venido y no les hubiera hablado, no
+     tendrían pecado, pero ahora no tienen excusas de su pecado. El que me odia a
+     mí, odia también a mi Padre. Si yo no hubiera hecho en medio de ellos obras
+     que ningún otro ha hecho, no tendrían pecado, pero ahora las han visto y me
+     han odiado a mí y a mi Padre}
+#+END_SRC
+*** DONE Es testimonio de la Luz y del Hijo
+    CLOSED: [2019-04-13 Sat 16:57]
+#+BEGIN_SRC latex
   Jesús es \blockquote[Jn 1,5]{la luz que brilla en la tiniebla y la tiniebla no
     la recibió}. Jesús es el \blockquote[Jn 1,18]{unigénito, que está en el seno
     del Padre, es quien lo ha dado a conocer}. Este testimonio es manifestación de
@@ -518,11 +530,14 @@
     los cielos y vio que el Espíritu de Dios bajaba como una paloma y se posaba
     sobre él. Y vino una voz de los cielos que decía: \enquote{Este es mi Hijo
       amado, en quien me complazco}.}
-
+#+END_SRC
+*** DONE Nos introduce en la comunión trinitaria
+    CLOSED: [2019-04-13 Sat 17:23]
+#+BEGIN_SRC latex
   La acción testimonial de Dios que se describe en el Nuevo Testamento está
   concentrada en la persona de Cristo y en su relación manifiesta con el Padre y
   el Espíritu se expresa el testimonio de la Trinidad misma:
-  \blockquote[de Latourelle, Teología de la Revelación 410 en
+  \blockquote[{\cite[410]{latourelle1999rev}}. Ver también:
   {\cite[131]{prades2015testimonio}}]{la Escritura describe la actividad
     reveladora de la trinidad en forma de testimonios mutuos. El Hijo es el
     testigo del padre, y como tal se da a conocer a los apóstoles. A su vez, el
@@ -532,7 +547,7 @@
     Hijo. El Hijo da testimonio del Espíritu porque promete enviarlo como
     educador, consolador, santificador. Y el Espíritu viene y da testimonio del
     hijo porque le recuerda, le da a conocer, descubre la plenitud de sentido de
-    sus palabras, lo insinua en las almas.}
+    sus palabras, lo insinúa en las almas.}
   Esta actividad reveladora de la trinidad introduce al ser humano en la comunión
   trinitaria. Dios trino se comunica al ser humano actuando en su interior,
   atrayendo, inspirando; también se comunica externamente por las obras que
@@ -541,70 +556,73 @@
   \blockquote[1Jn 1,3]{Eso que hemos visto y oído os lo anunciamos, para que
     estéis en comunión con nosotros y nuestra comunión es con el Padre y con su
     Hijo Jesucristo.}
-
+#+END_SRC
+*** DONE Espiritu Santo: testigo de la verdad plena
+    CLOSED: [2019-04-13 Sat 17:23]
+#+BEGIN_SRC latex
   Jesús es el fundamento, testigo fiel y veraz para todo tiempo y
   lugar.\autocite[Cf.][132]{prades2015testimonio} Creer su testimonio es acoger al
   absoluto en la historia, esta confianza la hace posible el Espíritu:
-  \citalitlar{Cristo es, por tanto, el testigo absoluto, el que lleva en sí mismo
-    la garantía de su testimonio. El hombre, sin embargo, no sería capaz de acoger
-    por la fe este testimonio del absoluto, manifestado en la carne y el lenguaje
-    de Jesús, sin una atracción interior (Jn 6,44), que es un don del Padre y un
-    testimonio del Espíritu (1Jn 5,9--10).\autocite{latourelle2000testimonio}}
+  \blockquote[{\cite{latourelle2000testimonio}}]{Cristo es, por tanto, el testigo
+    absoluto, el que lleva en sí mismo la garantía de su testimonio. El hombre,
+    sin embargo, no sería capaz de acoger por la fe este testimonio del absoluto,
+    manifestado en la carne y el lenguaje de Jesús, sin una atracción interior (Jn
+    6,44), que es un don del Padre y un testimonio del Espíritu (1Jn 5,9--10).}
+
   Aquellos que creen en Cristo no sólo encuentran una respuesta a su busqueda de
-  vida y sentido, sino que \citalitinterlin{de sus entrañas manarán ríos de agua
-    viva}.\footnote{Jn 7,38} Y esto Jesús lo dice \citalitinterlin{refiriéndose al
-    Espíritu que habían de recibir los que creyeran en él}.\footnote{Jn 7,39} Esta
-  promesa del Espíritu acontece en Pentecostés y sin ese testimonio postpascual
-  del Espíritu quedaría incompleta la comunicación de Dios en el misterio
+  vida y sentido, sino que \blockquote[Jn 7,38]{de sus entrañas manarán ríos de
+    agua viva}. Y esto Jesús lo dice \blockquote[Jn 7,39]{refiriéndose al Espíritu
+    que habían de recibir los que creyeran en él}. Esta promesa del Espíritu
+  acontece en Pentecostés y sin ese testimonio postpascual del Espíritu quedaría
+  incompleta la comunicación de Dios en el misterio
   Pascual.\autocite[Cf.][135]{prades2015testimonio} El envío y la acción del
   Espíritu prometido completa la acción testimonial de Dios:
-  \citalitlar{Al haber ``acompañado'' al Hijo en la tierra de una manera singular
-    desde el momento de su unción en el Jordán, que dispone al Hijo ---concebido
-    por obra del Espíritu Santo--- para la misión en la carne, el Espíritu Santo
-    vueve al Padre portando en sí todo el misterio redentor del Hijo. De este
-    modo, cuando el Resucitado lo envía a la Iglesia, el Espíritu vuelve como
-    Testigo de la verdad completa, que incluye la perfecta glorificación de la
-    carne del Hijo como plenitud de lo
-    humano.\autocite[134s]{prades2015testimonio}}
+  \blockquote[{\cite[134s]{prades2015testimonio}}]{Al haber \enquote{acompañado}
+    al Hijo en la tierra de una manera singular desde el momento de su unción en
+    el Jordán, que dispone al Hijo ---concebido por obra del Espíritu Santo---
+    para la misión en la carne, el Espíritu Santo vueve al Padre portando en sí
+    todo el misterio redentor del Hijo. De este modo, cuando el Resucitado lo
+    envía a la Iglesia, el Espíritu vuelve como Testigo de la verdad completa, que
+    incluye la perfecta glorificación de la carne del Hijo como plenitud de lo
+    humano.}
 
   El Espíritu enviado por Cristo lleva a la verdad plena a los apóstoles:
-  \citalitinterlin{cuando venga él, el Espíritu de la verdad, os guiará hasta la
-    verdad plena. Pues no hablará por cuenta propia, sino que hablará de lo que
-    oye y os comunicará lo que está por venir}.\footnote{Jn 16,13} Este testimonio
-  del Espíritu completa tambíen el testimonio de los apóstoles:
-  \citalitinterlin{Cuando venga el Paráclito, que os enviaré desde el Padre, el
-    Espíritu de la verdad, que procede del Padre, él dará testimonio de mí; y
-    también vosotros daréis testimonio, porque desde el principio estáis
-    conmigo}.\footnote{Jn 15,26--27} Ellos han estado desde el principio con
-  Cristo, así son testigos que pueden narrar lo que han visto y oído; su testimono
-  queda perfeccionado por el Espíritu que les introduce en el misterio del Hijo
-  encarnado y les permite interpretar y comprender la verdad del Hijo, y por éste,
-  la del Padre.\autocite[Cf.][139]{prades2015testimonio}
+  \blockquote[Jn 16,13]{cuando venga él, el Espíritu de la verdad, os guiará hasta
+    la verdad plena. Pues no hablará por cuenta propia, sino que hablará de lo que
+    oye y os comunicará lo que está por venir}. Este testimonio del Espíritu
+  completa tambíen el testimonio de los apóstoles: \blockquote[Jn
+  15,26--27]{Cuando venga el Paráclito, que os enviaré desde el Padre, el Espíritu
+    de la verdad, que procede del Padre, él dará testimonio de mí; y también
+    vosotros daréis testimonio, porque desde el principio estáis conmigo}. Ellos
+  han estado desde el principio con Cristo, así son testigos que pueden narrar lo
+  que han visto y oído; su testimono queda perfeccionado por el Espíritu que les
+  introduce en el misterio del Hijo encarnado y les permite interpretar y
+  comprender la verdad del Hijo, y por éste, la del
+  Padre.\autocite[Cf.][139]{prades2015testimonio}
 
   Los que han compartido con Jesús desde el principio son testigos del Evangelio,
   pero el Resucitado sigue eligiendo apóstoles y en virtud de la acción del
   Espíritu éstos son testigos del mismo misterio.\autocite[Cf.][576]{ninot2009tf}
-  Así Matías no sólo es \citalitinterlin{uno de los que nos acompañaron todo el
-    tiempo que convivió con nosotros el Señor Jesús}\footnote{Hch 1,21}, sino que
-  es elegido por el Resucitado.\footnote{Cf.~Hch 1,24--26} Igualmente Pablo es
-  constituido testigo por la llamada del Resucitado, asi puede decir
-  \citalitinterlin{Yo mismo hermanos cuando vine a vosotros anunciaros el
-    testimonio de Dios\ldots}\footnote{1\,Cor 2,1}. De este modo la transmisión
-  viva del testimonio cristiano esta constituida por un momento fundacional en la
+  Así Matías no sólo es \blockquote[Hch 1,21]{uno de los que nos acompañaron todo
+    el tiempo que convivió con nosotros el Señor Jesús}, sino que es elegido por
+  el Resucitado.\footnote{Cf.~Hch 1,24--26} Igualmente Pablo es constituido
+  testigo por la llamada del Resucitado, asi puede decir \blockquote{Yo mismo
+    hermanos cuando vine a vosotros anunciaros el testimonio de
+    Dios\ldots}\footnote{1\,Cor 2,1}. De este modo la transmisión viva del
+  testimonio cristiano esta constituida por un momento fundacional en la
   convivencia con Jesús y un momento continuante como dos aspectos históricos
   inseparables.\autocite[Cf.][148]{prades2015testimonio} Este momento continuante
   esta compuesto por los que han sido testigos oculares, como por los que no:
-  \citalitinterlin{unos y otrs son elegidos, llamados y enviados por Cristo, el
-    Cristo histórico los primeros y el Cristo glorioso los
-    segundos}.\autocite[148]{prades2015testimonio}
-
-  Aquel que recibe este testimonio y cree en él encuentra la vida nueva. <<¿Qué
-  dificultad hay en que me bautice?>>, decide aquel hombre que recibió el
-  testimonio de Felipe y <<siguió su camino lleno de alegría>> después de haber
-  encontrado a Dios. Considerar la revelación divina como acción testimonial de
-  Dios conduce en definitiva a estimar la revelación misma como forma de amor y
-  libertad de Dios que interpela el amor y libertad humano. En tanto que
-  comunicación libre y amorosa, el testimonio de Dios atiende la naturaleza humana
-  de su beneficiario; en tanto que don divino queda desvelado su origen y meta más
-  allá de lo humano.\autocite[Cf.][152]{prades2015testimonio}
+  \blockquote[{\cite[148]{prades2015testimonio}}]{unos y otros son elegidos,
+    llamados y enviados por Cristo, el Cristo histórico los primeros y el Cristo
+    glorioso los segundos}. Aquel que recibe este testimonio y cree en él
+  encuentra la vida nueva. \enquote{¿Qué dificultad hay en que me bautice?},
+  decide aquel hombre que recibió el testimonio de Felipe y \enquote{siguió su
+    camino lleno de alegría} después de haber encontrado a Dios. Considerar la
+  revelación divina como acción testimonial de Dios conduce en definitiva a
+  estimar la revelación misma como forma de amor y libertad de Dios que interpela
+  el amor y libertad humano. En tanto que comunicación libre y amorosa, el
+  testimonio de Dios atiende la naturaleza humana de su beneficiario; en tanto que
+  don divino queda desvelado su origen y meta más allá de lo
+  humano.\autocite[Cf.][152]{prades2015testimonio}
 #+END_SRC

@@ -946,20 +946,20 @@ keywords = "prades, testimonio",
 }
 #+END_SRC
 
-** Evangelisation
- #+BEGIN_SRC bibtex :tangle secondary.bib
- @mvcollection{dhavamony1975evangelisation,
-   title={Evangelisation},
-   editor={Mariasusai Dhavamony~S.J.},
-   isbn={9788876524769},
-   series={Documenta Missionalia},
-   volume={9},
-   url={https://books.google.es/books?id=XPB9U31X7AkC},
-   year={1975},
-   publisher={Università Gregoriana Editrice},
-   location={Roma},
- }
- #+END_SRC
+*** Evangelisation
+  #+BEGIN_SRC bibtex :tangle secondary.bib
+  @mvcollection{dhavamony1975evangelisation,
+    title={Evangelisation},
+    editor={Mariasusai Dhavamony~S.J.},
+    isbn={9788876524769},
+    series={Documenta Missionalia},
+    volume={9},
+    url={https://books.google.es/books?id=XPB9U31X7AkC},
+    year={1975},
+    publisher={Università Gregoriana Editrice},
+    location={Roma},
+  }
+  #+END_SRC
 
 *** Evangelisation et temoignage
 #+BEGIN_SRC bibtex :tangle secondary.bib
@@ -972,6 +972,19 @@ keywords = "prades, testimonio",
   abstract={}
   }
 #+END_SRC
+
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@book{latourelle1999rev,
+author = "Rene Latourelle",
+title = "Teología de la Revelación",
+publisher = "Sígueme",
+location = "Salamanca",
+edition = "10",
+year = "1999",
+keywords = "latourelle, testimonio",
+}
+#+END_SRC
+
 
 ** Salvador Pié-Ninot
 #+BEGIN_SRC bibtex :tangle secondary.bib
