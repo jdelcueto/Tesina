@@ -946,7 +946,7 @@ keywords = "prades, testimonio",
 }
 #+END_SRC
 
-** Evangelisation 
+** Evangelisation
  #+BEGIN_SRC bibtex :tangle secondary.bib
  @mvcollection{dhavamony1975evangelisation,
    title={Evangelisation},
@@ -1010,11 +1010,24 @@ keywords = "ninot, teología fundamental",
  location = "Barcelona",
  edition = "1",
  year = "2005",
- keywords = "primary, wittgenstein, biography",
+ keywords = "secondary, ratzinger, fundamental",
  }
 #+END_SRC
 
-
+#+BEGIN_SRC bibtex :tangle secondary.bib
+ @mvbook{ratzinger2007jdenaz,
+ translator = "Carmen Bas Álvarez",
+ author = "Joseph Ratzinger",
+ title = "Jesús de Nazaret",
+ subtitle = "Desde el Bautismo a la Transfiguración",
+ part = "1",
+ publisher = "Planeta",
+ location = "Colombia",
+ edition = "1",
+ year = "2005",
+ keywords = "secondary, ratzinger, cristología",
+ }
+#+END_SRC
 * Testers
 
 #+BEGIN_SRC bibtex :tangle primary.bib

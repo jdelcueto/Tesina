@@ -11,8 +11,9 @@
         - [X] Una pregunta "filosófica" sobre el testimonio
         - [X] Peculiaridad del método de Anscombe
         - [X] Carácter teológico del estudio
-*** TODO El testimonio en la Sagrada Escritura [0%]
-        - [ ] El testimonio en el anuncio pascual
+*** TODO El testimonio en la Sagrada Escritura [50%]
+        - [X] Clave: El testimonio como estructura de la Revelación
+        - [X] El testimonio en el anuncio pascual
         - [ ] El testimonio en el Antiguo Testamento
         - [ ] El testimonio en el Nuevo Testamento
 *** TODO El testimonio en el Magisterio [0%]
@@ -29,7 +30,7 @@
 *** TODO Biografía de G.E.M. Anscombe [0%]
         - [ ] Nacimiento y familia
         - [ ] Syndenham
-        - [ ] Estudios en Oxford 
+        - [ ] Estudios en Oxford
         - [ ] Estudios en Cambridge
         - [ ] Profesora en Oxford
         - [ ] Cátedra de Filosofía en Cambridge
