@@ -1041,6 +1041,26 @@ keywords = "ninot, teología fundamental",
  keywords = "secondary, ratzinger, cristología",
  }
 #+END_SRC
+
+* Magisterio
+** Lumen Fidei
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@book{francis2013lf,
+author = "Papa~Francisco",
+title = "Lumen Fidei",
+subtitle = "Sobre la Fe",
+shorttitle = "LF",
+day= "29",
+month = "6",
+year = "2013",
+keywords = "magisterio, francisco",
+}
+#+END_SRC
+
+** Fides et Ratio
+
+
+
 * Testers
 
 #+BEGIN_SRC bibtex :tangle primary.bib

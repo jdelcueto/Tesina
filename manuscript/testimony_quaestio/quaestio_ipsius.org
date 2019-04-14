@@ -1,0 +1,8 @@
+#+PROPERTY: header-args:latex :tangle ../../tex/ch1/quaestio_ipsius.tex
+# ------------------------------------------------------------------------------------
+# San Juan Pablo II, ruega por nosotros
+* TODO La Categoría del Testimonio como Problema [0%]
+#+BEGIN_SRC latex
+  \section{La Categoría del Testimonio como Problema}
+#+END_SRC
+** TODO Una analogía nada despreciable
