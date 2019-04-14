@@ -887,7 +887,7 @@ keywords={}
   }
 #+END_SRC
 
-
+i
 ** Papa Francisco
 #+BEGIN_SRC bibtex :tangle secondary.bib
 @online{francisco2014angelus,
@@ -1040,6 +1040,19 @@ keywords = "ninot, teología fundamental",
  year = "2005",
  keywords = "secondary, ratzinger, cristología",
  }
+#+END_SRC
+
+** Pablo Dominguez
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@book{dominguez2009at,
+author = "Pablo Domínguez Prieto",
+title = "La Analogía Teológica",
+subtitle = "Su posibilidad metalógica y sus consecuencias físicas, metafísicas y antropológicas",
+publisher = "Publicaciones San Dámaso",
+location = "Madrid",
+year = "2009",
+keywords = "dominguez, analogía",
+}
 #+END_SRC
 
 * Magisterio

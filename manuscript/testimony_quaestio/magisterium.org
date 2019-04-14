@@ -3,7 +3,7 @@
 # San Juan Pablo II, ruega por nosotros
 * TODO La Categoría del Testimonio en el Magisterio [0%]
 #+BEGIN_SRC latex
-  \section{Iglesia como signo sacramental el Testimonio en el Magisterio Reciente}
+  \section{Iglesia como signo sacramental: el Testimonio en el Magisterio Reciente}
 #+END_SRC
 ** TODO Una analogía nada despreciable
 #+BEGIN_SRC latex
