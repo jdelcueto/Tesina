@@ -23,23 +23,29 @@ final
 %subfiles to include the chapters
 \usepackage{subfiles}
 %csquotes for advanced facilities for inline and display quotations
-\usepackage[autostyle,spanish=spanish,maxlevel=3]{csquotes}
+\usepackage[autostyle,spanish=spanish,maxlevel=2]{csquotes}
 
+%\SetCiteCommand{\footcite}
 \SetBlockEnvironment{quotation}
+%\renewcommand{\mkcitation}[1]{\footnote{#1}}
+
 \renewcommand{\mkcitation}[1]{\footnote{#1}}
+\renewcommand{\mktextquote}[6]{#1#2#4#3#5#6}
+\renewcommand{\mkblockquote}[4]{#1#2#3#4}
+
 
 \SetBlockThreshold{3}
-%\SetCiteCommand{hcommandi}
 
-\makeatletter
-\DeclareQuoteStyle{threelevel}
-    {\ifnum\csq@qlevel<2 \guillemotleft\else\textquotedblleft\fi}% opening outer mark
-    {\ifnum\csq@qlevel<2 \guillemotright\else\textquotedblright\fi}% closing outer mark
-    {\textquoteleft}% opening inner mark
-    {\textquoteright}% closing inner mark
-\makeatother
 
-\ExecuteQuoteOptions{style=threelevel}
+%\makeatletter
+%\DeclareQuoteStyle{threelevel}
+%    {\ifnum\csq@qlevel<2 \guillemotleft\else\textquotedblleft\fi}% opening outer mark
+%    {\ifnum\csq@qlevel<2 \guillemotright\else\textquotedblright\fi}% closing outer mark
+%    {\textquoteleft}% opening inner mark
+%    {\textquoteright}% closing inner mark
+%\makeatother
+
+%\ExecuteQuoteOptions{style=threelevel}
 
 %hyperref to handle cross-referencing commands
 \usepackage[hyperfootnotes=false]{hyperref}

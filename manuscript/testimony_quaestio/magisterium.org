@@ -1,11 +1,12 @@
 #+PROPERTY: header-args:latex :tangle ../../tex/ch1/magisterium.tex
 # ------------------------------------------------------------------------------------
 # San Juan Pablo II, ruega por nosotros
-* TODO La Categoría del Testimonio en el Magisterio [0%]
+* DONE La Categoría del Testimonio en el Magisterio [100%]
 #+BEGIN_SRC latex
   \section{Iglesia como signo sacramental: el Testimonio en el Magisterio Reciente}
 #+END_SRC
-** TODO Una analogía nada despreciable
+** DONE Recapitulación del recorrido
+   CLOSED: [2019-04-15 Mon 10:51]
 #+BEGIN_SRC latex
   Nuestro recorrido comenzó al inicio de este capítulo tomando como punto de
   partida a la Iglesia como signo visible. La vida de la comunidad eclesial, sus
@@ -27,7 +28,10 @@
   categoría del testimonio puede aportar para comprender la identidad de la
   Iglesia y su misión en el mundo y cómo ésta forma parte del dinamismo de la
   Revelación divina.
-
+#+END_SRC
+** DONE Una analogía nada despreciable 
+   CLOSED: [2019-04-15 Mon 10:51]
+#+BEGIN_SRC latex
   Con Latourelle se ha dicho que el testimonio es una de esas categorías que la
   escritura emplea como analogía para introducirnos al misterio divino. El
   Concilio nos regala otra analogía que va de la mano con la categoría del
@@ -44,12 +48,12 @@
 
   La visibilidad de la Iglesia está al servicio del Espíritu Santo de modo que su
   naturaleza humana sirve a la presencia divina como instrumento vivo de
-  salvación. La presencia de la articulación social de la Iglesia actua de manera
-  análoga a la presencia de Cristo. Según esto se puede decir que
+  salvación. La presencia de la articulación social de la Iglesia en el mundo
+  actúa de manera análoga a la presencia de Cristo. De este modo
   \blockquote[{\cite[566]{ninot2009tf}}]{la eclesiología se resuelve en la
     Cristología y por eso el \enquote{lugar} de la Iglesia en el acto de creer
     será \enquote{análogo} al de Cristo}. Esta relación con Cristo y el Espíritu
-  otorgan a la Iglesia valor sacramental:
+  otorgan a la Iglesia un valor sacramental:
   \blockquote[LG 48]{Porque Cristo, levantado sobre la tierra, atrajo hacia sí a
     todos (cf. Jn 12, 32 gr.); habiendo resucitado de entre los muertos (Rm 6, 9),
     envió sobre los discípulos a su Espíritu vivificador, y por Él hizo a su
@@ -69,7 +73,11 @@
     humana al tiempo de su peregrinación en la tierra, deriva del hecho de que la
     Iglesia es ``sacramento universal de salvación'', que manifiesta y al mismo
     tiempo realiza el misterio del amor de Dios al hombre.}
-
+#+END_SRC
+** DONE Iglesia sacramento universal de salvación signo de la revelación
+   CLOSED: [2019-04-15 Mon 10:51]
+*** Iglesia es signo como eucaristía que tiene que ser acogido en fe
+#+BEGIN_SRC latex
   La Iglesia en el mundo es así uno de los signos contenidos en la Revelación que
   ayudan a la razón que busca la comprensión del misterio. El signo sacramental
   que es la Iglesia permite atestiguar desde la fe el misterio de Dios que en ella
@@ -86,7 +94,9 @@
     \enquote{Como Jesucristo permaneció desconocido entre los hombres, del mismo
       modo su verdad permanece, entre las opiniones comunes, sin diferencia
       exterior. Así queda la Eucaristía entre el pan común}.}
-
+#+END_SRC
+*** Asentimiento al signo por fe es acogida libre de Dios
+#+BEGIN_SRC latex
   El misterio sublime que aparece en un signo puede ser atestiguado por la fe
   viva. El asentimiento al signo sacramental por la fe supone el reconocimiento de
   que viene de Dios y por tanto es creer a quien es garante de su propia verdad.
@@ -111,6 +121,10 @@
       Padre y de su amor, manifiesta plenamente el hombre al propio hombre y le
       descubre la grandeza de su vocación}, que es participar en el misterio de la
     vida trinitaria de Dios.}
+#+END_SRC
+** DONE Iglesia signo creible por la vida entregada
+   CLOSED: [2019-04-15 Mon 10:51]
+#+BEGIN_SRC latex
   La Iglesia es signo sacramental unido inseparablemente al misterio divino que
   comunica, de modo análogo a la unión del Verbo divino y la naturaleza asumida
   por Él. El conocimiento de la fe abre la razón humana a la verdad revelada como
@@ -118,7 +132,7 @@
   que es la Iglesia. Este acto de confianza es movimiento de la libertad como
   asentimiento y elección de Dios que se revela y acogida de su llamada a
   participar de la comunión trinitaria. Aquí sacramento y testimonio son
-  categorías que interactuan para describir el acceso al misterio divino que se
+  categorías que interactúan para describir el acceso al misterio divino que se
   comunica a través de signos. Esta Iglesia que es signo sacramental es signo
   creíble por el testimonio de la vida comprometida con el misterio de amor que
   significa:
@@ -178,7 +192,10 @@
   sacramental que tiene la propia vida cristiana. Así como en los sacramentos los
   signos visibles comunican la luz de Dios, también la propia existencia del
   cristiano puede arrojar esa luz.
-
+#+END_SRC
+** DONE Vida del cristiano tiene valor sacramental y es kerygma
+   CLOSED: [2019-04-15 Mon 10:51]
+#+BEGIN_SRC latex
   Este valor sacramental de la vida del cristiano y de la comunidad eclesial hace
   de su propia existencia un testimonio kerygmático:
   \blockquote[EN 21]{La Buena Nueva debe ser proclamada en primer lugar, mediante
@@ -204,26 +221,32 @@
     solidaridad y que es un elemento esencial, en general al primero absolutamente
     en la evangelización.}
   La acción testimonial de Dios que se manifiesta en Cristo y en los sacramentos
-  instituidos por Él está analogamente presente en la vida comprometida del
-  cirstiano. El testimonio humano es respuesta de fe de aquellos que han
+  instituidos por Él está análogamente presente en la vida comprometida del
+  cristiano. El testimonio humano es respuesta de fe de aquellos que han
   reconocido a Dios en los signos que le encarnan y que corresponden con palabras
   y obras que quieren significar la vida nueva que viene del Señor. En esta
-  correspondencia se unden las raíces de la misión de proclamar la Buena Nueva.
-
+  correspondencia están hundidas las raíces de la misión de proclamar la Buena
+  Nueva.
+#+END_SRC
+** DONE Testimonio es acción y misión de toda la Iglesia
+   CLOSED: [2019-04-15 Mon 10:51]
+#+BEGIN_SRC latex
   El testimonio es así acción propia de todo bautizado que ha quedado unido a
   Cristo y a la Iglesia.\autocite[Cf.][188]{prades2015testimonio} Toda la Iglesia
   tiene la misión de dar testimonio; los obispos ofrecen al mundo el rostro de la
-  Iglesia con su trato y trabajo pastoral\footnote{GS 43}, los presbíteros,
-  creciendo en el amor por el desempeño de su oficio, han de ser un vivo
-  testimonio de Dios\footnote{LG 41}, los fieles han de dar testimonio de verdad
-  como testigos de la resurrección\footnote{LG 28 y LG 38}, los religiosos deben
-  ofrecer un testimonio sostenido por la integridad de la fe, por la caridad y el
-  amor a la cruz y la esperanza de la gloria futura\footnote{PC 25}, los
-  profesores han de dar testimonio tanto con su vida como con su
-  doctrina\footnote{GE 8}, los misioneros han de ofrecer testimonio con una vida
-  enteramente evangélica, con paciencia, longanimidad, suavidad, caridad sincera,
-  y si es necesario hasta con la propia sangre.\footnote{AG 24}
-
+  Iglesia con su trato y trabajo pastoral (GS 43), los presbíteros, creciendo en
+  el amor por el desempeño de su oficio, han de ser un vivo testimonio de Dios (LG
+  41), los fieles han de dar testimonio de verdad como testigos de la resurrección
+  (LG 28 y LG 38), los religiosos deben ofrecer un testimonio sostenido por la
+  integridad de la fe, por la caridad y el amor a la cruz y la esperanza de la
+  gloria futura (PC 25), los profesores han de dar testimonio tanto con su vida
+  como con su doctrina (GE 8), los misioneros han de ofrecer testimonio con una
+  vida enteramente evangélica, con paciencia, longanimidad, suavidad, caridad
+  sincera, y si es necesario hasta con la propia sangre(AG 24).
+#+END_SRC
+** DONE Iglesia es signo sacramental llamado a la perfección
+   CLOSED: [2019-04-15 Mon 10:51]
+#+BEGIN_SRC latex
   El signo que es la vida de los cristianos y, por tanto la Iglesia, esta llamado
   a purificarse y crecer. La contradicción entre la fe y la vida de los cristianos
   puede constituir un motivo de tropiezo, en lugar de dar a conocer la luz de
@@ -244,30 +267,29 @@
     mantener con el mundo. Dirigida por el Espíritu Santo, la Iglesia, como madre,
     no cesa de ``exhortar a sus hijos a la purificación y a la renovación para que
     brille con mayor claridad la señal de Cristo en el rostro de la Iglesia''}.
-
-  La vida de la Iglesia está marcada por esa llamada a este enriquecimiento
-  constante. Como afirma DV 8: \blockquote{la Iglesia, en el decurso de los
-    siglos, tiende constantemente a la plenitud de la verdad divina, hasta que en
-    ella se cumplan las palabras de Dios}.
-
+  Es así que la vida de la Iglesia es peregrinación de maduración y
+  perfeccionamiento sostenida por el Espíritu. Como afirma DV 8: \blockquote{la
+    Iglesia, en el decurso de los siglos, tiende constantemente a la plenitud de
+    la verdad divina, hasta que en ella se cumplan las palabras de Dios}.
+#+END_SRC
+** DONE Testimonio es correspondencia entre Dios y el hombre
+   CLOSED: [2019-04-15 Mon 10:51]
+#+BEGIN_SRC latex
   La categoría del testimonio ha servido para acercarnos a algunos textos
-  magisteriales y describir la vida de la Iglesia como signo sacramental. A modo
-  de conclusión son luminosas las palabras de K. Wojtyła:
+  magisteriales y describir la vida de la Iglesia como signo sacramental. Las
+  luminosas palabras de K. Wojtyła pueden servirnos aquí para concluir:
   \blockquote[Para una discusión más amplia de la lectura de Wojtyła véase
   {\cite[194--197]{prades2015testimonio}}]{El significado del testimonio en la
-    doctrina del Vaticano II es explícitamente analógico, puesto que el Concilio
+    doctrina del Vaticano~II es explícitamente analógico, puesto que el Concilio
     habla del testimonio de Dios y del hombre, que, de diversa manera, corresponde
     al divino, y a una respuesta multiforme a la revelación. En todo caso, sin
     embargo, la respuesta es testimonio y el testimonio, respuesta.}
 
   Este recorrido a través de algunos modos de emplear la categoría del testimonio
   en la Escritura y la doctrina magisterial ha servido para describir los
-  dinamísmos de la Revelación como acción libre y amorosa del Padre encarnada en
-  en la naturaleza humana asumida por el Verbo y sostenida por la acción interior
-  del Espíritu. Esta acción de la libertad divina ha encontrado la correspondencia
-  de la libertad humana que acoge la invitación al amor y se compromete por
-  completo a la comunión con Dios. Este intercambio testimonial comunica el amor
-  divino.
-
-
+  dinamismos de la Revelación como acción libre y amorosa del Padre encarnada en
+  la naturaleza humana asumida por el Verbo y sostenida por la acción interior del
+  Espíritu. Esta acción de la libertad divina ha encontrado la correspondencia de
+  la libertad humana que acoge la invitación al amor y se compromete por completo
+  a la comunión con Dios. Este intercambio testimonial comunica el amor divino.
 #+END_SRC

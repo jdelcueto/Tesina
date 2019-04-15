@@ -465,7 +465,7 @@
   Jesús es testimonio de carácter singular,\autocite[Cf.~][279]{ninot2009tf} en
   quien se da a conocer el momento de la plenitud de la
   salvación,\autocite[Cf.][290]{ninot2009tf} presencia del hombre nuevo y
-  \enquote{paradigma universal de humanidad}\autocite[Cf.~][291]{ninot2009tf}.
+  \enquote{paradigma universal de humanidad}.\autocite[Cf.~][291]{ninot2009tf}
   Este valor universal de la verdad que se comunica en Jesús se desarrolla y se
   manifiesta en sus acciones concretas: comiendo con los pecadores o sanando a los
   enfermos es donde se muestra \blockquote[Cf.~Jn 14,6]{el camino, la verdad y la
@@ -606,11 +606,11 @@
   Así Matías no sólo es \blockquote[Hch 1,21]{uno de los que nos acompañaron todo
     el tiempo que convivió con nosotros el Señor Jesús}, sino que es elegido por
   el Resucitado.\footnote{Cf.~Hch 1,24--26} Igualmente Pablo es constituido
-  testigo por la llamada del Resucitado, asi puede decir \blockquote{Yo mismo
-    hermanos cuando vine a vosotros anunciaros el testimonio de
-    Dios\ldots}\footnote{1\,Cor 2,1}. De este modo la transmisión viva del
-  testimonio cristiano esta constituida por un momento fundacional en la
-  convivencia con Jesús y un momento continuante como dos aspectos históricos
+  testigo por la llamada del Resucitado, asi puede decir \blockquote[1\,Cor
+  2,1]{Yo mismo hermanos cuando vine a vosotros anunciaros el testimonio de
+    Dios\ldots}. De este modo la transmisión viva del testimonio cristiano esta
+  constituida por un momento fundacional en la convivencia con Jesús y un momento
+  continuante como dos aspectos históricos
   inseparables.\autocite[Cf.][148]{prades2015testimonio} Este momento continuante
   esta compuesto por los que han sido testigos oculares, como por los que no:
   \blockquote[{\cite[148]{prades2015testimonio}}]{unos y otros son elegidos,

@@ -4,23 +4,29 @@
 * [[./staging/main.pdf][Documento en desarrollo]]  //  Documento Final (pronto?)
 
 * TODO Progreso Realizado [0%]
-** TODO Cap. 1: Introducción General al Problema del Testimonio [25%]
+** TODO Cap. 1: Introducción General al Problema del Testimonio [75%]
 *** DONE Naturaleza de la pregunta sobre el testimonio [100%]
     CLOSED: [2019-04-12 Fri 09:49]
         - [X] Una experiencia familiar
         - [X] Una pregunta "filosófica" sobre el testimonio
         - [X] Peculiaridad del método de Anscombe
         - [X] Carácter teológico del estudio
-*** TODO El testimonio en la Sagrada Escritura [100%]
+*** DONE El testimonio en la Sagrada Escritura [100%]
+    CLOSED: [2019-04-15 Mon 10:54]
         - [X] Clave: El testimonio como estructura de la Revelación
         - [X] El testimonio en el anuncio pascual
         - [X] El testimonio en el Antiguo Testamento
         - [X] El testimonio en el Nuevo Testamento
-*** TODO El testimonio en el Magisterio [0%]
-        - [ ] Una analogía nada despreciable
-        - [ ] El don de sí es signo sacramental
-        - [ ] El testimonio es acción propia de todo bautizado
-        - [ ] Estructura testimonial y motivo de credibilidad unidos en el signo sacramental
+*** DONE El testimonio en el Magisterio [100%]
+    CLOSED: [2019-04-15 Mon 10:54]
+        - [X] Recapitulación del recorrido
+        - [X] Una analogía nada despreciable
+        - [X] Iglesia sacramento universal de salvación, signo de la revelación
+        - [X] Iglesia signo creíble por la vida entregada
+        - [X] Vida del cristiano tiene valor sacramental y es kerygma
+        - [X] Testimonio es acción y misión de toda la Iglesia
+        - [X] Iglesia es signo sacramental llamado a la perfección
+        - [X] Testimonio es correspondencia entre Dios y el hombre
 *** TODO El problema de la categoría del testimonio [0%]
         - [ ] Preámbulo
         - [ ] ¿Cuál es el valor epistemológico del testimonio?
