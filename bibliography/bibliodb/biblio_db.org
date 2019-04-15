@@ -1054,6 +1054,41 @@ year = "2009",
 keywords = "dominguez, analogía",
 }
 #+END_SRC
+** Jennifer Lackey and Ernest Sosa
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@book{lackeysosa2006eptest,
+editor = "Jennifer Lackey and Ernest Sosa",
+title = "The Epistemology of Testimony",
+publisher = "Oxford University Press",
+location = "New York",
+year = "2006",
+keywords = "lackey, epistemology, testimony",
+}
+#+END_SRC
+** Paul K. Moser
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@book{moser2002ep,
+editor = "Paul K. Moser",
+title = "The Oxford Handbook of Epistemology",
+publisher = "Oxford University Press",
+location = "New York",
+year = "2002",
+keywords = "moser, epistemology",
+}
+#+END_SRC
+
+** Coady
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@book{coady1992test,
+author = "C.A.J. Coady",
+title = "Testimony",
+subtitle ="A Philosophical Study",
+publisher = "Oxford University Press",
+location = "New York",
+year = "1992",
+keywords = "coady, testimony",
+}
+#+END_SRC
 
 * Magisterio
 ** Lumen Fidei

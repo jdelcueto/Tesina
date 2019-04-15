@@ -27,8 +27,8 @@
         - [X] Testimonio es acción y misión de toda la Iglesia
         - [X] Iglesia es signo sacramental llamado a la perfección
         - [X] Testimonio es correspondencia entre Dios y el hombre
-*** TODO El problema de la categoría del testimonio [0%]
-        - [ ] Preámbulo
+*** TODO El problema de la categoría del testimonio [25%]
+        - [X] Reformulación pregunta inicial, desafíos filosóficos
         - [ ] ¿Cuál es el valor epistemológico del testimonio?
         - [ ] ¿Tiene fuerza un testimonio histórico del absoluto?
         - [ ] ¿Tiene carácter veritativo el lenguaje teológico?
