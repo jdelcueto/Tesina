@@ -1089,6 +1089,34 @@ year = "1992",
 keywords = "coady, testimony",
 }
 #+END_SRC
+** David Hume
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@book{hume1777enquiry,
+author = "David Hume",
+editor = "Eric Steinberg",
+title = "An Enquiry Concerning Human Understanding",
+subtitle ="A Philosophical Study",
+publisher = "Hackett Publishing Company",
+location = "Indianapolis",
+edition = "2",
+year = "1993",
+keywords = "hume, philosophy",
+}
+#+END_SRC
+** Gotthold Ephraim Lessing
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@book{lessing1777proof,
+author = "Gotthold Ephraim Lessing",
+editor = "H. B. Nisbet",
+translator = "H. B. Nisbet",
+title = "Philosophical and Theological Writings",
+publisher = "Cambridge University Press",
+location = "Cambridge",
+year = "2005",
+keywords = "lessing, philosophy",
+}
+#+END_SRC
+
 
 * Magisterio
 ** Lumen Fidei

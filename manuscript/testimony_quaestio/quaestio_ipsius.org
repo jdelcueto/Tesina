@@ -71,21 +71,21 @@
     On this view, propositional knowledge is, by definition, justified true
     belief. This tripartite definition has come to be called ``the standard
     analysis''.} Según esta composición tripartita la pregunta sobre el valor
-  epistemológico del testimonio se puede plantear diciendo: dada una comunicación
-  que cualifique como testimonio y que sea al caso que la creencia formada desde
-  esta comunicación está basada enteramente en el testimonio
-  recibido,\footnote{Cf.~\cite[4]{lackeysosa2006eptest}: Even if an expression of
-    thought qualifies as testimony and the resulting belief formed is entirely
-    testimonially based for the hearer, however, there is the further question of
-    how precisely such a belief successfully counts as justified belief or an
-    instance of knowledge.} ¿cómo adquirimos efectivamente una creencia verdadera
-  justificada sobre la base de lo que alguien nos ha
-  dicho?,\footnote{Cf.~\cite[2]{lackeysosa2006eptest}: how we successfully acquire
-    justified belief or knowledge on the basis of what other people tell us. This,
-    rather than what testimony is, is often taken to be the issue of central
-    import from an epistemological point of view.} es decir, ¿cómo, precisamente,
-  una creencia como esta puede ser contada satisfactoriamente como creencia
-  justificada o una instancia de conocimiento?
+  epistemológico del testimonio se puede plantear diciendo: \enquote{dada una
+    comunicación que cualifique como testimonio y que sea al caso que la creencia
+    formada desde esta comunicación está basada enteramente en el testimonio
+    recibido,\footnote{Cf.~\cite[4]{lackeysosa2006eptest}: Even if an expression
+      of thought qualifies as testimony and the resulting belief formed is
+      entirely testimonially based for the hearer, however, there is the further
+      question of how precisely such a belief successfully counts as justified
+      belief or an instance of knowledge.} ¿cómo adquirimos efectivamente una
+    creencia verdadera justificada sobre la base de lo que alguien nos ha
+    dicho?},\footnote{Cf.~\cite[2]{lackeysosa2006eptest}: how we successfully
+    acquire justified belief or knowledge on the basis of what other people tell
+    us. This, rather than what testimony is, is often taken to be the issue of
+    central import from an epistemological point of view.} es decir,
+  \enquote{¿cómo, precisamente, una creencia como esta puede ser contada
+    satisfactoriamente como creencia justificada o una instancia de conocimiento?}
   \footnote{Cf.~\cite[4]{lackeysosa2006eptest}: how precisely such a belief
     successfully counts as justified belief or an instance of knowledge}
 
@@ -123,79 +123,109 @@
   de hecho no se demuestra a priori, sino que ha de ser descubierta en la
   experiencia. Ahora bien, ¿cuál es la naturaleza de la evidencia de aquellas
   cuestiones de hecho que están más allá de la percepción de nuestros sentidos o
-  de las impresiones de nuestra memoria?\footnote{Matters of fact, which are the
-    second objects of human reason, are not ascertained in the same manner; nor is
-    our evidence of their truth, however great, of a like nature with the
-    foregoing (relations of ideas) [\ldots] The contrary of every matter of fact
-    is still possible [\ldots] We should, in vain, therefore attempt to
-    demonstrate its falsehood. Were it demonstratively false, it would imply a
-    contradiction, and could never be distinctly conceived by the mind [\ldots]
-    what is the nature of that evidence which assures us of any real existence and
-    matter of fact, beyond the present testimony of our senses, or the records of
-    our memory. enquiry ch IV part I} Nuestros razonamientos relacionados con
-  algún hecho se componen de inferencias realizadas a partir del conocimiento que
-  tenemos de que a una causa se sigue su efecto.\footnote{All our reasonings
+  de las impresiones de nuestra memoria?\footnote{Cf.~\cite[\S4,1.
+    15]{hume1777enquiry}: Matters of fact, which are the second objects of human
+    reason, are not ascertained in the same manner; nor is our evidence of their
+    truth, however great, of a like nature with the foregoing (relations of ideas)
+    \textelp{} The contrary of every matter of fact is still possible \textelp{}
+    We should, in vain, therefore attempt to demonstrate its falsehood. Were it
+    demonstratively false, it would imply a contradiction, and could never be
+    distinctly conceived by the mind \textelp{} what is the nature of that
+    evidence which assures us of any real existence and matter of fact, beyond the
+    present testimony of our senses, or the records of our memory.} Nuestros
+  razonamientos relacionados con algún hecho se componen de inferencias realizadas
+  a partir del conocimiento que tenemos de que a una causa se sigue su
+  efecto.\footnote{Cf.~\cite[\S4,1. 16]{hume1777enquiry}: All our reasonings
     concerning fact are of the same nature; and here it is constantly supposed
     that there is a connection between the present fact and that which is inferred
     from it. Were there nothing to bind them together, the inference would be
     entirely precarious.} Este conocimiento de la relación causa y efecto, a su
-  vez, no consiste en un razonamiento a priori, \citalitinterlin{sino que surge
-    completamente de la experiencia, cuando descubrimos que cualesquiera objetos
-    particulares están constantemente unidos entre sí}.\footnote{that the
-    knowledge of this relation is not, in any instance, attained by reasonings a
-    priori, but arises entirely from experience, when we find that any particular
-    objects are constantly conjoined with each other. enquiry ch IV part I} Es así
-  que \citalitinterlin{por medio de esta relación solamente, podemos ir más allá
-    de nuestra memoria y sentidos}. \footnote{By means of that relation alone, we
-    can go beyond the evidence of our memory and senses.}
+  vez, no consiste en un razonamiento a priori, \blockquote[{\cite[\S4,1.
+    17]{hume1777enquiry}}: that the knowledge of this relation is not, in any
+  instance, attained by reasonings a priori, but arises entirely from experience,
+  when we find that any particular objects are constantly conjoined with each
+  other.]{sino que surge completamente de la experiencia, cuando descubrimos que
+    cualesquiera objetos particulares están constantemente unidos entre sí}. Es
+  así que \blockquote[{\cite[\S4,1. 16]{hume1777enquiry}}: By means of that
+  relation alone, we can go beyond the evidence of our memory and senses.]{por
+    medio de esta relación solamente, podemos ir más allá de nuestra memoria y
+    sentidos}.
 
   Esta misma línea de razonamiento es la que se sigue en la descripción acerca del
-  testimonio y su valor: \citalitlar{there is no species of reasoning more common,
-    more useful, and even necessary to human life, than that which is derived from
-    the testimony of men, and the reports of eye witnesses and spectators. This
-    species of reasoning, perhaps, one may deny to be founded on the relation of
-    cause and effect. I shall not dispute about a word. It will be sufficient to
-    observe, that our assurance in any argument of this kind, is derived from no
-    other principle than our observation of the veracity of human testimony, and
-    of the usual conformity of facts to the reports of witnesses. It being a
-    general maxim, that no objects have any discoverable connection together, and
-    that all the inferences which we can draw from one to another, are founded
-    merely on our experience of their constant and regular conjunction; it is
-    evident, that we ought not to make an exception to this maxim in favour of
-    human testimony, whose connection with any event seems, in itself, as little
-    necessary as any other. Were not the memory tenacious to a certain degree; had
-    not men commonly an inclination to truth and a principle of probity; were they
-    not sensible to shame, when detected in a falsehood; were not these, I say,
-    discovered by experience to be qualities inherent in human nature, we should
-    never repose the least confidence in human testimony. A man delirious, or
-    noted for falsehood and villany, has no manner of authority with
-    us.\footnote{enquiry ch X part I}} Así como nuestra habitual experiencia de la
-  relación de causa y efecto nos permite hacer inferencias acerca de las
-  cuestiones de hecho que están más allá de nuestros sentidos, la conformidad que
-  usualmente experimentamos entre los hechos y el informe que un testigo nos da de
-  ellos nos permite inferir su veracidad. Según el análasis ofrecido por
-  C.\,A.\,J.~Coady, la teoría de Hume: \citalitlar{constitutes a reduction of
-    testimony as a form of evidence or support to the status of a species (one
-    might almost say, a mutation) of inductive inference. And, again, in so far as
-    inductive inference is reduced by Hume to a species of observation and
-    consequences attendant upon observations, then in a like fashion testimony
-    meets the same fate.\footnote{testimony p. 79}}
+  testimonio y su valor:
+  \blockquote[{\cite[\S10,1. 74]{hume1777enquiry}}: there is no species of
+  reasoning more common, more useful, and even necessary to human life, than that
+  which is derived from the testimony of men, and the reports of eye witnesses and
+  spectators. This species of reasoning, perhaps, one may deny to be founded on
+  the relation of cause and effect. I shall not dispute about a word. It will be
+  sufficient to observe, that our assurance in any argument of this kind, is
+  derived from no other principle than our observation of the veracity of human
+  testimony, and of the usual conformity of facts to the reports of witnesses. It
+  being a general maxim, that no objects have any discoverable connection
+  together, and that all the inferences which we can draw from one to another, are
+  founded merely on our experience of their constant and regular conjunction; it
+  is evident, that we ought not to make an exception to this maxim in favour of
+  human testimony, whose connection with any event seems, in itself, as little
+  necessary as any other. Were not the memory tenacious to a certain degree; had
+  not men commonly an inclination to truth and a principle of probity; were they
+  not sensible to shame, when detected in a falsehood; were not these, I say,
+  discovered by experience to be qualities inherent in human nature, we should
+  never repose the least confidence in human testimony. A man delirious, or noted
+  for falsehood and villany, has no manner of authority with us.]{no hay una
+    especie de razonamiento más común, más útil, e incluso necesario para la vida
+    humana, que aquel que se deriva del testimonio de los hombres, y los informes
+    de testigos oculares y espectadores. Esta especie de razonamiento, quizás, uno
+    podría negar que esté fundado en la relación de causa y efecto. No debatiré
+    por una palabra. Será suficiente observar, que nuestra confianza en un
+    argumento de este tipo, no se deriva de otro principio que el de nuestra
+    observación de la veracidad del testimonio humano, y la correspondencia
+    habitual de los hechos con los informes de los testigos. Siendo esto una
+    máxima general, que ningún caso de objetos tienen alguna conexión entre sí que
+    pueda ser descubierta, y que todas las inferencias que podamos sacar de uno
+    por el otro, son fundadas meramente en nuestra experiencia de su constante y
+    regular conjunción; es evidente, que no deberíamos hacer una excepción a esta
+    máxima en favor del testimonio humano, cuya conexión con cualquier evento
+    parece, en sí misma, tan poco necesaria como cualquier otra. Si la memoria no
+    fuera tenaz en cierto grado; si no tuvieran los hombres comúnmente una
+    inclinación a la verdad y un principio de honradez; si no fueran sensibles a
+    la vergüenza, cuando descubiertos en la mentira; si no fueran éstas, diría,
+    descubiertas por la experiencia como cualidades inherentes a la naturaleza
+    humana, no deberíamos depositar nunca la más pequeña confianza en el
+    testimonio humano. Un hombre delirante, o notorio por mentiroso o villano, no
+    tiene ninguna índole de autoridad con nosotros.}
 
+  Así como nuestra habitual experiencia de la relación de causa y efecto nos
+  permite hacer inferencias acerca de las cuestiones de hecho que están más allá
+  de nuestros sentidos, la conformidad que usualmente experimentamos entre los
+  hechos y el informe que un testigo nos da de ellos nos permite inferir su
+  veracidad. Según el análisis ofrecido por C.\,A.\,J.~Coady, la teoría de Hume:
+  \blockquote[{\cite[79]{coady1992test}}: constitutes a reduction of testimony as
+  a form of evidence or support to the status of a species (one might almost say,
+  a mutation) of inductive inference. And, again, in so far as inductive inference
+  is reduced by Hume to a species of observation and consequences attendant upon
+  observations, then in a like fashion testimony meets the same fate.]{constituye
+    una reducción del testimonio como una forma de evidencia o fundamento al
+    estatuto de una especie (uno podría casi decir, una mutación) de inferencia
+    inductiva. Y, una vez más, en tanto que la inferencia inductiva queda reducida
+    por Hume a una especie de observación y consecuencias relacionadas con las
+    observaciones, en consecuencia igualmente el testimonio corre la misma suerte}
   La valoración epistemológica del testimonio y la perspectiva ofrecida por Hume
-  nos deja así con un primer desafío: \citalitlar{en la vida social cabe aceptar
+  nos deja así con un primer desafío:
+  \blockquote[{\cite[294]{prades2015testimonio}}]{en la vida social cabe aceptar
     un conocimiento por testimonio a condición de que su grado de certeza se
     limite a la probabilidad, y a condición de que pueda ser siempre reconducido a
-    una verificación por conocimiento
-    directo}.\autocite[294]{prades2015testimonio} Estas consideraciones añaden
-  algunos elementos a nuestro cuestionamiento original. Conocer una verdad para la
-  vida desde el testimonio implica que pueda obtenerse una creencia verdadera
-  justificada basada en lo que una persona ha comunicado. La visión de Hume es que
-  la evidencia que puede ofrecer un testimonio para justificar una creencia no es
-  mayor que la probabilidad y esta evidencia está basada en la inferencia que nos
-  permite la habitual experiencia de que el testimonio comunicado y la verdad de
-  los hechos suelen ir unidos. Más adelante veremos qué tiene que decir Anscombe
-  ante este desafío. Todavía podemos plantear una segunda cuestión esta vez
-  relacionada con la segunda parte de nuestra pregunta original.
+    una verificación por conocimiento directo}.
+
+  Estas consideraciones añaden algunos elementos a nuestra cuestión inicial.
+  Conocer una verdad para la vida desde el testimonio implica que pueda obtenerse
+  una creencia verdadera justificada basada en lo que una persona ha comunicado.
+  La visión de Hume es que la evidencia que puede ofrecer un testimonio para
+  justificar una creencia no es mayor que la probabilidad y esta evidencia está
+  basada en la inferencia que nos permite la habitual experiencia de que el
+  testimonio comunicado y la verdad de los hechos suelen ir unidos. Más adelante
+  veremos qué tiene que decir Anscombe ante este desafío. Todavía podemos plantear
+  una segunda cuestión; esta vez relacionada con la segunda parte de nuestra
+  pregunta original.
 #+END_SRC
 ** TODO ¿Tiene fuerza un testimonio histórico del absoluto
 #+BEGIN_SRC latex
