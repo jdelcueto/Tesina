@@ -43,6 +43,10 @@
   anterior pregunta y formular las cuestiones principales que servirán luego para
   navegar en el pensamiento de Elizabeth Anscombe.
 #+END_SRC
+** TODO Por qué hablar del testimonio hoy? 
+#+BEGIN_SRC latex
+  \subsection{¿Por qué hablar del testimonio hoy?}
+#+END_SRC
 ** TODO Cuál es el valor espistemológico del testimonio
 #+BEGIN_SRC latex
   \subsection{¿Cuál es el valor epistemológico del testimonio?}
@@ -147,52 +151,51 @@
   other.]{sino que surge completamente de la experiencia, cuando descubrimos que
     cualesquiera objetos particulares están constantemente unidos entre sí}. Es
   así que \blockquote[{\cite[\S4,1. 16]{hume1777enquiry}}: By means of that
-  relation alone, we can go beyond the evidence of our memory and senses.]{por
-    medio de esta relación solamente, podemos ir más allá de nuestra memoria y
+  relation alone, we can go beyond the evidence of our memory and senses.]{tan
+    solo por medio de esta relación, podemos ir más allá de nuestra memoria y
     sentidos}.
 
   Esta misma línea de razonamiento es la que se sigue en la descripción acerca del
-  testimonio y su valor:
-  \blockquote[{\cite[\S10,1. 74]{hume1777enquiry}}: there is no species of
-  reasoning more common, more useful, and even necessary to human life, than that
-  which is derived from the testimony of men, and the reports of eye witnesses and
-  spectators. This species of reasoning, perhaps, one may deny to be founded on
-  the relation of cause and effect. I shall not dispute about a word. It will be
-  sufficient to observe, that our assurance in any argument of this kind, is
-  derived from no other principle than our observation of the veracity of human
-  testimony, and of the usual conformity of facts to the reports of witnesses. It
-  being a general maxim, that no objects have any discoverable connection
-  together, and that all the inferences which we can draw from one to another, are
-  founded merely on our experience of their constant and regular conjunction; it
-  is evident, that we ought not to make an exception to this maxim in favour of
-  human testimony, whose connection with any event seems, in itself, as little
-  necessary as any other. Were not the memory tenacious to a certain degree; had
-  not men commonly an inclination to truth and a principle of probity; were they
-  not sensible to shame, when detected in a falsehood; were not these, I say,
-  discovered by experience to be qualities inherent in human nature, we should
-  never repose the least confidence in human testimony. A man delirious, or noted
-  for falsehood and villany, has no manner of authority with us.]{no hay una
-    especie de razonamiento más común, más útil, e incluso necesario para la vida
+  testimonio y su valor: \blockquote[{\cite[\S10,1. 74]{hume1777enquiry}}: there
+  is no species of reasoning more common, more useful, and even necessary to human
+  life, than that which is derived from the testimony of men, and the reports of
+  eye witnesses and spectators. This species of reasoning, perhaps, one may deny
+  to be founded on the relation of cause and effect. I shall not dispute about a
+  word. It will be sufficient to observe, that our assurance in any argument of
+  this kind, is derived from no other principle than our observation of the
+  veracity of human testimony, and of the usual conformity of facts to the reports
+  of witnesses. It being a general maxim, that no objects have any discoverable
+  connection together, and that all the inferences which we can draw from one to
+  another, are founded merely on our experience of their constant and regular
+  conjunction; it is evident, that we ought not to make an exception to this maxim
+  in favour of human testimony, whose connection with any event seems, in itself,
+  as little necessary as any other. Were not the memory tenacious to a certain
+  degree; had not men commonly an inclination to truth and a principle of probity;
+  were they not sensible to shame, when detected in a falsehood; were not these, I
+  say, discovered by experience to be qualities inherent in human nature, we
+  should never repose the least confidence in human testimony. A man delirious, or
+  noted for falsehood and villany, has no manner of authority with us.]{no hay un
+    tipo de razonamiento más común, más útil, e incluso necesario para la vida
     humana, que aquel que se deriva del testimonio de los hombres, y los informes
-    de testigos oculares y espectadores. Esta especie de razonamiento, quizás, uno
-    podría negar que esté fundado en la relación de causa y efecto. No debatiré
-    por una palabra. Será suficiente observar, que nuestra confianza en un
-    argumento de este tipo, no se deriva de otro principio que el de nuestra
-    observación de la veracidad del testimonio humano, y la correspondencia
-    habitual de los hechos con los informes de los testigos. Siendo esto una
-    máxima general, que ningún caso de objetos tienen alguna conexión entre sí que
-    pueda ser descubierta, y que todas las inferencias que podamos sacar de uno
-    por el otro, son fundadas meramente en nuestra experiencia de su constante y
-    regular conjunción; es evidente, que no deberíamos hacer una excepción a esta
-    máxima en favor del testimonio humano, cuya conexión con cualquier evento
-    parece, en sí misma, tan poco necesaria como cualquier otra. Si la memoria no
-    fuera tenaz en cierto grado; si no tuvieran los hombres comúnmente una
-    inclinación a la verdad y un principio de honradez; si no fueran sensibles a
-    la vergüenza, cuando descubiertos en la mentira; si no fueran éstas, diría,
-    descubiertas por la experiencia como cualidades inherentes a la naturaleza
-    humana, no deberíamos depositar nunca la más pequeña confianza en el
-    testimonio humano. Un hombre delirante, o notorio por mentiroso o villano, no
-    tiene ninguna índole de autoridad con nosotros.}
+    de testigos oculares y espectadores. Quizá uno pueda negar que esta clase de
+    razonamiento esté fundada en la relación de causa y efecto. No discutiré por
+    una palabra. Será suficiente observar, que nuestra confianza en un argumento
+    de este tipo, no se deriva de otro principio que el de nuestra observación de
+    la veracidad del testimonio humano, y la correspondencia habitual de los
+    hechos con los informes de los testigos. Siendo esto una máxima general, que
+    ningún caso de objetos tienen alguna conexión entre sí que pueda ser
+    descubierta, y que todas las inferencias que podamos sacar de uno por el otro,
+    son fundadas meramente en nuestra experiencia de su constante y regular
+    conjunción; es evidente, que no deberíamos hacer una excepción a esta máxima
+    en favor del testimonio humano, cuya conexión con cualquier evento parece, en
+    sí misma, tan poco necesaria como cualquier otra. Si la memoria no fuera tenaz
+    en cierto grado; si no tuvieran los hombres comúnmente una inclinación a la
+    verdad y un principio de honradez; si no fueran sensibles a la vergüenza,
+    cuando son descubiertos en la mentira; digo yo, si éstas no fueran cualidades
+    que la experiencia descubre como inherentes a la naturaleza humana, jamas
+    tendríamos la menor confianza en el testimonio humano. Un hombre delirante, o
+    notorio por mentiroso o villano, no tiene ninguna clase de autoridad entre
+    nosotros.}
 
   Así como nuestra habitual experiencia de la relación de causa y efecto nos
   permite hacer inferencias acerca de las cuestiones de hecho que están más allá
@@ -227,11 +230,11 @@
   una segunda cuestión; esta vez relacionada con la segunda parte de nuestra
   pregunta original.
 #+END_SRC
-** TODO ¿Tiene fuerza un testimonio histórico del absoluto
+** TODO ¿Tiene fuerza un testimonio histórico del Absoluto
 #+BEGIN_SRC latex
-  \subsection{¿Tiene fuerza un testimonio histórico del absoluto?}
+  \subsection{¿Tiene fuerza un testimonio histórico del Absoluto?}
   El contexto de la reflexión de Hume sobre el testimonio es precisamente el de la
-  creencia en los milagros. La preocupación de Hume es que el \enquote{hombre
+    creencia en los milagros. La preocupación de Hume es que el \enquote{hombre
     sabio} pueda verificar sus creencias de modo que no sea víctima de
   \enquote{engaños supersticiosos}. Para esto, estima, que ha encontrado un
   argumento que servirá para distinguir superstición de
@@ -244,9 +247,9 @@
   matter of fact, there are all imaginable degrees of assurance, from the highest
   certainty to the lowest species of moral evidence. A wise man, therefore,
   proportions his belief to the evidence]{en nuestros razonamientos concernientes
-    a cuestiones de hecho, hay todos los grados imaginables de seguridad, desde la
+    a cuestiones de hecho, se dan todos los grados imaginables de seguridad, desde la
     certeza más alta hasta las especies más bajas de evidencia moral. Un hombre
-    sabio, por tanto, ajusta su creencia a la evidencia}.
+    sabio, por tanto, adecua su creencia a la evidencia}.
 
   Entonces sugiere un criterio que permite ajustar las creencias
   a la evidencia:
@@ -259,14 +262,14 @@
   which remains after deducting the inferior.']{`Que ningún testimonio es
     suficiente para establecer un milagro, excepto si el testimonio es de tal
     tipo, que su falsedad sea más milagrosa que el hecho que se esfuerza por
-    establecer; y, incluso en este caso, hay una mutua destrucción de argumentos;
+    establecer; e, incluso en este caso, hay una mutua destrucción de argumentos;
     y el superior sólo nos da certeza apropiada al grado de fuerza que permanece
     después de restar el inferior.'}
 
-  Esto tiene como consecuencia que lo razonable sea
-  abandonar la razonabilidad de las verdades cristianas, comprendiendo que solo
-  pueden ser contempladas desde la fe. Empleando su criterio ofrece una valoración
-  de la revelación de la escritura como sigue:
+  Esto tiene como consecuencia que lo razonable sea abandonar la razonabilidad de
+  las verdades cristianas, comprendiendo que solo pueden ser contempladas desde la
+  fe. Empleando su criterio ofrece una valoración de la revelación de la escritura
+  como sigue:
 
   \blockquote[{\cite[\S10,1. 89]{hume1777enquiry}}: I am the better pleased with
   the method of reasoning here delivered, as I think it may serve to confound
@@ -294,46 +297,86 @@
   consideration, declare, whether he thinks that the falsehood of such a book,
   supported by such a testimony, would be more extraordinary and miraculous than
   all the miracles it relates; which is, however, necessary to make it be received
-  according to the measures of probability above established.]{}
+  according to the measures of probability above established.]{Estoy más
+    satisfecho con el método de razonar aquí expuesto, pues pienso que puede
+    servir para confundir esos amigos peligrosos, o los enemigos disfrazados de la
+    religión Cristiana, que se han propuesto defenderla con los principios de la
+    razón humana. Nuestra más sagrada religión se funda en la fe, no en la razón;
+    y es un modo seguro de exponerla, el someterla a una prueba que de ningún modo
+    está capacitada para soportar. Para hacer esto más evidente examinemos los
+    milagros relatados en la escritura y, para no perdernos en un campo demasiado
+    amplio, limitémonos a los que encontramos en el Pentatéuco, que examinaremos
+    de acuerdo con los principios de aquellos supuestos Cristianos, no como la
+    palabra o testimonio de Dios mismo, sino como la producción de un mero
+    escritor e historiador humano. Aquí entonces hemos de considerar primero un
+    libro que un pueblo bárbaro e ignorante nos presenta, escrito en una edad aún
+    más bárbara y, con toda probabilidad, mucho después de los hechos que relata,
+    no corroborado por testimonio concurrente alguno, y asemejándose a las
+    narraciones fabulosas que toda nación da de su origen. Al leer este libro, lo
+    encontramos lleno de prodigios y milagros. Ofrece un relato del estado del
+    mundo y de la naturaleza humana totalmente distinto al presente: de nuestra
+    pérdida de aquella condición; de la edad del hombre que alcanza a casi mil
+    años; de la destrucción del mundo por un diluvio; de la elección arbitraria de
+    un pueblo como el favorito del cielo y que dicho pueblo lo componen los
+    compatriotas del autor; de su liberación de la servidumbre por los prodigios
+    más asombrosos que se puede uno imaginar.
 
-  ¿Se
-  puede afirmar que sería más ``milagrosa'' la falsedad de los milagros que
-  atestigua la escritura? La posibilidad de recibir este testimonio como evidencia
-  de alguna verdad descansaría sobre esta condición y una persona razonable
-  debería medir la probabilidad de veracidad de estos relatos teniendo en cuenta
-  que el estado de las cosas que describe es distinto al que experimentamos en el
-  presente.
+    Invito a cualquiera a que ponga su mano sobre el corazón, y, tras seria
+    consideración, declare, si piensa que la falsedad de tal libro, apoyado por
+    tal testimonio, sería más extraordinaria y milagrosa que todos los milagros
+    que narra; lo cual, sin embargo, es necesario para que sea aceptado de acuerdo
+    con las medidas de probabilidad arriba establecidas.}
+
+  ¿Se puede afirmar que sería más \enquote{milagrosa} la falsedad de los milagros
+  que atestigua la escritura? La posibilidad de recibir este testimonio como
+  evidencia de alguna verdad descansaría sobre esta condición y una persona
+  razonable debería medir la probabilidad de veracidad de estos relatos teniendo
+  en cuenta que el estado de las cosas que describe es distinto al que
+  experimentamos en el presente.
 
   En una línea similar de pensamiento encontramos las reflexiones de
-  G.\,E.~Lessing. Dos cuestiones expresadas en ``On the proof of the spirit and
-  power'' merecen ser destacadas:
+  G.\,E.~Lessing. Dos cuestiones expresadas en \emph{On the proof of the spirit
+    and of power} merecen ser destacadas:
 
-  \citalitlar{The problem is that reports of fulfilled prophecies are not
-    fullfiled prophecies; that reports of miracles are not miracles. These, the
-    prophecies fulfilled before my eyes, the miracles that occur before my eyes,
-    are immediate in their effect. But those---the reports of fulfilled prophecies
-    and miracles, have to work through a medium which takes away all their force}
+  \blockquote[The problem is that reports of fulfilled prophecies are not
+  fullfiled prophecies; that reports of miracles are not miracles. These, the
+  prophecies fulfilled before my eyes, the miracles that occur before my eyes, are
+  immediate in their effect. But those---the reports of fulfilled prophecies and
+  miracles, have to work through a medium which takes away all their force]{El
+    problema es que las noticias de profecías cumplidas no son profecías
+    cumplidas; que las noticias de milagros no son milagros. Estas, las profecías
+    cumplidas ante mis ojos, los milagros que ocurren ante mis ojos, son
+    inmediatos en su efecto. Pero esas---las noticias de profecías y milagros,
+    tienen que pasar trabajosamente por un medio que les arrebata toda su fuerza}
 
   Lo que debería tener la fuerza para justificar la credibilidad queda debilitado
   por su medio de transmisión, entonces
 
-  \citalitinterlin{the problem is that this
-    proof of the spirit and of power no longer has any spirit or power, but has
-    sunk to the level of human testimonies of spirit and power}.
+  \blockquote[the problem is that this proof of the spirit and of power no longer
+  has any spirit or power, but has sunk to the level of human testimonies of
+  spirit and power]{el problema es que esta prueba en espíritu y fuerza ya no
+    tiene ningún espíritu ni fuerza, sino que se ha hundido al nivel de
+    testimonios humanos de espíritu y de fuerza}.
 
-  Tal como lo
-  plantea Lessing y teniendo en cuenta el criterio propuesto por Hume, el
-  testimonio, en tanto que dinamismo humano, no tiene fuerza suficiente para
+  Tal como lo plantea Lessing y teniendo en cuenta el criterio propuesto por Hume,
+  el testimonio, en tanto que dinamismo humano, no tiene fuerza suficiente para
   justificar razonablemente creencias sobre Dios como verdadero conocimiento.
 
   Esta objeción nos lleva a la siguiente:
 
-  \citalitlar{the reports which we have of these prophecies and miracles are as
-    reliable as historical truths can ever be [\ldots] But if they are as reliable
-    as this, why are they treated as if they were infinitely more reliable?
-    [\ldots] If no historical truth can be demonstrated, then nothing can be
-    demonstrated by means of historical truths. That is: \emph{accidental truths
-      of history can never become proof of necessary truths of reason.}}
+  \blockquote[the reports which we have of these prophecies and miracles are as
+  reliable as historical truths can ever be \textelp{} But if they are as reliable
+  as this, why are they treated as if they were infinitely more reliable?
+  \textelp{} If no historical truth can be demonstrated, then nothing can be
+  demonstrated by means of historical truths. That is: \emph{accidental truths of
+    history can never become proof of necessary truths of reason.}]{las noticias
+    que tenemos de estas profecías y milagros son tan fiables como lo puedan
+    llegar a ser las verdades históricas \textelp{} Pero si son tan fiables como
+    éstas, ¿por qué son tratadas como si fueran infinitamente más fiables?
+    \textelp{} Si ninguna verdad histórica puede ser demostrada, entonces nada
+    puede ser demostrado por medio de verdades históricas. Esto es: \emph{verdades
+      contingentes de la historia nunca pueden llegar a ser demostración de
+      verdades de razón necesarias}}
 
   El punto que Lessing señala es infranqueable para su propio intento de
   comprometerse con la verdad que la creencia cristiana pretende comunicar. La
@@ -344,16 +387,15 @@
 
   Esto nos deja con una segunda problemática:
 
-  \citalitinterlin{no se puede tener
-    conocimiento directo de milagros y profecias [\ldots] no se puede aceptar una
-    comunicación divina que no sea inmediatamente dirigida al
-    individuo}\autocite[294]{prades2015testimonio}.
+  \blockquote[{\cite[294]{prades2015testimonio}}]{no se puede tener conocimiento
+    directo de milagros y profecías \textelp{} no se puede aceptar una
+    comunicación divina que no sea inmediatamente dirigida al individuo}.
 
-  Este desafío viene a poner en
-  cuestión que un hecho histórico de la vida personal o colectiva pueda ser
-  estimado como testimonio del absoluto. La revelación de Dios por medio de
-  testigos no es un fenómeno que tenga justificación razonable para su veracidad,
-  y por tanto sólo puede ser acogida por una fe desconectada de la razón.
+  Este desafío viene a poner en cuestión que un hecho histórico de la vida
+  personal o colectiva pueda ser estimado como testimonio del absoluto. La
+  revelación de Dios por medio de testigos no es un fenómeno que tenga
+  justificación razonable para su veracidad, y por tanto sólo puede ser acogida
+  por una fe desconectada de la razón.
 #+END_SRC
 ** TODO ¿Tiene carácter veritativo el lenguaje teológico?
 #+BEGIN_SRC latex

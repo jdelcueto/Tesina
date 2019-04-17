@@ -3,7 +3,7 @@
 # San Jerónimo, ruega por nosotros
 * DONE La Categoría del Testimonio en la Escritura [100%]
 #+BEGIN_SRC latex
-  \section{La Categoría del Testimonio en la Sagrada Escritura}
+  \section{El testimonio en la Escritura: la Revelación como acción testimonial de Dios}
 #+END_SRC
 ** DONE Clave: El testimonio como estructura de la Revelación
    CLOSED: [2019-04-13 Sat 10:02]
