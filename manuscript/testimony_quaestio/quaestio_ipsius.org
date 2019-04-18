@@ -6,13 +6,49 @@
   \section{La Categoría del Testimonio como Problema}
 #+END_SRC
 ** TODO Reformulación pregunta inicial, desafíos filosóficos
+*** Lo que se quiere decir es
+- Vamos a recuperar la pregunta inicial porque en este apartado la vamos a desgranar un
+poco 
+- para desgranarla vamos a tener en cuenta las aportaciones y desafios de la filosofia
+moderna y contemporanea
+- implicitamente vamos a decir algo sobre por qué hablar del testimonio hoy 
+- las preguntas que vamos a hacer son así
+  - luego una primera más basada en qué es conocer una verdad para la vida por el
+    testimonio
+  - luego otra que tiene que ver con la posibilidad de la experiencia de un testimonio
+    de la revelación divina
+  - finalmente una cuestión relacionada con la posibilidad de que el lenguaje teológico
+    tenga valor proposicional 
+
+Coady se interesa por el testimonio...
+
+Coady i first began tinking about the epistemological status of testimony in the 1960s
+when writing a thesis at Oxford on issues in the theory of perception.
+... i recall being intirgued by some remarks of elizabeth anscombe on the topic during
+her lectures on the empiricists
+
+when i began reading papers on the subject, my audiences mostly reacted with
+incomprehension, or the sort of disbelief evoked by denials of the merest common sense.
+
+Gradually, the climate of thought has changed and there is now more sympathy for the
+view that testimony is a prominent and underexplored epistemological landscape,
+although what sort of feature it is and how largely it looms are still naturally
+matters for disagreement testimony vii
+
+Lackey también
+
+Prades
+Latourelle 
+y ninot
+y sagan
+
 #+BEGIN_SRC latex
   Hasta ahora se ha empleado la categoría del testimonio sin problematizarla. Es
   decir, hemos tratado el testimonio como \enquote{cosa familiar y conocida}
   empleada ordinariamente en nuestras conversaciones. Es aquí donde nos permitimos
   tratar al testimonio como algo que hay que esclarecer, algo sobre lo que se
-  plantean preguntas, de modo que hay que traer a la mente una explicación
-  adecuada. En palabras de Latourelle:
+  plantean preguntas, de modo que hay que \enquote{traer a la mente} una
+  explicación adecuada. En palabras de Latourelle:
   \blockquote[{\cite[1523]{latourelle2000testimonio}}]{Si la revelación misma se
     apoya en la experiencia humana del testimonio para expresar una de las
     relaciones fundamentales que unen al hombre con Dios, la reflexión teológica
@@ -24,30 +60,33 @@
   tenemos en cuenta la reflexión filosófica en torno al testimonio, podemos
   expandirla más.
 
-  Aún cuando el testimonio ocupa un lugar vital en nuestro contacto con el mundo,
-  no siempre ha gozado del interés de la investigación filosófica. Más
-  recientemente, sin embargo, su importancia ha sido mejor apreciada y así lo
-  refleja la variedad literatura que puede encontrarse en la filosofía
-  contemporánea.\footnote{Cf.~\cite[1]{lackeysosa2006eptest}: Despite the vital
-    role that testimony occupies in our epistemic lives, traditional
-    epistemological theories focused primarily on other sources, such as sense
-    perception, memory, and reason, with relatively little attention devoted
-    specifically to testimony. In recent years, however, the epistemic
-    significance of testimony has been more fully appreciated, and the current
-    literature has benefited from the publication of a considerable amount of
-    interesting and innovative work in this area.}
-  Esta época mas prolija en discusiones no es, sin embargo, el origen de algunas
-  posturas propuestas en torno al testimonio; éste lo encontramos más bien en la
-  época moderna. Recurriremos, por tanto, a algunas aportaciones y desafíos
-  ofrecidos por la filosofía moderna y contemporánea para expandir nuestra
-  anterior pregunta y formular las cuestiones principales que servirán luego para
-  navegar en el pensamiento de Elizabeth Anscombe.
+    Aún cuando el testimonio ocupa un lugar vital en nuestro contacto con el mundo,
+    no siempre ha gozado del interés de la investigación filosófica. Más
+    recientemente, sin embargo, su importancia ha sido mejor apreciada y así lo
+    refleja la variedad literatura que puede encontrarse en la filosofía
+    contemporánea.\footnote{Cf.~\cite[1]{lackeysosa2006eptest}: Despite the vital
+      role that testimony occupies in our epistemic lives, traditional
+      epistemological theories focused primarily on other sources, such as sense
+      perception, memory, and reason, with relatively little attention devoted
+      specifically to testimony. In recent years, however, the epistemic
+      significance of testimony has been more fully appreciated, and the current
+      literature has benefited from the publication of a considerable amount of
+      interesting and innovative work in this area.} Esta época mas prolija en
+    discusiones no es, sin embargo, el origen de algunas posturas propuestas en
+    torno al testimonio; éste lo encontramos más bien en la época moderna.
+    Recurriremos, por tanto, a algunas aportaciones y desafíos ofrecidos por la
+    filosofía moderna y contemporánea para expandir nuestra anterior pregunta y
+    formular las cuestiones principales que servirán luego para navegar en el
+    pensamiento de Elizabeth Anscombe.
+
+
+    El testimonio como manifestación significativa --hagiofánica-- de la misión de la
+    Iglesia en su realidad histórica es, pues, el punto final, pero también puede ser el
+    punto inicial, de toda nuestra Teología Fundamental, ya que de él surge el signo
+    eclesial de creidibilidad que es la mediación próxima para conocer la Revelación. ninot
+    p. 572
 #+END_SRC
-** TODO Por qué hablar del testimonio hoy? 
-#+BEGIN_SRC latex
-  \subsection{¿Por qué hablar del testimonio hoy?}
-#+END_SRC
-** TODO Cuál es el valor espistemológico del testimonio
+** TODO ¿Cuál es el valor espistemológico del testimonio
 #+BEGIN_SRC latex
   \subsection{¿Cuál es el valor epistemológico del testimonio?}
   Corresponde a la epistemología la tarea de estudiar la naturaleza del conocer y

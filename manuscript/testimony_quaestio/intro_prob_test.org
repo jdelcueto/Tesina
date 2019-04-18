@@ -2227,7 +2227,7 @@ Evangelii Nuntiandi n21
       equivocistas, los nombres de supuestas realidades trascendentes con los de
       las realidades empíricas.\footnote{analogía teológica 155}}
 #+END_SRC
-*** TODO notas
+*** notas
 tres objeciones (Prades 294) no se puede tener conocimiento directo de milagros
 o profecías
 
@@ -2820,7 +2820,7 @@ de la Revelación.
     jurídico
     ético-antropológico
     teológico
-** El problema del testimonio
+*** El problema del testimonio
 texto de rosseau Prades 243
 lessing
 Hume
