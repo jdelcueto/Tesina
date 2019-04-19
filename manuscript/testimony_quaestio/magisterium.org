@@ -48,9 +48,10 @@
 
   La visibilidad de la Iglesia está al servicio del Espíritu Santo de modo que su
   naturaleza humana sirve a la presencia divina como instrumento vivo de
-  salvación. La presencia de la articulación social de la Iglesia en el mundo
-  actúa de manera análoga a la presencia de Cristo. De este modo
-  \blockquote[{\cite[566]{ninot2009tf}}]{la eclesiología se resuelve en la
+  salvación.\footnote{Una discusión más amplia de esta analogía en:
+    \cite[292ss]{ninot2009tf}} La presencia de la articulación social de la
+  Iglesia en el mundo actúa de manera análoga a la presencia de Cristo. De este
+  modo \blockquote[{\cite[566]{ninot2009tf}}]{la eclesiología se resuelve en la
     Cristología y por eso el \enquote{lugar} de la Iglesia en el acto de creer
     será \enquote{análogo} al de Cristo}. Esta relación con Cristo y el Espíritu
   otorgan a la Iglesia un valor sacramental:
