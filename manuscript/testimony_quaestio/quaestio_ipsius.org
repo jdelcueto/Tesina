@@ -50,6 +50,23 @@ y sagan
   plantean preguntas, de modo que hay que \enquote{traer a la mente} una
   explicación adecuada.
 
+
+  \blockquote[{\cite[vii]{coady1992test}}: I first began thinking about the
+  epistemological status of testimony in the 1960s when writing a thesis at Oxford
+  on issues in the theory of perception. \textelp{} I recall being intirgued by
+  some remarks of Elizabeth Anscombe on the topic during her lectures on the
+  empiricists \textelp{}]{Empezé por primera vez a pensar sobre la situación
+    epistemológica del testimonio en los años 60 cuando estuve}
+
+  \blockquote[{\cite[vii]{coady1992test}}: When I began reading papers on the
+  subject, my audiences mostly reacted with incomprehension, or the sort of
+  disbelief evoked by denials of the merest common sense. Gradually, the climate
+  of thought has changed and there is now more sympathy for the view that
+  testimony is a prominent and underexplored epistemological landscape, although
+  what sort of feature it is and how largely it looms are still naturally matters
+  for disagreement.]{Empezé a }
+
+
   En la Escritura encontrábamos al testimonio entre otras categorías empleadas
   como analogías para hablar de la acción divina en la Revelación. Este hecho
   ofrece ya una motivación para estudiar el testimonio más a fondo:
@@ -57,6 +74,20 @@ y sagan
     apoya en la experiencia humana del testimonio para expresar una de las
     relaciones fundamentales que unen al hombre con Dios, la reflexión teológica
     se encuentra entonces autorizada a explorar los datos de esta experiencia.}
+
+  Aquí lo que se quiere es decir
+  ok, ya se describió el testimonio dentro de su contexto en el lenguaje de la
+  escritura y en los escritos del magisterio,
+
+  ahora vamos a ver lo problemático.
+
+  Cómo se articula la pregunta sobre el testimonio? que pistas se pueden usar?
+
+
+
+
+  Ciertamente en el ámbito teológico 
+
 
   Tambien en el magisterio, latourelle: categoria casi omnipresente en vat ii
   Latourelle 1532:
@@ -81,7 +112,7 @@ y sagan
   una difusión realmente masiva en los años posteriores al Concilio.
 
   83
-  Después de una fase de ascenso luminosos, la estrella del testimonio ha ido
+  Después de una fase de ascenso luminoso, la estrella del testimonio ha ido
   palideciendo. Algunos textos magisteriales avisaron pronto del posible riesgo de
   ambigüedad. Además, en los últimos años se han levantado voces que denuncian un
   cierto abuso de esta categoría.
@@ -90,7 +121,7 @@ y sagan
   se ha hecho notar que el testimonio podía verse limitado a la manifestación de
   una especie de seriedad con lo humano...
   pero sin llegar a remitir a la verdad de Cristo.
-
+ 
   Se trataría del riesgo de una reducción experiencialista del testimonio, donde
   lo más importante sería su carácter social-existencial y no tanto la efectiva
   verdad teologal transmitida. Se ha criticado consecuentemente la reducción del
