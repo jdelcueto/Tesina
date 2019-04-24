@@ -7,6 +7,10 @@
 #+END_SRC
 ** TODO Reformulación pregunta inicial, desafíos filosóficos
 *** Lo que se quiere decir es
+    :LOGBOOK:
+    CLOCK: [2019-04-24 Wed 17:33]--[2019-04-24 Wed 17:58] =>  0:25
+    CLOCK: [2019-04-24 Wed 16:25]--[2019-04-24 Wed 16:50] =>  0:25
+    :END:
 - Vamos a recuperar la pregunta inicial porque en este apartado la vamos a desgranar un
 poco
 - para desgranarla vamos a tener en cuenta las aportaciones y desafios de la filosofia
@@ -42,6 +46,24 @@ Latourelle
 y ninot
 y sagan
 
+s
+
+* La Categoría del testimonio como problema
+** En contexto de Esc y magis categoría del test usada como analogía
+** Ahora vamos a explorar los datos de esta experiencia 
+** Ahora vamos a tratar al testimonio como cuestión problemática
+** Para plantear problema del testimonio vemos cómo se ha estudiado
+** No siempre se ha tratado
+** no se ha tratado por visión individualista
+** Vamos a coger la pregunta inicial y la vamos a expandir
+** ¿Cuál es el valor espistemológico del testimonio?
+** ¿Tiene fuerza un testimonio histórico del Absoluto?
+** ¿Tiene carácter veritativo el lenguaje teológico?
+
+
+
+
+
 #+BEGIN_SRC latex
   Hasta ahora se ha empleado la categoría del testimonio sin problematizarla. Es
   decir, hemos tratado el testimonio como \enquote{cosa familiar y conocida}
@@ -51,12 +73,61 @@ y sagan
   explicación adecuada.
 
 
+
+  lo que quiero hacer es como tres cosas 
+  quiero decir que mira mientras hemos hablado del testimonio en la escritura y en
+  el magisterio lo hemos descrito dentro de un contexto específico.
+
+  en ese contexto es empleado como analogía para describir la acción divina en la
+  revelación. 
+
+  dado que es empleado en este contexto de esta manera queremos explorar los datos
+  de esta experiencia
+
+  esto conllevaría pasar de emplear el testimonio como analogía a explorar los
+  datos de esa experiencia
+
+  una cosa que quiero hacer es eso....
+  decir ok ahora vamos a pasar de describir el testimonio usado en este contexto
+  como analogía a explorar los datos de esta experiencia
+
+  otra cosa que quiero hacer es decir que la categoría del testimonio no siempre
+  ha sido estimada en el ámbito teológico y filosófico
+
+  Coady piensa que tiene que ver con la visión individualista
+  lackey reconoce que no siempre pero ahora goza de más 
+
+  pero junto a eso quiero decir que Anscombe pertenece a una epoca contenmporanea
+  dond
+
+
+  Siguiendo a Latourelle describimos el testimonio que es empleado como analogía
+  para hablar de la acción divina en la revelación
+
+  el testimonio empleado en un contexto específico como es la escritura y el
+  magisterio
+
+  ahí se usa con ese valor analógico
+
+  como actividad humana que puede usarse para describir la divina
+
+  si es hablamos del testimonio como actividad humana tendríamos que decir que el
+  testimonio se emplea de ordinario en la actividad humana como... (cuatro tipos)
+
+  latourelle sugiere que hay que explorar los datos de esta experiencia
+
+  Anscombe explora los datos de esta experiencia en sus lecciones sobre los
+  empiristas
+
   \blockquote[{\cite[vii]{coady1992test}}: I first began thinking about the
   epistemological status of testimony in the 1960s when writing a thesis at Oxford
-  on issues in the theory of perception. \textelp{} I recall being intirgued by
+  on issues in the theory of perception. \textelp{} I recall being intrigued by
   some remarks of Elizabeth Anscombe on the topic during her lectures on the
-  empiricists \textelp{}]{Empezé por primera vez a pensar sobre la situación
-    epistemológica del testimonio en los años 60 cuando estuve}
+  empiricists \textelp{}]{Empecé por primera vez a pensar sobre la situación
+    epistemológica del testimonio en los años 60 cuando estuve escribiendo una
+    tesis en Oxford sobre problemas en la teoría de la percepción. \textelp{}
+    Recuerdo haber quedado intrigado por algunas afirmaciones de Elizabeth
+    Anscombe sobre el tema durante sus lecciones sobre los empiristas \textelp{}}
 
   \blockquote[{\cite[vii]{coady1992test}}: When I began reading papers on the
   subject, my audiences mostly reacted with incomprehension, or the sort of
@@ -64,7 +135,13 @@ y sagan
   of thought has changed and there is now more sympathy for the view that
   testimony is a prominent and underexplored epistemological landscape, although
   what sort of feature it is and how largely it looms are still naturally matters
-  for disagreement.]{Empezé a }
+  for disagreement.]{Cuando comencé a ofrecer lecciones sobre este tema, las
+    audiencias mayormente reaccionaban con incomprensión, o el tipo de
+    incredulidad evocada por rechazos del más básico sentido común. Gradualmente,
+    el clima del pensamiento ha cambiado y ahora hay más simpatía para el punto de
+    vista de que el testimonio es un campo epistemológico prominente y poco
+    explorado, aunque en qué tipo de rasgo consiste y con cuánta magnitud se
+    impone son todavía cuestiones en debate.}
 
 
   En la Escritura encontrábamos al testimonio entre otras categorías empleadas
@@ -121,7 +198,7 @@ y sagan
   se ha hecho notar que el testimonio podía verse limitado a la manifestación de
   una especie de seriedad con lo humano...
   pero sin llegar a remitir a la verdad de Cristo.
- 
+
   Se trataría del riesgo de una reducción experiencialista del testimonio, donde
   lo más importante sería su carácter social-existencial y no tanto la efectiva
   verdad teologal transmitida. Se ha criticado consecuentemente la reducción del
