@@ -305,9 +305,12 @@ latourelle: niveles informar - compromiso - profesión pública
   las cuestiones problemáticas del testimonio que serán estudiadas en el
   pensamiento de Anscombe. Para ello recuperamos la pregunta formulada al inicio
   de éste capítulo, que si ampliamos un poco queda: \enquote{¿qué es conocer una
-    verdad para la vida por el testimonio de la revelación divina?}. Esta
-  formulación puede servir como punto de partida y, si tenemos en cuenta la
-  reflexión filosófica en torno al testimonio, podemos expandirla más.
+    verdad para la vida por el testimonio de la revelación divina?}.
+  Desde esta pregunta se pueden distinguir ya dos cuestiones: ¿qué implica conocer
+  una verdad por medio del testimonio? y ¿qué valor puede tener para la vida un
+  testimonio de la revelación divina? ---o incluso--- ¿qué puede ser valorado como
+  un testimonio de la revelación divina? Para examinar mejor estas cuestiones
+  acudiremos a reflexiones filosóficas de la época moderna y contemporánea.
 
   Aún cuando el testimonio ocupa un lugar vital en nuestro contacto con el mundo,
   no siempre ha gozado del interés de la investigación filosófica. Más
@@ -323,7 +326,7 @@ latourelle: niveles informar - compromiso - profesión pública
     interesting and innovative work in this area.} Uno de estos estudios es el que
   se encuentra en la obra \emph{Testimony} de C.\,A.\,J.~Coady y su informe sobre
   los inicios de sus discusiones sobre el testimonio confirman el creciente
-  aprecio que ha ganado esta categoría:
+  aprecio que ha ganado el estudio de esta categoría:
   \blockquote[{\cite[vii]{coady1992test}}: When I began reading papers on the
   subject, my audiences mostly reacted with incomprehension, or the sort of
   disbelief evoked by denials of the merest common sense. Gradually, the climate
@@ -339,6 +342,8 @@ latourelle: niveles informar - compromiso - profesión pública
     impone son todavía cuestiones en debate.}
   Otro dato ofrecido por Coady sirve para orientar el planteamiento de la cuestión
   sobre el testimonio:
+  Nos interesa otro dato ofrecido por Coady porque nos da una pista para nuestro
+  propio estudio
   \blockquote[{\cite[vii]{coady1992test}}: I first began thinking about the
   epistemological status of testimony in the 1960s when writing a thesis at Oxford
   on issues in the theory of perception. \textelp{} I recall being intrigued by
