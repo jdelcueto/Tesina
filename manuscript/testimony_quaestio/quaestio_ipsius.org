@@ -8,6 +8,11 @@
 ** TODO Reformulación pregunta inicial, desafíos filosóficos
 *** Lo que se quiere decir es
     :LOGBOOK:
+    CLOCK: [2019-04-25 Thu 16:38]--[2019-04-25 Thu 17:03] =>  0:25
+    CLOCK: [2019-04-25 Thu 16:06]--[2019-04-25 Thu 16:31] =>  0:25
+    CLOCK: [2019-04-25 Thu 13:18]--[2019-04-25 Thu 13:43] =>  0:25
+    CLOCK: [2019-04-25 Thu 12:10]--[2019-04-25 Thu 12:35] =>  0:25
+    CLOCK: [2019-04-25 Thu 11:39]--[2019-04-25 Thu 12:04] =>  0:25
     CLOCK: [2019-04-24 Wed 17:33]--[2019-04-24 Wed 17:58] =>  0:25
     CLOCK: [2019-04-24 Wed 16:25]--[2019-04-24 Wed 16:50] =>  0:25
     :END:
@@ -46,89 +51,279 @@ Latourelle
 y ninot
 y sagan
 
-s
+lo que quiero hacer es como tres cosas 
+quiero decir que mira mientras hemos hablado del testimonio en la escritura y en
+el magisterio lo hemos descrito dentro de un contexto específico.
 
-* La Categoría del testimonio como problema
-** En contexto de Esc y magis categoría del test usada como analogía
-** Ahora vamos a explorar los datos de esta experiencia 
-** Ahora vamos a tratar al testimonio como cuestión problemática
-** Para plantear problema del testimonio vemos cómo se ha estudiado
-** No siempre se ha tratado
-** no se ha tratado por visión individualista
-** Vamos a coger la pregunta inicial y la vamos a expandir
-** ¿Cuál es el valor espistemológico del testimonio?
-** ¿Tiene fuerza un testimonio histórico del Absoluto?
-** ¿Tiene carácter veritativo el lenguaje teológico?
+en ese contexto es empleado como analogía para describir la acción divina en la
+revelación. 
+
+dado que es empleado en este contexto de esta manera queremos explorar los datos
+de esta experiencia
+
+esto conllevaría pasar de emplear el testimonio como analogía a explorar los
+datos de esa experiencia
+
+una cosa que quiero hacer es eso....
+decir ok ahora vamos a pasar de describir el testimonio usado en este contexto
+como analogía a explorar los datos de esta experiencia
+
+otra cosa que quiero hacer es decir que la categoría del testimonio no siempre
+ha sido estimada en el ámbito teológico y filosófico
+
+Coady piensa que tiene que ver con la visión individualista
+lackey reconoce que no siempre pero ahora goza de más 
+
+pero junto a eso quiero decir que Anscombe pertenece a una epoca contenmporanea
+dond
+
+
+Siguiendo a Latourelle describimos el testimonio que es empleado como analogía
+para hablar de la acción divina en la revelación
+
+el testimonio empleado en un contexto específico como es la escritura y el
+magisterio
+
+ahí se usa con ese valor analógico
+
+como actividad humana que puede usarse para describir la divina
+
+si es hablamos del testimonio como actividad humana tendríamos que decir que el
+testimonio se emplea de ordinario en la actividad humana como... (cuatro tipos)
+
+latourelle sugiere que hay que explorar los datos de esta experiencia
+
+Anscombe explora los datos de esta experiencia en sus lecciones sobre los
+empiristas
+
+
+Aquí lo que se quiere es decir
+ok, ya se describió el testimonio dentro de su contexto en el lenguaje de la
+escritura y en los escritos del magisterio,
+
+ahora vamos a ver lo problemático.
+
+Cómo se articula la pregunta sobre el testimonio? que pistas se pueden usar?
 
 
 
 
+Ciertamente en el ámbito teológico 
+
+
+Tambien en el magisterio, latourelle: categoria casi omnipresente en vat ii
+Latourelle 1532:
+se constata que el tema del testimonio es uno de los temas principales y
+privilegiados del Vaticano II. Como un \emph{leitmotiv}, aparece en todas las
+constituciones y en todos los decretos. A los ojos del concilio, atestiguar
+significa acreditar el evangelio como verdad y salvación del hombre mediante una
+vida conforme con el evangelio.
+
+Ninot diria.... p. 572
+Desde hace aproximadamente un siglo, la categoría testimonio se ha introducido
+de forma progresiva en el vocabulario eclesial. La concentración y
+personalización operada por el Concilio Vaticano II conlleva la potenciación de
+un término nuevo como es el testimonio. \textelp{} lo que el Vaticano I
+pretendía al tratar el signo de la Iglesia, que también era visto como ``un
+testimonio'' [DH 3013], se encuentra en la categoría testimonio, que con el
+Vaticano II irrumpe masivamente.
+
+Prades 81
+La teología ha ido revalorizando el testimonio, que había quedado relegado a un
+segundo plano en otros momentos de la historia de la teología, hasta alcanzar
+una difusión realmente masiva en los años posteriores al Concilio.
+
+83
+Después de una fase de ascenso luminoso, la estrella del testimonio ha ido
+palideciendo. Algunos textos magisteriales avisaron pronto del posible riesgo de
+ambigüedad. Además, en los últimos años se han levantado voces que denuncian un
+cierto abuso de esta categoría.
+
+84
+se ha hecho notar que el testimonio podía verse limitado a la manifestación de
+una especie de seriedad con lo humano...
+pero sin llegar a remitir a la verdad de Cristo.
+
+Se trataría del riesgo de una reducción experiencialista del testimonio, donde
+lo más importante sería su carácter social-existencial y no tanto la efectiva
+verdad teologal transmitida. Se ha criticado consecuentemente la reducción del
+testimonio ---y de la misma teología--- a puro relato autobiográfico.
+
+Si se recupera la profundidad implicada en el testimonio se contribuirá a salir
+del subjetivismo ---antiguo y moderno---, con su carga correspondiente de
+individualismo, tan contrario a la verdadera naturaleza social del hombre y al
+carácter a la vez personal y comunitario de la salvación cristiana.
+
+Desde
+en el ambito de la teologia hubo boom despues de vat ii
+despues bajo
+y ahora de nuevo
+
+y es que es la iglesia
+
+y hoy en el mundo hay una situación
+
+y la gilesia tambien tiene que responder
+
+prades dice
+
+en la filosofía ocurre que
+como dice lackey
+
+coady por su parte
+
+y anscombe pertenece a esta reflexión contemporanea
+
+en su caso también sus reflexiones responden a los desafios modernos,
+específicamente a las propuestas del empirismo
+
+
+latourelle: niveles informar - compromiso - profesión pública
+
+
+**** La Categoría del testimonio como problema
+***** En contexto de Esc y magis categoría del test usada como analogía
+***** Ahora vamos a explorar los datos de esta experiencia 
+****** Los contextos del testimonio son estos y estos son sus niveles
+***** Ahora vamos a tratar al testimonio como cuestión problemática
+***** Para plantear problema del testimonio vemos cómo se ha estudiado
+***** No siempre se ha tratado
+***** en la teología se recupera
+***** el contexto actual reclama el testimonio 
+***** el contexto filosófico
+***** 
+***** Anscombe lo trabaja en su discusión de los empiristas
+***** no se ha tratado por visión individualista
+***** Vamos a coger la pregunta inicial y la vamos a expandir
+***** ¿Cuál es el valor espistemológico del testimonio?
+***** ¿Tiene fuerza un testimonio histórico del Absoluto?
+***** ¿Tiene carácter veritativo el lenguaje teológico?
+      :LOGBOOK:
+      CLOCK: [2019-04-25 Thu 12:40]--[2019-04-25 Thu 13:05] =>  0:25
+      :END:
 
 #+BEGIN_SRC latex
-  Hasta ahora se ha empleado la categoría del testimonio sin problematizarla. Es
-  decir, hemos tratado el testimonio como \enquote{cosa familiar y conocida}
-  empleada ordinariamente en nuestras conversaciones. Es aquí donde nos permitimos
-  tratar al testimonio como algo que hay que esclarecer, algo sobre lo que se
-  plantean preguntas, de modo que hay que \enquote{traer a la mente} una
-  explicación adecuada.
+  Hasta aquí se ha querido ofrecer una descripción general del modo en que se
+  puede encontrar la categoría de testimonio empleada en la Escritura, el
+  Magisterio y la vida de la Iglesia. En términos generales, al hablar del
+  testimonio en estos contextos en donde se le encuentra como \enquote{\emph{cosa
+      familiar y conocida}}, se ha querido destacar el uso que se le da a esta
+  categoría como analogía empleada para hablar de la acción divina en la
+  Revelación.
 
+  Ahora nos permitimos tratar al testimonio como algo que hay que esclarecer, algo
+  que se encuentra presente en la actividad humana y sobre lo que se plantean
+  preguntas, de modo que hay que \enquote{\emph{traer a la mente}} una explicación
+  adecuada.
 
+  Se pueden destacar varios objetivos al preguntarse sobre el testimonio. Desde el
+  punto de vista teológico el hecho mismo de que esta categoría sea empleada en la
+  Escritura sirve ya como justificación para estudiar mejor el fenómeno del
+  testimonio, como dice Latourelle:
+  \blockquote[{\cite[1523]{latourelle2000testimonio}}]{Si la revelación misma se
+    apoya en la experiencia humana del testimonio para expresar una de las
+    relaciones fundamentales que unen al hombre con Dios, la reflexión teológica
+    se encuentra entonces autorizada a explorar los datos de esta experiencia.}
+  Sin embargo el interés por la categoría del testimonio en la investigación
+  teológica más reciente claramente está motivado por la presencia de esta noción
+  en las reflexiones del Concilio Vaticano~II y el magisterio post-conciliar:
+  \blockquote[{\cite[81]{prades2015testimonio}}]{La teología ha ido revalorizando
+    el testimonio, que había quedado relegado a un segundo plano en otros momentos
+    de la historia de la teología, hasta alcanzar una difusión realmente masiva en
+    los años posteriores al Concilio.}
+  El testimonio es un tema privilegiado en el Concilio y se le encuentra presente
+  como \enquote{\emph{leitmotiv}} en las constituciones y
+  decretos.\footnote{Cf.~\cite[1523]{latourelle2000testimonio}} Vaticano~II
+  potencia así este termino que ya se encontraba presente en las reflexiones del
+  Vaticano~I:
+  \blockquote[{\cite[572]{ninot2009tf}}]{Desde hace aproximadamente un siglo, la
+    categoría testimonio se ha introducido de forma progresiva en el vocabulario
+    eclesial. La concentración y personalización operada por el Concilio
+    Vaticano~II conlleva la potenciación de un término nuevo como es el
+    testimonio. \textelp{} lo que el Vaticano I pretendía al tratar el signo de la
+    Iglesia, que también era visto como ``un testimonio'' [DH 3013], se encuentra
+    en la categoría testimonio, que con el Vaticano~II irrumpe masivamente.}
 
-  lo que quiero hacer es como tres cosas 
-  quiero decir que mira mientras hemos hablado del testimonio en la escritura y en
-  el magisterio lo hemos descrito dentro de un contexto específico.
+  Tras el entusiasmo inicial por el testimonio en ámbitos pastorales y teológicos
+  se ha ido advirtiendo en algunos textos magisteriales y teológicos el aviso de
+  cierto peligro de ambigüedad o abuso en el uso de esta
+  categoría:\footnote{Cf.~\cite[83]{prades2015testimonio}} 
+  \blockquote[{\cite[84]{prades2015testimonio}}]{se ha hecho notar que el
+    testimonio podía verse limitado a la manifestación de una especie de seriedad
+    con lo humano, ya fuera en términos de reivindicación social o de autenticidad
+    existencial, con la inevitable prevalencia del sujeto ---individual o
+    colectivo--- pero sin llegar a remitir a la verdad de Cristo. \textelp{}
 
-  en ese contexto es empleado como analogía para describir la acción divina en la
-  revelación. 
+    Se trataría del riesgo de una reducción experiencialista del testimonio, donde
+    lo más importante sería su carácter social-existencial y no tanto la efectiva
+    verdad teologal transmitida. Se ha criticado consecuentemente la reducción del
+    testimonio ---y de la misma teología--- a puro relato autobiográfico.
 
-  dado que es empleado en este contexto de esta manera queremos explorar los datos
-  de esta experiencia
+    Si se recupera la profundidad implicada en el testimonio se contribuirá a
+    salir del subjetivismo ---antiguo y moderno---, con su carga correspondiente
+    de individualismo, tan contrario a la verdadera naturaleza social del hombre y
+    al carácter a la vez personal y comunitario de la salvación cristiana.}
+  Atendiendo a estos datos, una investigación teológica sobre el testimonio tiene
+  el interés de profundizar en una categoría valiosa en el ámbito teológico y
+  pastoral de modo que sea empleada y formulada adecuadamente.
 
-  esto conllevaría pasar de emplear el testimonio como analogía a explorar los
-  datos de esa experiencia
+  Este interés interno de la discusión teológica está enmarcado en un contexto
+  histórico actual del que también se derivan motivaciones para una valoración de
+  la categoría del testimonio. Dos rasgos que cabe destacar de este momento
+  presente son:
+  \blockquote[{\cite[75]{prades2015testimonio}} Un análisis detallado del contexto
+  presente se encuentra en {\cite[3--77]{prades2015testimonio}}]{la tensión entre
+    multiculturalismo y globalización como indicio de la dificultad para combinar
+    positivamente el carácter individual y comunitario de la vida humana, y la
+    discusión sobre el papel público de la religión, donde la tesis dominante de
+    la <<edad secular>> se ve contrapesada por la irrupción de un nuevo paradigma
+    que se denomina <<postsecular>>.}
 
-  una cosa que quiero hacer es eso....
-  decir ok ahora vamos a pasar de describir el testimonio usado en este contexto
-  como analogía a explorar los datos de esta experiencia
+  En este contexto, el preguntarse sobre el testimonio tiene como objetivo un
+  adecuado modo de entender la presencia pública de los cristianos en las
+  sociedades plurales de occidente donde resulta problemática la comprensión del
+  ser humano en su relación con Dios a través de la
+  realidad.\footnote{Cf.~\cite[75]{prades2015testimonio}} Es importante que en
+  este contexto la cuestión de la presencia del cristianismo en la sociedad no
+  tiene como solución adecuada una
+  \enquote*{<<autorrelativización>>}\footnote{Cf.~\cite[75;\,40--44]{prades2015testimonio}}
+  de sí mismo; igualmente:
+  \blockquote[{\cite[75; Cf.~33--40]{prades2015testimonio}}]{no podemos presuponer
+    el reconocimiento de su carácter universal por parte de los interlocutores ni
+    podemos pretender alcanzarlo por una mera comparación de argumentos racionales
+    que desnaturalice el carácter libre y singular de la revelación personal de
+    Dios en Jesucristo.}
+  El análisis de la categoría del testimonio viene a responder a la necesidad de
+  recuperar una concepción de la razón y de la verdad más rica y más amplia;
+  \blockquote[{\cite[76]{prades2015testimonio}}]{Es imprescindible repensar el
+    nexo entre razón, afectos y libertad en la relación del hombre con lo real. Si
+    se recupera esa visión amplia e integral de razón y de realidad se puede
+    entonces mostrar convincentemente la credibilidad de la fe como asentimiento a
+    una revelación personal en la historia.}
 
-  otra cosa que quiero hacer es decir que la categoría del testimonio no siempre
-  ha sido estimada en el ámbito teológico y filosófico
+  Teniendo en cuenta estas motivaciones desarrollaremos los elementos que componen
+  las cuestiones problemáticas del testimonio que serán estudiadas en el
+  pensamiento de Anscombe. Para ello recuperamos la pregunta formulada al inicio
+  de éste capítulo, que si ampliamos un poco queda: \enquote{¿qué es conocer una
+    verdad para la vida por el testimonio de la revelación divina?}. Esta
+  formulación puede servir como punto de partida y, si tenemos en cuenta la
+  reflexión filosófica en torno al testimonio, podemos expandirla más.
 
-  Coady piensa que tiene que ver con la visión individualista
-  lackey reconoce que no siempre pero ahora goza de más 
-
-  pero junto a eso quiero decir que Anscombe pertenece a una epoca contenmporanea
-  dond
-
-
-  Siguiendo a Latourelle describimos el testimonio que es empleado como analogía
-  para hablar de la acción divina en la revelación
-
-  el testimonio empleado en un contexto específico como es la escritura y el
-  magisterio
-
-  ahí se usa con ese valor analógico
-
-  como actividad humana que puede usarse para describir la divina
-
-  si es hablamos del testimonio como actividad humana tendríamos que decir que el
-  testimonio se emplea de ordinario en la actividad humana como... (cuatro tipos)
-
-  latourelle sugiere que hay que explorar los datos de esta experiencia
-
-  Anscombe explora los datos de esta experiencia en sus lecciones sobre los
-  empiristas
-
-  \blockquote[{\cite[vii]{coady1992test}}: I first began thinking about the
-  epistemological status of testimony in the 1960s when writing a thesis at Oxford
-  on issues in the theory of perception. \textelp{} I recall being intrigued by
-  some remarks of Elizabeth Anscombe on the topic during her lectures on the
-  empiricists \textelp{}]{Empecé por primera vez a pensar sobre la situación
-    epistemológica del testimonio en los años 60 cuando estuve escribiendo una
-    tesis en Oxford sobre problemas en la teoría de la percepción. \textelp{}
-    Recuerdo haber quedado intrigado por algunas afirmaciones de Elizabeth
-    Anscombe sobre el tema durante sus lecciones sobre los empiristas \textelp{}}
-
+  Aún cuando el testimonio ocupa un lugar vital en nuestro contacto con el mundo,
+  no siempre ha gozado del interés de la investigación filosófica. Más
+  recientemente, sin embargo, su importancia ha sido mejor apreciada y así lo
+  refleja la variedad literatura que puede encontrarse en la filosofía
+  contemporánea.\footnote{Cf.~\cite[1]{lackeysosa2006eptest}: Despite the vital
+    role that testimony occupies in our epistemic lives, traditional
+    epistemological theories focused primarily on other sources, such as sense
+    perception, memory, and reason, with relatively little attention devoted
+    specifically to testimony. In recent years, however, the epistemic
+    significance of testimony has been more fully appreciated, and the current
+    literature has benefited from the publication of a considerable amount of
+    interesting and innovative work in this area.} Uno de estos estudios es el que
+  se encuentra en la obra \emph{Testimony} de C.\,A.\,J.~Coady y su informe sobre
+  los inicios de sus discusiones sobre el testimonio confirman el creciente
+  aprecio que ha ganado esta categoría:
   \blockquote[{\cite[vii]{coady1992test}}: When I began reading papers on the
   subject, my audiences mostly reacted with incomprehension, or the sort of
   disbelief evoked by denials of the merest common sense. Gradually, the climate
@@ -142,108 +337,17 @@ s
     vista de que el testimonio es un campo epistemológico prominente y poco
     explorado, aunque en qué tipo de rasgo consiste y con cuánta magnitud se
     impone son todavía cuestiones en debate.}
-
-
-  En la Escritura encontrábamos al testimonio entre otras categorías empleadas
-  como analogías para hablar de la acción divina en la Revelación. Este hecho
-  ofrece ya una motivación para estudiar el testimonio más a fondo:
-  \blockquote[{\cite[1523]{latourelle2000testimonio}}]{Si la revelación misma se
-    apoya en la experiencia humana del testimonio para expresar una de las
-    relaciones fundamentales que unen al hombre con Dios, la reflexión teológica
-    se encuentra entonces autorizada a explorar los datos de esta experiencia.}
-
-  Aquí lo que se quiere es decir
-  ok, ya se describió el testimonio dentro de su contexto en el lenguaje de la
-  escritura y en los escritos del magisterio,
-
-  ahora vamos a ver lo problemático.
-
-  Cómo se articula la pregunta sobre el testimonio? que pistas se pueden usar?
-
-
-
-
-  Ciertamente en el ámbito teológico 
-
-
-  Tambien en el magisterio, latourelle: categoria casi omnipresente en vat ii
-  Latourelle 1532:
-  se constata que el tema del testimonio es uno de los temas principales y
-  privilegiados del Vaticano II. Como un \emph{leitmotiv}, aparece en todas las
-  constituciones y en todos los decretos. A los ojos del concilio, atestiguar
-  significa acreditar el evangelio como verdad y salvación del hombre mediante una
-  vida conforme con el evangelio.
-
-  Ninot diria.... p. 572
-  Desde hace aproximadamente un siglo, la categoría testimonio se ha introducido
-  de forma progresiva en el vocabulario eclesial. La concentración y
-  personalización operada por el Concilio Vaticano II conlleva la potenciación de
-  un término nuevo como es el testimonio. \textelp{} lo que el Vaticano I
-  pretendía al tratar el signo de la Iglesia, que también era visto como ``un
-  testimonio'' [DH 3013], se encuentra en la categoría testimonio, que con el
-  Vaticano II irrumpe masivamente.
-
-  Prades 81
-  La teología ha ido revalorizando el testimonio, que había quedado relegado a un
-  segundo plano en otros momentos de la historia de la teología, hasta alcanzar
-  una difusión realmente masiva en los años posteriores al Concilio.
-
-  83
-  Después de una fase de ascenso luminoso, la estrella del testimonio ha ido
-  palideciendo. Algunos textos magisteriales avisaron pronto del posible riesgo de
-  ambigüedad. Además, en los últimos años se han levantado voces que denuncian un
-  cierto abuso de esta categoría.
-
-  84
-  se ha hecho notar que el testimonio podía verse limitado a la manifestación de
-  una especie de seriedad con lo humano...
-  pero sin llegar a remitir a la verdad de Cristo.
-
-  Se trataría del riesgo de una reducción experiencialista del testimonio, donde
-  lo más importante sería su carácter social-existencial y no tanto la efectiva
-  verdad teologal transmitida. Se ha criticado consecuentemente la reducción del
-  testimonio ---y de la misma teología--- a puro relato autobiográfico.
-
-  Si se recupera la profundidad implicada en el testimonio se contribuirá a salir
-  del subjetivismo ---antiguo y moderno---, con su carga correspondiente de
-  individualismo, tan contrario a la verdadera naturaleza social del hombre y al
-  carácter a la vez personal y comunitario de la salvación cristiana.
-
-  Desde
-  en el ambito de la teologia hubo boom despues de vat ii
-  despues bajo
-  y ahora de nuevo
-
-  y es que es la iglesia
-
-  y hoy en el mundo hay una situación
-
-  y la gilesia tambien tiene que responder
-
-  prades dice
-
-  en la filosofía ocurre que
-  como dice lackey
-
-  coady por su parte
-
-  y anscombe pertenece a esta reflexión contemporanea
-
-  en su caso también sus reflexiones responden a los desafios modernos,
-  específicamente a las propuestas del empirismo
-
-  Aún cuando el testimonio ocupa un lugar vital en nuestro contacto con el mundo,
-  no siempre ha gozado del interés de la investigación filosófica. Más
-  recientemente, sin embargo, su importancia ha sido mejor apreciada y así lo
-  refleja la variedad literatura que puede encontrarse en la filosofía
-  contemporánea.\footnote{Cf.~\cite[1]{lackeysosa2006eptest}: Despite the vital
-    role that testimony occupies in our epistemic lives, traditional
-    epistemological theories focused primarily on other sources, such as sense
-    perception, memory, and reason, with relatively little attention devoted
-    specifically to testimony. In recent years, however, the epistemic
-    significance of testimony has been more fully appreciated, and the current
-    literature has benefited from the publication of a considerable amount of
-    interesting and innovative work in this area.}
+  Otro dato ofrecido por Coady sirve para orientar el planteamiento de la cuestión
+  sobre el testimonio:
+  \blockquote[{\cite[vii]{coady1992test}}: I first began thinking about the
+  epistemological status of testimony in the 1960s when writing a thesis at Oxford
+  on issues in the theory of perception. \textelp{} I recall being intrigued by
+  some remarks of Elizabeth Anscombe on the topic during her lectures on the
+  empiricists \textelp{}]{Empecé por primera vez a pensar sobre la situación
+    epistemológica del testimonio en los años 60 cuando estuve escribiendo una
+    tesis en Oxford sobre problemas en la teoría de la percepción. \textelp{}
+    Recuerdo haber quedado intrigado por algunas afirmaciones de Elizabeth
+    Anscombe sobre el tema durante sus lecciones sobre los empiristas \textelp{}}
 
   Esta época mas prolija en discusiones no es, sin embargo, el origen de algunas
   posturas propuestas en torno al testimonio; éste lo encontramos más bien en la
@@ -251,18 +355,6 @@ s
   ofrecidos por la filosofía moderna y contemporánea para expandir nuestra
   anterior pregunta y formular las cuestiones principales que servirán luego para
   navegar en el pensamiento de Elizabeth Anscombe.
-
-  El testimonio como manifestación significativa ---hagiofánica--- de la misión de
-  la Iglesia en su realidad histórica es, pues, el punto final, pero también puede
-  ser el punto inicial, de toda nuestra Teología Fundamental, ya que de él surge
-  el signo eclesial de creidibilidad que es la mediación próxima para conocer la
-  Revelación. ninot p. 572
-
-  Hasta el momento solo hemos formulado una pregunta, que si ampliamos un poco
-  queda: \enquote{¿qué es conocer una verdad para la vida por el testimonio de la
-    revelación divina?}. Esta formulación puede servir como punto de partida y, si
-  tenemos en cuenta la reflexión filosófica en torno al testimonio, podemos
-  expandirla más.
 #+END_SRC
 ** TODO ¿Cuál es el valor espistemológico del testimonio
 #+BEGIN_SRC latex
