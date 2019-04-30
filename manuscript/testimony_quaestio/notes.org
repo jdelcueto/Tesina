@@ -208,3 +208,160 @@ Sadly, accounts of testimonial justification from before Hume and Reid remain la
 unexamined.3 As C. A. J. Coady notes in his pioneering work Testimony: A Philosophical
 Study, medieval Christian philosophers were especially disposed to see the value of
 testimonial belief, for which Aquinas had an “interesting and subtle theory.”4
+
+
+* Cómo porceder....
+
+** Coady:
+The Problematic > The tradition > the solution > the puzzles > The applications
+
+problematic:
+3 chapters of expository and definitional character
+
+1- to which extent our normal cognitive practices are underpinned by our reliance upon
+what others tell us
+2- analytical clarification of what is involved in talk of testimony and defines a
+concept of testimony suited to our purposes in our investigation
+3- examines some consquences of this definition an defends it against misgivings
+arising from intuition and theory
+
+tradition:
+exploration of the work of those few philosophers who have written extensively upon
+epistemology of testimony... most attention is given to 
+Hume, Price, Russel and Reid
+
+this serves to expose the individualist emphases (already sketched in chapter 1)
+
+all of this discussion is done from a critical standpoint
+
+focus in first part is on the standing or reliability of testimony at large (as an
+institutional fact) 
+focus in second part is on issues of a more specifically methodological and 'applied'
+kind.
+
+** Lackey
+Chapter 1
+discussion of various views of the nature of testimony found in the philosophical
+literature
+
+diagnosis of why the disagreement over the nature of testimony is so deep
+
+argue that our concept of testimony has two distinct and often independent aspects to
+it
+-it is often thought of as an intentional act on the part of the speaker 
+-is often thought of as simply a source of belief or knowledge for the hearer
+
+->inadequate views result either from collapsing these two aspects into a single
+account or from a failure to recognize one of them
+
+offer disjunctive view of the nature of testimony that adequately captures these two
+independent aspects, and provides the basis for an iluminatign theory of testimony's
+epistemological significance
+
+ends with a definition of testimony
+
+Chapter 2
+the epistemic status of testimony
+
+belief view of testimony: a testimonial exchange involves a speaker's belief, along
+with the epistemic properties it possesses, being transmitted to a hearer 
+
+two dimensions
+
+-necessity claim: a hearer knows (believes with justification/warrant) that p on the
+basis of a speaker's testimony that p only if the speaker itself knows (believes with
+justification/warrant) that p.
+
+-sufficiency claim: if a speaker knows (believes with justification/warrant) that p,
+and a hearer comes to believe that p on the basis of the content of this speaker's
+testimony that p without possessing any relevant defeaters, then the hearer also knows
+(believes with justification/warrant) that p
+support for this view derives from a purported analogy between testimony and memory
+
+in this chapter it is argued that this view is wrong unreliable believers can be
+reliable testifiers and reliable believers can be unreliable testifiers, so both claims
+are wrong
+
+Chapter 3
+development of an alternative picture of epistemology of testimony: statement view of
+testimony
+focusing on the epistemic status of the statements of speakers, not their beliefs:
+this new conception of testimonial knowledge shows that we don't learn from one
+another's beliefs, we learn from one another's words
+
+defending this view from thre objections
+
+Chapter 4 
+One further objection related to the knowledge norm of assertion and proposal of the
+reasonable to believe norm of assertion as a replacement
+
+Chapter 5 
+on the topic of testimonial justification or warrant 
+critique of the two central views:
+reductionism and non reductionism
+
+testimony is neither just as basic, nor ultimately reducible to, other epistemic
+sources, such as sense perception, memory, and reason. Thus, both are false.
+
+Chapter 6 
+diagnosis on the problem afflicting both reduct and non-reduct: attempting to place all
+of the epistemic work on only one or the other of the participants
+
+argue that that we need to look toward a view of testimonial justification or warrant -
+dualism
+
+requiring both 
+the truthconduciveness of the speaker's testimony 
+the possession of appropriate positive reasons by the hearer
+
+Chapter 7
+defend dualism against infant/child objection
+
+Chapter 8
+family of theories which share three central theses:
+1-interpersonal relationship between parties should be the central focus of epistemology
+2-features of the interpersonal relationship are responsible for conferring epistemic value
+3-epistemic justification or warrant provded by testimony is nonevidential in nature
+
+
+
+chapter 6
+
+
+
+
+** Prades:
+-Primera parte
+teología que se sitúa desde el presente para discernir los signos de los tiempos:
+es una introducción que presenta situaciones reales de la sociedad plural de occidente
+y de la Iglesia católica que vive en ella
+
+-Segunda Parte
+primera comprensión básica del fenómeno linguístico y humano del testimonio, 
+
+entra in medias res a partir de la presentación del testimonio en el AT y NT -> la
+originalidad de la comprensión planteada en la revelación del testimonio es la que
+gobierna el esfuerzo teológico del libro
+
+se sigue un análisis detallado de la doctrina magisterial sobre el testimonio en el
+periodo post conciliar
+
+-Tercera Parte
+diálogo con la cultura: recorrido histórico por el pensamiento occidental
+
+habiendo estudiado la índole propia del testimonio revelado a partir de sus fuentes, se
+ahonda entonces en la "credibilidad" del hecho testimonial de Cristo y de la Iglesia
+
+el recorrido filosófico sirve para ahondar en la credibilidad de la concepcion original
+planteada en las fuentes 
+
+-Cuarta Parte
+se hace cargo de lo adquirido
+
+ofrece el punto de vista del autor en clave filosófico-teológica y en sus consecuencias
+pastorales 
+
+
+
+
+
