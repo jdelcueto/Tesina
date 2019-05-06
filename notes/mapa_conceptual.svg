@@ -25,15 +25,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="3554.2426"
-     inkscape:cy="-328.01039"
+     inkscape:zoom="0.22"
+     inkscape:cx="2538.4821"
+     inkscape:cy="-886.21369"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      showborder="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1025"
+     inkscape:window-height="1053"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1" />
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -111,68 +111,68 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="284.23807"
-       y="170"
+       x="249.36118"
+       y="245.76704"
        id="text51"><tspan
          sodipodi:role="line"
          id="tspan49"
-         x="284.23807"
-         y="170"
+         x="249.36118"
+         y="245.76704"
          style="stroke-width:0.26458332">1973</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="283.48215"
-       y="183.60715"
+       x="248.60526"
+       y="259.37421"
        id="text55"><tspan
          sodipodi:role="line"
          id="tspan53"
-         x="283.48215"
-         y="183.60715"
+         x="248.60526"
+         y="259.37421"
          style="stroke-width:0.26458332">Hume and Julius Caesar</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="284.23807"
-       y="223.67262"
+       x="249.36118"
+       y="299.43967"
        id="text59"><tspan
          sodipodi:role="line"
          id="tspan57"
-         x="284.23807"
-         y="223.67262"
+         x="249.36118"
+         y="299.43967"
          style="stroke-width:0.26458332">1979</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="284.23807"
-       y="237.27975"
+       x="249.36118"
+       y="313.04681"
        id="text63"><tspan
          sodipodi:role="line"
          id="tspan61"
-         x="284.23807"
-         y="237.27975"
+         x="249.36118"
+         y="313.04681"
          style="stroke-width:0.26458332">What is it to believe someone?</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="281.97018"
-       y="283.39285"
+       x="261.52512"
+       y="552.7868"
        id="text67"><tspan
          sodipodi:role="line"
          id="tspan65"
-         x="281.97018"
-         y="283.39285"
+         x="261.52512"
+         y="552.7868"
          style="stroke-width:0.26458332">1975</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="285.74997"
-       y="297"
+       x="265.3049"
+       y="566.39392"
        id="text71"><tspan
          sodipodi:role="line"
          id="tspan69"
-         x="285.74997"
-         y="297"
+         x="265.3049"
+         y="566.39392"
          style="stroke-width:0.26458332">Faith</tspan></text>
     <text
        xml:space="preserve"
@@ -198,7 +198,7 @@
          style="stroke-width:0.26458332">Prophecy and Miracles</tspan></text>
     <g
        id="g304"
-       transform="translate(1.9047617e-6,-66.523809)">
+       transform="translate(-20.445074,202.87013)">
       <text
          id="text83"
          y="432.31549"
@@ -224,7 +224,7 @@
     </g>
     <g
        id="g298"
-       transform="translate(9.8273843,-44.601188)">
+       transform="translate(-10.617691,224.79275)">
       <text
          id="text91"
          y="527.56549"
@@ -577,66 +577,244 @@
            sodipodi:role="line">is a misuse of words as far as concerns any sense that can be put on them. You posses it in a way that is immune to the idea of refuting examples</tspan></text>
     </g>
     <g
-       id="g318">
-      <text
-         id="text308"
-         y="324.97025"
-         x="848.17859"
-         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           style="stroke-width:0.26458332"
-           y="324.97025"
+       id="g4194"
+       transform="translate(-597.7178,54.119318)">
+      <g
+         id="g318">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
            x="848.17859"
-           id="tspan306"
-           sodipodi:role="line">On transubstantiation</tspan></text>
+           y="324.97025"
+           id="text308"><tspan
+             sodipodi:role="line"
+             id="tspan306"
+             x="848.17859"
+             y="324.97025"
+             style="stroke-width:0.26458332">On transubstantiation</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="848.17847"
+           y="309.8512"
+           id="text312"><tspan
+             sodipodi:role="line"
+             id="tspan310"
+             x="848.17847"
+             y="309.8512"
+             style="stroke-width:0.26458332">1974</tspan></text>
+      </g>
       <text
-         id="text312"
-         y="309.8512"
-         x="848.17847"
+         id="text322"
+         y="343.22528"
+         x="842.31409"
+         style="font-style:normal;font-weight:normal;font-size:3.76611376px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09415285"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.09415285"
+           y="343.22528"
+           x="842.31409"
+           id="tspan320"
+           sodipodi:role="line">this pamphlet shows her view of the relation of faith and reason:</tspan><tspan
+           id="tspan326"
+           style="stroke-width:0.09415285"
+           y="347.93292"
+           x="842.31409"
+           sodipodi:role="line">she does not try to use reason to explain how transubstantiation is possible,</tspan><tspan
+           id="tspan330"
+           style="stroke-width:0.09415285"
+           y="352.64056"
+           x="842.31409"
+           sodipodi:role="line">but sees the task of reason as being to reply to reasoned arguments for the</tspan><tspan
+           id="tspan332"
+           style="stroke-width:0.09415285"
+           y="357.34821"
+           x="842.31409"
+           sodipodi:role="line">imposibilty of that substantial change</tspan></text>
+      <text
+         id="text322-3"
+         y="371.10849"
+         x="841.99121"
+         style="font-style:normal;font-weight:normal;font-size:3.76611376px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09415286"
+         xml:space="preserve"><tspan
+           id="tspan332-3"
+           style="stroke-width:0.09415286"
+           y="371.10849"
+           x="841.99121"
+           sodipodi:role="line">if you believe in it, you believe that each claim to disprove it as contradictory can be answered</tspan></text>
+      <text
+         id="text322-3-3"
+         y="378.9259"
+         x="842.49567"
+         style="font-style:normal;font-weight:normal;font-size:3.76611376px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09415287"
+         xml:space="preserve"><tspan
+           id="tspan332-3-6"
+           style="stroke-width:0.09415287"
+           y="378.9259"
+           x="842.49567"
+           sodipodi:role="line">When we call something a mystery, we mean</tspan><tspan
+           id="tspan4003"
+           style="stroke-width:0.09415287"
+           y="383.63354"
+           x="842.49567"
+           sodipodi:role="line">that we cannot iron out the difficulties about understanding it</tspan><tspan
+           id="tspan4007"
+           style="stroke-width:0.09415287"
+           y="388.34119"
+           x="842.49567"
+           sodipodi:role="line">and</tspan><tspan
+           id="tspan4009"
+           style="stroke-width:0.09415287"
+           y="393.04883"
+           x="842.49567"
+           sodipodi:role="line">demonstrate once for all that it is perfectly possible</tspan><tspan
+           id="tspan4011"
+           style="stroke-width:0.09415287"
+           y="397.75647"
+           x="842.49567"
+           sodipodi:role="line" /><tspan
+           id="tspan4013"
+           style="stroke-width:0.09415287"
+           y="402.46411"
+           x="842.49567"
+           sodipodi:role="line">nevertheless we do not believe that contradictions and absurdities</tspan><tspan
+           id="tspan4015"
+           style="stroke-width:0.09415287"
+           y="407.17175"
+           x="842.49567"
+           sodipodi:role="line">can be true, or that anything logically demonstrable from things known</tspan><tspan
+           id="tspan4017"
+           style="stroke-width:0.09415287"
+           y="411.87939"
+           x="842.49567"
+           sodipodi:role="line">can be false.</tspan><tspan
+           id="tspan4021"
+           style="stroke-width:0.09415287"
+           y="416.58704"
+           x="842.49567"
+           sodipodi:role="line">And so we believe that there are answers to supposed proofs of absurdity, </tspan><tspan
+           id="tspan4025"
+           style="stroke-width:0.09415287"
+           y="421.29468"
+           x="842.49567"
+           sodipodi:role="line">whether or not we are clever enough to find them</tspan></text>
+      <text
+         id="text322-3-3-7"
+         y="428.80103"
+         x="842.91052"
+         style="font-style:normal;font-weight:normal;font-size:3.76611376px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09415287"
+         xml:space="preserve"><tspan
+           id="tspan4025-0"
+           style="stroke-width:0.09415287"
+           y="428.80103"
+           x="842.91052"
+           sodipodi:role="line">it is the mystery of the faith which is the same for the simple and the learned. </tspan><tspan
+           id="tspan4126"
+           style="stroke-width:0.09415287"
+           y="433.50867"
+           x="842.91052"
+           sodipodi:role="line">For they believe the same, and what is grasped by the simple is not better </tspan><tspan
+           id="tspan4128"
+           style="stroke-width:0.09415287"
+           y="438.21631"
+           x="842.91052"
+           sodipodi:role="line">understood by the learned: their service is to clear away the rubbish which </tspan><tspan
+           id="tspan4130"
+           style="stroke-width:0.09415287"
+           y="442.92395"
+           x="842.91052"
+           sodipodi:role="line">the human reason so often throws in the way to create obstacles.</tspan></text>
+    </g>
+    <g
+       id="g4213"
+       transform="translate(-840.65341,-224.89583)">
+      <text
+         id="text4134"
+         y="304.27603"
+         x="1098.0209"
          style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"><tspan
            style="stroke-width:0.26458332"
-           y="309.8512"
-           x="848.17847"
-           id="tspan310"
-           sodipodi:role="line">1974</tspan></text>
+           y="304.27603"
+           x="1098.0209"
+           id="tspan4132"
+           sodipodi:role="line">1961</tspan></text>
+      <text
+         id="text4138"
+         y="320.8125"
+         x="1098.3516"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="320.8125"
+           x="1098.3516"
+           id="tspan4136"
+           sodipodi:role="line">Authority in morals</tspan></text>
+      <text
+         id="text4142"
+         y="334.64627"
+         x="1100.5112"
+         style="font-style:normal;font-weight:normal;font-size:5.02893686px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12572335"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.12572335"
+           y="334.64627"
+           x="1100.5112"
+           id="tspan4140"
+           sodipodi:role="line">She does not only point out the sophistry of arguing</tspan><tspan
+           id="tspan4144"
+           style="stroke-width:0.12572335"
+           y="340.93243"
+           x="1100.5112"
+           sodipodi:role="line">that since we necessarily have to be guided by our own</tspan><tspan
+           id="tspan4146"
+           style="stroke-width:0.12572335"
+           y="347.21863"
+           x="1100.5112"
+           sodipodi:role="line">conscience we cannot be guided by authority in ethical matter:</tspan><tspan
+           id="tspan4148"
+           style="stroke-width:0.12572335"
+           y="353.50479"
+           x="1100.5112"
+           sodipodi:role="line">she also acknowledges the necessity of making your own judgements</tspan><tspan
+           id="tspan4150"
+           style="stroke-width:0.12572335"
+           y="359.79095"
+           x="1100.5112"
+           sodipodi:role="line">in this field, since, like maths, virtue cannot be understood unless </tspan><tspan
+           id="tspan4152"
+           style="stroke-width:0.12572335"
+           y="366.07712"
+           x="1100.5112"
+           sodipodi:role="line">it is practised, so that in applyin precepts, even those learned from </tspan><tspan
+           id="tspan4154"
+           style="stroke-width:0.12572335"
+           y="372.36331"
+           x="1100.5112"
+           sodipodi:role="line">authority, one has at some point to make one's own decision as to how precepts</tspan><tspan
+           id="tspan4156"
+           style="stroke-width:0.12572335"
+           y="378.64948"
+           x="1100.5112"
+           sodipodi:role="line">are to be applied. There has to be the possibility</tspan><tspan
+           id="tspan4158"
+           style="stroke-width:0.12572335"
+           y="384.93564"
+           x="1100.5112"
+           sodipodi:role="line">of connatural knowledge of what is right, the knowledge which comes from </tspan><tspan
+           id="tspan4160"
+           style="stroke-width:0.12572335"
+           y="391.2218"
+           x="1100.5112"
+           sodipodi:role="line">virtue; without such knowledge one cannot understand ethical propositions, so as </tspan><tspan
+           id="tspan4162"
+           style="stroke-width:0.12572335"
+           y="397.508"
+           x="1100.5112"
+           sodipodi:role="line">to know how to apply them, so ethics cannot be a matter of knowing that things are bad</tspan><tspan
+           id="tspan4164"
+           style="stroke-width:0.12572335"
+           y="403.79416"
+           x="1100.5112"
+           sodipodi:role="line">because God has revealed the fact that they are forbidden.</tspan></text>
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.76611376px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09415285"
-       x="842.31409"
-       y="343.22528"
-       id="text322"><tspan
-         sodipodi:role="line"
-         id="tspan320"
-         x="842.31409"
-         y="343.22528"
-         style="stroke-width:0.09415285">this pamphlet shows her view of the relation of faith and reason:</tspan><tspan
-         sodipodi:role="line"
-         x="842.31409"
-         y="347.93292"
-         style="stroke-width:0.09415285"
-         id="tspan326">she does not try to use reason to explain how transubstantiation is possible,</tspan><tspan
-         sodipodi:role="line"
-         x="842.31409"
-         y="352.64056"
-         style="stroke-width:0.09415285"
-         id="tspan330">but sees the task of reason as being to reply to reasoned arguments for the</tspan><tspan
-         sodipodi:role="line"
-         x="842.31409"
-         y="357.34821"
-         style="stroke-width:0.09415285"
-         id="tspan332">imposibilty of that substantial change</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.76611376px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09415286"
-       x="807.40637"
-       y="373.56534"
-       id="text322-3"><tspan
-         sodipodi:role="line"
-         x="807.40637"
-         y="373.56534"
-         style="stroke-width:0.09415286"
-         id="tspan332-3">if you believe in it, you believe that each claim to disprove it as contradictory can be answered</tspan></text>
   </g>
 </svg>
