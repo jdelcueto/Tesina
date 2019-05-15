@@ -25,18 +25,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.44"
-     inkscape:cx="2031.4155"
-     inkscape:cy="105.52066"
+     inkscape:zoom="0.62225397"
+     inkscape:cx="5511.395"
+     inkscape:cy="964.17116"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      showborder="false"
-     inkscape:window-width="1920"
+     inkscape:window-width="960"
      inkscape:window-height="1025"
-     inkscape:window-x="0"
+     inkscape:window-x="960"
      inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -112,28 +112,6 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="249.36118"
-       y="245.76704"
-       id="text51"><tspan
-         sodipodi:role="line"
-         id="tspan49"
-         x="249.36118"
-         y="245.76704"
-         style="stroke-width:0.26458332">1973</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="248.60526"
-       y="259.37421"
-       id="text55"><tspan
-         sodipodi:role="line"
-         id="tspan53"
-         x="248.60526"
-         y="259.37421"
-         style="stroke-width:0.26458332">Hume and Julius Caesar</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="249.36118"
        y="299.43967"
        id="text59"><tspan
          sodipodi:role="line"
@@ -174,54 +152,6 @@
          x="265.3049"
          y="566.39392"
          style="stroke-width:0.26458332">Faith</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="278.19046"
-       y="22.589277"
-       id="text75"><tspan
-         sodipodi:role="line"
-         id="tspan73"
-         x="278.19046"
-         y="22.589277"
-         style="stroke-width:0.26458332">(probably) 1957</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="280.45831"
-       y="41.488094"
-       id="text79"><tspan
-         sodipodi:role="line"
-         id="tspan77"
-         x="280.45831"
-         y="41.488094"
-         style="stroke-width:0.26458332">Prophecy and Miracles</tspan></text>
-    <g
-       id="g304"
-       transform="translate(-20.445074,202.87013)">
-      <text
-         id="text83"
-         y="432.31549"
-         x="284.23807"
-         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           style="stroke-width:0.26458332"
-           y="432.31549"
-           x="284.23807"
-           id="tspan81"
-           sodipodi:role="line">Hume on Miracles</tspan></text>
-      <text
-         id="text87"
-         y="413.41666"
-         x="282.7262"
-         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           style="stroke-width:0.26458332"
-           y="413.41666"
-           x="282.7262"
-           id="tspan85"
-           sodipodi:role="line">Published 2008 (probably written before 1981)</tspan></text>
-    </g>
     <g
        id="g298"
        transform="translate(-10.617691,224.79275)">
@@ -726,7 +656,7 @@
     </g>
     <g
        id="g4213"
-       transform="translate(-840.65341,-224.89583)">
+       transform="translate(-814.29092,-235.95107)">
       <text
          id="text4134"
          y="304.27603"
@@ -816,27 +746,382 @@
            x="1100.5112"
            sodipodi:role="line">because God has revealed the fact that they are forbidden.</tspan></text>
     </g>
+    <rect
+       id="rect165"
+       width="369.78851"
+       height="164.30177"
+       x="580.44189"
+       y="195.80203"
+       style="fill:#00ff00;stroke-width:0.43041852" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.56391716px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.23909792"
+       x="658.26819"
+       y="161.01138"
+       id="text170"><tspan
+         sodipodi:role="line"
+         id="tspan168"
+         x="658.26819"
+         y="161.01138"
+         style="stroke-width:0.23909792">Coady: I recall being intrigued by some remarks</tspan><tspan
+         sodipodi:role="line"
+         x="658.26819"
+         y="172.96628"
+         style="stroke-width:0.23909792"
+         id="tspan172">of Elizabeth Anscombe on the topic during her lectures </tspan><tspan
+         sodipodi:role="line"
+         x="658.26819"
+         y="184.92117"
+         style="stroke-width:0.23909792"
+         id="tspan174">on the empiricists</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="93.806816"
-       y="259.11649"
+       x="715.38867"
+       y="286.05588"
+       id="text51"><tspan
+         sodipodi:role="line"
+         id="tspan49"
+         x="715.38867"
+         y="286.05588"
+         style="stroke-width:0.26458332">1973</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="714.63275"
+       y="299.66302"
+       id="text55"><tspan
+         sodipodi:role="line"
+         id="tspan53"
+         x="714.63275"
+         y="299.66302"
+         style="stroke-width:0.26458332">Hume and Julius Caesar</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="585.69135"
+       y="298.80399"
        id="text164"><tspan
          sodipodi:role="line"
          id="tspan162"
-         x="93.806816"
-         y="259.11649"
+         x="585.69135"
+         y="298.80399"
          style="stroke-width:0.26458332">Hume on Causality</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="95.310112"
-       y="242.27934"
+       x="587.19464"
+       y="281.96686"
        id="text168"><tspan
          sodipodi:role="line"
          id="tspan166"
-         x="95.310112"
-         y="242.27934"
+         x="587.19464"
+         y="281.96686"
          style="stroke-width:0.26458332">1970s</tspan></text>
+    <g
+       id="g304"
+       transform="translate(301.86553,-82.158278)">
+      <text
+         id="text83"
+         y="432.31549"
+         x="284.23807"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="432.31549"
+           x="284.23807"
+           id="tspan81"
+           sodipodi:role="line">Hume on Miracles</tspan></text>
+      <text
+         id="text87"
+         y="413.41666"
+         x="282.7262"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="413.41666"
+           x="282.7262"
+           id="tspan85"
+           sodipodi:role="line">Published 2008 (probably written before 1981)</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="571.86078"
+       y="428.08902"
+       id="text178"><tspan
+         sodipodi:role="line"
+         id="tspan176"
+         x="571.86078"
+         y="428.08902"
+         style="stroke-width:0.26458332">Prophecy and Miracles</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="584.26526"
+       y="213.20955"
+       id="text75"><tspan
+         sodipodi:role="line"
+         id="tspan73"
+         x="584.26526"
+         y="213.20955"
+         style="stroke-width:0.26458332">(probably) 1957</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="586.53314"
+       y="232.10837"
+       id="text79"><tspan
+         sodipodi:role="line"
+         id="tspan77"
+         x="586.53314"
+         y="232.10837"
+         style="stroke-width:0.26458332">Prophecy and Miracles</tspan></text>
+    <rect
+       style="fill:#782121;stroke-width:0.44686201"
+       id="rect180"
+       width="468.43277"
+       height="530.90717"
+       x="1133.1155"
+       y="-107.07643" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1169.4325"
+       y="7.8113046"
+       id="text184"><tspan
+         sodipodi:role="line"
+         id="tspan182"
+         x="1169.4325"
+         y="7.8113046"
+         style="fill:#ffffff;stroke-width:0.26458332">Parmenides, Mystery and contradiction</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1171.2029"
+       y="28.94692"
+       id="text184-3"><tspan
+         sodipodi:role="line"
+         id="tspan182-6"
+         x="1171.2029"
+         y="28.94692"
+         style="fill:#ffffff;stroke-width:0.26458332">The Early Theory of Forms</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1173.2561"
+       y="55.230961"
+       id="text184-7"><tspan
+         sodipodi:role="line"
+         id="tspan182-5"
+         x="1173.2561"
+         y="55.230961"
+         style="fill:#ffffff;stroke-width:0.26458332">The New Theory of Forms</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1171.2815"
+       y="83.994019"
+       id="text184-35"><tspan
+         sodipodi:role="line"
+         id="tspan182-62"
+         x="1171.2815"
+         y="83.994019"
+         style="fill:#ffffff;stroke-width:0.26458332">Understanding Proofs: Meno</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1169.6005"
+       y="106.45303"
+       id="text184-9"><tspan
+         sodipodi:role="line"
+         id="tspan182-1"
+         x="1169.6005"
+         y="106.45303"
+         style="fill:#ffffff;stroke-width:0.26458332">Aristotle and the Sea Battle: De Interpretatione</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1170.0256"
+       y="140.89435"
+       id="text184-2"><tspan
+         sodipodi:role="line"
+         id="tspan182-7"
+         x="1170.0256"
+         y="140.89435"
+         style="fill:#ffffff;stroke-width:0.26458332">The Principle of Individuation</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1172.3643"
+       y="175.76088"
+       id="text184-0"><tspan
+         sodipodi:role="line"
+         id="tspan182-9"
+         x="1172.3643"
+         y="175.76088"
+         style="fill:#ffffff;stroke-width:0.26458332">Thougt and Action in Aristotle: What is Practical Truth?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="1178.6586"
+       y="-19.775133"
+       id="text246"><tspan
+         sodipodi:role="line"
+         id="tspan244"
+         x="1178.6586"
+         y="-19.775133"
+         style="stroke-width:0.26458332;fill:#ffffff;">Ancient Greeks</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="1182.9106"
+       y="207.49509"
+       id="text250"><tspan
+         sodipodi:role="line"
+         id="tspan248"
+         x="1182.9106"
+         y="207.49509"
+         style="stroke-width:0.26458332;fill:#ffffff;">Medieval and Modern </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1172.3643"
+       y="247.19473"
+       id="text184-36"><tspan
+         sodipodi:role="line"
+         id="tspan182-0"
+         x="1172.3643"
+         y="247.19473"
+         style="fill:#ffffff;stroke-width:0.26458332">Necessity and Truth</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1170.8761"
+       y="274.19504"
+       id="text184-6"><tspan
+         sodipodi:role="line"
+         id="tspan182-2"
+         x="1170.8761"
+         y="274.19504"
+         style="fill:#ffffff;stroke-width:0.26458332">Hume and Julius Caesar</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1167.2618"
+       y="295.66769"
+       id="text184-61"><tspan
+         sodipodi:role="line"
+         id="tspan182-8"
+         x="1167.2618"
+         y="295.66769"
+         style="fill:#ffffff;stroke-width:0.26458332">&quot;Whatever has a beginning of </tspan><tspan
+         sodipodi:role="line"
+         x="1167.2618"
+         y="308.89685"
+         style="fill:#ffffff;stroke-width:0.26458332"
+         id="tspan276">Existence must have a cause&quot;: Hume's Argument Exposed</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1166.624"
+       y="336.06186"
+       id="text184-79"><tspan
+         sodipodi:role="line"
+         id="tspan182-20"
+         x="1166.624"
+         y="336.06186"
+         style="fill:#ffffff;stroke-width:0.26458332">Will and Emotion</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1164.498"
+       y="362.42432"
+       id="text184-23"><tspan
+         sodipodi:role="line"
+         id="tspan182-75"
+         x="1164.498"
+         y="362.42432"
+         style="fill:#ffffff;stroke-width:0.26458332">Retractation</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1171.4285"
+       y="385.88339"
+       id="text184-92"><tspan
+         sodipodi:role="line"
+         id="tspan182-28"
+         x="1171.4285"
+         y="385.88339"
+         style="fill:#ffffff;stroke-width:0.26458332">The Question of Linguistic Idealism</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1137.5527"
+       y="8.3434973"
+       id="text184-97"><tspan
+         sodipodi:role="line"
+         id="tspan182-3"
+         x="1137.5527"
+         y="8.3434973"
+         style="fill:#ffffff;stroke-width:0.26458332">1969</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:30.59488869px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.76487219"
+       x="1458.168"
+       y="-178.28584"
+       id="text208"><tspan
+         sodipodi:role="line"
+         id="tspan206"
+         x="1458.168"
+         y="-178.28584"
+         style="stroke-width:0.76487219">Collected Philosophical Papers</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:30.59488869px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.76487219"
+       x="1651.9989"
+       y="-135.0683"
+       id="text208-3"><tspan
+         sodipodi:role="line"
+         id="tspan206-6"
+         x="1651.9989"
+         y="-135.0683"
+         style="stroke-width:0.76487219">1981</tspan></text>
+    <rect
+       style="fill:#112b00;stroke-width:0.44686201"
+       id="rect180-3"
+       width="468.43277"
+       height="530.90717"
+       x="1626.9486"
+       y="-107.07643" />
+    <rect
+       style="fill:#002255;stroke-width:0.44686201"
+       id="rect180-3-6"
+       width="468.43277"
+       height="530.90717"
+       x="2116.2976"
+       y="-107.91969" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1137.8549"
+       y="387.1427"
+       id="text184-97-7"><tspan
+         sodipodi:role="line"
+         id="tspan182-3-5"
+         x="1137.8549"
+         y="387.1427"
+         style="fill:#ffffff;stroke-width:0.26458332">1976</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="1333.5156"
+       y="-34.288677"
+       id="text184-356"><tspan
+         sodipodi:role="line"
+         id="tspan182-29"
+         x="1333.5156"
+         y="-34.288677"
+         style="fill:#ffffff;stroke-width:0.26458332">Anscombe considers the view that</tspan></text>
   </g>
 </svg>
