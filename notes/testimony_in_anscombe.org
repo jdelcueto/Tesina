@@ -1,3 +1,37 @@
+* By Collections
+** Collected Philosophical Papers
+***   I: From Parmenides to Wittgenstein
+**** Parmenides, Mystery and Contradiction (1969) :testimony:mystery:
+**** +The Early Theory of Forms (1981)+
+**** +The New Theory of Forms (1966)+
+**** +Understanding Proofs (1979)+
+**** Aristotle and the Sea Battle (1956) :testimony:prophecy_miracles:
+    - It is necessary: given an antiphasis about the present or the past, the
+      affirmative proposition must be true or false; and similarly for the negative.
+      + antiphasis :: a pair of propositions in which the same predicate is in one
+                      affirmed, in the other denied, on the same subject
+    - Aristotle's point is that "Either p or not p" is always necessary; *this
+      necessity we are familiar with*.
+    - What is a *novelty* is that when p describes a present or past situation, then
+      either p is necessarily true, or ~p is necessarily true; and here "necessarily
+      true" has a sense which is unfamiliar to us:
+      + "necessarily true" is not simply the same as "true"
+      + about something that would happen tomorrow, everyone would say: "there may be
+        or may not"
+      + we also say this about things which we don't know about the past and the
+        present
+      + does "may" express mere ignorance on our part in both cases?
+      + logical necessity
+**** +The Principle of Individuation (1953)+
+**** Thought and Action in Aristotle: What is practical truth? (1965)
+**** Necessity and Truth (1965)
+**** Hume and Julius Caesar (1973)
+**** Whatever has a beginning... must have a cause (1974)
+**** Will and Emotion (1978)
+**** Retractation (1965)
+**** The Question of Linguistic Idealism (1976)
+***  II: Metaphysics and the Philosophy of the Mind
+*** III: Ethics, Religion and Politics
 * análisis diacrónico
 ** [1973] Hume an Julius Caesar
 ** [1979] What is it to believe someone?
@@ -11,5 +45,5 @@ historical statements and investigations.
 
 If we were to describe the uses of words made in these cases, our descriptions would
 all lack one particular feature. The descriptions would not in these cases include any
-mention of actual events corresponding to the 
+mention of actual events corresponding to the
 * análisis sincrónico

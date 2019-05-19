@@ -559,3 +559,11 @@
     arguyen los equivocistas, los nombres de supuestas realidades trascendentes
     con los de las realidades empíricas.}
 #+END_SRC
+* [Local Variables]
+# Local Variables:
+# mode: org
+# mode: auto-fill
+# word-wrap:t
+# truncate-lines: t
+# org-hide-emphasis-markers: t
+# End:
