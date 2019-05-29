@@ -1,7 +1,7 @@
 * By Collections
 ** Collected Philosophical Papers
 ***   I: From Parmenides to Wittgenstein
-**** Parmenides, Mystery and Contradiction (1969) :testimony:mystery:
+**** _Parmenides, Mystery and Contradiction_ (1969) :testimony:mystery:
 **** +The Early Theory of Forms (1981)+
 **** +The New Theory of Forms (1966)+
 **** +Understanding Proofs (1979)+
@@ -23,15 +23,82 @@
       + does "may" express mere ignorance on our part in both cases?
       + logical necessity
 **** +The Principle of Individuation (1953)+
-**** Thought and Action in Aristotle: What is practical truth? (1965)
-**** Necessity and Truth (1965)
-**** Hume and Julius Caesar (1973)
-**** Whatever has a beginning... must have a cause (1974)
-**** Will and Emotion (1978)
-**** Retractation (1965)
-**** The Question of Linguistic Idealism (1976)
+**** Thought and Action in Aristotle: What is practical truth? (1965) :practical_truth:
+     - The notion of truth or flasehood in action would quite generally be countered by
+       the objection that "true" and "false" are senseles predicates as applied to what
+       is done. If I am right there is philosophy to the contrary in Aristotle. And if,
+       as I should maintain, the idea of descriptions under which what is done is
+       voluntary is integral to his notion of action, then these predicates apply to
+       actions stictly and properly, and not merely by an extension and in a way that
+       ought to be explained away.
+**** Necessity and Truth (1965) :necessarily_true:
+     - The sorting out by Aquinas of the de re and the de dicto necessities confounded
+       in 'what is known is necessarily true' is something a present-day English
+       philosopher can appreciate.
+**** _Hume and Julius Caesar_ (1973) :testimony:causality:reality_past:
+     - But here it seems that she is arguing that the standard Humean
+       foundationalist-evidentialist epistemology won't work, and also that coherentism
+       won't work (at least if coherentism is supposed to imply that absolutely any
+       belief we have can, in principle, be doubted and examined without threatening
+       the whole structure of our web of beliefs). This is, at least for its time, a
+       rather radical claim, since for a while it seemed that one must either be a
+       foundationalist or a coherentist about epistemic justification. What is this
+       third way that is needed to account for our knowledge of history (or
+       justification of our beliefs regarding historical matters of fact)?
+**** Whatever has a beginning... must have a cause (1974) :causality:
+     - Hume gives an argument to show that a beginning of existence without a cause is
+       not demonstrably absurd
+       - It's an argument from imagination
+       - we may grant the Parmenidean principle that "It is the same thing that can be
+         thought and can be"
+       - Hume's extension of it is certainly wrong
+**** Will and Emotion (1978) :belief:practical_truth:
+     - Will and emotion don't 'take' propositional objects, but involve desires which
+       do; this Brentano got right in assimilating will and emotion
+     - Anscombe opposes the assimilation
+     - Belief is as it's objects are (p.103)
+     - Is an error to assimilate will and emotion, a confusion of radically diferent
+       kinds of thing, of elements in a flow of feelings with the voluntariness of an
+       act. It's like identifying hunger with the voluntariness of eating.
+     - There is an element of 'what for' present in the description of a voluntary act
+       (will) that belongs to the intelligence of the agent.
+     - It takes human intelligence to be an akolastos in Aristotle's sense and take an
+       appetite and make it one's goal.
+**** +Retractation (1965)+
+**** _The Question of Linguistic Idealism (1976)_  :mystery:
+     - This can be disproved but I still believe it is not an attitude of faith at all
 ***  II: Metaphysics and the Philosophy of the Mind
+**** The Intentionality of Sensation, A Grammatical Feature :intentional_object:
+     - Intentionality has been defined as a feature of certain verbs
+     - An intentional object is the direct object of an intentional verb acting as an
+       intentional verb
+     - worship is an intentional verb
+     - Just as 'direct object' is not the name of a kind of thing, neither is
+       'intentional object' (since intentional objects are a species of direct objects)
+     - An intentional object is given by a word or phrase which gives a description
+       under which
+**** +The First Person+
+**** +Substance+
+**** The Subjectivity of Sensation
+**** Events in the Mind
+**** Comments on Gregory's on Perception
+**** On Sensations of Position
+**** Intention
+**** Pretending
+**** On the Gramar of Enjoy
+**** The Reality of the Past
+**** Memory, 'Experience' and Causation
+**** Causality and Determination
+**** Time, Beginnings and Causes
+**** Soft Determinism
+**** Causality and Extensionality
+**** Before and After
+**** Subjunctive Conditionals
+**** "Under a Description"
+**** Analysis Competition - Tenth Problem
+**** A Reply to Mr C. S. Lewis's Argument
 *** III: Ethics, Religion and Politics
+
 * análisis diacrónico
 ** [1973] Hume an Julius Caesar
 ** [1979] What is it to believe someone?
@@ -47,3 +114,7 @@ If we were to describe the uses of words made in these cases, our descriptions w
 all lack one particular feature. The descriptions would not in these cases include any
 mention of actual events corresponding to the
 * análisis sincrónico
+Hume and Julius Caesar 73 > Faith 75 > What is it to Believe Someone 79
+
+Parmenides Mystery and Contradiction 69 > On transubstantiation 74 > The Question of
+linguistic Idealism 76
