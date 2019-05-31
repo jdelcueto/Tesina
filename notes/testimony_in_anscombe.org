@@ -79,26 +79,80 @@
        under which
 **** +The First Person+
 **** +Substance+
-**** The Subjectivity of Sensation
-**** Events in the Mind
-**** Comments on Gregory's on Perception
-**** On Sensations of Position
-**** Intention
-**** Pretending
-**** On the Gramar of Enjoy
+**** +The Subjectivity of Sensation+
+**** +Events in the Mind+
+**** +Comments on Gregory's on Perception+
+**** +On Sensations of Position+
+**** Intention ??
+**** Pretending ??
+     - Contrast between mock performances, plain pretence, hypocrytical pretence
+**** On the Grammar of Enjoy
+     - Here she is interested in the characterization of predicative connection
+     - non-predicative connection of words
+     - what does the verb to enjoy take?
+     - belief takes a proposition
+     - I am saying that a predicative connection of expressions is just the sort of
+       connection into which we introduce negative signs and quantifying applicatives,
+       and which we combine with others by truth-connectives
+     - Is she reevaluating predicative connection?
 **** The Reality of the Past
 **** Memory, 'Experience' and Causation
-**** Causality and Determination
-**** Time, Beginnings and Causes
-**** Soft Determinism
-**** Causality and Extensionality
-**** Before and After
-**** Subjunctive Conditionals
+**** +Causality and Determination+
+**** +Time, Beginnings and Causes+
+**** +Soft Determinism+
+**** +Causality and Extensionality+
+**** +Before and After+
+**** +Subjunctive Conditionals+
 **** "Under a Description"
-**** Analysis Competition - Tenth Problem
-**** A Reply to Mr C. S. Lewis's Argument
+     - theory of event identity
+**** +Analysis Competition - Tenth Problem+
+**** +A Reply to Mr C. S. Lewis's Argument+
 *** III: Ethics, Religion and Politics
-
+**** +The two kinds of error in action+
+**** On promising and its justice
+     - language game descrption p. 16-17
+     - Those whose reactions show that for them the principle operates as an axiom
+       appear either
+       - to be making morality itself their substantive aim
+       - testifying that there is a substantive good **
+**** +On Brute facts+
+     - Certain facts besides relations of ideas or statements of matter of fact
+**** +Modern Moral Philosophy+
+     - [Hume's] considerations constantly open up very deep and important problems
+**** Authority in Morals
+     - Be doers of the word and not hearers only
+     - analogy: teaching morals like teaching mathematics
+     - some truths about what is the case are revealed
+**** War and Murder
+     - It is not a vague faith in the triumph of the spirit over force, but a definite
+       faith in the divine promises, that makes us believe that the church cannot fail.
+**** +Mr Truman's Degree+
+**** +The Justice of the present war examined+
+**** +You can have sex without children+
+**** Rules, Rights and promises
+     - God himself can make no promises to man except in human language
+     - Hume: Promises are naturally unintelligible, Anscombe: musts and cant's (as
+       expressions of rules) are not naturally unintelligible, they can be understood
+       by those of normal intelligence as they are trained in the practices of reason
+**** _On Transubstantiation_
+**** _Faith_
+**** +On Frustration of the majority+
+**** +On the source of authority of the state+
+** St. Andrews Collection
+*** Logic Truth and Meaning
+**** Belief and Thought
+**** Grounds of Belief
+**** Motives for beliefs of all sorts
+**** Thought and existent objects
+**** Knowledge and Essence
+**** Grammar, Structure and Essence
+**** Private Ostensive Definition
+**** Kripke on Rules and Private Language
+**** Truth, sense and assertion
+**** 'Making True'
+**** Existence and truth
+**** Existence and the existencial quantfier
+**** On a queer pattern of argument
 * análisis diacrónico
 ** [1973] Hume an Julius Caesar
 ** [1979] What is it to believe someone?
