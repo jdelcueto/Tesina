@@ -1,0 +1,190 @@
+#+PROPERTY: header-args:latex :tangle ../../tex/ch3/diacronico.tex
+# ------------------------------------------------------------------------------------
+# Santa Teresa Benedicta de la Cruz, ruega por nosotros
+
+* Hume and Julius Caesar 1973                    :published:
+:PUBLICATION_INFO:
+Originally published in october 1973 vol 34 Issue 1 of Analysis Journal Reprinted in
+CPP I in 1981 p. 86-92
+:END:
+** notes
+Section IV part III of Book I of the treatise
+
+Topic: belief in matters falling outside our own experience and memory
+
+when infering effects from causes
+we must establish the existence of these causes
+either by:
+
+inmediate perception of our memory or senses
+
+or by
+
+ an inference from other causes
+
+these other causes must be ascertained in the same manner
+
+it is impossible to carry on our inferences in infinitum
+
+Hume tries to ilustrate this by an example of historical belief
+
+we believe that caesar was killed....
+
+it is obvious all this chain of argument or connexion of causes and effects is at first
+founded on those characters or letters which are seen or remembered
+
+But this is not infering effects from causes, it is infering causes from effects.
+
+As such, for an historical belief we must have to be saying
+when we infer effects from causes or causes from effects...
+
+when we infer causes from effects we must establish the existence of those effects
+either by perception or by inference from other effects which effects we must ascertain
+in the same manner by a present impression or by an inference from their effects and so
+on, until we arrive at an object which we see or remember
+
+
+
+For Hume the relation of cause and effect is the one bridge by which to reach belief in
+matters beyond our present impressions or memories
+
+and also cause and effect are inferentially symmetrical
+
+are they?
+
+what is the starting point? (the start of inference or the start of the justification
+chain)
+
+The historical example is an inference of the original cause, the killing of Caesar,
+from its remote effect, the present perception of certain characters or letters.
+
+The starting-point is the present perception, and from it we can run through a chain of
+effects of causes which are effects of causes to the original cause: the killing of
+Caesar
+
+the end of the chain is thus not our perception and so it doesn't serve as an
+impression of our memory or senses beyond which there is no room for doubt or enquiry
+as to stop us going infinitely
+
+"tis impossible for us to carry on our inference in infinitum" means: *the
+justification of the grounds of our inferences cannot go on in infinitum* *we must come
+to belief which we do not base on grounds*
+
+What Hume is arguing is that we not only have a perception starting point but that we
+must reach a starting point in the justification of these inferences
+
+for him tracing back (from effects to causes) is taken to be symmetrical to inferences
+from causes to effects
+
+it must be purely hypothetical inference
+
+we reason (purely hypothetically) if Caesar was killed, then there were witnesses , if
+there were witnesses then there was testimonies, then there were records made from
+them, if there were records made then there are characters and letters to be seen which
+say that Caesar was Killed
+
+Four parts of Hume's thesis:
+
+1. a chain of reasons for a belief must terminate in something that is believed without
+   being founded on anything else
+2. the ultimate belief must be of a quite different character from derived beliefs: it
+   must be perceptual belief, belief in something perceived, or presently remembered
+3. the immediate justification for a belief p, if the belief is not a perception, will
+   be another belief q, which follows from, just as much as it implies, p.
+4. we believe by inference through the links in a chain of record
+
+implicit corollary: when we believe in historical information belonging to the remote
+past, we believe that there has been a chain of record
+
+Hume must believe all this
+
+*But it is not like that!*
+
+
+If the written records that we now see are grounds of our belief, they are first and
+foremost
+
+*grounds for belief*
+in Caesar's killing,
+belief that the assasination is a solid bit of history
+
+THEN
+
+our belief in that original event IS A GROUND FOR BELIEF in
+
+much of the intermediate transmission <-
+
+
+
+belief in recorded history is on the whole a belief that there has been a chain of
+tradition of reports and records going back to contemporary knowledge;
+
+IT IS NOT A BELIEF IN THE HISTORICAL FACTS BY AN INFERENCE THAT PASSES THROUGH THE
+LINKS OF SUCH A CHAIN. AT MOST, THAT CAN VERY SELDOM BE THE CASE.
+
+Casting a doubt about Caesar's existence would put us in a vacuum in which there is
+nothing by which to judge anything else
+
+What would I be allowed to count as evidence then?
+
+PEOPLE IN HISTORY ARE NOT IN ANY CASE HYPOTHESES WHICH WE HAVE ARRIVED AT TO EXPLAIN
+CERTAIN PHENOMENA
+
+A general epistemological reason for duobting one will be a reason for doubting all,
+and then none of them would have anythin to test it by
+
+
+** text
+#+BEGIN_SRC latex
+    Intro:
+
+    what's the justification for our beliefs falling outside our own experience
+    and memory?
+
+    if we take a belief in a historical matter of fact, the answer is: inference
+    from the relation of cause and effect.
+
+    1. Anscombe: that's not it
+
+  because it is not belief in historical facts by inference
+  but
+  it is on the whole
+  belief that there has been
+  a chain of tradition of reports and records going back to contemporary knowledge
+
+
+  2.Then what can be said about it?
+
+  let's say that belief in the existence of julius caesar is not a belief that is
+  justified by evidence that could be negated by some new single document or
+  inscription
+
+  let's ask: what could be evidence of Caesar never existing?
+  what would we think
+  of an inscription
+
+  what would judge what here?
+
+    A general epistemological reason for doubting one will be a reason for
+    doubting all, and then none of them would have anything to test it by.
+
+    So it turns out when I say things like “Here is a hand” I’m not really making
+    a claim about the world, I’m laying down some rules for discussion.
+
+      We know it from being taught; not just from explicit teaching, but by its being
+      implicit in a lot else that we are taught explicitly. But it is very difficult
+      to characterize the peculiar solidity involved or its limits. p. 90
+
+      the killing of Caesar is something which exists in our culture with a
+      particular logical status of one kind of certainty**
+
+      [this kind of knowledge] could only be called in question only by indulging
+      in Cartesian doubt
+
+
+      not everything can be put up for checking
+
+      she continues this in grounds of belief.....
+
+      what is the justification or grounds for the belief
+#+END_SRC

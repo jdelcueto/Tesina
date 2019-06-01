@@ -1,0 +1,76 @@
+#+PROPERTY: header-args:latex :tangle ../../tex/ch3/sincronico.tex
+# ------------------------------------------------------------------------------------
+# Santa Teresa Benedicta de la Cruz, ruega por nosotros
+
+* Valor epistemológico del testimonio
+
+#+BEGIN_SRC latex
+      Anscombe recurre con regularidad a Hume, no para cogerlo en sus errores, sino
+      porque toca el nervio de problemas con cierta profundidad, aún cuando la
+      insuficiencia de los argumentos de Hume sea facilmente demonstrable: Hume and
+      julius: p. 89: All this is no just catching Hume out in a mistake. That would
+      not be very interesting or important. The mistake [...] has the rare character
+      of being easily demonstrated while yet it touches the nerve of a problem of some
+      depth.
+
+      También en Modern moral philosophy: [Hume's] considerations constantly open up
+      very deep and important problems
+
+  Lo que le parece que Hume toca es lo que Wittgenstein trabaja en On Certainty: bedrock:
+  hay un apoyo último, un fundamento final para nuestras creencias? immovable foundations...
+
+  Hume diría que estas ultimate groundless grounds were sense impressions. But I
+  say that they are such beliefs as those of which one would say "everyone knows
+  that"
+
+
+#+END_SRC
+
+Modern moral philosophy:
+[Hume's] considerations constantly open up very deep and important problems
+
+Topic: belief in matters falling outside our own experience and memory
+
+Concerning the justification of our beliefs in historical matters of fact
+
+Jonathan Reibsamen:
+
+I take it that the point is this: we believe in historical events/persons because of
+what we are told, whether by contemporaries of ours, or through written/recorded
+records from our predecessors, and these testimonies are the direct reasons why we
+believe; they are not the beginnings of some long chain of inferences that we must
+trace in order to be justified in believing. Rather, for at least those particularly
+well-supported (in a coherence sort of way), we cannot even reasonably doubt them
+without falling into a sort of radical skepticism. So we are epistemically dependent on
+these testimonies in such a way that we cannot verify them by other means. Something
+like that seems to be the take-away.
+
+----
+
+She will go on, in future essays, such as "What Is It to Believe
+Someone?", to offer more critiques of Hume's view of testimonial knowledge, and to say
+more suggestive things about how it is that we really come to our historical and
+testimonial beliefs (if not knowledge). But here it seems that she is arguing that the
+standard Humean foundationalist-evidentialist epistemology won't work, and also that
+coherentism won't work (at least if coherentism is supposed to imply that absolutely
+any belief we have can, in principle, be doubted and examined without threatening the
+whole structure of our web of beliefs).
+
+This is, at least for its time, a rather radical claim, since for a while it seemed
+that one must either be a foundationalist or a coherentist about epistemic
+justification. What is this third way that is needed to account for our knowledge of
+history (or justification of our beliefs regarding historical matters of fact)?
+
+Ernie Sosa's "The Raft and the Pyramid" is credited with initiating virtue
+epistemology, and in that essay he proposes it as a third alternative to the "raft" of
+coherentism and the "pyramid" of foundationalism. I think of virtue epistemology as a
+form of foundationalism, though one rather unlike the evidentialist foundationalism of
+David Hume. My own inclination (and research program) is that a virtue epistemology,
+like that of Sosa's (or John Greco's), can be developed to answer these puzzles
+presented by Anscombe regarding testimonial knowledge, and, by extension, historical
+knowledge. There are some propositions that we believe on trust, and must believe on
+trust if we are to believe them at all. But trust can manifest intellectual virtue.
+
+* Fuerza del testimonio del absoluto
+
+* Valor proposicional del lenguaje religioso
