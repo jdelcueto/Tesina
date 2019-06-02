@@ -2,14 +2,93 @@
 # ------------------------------------------------------------------------------------
 # Santa Teresa Benedicta de la Cruz, ruega por nosotros
 
+#+BEGIN_SRC latex
+\section{Análisis Diacrónico}
+#+END_SRC
+
+
 * Hume and Julius Caesar 1973                    :published:
 :PUBLICATION_INFO:
 Originally published in october 1973 vol 34 Issue 1 of Analysis Journal Reprinted in
 CPP I in 1981 p. 86-92
 :END:
-** Intro 1: este esnayo y los otros
+#+BEGIN_SRC latex
+\subsection{Hume and Julius Caesar}
+#+END_SRC
+** Intro 1: este ensayo y los otros
+#+BEGIN_SRC latex
+  Los artículos \emph{Hume and Julius Caesar} y \emph{``Whatever has a beginning
+    of existence must have a cause'': Hume’s Argument Exposed} de Anscombe, fueron
+  publicados en la revista académica \emph{Analysis} en octubre de 1973 y abril de
+  1974 respectivamente. Ambos están relacionados por el tema de la causalidad en
+  Hume. En el trasfondo de los dos artículos está otro documento no publicado
+  hasta 2011 con el título \emph{Hume on causality: introductory}.
+#+END_SRC
+
+In the present volume the lengthy paper ‘Hume on causality: introductory’ is the matrix
+from which Anscombe extracted ‘Hume and Julius Caesar’ and ‘“Whatever has a beginning
+of existence must have a cause”: Hume’s Argument Exposed’.[2] It is published here as
+an example of the scrupulous and attentive study she devoted to major philosophers
+which is abundantly evident in her unpublished papers.
+
 ** Intro 2: Hume es interesante porque abre buenas cuestiones
+#+BEGIN_SRC latex
+  Una de las actitudes características de Anscombe es su tendencia a quedar
+  atraída por preguntas que representan cuestiones profundas, incluso en
+  discusiones cuyos argumentos, método o conclusiones no le parecen tan
+  interesantes.
+
+  Un autor que suele tener este efecto en ella es Hume. En \emph{Modern Moral
+    Philosophy} dice:
+
+  \blockquote[{\cite[172]{anscombe1981mmph}}: The features of Hume’s philosophy
+  which I have mentioned, like many other features of it, would incline me to
+  think that Hume was a mere --—brilliant--— sophist; and his procedures are
+  certainly sophistical. But I am forced, not to reverse, but to add to this
+  judgement by a peculiarity of Hume’s philosophizing: namely that, although he
+  reaches his conclusions --—with which he is in love--— by sophistical methods,
+  his considerations constantly open up very deep and important problems. It is
+  often the case that in the act of exhibiting the sophistry one finds oneself
+  noticing matters which deserve a lot of exploring: the obvious stands in need of
+  investigation as a result of the points that Hume pretends to have made.]{Las
+    características de la filosofía de Hume que he mencionado, como muchas otras
+    de sus características, me hacen a inclinarme a pensar que Hume era un simple
+    ---brillante--- sofista; y sus procedimientos son ciertamente sofísticos. Sin
+    embargo me veo forzada, no a retractarme, sino a añadir a este juicio por la
+    peculiaridad del filosofar de Hume: a saber, que aunque llega a sus
+    conclusiones ---con las que está enamorado--- por métodos sofísticos, sus
+    consideraciones constantemente abren problemas bien profundos e importantes.
+    Frecuentemente es el caso que en el acto de exhibir la sofística uno se
+    encuentra a sí mismo notando temas que merecen mucha exploración: lo obvio
+    queda necesitado de investigación como resultado de los puntos que Hume
+    pretende haber hecho.}
+#+END_SRC
 ** Fundamento de creencias más allá impresiones es una buena cuestión
+#+BEGIN_SRC latex
+  En el artículo \emph{Hume and Julius Caesar} la discusión que capta el interés
+  de Anscombe se encuentra en la sección IV de la tercera parte del \emph{Treatise
+  of Human Nature} sobre el tema de nuestro creer en cuestiones que están más allá
+  de nuestra experiencia y memoria. Anscombe cita el texto de Hume como sigue:
+
+  \blockquote[{\cite[86]{anscombe1981hjc}}When we infer effects from causes, we
+  must establish the existence of these causes\ldots either by an immediate
+  perception of our memory or senses, or by an inference from other causes; which
+  causes we must ascertain in the same manner either by a present impression, or
+  by an inference from their causes and so on, until we arrive at some object
+  which we see or remember. 'Tis impossible for us to carry on our inferences
+  \emph{in infinitum}, and the only thing that can stop them, is an impression of
+  the memory or senses, beyond which there is no room for doubt or enquiry.
+  (Selby-Bigge's edition, pp. 82--3)]{Cuando inferimos efectos partiendo de causas
+    debemos establecer la existencia de estas causas\ldots ya sea por la
+    percepción inmediata de nuestra memoria o sentidos, o por la inferencia
+    partiendo de otras causas; causas que debemos explicar de la misma manera por
+    una impresión presente, o por una inferencia partiendo de sus causas, y así
+    sucesivamente hasta que lleguemos a un objeto que vemos o recordamos. Es
+    imposible para nosotros proseguir en nuestras inferencias al infinito, y lo
+    único que puede detenerlas es una impresión de la memoria o los sentidos más
+    allá de la cual no existe espacio para la duda o indagación.}
+
+#+END_SRC
 ** Dos argumentos:
 *** relación causa-efecto puente hacia cuestiones más allá de impresiones
 When we infer effects from causes, we must establish the existence of these causes;
@@ -17,10 +96,32 @@ which we have only two ways of doing, either by an immediate perception of our m
 or senses, or by an inference from other causes; which causes again we must ascertain
 in the same manner, either by a present impression, or by an inference from their
 causes, and so on, till we arrive at some object, which we see or remember.
+#+BEGIN_SRC latex
+  Podemos identificar dos argumentaciones principales en este fragmento. En primer
+  lugar, describe el acceso a hechos más allá de nuestra experiencia como
+  inferencias de efectos desde sus causas.
+  \blockquote[{\cite[87]{anscombe1981hjc}}: For Hume, the relation of cause and
+  effect is the one bridge by which to reach belief in matters beyond our present
+  impressions or memories.]{Para Hume, la relación de causa y efecto es el único
+    puente por el que se puede alcanzar creer en cuestiones más allá de nuestras
+    impresiones presentes o memorias.}
+#+END_SRC
+
 *** no es posible continuar infinitamente una cadena de inferencias
 ’Tis impossible for us to carry on our inferences in infinitum; and the only thing,
 that can stop them, is an impression of the memory or senses, beyond which there is no
 room for doubt or enquiry.
+#+BEGIN_SRC latex
+  En segundo lugar, determina que estas inferencias no pueden continuar
+  infinitamente.
+
+  Now there really is no difficulty about going on ad infinitum, or at any rate
+  about saying ‘and so on ad infinitum’, if the ‘inferring’ is simply deriving the
+  idea of the effect from that of the cause. But the inferring is more than
+  that—it is believing. It is in connection with this that Hume is saying ‘this
+  chain can’t go on for ever’.
+
+#+END_SRC
 ** Ilustración: punto histórico, por qué razón lo creemos o rechazamos
 *** we believe that Caesar was killed
   To give an instance of this, we may chuse any point of history, and consider for what
@@ -46,6 +147,13 @@ room for doubt or enquiry.
 ***
 ** Conclusion:perception of records>belief distant event>chain of record
 ** Not just catching the mistake, but seeing what to say about this
+The interesting problem that arises, then, is why the things we are told and the
+writings that we see are the starting points for our belief in the far distant events
+and so in the intermediate chain of record. This is a question of vast importance. But
+the consideration of it would take us far away from that investigation of Hume on cause
+which has been our present business. I take it as sufficiently demonstrated that Hume’s
+account is wrong. (One may be convinced of that without thinking that one has an
+alternative account.)
 ** Wittgenstein: On Certainty
 
 
@@ -60,3 +168,8 @@ very certainty it tries to undermine.
 
 The hypothesis that Julius Caesar might turn out never to have existed can be rejected,
 once the details of that hypothesis have been demanded.
+* Prophecy and Miracles
+
+p. 37 Now what does this rest on? It might rest on faith. In Deuteronomy, when the Jews were
+forbidden to consult soothsayers and necromancers, and omens, they were promised
+prophets ‘like Moses’ whom they were to attend to instead.

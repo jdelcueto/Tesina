@@ -2,9 +2,17 @@
 # ------------------------------------------------------------------------------------
 # Santa Teresa Benedicta de la Cruz, ruega por nosotros
 
-* Valor epistemológico del testimonio
-
 #+BEGIN_SRC latex
+\section{Análisis Sincrónico}
+#+END_SRC
+
+
+* Valor epistemológico del testimonio
+#+BEGIN_SRC latex
+\subsection{Valor espistemológico del testimonio}
+#+END_SRC
+
+
       Anscombe recurre con regularidad a Hume, no para cogerlo en sus errores, sino
       porque toca el nervio de problemas con cierta profundidad, aún cuando la
       insuficiencia de los argumentos de Hume sea facilmente demonstrable: Hume and
@@ -24,7 +32,6 @@
   that"
 
 
-#+END_SRC
 
 Modern moral philosophy:
 [Hume's] considerations constantly open up very deep and important problems
