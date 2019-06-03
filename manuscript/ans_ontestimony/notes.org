@@ -59,11 +59,23 @@
   reported, even concerning apparitions, enchantments, and prodigies, however contrary
   to daily experience and observation
 ** Outline
-*** Topic: belief in matters outside our own experience and memory
-*** Argument:
-*** Ilustration: Caesar
-
-
+*** Intro
+**** Información de los artículos
+**** Actitud de Anscombe hacia Hume
+*** Planteamiento tema general:justificación creencias más allá de impresiones
+**** Presupuesto: Relación causa y efecto es el puente
+*** Ilustración: Una verdad histórica: asesinato del César
+*** Dos argumentos de Hume
+**** no es posible continuar una cadena de inferencias infinitamente
+**** el término de la cadena tiene que ser algo distinto
+*** Análisis de Anscombe: catching the mistake
+**** this is rather a cantilever (there is only one support)
+**** the inference ends up being purely hypotetical
+***** suppositious and hypothetical reasoning: if p,q; if q,r then s; if s, then t
+***** from it we could go the other direction: since...
+**** Four parts to Hume's thesis
+**** Conclusion: we infer q from p and not p from q
+**** Illustrating the conclusion: indentity and proper names
 ** Anscombe
 To my mind the interest of Hume lies primarily in the problems he consciously or
 unconsciously discovers to us. Here there is a problem unconsciously raised. For Hume
@@ -97,6 +109,9 @@ the consideration of it would take us far away from that investigation of Hume o
 which has been our present business. I take it as sufficiently demonstrated that Hume’s
 account is wrong. (One may be convinced of that without thinking that one has an
 alternative account.)
+
+
+
 
 That assertion can have the function or purpose ascribed to it by Anselm (see above, p.
 196)—i.e. that there can be such a thing as assertion—depends on the empirical fact,
