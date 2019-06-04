@@ -15,12 +15,13 @@ CPP I in 1981 p. 86-92
 \subsection{Hume and Julius Caesar}
 #+END_SRC
 ** Intro 1: este ensayo y los otros
+:TEXT:
 In the present volume the lengthy paper ‘Hume on causality: introductory’ is the matrix
 from which Anscombe extracted ‘Hume and Julius Caesar’ and ‘“Whatever has a beginning
 of existence must have a cause”: Hume’s Argument Exposed’.[2] It is published here as
 an example of the scrupulous and attentive study she devoted to major philosophers
 which is abundantly evident in her unpublished papers.
-
+:END:
 #+BEGIN_SRC latex
   Los artículos \emph{Hume and Julius Caesar} y \emph{``Whatever has a beginning
     of existence must have a cause'': Hume’s Argument Exposed} de Anscombe, fueron
@@ -29,7 +30,6 @@ which is abundantly evident in her unpublished papers.
   Hume. En el trasfondo de los dos artículos está otro documento no publicado
   hasta 2011 con el título \emph{Hume on causality: introductory}.
 #+END_SRC
-
 ** Intro 2: Hume es interesante porque abre buenas cuestiones
 #+BEGIN_SRC latex
   Una de las actitudes características de Anscombe es su tendencia a quedar
@@ -119,7 +119,6 @@ causes, and so on, till we arrive at some object, which we see or remember.
     causa y efecto es el único puente por el que se puede alcanzar creer en
     cuestiones más allá de nuestras impresiones presentes o memorias.}
 #+END_SRC
-
 ** Ilustración: punto histórico, por qué razón lo creemos o rechazamos
 *** we believe that Caesar was killed
 :TEXT:
@@ -144,18 +143,20 @@ causes, and so on, till we arrive at some object, which we see or remember.
   nor belief of a real existence.
 :END:
 #+BEGIN_SRC latex
-  El planteamiento que Hume establece ahora es que al realizar estas inferencias
-  es necesario establecer la existencia de las causas por medio de la percepción
-  inmediata de los sentidos o por medio de una ulterior inferencia, sin embargo,
-  el establecimiento de la existencia de estas causas no
+  El paso adicional que Hume propone en esta sección es que al realizar estas
+  inferencias es necesario establecer la existencia de las causas por medio de la
+  percepción inmediata de los sentidos o por medio de una ulterior inferencia, sin
+  embargo, el establecimiento de la existencia de estas causas por medio de
+  inferencias no puede continuar infinitamente, sino que tiene que llegar a una
+  impresión de la memoria o los sentidos que sirva de justificación o fundamento
+  definitivo.
 
-  Para ilustrar su propuesta Hume hace una invitación interesante:
+  Para ilustrar este paso, Hume hace una invitación interesante:
     \blockquote[{\cite[?]{humetreatise}}: chuse any point of history, and consider
     for what reason we either believe or reject it.]{elegir cualquier punto en la
       historia, y considerar por qué razón lo creemos o rechazamos.} Acerca de una
     creencia histórica se nos invita a considerar sobre qué se sostiene su
-    justificación. ¿Cuál es su fundamento? La opinión de Hume es que en definitiva
-    se apoyan sobre impresiones de nuestros sentidos. Así lo describe diciendo:
+    justificación. ¿Cuál es su fundamento?:
     \blockquote[{\cite[?]{humetratise}}: Thus we believe that Cæsar was kill’d in
     the senate-house on the ides of March; and that because this fact is establish’d
     on the unanimous testimony of historians, who agree to assign this precise time
@@ -186,35 +187,48 @@ causes, and so on, till we arrive at some object, which we see or remember.
       de fundamento.}
 #+END_SRC
 ** Catching Hume on his mistake
-
 *** it must be purely hypothetical inference
 #+BEGIN_SRC latex
-  La reacción de Anscombe a esta propuesta de Hume es inmediata:
+  Anscombe comienza por reaccionar afirmando:
   \blockquote[{\cite[86]{anscombe1981hjc}}: This is not to infer effects from
   causes, but rather causes from effects.]{Esto no es inferir efectos partiendo de
     sus causas, sino más bien causas desde los efectos.} Es decir, el ejemplo
   histórico de Hume consiste en una inferencia de la causa original, el asesinato
-  de Julio César desde su efecto remoto que es nuestra percepción en el presente
-  de ciertas letras que leemos.
-
+  de Julio César desde su efecto remoto que es nuestra percepción en el presente.
   Creemos en el asesinato del César porque lo inferimos como la causa última en
   una cadena causal terminando en nuestra percepción de ciertas oraciones que
   leemos. El hecho de que estemos leyendo esta información es la percepción que
   justifica la creencia de que hay una cadena de causas y efectos que culminan en
   esta experiencia.
 
+  Esta inferencia desde nuestra impresión presente hasta la causa orignal pasa a
+  través de una cadena de efectos de causas, que son efectos de causas\ldots
+  ¿Dónde empieza la cadena? La respuesta parece ser nuestra percepción presente.
 
-  Esta inferencia desde nuestra impresión presente
-  hasta la causa orignal pasa a través de una cadena de efectos de causas, que son
-  efectos de causas\ldots ¿Dónde empieza la cadena? ¿Puede decirse que es nuestra
-  percepción presente?
+  ¿Cómo hemos de entender, entonces, el argumento de que la cadena no puede
+  continuar infinitamente? La propuesta de Hume es que la cadena ha de terminar en
+  una impresión que no deje lugar a dudas o busqueda mas allá, sin embargo, la
+  cadena termina en el asesinato de Julio César, no en nuestra percepción. La
+  imagen que Hume pretende ofrecer es la de una cadena fijada en sus dos extremos
+  por algo distinto a los eslabones que la componen, sin embargo, no lo logra, más
+  bien parece describir un voladizo, una estructura apoyada en un punto, pero sin
+  apoyo en el otro extremo.
 
-  La imagen que Hume pretende ofrecer es la de una cadena fijada en sus dos
-  extremos por algo distinto a los eslabones que la componen
+  Anscombe aclara: cuando Hume dice que es imposible que continuemos las
+  inferencias infinitamente lo que está afirmando es que la justificación de la
+  base de nuestras inferencias no puede continuar infinitamente. En donde tenemos
+  cadenas de creencias creídas sobre la base de
 
-  sin embargo hume no lo logra, más bien parece describir un voladizo, una
-  estructura apoyada en un punto, pero
+  belief on grounds
+  believed on grounds
+  we must come to belief which we do not base on grounds
 
+
+
+  Para Hume la relación de causa y efecto es inferencialmente simétrica. Sería,
+  por tanto, más claro decir aquí que "cuando inferimos causas desde sus efectos,
+  hemos de establecer la existencia de estos efectos, sea por percepción o
+  inferencia desde otros efectos
 
   The picture is that of a chain which must be nailed by and to something
   different from the links of which it is composed. As the picture swims before
@@ -225,7 +239,6 @@ causes, and so on, till we arrive at some object, which we see or remember.
   cantilever would be more satisfying. And no doubt the supported structure in a
   cantilever construction could consist of
 
-
   we believe in the killing of Caesar in the Senate House because we infer it as
   ultimate cause in a chain of causality terminating in our perception of ‘certain
   characters and letters’. Waiving the question (to be considered later) whether
@@ -234,25 +247,20 @@ causes, and so on, till we arrive at some object, which we see or remember.
   because of our perception of sentences telling us of that event that we believe
   it.
 
-
   The end of the chain is the death of Caesar or the perception of it by
   eyewitnesses, not our perception; that was surely the beginning of the
   inference!
 
-  So after all there was reason to conceive the chain running the other
-  way.
+  So after all there was reason to conceive the chain running the other way.
 
   But then how do we justify the starting point?
 
-  Our charitable
-  reconstruction has misfired. We must suppose ourselves to start with the
-  familiar idea, merely as idea, of Caesar having been killed.
+  Our charitable reconstruction has misfired. We must suppose ourselves to start
+  with the familiar idea, merely as idea, of Caesar having been killed.
 
-  Now if we ask why
-  we believe it we shall, as Hume does, point to historical testimony (the
-  ‘characters and letters’), which doesn’t at this point figure as what stops
-  inference going on ad infinitum. However,
-
+  Now if we ask why we believe it we shall, as Hume does, point to historical
+  testimony (the ‘characters and letters’), which doesn’t at this point figure as
+  what stops inference going on ad infinitum. However,
 
   but we must reach a starting point in the justification of these inferences (and
   that starting point must be perception)
@@ -267,10 +275,6 @@ causes, and so on, till we arrive at some object, which we see or remember.
   arguments, or reasonings upon a supposition; there being in them, neither any
   present impression, nor belief of a real existence.
 
-
-
-
-
   We must suppose ourselves to start with the familiar idea, merely as idea, of
   Caesar having been killed. Now if we ask why we believe it we shall, as Hume
   does, point to historical testimony (the ‘characters and letters’), which
@@ -283,37 +287,42 @@ causes, and so on, till we arrive at some object, which we see or remember.
   the idea of the effect.
 #+END_SRC
 *** no es posible continuar infinitamente una cadena de inferencias
+:TEXT:
 ’Tis impossible for us to carry on our inferences in infinitum; and the only thing,
 that can stop them, is an impression of the memory or senses, beyond which there is no
 room for doubt or enquiry.
+:END:
 #+BEGIN_SRC latex
-His argument then falls into two parts.
+  El argumento de Hume, entonces, se compone de dos partes.
+  En primer lugar, una cadena de inferencia en la cual "ya que p, q, etc..."
+  en la que p da una causa creida (no percibida) y q un efecto inferido, no puede continuar
+para siempre, sino que tiene que terminar n
 
-  En segundo lugar, determina que estas inferencias no pueden continuar
-  infinitamente. Si se tratara de mera relación especulativa de conceptos no
-  representaría dificultad, pero se trata de creer, y la cadena no podría ofrecer
-  una creencia si no tiene término. \blockquote[{\cite[2762]{anscombe2011hoc}}:
-  Now there really is no difficulty about going on ad infinitum, or at any rate
-  about saying ‘and so on ad infinitum’, if the ‘inferring’ is simply deriving the
-  idea of the effect from that of the cause. But the inferring is more than that
-  ---it is believing. It is in connection with this that Hume is saying ‘this
-  chain can’t go on for ever’.]{Ahora realmente no hay dificultad en ir
-    infinitamente, o en cualquier caso decir `así sucesivamente infinitamente', si
-    el `inferir' es simplemente derivar la idea del efecto partiendo de su causa.
-    Pero el inferir es más que eso ---es creer. Es en conexión con esto que Hume
-    dice `esta cadena no puede seguir para siempre'}
+  Determina que estas inferencias no pueden continuar infinitamente. Si se tratara
+  de mera relación especulativa de conceptos no representaría dificultad, pero se
+  trata de creer, y la cadena no podría ofrecer una creencia si no tiene término.
+  \blockquote[{\cite[2762]{anscombe2011hoc}}: Now there really is no difficulty
+  about going on ad infinitum, or at any rate about saying ‘and so on ad
+  infinitum’, if the ‘inferring’ is simply deriving the idea of the effect from
+  that of the cause. But the inferring is more than that ---it is believing. It is
+  in connection with this that Hume is saying ‘this chain can’t go on for
+  ever’.]{Ahora realmente no hay dificultad en ir infinitamente, o en cualquier
+    caso decir `así sucesivamente infinitamente', si el `inferir' es simplemente
+    derivar la idea del efecto partiendo de su causa. Pero el inferir es más que
+    eso ---es creer. Es en conexión con esto que Hume dice `esta cadena no puede
+    seguir para siempre'}
 
-First, a chain ‘Since p, q, etc’ in which p gives a believed-in (not perceived)
-cause and q an inferred effect, cannot go on for ever but must terminate in a
-proposition that is believed without inferring any consequences from it; and
-from this proposition we then work back in reverse order to p.
+  First, a chain ‘Since p, q, etc’ in which p gives a believed-in (not perceived)
+  cause and q an inferred effect, cannot go on for ever but must terminate in a
+  proposition that is believed without inferring any consequences from it; and
+  from this proposition we then work back in reverse order to p.
 
-This is a particular form of a familiar argument that not everything can be
-argued from something else, that is: that it cannot be the case that everything
-is argued from something else. I believe p because I believe q because I believe
-r because I believe s ---this cannot go on for ever; it must end in something
-which I believe, not because I believe something else. This argument appears to
-be correct.
+  This is a particular form of a familiar argument that not everything can be
+  argued from something else, that is: that it cannot be the case that everything
+  is argued from something else. I believe p because I believe q because I believe
+  r because I believe s ---this cannot go on for ever; it must end in something
+  which I believe, not because I believe something else. This argument appears to
+  be correct.
 
 #+END_SRC
 *** el término de la cadena de inferencias no puede ser otra inferencia
