@@ -172,3 +172,52 @@ Hume and Julius Caesar 73 > Faith 75 > What is it to Believe Someone 79
 
 Parmenides Mystery and Contradiction 69 > On transubstantiation 74 > The Question of
 linguistic Idealism 76
+* Points
+
+semantic justification = justification that attaches to a correct use of language
+epistemic justification = justifiaction that attaches as such to telling the truth
+
+
+That these two kinds of justification are more closely related than might be thought is
+a theme that appears in some of Wittgenstein’s most searching and radical later
+writings, notably in Remarks on the Foundations of Mathematics and On Certainty.
+Wittgenstein invites us to view the rules governing the correct use of words as
+comparable to the rules governing the acceptance or rejection of beliefs (which are
+themselves of course paradigmatically expressed in words); a ‘world view’ is determined
+as much by our language and its attendant conceptual scheme as by what we would
+ordinarily term our knowledge of things.
+
+
+
+immovable foundations
+world-picture
+
+hinge propositions
+
+
+in a world-view to believe is not to surmise
+in a religious belief to believe is not to surmise
+a world-view and a religious belief are not the same
+
+
+In grounds of belief she makes a distintion between tradition or common knowledge and
+testimony, arguing that things justified on being thaught are justified on something
+thicker than testimony. Tradition or common knowledge is described by her as being
+thaught to join in doing something, not to believe something. But because everyone is
+taught to do such things, an object of belief is generated. The belief is so certainly
+correct (for it follows the practice) that it is knowledge.
+_Here knowledge is no other than certainly correct belief in pursuit of a practice. But
+the connection with testimony is remote and indirect._
+
+
+What is it to believe someone ends with the problem about the priority of rightness and
+truthfulness, this connects with the idea of anselm and anscombe that a true
+proposition is doing what it ought
+
+teichmann touches this in p 223
+
+That assertion can have the function or purpose ascribed to it by Anselm (see above, p.
+196)—i.e. that there can be such a thing as assertion—depends on the empirical fact,
+among others, that people don’t generally reject their earlier assertions as unfounded.
+It is ‘by favour of Nature’ that assertion and knowledge are possible (On Certainty,
+para. 505); for Anselm and for Anscombe, it is (also) by the grace of God.
