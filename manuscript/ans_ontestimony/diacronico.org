@@ -32,35 +32,41 @@ which is abundantly evident in her unpublished papers.
 #+END_SRC
 ** Intro 2: Hume es interesante porque abre buenas cuestiones
 #+BEGIN_SRC latex
-  Una de las actitudes características de Anscombe es su tendencia a quedar
-  atraída por preguntas que representan cuestiones profundas, incluso en
-  discusiones cuyos argumentos, método o conclusiones no le parecen tan
-  interesantes.
+  Anscombe again and again found in Hume a starting point for her discussions; and
+  we must not be misled bye her frequent dissent from his views into thinking of
+  her as `anti-Humean'. Indeed, in her treatment of the topic of causation
+  Anscombe can even be seen as continuing Hume's work---as out-Huming Hume.
+  teichmann 177
 
-  Un autor que suele tener este efecto en ella es Hume. En \emph{Modern Moral
-    Philosophy} dice:
+    Una de las actitudes características de Anscombe es su tendencia a quedar
+    atraída por preguntas que representan cuestiones profundas, incluso en
+    discusiones cuyos argumentos, método o conclusiones no le parecen tan
+    interesantes.
 
-  \blockquote[{\cite[172]{anscombe1981mmph}}: The features of Hume’s philosophy
-  which I have mentioned, like many other features of it, would incline me to
-  think that Hume was a mere ---brilliant--— sophist; and his procedures are
-  certainly sophistical. But I am forced, not to reverse, but to add to this
-  judgement by a peculiarity of Hume’s philosophizing: namely that, although he
-  reaches his conclusions --—with which he is in love--— by sophistical methods,
-  his considerations constantly open up very deep and important problems. It is
-  often the case that in the act of exhibiting the sophistry one finds oneself
-  noticing matters which deserve a lot of exploring: the obvious stands in need of
-  investigation as a result of the points that Hume pretends to have made.]{Las
-    características de la filosofía de Hume que he mencionado, como muchas otras
-    de sus características, me hacen inclinarme a pensar que Hume era un simple
-    ---brillante--- sofista; y sus procedimientos son ciertamente sofísticos. Sin
-    embargo me veo forzada, no a retractarme, sino a añadir a este juicio por la
-    peculiaridad del filosofar de Hume: a saber, que aunque llega a sus
-    conclusiones ---con las que está enamorado--- por métodos sofísticos, sus
-    consideraciones constantemente abren problemas bien profundos e importantes.
-    Frecuentemente es el caso que en el acto de exhibir la sofística uno se
-    encuentra a sí mismo notando temas que merecen mucha exploración: lo obvio
-    queda necesitado de investigación como resultado de los puntos que Hume
-    pretende haber hecho.}
+    Un autor que suele tener este efecto en ella es Hume. En \emph{Modern Moral
+      Philosophy} dice:
+
+    \blockquote[{\cite[172]{anscombe1981mmph}}: The features of Hume’s philosophy
+    which I have mentioned, like many other features of it, would incline me to
+    think that Hume was a mere ---brilliant--— sophist; and his procedures are
+    certainly sophistical. But I am forced, not to reverse, but to add to this
+    judgement by a peculiarity of Hume’s philosophizing: namely that, although he
+    reaches his conclusions --—with which he is in love--— by sophistical methods,
+    his considerations constantly open up very deep and important problems. It is
+    often the case that in the act of exhibiting the sophistry one finds oneself
+    noticing matters which deserve a lot of exploring: the obvious stands in need of
+    investigation as a result of the points that Hume pretends to have made.]{Las
+      características de la filosofía de Hume que he mencionado, como muchas otras
+      de sus características, me hacen inclinarme a pensar que Hume era un simple
+      ---brillante--- sofista; y sus procedimientos son ciertamente sofísticos. Sin
+      embargo me veo forzada, no a retractarme, sino a añadir a este juicio por la
+      peculiaridad del filosofar de Hume: a saber, que aunque llega a sus
+      conclusiones ---con las que está enamorado--- por métodos sofísticos, sus
+      consideraciones constantemente abren problemas bien profundos e importantes.
+      Frecuentemente es el caso que en el acto de exhibir la sofística uno se
+      encuentra a sí mismo notando temas que merecen mucha exploración: lo obvio
+      queda necesitado de investigación como resultado de los puntos que Hume
+      pretende haber hecho.}
 #+END_SRC
 ** Fundamento de creencias más allá impresiones es una buena cuestión
 #+BEGIN_SRC latex
@@ -564,6 +570,18 @@ once the details of that hypothesis have been demanded.
 
 * Prophecy and Miracles
 
-p. 37 Now what does this rest on? It might rest on faith. In Deuteronomy, when the Jews were
-forbidden to consult soothsayers and necromancers, and omens, they were promised
+So far as I can see there has to be a *thesis of natural theology*, as I might call it,
+that if someone works ‘a sign and a wonder’ or utters a prophecy which gets fulfilled,
+in God’s name, then he is divinely attested. Now what does this rest on? It might rest
+on faith. In Deuteronomy, when the Jews were forbidden to consult soothsayers and
+necromancers, and omens, they were promised prophets ‘like Moses’ whom they were to
+attend to instead. But, the passage goes on, they’ll want to know how to tell a
+prophet. And the answer is: if the prophet foretells something, and it doesn’t happen,
+then that was just his presumption. The implication seems to be that if a prophet of
+their people, apparently teaching according to the Law, foretells something and it does
+happen, he is attested.
+
+
+p. 37 Now what does this rest on? It might rest on faith. In Deuteronomy, when the Jews
+were forbidden to consult soothsayers and necromancers, and omens, they were promised
 prophets ‘like Moses’ whom they were to attend to instead.

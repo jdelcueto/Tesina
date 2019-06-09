@@ -1,0 +1,183 @@
+* Quaestio 1: Epistemology of testimony
+** On Certainty of beliefs: common knowledge and tradition
+- Es dificil caracterizar la solidez peculiar o los límites que pueda tener un
+  conocimiento que cuenta en nuestra cultura con el grado de certeza que tiene el
+  conocimiento común. (Como el punto histórico Julio Cesar)
+- Una creencia fundada que puede ser considerada como premisa para un argumento,
+  presupone una creencia no fundada o cuyo fundamento no es considerado como tal (la
+  justificación de los fundamentos de nuestras inferencias no pueden continuar al
+  infinito)
+  + Hume diría que el fundamento no fundado que sirve como base última para una
+    creencia es una impresión de los sentidos
+  + Anscombe diría que sirven como fundamento último las creencias que cuentan en
+    nuestra cultura con el peculiar grado de certeza que tiene el conocimiento común o
+    la tradición
+- Qué podría derrotar este tipo de conocimiento? Una hipótesis cualquiera no es
+  suficiente
+- Poner en duda sin más este tipo de creencias nos situan desde una actitud que nos
+  impide el discurso
+- El conocimiento que tenemos por formar parte de una tradición no es conocimiento por
+  testimonio
+  + Es más bien como si me hubieran enseñado a unirme en hacer algo, más que en creer
+    algo --- pero puesto que a todos se les enseña a hacer este tipo de cosas, un
+    objeto de creer es generado. El creer es tan ciertamente correcto (puesto que sigue
+    la práctica) que es conocimiento; pues aquí conocimiento no es otra cosa que
+    creencia ciertamente correcta en el seguimiento de una práctica. Pero la conexión
+    con el testimonio es remota e indirecta.
+- Síntesis :: El hecho de que empleamos creencias como premisas para nuestros
+              argumentos presupone que hay fundamentos últimos que las justifican. Esos
+              fundamentos últimos son creencias que componen una estructura dentro de
+              nuestra tradición. Estas creencias comunes no son derrotadas por
+              cualquier tipo de hipótesis, y ponerlas en duda nos situa en una actitud
+              esceptica que impide el razonamiento, puesto que la razón epistemológica
+              de dudar de esta creencia será razón para dudar de todas las
+              alternativas. Es dificil caracterizar la solidez y los límites de estas
+              creencias. Consisten en definitiva en formar parte d una actividad.
+              Decir que conozco esto que todo el mundo sabe en mi cultura, es decir que
+              se hacer algo que mi cultura o tradición enseña. El conocimiento entonces
+              consiste en creencia correcta y con certeza en la consecución de una
+              práctica.
+*** Hume on Causality 70s
+*** Hume and Juluis Caesar 1973
+**** sofisma
+**** cuestión interesante
+ ¿por qué las cosas que se nos dicen y los escritos que vemos son puntos de partida
+ para nuestro creer en eventos distantes y así también en la cadena del relato
+ intermedia?
+
+Es bien difícil caracterizar la solidez peculiar [relacionada con un conocimiento que
+cuenta con este grado de certeza] o sus límites
+conocemos sobre César por el testimonio de los antiguos historiadores y hasta tenemos
+sus propios escritos
+y cómo sabes *eso*, que esos son historiadores antiguos y estos escritos de Julio
+Cesar?
+te lo dijeron.
+y como lo saben tus maestros?
+se lo dijeron
+
+Lo sabemos porque nos han enseñado
+no solo por enseñanza explícita,
+sino por estar implicito en mucho que se nos ha enseñado explicitamente.
+Pero es bien dificil ...
+es dificil caracterizar la solidez peculiar o los limites que pueda tener
+una enseñanza transmitida con el status logico tan  particular
+con un particular status lógico de un tipo de certeza
+*** Grounds of Belief (typescript: unpublished-undated)
+** On believing God
+- The catholic christian faith is rational
+- It's rationality was attached to what was called preambles of faith and to the
+  passage from them to faith itself
+- Both preambles and passage from them to faith were dreamed up based on prejudices
+  about what it is to be reasonable in holding a belief
+- The right designation would be presuppositions:
+  + These presuppositions are convictions or assumptions that you logically have when
+    you say you believe someone
+  + There is a sense in which these are not themselves part of the content of what is
+    believed by faith
+- What can it mean to believe God? Here is the peculiar difficulty of faith: it is not
+  clear what it can mean for God to speak
+- Here 'God' is taken as a definite description meaning the one and only true god
+- Entonces se puede decir que la suposición de que alguien tiene fe consiste es suponer
+  que cree que algo ---ya sea una voz, o algo que se le ha enseñado--- viene como
+  palabra de Dios.
+- Fe es entonces la creencia que le otorga a esa palabra
+- Un ateo puede entender esto, aunque su actitud sea contraria ante este fenómeno
+- El cristiano añade que este tipo de creencia es en ocasiones la verdad y que la
+  creencia consecuente es solo entonces lo que para él significa fe
+- La presuposición, por tanto, es la creencia de que un conocimiento o experiencia es
+  creer a Dios que se comunica
+*** Faith 1975
+** On believing someone
+- Un productor inmediato, que puede ser un mensajero o un interprete, ofrece lo que
+  puede entenderse o declara poder ser entendido como una comunicación de NN.
+- El receptor de esta comunicación estará en la situación de preguntarse si creer o
+  dudar de NN si:
+  + Nota la comunicación
+  + Toma la comunicación como lenguaje
+  + Toma la comunicación como dirigda a él
+  + Interpreta la comunicación correctamente
+  + Cree que viene de NN
+
+- Presuponiendo que X notó la comunicación, la tomó como lenguaje y como dirigida a él,
+  la interpretó correctamente y cree que viene de NN; afirmar que X cree a NN es decir
+  que X confia en NN acerca de la verdad de este asunto particular.
+
+- Presuponiendo que X notó la comunicación, la tomó como lenguaje y como dirigida a él,
+  la interpretó correctamente y cree que viene de NN; afirmar que X duda de NN es decir
+  que X duda (suspende el juicio ante) de NN acerca de la verdad de este asunto
+  particular.
+
+- Si los presupuestos no se dan, no se puede decir que X cree o duda de NN, sino que
+  falló en creer, o no llego a estar en la situación de preguntarse si creer a NN o
+  dudar de él.
+
+*** What is it... 1979
+* Quaestio 2: on God's attestation
+- Preamble, before considering Lessing's central argument
+- His argument boils down to: 'But these things may not be true, so how can I use them
+  to support Christianity?'
+- Miracles and fulfilled prophecies are said to offer solid external arguments for the
+  truth of christianity, but isn't there a theological element in calling something a
+  fulfilled prophecy or miracle?
+- Lessing seems right in saying that the reports of miracles could not be expected to
+  appeal to an external judge
+- Lessing seems to be wrong in saying that 'no historical certainty can be strong enough
+  to be absolute'
+  + If it is strength of certainty that is really in question
+    - it is not true that historical certainty is always too weak to base absolute
+      certainty upon it
+      + Probability may come in regarding an historical truth, but it doesn't begin to
+        come in at the start
+      + Anscombe objects to Lessing's lumping together everything historical as of
+        inferior certainty to our own experience
+    - That Christ claimed to be the Son of God and that he rose from the dead belongs
+      to a class of historical assertions which it would be absurd to claim certainty
+      for, but the time for disproving which is past.
+    - What would be solid in this fashion is that Christ existed, preached, like an Old
+      Testament prophet, and was at least ostensibly crucified under Roman authority;
+      and that believers took him for the Messiah and the son of God, and believed he
+      had risen from the dead
+  + If we stick to things that are solid, and avoid what may be regarded as accidential
+  + Lessing disputes priority and certainty
+- The critical principle that prophetical wriings must have been clealy intelligible in
+  their own time is itself a denial of the possibility of all but prophecy of a very
+  restricted type
+  + That is to say: for almost all prophecies, to see them fulfilled is to interpret
+    them
+- Prophecies must attest something
+- If all this is so, the impartial indifferent observer is confronted quite certainly
+  only with a few scattered prophecies relating to cities and peoples; and with reports
+  of miracles and of fulfilments of prophecies which it is absurd to pretend he must
+  regard as certainly true.
+  - So what becomes of the 'solid external arguments'?
+- Only if a man is impressed by the Old Testament, to the extent of being inclined to
+  take it as his teacher, has the argument from prophecies and miracles any serious
+  weight.
+- When St. Agustine said that fulfilment of the prophecies in Christ was the greates
+  proof of his divinity, what he said was true; but the proof requires a very special
+  position on the part of someone who is to consider it.
+  - This is why the kind of apologetic that Lessing argued against, which did not
+    assume that position, was so vulnerable and stupid.
+- The miracles are consonant, That God attested Christ by miracles is possible, if he
+  is the Messiah promised in the Old Testament.
+  - The problem about how these seemingly factual records came to be written, of such
+    incredible things, is resolved by the hypothesis that they happened.
+- With this we come to the problem of the notion of divine attestation at all.
+  - There has to be a thesis of natural theology, that if someone works 'a sign and a
+    wonder' or utters a prophecy which gets fulfilled, in God's name, then he is
+    divinely attested.
+  - This might be taken as a matter of faith, but then, what about the 'solid external
+    arguments'?
+  - I think the argument must be rather that if a prophet who is apparently teaching
+    that truth, dares to foretell something contingent, then this is presumption of him
+    unless he has it from God and must say it. Now if he teaches a lie straight away
+    afterwards, or if the thing does not happen, then he is proved presumptuous. But if
+    he is not proved presumptuous, then we ought not to dare not to believe and obey
+    him: so long as what he says does not conflict with the known truth.
+** Prophecy and miracles (prob. 1957)
+** Hume: on miracles (undated and unpublished)
+* Quaestio 3: Mystery and nonsense
+
+** Parmenides, Mystery and contradiction 69
+** On transubstantiation 74
+** The Question of linguistic Idealism 76

@@ -309,8 +309,8 @@ de p el car
   premisas y su relación lógica.
 
   En su investigación titulada \emph{What is it to believe someone?} Anscombe
-  comienza describiendo otro escenario basado en el mismo argumento, situándose así
-  en una situación que plantea la misma dificultad; también en el creer a alguien
+  comienza describiendo otro escenario basado en el mismo argumento, proponiendo así
+  una situación que plantea la misma dificultad; también en el creer a alguien
   el fundamento para la combinación de las premisas en un juicio razonable parece
   estar más allá de las mismas premisas y sus relaciones. En esta ocasión cada
   premisa aparece atribuida a una persona distinta y la conclusión a un cuarto
@@ -875,7 +875,7 @@ this is crazy because in absence of any indication from A, he should not be assu
 believe what he said at first, although it can't be ruled out that he still does think
 that way
 
-it is crazy because D can't be telling the true when he says i beleve you all
+it is crazy because D can't be telling the truth when he says i beleve you all
 A shows no sign to still believe what b has cast doubt on
 
 to believe N one must beleve that N himself believes what he is saying
