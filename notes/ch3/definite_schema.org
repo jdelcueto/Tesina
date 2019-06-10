@@ -175,6 +175,37 @@ con un particular status lógico de un tipo de certeza
     he is not proved presumptuous, then we ought not to dare not to believe and obey
     him: so long as what he says does not conflict with the known truth.
 ** Prophecy and miracles (prob. 1957)
+- Hay varias objeciones en contra del ensayo de Hume sobre los milagros:
+  1. Se mueve entre diversas definiciones de milagro
+  2. La primera definición es cuestionable
+  3. Incluso absurda, se auto-derrota
+  4. El objetivo de Hume es obtener que el carácter milagroso de un evento sea razón
+     suficiente para descartar la historia de que ocurrió sin tener que recurrir a otra
+     evidencia
+  5. Se equivoca al describir el rol del testimonio en el conocimiento humano. El
+     informe de un hecho al que no se le corresponde una experiencia mia no implica
+     necesariamente un grado de seguridad en contra del hecho que el testigo me narra.
+     Esto porque la justificación de la creencia en el testimonio no es inferida de la
+     relación causa-efecto
+  6. Es incosistente con su propia filosofía
+  7. Según su propia descripción del creer, creer en milagros es algo que no puede
+     pasar
+- Además de estas objeciones Anscombe encuentra algo adicional que decir
+- El principio para rechazar todo testimonio de milagros es
+
+el hecho que el testimonio intenta establecer, si tiene que ver con algo
+extraordinario, en ese caso la evidencia, resultante del testimonio, admite una
+disminución, mayor o menor, en proporción a si el dato más o menos inusual
+
+concluye, en consecusión con este principio, que ha de rechazarse todo testimonio de
+milagros, ya que ninguno es suficiente para establecer un milagro, excepto si su
+falsedad fuera más milagrosa que el hecho que se esfuerza por establecer
+
+
+
+es fácilmente verificable por teoría de probabilidad cuál es el verdadero estado del
+caso:
+
 ** Hume: on miracles (undated and unpublished)
 * Quaestio 3: Mystery and nonsense
 
