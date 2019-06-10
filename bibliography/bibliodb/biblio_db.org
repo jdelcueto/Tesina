@@ -1117,7 +1117,17 @@ keywords = "lessing, philosophy",
 }
 #+END_SRC
 
-
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@book{conesa1994cc,
+author = "Francisco Conesa",
+title = "Creer y Conocer",
+subtitle = "El Valor Cognoscitivo de la Fe en la Filosofía Analítica",
+publisher = "EUNSA",
+location = "Navarra",
+year = "1994",
+keywords = "conesa, analítica",
+}
+#+END_SRC
 * Magisterio
 ** Lumen Fidei
 #+BEGIN_SRC bibtex :tangle secondary.bib
