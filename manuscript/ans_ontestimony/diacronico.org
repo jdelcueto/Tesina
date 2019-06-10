@@ -6,6 +6,264 @@
 \section{Análisis Diacrónico}
 #+END_SRC
 
+* Prophecy and Miracles 1957
+#+BEGIN_SRC latex
+\subsection{Prophecy and Miracles}
+#+END_SRC
+
+#+BEGIN_SRC latex
+  El texto de \emph{Prophecy and Miracles} ha sido publicado en \emph{Faith in a
+    Hard Ground} de la colección de St. Andrew's. Con mucha probabilidad es el
+  texto de una ponencia ofrecida en 1957 en el \emph{Philosophical Enquiry Group}
+  que solía reunirse en el Centro de Conferencias de los Dominicos en \emph{Spode
+    House, Staffordshire}.
+#+END_SRC
+#+BEGIN_SRC latex
+  Anscombe especifica las coordenadas de su discusión en torno a tres documentos:
+  \begin{enumerate}
+  \item La constitución dogmática \enquote{Dei Filius}, específicamente el
+    capítulo tercero donde afirma: \blockquote[Ut nihilominus fidei nostrae
+    obsequium rationi consentaneum esset, voluit Deus cum internis Spiritus Sancti
+    auxiliis externa iungi revelationis suae argumenta, facta scilicet divina,
+    atque imprimis miracula et prophetias, quae cum Dei omnipotentiarn et
+    infinitam scientiam luculenter commonstrent, divinae revelationis signa sunt
+    certissima et omnium intelligentiae accommodata. Quare tum Moyses et
+    Prophetae, tum ipse maxime Christus Dominus multa et manifestissima miracula
+    et prophetias ediderunt; et de Apostolis legimus: Illi autem profecti
+    praedicaverunt ubique, domino cooperante, et sermonem confirmante, sequentibus
+    signis (Mare. XVI, 20). Et rursum scriptum est: Habemus firmiorem propheticum
+    sermonem, cui bene facitis attendentes quasi lucernae lucenti in caliginoso
+    loco (2 Petr. I, 19).]{Sin embargo, para que el obsequio de nuestra fe sea de
+      acuerdo a la razón, quiso Dios que a la asistencia interna del Espíritu
+      Santo estén unidas indicaciones externas de su revelación, esto es, hechos
+      divinos y, ante todo, milagros y profecías, que, mostrando claramente la
+      omnipotencia y conocimiento infinito de Dios, son signos ciertísimos de la
+      revelación y son adecuados al entendimiento de todos. Por eso Moisés y los
+      profetas, y especialmente el mismo Cristo Nuestro Señor, obraron muchos
+      milagros absolutamente claros y pronunciaron profecías; y de los apóstoles
+      leemos: <<Salieron a predicar por todas partes, colaborando el Señor con
+      ellos y confirmando la Palabra con las señales que la acompañaban>>. Y
+      nuevamente está escrito: <<Tenemos una palabra profética más firme, a la
+      cual hacéis bien en prestar atención, como a lámparas que iluminan en lugar
+      oscuro>>.}
+  \item La advertencia del Deuteronomio: \blockquote{Todo lo que yo os mando, lo
+      debéis observar y cumplir; no añadirás ni suprimirás nada. Si surge en medio
+      de ti un profeta o un visionario soñador y te propone: \enquote{Vamos en pos
+        de otros dioses ---que no conoces--- y sirvámoslos}, aunque te anuncie una
+      señal o un prodigio y se cumpla la señal o el prodigio, no has de escuchar
+      las palabras de ese profeta o visionario soñador. (Dt 13, 1--4a)}
+  \item \emph{On the proof of the spirit and of Power} de Lessing. Del cual
+    considera varios puntos, pero se enfoca en su argumento central:
+    \blockquote[Who denies it ---I do not--- that the reports of those miracles
+    and prophecies are just as trustworthy as any historical truth can be? ---But
+    now: if they are only so trustworthy, why are they so used as suddenly to make
+    them infinitely more trustworthy? How? By building quite different things, and
+    more things, on them, than one is entitled to build on historically evidenced
+    truths. If no historical truth can be demonstrated, then neither can anything
+    be demonstrated by historical truths. That is: accidental historical truths
+    can never become the proof of necessary truths of reason.]{}
+  \end{enumerate}
+
+  En éste documento afirma: \enquote{It is one thing to experience the fulfilment
+    of prophecy; fulfilled prophecies of which I know only as a matter of history
+    that others are supposed to have experienced them, are quite another thing.}
+  Junto a esto añade: \enquote{Those that take place before my own eyes have their
+    effect in an immediate way; the others are supposed to have their effect
+    through a medium that deprives them of all power.}
+
+  We all believe that there was such a person as Alexander, who conquered almost
+  all Asia in a short time. But who would stake something of great and permanent
+  importance, whose loss was irreplaceable, on this belief? Who, in consequence of
+  this belief, would forswear for ever all knowledge that should concflict with
+  it? Certainly I should not. I have at present nothing to object against
+  Alexander and his conquests; but it would after all be possible that they were
+  founded on a mere poem of Choerilus who accompanied Alexander, just as the ten
+  year siege of Troy is founded on nothing but Homer.
+
+  That Christ, against whose resurrection I have no significant historical
+  objection, gave himself out as the son of God on account of it; that his
+  disciples believed he was that on account of it; this I readily believe. For
+  these truths, as truths of one and the same class, follow quite naturally one
+  from the other.
+  But now, leap from that historical truth to a quite different class of truths,
+  and to demand of me that I should transform all my metaphysical and moral
+  concepts accordingly; to expect me, because I can set no trustworthy evidence
+  against the resurrection of Christ, to alter all my fundamental ideas of the
+  deity---if that is not metabasis eis allo genos then I don't know what Aristotle
+  meant by that term.
+  Of course, you say: this Christ, who rose from the dead---which you admit as an
+  historical fact---this Christ said that God had a son of the same nature as
+  himself and that he was that son.---Splendid! If only the fact Christ said this
+  were not equally merely historically certain.
+
+  The most central part of his argument comes in the following passage:
+
+  El argumento de Lessing en este ensayo es más complicado de lo que parece.
+  Anscombe distingue varios puntos.
+
+  1. Puede parecer extraño que emplee el dato de que podríamos haber sabido de
+  Alejandro Magno solo por el poema de Coerilio para justificar que no podemos
+  basar nada con certeza perfecta en la existencia de Alejandro, pero hay dos
+  razónes para esta afirmación.
+
+  a) Puede que aquí haya una alusión al hecho de que
+  sabemos de las palabras y obras de Cristo por medio de una única fuente, el
+  Nuevo Testamento. Cierto es que son múltiples libros, pero se sostiene su punto
+  dado que está escrito por miembros de un grupo específico.
+
+  b) El motivo principal se hace claro cuando habla de las accidentales verdades
+  históricas como no pudiendo ser justificación para verdades necesarias de razón
+
+  el piensa que una verdad necesaria de razón, una verdad metafísica, y una verdad
+  tal, como una verdad matemática no puede seguirse de un hecho histórico, si esto
+  fuera así, la verdad histórica debería ser tant cierta como se supone que sea
+  una verdad metafísica, pero una verdad histórica puede tener muy poca certeza,
+  como lo sería alexander, si solo conocieramos de él por el poema de Coerilio
+
+
+  Pienso que no merece nuestra atención, puesto que el supuesto de que cualquier
+  cosa creíble sobre Dios tiene que ser \enquote{una verdad de razón en tanto que
+    necesaria} es peor que dudoso; es incoherente. Esto posiblemente deriva de
+  nociones Leibnizianas de \enquote{ser necesario}, lo que espero que podamos
+  considerar como hecho explosión: y esto va con la idea de Lessing, que se ha
+  tornado tan difundida, que las verdades de la religión tienen todas que ser
+  tales que la raza humana podría al final haberlas pensado por sí misma.
+
+  2. Desde la perspectiva de la Constitución de Vaticano I, la insistencia de
+  Lessing de que las verdades históricas nunca pueden ser suficientemente certeras
+  puede se poco importante.
+
+  No hay nada en él acerca de una demostración de la verdad del cristianismo; solo
+  sobre argumentos externos solidos
+
+  estos solidos argumentos externos no pretenden demostrar,
+
+  por tanto, alta probabilidad, que Lessing está dispuesto a conceder, puede ser
+  suficiente para constituir solidos argumentos externos
+
+  desde luego que Lessing no estaría de acuerdo con un argumento meramente
+  probable para verdades necesarias
+
+  sin embargo sí sería un problema respecto de la fe, que debería de ser cierta,
+  si sus fundamentos son como mucho probables, qué excusa podría tener entonces?
+  Esto haría de los fundamentos probables algo irrelevante
+
+  Podriamos entenderlo así,
+  una persona puede tener lo que le resultan fundamentos probables, y abrazar la
+  fe cristiana, y luego descubrir que sus fundamentos no eran más que argumentos
+  débiles y errores históricos, sin embargo, se supone que se abrace a la fe
+  igualmente, así sus fundamentos solo fueron la escalera que pateó al subir,
+  importante solo psicologicamente....
+  seria un error pensar que una escalera como esta conduce correctamente a la fe,
+  excepto si cualquier escalera bastara.
+  parece que sí hay algo en la afirmación de lessing de sobre construir cosas
+  sobre verdades históricas sobre las cuales uno no tiene el derecho de construir,
+  y esto permanece, incluso cuando se descarte su visión de que cualquier cosa
+  creida sobre Dios debe ser una verdad necesaria.
+
+  3. Su posición es ciertamente incompatible con el creer cristiano
+  parece estar yendo en contra de cierto argumento, no contra las creencia
+  crisitanas
+  como diciendo, si las sostienes es por otros fundamentos y no estos
+
+  Distingue entre la religión de Cristo y la religión cristiana
+  distingue lo difuso de lo claro, lo difuso corresponde a la religión cristiana,
+  lo claro a la relgión de Cristo,
+  él mismo emplea la analogía entre religión y verdades matemáticas: que
+  importaría si, históricamente, algún procedimiento fraudulento condujo a una
+  verdad matemática
+
+  4. La prueba de poder y de fuerza es en milagros y profecias contemporaneas
+  Lessing exagera grandemente la certeza que Origenes puede haber tenido sobre
+  estas. Aquí es útil ser católico, pues los católicos no dicen como otros que no
+  hay milagros ya,
+  tanto antes como ahora los no creyentes reaccionaban a los milagros con la misma
+  incredulidad que ahora.
+  Pero quizas todo esto es para servir al argumento y Lessing era de hecho
+  bastante esceptico hacia todos los milagros y profecías, no lo sé
+#+END_SRC
+
+
+- Preamble, before considering Lessing's central argument
+
+- His argument boils down to: 'But these things may not be true, so how can I use them
+  to support Christianity?'
+- Miracles and fulfilled prophecies are said to offer solid external arguments for the
+  truth of christianity, but isn't there a theological element in calling something a
+  fulfilled prophecy or miracle?
+- Lessing seems right in saying that the reports of miracles could not be expected to
+  appeal to an external judge
+- Lessing seems to be wrong in saying that 'no historical certainty can be strong enough
+  to be absolute'
+  + If it is strength of certainty that is really in question
+    - it is not true that historical certainty is always too weak to base absolute
+      certainty upon it
+      + Probability may come in regarding an historical truth, but it doesn't begin to
+        come in at the start
+      + Anscombe objects to Lessing's lumping together everything historical as of
+        inferior certainty to our own experience
+    - That Christ claimed to be the Son of God and that he rose from the dead belongs
+      to a class of historical assertions which it would be absurd to claim certainty
+      for, but the time for disproving which is past.
+    - What would be solid in this fashion is that Christ existed, preached, like an Old
+      Testament prophet, and was at least ostensibly crucified under Roman authority;
+      and that believers took him for the Messiah and the son of God, and believed he
+      had risen from the dead
+  + If we stick to things that are solid, and avoid what may be regarded as accidential
+  + Lessing disputes priority and certainty
+- The critical principle that prophetical wriings must have been clealy intelligible in
+  their own time is itself a denial of the possibility of all but prophecy of a very
+  restricted type
+  + That is to say: for almost all prophecies, to see them fulfilled is to interpret
+    them
+- Prophecies must attest something
+- If all this is so, the impartial indifferent observer is confronted quite certainly
+  only with a few scattered prophecies relating to cities and peoples; and with reports
+  of miracles and of fulfilments of prophecies which it is absurd to pretend he must
+  regard as certainly true.
+  - So what becomes of the 'solid external arguments'?
+- Only if a man is impressed by the Old Testament, to the extent of being inclined to
+  take it as his teacher, has the argument from prophecies and miracles any serious
+  weight.
+- When St. Agustine said that fulfilment of the prophecies in Christ was the greates
+  proof of his divinity, what he said was true; but the proof requires a very special
+  position on the part of someone who is to consider it.
+  - This is why the kind of apologetic that Lessing argued against, which did not
+    assume that position, was so vulnerable and stupid.
+- The miracles are consonant, That God attested Christ by miracles is possible, if he
+  is the Messiah promised in the Old Testament.
+  - The problem about how these seemingly factual records came to be written, of such
+    incredible things, is resolved by the hypothesis that they happened.
+- With this we come to the problem of the notion of divine attestation at all.
+  - There has to be a thesis of natural theology, that if someone works 'a sign and a
+    wonder' or utters a prophecy which gets fulfilled, in God's name, then he is
+    divinely attested.
+  - This might be taken as a matter of faith, but then, what about the 'solid external
+    arguments'?
+  - I think the argument must be rather that if a prophet who is apparently teaching
+    that truth, dares to foretell something contingent, then this is presumption of him
+    unless he has it from God and must say it. Now if he teaches a lie straight away
+    afterwards, or if the thing does not happen, then he is proved presumptuous. But if
+    he is not proved presumptuous, then we ought not to dare not to believe and obey
+    him: so long as what he says does not conflict with the known truth.
+
+
+So far as I can see there has to be a *thesis of natural theology*, as I might call it,
+that if someone works ‘a sign and a wonder’ or utters a prophecy which gets fulfilled,
+in God’s name, then he is divinely attested. Now what does this rest on? It might rest
+on faith. In Deuteronomy, when the Jews were forbidden to consult soothsayers and
+necromancers, and omens, they were promised prophets ‘like Moses’ whom they were to
+attend to instead. But, the passage goes on, they’ll want to know how to tell a
+prophet. And the answer is: if the prophet foretells something, and it doesn’t happen,
+then that was just his presumption. The implication seems to be that if a prophet of
+their people, apparently teaching according to the Law, foretells something and it does
+happen, he is attested.
+
+
+p. 37 Now what does this rest on? It might rest on faith. In Deuteronomy, when the Jews
+were forbidden to consult soothsayers and necromancers, and omens, they were promised
+prophets ‘like Moses’ whom they were to attend to instead.
+
 * Hume and Julius Caesar 1973                    :published:
 :PUBLICATION_INFO:
 Originally published in october 1973 vol 34 Issue 1 of Analysis Journal Reprinted in
@@ -567,21 +825,3 @@ once the details of that hypothesis have been demanded.
   with testimony is remote and indirect.
 
 #+END_SRC
-
-* Prophecy and Miracles
-
-So far as I can see there has to be a *thesis of natural theology*, as I might call it,
-that if someone works ‘a sign and a wonder’ or utters a prophecy which gets fulfilled,
-in God’s name, then he is divinely attested. Now what does this rest on? It might rest
-on faith. In Deuteronomy, when the Jews were forbidden to consult soothsayers and
-necromancers, and omens, they were promised prophets ‘like Moses’ whom they were to
-attend to instead. But, the passage goes on, they’ll want to know how to tell a
-prophet. And the answer is: if the prophet foretells something, and it doesn’t happen,
-then that was just his presumption. The implication seems to be that if a prophet of
-their people, apparently teaching according to the Law, foretells something and it does
-happen, he is attested.
-
-
-p. 37 Now what does this rest on? It might rest on faith. In Deuteronomy, when the Jews
-were forbidden to consult soothsayers and necromancers, and omens, they were promised
-prophets ‘like Moses’ whom they were to attend to instead.

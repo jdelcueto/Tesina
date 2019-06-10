@@ -1,5 +1,8 @@
 * Quaestio 1: Epistemology of testimony
 ** On Certainty of beliefs: common knowledge and tradition
+*** Hume on Causality 70s
+*** Hume and Juluis Caesar 1973
+*** Grounds of Belief (typescript: unpublished-undated)
 - Es dificil caracterizar la solidez peculiar o los límites que pueda tener un
   conocimiento que cuenta en nuestra cultura con el grado de certeza que tiene el
   conocimiento común. (Como el punto histórico Julio Cesar)
@@ -37,33 +40,9 @@
               se hacer algo que mi cultura o tradición enseña. El conocimiento entonces
               consiste en creencia correcta y con certeza en la consecución de una
               práctica.
-*** Hume on Causality 70s
-*** Hume and Juluis Caesar 1973
-**** sofisma
-**** cuestión interesante
- ¿por qué las cosas que se nos dicen y los escritos que vemos son puntos de partida
- para nuestro creer en eventos distantes y así también en la cadena del relato
- intermedia?
 
-Es bien difícil caracterizar la solidez peculiar [relacionada con un conocimiento que
-cuenta con este grado de certeza] o sus límites
-conocemos sobre César por el testimonio de los antiguos historiadores y hasta tenemos
-sus propios escritos
-y cómo sabes *eso*, que esos son historiadores antiguos y estos escritos de Julio
-Cesar?
-te lo dijeron.
-y como lo saben tus maestros?
-se lo dijeron
-
-Lo sabemos porque nos han enseñado
-no solo por enseñanza explícita,
-sino por estar implicito en mucho que se nos ha enseñado explicitamente.
-Pero es bien dificil ...
-es dificil caracterizar la solidez peculiar o los limites que pueda tener
-una enseñanza transmitida con el status logico tan  particular
-con un particular status lógico de un tipo de certeza
-*** Grounds of Belief (typescript: unpublished-undated)
 ** On believing God
+*** Faith 1975
 - The catholic christian faith is rational
 - It's rationality was attached to what was called preambles of faith and to the
   passage from them to faith itself
@@ -86,8 +65,9 @@ con un particular status lógico de un tipo de certeza
   creencia consecuente es solo entonces lo que para él significa fe
 - La presuposición, por tanto, es la creencia de que un conocimiento o experiencia es
   creer a Dios que se comunica
-*** Faith 1975
+
 ** On believing someone
+*** What is it to believe someone 1979
 - Un productor inmediato, que puede ser un mensajero o un interprete, ofrece lo que
   puede entenderse o declara poder ser entendido como una comunicación de NN.
 - El receptor de esta comunicación estará en la situación de preguntarse si creer o
@@ -111,8 +91,8 @@ con un particular status lógico de un tipo de certeza
   falló en creer, o no llego a estar en la situación de preguntarse si creer a NN o
   dudar de él.
 
-*** What is it... 1979
 * Quaestio 2: on God's attestation
+** Prophecy and miracles (prob. 1957)
 - Preamble, before considering Lessing's central argument
 - His argument boils down to: 'But these things may not be true, so how can I use them
   to support Christianity?'
@@ -174,7 +154,7 @@ con un particular status lógico de un tipo de certeza
     afterwards, or if the thing does not happen, then he is proved presumptuous. But if
     he is not proved presumptuous, then we ought not to dare not to believe and obey
     him: so long as what he says does not conflict with the known truth.
-** Prophecy and miracles (prob. 1957)
+** Hume: on miracles (undated and unpublished)
 - Hay varias objeciones en contra del ensayo de Hume sobre los milagros:
   1. Se mueve entre diversas definiciones de milagro
   2. La primera definición es cuestionable
@@ -191,24 +171,39 @@ con un particular status lógico de un tipo de certeza
   7. Según su propia descripción del creer, creer en milagros es algo que no puede
      pasar
 - Además de estas objeciones Anscombe encuentra algo adicional que decir
-- El principio para rechazar todo testimonio de milagros es
+- El principio para rechazar todo testimonio de milagros es que la evidencia resultante
+  del testimonio de un hecho extraordinario aumenta o disminuye en proporción a si el
+  dato es más o menos inusual.
+- La conclusión de esto es que dada la uniformidad de la experiencia en contra de los
+  milagros y su consecuente imposiilidad, habría que rechazar todo testimonio en favor
+  de milagros, ya que ninguno es suficiente paa establecer un milagro, excepto si el
+  testimonio sea de algun tipo que su falsedad sea más milagrosa de lo que pretende
+  establecer
+- Anscombe aclara que la conclusión no es respecto de los milagros, específicamente,
+  sino de todo hecho extraordinario y maravilloso
+- Anscombe verifica el estado del argumento desde la teoría de la probabilidad.
+- Incluso en el caso de que la probabilidad de un hecho sea menor que una noticia
+  mentirosa, el hecho de que haya un noticia añade probabilidades al hecho puesto que
+  es más probable que se reporte un hecho que sí ocurrio a que se invente precisamente
+  este hecho no ocurrido.
+- Así que se puede admitir que mientras más improbable el evento, menos peso el
+  testimonio
+- Si el evento es, no solo poco probable, sino imposible, entonces el testimonio no
+  puede añadir a las probabilidades.
+- Pero el desarrollo del argumento de Hume no sugiere imposibilidad, sino
+  improbabilidad
+- Es falaz que ningún testimonio pueda tener peso como evidencia de un hecho
+  extraordinario
+- Si se considera la proporción de la probabilidad de que un evento sea narrado si ha
+  ocurrido vs la probabilidad de que, si no ha ocurrido, se inviente esa mentira
+  particular, las probabilidades después del testimonio son mayores que antes.
 
-el hecho que el testimonio intenta establecer, si tiene que ver con algo
-extraordinario, en ese caso la evidencia, resultante del testimonio, admite una
-disminución, mayor o menor, en proporción a si el dato más o menos inusual
 
-concluye, en consecusión con este principio, que ha de rechazarse todo testimonio de
-milagros, ya que ninguno es suficiente para establecer un milagro, excepto si su
-falsedad fuera más milagrosa que el hecho que se esfuerza por establecer
-
-
-
-es fácilmente verificable por teoría de probabilidad cuál es el verdadero estado del
-caso:
-
-** Hume: on miracles (undated and unpublished)
 * Quaestio 3: Mystery and nonsense
-
 ** Parmenides, Mystery and contradiction 69
 ** On transubstantiation 74
 ** The Question of linguistic Idealism 76
+- La esencia se expresa en la gramática. Pero podemos concebir distintos conceptos, es
+  decir, lenguaje sin la misma gramática. La gente usando esto no estarían usando
+  lenguaje cuya gramática expresara las mismas esencias. Sin embargo, no les estarían
+  faltando por esto nada que realicemos.

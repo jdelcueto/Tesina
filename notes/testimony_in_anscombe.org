@@ -235,3 +235,80 @@ we are permittted to say about these matters, by the rules of the conversation. 
 kind of object that a thing is comes out in the kinds of things that it is appropriate
 to say about it. This evidently goes for God as much as for imagination. Theology after
 Witt 146
+
+
+* Hume on miracles
+el hecho que el testimonio intenta establecer, si tiene que ver con algo
+extraordinario, en ese caso la evidencia, resultante del testimonio, admite una
+disminución, mayor o menor, en proporción a si el dato más o menos inusual
+
+concluye, en consecusión con este principio, que ha de rechazarse todo testimonio de
+milagros, ya que ninguno es suficiente para establecer un milagro, excepto si su
+falsedad fuera más milagrosa que el hecho que se esfuerza por establecer
+
+Está de acuerdo con teoria de probabilidad y es intuitivamente aceptable que
+si, por ejemplo, según nuestra información de trasfondo, la probabilidad de un
+terremoto en españa es menor que la probabilidad de un informe mentiroso en el
+periódico el próximo día, entonces la probabilidad de que haya ocurrido, incluso si lo
+leemos en el periódico de hoy, es menor que 1/2
+
+El argumento de que mientras más improbable el evento, menos peso tiene el testimonio
+es consono.
+Pero no necesitábamos este argumento si un evento es de un tipo que no tiene
+probabilidad finita, es decir, es imposible. Entonces el testimonio no tiene ningún
+peso. No añade a la probabilidad nada.
+
+comenzando con:
+un hombre sabio ajusta sus creencias a las evidencias
+y termina diciendo:
+un hombre sabio no necesita considerar para nada este tipo de evidencia
+El curso del argumento de Hume sólo puede ser razonable si
+se considera que el testimonio no puede añadir nada a la probabilidad del hecho
+
+el no-ocurrir del evento más testimonio es más probable que
+el sí-ocurrir del evento más testimonio
+si
+el testimonio falso sobre el hecho es más probable que el hecho
+
+la falsedad del testimonio tiene que ser más improbable que el milagro, si ha de ser
+considerado el testimonio.
+
+Un argumento de este tipo, para mostrar que ningún testimonio puede tener algún peso,
+tiene que ser falaz si se concede la probabilidad finita;
+
+pues la proporción de la probabilidad de que el evento será narrado si ha ocurrido
+
+(casi cierto para algunos eventos de naturaleza extraordinaria, si han ocurrido
+públicamente)
+
+a la probabilidad de que, si no ha ocurrido, que se invente esa mentira particular
+puede ser alta.
+
+Es en esta proporción que
+las probabilidades consecuentes (despúes del testimonio)
+exceden las las probabilidades antecedentes en favor del evento.
+
+* Hume and Julius Caesar
+**** sofisma
+**** cuestión interesante
+ ¿por qué las cosas que se nos dicen y los escritos que vemos son puntos de partida
+ para nuestro creer en eventos distantes y así también en la cadena del relato
+ intermedia?
+
+Es bien difícil caracterizar la solidez peculiar [relacionada con un conocimiento que
+cuenta con este grado de certeza] o sus límites
+conocemos sobre César por el testimonio de los antiguos historiadores y hasta tenemos
+sus propios escritos
+y cómo sabes *eso*, que esos son historiadores antiguos y estos escritos de Julio
+Cesar?
+te lo dijeron.
+y como lo saben tus maestros?
+se lo dijeron
+
+Lo sabemos porque nos han enseñado
+no solo por enseñanza explícita,
+sino por estar implicito en mucho que se nos ha enseñado explicitamente.
+Pero es bien dificil ...
+es dificil caracterizar la solidez peculiar o los limites que pueda tener
+una enseñanza transmitida con el status logico tan  particular
+con un particular status lógico de un tipo de certeza
