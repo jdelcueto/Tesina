@@ -25,7 +25,7 @@
     capítulo tercero donde afirma: \blockquote[Ut nihilominus fidei nostrae
     obsequium rationi consentaneum esset, voluit Deus cum internis Spiritus Sancti
     auxiliis externa iungi revelationis suae argumenta, facta scilicet divina,
-    atque imprimis miracula et prophetias, quae cum Dei omnipotentiarn et
+    atque imprimis miracula et prophetias, quae cum Dei omnipotentiam et
     infinitam scientiam luculenter commonstrent, divinae revelationis signa sunt
     certissima et omnium intelligentiae accommodata. Quare tum Moyses et
     Prophetae, tum ipse maxime Christus Dominus multa et manifestissima miracula
@@ -35,7 +35,7 @@
     sermonem, cui bene facitis attendentes quasi lucernae lucenti in caliginoso
     loco (2 Petr. I, 19).]{Sin embargo, para que el obsequio de nuestra fe sea de
       acuerdo a la razón, quiso Dios que a la asistencia interna del Espíritu
-      Santo estén unidas indicaciones externas de su revelación, esto es, hechos
+      Santo estén unidos argumentos externos de su revelación, esto es, hechos
       divinos y, ante todo, milagros y profecías, que, mostrando claramente la
       omnipotencia y conocimiento infinito de Dios, son signos ciertísimos de la
       revelación y son adecuados al entendimiento de todos. Por eso Moisés y los
@@ -61,107 +61,77 @@
     more things, on them, than one is entitled to build on historically evidenced
     truths. If no historical truth can be demonstrated, then neither can anything
     be demonstrated by historical truths. That is: accidental historical truths
-    can never become the proof of necessary truths of reason.]{}
+    can never become the proof of necessary truths of reason.]{¿Quién lo niega
+      ---no lo hago yo--- que los informes de esos milagros y profecías son tan
+      dignos de confianza como puede ser cualquier verdad histórica? ---Pero
+      ahora: si solo son tan merecedores de confianza, ¿por qué de repente son
+      empleados como si fueran infinitamente confiables? ¿Cómo? Al construir cosas
+      bastante distintas, y más cosas, sobre ellos, de las que se está en
+      autoridad de construir sobre verdades de evidencia histórica. Si ninguna
+      verdad historica puede ser demonstrada, entonces tampoco ninguna otra cosa
+      puede ser demonstrada por medio de verdades históricas. Esto es: verdades
+      contingentes en tanto que históricas nunca pueden llegar a ser prueba de
+      verdades de razón en tanto que necesarias.}
   \end{enumerate}
 
-  En éste documento afirma: \enquote{It is one thing to experience the fulfilment
-    of prophecy; fulfilled prophecies of which I know only as a matter of history
-    that others are supposed to have experienced them, are quite another thing.}
-  Junto a esto añade: \enquote{Those that take place before my own eyes have their
-    effect in an immediate way; the others are supposed to have their effect
-    through a medium that deprives them of all power.}
+  Anscombe comienza su discusión desenmarañando algunos puntos de los argumentos.
+  Lessing destaca que todos creemos que hubo una persona llamada Alejandro, que
+  conquistó casi toda Asia en corto tiempo, entonces lanza el reto:
+  \enquote{¿Quién, en consecuencia de esta creencia, estaría dispuesto a abjurar
+    permanentemente de todo conocimiento que pueda entrar en conflicto con ella?}.
+  Entonces considera, que después de todo, sería posible que la creencia en estas
+  grandes conquistas podrían estar fundadas simplemente en los poemas de Quérilo
+  que acompañó a Alejandro.\footnote{Cf.~ \enquote{We all believe that there was
+      such a person as Alexander, who conquered almost all Asia in a short time.
+      But who would stake something of great and permanent importance, whose loss
+      was irreplaceable, on this belief? Who, in consequence of this belief, would
+      forswear for ever all knowledge that should concflict with it? Certainly I
+      should not. I have at present nothing to object against Alexander and his
+      conquests; but it would after all be possible that they were founded on a
+      mere poem of Choerilus who accompanied Alexander, just as the ten year siege
+      of Troy is founded on nothing but Homer.}} Esta última consideración resulta
+  llamativa para Anscombe. Parece una alusión al hecho de que conocemos de Cristo
+  por una fuente o tradición \enquote{única}. Sin embargo más bien le parece que
+  viene a apoyar la afirmación de que las verdades históricas no pueden ser
+  fundamentos de verdades necesarias. Una verdad metafísica o una verdad
+  matemática no puede seguirse de un hecho histórico, éste tendría que contar con
+  el mismo grado de certeza que estas verdades de razón; pero una verdad histórica
+  es muy incierta, como lo serían las conquistas de Alejandro, si solo supieramos
+  de ellas por los poemas de Quérilo. Ahora bien, a juicio de Anscombe, esta
+  premisa no merece gran atención. El supuesto de que cualquier cosa creíble sobre
+  Dios tiene que ser una verdad necesaria de razón le parece una derivación de las
+  nociones de Leibniz de Dios como un ser necesario. En adición a esto, es una
+  premisa derivada de la idea de que las verdades de la religión son de tal
+  naturaleza que la razón humana podría haber llegado a pensarlas por sí misma.
 
-  We all believe that there was such a person as Alexander, who conquered almost
-  all Asia in a short time. But who would stake something of great and permanent
-  importance, whose loss was irreplaceable, on this belief? Who, in consequence of
-  this belief, would forswear for ever all knowledge that should concflict with
-  it? Certainly I should not. I have at present nothing to object against
-  Alexander and his conquests; but it would after all be possible that they were
-  founded on a mere poem of Choerilus who accompanied Alexander, just as the ten
-  year siege of Troy is founded on nothing but Homer.
-
-  That Christ, against whose resurrection I have no significant historical
-  objection, gave himself out as the son of God on account of it; that his
-  disciples believed he was that on account of it; this I readily believe. For
-  these truths, as truths of one and the same class, follow quite naturally one
-  from the other.
-  But now, leap from that historical truth to a quite different class of truths,
-  and to demand of me that I should transform all my metaphysical and moral
-  concepts accordingly; to expect me, because I can set no trustworthy evidence
-  against the resurrection of Christ, to alter all my fundamental ideas of the
-  deity---if that is not metabasis eis allo genos then I don't know what Aristotle
-  meant by that term.
-  Of course, you say: this Christ, who rose from the dead---which you admit as an
-  historical fact---this Christ said that God had a son of the same nature as
-  himself and that he was that son.---Splendid! If only the fact Christ said this
-  were not equally merely historically certain.
-
-  The most central part of his argument comes in the following passage:
-
-  El argumento de Lessing en este ensayo es más complicado de lo que parece.
-  Anscombe distingue varios puntos.
-
-  1. Puede parecer extraño que emplee el dato de que podríamos haber sabido de
-  Alejandro Magno solo por el poema de Coerilio para justificar que no podemos
-  basar nada con certeza perfecta en la existencia de Alejandro, pero hay dos
-  razónes para esta afirmación.
-
-  a) Puede que aquí haya una alusión al hecho de que
-  sabemos de las palabras y obras de Cristo por medio de una única fuente, el
-  Nuevo Testamento. Cierto es que son múltiples libros, pero se sostiene su punto
-  dado que está escrito por miembros de un grupo específico.
-
-  b) El motivo principal se hace claro cuando habla de las accidentales verdades
-  históricas como no pudiendo ser justificación para verdades necesarias de razón
-
-  el piensa que una verdad necesaria de razón, una verdad metafísica, y una verdad
-  tal, como una verdad matemática no puede seguirse de un hecho histórico, si esto
-  fuera así, la verdad histórica debería ser tant cierta como se supone que sea
-  una verdad metafísica, pero una verdad histórica puede tener muy poca certeza,
-  como lo sería alexander, si solo conocieramos de él por el poema de Coerilio
+  Anscombe encuentra valor en la premisa acerca de no afirmar certezas más allá de
+  las que las verdades históricas nos dan la autoridad de justificar. La
+  constitución de Vaticano I habla de los milagros y profecias cumplidas como
+  solidos argumentos externos. ¿Puede una verdad histórica contar con certeza
+  suficiente para representar un solido argumento externo? No es el papel de estas
+  manifestaciones ser una demostración que reemplace el rol del Espíritu en la
+  fundamentación de la fe. ¿Se podría conceder que la fe no necesita de argumentos
+  externos ciertos para ser abrazada? ¿Podrían emplearse errores históricos y
+  argumentaciones equivocadas como una escalera que se usa para llegar a la fe y
+  luego se descarta? Para Anscombe sería un error pensar que una
+  \enquote{escalera} como esta podría acercarnos adecuadamente a la fe. Aunque se
+  descarte la idea de Lessing de que toda creencia sobre Dios tiene que ser una
+  verdad necesaria, hay algo de valor en la idea de que una fe cierta no se puede
+  afirmar simplemente en argumentos externos con fundamentos inciertos.
 
 
-  Pienso que no merece nuestra atención, puesto que el supuesto de que cualquier
-  cosa creíble sobre Dios tiene que ser \enquote{una verdad de razón en tanto que
-    necesaria} es peor que dudoso; es incoherente. Esto posiblemente deriva de
-  nociones Leibnizianas de \enquote{ser necesario}, lo que espero que podamos
-  considerar como hecho explosión: y esto va con la idea de Lessing, que se ha
-  tornado tan difundida, que las verdades de la religión tienen todas que ser
-  tales que la raza humana podría al final haberlas pensado por sí misma.
+  La posición de Lessing acerca de lo que puede ser creido sobre Dios
 
-  2. Desde la perspectiva de la Constitución de Vaticano I, la insistencia de
-  Lessing de que las verdades históricas nunca pueden ser suficientemente certeras
-  puede se poco importante.
+  no mostraria simplemente
+  el que
+  no se podría derivar de ningún conocimiento histórico,
+  pero también
+  que esto no podría ser incompatible con
+  cualquier antecedentemente posible
+  proposición histórica.
 
-  No hay nada en él acerca de una demostración de la verdad del cristianismo; solo
-  sobre argumentos externos solidos
-
-  estos solidos argumentos externos no pretenden demostrar,
-
-  por tanto, alta probabilidad, que Lessing está dispuesto a conceder, puede ser
-  suficiente para constituir solidos argumentos externos
-
-  desde luego que Lessing no estaría de acuerdo con un argumento meramente
-  probable para verdades necesarias
-
-  sin embargo sí sería un problema respecto de la fe, que debería de ser cierta,
-  si sus fundamentos son como mucho probables, qué excusa podría tener entonces?
-  Esto haría de los fundamentos probables algo irrelevante
-
-  Podriamos entenderlo así,
-  una persona puede tener lo que le resultan fundamentos probables, y abrazar la
-  fe cristiana, y luego descubrir que sus fundamentos no eran más que argumentos
-  débiles y errores históricos, sin embargo, se supone que se abrace a la fe
-  igualmente, así sus fundamentos solo fueron la escalera que pateó al subir,
-  importante solo psicologicamente....
-  seria un error pensar que una escalera como esta conduce correctamente a la fe,
-  excepto si cualquier escalera bastara.
-  parece que sí hay algo en la afirmación de lessing de sobre construir cosas
-  sobre verdades históricas sobre las cuales uno no tiene el derecho de construir,
-  y esto permanece, incluso cuando se descarte su visión de que cualquier cosa
-  creida sobre Dios debe ser una verdad necesaria.
-
-  3. Su posición es ciertamente incompatible con el creer cristiano
+  3.
+  Su posición es ciertamente incompatible con el creer cristiano
   parece estar yendo en contra de cierto argumento, no contra las creencia
   crisitanas
   como diciendo, si las sostienes es por otros fundamentos y no estos
@@ -181,6 +151,35 @@
   incredulidad que ahora.
   Pero quizas todo esto es para servir al argumento y Lessing era de hecho
   bastante esceptico hacia todos los milagros y profecías, no lo sé
+
+  En éste documento afirma: \enquote{It is one thing to experience the fulfilment
+    of prophecy; fulfilled prophecies of which I know only as a matter of history
+    that others are supposed to have experienced them, are quite another thing.}
+  Junto a esto añade: \enquote{Those that take place before my own eyes have their
+    effect in an immediate way; the others are supposed to have their effect
+    through a medium that deprives them of all power.}
+
+
+  That Christ, against whose resurrection I have no significant historical
+  objection, gave himself out as the son of God on account of it; that his
+  disciples believed he was that on account of it; this I readily believe. For
+  these truths, as truths of one and the same class, follow quite naturally one
+  from the other.
+  But now, leap from that historical truth to a quite different class of truths,
+  and to demand of me that I should transform all my metaphysical and moral
+  concepts accordingly; to expect me, because I can set no trustworthy evidence
+  against the resurrection of Christ, to alter all my fundamental ideas of the
+  deity---if that is not metabasis eis allo genos then I don't know what Aristotle
+  meant by that term.
+  Of course, you say: this Christ, who rose from the dead---which you admit as an
+  historical fact---this Christ said that God had a son of the same nature as
+  himself and that he was that son.---Splendid! If only the fact Christ said this
+  were not equally merely historically certain.
+
+
+  El argumento de Lessing en este ensayo es más complicado de lo que parece.
+  Anscombe distingue varios puntos.
+
 #+END_SRC
 
 
