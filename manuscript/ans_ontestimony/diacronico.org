@@ -79,106 +79,166 @@
   conquistó casi toda Asia en corto tiempo, entonces lanza el reto:
   \enquote{¿Quién, en consecuencia de esta creencia, estaría dispuesto a abjurar
     permanentemente de todo conocimiento que pueda entrar en conflicto con ella?}.
-  Entonces considera, que después de todo, sería posible que la creencia en estas
-  grandes conquistas podrían estar fundadas simplemente en los poemas de Quérilo
-  que acompañó a Alejandro.\footnote{Cf.~ \enquote{We all believe that there was
-      such a person as Alexander, who conquered almost all Asia in a short time.
-      But who would stake something of great and permanent importance, whose loss
-      was irreplaceable, on this belief? Who, in consequence of this belief, would
-      forswear for ever all knowledge that should concflict with it? Certainly I
-      should not. I have at present nothing to object against Alexander and his
-      conquests; but it would after all be possible that they were founded on a
-      mere poem of Choerilus who accompanied Alexander, just as the ten year siege
-      of Troy is founded on nothing but Homer.}} Esta última consideración resulta
-  llamativa para Anscombe. Parece una alusión al hecho de que conocemos de Cristo
-  por una fuente o tradición \enquote{única}. Sin embargo más bien le parece que
-  viene a apoyar la afirmación de que las verdades históricas no pueden ser
-  fundamentos de verdades necesarias. Una verdad metafísica o una verdad
-  matemática no puede seguirse de un hecho histórico, éste tendría que contar con
-  el mismo grado de certeza que estas verdades de razón; pero una verdad histórica
-  es muy incierta, como lo serían las conquistas de Alejandro, si solo supieramos
-  de ellas por los poemas de Quérilo. Ahora bien, a juicio de Anscombe, esta
-  premisa no merece gran atención. El supuesto de que cualquier cosa creíble sobre
-  Dios tiene que ser una verdad necesaria de razón le parece una derivación de las
-  nociones de Leibniz de Dios como un ser necesario. En adición a esto, es una
-  premisa derivada de la idea de que las verdades de la religión son de tal
-  naturaleza que la razón humana podría haber llegado a pensarlas por sí misma.
+  Entonces invita a considerar, que después de todo, sería posible que la creencia
+  en estas grandes conquistas podrían estar fundadas simplemente en los poemas de
+  Quérilo que acompañó a Alejandro.\footnote{Cf.~ \enquote{We all believe that
+      there was such a person as Alexander, who conquered almost all Asia in a
+      short time. But who would stake something of great and permanent importance,
+      whose loss was irreplaceable, on this belief? Who, in consequence of this
+      belief, would forswear for ever all knowledge that should concflict with it?
+      Certainly I should not. I have at present nothing to object against
+      Alexander and his conquests; but it would after all be possible that they
+      were founded on a mere poem of Choerilus who accompanied Alexander, just as
+      the ten year siege of Troy is founded on nothing but Homer.}} Esta última
+  propuesta resulta llamativa para Anscombe. Parece una alusión al hecho de que
+  conocemos de Cristo por una fuente o tradición \enquote{única}. Sin embargo
+  Anscombe piensa más bien que viene a apoyar la afirmación de que las verdades
+  históricas no pueden ser fundamentos de verdades necesarias. Una verdad
+  metafísica o una verdad matemática no puede seguirse de un hecho histórico, éste
+  tendría que contar con el mismo grado de certeza que estas verdades de razón;
+  pero una verdad histórica es muy incierta, como lo serían las conquistas de
+  Alejandro, si solo supieramos de ellas por los poemas de Quérilo. Ahora bien, a
+  juicio de Anscombe, esta premisa no merece gran atención. El supuesto de que
+  cualquier cosa creíble sobre Dios tiene que ser una verdad necesaria de razón le
+  parece una derivación de las nociones de Leibniz de Dios como un ser necesario.
+  En adición a esto, es una premisa derivada de la idea de que las verdades de la
+  religión son de tal naturaleza que la razón humana podría haber llegado a
+  pensarlas por sí misma.
 
   Anscombe encuentra valor en la premisa acerca de no afirmar certezas más allá de
   las que las verdades históricas nos dan la autoridad de justificar. La
-  constitución de Vaticano I habla de los milagros y profecias cumplidas como
+  constitución del Vaticano I habla de los milagros y profecias cumplidas como
   solidos argumentos externos. ¿Puede una verdad histórica contar con certeza
   suficiente para representar un solido argumento externo? No es el papel de estas
   manifestaciones ser una demostración que reemplace el rol del Espíritu en la
-  fundamentación de la fe. ¿Se podría conceder que la fe no necesita de argumentos
-  externos ciertos para ser abrazada? ¿Podrían emplearse errores históricos y
-  argumentaciones equivocadas como una escalera que se usa para llegar a la fe y
-  luego se descarta? Para Anscombe sería un error pensar que una
-  \enquote{escalera} como esta podría acercarnos adecuadamente a la fe. Aunque se
-  descarte la idea de Lessing de que toda creencia sobre Dios tiene que ser una
-  verdad necesaria, hay algo de valor en la idea de que una fe cierta no se puede
-  afirmar simplemente en argumentos externos con fundamentos inciertos.
+  fundamentación de la fe. Entonces parece que verdades historicas que no puedan
+  ser estimadas más que como probabilidades podrían jugas ese papel. ¿Se podría
+  conceder que la fe no necesita de argumentos externos ciertos para ser abrazada?
+  ¿Podrían emplearse errores históricos y argumentaciones equivocadas como una
+  escalera que se usa para llegar a la fe y luego se descarta? Para Anscombe sería
+  un error pensar que una \enquote{escalera} como esta podría acercarnos
+  adecuadamente a la fe. Aunque se descarte la idea de Lessing de que toda
+  creencia sobre Dios tiene que ser una verdad necesaria, hay algo de valor en la
+  idea de que una fe cierta no se puede afirmar simplemente en argumentos externos
+  con fundamentos inciertos.
 
+  Es importante también tener en cuenta que la posición de Lessing ante el
+  Cristianismo es incompatible con las creencias Cristianas. Emplea una analogía
+  que ilustra su actitud: \blockquote[Suppose that a very useful mathematical
+  truth had been reached by the discoverer through an obvious fallacy. \textelp{}
+  Should I deny this truth? Should I refuse to use this truth? Would I be on that
+  account an Ungrateful reviler of the discoverer, if I were unwilling to prove
+  from his insight in other respects, indeed did not consider it capable of proof,
+  that the fallacy through which he stumbled upon the truth could not be a
+  fallacy?]{Supongamos que una muy útil verdad matemática haya sido alcanzada por
+    su descubridor por medio de una falacia evidente. \textelp{} ¿Debería de negar
+    esta verdad? ¿Sería en esta cuenta un desagradecido agraviador del que ha
+    realizado el descubrimiento, si fuera renuente a apoyarme en su inteligencia
+    en otras consideraciones, ciertamente si no considerara capaz de demostración,
+    que la falacia a través de la cual tropezó sobre la verdad podría no ser una
+    falacia?} Su interés en Cristo es en la enseñanza que este maestro pueda
+  ofrecer. Adicionalmente, su opinión es que lo que puede ser afirmado sobre Dios,
+  no solo no pueden ser proposiciones que derivan su justificación desde
+  afirmaciones históricas, sino que además no podrían ser afirmaciones
+  incompatibles con lo que podría ser razonable en estimar como históricamente
+  posible. Según esto, hace distinción entre la religión Cristiana y la religión
+  de Cristo, atribuyendo lo obscuro o confuso de la enseñanza de Cristo
+  transmitida a la religión Crisitana, y lo claro y útil a la religión de Cristo.
 
-  La posición de Lessing acerca de lo que puede ser creido sobre Dios
+  Una aclaración adicional que Anscombe destaca es que, a su juicio, Lessing
+  exagera la certidumbre (desde un punto de vista externo) que podría tener
+  Orígenes de los milagros y profecías cumplidas. Tanto en su tiempo como en el
+  nuestro los milagros serían hechos completamente extraordinarios y serían
+  estimados por los escépticos con tanta incredulidad como ahora, mientras que los
+  Católicos los aceptan.
 
-  no mostraria simplemente
-  el que
-  no se podría derivar de ningún conocimiento histórico,
-  pero también
-  que esto no podría ser incompatible con
-  cualquier antecedentemente posible
-  proposición histórica.
+  Hechas estas consideraciones, Anscombe estudia el argumento central establecido
+  por Lessing. Éste se puede sintetizar en que sea razonable la preocupación:
+  \enquote{Pero estas cosas \emph{pueden} no ser verdad, ¿cómo puedo emplearlas
+    para apoyar el Cristianismo?}
+  Puesto así parece fuerte
+  Está en conflicto con la afirmación del Vaticano
+  Su argumento es valioso pq no confunde el problema atacando la verdad de los
+  milagros o cumplimientos de profecias documentados
 
-  3.
-  Su posición es ciertamente incompatible con el creer cristiano
-  parece estar yendo en contra de cierto argumento, no contra las creencia
-  crisitanas
-  como diciendo, si las sostienes es por otros fundamentos y no estos
+  es de interés extraordinario lo que dice dei filius pq
+  creemos en profecias cumplidas y milagros porque creemos la religion católica
+  y estos forman parte de nuestras doctrinas
 
-  Distingue entre la religión de Cristo y la religión cristiana
-  distingue lo difuso de lo claro, lo difuso corresponde a la religión cristiana,
-  lo claro a la relgión de Cristo,
-  él mismo emplea la analogía entre religión y verdades matemáticas: que
-  importaría si, históricamente, algún procedimiento fraudulento condujo a una
-  verdad matemática
+  además
+  el pasaje del deut, junto con reflexión razonable en los requisistos de la fe
+  nos inclinarían a decir que un profeta o milagrero debe ser juzgado a la luz de
+  la fe cristiana (no la fe cristiana a la luz de las profecias y milagros)
 
-  4. La prueba de poder y de fuerza es en milagros y profecias contemporaneas
-  Lessing exagera grandemente la certeza que Origenes puede haber tenido sobre
-  estas. Aquí es útil ser católico, pues los católicos no dicen como otros que no
-  hay milagros ya,
-  tanto antes como ahora los no creyentes reaccionaban a los milagros con la misma
-  incredulidad que ahora.
-  Pero quizas todo esto es para servir al argumento y Lessing era de hecho
-  bastante esceptico hacia todos los milagros y profecías, no lo sé
+  si son argumentos externos entonces parece que deberian quedar establecidos como
+  tal antes de que quede introducida la creencia en el cristianismo:
+  pero no hay un elemento teológico en llamar algo una profecía cumplida, e
+  incluso, un milagro?
 
-  En éste documento afirma: \enquote{It is one thing to experience the fulfilment
-    of prophecy; fulfilled prophecies of which I know only as a matter of history
-    that others are supposed to have experienced them, are quite another thing.}
-  Junto a esto añade: \enquote{Those that take place before my own eyes have their
-    effect in an immediate way; the others are supposed to have their effect
-    through a medium that deprives them of all power.}
+  Hay que conceder a Lessing que los informes de milagros
 
+  primero, acerca de los milagros
+  hay que concedersele como ciertamente verdadero que los informes de estos no se
+  puede esperar que apelen a un juez externo
 
-  That Christ, against whose resurrection I have no significant historical
-  objection, gave himself out as the son of God on account of it; that his
-  disciples believed he was that on account of it; this I readily believe. For
-  these truths, as truths of one and the same class, follow quite naturally one
-  from the other.
-  But now, leap from that historical truth to a quite different class of truths,
-  and to demand of me that I should transform all my metaphysical and moral
-  concepts accordingly; to expect me, because I can set no trustworthy evidence
-  against the resurrection of Christ, to alter all my fundamental ideas of the
-  deity---if that is not metabasis eis allo genos then I don't know what Aristotle
-  meant by that term.
-  Of course, you say: this Christ, who rose from the dead---which you admit as an
-  historical fact---this Christ said that God had a son of the same nature as
-  himself and that he was that son.---Splendid! If only the fact Christ said this
-  were not equally merely historically certain.
+  el principal y el que se usa en a pologética es la resurrección de Cristo
+  Lessing concede que cuenta con tanta certeza como cualquier otro dato histórico
+  Anscombe piensa que hay que oponerse a esta concesión ¿Que tiene de poco
+  razonable decir Dios sabe lo que produjo esta creencia? yo no lo se, tampoco
+  puedo sacar conclusiones de la posterior obra de los apóstoles o de la aparición
+  repentina y siguiente crecimiento de una nueva religión, que es, después de
+  todo, de lo único que estoy segura.
 
+  Lo más que puedo conceder es que la crónica es bastante como si estas cosas
+  hubieran ocurrido: el modo no es legendario, aunque la materia lo es!
 
-  El argumento de Lessing en este ensayo es más complicado de lo que parece.
-  Anscombe distingue varios puntos.
+  Ahora profecias cuya antiguedad, prioridad y cumplimiento sean verdaderamente
+  claras y ciertas para un observador imparcial son necesariamente pocas....
+
+  Un monton de pasajes suenan como profecias para Crisitanos creyentes o Judios
+  piadosos, pero suenan como afirmaciones misteriosas de textos antiguos para
+  cualquier otra persona
+
+  puede ser un accidente el cumplimiento de una profecia?
+
+  es juzgada como profecia una afirmación que simplemente puede ser aplicada a
+  hechos futuros?
+
+  hay algunas dificultades sobre la noción de la aplicabilidad de palabras
+  proféticas como accidentales
+
+  para casi todas las profecias, verlas cumplidas es interpretarlas e
+  interpretarlas no es preguntarse si el profeta tenia en mente estos eventos...
+
+  sino que lo que podemos hacer es considerar las ocasiones en las que el profeta
+  profesando profetizar afirmó estas palabras y valorar lo que dijo considerando
+  todo su contexto, a los eventos que pensamos que estas palabras profetizaron
+
+  la pregunta surge, por qué deberiamos impresionarnos del todo con las profecias?
+  por qué nos deberían interesar?
+
+  Una profecía o milagro se supone que atesta algo
+
+  Hay un sentido del término accidental distinto al que Lessin emplea
+
+  Las partes son: preámbulo...
+  discusión del argumento central....
+  -> a quién pueden decirle algo las profecias cumplidas o los milagros, para
+  quién son argumentos externos? para un observador imparcial que por primera vez
+  quiere conocer justo lo que la fe enseña?
+  -> los argumentos de profecias y milagros tienen peso para alguien que haya
+  atendido a las enseñanzas del AT
+
+  Ahora, si todo esto es así, el observador imparcial e indiferente queda
+  confrontado ciertamente solo por algunas profecias dispersas relacionadas con
+  ciudades y personas; y con \emph{informes} de milagros y de cumplimientos de
+  profecias los cuales es absurdo pretender que deba tener en cuenta como
+  ciertamente ciertos.
+  Que pasa entonces con los solidos argumentos externos de la constitución?
+
+  Esbozaré mi respuesta brevemente: Sólo si un hombre queda impresionado por el
+  Antiguo Testamento, al punto de sentirse inclinado a tomarlo como su maestro,
+  tiene entonces el argumento desde profecias y milagros algún peso serio.
 
 #+END_SRC
 
