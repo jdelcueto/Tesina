@@ -173,10 +173,9 @@ Hume and Julius Caesar 73 > Faith 75 > What is it to Believe Someone 79
 Parmenides Mystery and Contradiction 69 > On transubstantiation 74 > The Question of
 linguistic Idealism 76
 * Points
-
+** Common Knowledge
 semantic justification = justification that attaches to a correct use of language
 epistemic justification = justifiaction that attaches as such to telling the truth
-
 
 That these two kinds of justification are more closely related than might be thought is
 a theme that appears in some of Wittgenstein’s most searching and radical later
@@ -187,18 +186,14 @@ themselves of course paradigmatically expressed in words); a ‘world view’ is
 as much by our language and its attendant conceptual scheme as by what we would
 ordinarily term our knowledge of things.
 
-
-
 immovable foundations
 world-picture
 
 hinge propositions
 
-
 in a world-view to believe is not to surmise
 in a religious belief to believe is not to surmise
 a world-view and a religious belief are not the same
-
 
 In grounds of belief she makes a distintion between tradition or common knowledge and
 testimony, arguing that things justified on being thaught are justified on something
@@ -222,7 +217,6 @@ among others, that people don’t generally reject their earlier assertions as u
 It is ‘by favour of Nature’ that assertion and knowledge are possible (On Certainty,
 para. 505); for Anselm and for Anscombe, it is (also) by the grace of God.
 
-
 it is not experiencing pain that gives you the meaning of the word 'pain'. How could an
 experience dictate the grammar of a word? ... The word is not just a response to that
 experience at that time: what else is the word to apply to? The experience can't
@@ -235,6 +229,45 @@ we are permittted to say about these matters, by the rules of the conversation. 
 kind of object that a thing is comes out in the kinds of things that it is appropriate
 to say about it. This evidently goes for God as much as for imagination. Theology after
 Witt 146
+
+** Divine attestation
+En prophecy and miracles Anscombe destaca la propuesta de Vaticano I acerca de los
+argumentos externos.
+Al tener esto en cuenta, lanza la pregunta: Esto podría ser tomado como materia de fe,
+¿Pero si aquello que constituye atestación divina puede ser conocido solo por la fe, en
+que queda lo que dice el concilio?
+
+lo primero es que un "historiador apático" no podría aceptar el rol de los milagros
+como hechos ciertamente verdaderos, no sería razonable pedir al historiador apático que
+resuelva el problema de cómo han llegado a quedar escritos estos relatos.
+
+Una persona que haya tomado como maestro el AT, para alguien así sí que tendría peso
+las profecías cumplidas o los milagros
+
+Para Anscombe debe haber una tesis de teología natural que afirme qué implica que una
+persona está divinamente atestada
+
+Esta tesis no tiene que ser materia de fe
+
+El argumento puede ser que si no queda probado presuntuoso entonces no podriamos no
+obedecerle
+
+pero no basta un motivo negativo
+
+puede uno creer porque no tiene signos de que este hombre sea presuntuoso?
+y entonces hay que considerar que una de dos o es presuntuoso o lo que dice viene de
+Dios? y entonces como no hay signos de que sea presuntuoso, pues viene de Dios?
+
+Seguramente querríamos razones positivas para creer, y no meramente ausencia de razón
+positiva para descreer?
+
+Esto, me parece, es correcto, y va con la tesis de que en cierto sentido no puede haber
+un profeta con una nueva doctrina.
+
+Con estas cosas y lo que dice en 'faith' se podría construir una descripción de lo que
+Anscombe considera como atestación divina
+
+
 
 
 * Hume on miracles

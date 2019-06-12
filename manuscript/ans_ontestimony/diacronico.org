@@ -153,9 +153,33 @@
   Católicos los aceptan.
 
   Hechas estas consideraciones, Anscombe estudia el argumento central establecido
-  por Lessing. Éste se puede sintetizar en que sea razonable la preocupación:
-  \enquote{Pero estas cosas \emph{pueden} no ser verdad, ¿cómo puedo emplearlas
-    para apoyar el Cristianismo?}
+  por Lessing. Su impresión es que esta cuestión viene a reducirse a que sea
+  razonable decir: \enquote{Pero estas cosas \emph{pueden} no ser verdad, ¿cómo
+    puedo emplearlas para apoyar el Cristianismo?}. En esto está en conflicto con
+  la afirmación de Vaticano I.
+
+  El análisis de Anscombe en torno al argumento de Lessing toca varios puntos
+
+  Principalmente sostiene que Lessing tiene razón cuando propone que
+
+  Primero sobre los milagros....
+  los informes de estos no apelarían a un juez externo
+
+  Luego sobre staking beliefs on the strenght of historical certainty
+  hay una clase de aserciones históricas que sería absurdo atribuirles certeza
+  pero ya pasó el tiempo en que podría disprove them
+
+  Luego sobre las profecías....
+  Sticking with things thar are absolutely solid.....
+
+  it is solid that it was anciently written down as prophecy
+  that Jerusalem.....
+  If lessing tells me i know the ancientness only historically i can reply that
+  this sort of certainty is good enough as any
+
+  NOW prophecies..... that are really clear
+
+
   Puesto así parece fuerte
   Está en conflicto con la afirmación del Vaticano
   Su argumento es valioso pq no confunde el problema atacando la verdad de los
@@ -226,6 +250,56 @@
   -> a quién pueden decirle algo las profecias cumplidas o los milagros, para
   quién son argumentos externos? para un observador imparcial que por primera vez
   quiere conocer justo lo que la fe enseña?
+
+  I have contended miracles cannot possibly be accepted as certainly true
+  ocurrences by the indifferent historian
+
+  their role is this: \blockquote[if one is seriously entertaining the truth of
+  the whole revelation in the way I have hinted at, the miracles are consonant.
+  That God attested Christ by miracles is possible, if Christ is Christ ---i.e. is
+  the Messiah promised in the Old Testament. Then the problem, how on earth these
+  seemingly factual records came to be written, of such incredible things, is
+  resolved by the hypothesis that they happened.]{si estamos considerando
+    seriamente la verdad de toda la revelación en el modo al que he aludido, los
+    milagros son consonos. Que Dios atestó a Cristo por medio de los milagros es
+    posible, si Cristo es Cristo ---esto es, es el Mesías prometido en el Antiguo
+    Testamento. Entonces el problema, sobre cómo es posible que estas crónicas
+    supuestamente fácticas han llegado a quedar escritas, de unos eventos tan
+    increíbles, se resuleve por la hipótesis de que sí ocurrieron.}
+
+  Un historiador indiferente puede dejar sin resolver la pregunta, ¿sí ocurrieron,
+  qué características esperaríamos que tengan los documentos donde quedan
+  relatados? Y si ocurrieron, acaso no apoyan la enseñanza?
+
+  Pero y es posible del todo la atestación divina?
+
+  El hecho de que alguien de muestras de hacer cosas milagrosas o que diga
+  profecias que se cumplen, ciertamente no muestran que esté atestado divinamente.
+
+  Según veo, tiene que haber una tesis de teología natural, como podría llamarla,
+  de que si alguien realiza `una señal y un prodigio' o dice una profecía que se
+  cumple, en el nombre de Dios, entonces está atestado divinamente. Ahora en qué
+  descansa esto? Puede descansar en fe.
+
+  Las enseñanzas de los profetas deben ser primero tales que pudieran
+  razonablemente entendidas como perteneciendo a la verdad revelada por Moisés;
+  solo si esto es así entonces es posible proponer la pregunta. Entonces, si
+  predice algo y esto ocurre, y si no intenta conducirles a la idolatría después
+  de esto, entonces está atestado.
+
+  Esto podría entenderse como matería de fe. Pero si eso que constituye atestación
+  divina sólo es conocido por la fe, entonces en qué quedan los `solidos
+  argumentos externos' de la constitución del Vaticano?
+
+  Pienso entonces que el argumento más bien tiene que se que si un profeta que
+  aparentemente está enseñando la verdad, se atreve a predecir algo contingente,
+  entonces esto es presunción suya si no es el caso que lo ha recibido de Dios y
+  debe decirlo. Ahora si enseña una mentira inmediatamente después, o si lo que ha
+  dicho no ocurre, entonces queda demostrado presuntuoso. Pero si no es demostrado
+  presuntuoso, entonces no debemos atrevernos a no creerle u obedecerle: mientras
+  que lo que dice no entre en conflicto con la verdad conocida.
+
+
   -> los argumentos de profecias y milagros tienen peso para alguien que haya
   atendido a las enseñanzas del AT
 
@@ -239,6 +313,42 @@
   Esbozaré mi respuesta brevemente: Sólo si un hombre queda impresionado por el
   Antiguo Testamento, al punto de sentirse inclinado a tomarlo como su maestro,
   tiene entonces el argumento desde profecias y milagros algún peso serio.
+
+  En prophecy and miracles Anscombe destaca la propuesta de Vaticano I acerca de los
+  argumentos externos.
+  Al tener esto en cuenta, lanza la pregunta: Esto podría ser tomado como materia de fe,
+  ¿Pero si aquello que constituye atestación divina puede ser conocido solo por la fe, en
+  que queda lo que dice el concilio?
+
+  lo primero es que un "historiador apático" no podría aceptar el rol de los milagros
+  como hechos ciertamente verdaderos, no sería razonable pedir al historiador apático que
+  resuelva el problema de cómo han llegado a quedar escritos estos relatos.
+
+  Una persona que haya tomado como maestro el AT, para alguien así sí que tendría peso
+  las profecías cumplidas o los milagros
+
+  Para Anscombe debe haber una tesis de teología natural que afirme qué implica que una
+  persona está divinamente atestada
+
+  Esta tesis no tiene que ser materia de fe
+
+  El argumento puede ser que si no queda probado presuntuoso entonces no podriamos no
+  obedecerle
+
+  pero no basta un motivo negativo
+
+  puede uno creer porque no tiene signos de que este hombre sea presuntuoso?
+  y entonces hay que considerar que una de dos o es presuntuoso o lo que dice viene de
+  Dios? y entonces como no hay signos de que sea presuntuoso, pues viene de Dios?
+
+  Seguramente querríamos razones positivas para creer, y no meramente ausencia de razón
+  positiva para descreer?
+
+  Esto, me parece, es correcto, y va con la tesis de que en cierto sentido no puede haber
+  un profeta con una nueva doctrina.
+
+  Con estas cosas y lo que dice en 'faith' se podría construir una descripción de lo que
+  Anscombe considera como atestación divina
 
 #+END_SRC
 
