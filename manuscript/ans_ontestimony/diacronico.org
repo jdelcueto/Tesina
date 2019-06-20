@@ -158,7 +158,7 @@
     puedo emplearlas para apoyar el Cristianismo?}. En esto está en conflicto con
   la afirmación de Vaticano I.
 
-
+#+END_SRC
 
   El análisis de Anscombe en torno al argumento de Lessing toca varios puntos
 
@@ -369,7 +369,6 @@
   Con estas cosas y lo que dice en 'faith' se podría construir una descripción de lo que
   Anscombe considera como atestación divina
 
-#+END_SRC
 
 
 - Preamble, before considering Lessing's central argument
