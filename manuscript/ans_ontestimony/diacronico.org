@@ -10,7 +10,7 @@
 #+BEGIN_SRC latex
 \subsection{Prophecy and Miracles}
 #+END_SRC
-
+** Información del texto
 #+BEGIN_SRC latex
   El texto de \emph{Prophecy and Miracles} ha sido publicado en \emph{Faith in a
     Hard Ground} de la colección de St. Andrew's. Con mucha probabilidad es el
@@ -18,6 +18,16 @@
   que solía reunirse en el Centro de Conferencias de los Dominicos en \emph{Spode
     House, Staffordshire}.
 #+END_SRC
+** Introducción: Planteamiento de la cuestión
+** Preámbulo: Análisis del argumento de Lessing
+*** 1
+*** 2
+*** 3
+*** 4
+** Análisis del argumento central
+*** Sobre los milagros
+*** Sobre apostar por creencias sobre la fuerza de la certeza histórica
+*** Sobre las profecías
 #+BEGIN_SRC latex
   Anscombe especifica las coordenadas de su discusión en torno a tres documentos:
   \begin{enumerate}
