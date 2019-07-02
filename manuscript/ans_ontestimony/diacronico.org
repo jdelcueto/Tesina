@@ -165,23 +165,49 @@
 #+END_SRC
 ** Análisis del argumento central
 *** Sobre los milagros
-*** Sobre apostar por creencias apoyados en la fuerza de la certeza histórica
-*** Sobre las profecías
+  Primero sobre los milagros....
+  los informes de estos no apelarían a un juez externo
+
+  primero, acerca de los milagros
+  hay que concedersele como ciertamente verdadero que los informes de estos no se
+  puede esperar que apelen a un juez externo
+
+  el principal y el que se usa en a pologética es la resurrección de Cristo
+  Lessing concede que cuenta con tanta certeza como cualquier otro dato histórico
+  Anscombe piensa que hay que oponerse a esta concesión ¿Que tiene de poco
+  razonable decir Dios sabe lo que produjo esta creencia? yo no lo se, tampoco
+  puedo sacar conclusiones de la posterior obra de los apóstoles o de la aparición
+  repentina y siguiente crecimiento de una nueva religión, que es, después de
+  todo, de lo único que estoy segura.
+
+  Lo más que puedo conceder es que la crónica es bastante como si estas cosas
+  hubieran ocurrido: el modo no es legendario, aunque la materia lo es!
+
+
 #+BEGIN_SRC latex
   Hechas estas consideraciones, Anscombe estudia el argumento central establecido
   por Lessing. Su impresión es que esta cuestión viene a reducirse a que sea
   razonable decir: \enquote{Pero estas cosas \emph{pueden} no ser verdad, ¿cómo
-    puedo emplearlas para apoyar el Cristianismo?}. En esto está en conflicto con
-  la afirmación de Vaticano I.
+    puedo emplearlas para apoyar el Cristianismo?}. El argumento es útil, puesto
+  que no se orienta a atacar la veracidad de los milagros o cumplimientos de
+  profecías que han quedado documentados, sino que pone en duda que estos
+  testimonios o relatos puedan ser fundamento suficiente para sostener las
+  creencia en el Cristianismo como verdadera. En esto está claramente en conflicto
+  con la afirmación de Vaticano I.
+
+  El análisis de Anscombe examina cuatro dimensiones del argumento de Lessing. Los
+  milagros, la certeza histórica como fundamento de las creencias, las profecías y
+  a quién pueden apelar estos argumentos externos que son los milagros y las
+  profecías (o si estas pueden apelar a un juez externo o historiador apático)
 
 #+END_SRC
 
+*** Sobre apostar por creencias apoyados en la fuerza de la certeza histórica
+*** Sobre las profecías
+** Conclusiones
   El análisis de Anscombe en torno al argumento de Lessing toca varios puntos
 
   Principalmente sostiene que Lessing tiene razón cuando propone que
-
-  Primero sobre los milagros....
-  los informes de estos no apelarían a un juez externo
 
   Luego sobre staking beliefs on the strenght of historical certainty
   hay una clase de aserciones históricas que sería absurdo atribuirles certeza
@@ -213,8 +239,6 @@
 
   this is the very sort of thing for that man, or these men, to have said;
 
-
-
   Puesto así parece fuerte
   Está en conflicto con la afirmación del Vaticano
   Su argumento es valioso pq no confunde el problema atacando la verdad de los
@@ -235,21 +259,6 @@
   incluso, un milagro?
 
   Hay que conceder a Lessing que los informes de milagros
-
-  primero, acerca de los milagros
-  hay que concedersele como ciertamente verdadero que los informes de estos no se
-  puede esperar que apelen a un juez externo
-
-  el principal y el que se usa en a pologética es la resurrección de Cristo
-  Lessing concede que cuenta con tanta certeza como cualquier otro dato histórico
-  Anscombe piensa que hay que oponerse a esta concesión ¿Que tiene de poco
-  razonable decir Dios sabe lo que produjo esta creencia? yo no lo se, tampoco
-  puedo sacar conclusiones de la posterior obra de los apóstoles o de la aparición
-  repentina y siguiente crecimiento de una nueva religión, que es, después de
-  todo, de lo único que estoy segura.
-
-  Lo más que puedo conceder es que la crónica es bastante como si estas cosas
-  hubieran ocurrido: el modo no es legendario, aunque la materia lo es!
 
   Ahora profecias cuya antiguedad, prioridad y cumplimiento sean verdaderamente
   claras y ciertas para un observador imparcial son necesariamente pocas....
