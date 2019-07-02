@@ -2,11 +2,12 @@
 # ------------------------------------------------------------------------------------
 # Santa Teresa Benedicta de la Cruz, ruega por nosotros
 
-* TODO La Categoría del Testimonio como Problema [0%]
+* DONE La Categoría del Testimonio como Problema [100%]
 #+BEGIN_SRC latex
   \section{La Categoría del Testimonio como Problema}
 #+END_SRC
-** TODO Reformulación pregunta inicial, desafíos filosóficos
+** DONE Reformulación pregunta inicial, desafíos filosóficos
+   CLOSED: [2019-07-02 Tue 10:06]
  :LOGBOOK:
     CLOCK: [2019-04-25 Thu 16:38]--[2019-04-25 Thu 17:03] =>  0:25
     CLOCK: [2019-04-25 Thu 16:06]--[2019-04-25 Thu 16:31] =>  0:25
@@ -131,7 +132,8 @@
   filosóficas de la época moderna y contemporánea, agrupamos en tres cuestiones
   generales la problemática sobre el testimonio que será atendida en este estudio.
 #+END_SRC
-** TODO ¿Cuál es el valor espistemológico del testimonio
+** DONE ¿Cuál es el valor espistemológico del testimonio
+   CLOSED: [2019-07-02 Tue 10:06]
 #+BEGIN_SRC latex
   \subsection{¿Cuál es el valor epistemológico del testimonio?}
   Corresponde a la epistemología la tarea de estudiar la naturaleza del conocer y
@@ -343,7 +345,8 @@
   una segunda cuestión; esta vez relacionada con la segunda parte de nuestra
   pregunta original.
 #+END_SRC
-** TODO ¿Hay justificación para valorar un hecho histórico como atestación divina?
+** DONE ¿Hay justificación para valorar un hecho histórico como atestación divina?
+   CLOSED: [2019-07-02 Tue 10:06]
 #+BEGIN_SRC latex
   \subsection{¿Hay justificación para valorar un hecho histórico como
     atestación divina?}
@@ -505,7 +508,8 @@
   justificación razonable para su veracidad, y por tanto sólo puede ser acogida
   por una fe desconectada de la razón.
 #+END_SRC
-** TODO ¿Tiene carácter veritativo el lenguaje teológico?
+** DONE ¿Tiene carácter veritativo el lenguaje teológico?
+   CLOSED: [2019-07-02 Tue 10:06]
 #+BEGIN_SRC latex
     \subsection{¿Tiene carácter veritativo el lenguaje teológico?}
     Un tercer punto de nuestra problemática está representado en la crítica al

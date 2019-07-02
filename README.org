@@ -3,8 +3,8 @@
 
 * [[./staging/main.pdf][Documento en desarrollo]]  //  Documento Final (pronto?)
 
-* TODO Progreso Realizado [0%]
-** TODO Cap. 1: Introducción General al Problema del Testimonio [75%]
+* TODO Progreso Realizado [25%]
+** DONE Cap. 1: Introducción General al Problema del Testimonio [100%]
 *** DONE Naturaleza de la pregunta sobre el testimonio [100%]
     CLOSED: [2019-04-12 Fri 09:49]
         - [X] Una experiencia familiar
@@ -27,11 +27,12 @@
         - [X] Testimonio es acción y misión de toda la Iglesia
         - [X] Iglesia es signo sacramental llamado a la perfección
         - [X] Testimonio es correspondencia entre Dios y el hombre
-*** TODO El problema de la categoría del testimonio [50%]
+*** DONE El problema de la categoría del testimonio [100%]
+    CLOSED: [2019-07-02 Tue 16:06]
         - [X] Reformulación pregunta inicial, desafíos filosóficos
         - [X] ¿Cuál es el valor epistemológico del testimonio?
-        - [ ] ¿Tiene fuerza un testimonio histórico del absoluto?
-        - [ ] ¿Tiene carácter veritativo el lenguaje teológico?
+        - [X] ¿Tiene fuerza un testimonio histórico del absoluto?
+        - [X] ¿Tiene carácter veritativo el lenguaje teológico?
 ** TODO Cap. 2: Vida y Pensamiento de G.E.M. Anscombe [0%]
 *** TODO Biografía de G.E.M. Anscombe [0%]
         - [ ] Nacimiento y familia
@@ -52,11 +53,16 @@
         - [ ] Cambridge: filosofía analítica
         - [ ] Profesora y Catedrática
 ** TODO Cap. 3: La Concepción de G.E.M. Anscombe Sobre el Testimonio [0%]
-*** TODO Desarrollo Diacrónico [0%]
-        - [ ] Hume and Julius Caesar 1973
-        - [ ] Faith 1975
-        - [ ] What is it to Believe Someone? 1979
-        - [ ] Hume on Miracles undated and unpublished
-        - [ ] Prophecy and Miracles
+*** TODO Análisis Diacrónico [0%]
+        - [ ] Prophecy and Miracles (1957)
+        - [ ] Parmenides, Mystery and Contradiction (1969)
+        - [ ] On Transubstantiation (1974)
+        - [ ] Hume and Julius Caesar (1973)
+        - [ ] Faith (1975)
+        - [ ] The Question of Linguistic Idealism (1976)
+        - [ ] What is it to Believe Someone? (1979)
 *** TODO Desarrollo Sincrónico [%]
+        - [ ] Quaestio 1: Epsitemology of Testimony
+        - [ ] Quaestio 2: On God's Attestation
+        - [ ] Quaestio 3: Mystery and Nonsense
 ** TODO Cap. 4: Valoración Final [0%]
