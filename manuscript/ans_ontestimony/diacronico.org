@@ -22,7 +22,7 @@
 #+BEGIN_SRC latex
   Anscombe especifica las coordenadas de su discusión en torno a tres documentos:
   \begin{enumerate}
-  \item La constitución dogmática \enquote{Dei Filius}, específicamente el
+  \item La constitución dogmática \emph{Dei Filius}, específicamente el
     capítulo tercero: \blockquote[Ut nihilominus fidei nostrae obsequium rationi
     consentaneum esset, voluit Deus cum internis Spiritus Sancti auxiliis externa
     iungi revelationis suae argumenta, facta scilicet divina, atque imprimis
@@ -79,21 +79,22 @@
 *** reasons for remark about certainty of Alexander
 #+BEGIN_SRC latex
   Anscombe comienza su discusión desenmarañando algunos puntos de los argumentos.
-  Lessing destaca que todos creemos que hubo una persona llamada Alejandro, que
-  conquistó casi toda Asia en corto tiempo, entonces lanza el reto:
-  \enquote{¿Quién, en consecuencia de esta creencia, estaría dispuesto a abjurar
-    permanentemente de todo conocimiento que pueda entrar en conflicto con ella?}.
-  Entonces invita a considerar, que después de todo, sería posible que la creencia
-  en estas grandes conquistas podrían estar fundadas simplemente en los poemas de
-  Quérilo que acompañó a Alejandro.\footnote{Cf.~ \enquote{We all believe that
-      there was such a person as Alexander, who conquered almost all Asia in a
-      short time. But who would stake something of great and permanent importance,
-      whose loss was irreplaceable, on this belief? Who, in consequence of this
-      belief, would forswear for ever all knowledge that should concflict with it?
-      Certainly I should not. I have at present nothing to object against
-      Alexander and his conquests; but it would after all be possible that they
-      were founded on a mere poem of Choerilus who accompanied Alexander, just as
-      the ten year siege of Troy is founded on nothing but Homer.}}
+  Lessing emplea como ejemplo de verdad histórica nuestra creencia en que hubo en
+  el pasado una persona llamada Alejandro, que conquistó casi toda Asia en corto
+  tiempo, entonces plantea el reto: \enquote{¿Quién, en consecuencia de esta
+    creencia, estaría dispuesto a abjurar permanentemente de todo conocimiento que
+    pueda entrar en conflicto con ella?}. Entonces invita a considerar, que
+  después de todo, sería posible que la creencia en estas grandes conquistas
+  podrían estar fundadas simplemente en los poemas de Quérilo que acompañó a
+  Alejandro.\footnote{Cf.~ \enquote{We all believe that there was such a person as
+      Alexander, who conquered almost all Asia in a short time. But who would
+      stake something of great and permanent importance, whose loss was
+      irreplaceable, on this belief? Who, in consequence of this belief, would
+      forswear for ever all knowledge that should concflict with it? Certainly I
+      should not. I have at present nothing to object against Alexander and his
+      conquests; but it would after all be possible that they were founded on a
+      mere poem of Choerilus who accompanied Alexander, just as the ten year siege
+      of Troy is founded on nothing but Homer.}}
 
   Esta última propuesta resulta llamativa para Anscombe. Parece una alusión al
   hecho de que conocemos de Cristo por una fuente o tradición \enquote{única}. Sin
@@ -106,14 +107,14 @@
   juicio de Anscombe, esta premisa no merece gran atención. El supuesto de que
   cualquier cosa creíble sobre Dios tiene que ser una verdad necesaria de razón le
   parece una derivación de las nociones de Leibniz de Dios como un ser necesario.
-  En adición a esto, es una premisa derivada de la idea de que las verdades de la
-  religión son de tal naturaleza que la razón humana podría haber llegado a
+  En adición a esto, es una premisa apoyada sobre el supuesto de que las verdades
+  de la religión son de tal naturaleza que la razón humana podría haber llegado a
   pensarlas por sí misma.
 #+END_SRC
 *** Algo de valor fe cierta no fundada en argumentos inciertos
 #+BEGIN_SRC latex
-  Anscombe encuentra valor en la premisa acerca de no afirmar certezas más allá de
-  las que las verdades históricas nos dan la autoridad de justificar. La
+  Anscombe sí encuentra valor en la premisa acerca de no afirmar certezas más allá
+  de las que las verdades históricas nos dan la autoridad de justificar. La
   constitución del Vaticano I habla de los milagros y profecias cumplidas como
   solidos argumentos externos. ¿Puede una verdad histórica contar con certeza
   suficiente para representar un solido argumento externo? No es el papel de estas
@@ -141,7 +142,7 @@
   that the fallacy through which he stumbled upon the truth could not be a
   fallacy?]{Supongamos que una muy útil verdad matemática haya sido alcanzada por
     su descubridor por medio de una falacia evidente. \textelp{} ¿Debería de negar
-    esta verdad? ¿Sería en esta cuenta un desagradecido agraviador del que ha
+    esta verdad? ¿Sería a cuenta de esto un desagradecido agraviador del que ha
     realizado el descubrimiento, si fuera renuente a apoyarme en su inteligencia
     en otras consideraciones, ciertamente si no considerara capaz de demostración,
     que la falacia a través de la cual tropezó sobre la verdad podría no ser una
@@ -150,9 +151,10 @@
   no solo no pueden ser proposiciones que derivan su justificación desde
   afirmaciones históricas, sino que además no podrían ser afirmaciones
   incompatibles con lo que podría ser razonable en estimar como históricamente
-  posible. Según esto, hace distinción entre la religión Cristiana y la religión
-  de Cristo, atribuyendo lo obscuro o confuso de la enseñanza de Cristo
-  transmitida a la religión Crisitana, y lo claro y útil a la religión de Cristo.
+  posible. Según esto, hace distinción entre la \emph{religión Cristiana} y la
+  \emph{religión de Cristo}, atribuyendo lo obscuro o confuso de la enseñanza de
+  Cristo transmitida en la \emph{religión Cristiana}, y lo claro y útil a la
+  \emph{religión de Cristo}.
 #+END_SRC
 *** Certidumbre de los milagros
 #+BEGIN_SRC latex
@@ -160,8 +162,8 @@
   exagera la certidumbre (desde un punto de vista externo) que podría tener
   Orígenes de los milagros y profecías cumplidas. Tanto en su tiempo como en el
   nuestro los milagros serían hechos completamente extraordinarios y serían
-  estimados por los escépticos con tanta incredulidad como ahora, mientras que los
-  Católicos los aceptan.
+  estimados por los escépticos con tanta incredulidad entonces como ahora,
+  mientras que los Católicos los aceptan.
 #+END_SRC
 ** Análisis del argumento central
 *** Sobre los milagros
@@ -185,24 +187,66 @@
 
 
 #+BEGIN_SRC latex
-  Hechas estas consideraciones, Anscombe estudia el argumento central establecido
-  por Lessing. Su impresión es que esta cuestión viene a reducirse a que sea
-  razonable decir: \enquote{Pero estas cosas \emph{pueden} no ser verdad, ¿cómo
-    puedo emplearlas para apoyar el Cristianismo?}. El argumento es útil, puesto
-  que no se orienta a atacar la veracidad de los milagros o cumplimientos de
-  profecías que han quedado documentados, sino que pone en duda que estos
-  testimonios o relatos puedan ser fundamento suficiente para sostener las
-  creencia en el Cristianismo como verdadera. En esto está claramente en conflicto
-  con la afirmación de Vaticano I. La afirmación de la Dei Filius, por su parte,
-  también es de extraordinario interés. Si la tomamos en cuenta junto con la
+  Hechas estas consideraciones preliminares, Anscombe estudia el argumento central
+  establecido por Lessing. Su impresión es que que la postura de Lessing viene a
+  reducirse a que le parece que lo razonable es decir: \enquote{Pero estas cosas
+    \emph{pueden} no ser verdad, ¿cómo puedo emplearlas para apoyar el
+    Cristianismo?}. El argumento es útil, puesto que no se orienta a atacar la
+  veracidad de los milagros o cumplimientos de profecías que han quedado
+  documentados, sino que pone en duda que estos testimonios o relatos puedan ser
+  fundamento suficiente para sostener las creencia en el Cristianismo como
+  verdadera. En esto está claramente en conflicto con la afirmación de Vaticano I.
+
+  La afirmación de \emph{Dei Filius}, a juicio de Anscombe, es de extraordinario
+  interés puesto que le parece que la experiencia más común es que creamos en las
+  profecías cumplidas y los milagros porque creemos en la religión Católica y
+  éstos forman parte de su enseñanza. Si tomamos esto en cuenta junto con la
   enseñanza del Deuteronomio y una reflexión razonable acerca de lo que la fe
   requiere tendríamos que decir que para que se puedan tomar los milagros y las
   profecías cumplidas como \enquote{solidos argumentos externos}, éstos tendrían
   que quedar determinados como tales antes de que quede afirmada la creencia en el
   Cristianismo. Pero, ¿acaso no hay ya cierto elemento teológico en designar algo
-  como una profecía cumplida o milagro?
+  como una profecía cumplida o milagro? ¿En que situación está un juez o
+  historiador indiferente de la religión que recibe noticias de un milagro o de
+  profecías cumplidas? ¿Pueden ser éstos solidos argumentos externos para creer en
+  la religión Católica?
 
+  El análisis de Anscombe se desarrolla en torno a la posibilidad de sostener
+  creencias ciertas teniendo como fundamento los informes de milagros, la certeza
+  de los relatos históricos y las profecías cumplidas que puedan ser consideradas
+  claras por su antigüedad, prioridad y realización.
 
+  En cuanto a los informes de milagros, Anscombe sostiene con Lessing que éstos no
+  apelarían a un juez que sea externo a las creencias religiosas. Podemos estimar
+  la resurrección de Cristo como signo principal de la apologética. A esta noticia
+  Lessing le concede tanta certeza como la que pueda tener un dato histórico,
+  Anscombe no está de acuerdo con esto. Le parece que no es irrazonable decir:
+  \blockquote[{\cite[26]{pnm}}: `Heaven knows what happened to produce this
+  belief; I do not. And I know much too little about what may go on in human minds
+  in the origins of embracing a new religious belief, to draw any conclusions (as
+  I am so often pressed to do) from the subsequent careers of the Apostles
+  (supposing them to be truly related in the main) or from the sudden appearance
+  and growth of a new religion, which after all is all I am really perfectly
+  certain of. I do know one thing: new religions sometimes spread like wildfire.
+  How this works, and how it gets established in them is obscure. I concede that
+  this is an impressive religion too; but then it had a very impressive religion
+  behind it: that of the Old Testament. Remember that beliefs in miraculous events
+  in connexion with the founders and heroes of religion are quite common. The most
+  I can grant is that the record is quite as if these things had happened: the
+  manner is not legendary, though the matter is!']{Dios sabe qué ocurrió para que
+    se produjera esta creencia; yo no lo sé. Además conozco muy poco de lo que
+    ocurre en las mentes humanas en los orígenes de abrazar una creencia religiosa
+    nueva, como para sacar alguna conclusión \textelp{} de las subsiguientes
+    misiones de los Apóstoles \textelp{} o de la repentina aparición y crecimiento
+  de una nueva religión, de lo que después de todo es todo de lo que estoy
+  perfectamente segura. Sí conozco una cosa: las religiones nuevas a veces se
+  propagan como el fuego. Cómo funciona esto, y cómo queda establecido en ellas es
+  oscuro. Concedo que ésta es una religión impresionante también; pero ha tenido
+  una religión impresionante tras ella: la del Antiguo Testamento. Recuerda que
+  las creencias de eventos milagrosos en conexión con los fundadores o héroes de
+  una religión son bastante comunes. Lo mayor que puedo conceder es que la noticia
+  es bastante como si estas cosas hubieran ocurrido: ¡el modo no es legendario,
+  aunque la materia sí!}
 
   Elizabeth atiende ambas cuestiones
 
@@ -241,6 +285,12 @@
 
 
   Luego dei filius
+
+  So far as I can see there has to be a thesis of natural theology... that someone
+  is divinely attested
+
+  what does this rest on? it might rest on faith
+
 
 
   El análisis de Anscombe examina cuatro dimensiones del argumento de Lessing. Los
