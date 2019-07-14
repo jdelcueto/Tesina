@@ -2,21 +2,25 @@
 # ------------------------------------------------------------------------------------
 # Santa Teresa Benedicta de la Cruz, ruega por nosotros
 
+
 #+BEGIN_SRC latex
 \section{Análisis Diacrónico}
 #+END_SRC
-
 * Prophecy and Miracles 1957
 #+BEGIN_SRC latex
 \subsection{Prophecy and Miracles}
 #+END_SRC
 ** Información del texto
 #+BEGIN_SRC latex
-  El texto de \emph{Prophecy and Miracles} ha sido publicado en \emph{Faith in a
-    Hard Ground} de la colección de St. Andrew's. Con mucha probabilidad es el
-  texto de una ponencia ofrecida en 1957 en el \emph{Philosophical Enquiry Group}
-  que solía reunirse en el Centro de Conferencias de los Dominicos en \emph{Spode
-    House, Staffordshire}.
+  El \emph{Philosophical Enquiry Group} se reunió anualmente entre 1954 y 1974 en
+  el Centro de Conferencias de los Dominicos en \emph{Spode House, Staffordshire}.
+  Los encuentros tenían como objetivo la discusión de cuestiones relacionadas con
+  las creencias y prácticas cristianas. Elizabeth Anscombe y Peter Geach
+  estuvieron entre los primeros ponentes invitados y colaboraron durante los
+  veinte años que se realizaron las conferencias.\footnote{Cf. fhg prefacio p. x}
+  \emph{Prophecy and Miracles}, publicado en \emph{Faith in a Hard Ground} en 2008
+  es con mucha probabilidad el texto de una ponencia ofrecida por Anscombe en la
+  reunión del grupo en 1957.
 #+END_SRC
 ** Introducción: Planteamiento de la cuestión
 #+BEGIN_SRC latex
@@ -275,24 +279,23 @@
   evidencia historica podría sugerir del todo, si una gran gama de cosas en la
   historia no fueran totalmente sólidas
 
-
-
   Elizabeth atiende ambas cuestiones
 
   Primero Lessing
   hay que concederle a Lessing que los informes de estos no apelarían a un juez
   externo
 
+
   37: el rol de los milagros que he sostenido que no pueden ser aceptados como
   hechos ciertamente verdaderos por un historiador indiferente, me parece que es:
   si alguien está seriamente considerando la verdad de toda la revelación en el
-  modo que he descrito, los milagros son consonos. 
+  modo que he descrito, los milagros son consonos.
 
   En donde Lessing no tiene razón, a juicio de Anscombe es en decir que ninguna
   certeza histórica puede ser suficientemente fuerte como para ser absoluta
 
   si lo que se está poniendo en duda es la fuerza de la certeza, no es cierto que
-  la certeza histórica no pueda servir como fundamento de la certeza absoluta 
+  la certeza histórica no pueda servir como fundamento de la certeza absoluta
 
   aunque también parece que hay algo en el argumento que tiene que ver más bien
   con saltar a otra clase de verdades.
