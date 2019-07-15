@@ -35,34 +35,40 @@
 #+END_SRC
 *** Introducción: Planteamiento de la cuestión
 #+BEGIN_SRC latex
-
-  Anscombe especifica las coordenadas de su discusión en torno a tres documentos:
+  Anscombe comienza su discusión enumerando tres documentos que contienen el
+  problema que va a analizar:
   \begin{enumerate}
   \item La constitución dogmática \emph{Dei Filius}, específicamente el capítulo
     tercero: \blockquote[{\cite[\S\,3009]{vati1870df}}: Ut nihilominus fidei
-    nostrae obsequium rationi consentaneum esset, voluit Deus cum internis
-    Spiritus Sancti auxiliis externa iungi revelationis suae argumenta, facta
-    scilicet divina, atque imprimis miracula et prophetias, quae cum Dei
-    omnipotentiam et infinitam scientiam luculenter commonstrent, divinae
-    revelationis signa sunt certissima et omnium intelligentiae accommodata. Quare
-    tum Moyses et Prophetae, tum ipse maxime Christus Dominus multa et
-    manifestissima miracula et prophetias ediderunt; et de Apostolis legimus:
-    ``Illi autem profecti praedicaverunt ubique, domino cooperante, et sermonem
-    confirmante, sequentibus signis'' \textins{Mc 16,20}. Et rursum scriptum est:
-    ``Habemus firmiorem propheticum sermonem, cui bene facitis attendentes quasi
-    lucernae lucenti in caliginoso loco'' \textins{2 Pt 1,19}.]{Sin embargo, para
-      que el obsequio de nuestra fe sea de acuerdo a la razón, quiso Dios que a la
-      asistencia interna del Espíritu Santo estén unidos argumentos externos de su
-      revelación, esto es, hechos divinos y, ante todo, milagros y profecías, que,
-      mostrando claramente la omnipotencia y conocimiento infinito de Dios, son
-      signos ciertísimos de la revelación y son adecuados al entendimiento de
-      todos. Por eso Moisés y los profetas, y especialmente el mismo Cristo
-      Nuestro Señor, obraron muchos milagros absolutamente claros y pronunciaron
-      profecías; y de los apóstoles leemos: <<Salieron a predicar por todas
-      partes, colaborando el Señor con ellos y confirmando la Palabra con las
-      señales que la acompañaban>>. Y nuevamente está escrito: <<Tenemos una
-      palabra profética más firme, a la cual hacéis bien en prestar atención, como
-      a lámparas que iluminan en lugar oscuro>>.}
+    nostrae obsequium rationi consentaneum \textins{\emph{cf. Rm 12,1}} esset,
+    voluit Deus cum internis Spiritus Sancti auxiliis externa iungi revelationis
+    suae argumenta, facta scilicet divina, atque imprimis miracula et prophetias,
+    quae cum Dei omnipotentiam et infinitam scientiam luculenter commonstrent,
+    divinae revelationis signa sunt certissima et omnium intelligentiae
+    accommodata \textins{\emph{can. 3 et 4}}. Quare tum Moyses et Prophetae, tum
+    ipse maxime Christus Dominus multa et manifestissima miracula et prophetias
+    ediderunt; et de Apostolis legimus: ``Illi autem profecti praedicaverunt
+    ubique, domino cooperante, et sermonem confirmante, sequentibus signis''
+    \textins{\emph{Mc 16,20}}. Et rursum scriptum est: ``Habemus firmiorem
+    propheticum sermonem, cui bene facitis attendentes quasi lucernae lucenti in
+    caliginoso loco'' \textins{\emph{2 Pt 1,19}}.]{Sin embargo, para que el
+      obsequio de nuestra fe fuera conforme a la razón \textins{\emph{cf. Rm
+          12,1}}, quiso Dios que a los auxilios internos del Espíritu Santo se
+      juntaran argumentos externos de su revelación, a saber, hechos divinos y,
+      ante todo, los milagros y profecías, que, mostrando de consuno luminosamente
+      la omnipotencia y ciencia infinita de Dios, son signos ciertísimos y
+      acomodados a la inteligencia de todos, de la revelación divina
+      \textins{\emph{can. 3 et 4}}.
+
+      de
+      la revelación y son adecuados al entendimiento de todos. Por eso Moisés y
+      los profetas, y especialmente el mismo Cristo Nuestro Señor, obraron muchos
+      milagros absolutamente claros y pronunciaron profecías; y de los apóstoles
+      leemos: <<Salieron a predicar por todas partes, colaborando el Señor con
+      ellos y confirmando la Palabra con las señales que la acompañaban>>. Y
+      nuevamente está escrito: <<Tenemos una palabra profética más firme, a la
+      cual hacéis bien en prestar atención, como a lámparas que iluminan en lugar
+      oscuro>>.}
   \item La advertencia del Deuteronomio: \blockquote{Todo lo que yo os mando, lo
       debéis observar y cumplir; no añadirás ni suprimirás nada. Si surge en medio
       de ti un profeta o un visionario soñador y te propone: \enquote{Vamos en pos
