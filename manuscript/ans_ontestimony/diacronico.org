@@ -2,52 +2,65 @@
 # ------------------------------------------------------------------------------------
 # Santa Teresa Benedicta de la Cruz, ruega por nosotros
 
-
+* Análisis /"Diacrónico"/
 #+BEGIN_SRC latex
 \section{Análisis Diacrónico}
 #+END_SRC
-* Prophecy and Miracles 1957
+** Prophecy and Miracles (1957)
 #+BEGIN_SRC latex
 \subsection{Prophecy and Miracles}
 #+END_SRC
-** Información del texto
+*** Información del texto
 #+BEGIN_SRC latex
   El \emph{Philosophical Enquiry Group} se reunió anualmente entre 1954 y 1974 en
   el Centro de Conferencias de los Dominicos en \emph{Spode House, Staffordshire}.
   Los encuentros tenían como objetivo la discusión de cuestiones relacionadas con
   las creencias y prácticas cristianas. Elizabeth Anscombe y Peter Geach
   estuvieron entre los primeros ponentes invitados y colaboraron durante los
-  veinte años que se realizaron las conferencias.\footnote{Cf. fhg prefacio p. x}
-  \emph{Prophecy and Miracles}, publicado en \emph{Faith in a Hard Ground} en 2008
-  es con mucha probabilidad el texto de una ponencia ofrecida por Anscombe en la
-  reunión del grupo en 1957.
+  veinte años que se realizaron las
+  conferencias.\footnote{\cite[Cf.~][x]{anscombe2008faith}: \textelp{} no
+    information was found about a number of papers. Features of their physical
+    format suggested that the group of three (`Prophecy', `The Inmortality of the
+    soul', and `On being in good faith', Nos. 3,9 and 12) were all given in the
+    late 1950s and early 1960s to the Philosophical Enquiry Group wich met each
+    year between 1954 and 1974 at the Dominican Conference Centre at Spode House
+    in Staffordshire. \textelp{} Among the first invitees were Elizabeth Anscombe
+    and Peter Geach \textelp{} The meetings focused on philosophical issues
+    related to Christian belief and practice.} Una de estas colaboraciones se
+  encuentra en \emph{Prophecy and Miracles}, publicado en \emph{Faith in a Hard
+    Ground} en 2008. Es con mucha probabilidad el texto de una ponencia ofrecida
+  por Anscombe en la reunión del grupo en 1957.\footnote{\cite[Cf.~][nota a pie de
+    página 20]{anscombe2008faith:prophandmi}: From the undated typescript of a
+    paper, probably delivered in 1957}
 #+END_SRC
-** Introducción: Planteamiento de la cuestión
+*** Introducción: Planteamiento de la cuestión
 #+BEGIN_SRC latex
+
   Anscombe especifica las coordenadas de su discusión en torno a tres documentos:
   \begin{enumerate}
-  \item La constitución dogmática \emph{Dei Filius}, específicamente el
-    capítulo tercero: \blockquote[Ut nihilominus fidei nostrae obsequium rationi
-    consentaneum esset, voluit Deus cum internis Spiritus Sancti auxiliis externa
-    iungi revelationis suae argumenta, facta scilicet divina, atque imprimis
-    miracula et prophetias, quae cum Dei omnipotentiam et infinitam scientiam
-    luculenter commonstrent, divinae revelationis signa sunt certissima et omnium
-    intelligentiae accommodata. Quare tum Moyses et Prophetae, tum ipse maxime
-    Christus Dominus multa et manifestissima miracula et prophetias ediderunt; et
-    de Apostolis legimus: Illi autem profecti praedicaverunt ubique, domino
-    cooperante, et sermonem confirmante, sequentibus signis (Mare. XVI, 20). Et
-    rursum scriptum est: Habemus firmiorem propheticum sermonem, cui bene facitis
-    attendentes quasi lucernae lucenti in caliginoso loco (2 Petr. I, 19).]{Sin
-      embargo, para que el obsequio de nuestra fe sea de acuerdo a la razón, quiso
-      Dios que a la asistencia interna del Espíritu Santo estén unidos argumentos
-      externos de su revelación, esto es, hechos divinos y, ante todo, milagros y
-      profecías, que, mostrando claramente la omnipotencia y conocimiento infinito
-      de Dios, son signos ciertísimos de la revelación y son adecuados al
-      entendimiento de todos. Por eso Moisés y los profetas, y especialmente el
-      mismo Cristo Nuestro Señor, obraron muchos milagros absolutamente claros y
-      pronunciaron profecías; y de los apóstoles leemos: <<Salieron a predicar por
-      todas partes, colaborando el Señor con ellos y confirmando la Palabra con
-      las señales que la acompañaban>>. Y nuevamente está escrito: <<Tenemos una
+  \item La constitución dogmática \emph{Dei Filius}, específicamente el capítulo
+    tercero: \blockquote[{\cite[\S\,3009]{vati1870df}}: Ut nihilominus fidei
+    nostrae obsequium rationi consentaneum esset, voluit Deus cum internis
+    Spiritus Sancti auxiliis externa iungi revelationis suae argumenta, facta
+    scilicet divina, atque imprimis miracula et prophetias, quae cum Dei
+    omnipotentiam et infinitam scientiam luculenter commonstrent, divinae
+    revelationis signa sunt certissima et omnium intelligentiae accommodata. Quare
+    tum Moyses et Prophetae, tum ipse maxime Christus Dominus multa et
+    manifestissima miracula et prophetias ediderunt; et de Apostolis legimus:
+    ``Illi autem profecti praedicaverunt ubique, domino cooperante, et sermonem
+    confirmante, sequentibus signis'' \textins{Mc 16,20}. Et rursum scriptum est:
+    ``Habemus firmiorem propheticum sermonem, cui bene facitis attendentes quasi
+    lucernae lucenti in caliginoso loco'' \textins{2 Pt 1,19}.]{Sin embargo, para
+      que el obsequio de nuestra fe sea de acuerdo a la razón, quiso Dios que a la
+      asistencia interna del Espíritu Santo estén unidos argumentos externos de su
+      revelación, esto es, hechos divinos y, ante todo, milagros y profecías, que,
+      mostrando claramente la omnipotencia y conocimiento infinito de Dios, son
+      signos ciertísimos de la revelación y son adecuados al entendimiento de
+      todos. Por eso Moisés y los profetas, y especialmente el mismo Cristo
+      Nuestro Señor, obraron muchos milagros absolutamente claros y pronunciaron
+      profecías; y de los apóstoles leemos: <<Salieron a predicar por todas
+      partes, colaborando el Señor con ellos y confirmando la Palabra con las
+      señales que la acompañaban>>. Y nuevamente está escrito: <<Tenemos una
       palabra profética más firme, a la cual hacéis bien en prestar atención, como
       a lámparas que iluminan en lugar oscuro>>.}
   \item La advertencia del Deuteronomio: \blockquote{Todo lo que yo os mando, lo
@@ -79,8 +92,8 @@
   \end{enumerate}
 
 #+END_SRC
-** Preámbulo: Análisis del argumento de Lessing
-*** reasons for remark about certainty of Alexander
+*** Preámbulo: Análisis del argumento de Lessing
+**** reasons for remark about certainty of Alexander
 #+BEGIN_SRC latex
   Anscombe comienza su discusión desenmarañando algunos puntos de los argumentos.
   Lessing emplea como ejemplo de verdad histórica nuestra creencia en que hubo en
@@ -115,7 +128,7 @@
   de la religión son de tal naturaleza que la razón humana podría haber llegado a
   pensarlas por sí misma.
 #+END_SRC
-*** Algo de valor fe cierta no fundada en argumentos inciertos
+**** Algo de valor fe cierta no fundada en argumentos inciertos
 #+BEGIN_SRC latex
   Anscombe sí encuentra valor en la premisa acerca de no afirmar certezas más allá
   de las que las verdades históricas nos dan la autoridad de justificar. La
@@ -134,7 +147,7 @@
   idea de que una fe cierta no se puede afirmar simplemente en argumentos externos
   con fundamentos inciertos.
 #+END_SRC
-*** Religión de Cristo/cristiana
+**** Religión de Cristo/cristiana
 #+BEGIN_SRC latex
   Es importante también tener en cuenta que la posición de Lessing ante el
   Cristianismo es incompatible con las creencias Cristianas. Emplea una analogía
@@ -160,7 +173,7 @@
   Cristo transmitida en la \emph{religión Cristiana}, y lo claro y útil a la
   \emph{religión de Cristo}.
 #+END_SRC
-*** Certidumbre de los milagros
+**** Certidumbre de los milagros
 #+BEGIN_SRC latex
   Una aclaración adicional que Anscombe destaca es que, a su juicio, Lessing
   exagera la certidumbre (desde un punto de vista externo) que podría tener
@@ -169,8 +182,8 @@
   estimados por los escépticos con tanta incredulidad entonces como ahora,
   mientras que los Católicos los aceptan.
 #+END_SRC
-** Análisis del argumento central
-*** Sobre los milagros
+*** Análisis del argumento central
+**** Sobre los milagros
   Primero sobre los milagros....
   los informes de estos no apelarían a un juez externo
 
@@ -332,9 +345,9 @@
 
 #+END_SRC
 
-*** Sobre apostar por creencias apoyados en la fuerza de la certeza histórica
-*** Sobre las profecías
-** Conclusiones
+**** Sobre apostar por creencias apoyados en la fuerza de la certeza histórica
+**** Sobre las profecías
+*** Conclusiones
   El análisis de Anscombe en torno al argumento de Lessing toca varios puntos
 
   Principalmente sostiene que Lessing tiene razón cuando propone que
@@ -606,7 +619,7 @@ p. 37 Now what does this rest on? It might rest on faith. In Deuteronomy, when t
 were forbidden to consult soothsayers and necromancers, and omens, they were promised
 prophets ‘like Moses’ whom they were to attend to instead.
 
-* Hume and Julius Caesar 1973                    :published:
+** Hume and Julius Caesar (1973)
 :PUBLICATION_INFO:
 Originally published in october 1973 vol 34 Issue 1 of Analysis Journal Reprinted in
 CPP I in 1981 p. 86-92
@@ -614,7 +627,7 @@ CPP I in 1981 p. 86-92
 #+BEGIN_SRC latex
 \subsection{Hume and Julius Caesar}
 #+END_SRC
-** Intro 1: este ensayo y los otros
+*** Intro 1: este ensayo y los otros
 :TEXT:
 In the present volume the lengthy paper ‘Hume on causality: introductory’ is the matrix
 from which Anscombe extracted ‘Hume and Julius Caesar’ and ‘“Whatever has a beginning
@@ -630,7 +643,7 @@ which is abundantly evident in her unpublished papers.
   Hume. En el trasfondo de los dos artículos está otro documento no publicado
   hasta 2011 con el título \emph{Hume on causality: introductory}.
 #+END_SRC
-** Intro 2: Hume es interesante porque abre buenas cuestiones
+*** Intro 2: Hume es interesante porque abre buenas cuestiones
 #+BEGIN_SRC latex
   Anscombe again and again found in Hume a starting point for her discussions; and
   we must not be misled bye her frequent dissent from his views into thinking of
@@ -668,7 +681,7 @@ which is abundantly evident in her unpublished papers.
       queda necesitado de investigación como resultado de los puntos que Hume
       pretende haber hecho.}
 #+END_SRC
-** Fundamento de creencias más allá impresiones es una buena cuestión
+*** Fundamento de creencias más allá impresiones es una buena cuestión
 #+BEGIN_SRC latex
   En el artículo \emph{Hume and Julius Caesar} la discusión que capta el interés
   de Anscombe se encuentra en la sección IV de la tercera parte del \emph{Treatise
@@ -694,8 +707,8 @@ which is abundantly evident in her unpublished papers.
     único que puede detenerlas es una impresión de la memoria o los sentidos más
     allá de la cual no existe espacio para la duda o indagación.}
 #+END_SRC
-** un presupuesto y dos argumentos:
-*** relación causa-efecto puente hacia cuestiones más allá de impresiones
+*** un presupuesto y dos argumentos:
+**** relación causa-efecto puente hacia cuestiones más allá de impresiones
 :TEXT:
 When we infer effects from causes, we must establish the existence of these causes;
 which we have only two ways of doing, either by an immediate perception of our memory
@@ -724,8 +737,8 @@ causes, and so on, till we arrive at some object, which we see or remember.
     causa y efecto es el único puente por el que se puede alcanzar creer en
     cuestiones más allá de nuestras impresiones presentes o memorias.}
 #+END_SRC
-** Ilustración: punto histórico, por qué razón lo creemos o rechazamos
-*** we believe that Caesar was killed
+*** Ilustración: punto histórico, por qué razón lo creemos o rechazamos
+**** we believe that Caesar was killed
 :TEXT:
   To give an instance of this, we may chuse any point of history, and consider for what
   reason we either believe or reject it. Thus we believe that Cæsar was kill’d in the
@@ -791,8 +804,8 @@ causes, and so on, till we arrive at some object, which we see or remember.
       memoria o los sentidos nuestro razonamiento entero sería quimérico o carecería
       de fundamento.}
 #+END_SRC
-** Catching Hume on his mistake
-*** it must be purely hypothetical inference
+*** Catching Hume on his mistake
+**** it must be purely hypothetical inference
 #+BEGIN_SRC latex
   Anscombe comienza por reaccionar afirmando:
   \blockquote[{\cite[86]{anscombe1981hjc}}: This is not to infer effects from
@@ -917,7 +930,7 @@ causes, and so on, till we arrive at some object, which we see or remember.
     que se nos dicen y los escritos que vemos son puntos de partida para nuestro
     creer en eventos distantes y así también en la cadena del relato intermedia.}
 #+END_SRC
-*** no es posible continuar infinitamente una cadena de inferencias
+**** no es posible continuar infinitamente una cadena de inferencias
 :TEXT:
 ’Tis impossible for us to carry on our inferences in infinitum; and the only thing,
 that can stop them, is an impression of the memory or senses, beyond which there is no
@@ -956,7 +969,7 @@ para siempre, sino que tiene que terminar n
   be correct.
 
 #+END_SRC
-*** el término de la cadena de inferencias no puede ser otra inferencia
+**** el término de la cadena de inferencias no puede ser otra inferencia
 +BEGIN_SRC latex
 Hume’s second point is that not merely must the chain that he is concerned with
 come to an end somewhere, but its terminus must be of a different kind from the
@@ -978,15 +991,15 @@ impressions, and ‘all reasonings concerning causes and effects are originally
 deriv’d from some impression’.
 #+END_SRC
 
-*** hume's thesis falls into four parts
-*** two comparisons: identity and proper names
+**** hume's thesis falls into four parts
+**** two comparisons: identity and proper names
 #+BEGIN_SRC latex
 
 #+END_SRC
 
-** Conclusion:perception of records>belief distant event>chain of record
+*** Conclusion:perception of records>belief distant event>chain of record
 
-** Not just catching the mistake, but seeing what to say about this
+*** Not just catching the mistake, but seeing what to say about this
 The interesting problem that arises, then, is why the things we are told and the
 writings that we see are the starting points for our belief in the far distant events
 and so in the intermediate chain of record. This is a question of vast importance. But
@@ -994,7 +1007,7 @@ the consideration of it would take us far away from that investigation of Hume o
 which has been our present business. I take it as sufficiently demonstrated that Hume’s
 account is wrong. (One may be convinced of that without thinking that one has an
 alternative account.)
-** Wittgenstein: On Certainty
+*** Wittgenstein: On Certainty
 
 
 So it turns out when I say things like “Here is a hand” I’m not really making a claim

@@ -1146,6 +1146,30 @@ keywords = "magisterio, francisco",
 ** Fides et Ratio
 
 
+** Dei Filius
+#+BEGIN_SRC bibtex :tangle secondary.bib
+  @incollection{vati1870df,
+      editor    = "Heinrich Denzinger and Peter Hünermann",
+      booktitle = "El Magisterio de la Iglesia",
+      booksubtitle = "Enchiridion Symbolorum Definitionum et Declarationum de
+                    Rebus Fidei et Morum",
+      publisher = "Herder",
+      author    = "Vaticano~I",
+      title     = "Constitución Dogmática Dei Filius",
+      %volume   = "",
+      %number   = "",
+      %series   = "",
+      %address  = "",
+      edition  = "2",
+      year      = "2000",
+      pages     = "764--775",
+      %month    = "",
+      %note     = "",
+      keywords ="magisterio",
+  }
+#+END_SRC
+
+
 
 * Testers
 
