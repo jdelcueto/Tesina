@@ -1104,6 +1104,7 @@ keywords = "hume, philosophy",
 }
 #+END_SRC
 ** Gotthold Ephraim Lessing
+*** Philosophical and Theological Writings
 #+BEGIN_SRC bibtex :tangle secondary.bib
 @collection{lessing2005writings,
 author = "Gotthold Ephraim Lessing",
@@ -1117,7 +1118,7 @@ keywords = "lessing, philosophy",
 }
 #+END_SRC
 
-*** What is it to Believe Someone
+*** On the proof of the spirit and of power
 #+BEGIN_SRC bibtex :tangle primary.bib
   @incollection{lessing2005writings:proof,
   title={On the proof of the spirit and of power},
@@ -1128,6 +1129,29 @@ keywords = "lessing, philosophy",
   }
 #+END_SRC
 
+*** Escritos Filosóficos y Teológicos
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@collection{lessing1982escritos,
+author = "Gotthold Ephraim Lessing",
+translator = "Agustín Andreu Rodrigo",
+title = "Escritos Filosóficos y Teológicos",
+publisher = "Editora Nacional",
+location = "Madrid",
+year = "1982",
+keywords = "lessing, philosophy",
+}
+#+END_SRC
+
+*** On the proof of the spirit and of power
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{lessing1982escritos:demo,
+  title={Sobre la Demostración en Espíritu y Fuerza},
+  crossref={lessing1982escritos},
+  pages={480--487},
+  keywords={},
+  abstract={}
+  }
+#+END_SRC
 
 
 #+BEGIN_SRC bibtex :tangle secondary.bib

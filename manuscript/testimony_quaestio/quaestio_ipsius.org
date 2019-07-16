@@ -351,14 +351,15 @@
   \subsection{¿Hay justificación para valorar un hecho histórico como
     atestación divina?}
   El contexto de la reflexión de Hume sobre el testimonio es precisamente el de la
-    creencia en los milagros. La preocupación de Hume es que el \enquote{hombre
+  creencia en los milagros. La preocupación de Hume es que el \enquote{hombre
     sabio} pueda verificar sus creencias de modo que no sea víctima de
-  \enquote{engaños supersticiosos}. Para esto, estima, que ha encontrado un
-  argumento que servirá para distinguir la superstición de
-  la verdad.\footnote{\cite[\S10,1. 73]{hume1777enquiry}: I flatter myself, that I
-    have discovered an argument of a like nature, which, if just, will, with the
-    wise and learned, be an everlasting check to all kinds of superstitious
-    delusion, and consequently will be useful as long as the world endures.} Dice:
+  \enquote{engaños supersticiosos}. Para esto, estima que ha encontrado un
+  argumento que servirá para distinguir la superstición de la
+  verdad.\footnote{\cite[Cf.~][\S10,1. 73]{hume1777enquiry}: I flatter myself,
+    that I have discovered an argument of a like nature, which, if just, will,
+    with the wise and learned, be an everlasting check to all kinds of
+    superstitious delusion, and consequently will be useful as long as the world
+    endures.} Dice:
 
   \blockquote[{\cite[\S10,1. 73]{hume1777enquiry}}: in our reasonings concerning
   matter of fact, there are all imaginable degrees of assurance, from the highest
@@ -366,7 +367,7 @@
   proportions his belief to the evidence]{en nuestros razonamientos concernientes
     a cuestiones de hecho, se dan todos los grados imaginables de seguridad, desde la
     certeza más alta hasta las especies más bajas de evidencia moral. Un hombre
-    sabio, por tanto, adecua su creencia a la evidencia}.
+    sabio, por tanto, adecúa su creencia a la evidencia}.
 
   Entonces sugiere un criterio que permite ajustar las creencias
   a la evidencia:
@@ -452,48 +453,34 @@
   experimentamos en el presente.
 
   En una línea similar de pensamiento encontramos las reflexiones de
-  G.\,E.~Lessing. Dos cuestiones expresadas en \emph{On the proof of the spirit
-    and of power} merecen ser destacadas:
+  G.\,E.~Lessing. Dos cuestiones expresadas en \emph{Sobre la demostración en
+    Espíritu y Fuerza} merecen ser destacadas:
 
-  \blockquote[{\cite[]}
-  It is because this proof of the spirit and of power no longer has either spirit
-  or power
-  The problem is that reports of fulfilled prophecies are not
-  fullfiled prophecies; that reports of miracles are not miracles. These, the
-  prophecies fulfilled before my eyes, the miracles that occur before my eyes, are
-  immediate in their effect. But those---the reports of fulfilled prophecies and
-  miracles, have to work through a medium which takes away all their force]{El
-    problema es que las noticias de profecías cumplidas no son profecías
-    cumplidas; que las noticias de milagros no son milagros. Estas, las profecías
-    cumplidas ante mis ojos, los milagros que ocurren ante mis ojos, son
-    inmediatos en su efecto. Pero esas---las noticias de profecías y milagros,
-    tienen que pasar trabajosamente por un medio que les arrebata toda su fuerza}
+  \blockquote[{\cite[446]{lessing1982escritos:demo}}]{Porque las noticias de
+    profecías cumplidas no son profecías cumplidas, porque las noticias de
+    milagros no son milagros. Las profecías que se cumplen ante mis ojos, los
+    milagros que suceden ante mis ojos, influyen \emph{directamente}. Pero las
+    noticias de profecías y milagros cumplidos, han de influir \emph{mediante}
+    algo que les quita toda la fuerza.}
 
   Lo que debería tener la fuerza para justificar la credibilidad queda debilitado
-  por su medio de transmisión, entonces
-  \blockquote[the problem is that this proof of the spirit and of power no longer
-  has any spirit or power, but has sunk to the level of human testimonies of
-  spirit and power]{el problema es que esta prueba en espíritu y fuerza ya no
-    tiene ningún espíritu ni fuerza, sino que se ha hundido al nivel de
-    testimonios humanos de espíritu y de fuerza}.
+  por su medio de transmisión, entonces el problema es que
+  \blockquote[{\cite[446]{lessing1982escritos:demo}}]{esa prueba en espíritu y
+    fuerza ya no tiene ahora ni espíritu ni fuerza, sino que ha descendido a la
+    categoría de testimonio humano sobre el espíritu y la fuerza}.
 
   Tal como lo plantea Lessing y teniendo en cuenta el criterio propuesto por Hume,
   el testimonio, en tanto que dinamismo humano, no tiene fuerza suficiente para
   justificar razonablemente creencias sobre Dios como verdadero conocimiento. Esta
   objeción nos lleva a la siguiente:
-  \blockquote[the reports which we have of these prophecies and miracles are as
-  reliable as historical truths can ever be \textelp{} But if they are as reliable
-  as this, why are they treated as if they were infinitely more reliable?
-  \textelp{} If no historical truth can be demonstrated, then nothing can be
-  demonstrated by means of historical truths. That is: \emph{accidental truths of
-    history can never become proof of necessary truths of reason.}]{las noticias
-    que tenemos de estas profecías y milagros son tan fiables como lo puedan
-    llegar a ser las verdades históricas \textelp{} Pero si son tan fiables como
-    éstas, ¿por qué son tratadas como si fueran infinitamente más fiables?
-    \textelp{} Si ninguna verdad histórica puede ser demostrada, entonces nada
-    puede ser demostrado por medio de verdades históricas. Esto es: \emph{verdades
-      contingentes de la historia nunca pueden llegar a ser demostración de
-      verdades de razón necesarias}}
+  \blockquote[{\cite[446]{lessing1982escritos:demo}}]{las noticias de aquellas
+    profecías y milagros son tan atendibles como puedan serlo en todo caso las
+    verdades históricas \textelp{} Pero si \emph{sólo} pueden ser tan atendibles,
+    ¿por qué al mismo tiempo se las hace de hecho infinitamente más atendibles?
+    \textelp{} Si no puede demostrarse ninguna verdad histórica, tampoco podrá
+    demostrarse nada \emph{por medio} de verdades históricas. Es decir: \emph{Las
+      verdades históricas, como contingentes que son, no pueden servir de prueba
+      de las verdades de razón como necesarias que son}.}
 
   El punto que Lessing señala es infranqueable para él y para su intento de
   comprometerse con la verdad que la creencia cristiana pretende comunicar. La
@@ -514,131 +501,131 @@
 ** DONE ¿Tiene carácter veritativo el lenguaje teológico?
    CLOSED: [2019-07-02 Tue 10:06]
 #+BEGIN_SRC latex
-    \subsection{¿Tiene carácter veritativo el lenguaje teológico?}
-    Un tercer punto de nuestra problemática está representado en la crítica al
-    lenguaje religioso planteada por el Círculo de Viena. Este fenómeno cultural fue
-    una corriente de renovación del positivismo y empirismo sostenido por el interés
-    de univocidad semántica en los terminos empleados por las ciencias, la busqueda
-    de rigor lógico-sintáctico en los sistemas científicos y un frenético intento de
-    verificación empírica como justificación de las proposiciones
-    veritativas.\footnote{Cf.~\cite[152]{dominguez2009at}} Desde la perspectiva de
-    esta corriente, los discursos metafísicos, entre ellos la teología, eran
-    considerados como una forma de especulación incontrolada.
+  \subsection{¿Tiene carácter veritativo el lenguaje teológico?}
+  Un tercer punto de nuestra problemática está representado en la crítica al
+  lenguaje religioso planteada por el Círculo de Viena. Este fenómeno cultural fue
+  una corriente de renovación del positivismo y empirismo sostenido por el interés
+  de univocidad semántica en los terminos empleados por las ciencias, la busqueda
+  de rigor lógico-sintáctico en los sistemas científicos y un frenético intento de
+  verificación empírica como justificación de las proposiciones
+  veritativas.\footnote{Cf.~\cite[152]{dominguez2009at}} Desde la perspectiva de
+  esta corriente, los discursos metafísicos, entre ellos la teología, eran
+  considerados como una forma de especulación incontrolada.
 
-    En su \emph{Introduction to Wittgenstein's Tractatus}, Anscombe describe de modo
-    general la actitud del Círculo como aplicación de una de las afirmaciones
-    principales de esta obra: \blockquote[{\cite[150]{anscombe1959iwt}}: Probably
-    the best known thesis of the \emph{Tractatus} is that `metaphysical' statements
-    are nonsensical, and that the only sayable things are propositions of natural
-    sciences (6.53). Now natural science is surely the sphere of the empirically
-    discoverable; and the `empirically discoverable' is the same as `what can be
-    verified by the senses'. The passage therefore suggests the following quick and
-    easy way of dealing with `metaphysical' propositions: what sense-observations
-    would verify and falsify them? If none, then they are senseless. This was the
-    method of criticism adopted by the Vienna Circle and in this country by
-    Professor A.J.Ayer.]{Probablemente la tesis más conocida del \emph{Tractatus} es
-      que las afirmaciones `metafísicas' no tienen sentido, y que las únicas cosas
-      que pueden afirmarse son las proposiciones de las ciencias naturales (6.53).
-      Ahora ciencia natural es ciertamente el ámbito de lo que puede ser descubierto
-      empíricamente; y `lo que puede ser descubierto empíricamente' es lo mismo que
-      `lo que puede ser verificado por los sentidos'. El pasaje entonces sugiere el
-      siguiente modo fácil y rápido para lidiar con las proposiciones `metafísicas':
-      ¿qué observaciones-sensoriales las verificarían o falsificarían? Si ninguna,
-      entonces son sin-sentido. Este fue el método adoptado por el Círculo de Viena
-      y en este país por el Professor A.J.Ayer.}
+  En su \emph{Introduction to Wittgenstein's Tractatus}, Anscombe describe de modo
+  general la actitud del Círculo como aplicación de una de las afirmaciones
+  principales de esta obra: \blockquote[{\cite[150]{anscombe1959iwt}}: Probably
+  the best known thesis of the \emph{Tractatus} is that `metaphysical' statements
+  are nonsensical, and that the only sayable things are propositions of natural
+  sciences (6.53). Now natural science is surely the sphere of the empirically
+  discoverable; and the `empirically discoverable' is the same as `what can be
+  verified by the senses'. The passage therefore suggests the following quick and
+  easy way of dealing with `metaphysical' propositions: what sense-observations
+  would verify and falsify them? If none, then they are senseless. This was the
+  method of criticism adopted by the Vienna Circle and in this country by
+  Professor A.J.Ayer.]{Probablemente la tesis más conocida del \emph{Tractatus} es
+    que las afirmaciones `metafísicas' no tienen sentido, y que las únicas cosas
+    que pueden afirmarse son las proposiciones de las ciencias naturales (6.53).
+    Ahora ciencia natural es ciertamente el ámbito de lo que puede ser descubierto
+    empíricamente; y `lo que puede ser descubierto empíricamente' es lo mismo que
+    `lo que puede ser verificado por los sentidos'. El pasaje entonces sugiere el
+    siguiente modo fácil y rápido para lidiar con las proposiciones `metafísicas':
+    ¿qué observaciones-sensoriales las verificarían o falsificarían? Si ninguna,
+    entonces son sin-sentido. Este fue el método adoptado por el Círculo de Viena
+    y en este país por el Professor A.J.Ayer.}
 
-    Las expresiones de A.J. Ayer manifiestan la aplicación del método antes sugerido
-    de modo que no solo no es posible demostrar de la existencia de un dios
-    trascendente, sino incluso resulta imposible demostrar su probabilidad:
-    \blockquote[{\cite[155]{dominguez2009at}}]{Si la existencia de tal dios fuese
-      probable, la proposición de que existiera sería una hipótesis empírica. Y, en
-      ese caso, sería posible deducir de ella, y de otras hipótesis científicas,
-      ciertas proposiciones experienciales que no fuesen deducibles de esas otras
-      hipótesis solas. Pero, en realidad esto no es posible. [\ldots] Porque decir
-      que ``Dios existe'' es realizar una expresión metafísica que no pude ser ni
-      verdadera ni falsa. Y, según el mismo criterio, ninguna oración que pretenda
-      describir la naturaleza de un Dios trascendente puede poseer ninguna
-      significación literal.} Esta crítica, entonces, no se limita a cuestionar la
-    justificación que pueda tener la creencia en Dios o las afirmaciones religiosas,
-    sino que pone en duda la posibilidad de emplear este lenguaje como uno cuyas
-    proposiciones comunican algún conocimiento:
-    \blockquote[{\cite[155]{dominguez2009at}}]{La crítica del Círculo de Viena no se
-      suma al ``Dios ha muerto'' de Nietzsche, sino que va aún más allá: lo que ha
-      muerto es la misma palabra: ``Dios''. Nos encontramos ante lo que podemos
-      considerar una nueva y refinada especie de ateísmo: el ateísmo semántico. Esta
-      forma de ateísmo se sustenta en un equivocismo hermenéutico. No cabe comparar,
-      arguyen los equivocistas, los nombres de supuestas realidades trascendentes
-      con los de las realidades empíricas.}
+  Las expresiones de A.J. Ayer manifiestan la aplicación del método antes sugerido
+  de modo que no solo no es posible demostrar de la existencia de un dios
+  trascendente, sino incluso resulta imposible demostrar su probabilidad:
+  \blockquote[{\cite[155]{dominguez2009at}}]{Si la existencia de tal dios fuese
+    probable, la proposición de que existiera sería una hipótesis empírica. Y, en
+    ese caso, sería posible deducir de ella, y de otras hipótesis científicas,
+    ciertas proposiciones experienciales que no fuesen deducibles de esas otras
+    hipótesis solas. Pero, en realidad esto no es posible. [\ldots] Porque decir
+    que ``Dios existe'' es realizar una expresión metafísica que no pude ser ni
+    verdadera ni falsa. Y, según el mismo criterio, ninguna oración que pretenda
+    describir la naturaleza de un Dios trascendente puede poseer ninguna
+    significación literal.} Esta crítica, entonces, no se limita a cuestionar la
+  justificación que pueda tener la creencia en Dios o las afirmaciones religiosas,
+  sino que pone en duda la posibilidad de emplear este lenguaje como uno cuyas
+  proposiciones comunican algún conocimiento:
+  \blockquote[{\cite[155]{dominguez2009at}}]{La crítica del Círculo de Viena no se
+    suma al ``Dios ha muerto'' de Nietzsche, sino que va aún más allá: lo que ha
+    muerto es la misma palabra: ``Dios''. Nos encontramos ante lo que podemos
+    considerar una nueva y refinada especie de ateísmo: el ateísmo semántico. Esta
+    forma de ateísmo se sustenta en un equivocismo hermenéutico. No cabe comparar,
+    arguyen los equivocistas, los nombres de supuestas realidades trascendentes
+    con los de las realidades empíricas.}
 
-    Anscombe advierte, sin embargo que \blockquote[{\cite[150]{anscombe1959iwt}}:
-    There are certain difficulties about ascribing this doctrine to the
-    \emph{Tractatus}. There is nothing about sensible verification there.]{Hay
-      ciertas dificultades para adscribir esta doctrina al \emph{Tractatus}. No hay
-      nada sobre verificación sensible ahí}. Ciertamente, a juicio de Anscombe, la
-    metodología creada por el Círculo de Viena no se corresponde con la tesis del
-    \emph{Tractatus}. Tampoco va en sintonía con los objetivos de Wittgenstein en su
-    esfuerzo por purificar la metodología filosófica:
-    \blockquote[{\cite[152]{anscombe1959iwt}}: `Psychology is no more akin to
-    philosophy than any other natural science. Theory of knowledge is the philosophy
-    of psychology' (4.1121). In this passage Wittgenstein is trying to break the
-    dictatorial control over the rest of philosophy that had long been exercised by
-    what is called theory of knowledge---that is, by the philosophy of sensation,
-    perception, imagination, and, generally, of `experience'. He did not succeed. He
-    and Frege avoided making theory of knowledge the cardinal theory of philosophy
-    simply by cutting it dead; by doing none, and concentrating on the philosophy of
-    logic. But the influence of the \emph{Tractatus} produced logical positivism,
-    whose main doctrine is `verificationism'; and in that doctrine theory of
-    knowledge once more reigned supreme, and a prominent position was given to the
-    test for significance by asking for the observations that would verify a
-    statement.]{`La psicológia no es más semejante a la filosofía que cualquier otra
-      ciencia natural. La teoría del conocimiento es filosofía de la psicología'
-      (4.1121). En este pasaje Wittgenstein esta tratando de romper el control
-      dictatorial sobre el resto de la filosofía que por largo tiempo ha sido
-      ejercido por lo que se llama teoría del conocimiento---esto es, por la
-      filosofía de la sensación, percepción, imaginación, y, en general, de la
-      experiencia. No tuvo éxito. Él y Frege evitaron hacer de la teoría del
-      conocimiento la teoría cardinal de la filosofía simplemente al no alimentarla;
-      al no hacer ninguna, y concentrándose en la filosofía de la lógica. Sin
-      embargo la influencia del \emph{Tractatus} produjo el positivismo lógico, cuya
-      doctrina principal es el `verificacionismo'; y en esa doctrina la teoría del
-      conocimiento una vez más reinó, y una posición prominente se le dio a la
-      prueba sobre la significación por el requisito de observaciones que pudieran
-      verificar una afirmación.}
+  Anscombe advierte, sin embargo que \blockquote[{\cite[150]{anscombe1959iwt}}:
+  There are certain difficulties about ascribing this doctrine to the
+  \emph{Tractatus}. There is nothing about sensible verification there.]{Hay
+    ciertas dificultades para adscribir esta doctrina al \emph{Tractatus}. No hay
+    nada sobre verificación sensible ahí}. Ciertamente, a juicio de Anscombe, la
+  metodología creada por el Círculo de Viena no se corresponde con la tesis del
+  \emph{Tractatus}. Tampoco va en sintonía con los objetivos de Wittgenstein en su
+  esfuerzo por purificar la metodología filosófica:
+  \blockquote[{\cite[152]{anscombe1959iwt}}: `Psychology is no more akin to
+  philosophy than any other natural science. Theory of knowledge is the philosophy
+  of psychology' (4.1121). In this passage Wittgenstein is trying to break the
+  dictatorial control over the rest of philosophy that had long been exercised by
+  what is called theory of knowledge---that is, by the philosophy of sensation,
+  perception, imagination, and, generally, of `experience'. He did not succeed. He
+  and Frege avoided making theory of knowledge the cardinal theory of philosophy
+  simply by cutting it dead; by doing none, and concentrating on the philosophy of
+  logic. But the influence of the \emph{Tractatus} produced logical positivism,
+  whose main doctrine is `verificationism'; and in that doctrine theory of
+  knowledge once more reigned supreme, and a prominent position was given to the
+  test for significance by asking for the observations that would verify a
+  statement.]{`La psicológia no es más semejante a la filosofía que cualquier otra
+    ciencia natural. La teoría del conocimiento es filosofía de la psicología'
+    (4.1121). En este pasaje Wittgenstein esta tratando de romper el control
+    dictatorial sobre el resto de la filosofía que por largo tiempo ha sido
+    ejercido por lo que se llama teoría del conocimiento---esto es, por la
+    filosofía de la sensación, percepción, imaginación, y, en general, de la
+    experiencia. No tuvo éxito. Él y Frege evitaron hacer de la teoría del
+    conocimiento la teoría cardinal de la filosofía simplemente al no alimentarla;
+    al no hacer ninguna, y concentrándose en la filosofía de la lógica. Sin
+    embargo la influencia del \emph{Tractatus} produjo el positivismo lógico, cuya
+    doctrina principal es el `verificacionismo'; y en esa doctrina la teoría del
+    conocimiento una vez más reinó, y una posición prominente se le dio a la
+    prueba sobre la significación por el requisito de observaciones que pudieran
+    verificar una afirmación.}
 
-    La influencia del Círculo de Viena, sin embargo, fue notable y las posturas de
-    las reflexiones sucesivas fueron diversas. A. Flew propuso que dado que el
-    lenguaje teológico no es falseable, tampoco es susceptible de afirmar alguna
-    verdad o conocimiento proposicional.\footnote{Cf.~\cite[27--30]{conesa1994cc}}
-    R.M.Hare consideró el lenguaje religioso como uno evocativo, más que
-    informativo.\footnote{Cf.~\cite[35--36]{conesa1994cc}} Van Buren consideró
-    artificial la posibilidad de un antagonismo entre la Ciencia y la Teología
-    puesto que: \blockquote[{\cite[156]{dominguez2009at}}]{el lenguaje de la Ciencia
-      y el de la teología pertenencen a dos ámbitos tan distintos entre sí
-      ---equívocos--- que al carecer de una semántica común, hasta la rivalidad
-      resultaría artificial. Poniendo un ejemplo analógico: igual que no es posible
-      oponer ``voltios'' a ``sentimientos'', no es posible hacer entrar en conflicto
-      la Ciencia con la Metafísica. ¿Es en verdad esto sostenible?}
+  La influencia del Círculo de Viena, sin embargo, fue notable y las posturas de
+  las reflexiones sucesivas fueron diversas. A. Flew propuso que dado que el
+  lenguaje teológico no es falseable, tampoco es susceptible de afirmar alguna
+  verdad o conocimiento proposicional.\footnote{Cf.~\cite[27--30]{conesa1994cc}}
+  R.M.Hare consideró el lenguaje religioso como uno evocativo, más que
+  informativo.\footnote{Cf.~\cite[35--36]{conesa1994cc}} Van Buren consideró
+  artificial la posibilidad de un antagonismo entre la Ciencia y la Teología
+  puesto que: \blockquote[{\cite[156]{dominguez2009at}}]{el lenguaje de la Ciencia
+    y el de la teología pertenencen a dos ámbitos tan distintos entre sí
+    ---equívocos--- que al carecer de una semántica común, hasta la rivalidad
+    resultaría artificial. Poniendo un ejemplo analógico: igual que no es posible
+    oponer ``voltios'' a ``sentimientos'', no es posible hacer entrar en conflicto
+    la Ciencia con la Metafísica. ¿Es en verdad esto sostenible?}
 
-    Los desafíos que representan las discusiones del Círculo de Viena vienen a
-    ofrecernos la pregunta ¿es cognoscitivo el lenguaje religioso? Esto no es una
-    pregunta sobre si es significativo como lo pudiera ser el lenguaje poético o
-    mítico, sino específicamente si es susceptible de ser verdadero o falso. ¿Existe
-    un conocimiento religioso? ¿Cúal es su
-    valor?\footnote{Cf.~\cite[23]{conesa1994cc}} La pregunta se dirige
-    específicamente hacia el lenguaje del testimonio. ¿Puede significar algo? ¿Puede
-    comunicar un conocimiento? Un ejemplo propuesto por Anscombe tiene que ver con
-    la ocasión de enseñar a un niño sobre la transubstanciación, para ello es útil
-    señalar lo que ocurre y decir cómo está haciendose presente Jesús y cómo hemos
-    de reaccionar. Al hacer esto \blockquote[{\cite[21]{conesa1994cc}}]{le está
-      enseñando una técnica, a la vez que le abre a un modo de relación con Dios y
-      le enseña parte del mensaje revelado. Estos modos de conocimiento no solo
-      están vinculados, sino también en una íntima relación: el saber proposicional
-      conduce a conocer, éste a saber obrar, y viceversa.}
+  Los desafíos que representan las discusiones del Círculo de Viena vienen a
+  ofrecernos la pregunta \enquote{¿es cognoscitivo el lenguaje religioso?}. Esto
+  no es una pregunta sobre si es significativo como lo pudiera ser el lenguaje
+  poético o mítico, sino específicamente si es susceptible de ser verdadero o
+  falso. ¿Existe un conocimiento religioso? ¿Cúal es su
+  valor?\footnote{Cf.~\cite[23]{conesa1994cc}} La pregunta se dirige
+  específicamente hacia el lenguaje del testimonio. ¿Puede significar algo? ¿Puede
+  comunicar un conocimiento? Un ejemplo propuesto por Anscombe tiene que ver con
+  la ocasión de enseñar a un niño sobre la transubstanciación, para ello es útil
+  señalar lo que ocurre y decir cómo está haciendose presente Jesús y cómo hemos
+  de reaccionar. Al hacer esto \blockquote[{\cite[21]{conesa1994cc}}]{le está
+    enseñando una técnica, a la vez que le abre a un modo de relación con Dios y
+    le enseña parte del mensaje revelado. Estos modos de conocimiento no solo
+    están vinculados, sino también en una íntima relación: el saber proposicional
+    conduce a conocer, éste a saber obrar, y viceversa.}
 
-    Será en el pensamiento de Elizabeth Anscombe donde investigaremos respuestas y
-    discusiones en torno a estas cuestiones problemáticas de la categoría del
-    testimonio. Antes de entrar en este análisis resultará útil hacer un recorrido
-    general por la vida, obra y pensamiento de Anscombe.
+  Será en el pensamiento de Elizabeth Anscombe donde investigaremos respuestas y
+  discusiones en torno a estas cuestiones problemáticas de la categoría del
+  testimonio. Antes de entrar en este análisis resultará útil hacer un recorrido
+  general por la vida, obra y pensamiento de Anscombe.
 #+END_SRC
 * [Local Variables]
 # Local Variables:
