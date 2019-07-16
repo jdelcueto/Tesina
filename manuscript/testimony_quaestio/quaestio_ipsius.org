@@ -455,7 +455,10 @@
   G.\,E.~Lessing. Dos cuestiones expresadas en \emph{On the proof of the spirit
     and of power} merecen ser destacadas:
 
-  \blockquote[The problem is that reports of fulfilled prophecies are not
+  \blockquote[{\cite[]}
+  It is because this proof of the spirit and of power no longer has either spirit
+  or power
+  The problem is that reports of fulfilled prophecies are not
   fullfiled prophecies; that reports of miracles are not miracles. These, the
   prophecies fulfilled before my eyes, the miracles that occur before my eyes, are
   immediate in their effect. But those---the reports of fulfilled prophecies and

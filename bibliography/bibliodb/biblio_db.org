@@ -1105,7 +1105,7 @@ keywords = "hume, philosophy",
 #+END_SRC
 ** Gotthold Ephraim Lessing
 #+BEGIN_SRC bibtex :tangle secondary.bib
-@book{lessing1777proof,
+@collection{lessing2005writings,
 author = "Gotthold Ephraim Lessing",
 editor = "H. B. Nisbet",
 translator = "H. B. Nisbet",
@@ -1116,6 +1116,19 @@ year = "2005",
 keywords = "lessing, philosophy",
 }
 #+END_SRC
+
+*** What is it to Believe Someone
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{lessing2005writings:proof,
+  title={On the proof of the spirit and of power},
+  crossref={lessing2005writings},
+  pages={83--88},
+  keywords={},
+  abstract={}
+  }
+#+END_SRC
+
+
 
 #+BEGIN_SRC bibtex :tangle secondary.bib
 @book{conesa1994cc,
@@ -1128,6 +1141,11 @@ year = "1994",
 keywords = "conesa, analítica",
 }
 #+END_SRC
+
+
+
+
+
 * Magisterio
 ** Lumen Fidei
 #+BEGIN_SRC bibtex :tangle secondary.bib
