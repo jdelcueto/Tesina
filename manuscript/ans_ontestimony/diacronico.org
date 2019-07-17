@@ -109,16 +109,8 @@
     abjurar permanentemente de todo conocimiento que pueda entrar en conflicto con
     ella?}. Entonces invita a considerar, que después de todo, sería posible que
   la creencia en estas grandes conquistas podrían estar fundadas simplemente en
-  los poemas de Quérilo que acompañó a Alejandro.\footnote{Cf.~ \enquote{We all
-      believe that there was such a person as Alexander, who conquered almost all
-      Asia in a short time. But who would stake something of great and permanent
-      importance, whose loss was irreplaceable, on this belief? Who, in
-      consequence of this belief, would forswear for ever all knowledge that
-      should concflict with it? Certainly I should not. I have at present nothing
-      to object against Alexander and his conquests; but it would after all be
-      possible that they were founded on a mere poem of Choerilus who accompanied
-      Alexander, just as the ten year siege of Troy is founded on nothing but
-      Homer.}}
+  los poemas de Quérilo que acompañó a
+  Alejandro.\footnote{\cite[Cf.~][448]{lessing1982escritos:demo}}
 
   Esta última propuesta resulta llamativa para Anscombe. Parece una alusión al
   hecho de que conocemos de Cristo por una fuente o tradición \enquote{única}. Sin
@@ -130,10 +122,10 @@
   Alejandro, si solo supiéramos de ellas por los poemas de Quérilo. Ahora bien, a
   juicio de Anscombe, esta premisa no merece gran atención. El supuesto de que
   cualquier cosa creíble sobre Dios tiene que ser una verdad necesaria de razón le
-  parece una derivación de las nociones de Leibniz de Dios como un ser necesario.
-  En adición a esto, es una premisa apoyada sobre el supuesto de que las verdades
-  de la religión son de tal naturaleza que la razón humana podría haber llegado a
-  pensarlas por sí misma.
+  parece una derivación de las nociones propuestas por Leibniz de Dios como un ser
+  necesario. En adición a esto, es una premisa apoyada sobre el supuesto de que
+  las verdades de la religión son de tal naturaleza que la razón humana podría
+  haber llegado a pensarlas por sí misma.
 #+END_SRC
 **** Algo de valor fe cierta no fundada en argumentos inciertos
 #+BEGIN_SRC latex
@@ -158,27 +150,22 @@
 #+BEGIN_SRC latex
   Es importante también tener en cuenta que la posición de Lessing ante el
   Cristianismo es incompatible con las creencias Cristianas. Emplea una analogía
-  que ilustra su actitud: \blockquote[Suppose that a very useful mathematical
-  truth had been reached by the discoverer through an obvious fallacy. \textelp{}
-  Should I deny this truth? Should I refuse to use this truth? Would I be on that
-  account an Ungrateful reviler of the discoverer, if I were unwilling to prove
-  from his insight in other respects, indeed did not consider it capable of proof,
-  that the fallacy through which he stumbled upon the truth could not be a
-  fallacy?]{Supongamos que una muy útil verdad matemática haya sido alcanzada por
-    su descubridor por medio de una falacia evidente. \textelp{} ¿Debería de negar
-    esta verdad? ¿Sería a cuenta de esto un desagradecido agraviador del que ha
-    realizado el descubrimiento, si fuera renuente a apoyarme en su inteligencia
-    en otras consideraciones, ciertamente si no considerara capaz de demostración,
-    que la falacia a través de la cual tropezó sobre la verdad podría no ser una
-    falacia?} Su interés en Cristo es en la enseñanza que este maestro pueda
-  ofrecer. Adicionalmente, su opinión es que lo que puede ser afirmado sobre Dios,
-  no solo no pueden ser proposiciones que derivan su justificación desde
-  afirmaciones históricas, sino que además no podrían ser afirmaciones
-  incompatibles con lo que podría ser razonable en estimar como históricamente
-  posible. Según esto, hace distinción entre la \emph{religión Cristiana} y la
-  \emph{religión de Cristo}, atribuyendo lo obscuro o confuso de la enseñanza de
-  Cristo transmitida en la \emph{religión Cristiana}, y lo claro y útil a la
-  \emph{religión de Cristo}.
+  que ilustra su actitud:
+  \blockquote[{\cite[449]{lessing1982escritos:demo}}]{Supongamos que se diera una
+    verdad matemática, grande y útil, a la que su descubridor hubiera llegado
+    siguiendo un palmario sofisma \textelp{} ¿negaría yo por ello esa verdad y me
+    negaría por eso a hacer uso de esa verdad? Pero ¿sería yo un ingrato
+    calumniador del inventor, por no querer apoyarme en su agudeza, probada sí de
+    otras maneras, para demostrar y mantener que el sofisma mediante el que dio
+    con esa verdad no \emph{puede} ser un sofisma?}
+  Su interés en Cristo es en la enseñanza que este maestro pueda ofrecer.
+  Adicionalmente, su opinión es que lo que puede ser afirmado sobre Dios, no solo
+  no pueden ser proposiciones que derivan su justificación desde afirmaciones
+  históricas, sino que además no podrían ser afirmaciones incompatibles con lo que
+  podría ser razonable en estimar como históricamente posible. Según esto, hace
+  distinción entre la \emph{religión Cristiana} y la \emph{religión de Cristo},
+  atribuyendo a la \emph{religión Cristiana} lo obscuro o confuso de la enseñanza
+  de Cristo, y lo claro y útil a la \emph{religión de Cristo}.
 #+END_SRC
 **** Certidumbre de los milagros
 #+BEGIN_SRC latex
@@ -236,41 +223,43 @@
   la religión Católica?
 
   El análisis de Anscombe se desarrollará en torno a la posibilidad de sostener
-  creencias ciertas teniendo como fundamento los informes de milagros, o la
-  certeza de los relatos históricos o las profecías cumplidas que puedan ser
+  creencias ciertas teniendo como fundamento los informes de milagros; o la
+  certeza de los relatos históricos; o las profecías cumplidas que puedan ser
   consideradas claras por su antigüedad, prioridad y realización.
 
   En cuanto a los informes de milagros, Anscombe sostiene con Lessing que éstos no
   apelarían a un juez que sea externo a las creencias religiosas. Podemos estimar
-  la resurrección de Cristo como signo principal de la apologética. A esta noticia
-  Lessing le concede tanta certeza como la que pueda tener un dato histórico,
-  Anscombe no está de acuerdo con esto. Le parece que no es irrazonable decir:
-  \blockquote[{\cite[26]{pnm}}: `Heaven knows what happened to produce this
-  belief; I do not. And I know much too little about what may go on in human minds
-  in the origins of embracing a new religious belief, to draw any conclusions (as
-  I am so often pressed to do) from the subsequent careers of the Apostles
-  (supposing them to be truly related in the main) or from the sudden appearance
-  and growth of a new religion, which after all is all I am really perfectly
-  certain of. I do know one thing: new religions sometimes spread like wildfire.
-  How this works, and how it gets established in them is obscure. I concede that
-  this is an impressive religion too; but then it had a very impressive religion
-  behind it: that of the Old Testament. Remember that beliefs in miraculous events
-  in connexion with the founders and heroes of religion are quite common. The most
-  I can grant is that the record is quite as if these things had happened: the
-  manner is not legendary, though the matter is!']{Dios sabe qué ocurrió para que
-    se produjera esta creencia; yo no lo sé. Además conozco muy poco de lo que
-    ocurre en las mentes humanas en los orígenes de abrazar una creencia religiosa
-    nueva, como para sacar alguna conclusión \textelp{} de las subsiguientes
-    misiones de los Apóstoles \textelp{} o de la repentina aparición y crecimiento
-  de una nueva religión, de lo que después de todo es todo de lo que estoy
-  perfectamente segura. Sí conozco una cosa: las religiones nuevas a veces se
-  propagan como el fuego. Cómo funciona esto, y cómo queda establecido en ellas es
-  oscuro. Concedo que ésta es una religión impresionante también; pero ha tenido
-  una religión impresionante tras ella: la del Antiguo Testamento. Recuerda que
-  las creencias de eventos milagrosos en conexión con los fundadores o héroes de
-  una religión son bastante comunes. Lo mayor que puedo conceder es que la noticia
-  es bastante como si estas cosas hubieran ocurrido: ¡el modo no es legendario,
-  aunque la materia sí!}
+  la resurrección de Cristo como signo principal empleado por la apologética. A la
+  noticia de este milagro Lessing le concede tanta certeza como la que pueda tener
+  un dato histórico, Anscombe, sin embargo, no está de acuerdo con esto. Le parece
+  que no es irrazonable decir:
+  \blockquote[{\cite[26]{anscombe2008faith:prophandmi}}: `Heaven knows what
+  happened to produce this belief; I do not. And I know much too little about what
+  may go on in human minds in the origins of embracing a new religious belief, to
+  draw any conclusions (as I am so often pressed to do) from the subsequent
+  careers of the Apostles (supposing them to be truly related in the main) or from
+  the sudden appearance and growth of a new religion, which after all is all I am
+  really perfectly certain of. I do know one thing: new religions sometimes spread
+  like wildfire. How this works, and how it gets established in them is obscure. I
+  concede that this is an impressive religion too; but then it had a very
+  impressive religion behind it: that of the Old Testament. Remember that beliefs
+  in miraculous events in connexion with the founders and heroes of religion are
+  quite common. The most I can grant is that the record is quite as if these
+  things had happened: the manner is not legendary, though the matter is!']{Dios
+    sabe qué ocurrió para que se produjera esta creencia; yo no lo sé. Además
+    conozco muy poco de lo que ocurre en las mentes humanas en los orígenes de
+    abrazar una creencia religiosa nueva, como para sacar alguna conclusión
+    \textelp{} de las subsiguientes misiones de los Apóstoles \textelp{} o de la
+    repentina aparición y crecimiento de una nueva religión, de lo que después de
+    todo es todo de lo que estoy perfectamente segura. Sí conozco una cosa: las
+    religiones nuevas a veces se propagan como el fuego. Cómo funciona esto, y
+    cómo queda establecido en ellas es oscuro. Concedo que ésta es una religión
+    impresionante también; pero ha tenido una religión impresionante tras ella: la
+    del Antiguo Testamento. Recuerda que las creencias de eventos milagrosos en
+    conexión con los fundadores o héroes de una religión son bastante comunes. Lo
+    mayor que puedo conceder es que la noticia es bastante como si estas cosas
+    hubieran ocurrido: ¡el modo no es legendario, aunque la materia sí!}
+
   Aquí la cuestión importante para Anscombe es cómo ha llegado a ocurrir que estos
   informes aparentemente fácticos hayan llegado a quedar escritos y transmitidos
   de este modo y qué tipo de hipótesis podría explicar este hecho. Si
@@ -278,7 +267,10 @@
   fueran los documentos y noticias que nos los transmiten? Sin embargo, no sería
   razonable pedir a un historiador indiferente que resuelva este problema, sobre
   cómo han llegado a existir estos documentos y tradiciones, no sería irrazonable
-  para él dejar sin respuestas estas preguntas.\footnote{pnm p. 37}
+  para él dejar sin respuestas estas
+  preguntas.\footnote{\cite[Cf.~][37]{anscombe2008faith:prophandmi}: it is not
+    reasonable to ask an indiferent historian to solve this problem, of how such
+    records came to be written; he can reasonably just leave it unsolved.}
 
   En donde Elizabeth estima que Lessing no tiene razón es en decir que ninguna
   certeza histórica puede ser suficientemente fuerte como para tener un peso
