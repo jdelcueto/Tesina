@@ -484,7 +484,26 @@ as it doesn't have a theological sense
   tiene que ver con el sentido o significado teológico de la profecía.
   \blockquote[{\cite[32]{anscombe2008faith:prophandmi}}: a prophecy fulfiled, or a
   miracle done, is supposed to \emph{attest} something]{una profecía cumplida, o
-    un milagro realizado, es supuesto que \emph{atesta} algo}.
+    un milagro realizado, es supuesto que \emph{testifica} algo}. Una predicción
+  cumplida que no testifica nada además de que lo predicho se realizó, no tiene
+  sentido profético. Esta consideración nos trae a una última afirmación
+  relacionada con la profecía.
+
+  Hay un sentido adicional a la noción de \enquote{accidental} distinto del
+  empleado por Lessing. Decir que el cumplimiento de una predicción \enquote{fue
+    accidental} puede ser decir \enquote {esto no fue una profecía}. Si alguien
+  afirma algo sobre el futuro, a modo de ilustrar algo en una discusión, por
+  ejemplo, y se cumple la predicción, entonces hay algo de sentido en afirmar que
+  \enquote{el cumplimiento fue accidental}. Pero si esto mismo se afirmara como
+  una profecía, entonces decir \enquote{fue accidental que se cumpliera} puede
+  significar que el hecho cumplido no fue lo que quiso decir la persona, como
+  afirmó Lessing, o que \blockquote[{\cite[34]{anscombe2008faith:prophandmi}}: we
+  do not allow this to be prophecy, where `prophecy' has a \emph{theological}
+  meaning]{no reconocemos que esto sea profecía, donde `profecía' tiene un sentido
+    \emph{teológico}}.
+
+
+
 
   lo más que podemos hacer es...
 
