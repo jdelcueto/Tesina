@@ -185,26 +185,26 @@ CLOSED: [2019-07-18 Thu 17:06]
   Hechas estas consideraciones preliminares, Anscombe estudia el argumento central
   establecido por Lessing. Su impresión es que la objeción de Lessing consiste
   fundamentalmente en: \enquote{Pero estas cosas \emph{pueden} no ser verdad,
-    ¿cómo puedo emplearlas para apoyar el Cristianismo?}. El argumento es útil,
+    ¿cómo puedo emplearlas para apoyar el cristianismo?}. El argumento es útil,
   puesto que no se orienta a atacar la veracidad de los milagros o cumplimientos
   de profecías que han quedado documentados, sino que pone en duda que estos
   testimonios o relatos puedan ser fundamento suficiente para sostener la creencia
-  en el Cristianismo como justificada. En esto está claramente en conflicto con la
+  en el cristianismo como justificada. En esto está claramente en conflicto con la
   afirmación de Vaticano I.
 
   Por su parte, la afirmación de \emph{Dei Filius} es de extraordinario interés
   puesto que, a juicio de Anscombe, la experiencia más común es que creamos en las
-  profecías cumplidas y los milagros porque creemos en la religión Católica y
+  profecías cumplidas y los milagros porque creemos en la religión católica y
   estos forman parte de su enseñanza. Si tomamos esto en cuenta junto con la
   enseñanza del Deuteronomio y una reflexión razonable acerca de lo que la fe
   requiere, tendríamos que decir que para que se puedan tomar los milagros y las
   profecías cumplidas como \enquote{sólidos argumentos externos}, estos tendrían
   que quedar determinados como tales antes de que quede afirmada la creencia en el
-  Cristianismo. Pero, ¿acaso no hay ya cierto elemento teológico en designar algo
+  cristianismo. Pero, ¿acaso no hay ya cierto elemento teológico en designar algo
   como una profecía cumplida o milagro? ¿En que situación está un juez o
   historiador indiferente de la religión que recibe noticias de un milagro o de
-  profecías cumplidas? ¿Pueden ser estos sólidos argumentos externos para creer en
-  la religión Católica?
+  profecías cumplidas? ¿Pueden ser éstos sólidos argumentos externos para creer en
+  la religión católica?
 
   El análisis de Anscombe se desarrollará en torno a la posibilidad de sostener
   creencias ciertas teniendo como fundamento los informes de milagros; o la
@@ -213,10 +213,10 @@ CLOSED: [2019-07-18 Thu 17:06]
 
   En cuanto a los informes de milagros, Anscombe sostiene con Lessing que estos no
   apelarían a un juez que sea externo a las creencias religiosas. Podemos estimar
-  la resurrección de Cristo como signo principal empleado por la apologética. A la
-  noticia de este milagro Lessing le concede tanta certeza como la que pueda tener
-  un dato histórico, Anscombe, sin embargo, no está de acuerdo con esto. Le parece
-  que no es irrazonable decir:
+  la resurrección de Cristo como el signo principal empleado por la apologética. A
+  la noticia de este milagro Lessing le concede tanta certeza como la que pueda
+  tener un dato histórico, Anscombe, sin embargo, no está de acuerdo con esto. Le
+  parece que no es irrazonable decir:
   \blockquote[{\cite[26]{anscombe2008faith:prophandmi}}: `Heaven knows what
   happened to produce this belief; I do not. And I know much too little about what
   may go on in human minds in the origins of embracing a new religious belief, to
@@ -255,31 +255,6 @@ CLOSED: [2019-07-18 Thu 17:06]
   preguntas.\footnote{\cite[Cf.~][37]{anscombe2008faith:prophandmi}: it is not
     reasonable to ask an indiferent historian to solve this problem, of how such
     records came to be written; he can reasonably just leave it unsolved.}
-
-
-
-
-
-  37: el rol de los milagros que he sostenido que no pueden ser aceptados como
-  hechos ciertamente verdaderos por un historiador indiferente, me parece que es:
-  si alguien está seriamente considerando la verdad de toda la revelación en el
-  modo que he descrito, los milagros son consonos.
-
-
-  Luego dei filius
-
-  So far as I can see there has to be a thesis of natural theology... that someone
-  is divinely attested
-
-  what does this rest on? it might rest on faith
-
-
-
-  El análisis de Anscombe examina cuatro dimensiones del argumento de Lessing. Los
-  milagros, la certeza histórica como fundamento de las creencias, las profecías y
-  a quién pueden apelar estos argumentos externos que son los milagros y las
-  profecías (o si estas pueden apelar a un juez externo o historiador apático)
-
 #+END_SRC
 **** Sobre apostar por creencias apoyados en la fuerza de la certeza histórica
 #+BEGIN_SRC latex
@@ -302,13 +277,14 @@ CLOSED: [2019-07-18 Thu 17:06]
     importaría arriesgar cualquier cosa en la existencia de Alejandro, o renunciar
     para siempre a cualquier ofrecimiento de aparente conocimiento que entre en
     conflicto con esto.} Donde empezaríamos a hablar en términos de probabilidad
-  sería si nos preguntamos a quién nos referimos por `Alejandro', si en algún
-  momento fue reemplazado por un impostor, por ejemplo, pero acerca de la
+  sería si nos preguntamos a quién nos referimos por \enquote{Alejandro}, si en
+  algún momento fue reemplazado por un impostor, por ejemplo, pero acerca de la
   existencia de Alejandro la certeza es de mayor grado. En definitiva, no todos
   los datos históricos tienen el mismo grado de certeza, y es un error no
   distinguir el valor fundamental que llegan a tener ciertas afirmaciones
-  históricas; \blockquote[{\cite[27]{anscombe2008faith:prophandmi}}: I object to
-  his lumping together everything historical as of inferior certainty to my own
+  históricas; en palabras de Anscombe:
+  \blockquote[{\cite[27]{anscombe2008faith:prophandmi}}: I object to his lumping
+  together everything historical as of inferior certainty to my own
   experience]{Estoy opuesta a su modo de amontonar todo lo histórico como de
     inferior certeza a mi propia experiencia}.
 
@@ -354,17 +330,17 @@ CLOSED: [2019-07-18 Thu 17:06]
   Otras afirmaciones históricas sobre Jesús que no tienen esta solidez, sin
   embargo tampoco pueden ser razonablemente afirmadas como falsas. El hecho de la
   muerte, la ausencia de su cuerpo en el sepulcro, su reaparición tras la muerte,
-  y también su declaración de ser el Hijo de Dios,
+  y también su declaración de ser el Hijo de Dios:
   \blockquote[{\cite[28]{anscombe2008faith:prophandmi}}: these belong to the very
   large realm of historical assertions which it would indeed be absurd to claim
   certainty for, but the time for disproving which is past \textelp{} with them
   there is no danger of running up against a disproof of them, and the greater
   part of them must be true: but of any particular one, we cannot say it is
   perfectly certain. We may note that the death of Christ would be refuted, in
-  normal circumstances, just by his reappearance alive.]{éstas pertenecen al
+  normal circumstances, just by his reappearance alive.]{estas pertenecen al
     amplio campo de afirmaciones históricas de las cuales sería ciertamente
     absurdo afirmar certeza, pero el tiempo para refutarlas ya ha pasado
-    \textelp{} con éstas no hay peligro de toparse con algo que las contradiga, y
+    \textelp{} con estas no hay peligro de toparse con algo que las contradiga, y
     la mayor parte de ellas debe ser verdadera: pero de alguna en particular, no
     podemos decir que es perfectamente cierta. Podemos destacar que la muerte de
     Cristo sería refutada, en circunstancias ordinarias, justo por su reaparición
@@ -442,24 +418,98 @@ as it doesn't have a theological sense
 #+BEGIN_SRC latex
   Tras estos análisis sobre las noticias de milagros y la fuerza de la certeza
   histórica, Anscombe dirige su discusión hacia las profecías. En el centro de su
-  reflexión está el requisito propuesto por Lessing de que para que la aplicación
-  de una profecía a algún hecho no sea \emph{accidental},
-  \blockquote[{\cite[29]{anscombe2008faith:prophandmi}}: that it should be clear
-  that this is what he meant]{debería de quedar claro que ésto es a lo que este se
-    refería}.
+  reflexión está el requisito propuesto por Lessing:
+  \blockquote[{\cite[29]{anscombe2008faith:prophandmi}}: in order to say `This was
+  predicted, and it happened' we have to judge that the thing that happened, not
+  merely was describable in the words occurring in the prediction, but was what
+  was predicted: otherwise `fulfilment' equals `applicability of these words'; and
+  can't this just be an accident?]{para poder decir `Esto fue predicho, y ocurrió'
+    tendríamos que juzgar que lo ocurrido, no solo puede ser descrito por las
+    palabras que aparecen en la predicción, sino que es lo que fue predicho de
+    hecho: de otro modo `realización' es igual a `aplicabilidad de estas
+    palabras'; y ¿puede no ser esto simplemente un accidente?}
+  Anscombe sostiene que hay dificultades especiales acerca de la noción de la
+  aplicabilidad de las palabras proféticas como \emph{accidental}.
+
+  Elizabeth ofrece una ilustración para esto. Un personaje en una obra teatral se
+  presenta como un personaje del pasado y describe hechos históricos de épocas
+  posteriores a la suya y que nosotros conocemos, el efecto sería ficticio, lo que
+  el autor quiere decir estaría claro. Sin embargo, si sale a relucir que estas
+  afirmaciones fueron realmente hechas por una persona en el pasado, entonces al
+  instante se convierten en palabras vagas y problemáticas.
+  \blockquote[{\cite[31]{anscombe2008faith:prophandmi}}: This is a logical point:
+  of the many, many utterances we might make now about the present or the past,
+  which have a good sharp sense, by far the greater number would look hopelessly
+  obscure if said earlier, of the future: even ones with proper names]{Esto es un
+    punto lógico: de las muchas, muchas afirmaciones que podríamos hacer ahora
+    acerca del presente o del pasado, las cuales tienen un sentido claro, por
+    mucho la mayoría se vería irremediablemente oscura si hubiera sido dicha
+    antes, sobre el futuro: incluso aquellas que contienen nombres propios}
+  Anscombe insiste en distinguir que las afirmaciones sobre el pasado o el
+  presente no significan de la misma manera que afirmaciones sobre el futuro. En
+  este sentido, si alguien afirmara un hecho verdadero del pasado y resulta que
+  ignoraba que había ocurrido, entonces es solo un accidente que sus palabras
+  aplicaran; \blockquote[{\cite[29]{anscombe2008faith:prophandmi}}: but it is
+  impossible to know the future of the world and of human affairs; so this test
+  for accident cannot be made]{pero es imposible conocer el futuro del mundo y de
+    los asuntos humanos; así que esta prueba de accidente no puede ser hecha}. La
+  pregunta acerca de lo que un profeta quiso decir o qué tuvo en la mente cuando
+  afirmó lo que predijo es sin sentido:
+  \blockquote[{\cite[29]{anscombe2008faith:prophandmi}}: This point needs
+  stressing: someone who believes in a possibility of `precognition' comparable to
+  memory is thereby rendered incapable of understanding the nature of prophecy at
+  all]{Este punto merece insistencia: alguien que cree en la posibilidad de la
+    `precognición' como comparable a la memoria queda así hecho incapaz de
+    entender del todo la naturaleza de la profecía.}
+
+  \blockquote[{\cite[31]{anscombe2008faith:prophandmi}}: This considerations
+  result in an interesting point: the critical principle that prophetical writings
+  must have been clearly intelligible in their own times is \emph{itself} a denial
+  of the possibility of all but prophecy of a very restricted type]{Estas
+    consideraciones resultan en un punto interesante: el principio crítico de que
+    los escritos proféticos tienen que haber sido claramente inteligibles en su
+    propio tiempo es \emph{en sí mismo} una negación de la posibilidad de todo
+    menos un restringido tipo de profecía.}
+
+  Para casi todas las profecias, tenerlas por cumplidas es interpretarlas
+
+  all but prophecy of a
+
+  en definitiva llega a que ver la profecía cumplida es interpretarla
+  es sin sentido preguntar qué tuvo en mente el profeta
+  lo más que podemos hacer es...
+
+  la profecía debe atestar algo
+  hay otro sentido de accidental
+  esto no es una profecía como una afirmación teológica
+
+  - preguntar qué tuvo en mente el profeta es sin sentido
+
+  - el principio crítico de que los escritos proféticos tienen que haber sido
+  claramente inteligibles en su propia época es en sí mismo una negación de la
+  posibilidad de todo menos un tipo muy restringido de profecía
+
+  - hay otra acepción de la noción de accidental que puede ser aplicada
+
 
   \blockquote[{\cite[33]{anscombe2008faith:prophandmi}}: he called the fulfilment
   of prophecy accidental if the words of the prophecy had a natural enough
   application, but the event was not in fact what the prophet meant; and as we
   also saw, this restricts the kind of prophecy that is possible at all very
-  considerably, because it is not possible to `mean' any but a very
-  restricted range of future events in the way in which one can `mean' present [or]
+  considerably, because it is not possible to `mean' any but a very restricted
+  range of future events in the way in which one can `mean' present \textins{or}
   past ones; if we are going to allow prophecy a wider range than that, the only
   criticism on the ground that it was not what the prophet `meant' would be that
   it can be told from the context that that was not the kind of thing the prophet
-  meant]{}
-
-
+  meant]{llamó a la realización de la profecía accidental si las palabras de la
+    profecía tenían una aplicación suficientemente natural, pero el evento no era
+    de hecho lo que el profeta quería significar; y como también vimos, esto
+    restringe considerablemente el tipo de profecía que es del todo posible, ya
+    que no es posible `significar' sino un campo limitado de eventos futuros en el
+    modo en el que podemos `significar' hechos presentes \textins{o} pasados; si
+    vamos a admitir como profecía a un campo más amplio que este, la única crítica
+    basada en que no es lo que el profeta `significó' sería que se puede decir por
+    el contexto que esto no es aquello que el profeta quiso decir}
 #+END_SRC
 *** TODO Conclusiones
   El análisis de Anscombe en torno al argumento de Lessing toca varios puntos
@@ -732,6 +782,34 @@ happen, he is attested.
 p. 37 Now what does this rest on? It might rest on faith. In Deuteronomy, when the Jews
 were forbidden to consult soothsayers and necromancers, and omens, they were promised
 prophets ‘like Moses’ whom they were to attend to instead.
+
+
+
+
+
+
+37: el rol de los milagros que he sostenido que no pueden ser aceptados como
+hechos ciertamente verdaderos por un historiador indiferente, me parece que es:
+si alguien está seriamente considerando la verdad de toda la revelación en el
+modo que he descrito, los milagros son consonos.
+
+
+Luego dei filius
+
+So far as I can see there has to be a thesis of natural theology... that someone
+is divinely attested
+
+what does this rest on? it might rest on faith
+
+
+
+El análisis de Anscombe examina cuatro dimensiones del argumento de Lessing. Los
+milagros, la certeza histórica como fundamento de las creencias, las profecías y
+a quién pueden apelar estos argumentos externos que son los milagros y las
+profecías (o si estas pueden apelar a un juez externo o historiador apático)
+
+
+
 
 
 ** Parmenides, Mystery and Contradiction (1969) [0%]
