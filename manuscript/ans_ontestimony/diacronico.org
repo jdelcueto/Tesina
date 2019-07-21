@@ -501,39 +501,26 @@ as it doesn't have a theological sense
   do not allow this to be prophecy, where `prophecy' has a \emph{theological}
   meaning]{no reconocemos que esto sea profecía, donde `profecía' tiene un sentido
     \emph{teológico}}.
-
-
-
-
-  lo más que podemos hacer es...
-
-  la profecía debe atestar algo
-  hay otro sentido de accidental
-  esto no es una profecía como una afirmación teológica
-
-  - hay otra acepción de la noción de accidental que puede ser aplicada
-
-
-  \blockquote[{\cite[33]{anscombe2008faith:prophandmi}}: he called the fulfilment
-  of prophecy accidental if the words of the prophecy had a natural enough
-  application, but the event was not in fact what the prophet meant; and as we
-  also saw, this restricts the kind of prophecy that is possible at all very
-  considerably, because it is not possible to `mean' any but a very restricted
-  range of future events in the way in which one can `mean' present \textins{or}
-  past ones; if we are going to allow prophecy a wider range than that, the only
-  criticism on the ground that it was not what the prophet `meant' would be that
-  it can be told from the context that that was not the kind of thing the prophet
-  meant]{llamó a la realización de la profecía accidental si las palabras de la
-    profecía tenían una aplicación suficientemente natural, pero el evento no era
-    de hecho lo que el profeta quería significar; y como también vimos, esto
-    restringe considerablemente el tipo de profecía que es del todo posible, ya
-    que no es posible `significar' sino un campo limitado de eventos futuros en el
-    modo en el que podemos `significar' hechos presentes \textins{o} pasados; si
-    vamos a admitir como profecía a un campo más amplio que este, la única crítica
-    basada en que no es lo que el profeta `significó' sería que se puede decir por
-    el contexto que esto no es aquello que el profeta quiso decir}
 #+END_SRC
 *** TODO Conclusiones
+#+BEGIN_SRC latex
+  Después de este análisis Anscombe plantea algunas conclusiones. Se enfoca en el
+  contraste entre dos situaciones desde las que una persona podría acercarse al
+  argumento de las profecías y milagros. En primer lugar, como ha insistido, un
+  observador imparcial e indiferente solo tendría delante suyo como datos seguros
+  algunas profecías dispersas relacionadas con personas y ciudades y también
+  noticias de milagros y de cumplimiento de profecías que sería absurdo pretender
+  que debería de estimar como ciertamente verdaderas. En segundo lugar la
+  situación en la que, a juicio de Anscombe, ha de hallarse alguien que pueda ser
+  interpelado por el argumento de los milagros y profecías:
+  \blockquote[{\cite[]{}}: Only if a man is impressed by the Old Testament, to the
+  extent of being inclined to take it as his teacher, has the argument from
+  prophecies and miracles any serious weight.]{Solo si un hombre queda
+    impresionado por el Antiguo Testamento, hasta tal punto que esté inclinado a
+    tomarlo como su maestro, tiene el argumento desde las profecías y los milagros
+    algún peso serio.}
+
+#+END_SRC
   El análisis de Anscombe en torno al argumento de Lessing toca varios puntos
 
   Principalmente sostiene que Lessing tiene razón cuando propone que
