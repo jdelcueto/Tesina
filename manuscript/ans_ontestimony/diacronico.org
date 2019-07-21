@@ -505,20 +505,67 @@ as it doesn't have a theological sense
 *** TODO Conclusiones
 #+BEGIN_SRC latex
   Después de este análisis Anscombe plantea algunas conclusiones. Se enfoca en el
-  contraste entre dos situaciones desde las que una persona podría acercarse al
+  contraste entre dos posiciones desde las que una persona podría acercarse al
   argumento de las profecías y milagros. En primer lugar, como ha insistido, un
   observador imparcial e indiferente solo tendría delante suyo como datos seguros
   algunas profecías dispersas relacionadas con personas y ciudades y también
-  noticias de milagros y de cumplimiento de profecías que sería absurdo pretender
-  que debería de estimar como ciertamente verdaderas. En segundo lugar la
-  situación en la que, a juicio de Anscombe, ha de hallarse alguien que pueda ser
+  noticias de milagros y del cumplimiento de profecías que sería absurdo pretender
+  que debería de estimar como ciertamente verdaderas. En segundo lugar la posición
+  en la que, a juicio de Anscombe, ha de hallarse alguien que pueda ser
   interpelado por el argumento de los milagros y profecías:
-  \blockquote[{\cite[]{}}: Only if a man is impressed by the Old Testament, to the
-  extent of being inclined to take it as his teacher, has the argument from
-  prophecies and miracles any serious weight.]{Solo si un hombre queda
-    impresionado por el Antiguo Testamento, hasta tal punto que esté inclinado a
-    tomarlo como su maestro, tiene el argumento desde las profecías y los milagros
-    algún peso serio.}
+  \blockquote[{\cite[35]{anscombe2008faith:prophandmi}}: Only if a man is
+  impressed by the Old Testament, to the extent of being inclined to take it as
+  his teacher, has the argument from prophecies and miracles any serious
+  weight.]{Solo si un hombre queda impresionado por el Antiguo Testamento, hasta
+    tal punto que esté inclinado a tomarlo como su maestro, tiene el argumento
+    desde las profecías y los milagros algún peso serio.} Esta situación es solida
+  y razonable, sin embargo, es tan específica y poco común hoy que puede explicar
+  por qué el argumento no se encuentre tan presente en las discusiones actuales.
+  Esta afirmación será una de las conclusiones a la que Anscombe llega en esta
+  discusión. La crítica de Lessing es contra un alegado peso que debería de tener
+  un argumento basado en los milagros y las profecías cumplidas que sin embargo
+  para él no tiene la fuerza para justificar
+  el vat i alrga por su parte q son solidos arg externos
+  q decir? anscombe propone...
+
+  \blockquote[{\cite[37]{anscombe2008faith:prophandmi}}: That is to say: when St.
+  Augustine said that the fulfilment of the prophecies in Christ was the greatest
+  proof of his divinity, what he said was true; but the proof requires a very
+  special postiton on the part of someone who is to consider it. That is why the
+  kind of apologetic that Lessing argued against, which did not assume that
+  position, was so vulnerable and stupid.]{Es decir: cuando S. Agustín dijo que la
+    realización de las profecías en Cristo es la mayor prueba de su divinidad, lo
+    que dijo es verdadero; pero la prueba requiere una posición de parte de
+    alguien que podría considerarla. Esta es la razón por la que el tipo de
+    apologética en contra de la cual Lessing argumentó, en la que no se asume esta
+    posición, queda tan vulnerable y estúpida.}
+
+  \blockquote[{\cite[37]{anscombe2008faith:prophandmi}}: The role of miracles,
+  which I have contended cannot possibly be accepted as certainly true ocurrences
+  by the indiferent historian, seems to me to be this: if one is seriously
+  entertaining the truth of the whole revelation in the way I have hinted at, the
+  miracles are consonant. That God attested Christ by miracles is possible, if
+  Christ is Christ ---i.e. is the Messiah promised in the Old Testament. Then the
+  problem, how on earth these seemingly factual records came to be written, of
+  such incredible things, is resolved by the hypothesis that they happened.
+  \textelp{} But I repeat, it is not reasonable to ask an indiferent historian to
+  solve this problem, of how such records came to be written; he \emph{can}
+  reasonably just leave it unsolved.]{El rol de los milagros, los cuales he
+    argüido que no es posible aceptar como hechos ciertamente verdaderos por un
+    historiador indiferente, me parece que es este: si alguien esta seriamente
+    considerando la verdad de toda la revelación en el modo que he sugerido, los
+    milagros están en consonancia. Que Dios atestó a Cristo por medio de milagros
+    es posible, si Cristo es Cristo ---es decir, es el Mesías prometido en el
+    Antiguo Testamento. Entonces el problema, cómo es posible que estos informes
+    aparentemente fácticos hayan llegado a quedar escritos, de estas cosas
+    increíbles, se resuelve por la hipótesis de que ocurrieron. \textelp{} Pero
+    repito, no es razonable pedir a un historiador indiferente que resuelva este
+    problema, sobre cómo estos informes han llegado a quedar escritos; el
+    \emph{puede} razonablemente dejarlo sin resolver.}
+
+  Un segundo punto de la conclusión... la conclusión de la conclusión perhaps...
+  tiene que ver con la noción de la posibilidad de la atestación divina!...
+  this is the end!!
 
 #+END_SRC
   El análisis de Anscombe en torno al argumento de Lessing toca varios puntos
