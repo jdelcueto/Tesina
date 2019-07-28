@@ -508,13 +508,15 @@ as it doesn't have a theological sense
 #+BEGIN_SRC latex
   Después de este análisis Anscombe plantea algunas conclusiones. Se enfoca en el
   contraste entre dos posiciones desde las que una persona podría acercarse al
-  argumento de las profecías y milagros. En primer lugar, como ha insistido, un
-  observador imparcial e indiferente solo tendría delante de él, como datos
-  seguros, algunas profecías dispersas relacionadas con personas y ciudades;
-  también noticias de milagros y del cumplimiento de profecías que sería absurdo
-  pretender que debería de estimar como ciertamente verdaderas. En segundo lugar
-  la posición en la que, a juicio de Anscombe, ha de hallarse alguien que pueda
-  ser interpelado por el argumento de los milagros y profecías:
+  argumento de las profecías y milagros. Una situación en la que puede estar una
+  persona es como un observador imparcial e indiferente. Este solo tendría delante
+  de él, como datos seguros, algunas profecías dispersas relacionadas con personas
+  y ciudades; también cuenta con noticias de milagros y del cumplimiento de
+  profecías que, sin embargo, sería absurdo pretender que debería de estimar como
+  ciertamente verdaderas.
+
+  Es otra la situación en la que, a juicio de Anscombe, ha de hallarse alguien que
+  pueda ser interpelado por el argumento de los milagros y profecías:
   \blockquote[{\cite[35]{anscombe2008faith:prophandmi}}: Only if a man is
   impressed by the Old Testament, to the extent of being inclined to take it as
   his teacher, has the argument from prophecies and miracles any serious
@@ -522,14 +524,14 @@ as it doesn't have a theological sense
     tal punto que esté inclinado a tomarlo como su maestro, tiene el argumento
     desde las profecías y los milagros algún peso serio.} Esta situación es solida
   y razonable, sin embargo, es tan específica y poco común hoy que puede explicar
-  por qué el argumento no se encuentre tan presente en las discusiones actuales.
-  Esta afirmación será una de las conclusiones a la que Anscombe llega en esta
+  por qué el argumento no se encuentra tan presente en las discusiones actuales.
+  Esta afirmación será una de las conclusiones a las que Anscombe llega en esta
   discusión. La crítica de Lessing es contra un alegado peso que debería de tener
-  un argumento basado en los milagros y las profecías cumplidas que sin embargo
-  para él no tiene la fuerza para justificar. El vaticano~I alega, por su parte,
-  que los milagros y profecías son sólidos argumentos externos. Anscombe propone
-  que estos argumentos externos presuponen una posición específica de parte de
-  quien pueda ser interpelado por ellos:
+  un argumento basado en los milagros y las profecías cumplidas y que para él no
+  tiene la fuerza para justificar. El vaticano~I alega, por su parte, que los
+  milagros y profecías son sólidos argumentos externos. Anscombe propone que estos
+  argumentos externos presuponen una posición específica de parte de quien pueda
+  ser interpelado por ellos:
   \blockquote[{\cite[37]{anscombe2008faith:prophandmi}}: That is to say: when St.
   Augustine said that the fulfilment of the prophecies in Christ was the greatest
   proof of his divinity, what he said was true; but the proof requires a very
@@ -542,6 +544,12 @@ as it doesn't have a theological sense
     apologética en contra de la cual Lessing argumentó, en la que no se asume esta
     posición, queda tan vulnerable y estúpida.}
 
+  El argumento de los milagros y profecías cumplidas sí juegan un papel razonable
+  como atestación que justifica la creencia en Cristo para una persona que ha
+  valorado suficientemente las enseñanzas del Antiguo Testamento como para tenerlo
+  como una fuente de instrucción y ha formado su mente de acuerdo a él. El
+  reconocimiento de esta solidez permitiría entonces atender el problema de la
+  transmisión de los relatos de los milagros. Anscombe concluye:
   \blockquote[{\cite[37]{anscombe2008faith:prophandmi}}: The role of miracles,
   which I have contended cannot possibly be accepted as certainly true ocurrences
   by the indiferent historian, seems to me to be this: if one is seriously
@@ -554,7 +562,7 @@ as it doesn't have a theological sense
   solve this problem, of how such records came to be written; he \emph{can}
   reasonably just leave it unsolved.]{El rol de los milagros, los cuales he
     argüido que no es posible aceptar como hechos ciertamente verdaderos por un
-    historiador indiferente, me parece que es este: si alguien esta seriamente
+    historiador indiferente, me parece que es este: si alguien está seriamente
     considerando la verdad de toda la revelación en el modo que he sugerido, los
     milagros están en consonancia. Que Dios atestó a Cristo por medio de milagros
     es posible, si Cristo es Cristo ---es decir, es el Mesías prometido en el
@@ -565,9 +573,35 @@ as it doesn't have a theological sense
     problema, sobre cómo estos informes han llegado a quedar escritos; el
     \emph{puede} razonablemente dejarlo sin resolver.}
 
-  Un segundo punto de la conclusión... la conclusión de la conclusión perhaps...
-  tiene que ver con la noción de la posibilidad de la atestación divina!...
-  this is the end!!
+  Una última cuestión abierta que Anscombe atiende es la pregunta sobre la noción
+  de la posibilidad de la atestación divina.
+
+  \blockquote[{\cite[38]{anscombe2008faith:prohandmi}}: So far as I can see there
+  has to be a thesis of natural theology, as I might call it, that if someone
+  works `a sign and a wonder' or utters a prophecy which gets fulfilled, in God's
+  name, then he is divinely attested. Now what does this rest on? It might rest on
+  faith.]{Hasta donde puedo ver tiene que haber una tesis de teología natural,
+    como podría llamarla, que si alguien realiza `un signo y un prodigio' o
+    pronuncia una profecía que queda cumplida, en el nombre de Dios, entonces está
+    divinamente atestado. Ahora ¿en qué se basa esto? Puede estar respaldado por
+    la fe.} La fe en la promesa del Deuteronomio de que vendrá otro profeta como
+  Moisés, supone que antes de preguntarse si se ha cumplido lo profetizado, las
+  enseñanzas de los profetas tienen que ser tales que se pueda pensar que
+  pertenecen a la verdad revelada por Moisés. Es entonces que si predice algo y se
+  cumple, y si tras de esto no trata de conducir al pueblo a la idolatría, se
+  puede tomar su profecía como atestación divina.
+
+  This might be taken as a matter of faith. But if [what] constitutes divine
+  attestation is only learned by faith, what becomes of the `solid external
+  arguments' of the Vatican decree?
+
+  Anscombe ofrece entonces ana descripción que no presupone la fe:
+  I think the argument must be rather that if a prophet who is apparently teaching
+  the truth, dares foretell something contingent, then this is presumption of him
+  unless he has it from God and must say it. Now if he teaches a lie straight away
+  afterwards, or if the thing does not happen, the he is proved presumptuous. But
+  if he is not proved presumptuous, then we ought not to dare not to believe and
+  obey him: so long as what he says does not conflict with the known truth.
 
 #+END_SRC
   El análisis de Anscombe en torno al argumento de Lessing toca varios puntos
