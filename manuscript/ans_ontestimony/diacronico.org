@@ -6,7 +6,7 @@
 #+BEGIN_SRC latex
 \section{Análisis Diacrónico}
 #+END_SRC
-** TODO Prophecy and Miracles (1957) [80%]
+** TODO Prophecy and Miracles (1957) [100%]
 #+BEGIN_SRC latex
 \subsection{Prophecy and Miracles}
 #+END_SRC
@@ -37,8 +37,8 @@ CLOSED: [2019-07-18 Thu 16:57]
 *** DONE Introducción: Planteamiento de la cuestión
 CLOSED: [2019-07-18 Thu 16:57]
 #+BEGIN_SRC latex
-  Anscombe introduce su contienda situando los puntos principales de su análisis
-  en torno a tres documentos:
+  Elizabeth introduce su discusión ofreciendo tres documentos que servirán como
+  los ejes principales de su análisis:
 
   \begin{enumerate}
   \item La constitución dogmática \emph{Dei Filius}, específicamente el capítulo
@@ -75,7 +75,7 @@ CLOSED: [2019-07-18 Thu 16:57]
         de otros dioses ---que no conoces--- y sirvámoslos}, aunque te anuncie una
       señal o un prodigio y se cumpla la señal o el prodigio, no has de escuchar
       las palabras de ese profeta o visionario soñador. (Dt 13, 1--4a)}
-  \item \emph{On the proof of the spirit and of Power} de Lessing. Del cual
+  \item \emph{Sobre la Demostración de Espíritu y fuerza} de Lessing. Del cual
     considera varios puntos, pero se enfoca en su argumento central:
     \blockquote[La traducción al inglés de este fragmento es de Anscombe,
     {\cite[Cf.~][22]{anscombe2008faith:prophandmi}}: Who denies it ---I do not---
@@ -98,32 +98,31 @@ CLOSED: [2019-07-18 Thu 16:57]
       nunca pueden llegar a ser prueba de verdades de razón en tanto que
       necesarias.}
   \end{enumerate}
-
 #+END_SRC
 *** DONE Preámbulo: Análisis del argumento de Lessing
 CLOSED: [2019-07-18 Thu 17:06]
 **** reasons for remark about certainty of Alexander
 #+BEGIN_SRC latex
-  Tras esta introducción, Anscombe comienza su discusión desenmarañando algunos
-  puntos de los argumentos del ensayo. En su argumentación, Lessing emplea como
-  ejemplo de verdad histórica nuestra creencia en que hubo en el pasado una
+  Tras esta introducción, Anscombe comienza su análisis desenmarañando algunos
+  puntos de los argumentos del ensayo de Lessing. En una de sus premisas emplea
+  como ejemplo de verdad histórica nuestra creencia en que hubo en el pasado una
   persona llamada Alejandro, que conquistó casi toda Asia en corto tiempo.
   Entonces plantea el reto: \enquote{¿Quién, en consecuencia de esta creencia,
     estaría dispuesto a abjurar permanentemente de todo conocimiento que pueda
-    entrar en conflicto con ella?}. Sugiere considerar que, después de todo, sería
-  posible que la creencia en estas grandes conquistas podrían estar fundadas
-  simplemente en los poemas de Quérilo que acompañó a
+    entrar en conflicto con ella?}. Sugiere entonces considerar la idea de que,
+  después de todo, sería posible que la creencia en estas grandes conquistas
+  podrían estar fundadas simplemente en los poemas de Choerilus que acompañó a
   Alejandro.\footnote{\cite[Cf.~][448]{lessing1982escritos:demo}}
 
   Esta última propuesta resulta llamativa para Anscombe. Parece una alusión al
   hecho de que conocemos de Cristo por una fuente o tradición \enquote{única}. Sin
-  embargo Anscombe piensa más bien que viene a apoyar la afirmación de que las
+  embargo Anscombe piensa que más bien viene a apoyar la afirmación de que las
   verdades históricas no pueden ser fundamentos de verdades necesarias. Una verdad
-  metafísica o una verdad matemática no puede seguirse de un hecho histórico, éste
+  metafísica o una verdad matemática no puede seguirse de un hecho histórico, este
   tendría que contar con el mismo grado de certeza que estas verdades de razón;
   pero una verdad histórica es muy incierta, como lo serían las conquistas de
-  Alejandro, si solo supiéramos de ellas por los poemas de Quérilo. Ahora bien, a
-  juicio de Anscombe, esta premisa no merece gran atención. El supuesto de que
+  Alejandro, si solo supiéramos de ellas por los poemas de Choerilus. Ahora bien,
+  a juicio de Anscombe, esta premisa no merece gran atención. El supuesto de que
   cualquier cosa creíble sobre Dios tiene que ser una verdad necesaria de razón le
   parece una derivación de las nociones propuestas por Leibniz sobre la necesidad
   en relación con Dios. En adición a esto, es una premisa apoyada sobre el
@@ -134,7 +133,7 @@ CLOSED: [2019-07-18 Thu 17:06]
 #+BEGIN_SRC latex
   Anscombe sí encuentra valor en la premisa acerca de no afirmar certezas más allá
   de las que las verdades históricas nos dan la autoridad de justificar. La
-  constitución del Vaticano I habla de los milagros y profecías cumplidas como
+  constitución del Vaticano~I habla de los milagros y profecías cumplidas como
   sólidos argumentos externos. ¿Puede una verdad histórica contar con certeza
   suficiente para representar un solido argumento externo? No es el papel de estas
   manifestaciones ser una demostración que reemplace el rol del Espíritu en la
@@ -146,14 +145,14 @@ CLOSED: [2019-07-18 Thu 17:06]
   un error pensar que una \enquote{escalera} como esta podría acercarnos
   adecuadamente a la fe. Aunque se descarte la idea de Lessing de que toda
   creencia sobre Dios tiene que ser una verdad necesaria, hay algo de valor en la
-  idea de que una fe cierta no se puede afirmar simplemente en argumentos externos
-  con fundamentos inciertos.
+  idea de que una fe cierta no se puede afirmar simplemente sobre argumentos
+  externos con fundamentos inciertos.
 #+END_SRC
 **** Religión de Cristo/cristiana
 #+BEGIN_SRC latex
-  Es importante también tener en cuenta que la posición de Lessing ante el
-  Cristianismo es incompatible con las creencias Cristianas. Emplea una analogía
-  que ilustra su actitud:
+  Otro punto destacado por Anscombe es que la posición de Lessing ante el
+  cristianismo es incompatible con las creencias cristianas. Una de sus analogías
+  ilustra bien esta actitud:
   \blockquote[{\cite[449]{lessing1982escritos:demo}}]{Supongamos que se diera una
     verdad matemática, grande y útil, a la que su descubridor hubiera llegado
     siguiendo un palmario sofisma \textelp{} ¿negaría yo por ello esa verdad y me
@@ -162,22 +161,22 @@ CLOSED: [2019-07-18 Thu 17:06]
     otras maneras, para demostrar y mantener que el sofisma mediante el que dio
     con esa verdad no \emph{puede} ser un sofisma?} Su interés en Cristo es en la
   enseñanza que este maestro pueda ofrecer. Adicionalmente, su opinión es que lo
-  que puede ser afirmado sobre Dios, no solo no pueden ser proposiciones que
-  derivan su justificación desde afirmaciones históricas, sino que además no
-  podrían ser afirmaciones incompatibles con lo que podría ser razonable en
-  estimar como históricamente posible. Según esto, hace distinción entre la
-  \emph{religión Cristiana} y la \emph{religión de Cristo}, atribuyendo a la
-  \emph{religión Cristiana} lo oscuro o confuso de la enseñanza de Cristo, y lo
-  claro y útil a la \emph{religión de Cristo}.
+  que puede decirse sobre Dios, no solo no pueden ser proposiciones que derivan su
+  justificación desde afirmaciones históricas, sino que además no podrían ser
+  afirmaciones incompatibles con lo que podría ser razonable en estimar como
+  históricamente posible. Según esto, hace distinción entre la \emph{religión
+    cristiana} y la \emph{religión de Cristo}. Esta última sería la que ofrece
+  enseñanzas claras y útiles, sin embargo ha quedado mezclada en su transmisión
+  con lo confuso y oscuro de la \emph{religión cristiana}.
 #+END_SRC
 **** Certidumbre de los milagros
 #+BEGIN_SRC latex
-  Una aclaración adicional que Anscombe destaca es que, a su juicio, Lessing
+  Una aclaración adicional que Anscombe propone es que, a su juicio, Lessing
   exagera la certidumbre que (desde un punto de vista externo) podría tener
   Orígenes de los milagros y profecías cumplidas. Tanto en su tiempo como en el
   nuestro los milagros serían hechos completamente extraordinarios y serían
   estimados por los escépticos con tanta incredulidad entonces como ahora,
-  mientras que los Católicos los aceptan.
+  mientras que los católicos los aceptan.
 #+END_SRC
 *** DONE Análisis del argumento central
 CLOSED: [2019-07-25 Thu 17:30]
@@ -191,21 +190,21 @@ CLOSED: [2019-07-25 Thu 17:30]
   de profecías que han quedado documentados, sino que pone en duda que estos
   testimonios o relatos puedan ser fundamento suficiente para sostener la creencia
   en el cristianismo como justificada. En esto está claramente en conflicto con la
-  afirmación de Vaticano I.
+  enseñanza del Vaticano I.
 
-  Por su parte, la afirmación de \emph{Dei Filius} es de extraordinario interés
-  puesto que, a juicio de Anscombe, la experiencia más común es que creamos en las
-  profecías cumplidas y los milagros porque creemos en la religión católica y
-  estos forman parte de su enseñanza. Si tomamos esto en cuenta junto con la
-  enseñanza del Deuteronomio y una reflexión razonable acerca de lo que la fe
-  requiere, tendríamos que decir que para que se puedan tomar los milagros y las
-  profecías cumplidas como \enquote{sólidos argumentos externos}, estos tendrían
-  que quedar determinados como tales antes de que quede afirmada la creencia en el
-  cristianismo. Pero, ¿acaso no hay ya cierto elemento teológico en designar algo
-  como una profecía cumplida o milagro? ¿En que situación está un juez o
-  historiador indiferente de la religión que recibe noticias de un milagro o de
-  profecías cumplidas? ¿Pueden ser éstos sólidos argumentos externos para creer en
-  la religión católica?
+  Por su parte, para Anscombe, la afirmación de \emph{Dei Filius} es de
+  extraordinario interés ya que le parece que la experiencia más común es que
+  creamos en las profecías cumplidas y los milagros porque creemos en la religión
+  católica y estos forman parte de su enseñanza. Si tomamos esto en cuenta junto
+  con la enseñanza del Deuteronomio y una reflexión razonable acerca de lo que la
+  fe requiere, tendríamos que decir que para que se puedan tomar los milagros y
+  las profecías cumplidas como \enquote{sólidos argumentos externos}, estos
+  tendrían que quedar determinados como tales antes de que quede afirmada la
+  creencia en el cristianismo. Pero, ¿acaso no hay ya cierto elemento teológico en
+  designar algo como una profecía cumplida o milagro? ¿En que situación está un
+  juez o historiador indiferente de la religión que recibe noticias de un milagro
+  o de profecías cumplidas? ¿Pueden ser éstos sólidos argumentos externos para
+  creer en la religión católica?
 
   El análisis de Anscombe se desarrollará en torno a la posibilidad de sostener
   creencias ciertas teniendo como fundamento los informes de milagros; o la
@@ -239,7 +238,7 @@ CLOSED: [2019-07-25 Thu 17:30]
     todo es todo de lo que estoy perfectamente segura. Sí conozco una cosa: las
     religiones nuevas a veces se propagan como el fuego. Cómo funciona esto, y
     cómo queda establecido en ellas es oscuro. Concedo que esta es una religión
-    impresionante también; pero ha tenido una religión impresionante tras ella: la
+    impresionante también; pero ha tenido una religión impresionante detrás: la
     del Antiguo Testamento. Recuerda que las creencias de eventos milagrosos en
     conexión con los fundadores o héroes de una religión son bastante comunes. Lo
     mayor que puedo conceder es que la noticia es bastante como si estas cosas
@@ -278,8 +277,8 @@ CLOSED: [2019-07-25 Thu 17:30]
     importaría arriesgar cualquier cosa en la existencia de Alejandro, o renunciar
     para siempre a cualquier ofrecimiento de aparente conocimiento que entre en
     conflicto con esto.} Donde empezaríamos a hablar en términos de probabilidad
-  sería si nos preguntamos a quién nos referimos por \enquote{Alejandro}, si en
-  algún momento fue reemplazado por un impostor, por ejemplo, pero acerca de la
+  sería si nos preguntamos a quién nos referimos por \enquote{Alejandro} ---si en
+  algún momento fue reemplazado por un impostor, por ejemplo--- pero acerca de la
   existencia de Alejandro la certeza es de mayor grado. En definitiva, no todos
   los datos históricos tienen el mismo grado de certeza, y es un error no
   distinguir el valor fundamental que llegan a tener ciertas afirmaciones
@@ -349,74 +348,6 @@ CLOSED: [2019-07-25 Thu 17:30]
   esta clase de aserciones.
 #+END_SRC
 **** Sobre las profecías
-***** notes
-ancientness
-historical certainty of this is good as any
-
-priority
-the trouble with prophecies with a definite sense is that their priority is
-hardly known with certainty
-
-isaiah's prophecy about babylon is an example of priority and fulfilment with
-absolute certainty
-
-priority because it did not become desolate til after the establishment of
-seleucia
-
-and certainty because it's very explicit
-
-fulfilment
-
-
-Prophecies whose ancientness, priority and fukfikmnet are really clear and
-certain to a quite detached observer are necessarily few
-
-This because of something Lessing says elsewhere
-
-can't the applicability of the alleged prophecy be an accident?
-
-there are however special difficulties about the notion of an accidental
-applicability
-
-first: it isn't the same to check if someone said something about the past
-accidentally and someone saying something about the future
-
-someone who believes in a possibility of precognition comparable to memory is
-thereby rendered incapable of understanding the nature of prophecy at alleged
-
-the check imposed by Lessing severely restricts possible prophecy
-
-
-...these considerations result in an interesting point: the critical principle
-that prophetical writings must have been clearly intelligible in their own times
-is itself a denial of the possibilityof all but prophecy of a very restricted
-type
-
-that is to say for almost all prophecies, to see them fulfilled is to interpret them
-
-this is because of the difference between past and future
-
-to ask whether a prophet had these events in mind is senseless
-
-all we can do is
-
-check for one of 2 cases:
-
-the prophet, professing to prophesy utters words which have a natural
-application, considering context, to the events we think they prophesied
-
-cases where all that can be said is that one can see how someone might apply
-those words, ripped out of context and taken by themselves to this event
-
-
-but why should one be impressed by prophecy at all?
-
-a prophecy fulfilled, or a miracle done is supposed to attest something
-
-
-another way in it can be accidental is that we do not allow this to be prophecy,
-as it doesn't have a theological sense
-***** text
 #+BEGIN_SRC latex
   Tras estos análisis sobre las noticias de milagros y la fuerza de la certeza
   histórica, Anscombe dirige su discusión hacia las profecías. En el centro de su
@@ -477,9 +408,9 @@ as it doesn't have a theological sense
     los escritos proféticos tienen que haber sido claramente inteligibles en su
     propio tiempo es \emph{en sí mismo} una negación de la posibilidad de todo
     menos un restringido tipo de profecía.}
-  Teniendo estas cosas en cuenta habría que decir que para casi todas las
-  profecías, tenerlas por cumplidas, es interpretarlas y la clave para
-  interpretarlas es una noción teológica.
+  Lo cierto es, sin embargo, que para casi todas las profecías, tenerlas por
+  cumplidas, es interpretarlas, y la clave para interpretarlas es una noción
+  teológica.
 
   Aquí podríamos preguntarnos \enquote{¿por qué me tendría que impresionar la
     profecía?}, \enquote{¿por qué debería de interesarme?}. La respuesta a esto
@@ -487,30 +418,31 @@ as it doesn't have a theological sense
   \blockquote[{\cite[32]{anscombe2008faith:prophandmi}}: a prophecy fulfiled, or a
   miracle done, is supposed to \emph{attest} something]{una profecía cumplida, o
     un milagro realizado, se supone que \emph{testifica} algo}. Una predicción
-  cumplida que no testifica nada además de que lo predicho se realizó, no tiene
-  sentido profético. Esta consideración nos trae a una última afirmación
+  cumplida que no testifica nada más allá de que lo predicho se ha realizado, no
+  tiene sentido profético. Esta consideración nos trae a una última afirmación
   relacionada con la profecía.
 
   Hay un sentido adicional a la noción de \enquote{accidental} distinto del
   empleado por Lessing. Decir que el cumplimiento de una predicción \enquote{fue
     accidental} puede ser decir \enquote {esto no fue una profecía}. Si alguien
-  afirma algo sobre el futuro, a modo de ilustrar algo en una discusión, por
-  ejemplo, y se cumple la predicción, entonces hay algo de sentido en afirmar que
-  \enquote{el cumplimiento fue accidental}. Pero si esto mismo se afirmara como
-  una profecía, entonces decir \enquote{fue accidental que se cumpliera} puede
-  significar que el hecho cumplido no fue lo que quiso decir la persona, como
-  afirmó Lessing, o que \blockquote[{\cite[34]{anscombe2008faith:prophandmi}}: we
-  do not allow this to be prophecy, where `prophecy' has a \emph{theological}
-  meaning]{no reconocemos que esto sea profecía, donde `profecía' tiene un sentido
-    \emph{teológico}}.
+  afirma algo sobre el futuro ---para ilustrar algo en una discusión, por
+  ejemplo--- y se cumple la predicción, entonces hay algo de sentido en afirmar
+  que \enquote{el cumplimiento fue accidental}. Pero si esto mismo se afirmara
+  como una profecía, entonces decir \enquote{fue accidental que se cumpliera}
+  puede significar que el hecho cumplido no fue lo que quiso decir la persona,
+  como afirmó Lessing, o que
+  \blockquote[{\cite[34]{anscombe2008faith:prophandmi}}: we do not allow this to
+  be prophecy, where `prophecy' has a \emph{theological} meaning]{no reconocemos
+    que esto sea profecía, donde `profecía' tiene un sentido \emph{teológico}}.
 #+END_SRC
-*** TODO Conclusiones
+*** DONE Conclusiones
+CLOSED: [2019-07-29 Mon 11:02]
 #+BEGIN_SRC latex
   Las conclusiones a las que Anscombe llega después de su análisis pueden
   resumirse en dos cuestiones. En primer lugar se enfoca en el contraste entre dos
   posiciones desde las que una persona podría acercarse al argumento de las
   profecías y milagros. Una situación en la que puede estar una persona respecto
-  de los milagros y profecías es como un observador imparcial e indiferente. Éste
+  de los milagros y profecías es como un observador imparcial e indiferente. Este
   solo tendría delante de él, como datos seguros, algunas profecías dispersas
   relacionadas con personas y ciudades; también contaría con noticias de milagros
   y del cumplimiento de profecías que, sin embargo, sería absurdo pretender que
@@ -530,7 +462,7 @@ as it doesn't have a theological sense
 
   La crítica de Lessing es contra un alegado peso que debería de tener un
   argumento basado en los milagros y las profecías cumplidas y que para él no
-  tiene la fuerza para justificar la creencia en el Cristianismo. El vaticano~I
+  tiene la fuerza para justificar la creencia en el Cristianismo. El Vaticano~I
   alega, por su parte, que los milagros y profecías son sólidos argumentos
   externos. Anscombe propone que estos argumentos externos presuponen una posición
   específica de parte de quien pueda ser interpelado por ellos:
@@ -602,7 +534,7 @@ as it doesn't have a theological sense
   constitutes divine attestation is only learned by faith, what becomes of the
   `solid external arguments' of the Vatican decree?]{si \textins{lo que}
     constituye una atestación divina solo se conoce por la fe, ¿en qué quedan los
-    `solidos argumentos externos' de la constitución del Vaticano?}. Si se tiene
+    `sólidos argumentos externos' de la constitución del Vaticano?}. Si se tiene
   esta enseñanza en cuenta tendría que ser posible un criterio que no tenga como
   presupuesto la fe. Anscombe propone el siguiente análisis:
   \blockquote[{\cite[38]{anscombe2008faith:prophandmi}}: I think the argument must
@@ -620,323 +552,20 @@ as it doesn't have a theological sense
     atrevernos a no creerle y obedecerle: siempre que lo que dice no esté en
     conflicto con la verdad conocida.}
 
-  Este criterio, que sirve para remover los obstáculos que impiden la creencia, no
-  ofrece una razón positiva para creer. La razón positiva para creer es la
-  consonancia con la doctrina conocida.
-
-
-
-  Pero, uno podría decir, quizás uno podría hacer algo en otras circunstancias
-  permisible `porque uno no se atreve a hacerlo de otro modo' en un caso en el que
-  no hay ningún signo de que el hombre es presuntuoso y el hace lo que es una de
-  dos, de Dios o es presuntuoso; pero puede uno creer algo por una razón como
-  esa?: a saber que el hombre que lo dice es de Dios o presuntuoso y no hay ningún
-  signo de que sea presuntuoso? Sin duda uno quisiera razón positiva para creer y
-  no meramente ausencia de razón positiva para descreer?
-
-  Esto, me parece a mi, es correcto, y va con la tésis de que en cierto sentido no
-  puede haber un profeta con una nueva doctrina.
+  Anscombe termina haciendo una distinción; quizás podemos actuar según la
+  profecía \enquote{porque no deberíamos atrevernos a actuar de otro modo}, pero
+  ¿sería esto justificación suficiente para afirmar una creencia?. Este criterio
+  puede servir para remover dudas a la hora de hacer un juicio razonable sobre una
+  alegada atestación divina, sin embargo, no ofrece una razón positiva para creer.
+  Esta razón positiva, según alude Elizabeth, se encuentra en la consonancia con
+  la doctrina conocida: \blockquote[{\cite[39]{anscombe2008faith:prophandmi}}:
+  Surely one wants positive reason to believe, and not merely absence of positive
+  reason to disbelieve? This, it seems to me, is correct, and goes with the thesis
+  that in some sense there cannot be a prophet with a new doctrine. ]{¿Sin duda
+    quisiéramos razón positiva para creer, y no solo ausencia de razones positivas
+    para dudar? Esto, según mi parecer, es correcto, y va con la tesis de que en
+    cierto sentido no puede haber un profeta con una nueva doctrina.}
 #+END_SRC
-  El análisis de Anscombe en torno al argumento de Lessing toca varios puntos
-
-  Principalmente sostiene que Lessing tiene razón cuando propone que
-
-  Luego sobre staking beliefs on the strenght of historical certainty
-  hay una clase de aserciones históricas que sería absurdo atribuirles certeza
-  pero ya pasó el tiempo en que podría disprove them
-
-  Luego sobre las profecías....
-  Sticking with things thar are absolutely solid.....
-
-  it is solid that it was anciently written down as prophecy
-  that Jerusalem.....
-  If lessing tells me i know the ancientness only historically i can reply that
-  this sort of certainty is good enough as any
-
-  NOW prophecies..... whose ancientness, priority and fulfulment are really clear
-  to a detched observer ar necessarily few
-  this is because Lessing puts up a condition.... we have to judge that the thing
-  that happened, not mere was describable in the words occurring in the
-  prediction, but was what was predicted
-
-  but there are special difficulties about the notion of the applicability of
-  prophetical words as accidental
-
-  two points anscombe makes here:
-
-  to see a prophecy fulfiled is to interpret them
-  a prophecy fulfilled or a miracle done have to attest something
-
-  something else about what can it mean for prophecy to be fulfiled
-
-  this is the very sort of thing for that man, or these men, to have said;
-
-  Puesto así parece fuerte
-  Está en conflicto con la afirmación del Vaticano
-  Su argumento es valioso pq no confunde el problema atacando la verdad de los
-  milagros o cumplimientos de profecias documentados
-
-  es de interés extraordinario lo que dice dei filius pq
-  creemos en profecias cumplidas y milagros porque creemos la religion católica
-  y estos forman parte de nuestras doctrinas
-
-  además
-  el pasaje del deut, junto con reflexión razonable en los requisistos de la fe
-  nos inclinarían a decir que un profeta o milagrero debe ser juzgado a la luz de
-  la fe cristiana (no la fe cristiana a la luz de las profecias y milagros)
-
-  si son argumentos externos entonces parece que deberian quedar establecidos como
-  tal antes de que quede introducida la creencia en el cristianismo:
-  pero no hay un elemento teológico en llamar algo una profecía cumplida, e
-  incluso, un milagro?
-
-  Hay que conceder a Lessing que los informes de milagros
-
-  Ahora profecias cuya antiguedad, prioridad y cumplimiento sean verdaderamente
-  claras y ciertas para un observador imparcial son necesariamente pocas....
-
-  Un monton de pasajes suenan como profecias para Crisitanos creyentes o Judios
-  piadosos, pero suenan como afirmaciones misteriosas de textos antiguos para
-  cualquier otra persona
-
-  puede ser un accidente el cumplimiento de una profecia?
-
-  es juzgada como profecia una afirmación que simplemente puede ser aplicada a
-  hechos futuros?
-
-  hay algunas dificultades sobre la noción de la aplicabilidad de palabras
-  proféticas como accidentales
-
-  para casi todas las profecias, verlas cumplidas es interpretarlas e
-  interpretarlas no es preguntarse si el profeta tenia en mente estos eventos...
-
-  sino que lo que podemos hacer es considerar las ocasiones en las que el profeta
-  profesando profetizar afirmó estas palabras y valorar lo que dijo considerando
-  todo su contexto, a los eventos que pensamos que estas palabras profetizaron
-
-  la pregunta surge, por qué deberiamos impresionarnos del todo con las profecias?
-  por qué nos deberían interesar?
-
-  Una profecía o milagro se supone que atesta algo
-
-  Hay un sentido del término accidental distinto al que Lessin emplea
-
-  Las partes son: preámbulo...
-  discusión del argumento central....
-  -> a quién pueden decirle algo las profecias cumplidas o los milagros, para
-  quién son argumentos externos? para un observador imparcial que por primera vez
-  quiere conocer justo lo que la fe enseña?
-
-  I have contended miracles cannot possibly be accepted as certainly true
-  ocurrences by the indifferent historian
-
-  their role is this: \blockquote[if one is seriously entertaining the truth of
-  the whole revelation in the way I have hinted at, the miracles are consonant.
-  That God attested Christ by miracles is possible, if Christ is Christ ---i.e. is
-  the Messiah promised in the Old Testament. Then the problem, how on earth these
-  seemingly factual records came to be written, of such incredible things, is
-  resolved by the hypothesis that they happened.]{si estamos considerando
-    seriamente la verdad de toda la revelación en el modo al que he aludido, los
-    milagros son consonos. Que Dios atestó a Cristo por medio de los milagros es
-    posible, si Cristo es Cristo ---esto es, es el Mesías prometido en el Antiguo
-    Testamento. Entonces el problema, sobre cómo es posible que estas crónicas
-    supuestamente fácticas han llegado a quedar escritas, de unos eventos tan
-    increíbles, se resuleve por la hipótesis de que sí ocurrieron.}
-
-  Un historiador indiferente puede dejar sin resolver la pregunta, ¿sí ocurrieron,
-  qué características esperaríamos que tengan los documentos donde quedan
-  relatados? Y si ocurrieron, acaso no apoyan la enseñanza?
-
-  Pero y es posible del todo la atestación divina?
-
-  El hecho de que alguien de muestras de hacer cosas milagrosas o que diga
-  profecias que se cumplen, ciertamente no muestran que esté atestado divinamente.
-
-  Según veo, tiene que haber una tesis de teología natural, como podría llamarla,
-  de que si alguien realiza `una señal y un prodigio' o dice una profecía que se
-  cumple, en el nombre de Dios, entonces está atestado divinamente. Ahora en qué
-  descansa esto? Puede descansar en fe.
-
-  Las enseñanzas de los profetas deben ser primero tales que pudieran
-  razonablemente entendidas como perteneciendo a la verdad revelada por Moisés;
-  solo si esto es así entonces es posible proponer la pregunta. Entonces, si
-  predice algo y esto ocurre, y si no intenta conducirles a la idolatría después
-  de esto, entonces está atestado.
-
-  Esto podría entenderse como matería de fe. Pero si eso que constituye atestación
-  divina sólo es conocido por la fe, entonces en qué quedan los `solidos
-  argumentos externos' de la constitución del Vaticano?
-
-  Pienso entonces que el argumento más bien tiene que se que si un profeta que
-  aparentemente está enseñando la verdad, se atreve a predecir algo contingente,
-  entonces esto es presunción suya si no es el caso que lo ha recibido de Dios y
-  debe decirlo. Ahora si enseña una mentira inmediatamente después, o si lo que ha
-  dicho no ocurre, entonces queda demostrado presuntuoso. Pero si no es demostrado
-  presuntuoso, entonces no debemos atrevernos a no creerle u obedecerle: mientras
-  que lo que dice no entre en conflicto con la verdad conocida.
-
-
-  -> los argumentos de profecias y milagros tienen peso para alguien que haya
-  atendido a las enseñanzas del AT
-
-  Ahora, si todo esto es así, el observador imparcial e indiferente queda
-  confrontado ciertamente solo por algunas profecias dispersas relacionadas con
-  ciudades y personas; y con \emph{informes} de milagros y de cumplimientos de
-  profecias los cuales es absurdo pretender que deba tener en cuenta como
-  ciertamente ciertos.
-  Que pasa entonces con los solidos argumentos externos de la constitución?
-
-  Esbozaré mi respuesta brevemente: Sólo si un hombre queda impresionado por el
-  Antiguo Testamento, al punto de sentirse inclinado a tomarlo como su maestro,
-  tiene entonces el argumento desde profecias y milagros algún peso serio.
-
-  En prophecy and miracles Anscombe destaca la propuesta de Vaticano I acerca de los
-  argumentos externos.
-  Al tener esto en cuenta, lanza la pregunta: Esto podría ser tomado como materia de fe,
-  ¿Pero si aquello que constituye atestación divina puede ser conocido solo por la fe, en
-  que queda lo que dice el concilio?
-
-  lo primero es que un "historiador apático" no podría aceptar el rol de los milagros
-  como hechos ciertamente verdaderos, no sería razonable pedir al historiador apático que
-  resuelva el problema de cómo han llegado a quedar escritos estos relatos.
-
-  Una persona que haya tomado como maestro el AT, para alguien así sí que tendría peso
-  las profecías cumplidas o los milagros
-
-  Para Anscombe debe haber una tesis de teología natural que afirme qué implica que una
-  persona está divinamente atestada
-
-  Esta tesis no tiene que ser materia de fe
-
-  El argumento puede ser que si no queda probado presuntuoso entonces no podriamos no
-  obedecerle
-
-  pero no basta un motivo negativo
-
-  puede uno creer porque no tiene signos de que este hombre sea presuntuoso?
-  y entonces hay que considerar que una de dos o es presuntuoso o lo que dice viene de
-  Dios? y entonces como no hay signos de que sea presuntuoso, pues viene de Dios?
-
-  Seguramente querríamos razones positivas para creer, y no meramente ausencia de razón
-  positiva para descreer?
-
-  Esto, me parece, es correcto, y va con la tesis de que en cierto sentido no puede haber
-  un profeta con una nueva doctrina.
-
-  Con estas cosas y lo que dice en 'faith' se podría construir una descripción de lo que
-  Anscombe considera como atestación divina
-
-
-
-- Preamble, before considering Lessing's central argument
-
-- His argument boils down to: 'But these things may not be true, so how can I use them
-  to support Christianity?'
-- Miracles and fulfilled prophecies are said to offer solid external arguments for the
-  truth of christianity, but isn't there a theological element in calling something a
-  fulfilled prophecy or miracle?
-- Lessing seems right in saying that the reports of miracles could not be expected to
-  appeal to an external judge
-- Lessing seems to be wrong in saying that 'no historical certainty can be strong enough
-  to be absolute'
-  + If it is strength of certainty that is really in question
-    - it is not true that historical certainty is always too weak to base absolute
-      certainty upon it
-      + Probability may come in regarding an historical truth, but it doesn't begin to
-        come in at the start
-      + Anscombe objects to Lessing's lumping together everything historical as of
-        inferior certainty to our own experience
-    - That Christ claimed to be the Son of God and that he rose from the dead belongs
-      to a class of historical assertions which it would be absurd to claim certainty
-      for, but the time for disproving which is past.
-    - What would be solid in this fashion is that Christ existed, preached, like an Old
-      Testament prophet, and was at least ostensibly crucified under Roman authority;
-      and that believers took him for the Messiah and the son of God, and believed he
-      had risen from the dead
-  + If we stick to things that are solid, and avoid what may be regarded as accidential
-  + Lessing disputes priority and certainty
-- The critical principle that prophetical wriings must have been clealy intelligible in
-  their own time is itself a denial of the possibility of all but prophecy of a very
-  restricted type
-  + That is to say: for almost all prophecies, to see them fulfilled is to interpret
-    them
-- Prophecies must attest something
-- If all this is so, the impartial indifferent observer is confronted quite certainly
-  only with a few scattered prophecies relating to cities and peoples; and with reports
-  of miracles and of fulfilments of prophecies which it is absurd to pretend he must
-  regard as certainly true.
-  - So what becomes of the 'solid external arguments'?
-- Only if a man is impressed by the Old Testament, to the extent of being inclined to
-  take it as his teacher, has the argument from prophecies and miracles any serious
-  weight.
-- When St. Agustine said that fulfilment of the prophecies in Christ was the greates
-  proof of his divinity, what he said was true; but the proof requires a very special
-  position on the part of someone who is to consider it.
-  - This is why the kind of apologetic that Lessing argued against, which did not
-    assume that position, was so vulnerable and stupid.
-- The miracles are consonant, That God attested Christ by miracles is possible, if he
-  is the Messiah promised in the Old Testament.
-  - The problem about how these seemingly factual records came to be written, of such
-    incredible things, is resolved by the hypothesis that they happened.
-- With this we come to the problem of the notion of divine attestation at all.
-  - There has to be a thesis of natural theology, that if someone works 'a sign and a
-    wonder' or utters a prophecy which gets fulfilled, in God's name, then he is
-    divinely attested.
-  - This might be taken as a matter of faith, but then, what about the 'solid external
-    arguments'?
-  - I think the argument must be rather that if a prophet who is apparently teaching
-    that truth, dares to foretell something contingent, then this is presumption of him
-    unless he has it from God and must say it. Now if he teaches a lie straight away
-    afterwards, or if the thing does not happen, then he is proved presumptuous. But if
-    he is not proved presumptuous, then we ought not to dare not to believe and obey
-    him: so long as what he says does not conflict with the known truth.
-
-
-So far as I can see there has to be a *thesis of natural theology*, as I might call it,
-that if someone works ‘a sign and a wonder’ or utters a prophecy which gets fulfilled,
-in God’s name, then he is divinely attested. Now what does this rest on? It might rest
-on faith. In Deuteronomy, when the Jews were forbidden to consult soothsayers and
-necromancers, and omens, they were promised prophets ‘like Moses’ whom they were to
-attend to instead. But, the passage goes on, they’ll want to know how to tell a
-prophet. And the answer is: if the prophet foretells something, and it doesn’t happen,
-then that was just his presumption. The implication seems to be that if a prophet of
-their people, apparently teaching according to the Law, foretells something and it does
-happen, he is attested.
-
-
-p. 37 Now what does this rest on? It might rest on faith. In Deuteronomy, when the Jews
-were forbidden to consult soothsayers and necromancers, and omens, they were promised
-prophets ‘like Moses’ whom they were to attend to instead.
-
-
-
-
-
-
-37: el rol de los milagros que he sostenido que no pueden ser aceptados como
-hechos ciertamente verdaderos por un historiador indiferente, me parece que es:
-si alguien está seriamente considerando la verdad de toda la revelación en el
-modo que he descrito, los milagros son consonos.
-
-
-Luego dei filius
-
-So far as I can see there has to be a thesis of natural theology... that someone
-is divinely attested
-
-what does this rest on? it might rest on faith
-
-
-
-El análisis de Anscombe examina cuatro dimensiones del argumento de Lessing. Los
-milagros, la certeza histórica como fundamento de las creencias, las profecías y
-a quién pueden apelar estos argumentos externos que son los milagros y las
-profecías (o si estas pueden apelar a un juez externo o historiador apático)
-
-
-
-
-
 ** Parmenides, Mystery and Contradiction (1969) [0%]
 ** On Transubstantiation (1974) [0%]
 ** Hume and Julius Caesar (1973) [%]
@@ -1256,7 +885,7 @@ causes, and so on, till we arrive at some object, which we see or remember.
 that can stop them, is an impression of the memory or senses, beyond which there is no
 room for doubt or enquiry.
 :END:
-+BEGIN_SRC latex
+#+BEGIN_SRC latex
   El argumento de Hume, entonces, se compone de dos partes.
   En primer lugar, una cadena de inferencia en la cual "ya que p, q, etc..."
   en la que p da una causa creida (no percibida) y q un efecto inferido, no puede continuar
@@ -1290,7 +919,7 @@ para siempre, sino que tiene que terminar n
 
 #+END_SRC
 **** el término de la cadena de inferencias no puede ser otra inferencia
-+BEGIN_SRC latex
+#+BEGIN_SRC latex
 Hume’s second point is that not merely must the chain that he is concerned with
 come to an end somewhere, but its terminus must be of a different kind from the
 other members. ... without the authority either of the memory or the senses our
@@ -1617,10 +1246,6 @@ on the best possible grounds."
 #+BEGIN_SRC latex
 \subsubsection{`Creer' cuando la comunicación viene de Dios}
 #+END_SRC
-
-
-
-
 ** The Question of Linguistic Idealism (1976) [0%]
 ** What is it to Believe Someone? (1979) [0%]
 #+BEGIN_SRC latex

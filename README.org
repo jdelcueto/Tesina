@@ -53,13 +53,13 @@
         - [ ] Cambridge: filosofía analítica
         - [ ] Profesora y Catedrática
 ** TODO Cap. 3: La Concepción de G.E.M. Anscombe Sobre el Testimonio [0%]
-*** TODO Análisis Diacrónico [0%]
-        - [-] Prophecy and Miracles (1957) [60%]
+*** TODO Análisis Diacrónico [14%]
+        - [X] Prophecy and Miracles (1957) [100%]
           + [X] Información del Texto
           + [X] Introducción: Plantieamiento de la Cuestión
           + [X] Preámbulo: Análisis del argumento de Lessing
-          + [ ] Análisis del Punto central del Argumento
-          + [ ] Conclusiones
+          + [X] Análisis del Punto central del Argumento
+          + [X] Conclusiones
         - [ ] Parmenides, Mystery and Contradiction (1969) [0%]
         - [ ] On Transubstantiation (1974) [0%]
         - [ ] Hume and Julius Caesar (1973) [0%]
