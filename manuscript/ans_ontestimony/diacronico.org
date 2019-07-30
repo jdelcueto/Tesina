@@ -2,11 +2,13 @@
 # ------------------------------------------------------------------------------------
 # Santa Teresa Benedicta de la Cruz, ruega por nosotros
 
-* TODO Análisis /"Diacrónico"/ [0%]
+* TODO Análisis /"Diacrónico"/ [14%]
 #+BEGIN_SRC latex
 \section{Análisis Diacrónico}
 #+END_SRC
-** TODO Prophecy and Miracles (1957) [100%]
+** DONE Prophecy and Miracles (1957) [100%]
+>>> arreglar los pasos de un punto a otro en la redacción...
+CLOSED: [2019-07-29 Mon 16:41]
 #+BEGIN_SRC latex
 \subsection{Prophecy and Miracles}
 #+END_SRC
@@ -566,9 +568,11 @@ CLOSED: [2019-07-29 Mon 11:02]
     para dudar? Esto, según mi parecer, es correcto, y va con la tesis de que en
     cierto sentido no puede haber un profeta con una nueva doctrina.}
 #+END_SRC
-** Parmenides, Mystery and Contradiction (1969) [0%]
-** On Transubstantiation (1974) [0%]
-** Hume and Julius Caesar (1973) [%]
+** TODO Parmenides, Mystery and Contradiction (1969) [0%]
+>> escribir una síntesis de lo que anscombe hace y entonces redactar...
+
+** TODO On Transubstantiation (1974) [0%]
+** TODO Hume and Julius Caesar (1973) [%]
 :PUBLICATION_INFO:
 Originally published in october 1973 vol 34 Issue 1 of Analysis Journal Reprinted in
 CPP I in 1981 p. 86-92
@@ -1129,7 +1133,7 @@ once the details of that hypothesis have been demanded.
   with testimony is remote and indirect.
 
 #+END_SRC
-** Faith (1975) [0%]
+** TODO Faith (1975) [0%]
 *** /Quaestio/: Understand faith without it
 :STATEMENT:
 "I want to say what might be understood about faith by someone who did not have
@@ -1246,8 +1250,8 @@ on the best possible grounds."
 #+BEGIN_SRC latex
 \subsubsection{`Creer' cuando la comunicación viene de Dios}
 #+END_SRC
-** The Question of Linguistic Idealism (1976) [0%]
-** What is it to Believe Someone? (1979) [0%]
+** TODO The Question of Linguistic Idealism (1976) [0%]
+** TODO What is it to Believe Someone? (1979) [0%]
 #+BEGIN_SRC latex
   \subsection{¿Qué es creer a alguien?}
 #+END_SRC
