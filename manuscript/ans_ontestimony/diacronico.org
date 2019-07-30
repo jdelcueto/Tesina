@@ -570,6 +570,87 @@ CLOSED: [2019-07-29 Mon 11:02]
 #+END_SRC
 ** TODO Parmenides, Mystery and Contradiction (1969) [0%]
 >> escribir una síntesis de lo que anscombe hace y entonces redactar...
+#+BEGIN_SRC latex
+\subsection{Parmenides, Mystery and Contradiction}
+#+END_SRC
+*** TODO Información del texto
+#+BEGIN_SRC latex
+  En 1981 Anscombe publicó una colección de sus escritos en tres volúmenes
+  llamados \emph{The Collected Philosophical Papers of G.\,E.\,M.\,Anscombe}. El
+  primero de estos, titulado \emph{From Parmenides to Wittgenstein} recoge un tema
+  presente en el \emph{Tractatus} de Wittgenstein y que Anscombe trató con gran
+  interés: la relación entre lo concebible y lo posible. Lo concebible está
+  vinculado a lo que puede ser dicho, y la cuestión acerca de lo que puede ser
+  dicho claramente nos introduce en esos temas propios de Wittgenstein como son la
+  falta de significado, el sinsentido, lo misterioso y lo inefable. En este
+  volumen Anscombe agrupa distintos escritos suyos que examinan las reflexiones de
+  diversos autores en torno a esta cuestión. Establece así un diálogo con
+  filósofos como Parmenides, Platón, Hume y Wittgenstein en una única
+  discusión.\footnote{Cf.~ \cite[193]{teichmann2008ans}: Philosophers have
+    grappled since ancient times with the problem of how thinkability and
+    possibility are related, and it is characteristic of Anscombe to have drawn
+    such diverse figures as Parmenides, Plato, Hume, and Wittgenstein into a
+    single discussion.}
+
+  \emph{Parmenides, Mystery and Contradiction} es el primer artículo que se
+  encuentra en este volumen. El texto es de la ponencia ofrecida por Anscombe en
+  la reunión del \emph{Aristotelian Society} en \emph{21, Bedford Square} en
+  Londres el 24 de febrero de 1969. Una buena clave para acercarse al análisis de
+  este artículo se puede encontrar en la introducción al presente volumen de la
+  colección: \blockquote[{\cite[xi]{anscombe1981parmenides}}: It was left to the
+  moderns to deduce what could be from what could hold of thought, as we see Hume
+  to have done. This trend is still strong. But the ancients had the better
+  approach, arguing only that a thought was impossible because the thing was
+  impossible, or, as the Tractatus puts it, ``Was man nicht denken kann, das kann
+  man nicht denken'': an \emph{impossible} thought is an impossible
+  \emph{thought}.]{Se les dejó a los modernos el deducir lo que puede ser posible
+    desde lo que puede ser sostenido en el pensamiento, como vemos hacer a Hume.
+    Esta tendencia sigue siendo fuerte. Pero los antiguos tuvieron el mejor
+    acercamiento, argumentando solo que un pensamiento sería imposible porque la
+    cosa misma es imposible, o, como lo dice el Tractatus, ``Was man nicht denken
+    kann, das kann man nicht denken'': un pensamiento \emph{imposible} es un
+    \emph{pensamiento} imposible.}
+#+END_SRC
+In `Parmenides, Mystery and Contradiction', Anscombe considers the view that
+`can be grasped in thought' amounts to `can be presented in a sentence ehich can
+be seen to have an unexceptionable non-contradictory sense' (PMC, 8). She
+explicitly compares this view with that expressed in the Preface to the
+\emph{Tractatus}, that `whatever can be said at all can be said clearly'. Having
+in mind Wittgenstein's notion of what is shown or made manifest, she goes on:
+Someone...
+
+It seems she starts by distinguishing the various things Parmenides' be and
+think may mean in considering his argument....
+
+but that ends up not being too useful because the second premise taken in sensu
+diviso isn't a credible proposition.
+
+in regards to the first premise "only what can exist, or can be the case, can be
+thougth of" seems refuted by the argument from the impossible pictures
+
+*** It is false that one... so farewell Parmenides
+*** That other arm of his first premise remains tantalizing
+
+- we might call this the no mystery arm... if some way of characterizing what
+  can be thought could be found, then if this proposition is true, there's a
+  quick way of excluding mysteries
+
+what does this first premise mean?
+
+to take the first arm he actually used...
+
+on any interpretation his argument is vitiated by the requirement that the
+second premise be taken in sensu diviso... in which it isn't credible
+
+
+
+*** If we could prove Parmenides' principle, or rather the arm he didin't use
+*** Considers the view that `can be grasped in thought' amounts to `can be presented in a sentence which can be seen to have an unexceptionable non-contradictory sense'
+*** Explicitly compares this view with that expressed in the Preface to the Tractatus, that `whatever can be said at all can be said clearly'.
+*** Having in mind Wittgenstein's notion of what is shown or made manifest, she goes on
+
+
+
 
 ** TODO On Transubstantiation (1974) [0%]
 ** TODO Hume and Julius Caesar (1973) [%]
