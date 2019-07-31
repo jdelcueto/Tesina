@@ -611,6 +611,58 @@ CLOSED: [2019-07-29 Mon 11:02]
     kann, das kann man nicht denken'': un pensamiento \emph{imposible} es un
     \emph{pensamiento} imposible.}
 #+END_SRC
+
+Anscombe:
+Muestra el argumento de parmenides
+Analiza el argumento...
+Entra en una especie de diálogo: Comienza el dialogo propoiendo que Parmenides
+apoyaría tomar la segunda premisa en sensu diviso...
+
+He might support the second premise taken in sensu diviso:
+concerning that which is not, it holds that cannot be, saying:
+P: What have you mentioned? Nothing at all. And that's my point!
+
+A: Admittedly the same holds of the conclusion:
+Concerning that which is not, it holds that that cannot be thought.
+
+But this is the difficulty...
+
+A: But we may reply: We didn't purport to mention anything
+
+P: what do you mean you didn't mention...
+
+if there is an object x with property F, not property F of object x then necesarily not x with property F
+or
+not proposition then necesarily not proposition
+that is not credible
+
+Its the same thing that can be thought and can be
+
+First premise: false if:
+that can be thought which cannot be <
+that can be which cannot be thought
+^ out of the way cases...
+
+he can be taken to mean: the impossible can't be clearly conceived to be
+
+
+that other arm remains tantalizing
+
+What he used: only that can be thought, which can be
+the other arm: only that can be, which can be thought  < no mystery arm
+only what can be thought can be
+
+
+what are we to make of this premise anyway? It appears to draw attention to the
+possibilities of thought - and who knows what they are?
+
+how about the negation of the premise:
+
+there may be what can't be thought
+
+
+
+
 In `Parmenides, Mystery and Contradiction', Anscombe considers the view that
 `can be grasped in thought' amounts to `can be presented in a sentence ehich can
 be seen to have an unexceptionable non-contradictory sense' (PMC, 8). She
@@ -628,6 +680,13 @@ diviso isn't a credible proposition.
 in regards to the first premise "only what can exist, or can be the case, can be
 thougth of" seems refuted by the argument from the impossible pictures
 
+well all are refuted... then she says
+
+what may be true is that
+only what can exist can without misunderstanding...
+
+
+*** First a dialog that ends with:
 *** It is false that one... so farewell Parmenides
 *** That other arm of his first premise remains tantalizing
 
@@ -643,7 +702,7 @@ on any interpretation his argument is vitiated by the requirement that the
 second premise be taken in sensu diviso... in which it isn't credible
 
 
-
+*** but now let's try the other arm...
 *** If we could prove Parmenides' principle, or rather the arm he didin't use
 *** Considers the view that `can be grasped in thought' amounts to `can be presented in a sentence which can be seen to have an unexceptionable non-contradictory sense'
 *** Explicitly compares this view with that expressed in the Preface to the Tractatus, that `whatever can be said at all can be said clearly'.
