@@ -611,6 +611,42 @@ CLOSED: [2019-07-29 Mon 11:02]
     kann, das kann man nicht denken'': un pensamiento \emph{imposible} es un
     \emph{pensamiento} imposible.}
 #+END_SRC
+BOOM!! Vamos a empezar por la conclusión!!!! Pq dice ella que tienen el mejor
+approach? Hay que añadir el otro parrafo sobre idealismo y el assumption de
+being como un objeto
+
+
+*** Análisis del Argumento de Parmenides
+**** El Argumento
+#+BEGIN_SRC latex
+  Anscombe comienza estableciendo el siguiente argumento de Parmenides:
+
+  \blockquote[{\cite[3]{anscombe1981parmenides:pmc}}: Parmenides' arguments runs:
+
+  It is the same thing that can be thought and can be
+
+  What is not can't be
+
+  $\therefore$ What is not can't be thought]{Es la misma cosa lo que puede ser
+    pensado y lo que puede ser (\ldots τὸ γὰρ αὐτὸ νοεῖν ἐστίν τε καὶ εἶναι.)
+
+    Lo que no es no puede ser
+
+    $\therefore$ Lo que no es no puede ser pensado}
+
+#+END_SRC
+**** Segunda Premisa
+
+**** Primera Premisa
+Las dos afirmaciones de Anscombe aquí son
+whatever can be said can be said clearly....
+
+it is false that one mentions either properties or objects when one uses the
+quantifiers binding property variables and object variables, we can bind a self
+contradictory predicate to an object and that doesn't mean being comitted to
+self contradiction in existence
+our property-variable is admitted to range over self-contradictory properties
+
 
 -> What Plato has in common with Parmenides is the assumption that a significant
 term is a name of an object which is either expressed or characterized by the
@@ -623,12 +659,9 @@ in Descartes... descriptive terms of false pictures must stand for realities
 in Hume... assumption that an object corresponds ot a term...
 in Brentano... thinks that mere predictaive connection of terms is an acknowledgement
 
-
 For Parmenides, as for Plato, ``being'' is the only term that expressed
 being, but for Parmenides such other terms as are not names of nothing are other
 names of being.
-
-
 
 At the present day we are often perplexed with enquiries about what makes true,
 or what something's being thus or so consists in; and the answer to this is
@@ -636,12 +669,12 @@ thought to be an explanation of meaning. If there is no external answer, we are
 apparently commited to a kind of idealism.
 
 
+
 it is false that one mentions either properties or objects when one uses the
 quantifiers binding property variables and object variables... Parmenides is
 deprived of his claim that we are committed to self-contradiction in existence
 just because we are willing to use a self-contradictory predicate... so that our
 property-variable is admitted to range over self-contradictory properties.
-
 
 The departure from Wittgenstein consists in saying that we might be able to
 grasp a thought which we cannot clear up---cannot, bacause of our human
