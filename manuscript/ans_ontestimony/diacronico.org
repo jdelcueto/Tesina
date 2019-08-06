@@ -595,9 +595,29 @@ CLOSED: [2019-07-29 Mon 11:02]
   \emph{Parmenides, Mystery and Contradiction} es el primer artículo que se
   encuentra en este volumen. El texto es de la ponencia ofrecida por Anscombe en
   la reunión del \emph{Aristotelian Society} en \emph{21, Bedford Square} en
-  Londres el 24 de febrero de 1969. Una buena clave para acercarse al análisis de
+  Londres el 24 de febrero de 1969.
+#+END_SRC
+BOOM!! Vamos a empezar por la conclusión!!!! Pq dice ella que tienen el mejor
+approach? Hay que añadir el otro parrafo sobre idealismo y el assumption de
+being como un objeto
+*** TODO Claves de interpretación en la intro
+#+BEGIN_SRC latex
+  La introducción al volumen ofrece algunas claves útiles
+
+  Invita a considerar el argumento de los sofistas recontado por Platón:
+
+
+
+  All these arguments
+
+
+
+
+  Una buena clave para acercarse al análisis de
   este artículo se puede encontrar en la introducción al presente volumen de la
-  colección: \blockquote[{\cite[xi]{anscombe1981parmenides}}: It was left to the
+  colección:
+
+  \blockquote[{\cite[xi]{anscombe1981parmenides}}: It was left to the
   moderns to deduce what could be from what could hold of thought, as we see Hume
   to have done. This trend is still strong. But the ancients had the better
   approach, arguing only that a thought was impossible because the thing was
@@ -611,11 +631,6 @@ CLOSED: [2019-07-29 Mon 11:02]
     kann, das kann man nicht denken'': un pensamiento \emph{imposible} es un
     \emph{pensamiento} imposible.}
 #+END_SRC
-BOOM!! Vamos a empezar por la conclusión!!!! Pq dice ella que tienen el mejor
-approach? Hay que añadir el otro parrafo sobre idealismo y el assumption de
-being como un objeto
-
-
 *** Análisis del Argumento de Parmenides
 **** El Argumento
 #+BEGIN_SRC latex
