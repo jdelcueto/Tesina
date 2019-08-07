@@ -415,6 +415,26 @@ profecías (o si estas pueden apelar a un juez externo o historiador apático)
 
 
 * Parmenides, Mystery and Contradiction
+** Información del texto y planteamiento de la cuestión
+**** Ponencia en el Aristotle Society
+**** La pregunta es acerca de la relación entre lo posible y lo concebible
+** El Interés de Anscombe
+*** Ancients had the better approach
+**** It was left to the moderns, but the ancients had the better approach
+**** Do not derive the nothingness of what-is-not from its thinkability, the inverse
+***** What is not is nothing - sensu composito/diviso
+***** The assumption that a signifiant term is a name of an object
+***** Being as an object
+***** Parmenides description of two types of thought
+***** The assumption of Plato and Parmenides is an ancestor to....
+**** At the present day we are often perplexed with enquiries about what makes true
+*** The second arm, the one Parmenides didn't use, remains tantalizing
+**** Distinguish what it means
+**** What are we to make of this premise
+**** Let us try the negation
+**** What can be grasped in thought = can be presented...
+**** Mere abracadabra
+
 Teichmann 193: Another theme of the Tractatus which Anscombe always took very
 seriously was that of the relationship between thinlability and possibility...
 It is characteristic of Anscombe to have drawn such diverse figures as
@@ -433,18 +453,13 @@ seen to have an unexceptionable non-contradictory sense.
 Análisis:
 Poema del ser de Parménides
 
-III
-... τὸ γὰρ αὐτὸ νοεῖν ἐστίν τε καὶ εἶναι.
+III ... τὸ γὰρ αὐτὸ νοεῖν ἐστίν τε καὶ εἶναι.
 
-VI
-Χρὴ τὸ λέγειν τε νοεῖν τ΄ ἐὸν ἔµµεναι· ἔστι γὰρ εἶναι, µηδὲν δ΄ οὐκ ἔστιν· τά σ΄ ἐγὼ φράζεσθαι ἄνωγα.
-
-
-VIII
-οὐ γὰρ φατὸν οὐδὲ νοητόν ἔστιν ὅπως οὐκ ἔστι
+VI Χρὴ τὸ λέγειν τε νοεῖν τ΄ ἐὸν ἔµµεναι· ἔστι γὰρ εἶναι, µηδὲν δ΄ οὐκ ἔστιν· τά σ΄ ἐγὼ
+φράζεσθαι ἄνωγα.
 
 
-
+VIII οὐ γὰρ φατὸν οὐδὲ νοητόν ἔστιν ὅπως οὐκ ἔστι
 
 
 In sensu composito: every F is a G = everything that is an F is also a G (generality)
@@ -471,7 +486,9 @@ A: But we may reply: We didn't purport to mention anything
 
 P: what do you mean you didn't mention...
 
-if there is an object x with property F, not property F of object x then necesarily not x with property F
+if there is an object x with property F, not property F of object x then necesarily not
+x with property F
+
 or
 not proposition then necesarily not proposition
 that is not credible
@@ -541,12 +558,11 @@ second premise be taken in sensu diviso... in which it isn't credible
 
 - but now let's try the other arm...
 - If we could prove Parmenides' principle, or rather the arm he didin't use
-- Considers the view that `can be grasped in thought' amounts to `can be presented in a sentence which can be seen to have an unexceptionable non-contradictory sense'
-- Explicitly compares this view with that expressed in the Preface to the Tractatus, that `whatever can be said at all can be said clearly'.
+- Considers the view that `can be grasped in thought' amounts to `can be presented in a
+  sentence which can be seen to have an unexceptionable non-contradictory sense'
+- Explicitly compares this view with that expressed in the Preface to the Tractatus,
+  that `whatever can be said at all can be said clearly'.
 - Having in mind Wittgenstein's notion of what is shown or made manifest, she goes on
-
-
-
 * Hume and Julius Caesar
 ** Reference
 *** Treatise of Human Nature
