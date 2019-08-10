@@ -596,6 +596,16 @@ CLOSED: [2019-07-29 Mon 11:02]
   encuentra en este volumen. El texto es de la ponencia ofrecida por Anscombe en
   la reunión del \emph{Aristotelian Society} en \emph{21, Bedford Square} en
   Londres el 24 de febrero de 1969.
+
+
+
+  What Plato has in common with Parmenides is the assumption that a significant
+  term is a name of an object which is either expressed or characterized by the
+  term. For Parmenides, as for Plato, ``being'' is the only term that expresses
+  being, but for Parmenides such other terms as are not names of nothing are other
+  names of being.
+
+  What they express
 #+END_SRC
 BOOM!! Vamos a empezar por la conclusión!!!! Pq dice ella que tienen el mejor
 approach? Hay que añadir el otro parrafo sobre idealismo y el assumption de
