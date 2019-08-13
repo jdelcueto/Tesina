@@ -571,7 +571,7 @@ CLOSED: [2019-07-29 Mon 11:02]
 ** TODO Parmenides, Mystery and Contradiction (1969) [0%]
 >> escribir una síntesis de lo que anscombe hace y entonces redactar...
 #+BEGIN_SRC latex
-\subsection{Parmenides, Mystery and Contradiction}
+  \subsection{Parmenides, Mystery and Contradiction}
 #+END_SRC
 *** TODO Información del texto
 #+BEGIN_SRC latex
@@ -579,33 +579,73 @@ CLOSED: [2019-07-29 Mon 11:02]
   llamados \emph{The Collected Philosophical Papers of G.\,E.\,M.\,Anscombe}. El
   primero de estos, titulado \emph{From Parmenides to Wittgenstein} recoge un tema
   presente en el \emph{Tractatus} de Wittgenstein y que Anscombe trató con gran
-  interés: la relación entre lo concebible y lo posible. Lo concebible está
-  vinculado a lo que puede ser dicho, y la cuestión acerca de lo que puede ser
-  dicho claramente nos introduce en esos temas propios de Wittgenstein como son la
-  falta de significado, el sinsentido, lo misterioso y lo inefable. En este
-  volumen Anscombe agrupa distintos escritos suyos que examinan las reflexiones de
-  diversos autores en torno a esta cuestión. Establece así un diálogo con
-  filósofos como Parmenides, Platón, Hume y Wittgenstein en una única
-  discusión.\footnote{Cf.~ \cite[193]{teichmann2008ans}: Philosophers have
-    grappled since ancient times with the problem of how thinkability and
-    possibility are related, and it is characteristic of Anscombe to have drawn
-    such diverse figures as Parmenides, Plato, Hume, and Wittgenstein into a
-    single discussion.}
+  interés: la relación entre lo concebible y lo posible. En el contexto del
+  pensamiento de Wittgenstein la cuestión de lo concebible se encuentra dentro de
+  la discusión sobre lo que puede ser dicho claramente. Ahí se encuentran también
+  característicos temas Wittgensteinianos como la falta de significado, el
+  sinsentido, lo misterioso y lo inefable; nociones que estarán presentes en el
+  análisis de Anscombe.
 
-  \emph{Parmenides, Mystery and Contradiction} es el primer artículo que se
-  encuentra en este volumen. El texto es de la ponencia ofrecida por Anscombe en
-  la reunión del \emph{Aristotelian Society} en \emph{21, Bedford Square} en
-  Londres el 24 de febrero de 1969.
+  El volumen reúne a autores como Parménides, Platón, Hume y Wittgenstein en la
+  discusión sobre esta cuestión. \footnote{Cf.~ \cite[193]{teichmann2008ans}:
+    Philosophers have grappled since ancient times with the problem of how
+    thinkability and possibility are related, and it is characteristic of Anscombe
+    to have drawn such diverse figures as Parmenides, Plato, Hume, and
+    Wittgenstein into a single discussion.} Según es característico de Anscombe,
+  en cada artículo se le encuentra identificando rutas interesantes tomadas por
+  los distintos autores y profundizando todavía más por caminos de reflexión que
+  ella juzga poco explorados o no valorados del todo.
+
+  El primer artículo: \emph{Parmenides, Mystery and Contradiction}, es el texto de
+  una ponencia ofrecida por Anscombe en la reunión del \emph{Aristotelian Society}
+  en \emph{21, Bedford Square} en Londres el 24 de febrero de 1969. Anscombe
+  describe su interés por la ruta trazada por Parmenides y los antiguos en la
+  reflexión sobre la relación entre lo posible y lo concebible diciendo:
+  \blockquote[{\cite[xi]{anscombe1981parmenides}}: It was left to the moderns to
+  deduce what could be from what could hold of thought, as we see Hume to have
+  done. This trend is still strong. But the ancients had the better approach,
+  arguing only that a thought was impossible because the thing was impossible, or,
+  as the Tractatus puts it, ``Was man nicht denken kann, das kann man nicht
+  denken'': an \emph{impossible} thought is an impossible \emph{thought}.]{Se les
+    dejó a los modernos el deducir lo que puede ser posible desde lo que puede ser
+    sostenido en el pensamiento, como vemos hacer a Hume. Esta tendencia sigue
+    siendo fuerte. Pero los antiguos tuvieron el mejor acercamiento, argumentando
+    solo que un pensamiento sería imposible porque la cosa misma es imposible, o,
+    como lo dice el Tractatus, ``Was man nicht denken kann, das kann man nicht
+    denken'': un pensamiento \emph{imposible} es un \emph{pensamiento} imposible.}
+
+  Anscombe toma las expresiones de Parmenides\footnote{Algunos fragmentos del \emph{Poema
+    de Parmenides} permiten reconstruir la argumentación que será presentada por Anscombe:
+
+    \ldots\textgreek{τὸ γὰρ αὐτὸ νοεῖν ἐστίν τε καὶ εἶναι.} (III)
+
+    \textgreek{Χρὴ τὸ λέγειν τε νοεῖν τ' ἐὸν ἔμμεναι· ἔστι γὰρ εἶναι, μηδὲν δ' οὐκ
+      ἔστιν} (VI)
+
+    \textelp{} \textgreek{οὐ γὰρ φατὸν οὐδὲ νοητόν ἔστιν ὅπως οὐκ ἔστι.} (VIII)}
+  y ofrece una construcción de su argumento sobre lo posible y lo concebible:
+  \blockquote[{\cite[3]{anscombe1981parmenides:pmc}}: Parmenides' arguments runs:
+
+  It is the same thing that can be thought and can be
+
+  What is not can't be
+
+  $\therefore$ What is not can't be thought
 
 
+  ]{Es la misma cosa lo que puede ser pensado y lo que puede ser
 
-  What Plato has in common with Parmenides is the assumption that a significant
-  term is a name of an object which is either expressed or characterized by the
-  term. For Parmenides, as for Plato, ``being'' is the only term that expresses
-  being, but for Parmenides such other terms as are not names of nothing are other
-  names of being.
+    Lo que no es no puede ser
 
-  What they express
+    $\therefore$ Lo que no es no puede ser pensado} Anscombe analizará estas dos
+  premisas y su conclusión y llegará a una conclusión equivalente a la afirmación
+  Wittgensteiniana: \blockquote[{\cite[8]{anscombe1981parmenides:pmc}}: ``whatever
+  can be said at all can be said clearly'']{todo lo que puede ser expresado en
+    absoluto puede ser expresado claramente}.
+
+
+  Estas premisas y su conclusión
+  son las que Anscombe utilizará en su análisis.
 #+END_SRC
 BOOM!! Vamos a empezar por la conclusión!!!! Pq dice ella que tienen el mejor
 approach? Hay que añadir el otro parrafo sobre idealismo y el assumption de
@@ -643,7 +683,7 @@ being como un objeto
 #+END_SRC
 *** Análisis del Argumento de Parmenides
 **** El Argumento
-#+BEGIN_SRC latex
++BEGIN_SRC latex
   Anscombe comienza estableciendo el siguiente argumento de Parmenides:
 
   \blockquote[{\cite[3]{anscombe1981parmenides:pmc}}: Parmenides' arguments runs:
@@ -653,7 +693,8 @@ being como un objeto
   What is not can't be
 
   $\therefore$ What is not can't be thought]{Es la misma cosa lo que puede ser
-    pensado y lo que puede ser (\ldots τὸ γὰρ αὐτὸ νοεῖν ἐστίν τε καὶ εἶναι.)
+    pensado y lo que puede ser\\\emph{(\ldots \textgreek{τὸ γὰρ αὐτὸ νοεῖν ἐστίν τε καὶ
+      εἶναι.})}
 
     Lo que no es no puede ser
 
@@ -661,7 +702,18 @@ being como un objeto
 
 #+END_SRC
 **** Segunda Premisa
+#+BEGIN_SRC latex
 
+
+What Plato has in common with Parmenides is the assumption that a significant
+term is a name of an object which is either expressed or characterized by the
+term. For Parmenides, as for Plato, ``being'' is the only term that expresses
+being, but for Parmenides such other terms as are not names of nothing are other
+names of being.
+
+What they express
+
+#+END_SRC
 **** Primera Premisa
 Las dos afirmaciones de Anscombe aquí son
 whatever can be said can be said clearly....
