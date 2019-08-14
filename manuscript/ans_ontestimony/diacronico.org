@@ -614,7 +614,7 @@ CLOSED: [2019-07-29 Mon 11:02]
     como lo dice el Tractatus, ``Was man nicht denken kann, das kann man nicht
     denken'': un pensamiento \emph{imposible} es un \emph{pensamiento} imposible.}
 
-  Anscombe toma las expresiones de Parmenides\footnote{Algunos fragmentos del \emph{Poema
+  Tomando las afirmaciones de Parmenides,\footnote{Algunos fragmentos del \emph{Poema
     de Parmenides} permiten reconstruir la argumentación que será presentada por Anscombe:
 
     \ldots\textgreek{τὸ γὰρ αὐτὸ νοεῖν ἐστίν τε καὶ εἶναι.} (III)
@@ -623,25 +623,29 @@ CLOSED: [2019-07-29 Mon 11:02]
       ἔστιν} (VI)
 
     \textelp{} \textgreek{οὐ γὰρ φατὸν οὐδὲ νοητόν ἔστιν ὅπως οὐκ ἔστι.} (VIII)}
-  y ofrece una construcción de su argumento sobre lo posible y lo concebible:
+  Anscombe reconstruye un argumento que presenta como sigue:
   \blockquote[{\cite[3]{anscombe1981parmenides:pmc}}: Parmenides' arguments runs:
 
   It is the same thing that can be thought and can be
 
   What is not can't be
 
-  $\therefore$ What is not can't be thought
-
-
-  ]{Es la misma cosa lo que puede ser pensado y lo que puede ser
+  $\therefore$ What is not can't be thought]{
+    Es la misma cosa lo que puede ser pensado y lo que puede ser
 
     Lo que no es no puede ser
 
-    $\therefore$ Lo que no es no puede ser pensado} Anscombe analizará estas dos
-  premisas y su conclusión y llegará a una conclusión equivalente a la afirmación
-  Wittgensteiniana: \blockquote[{\cite[8]{anscombe1981parmenides:pmc}}: ``whatever
-  can be said at all can be said clearly'']{todo lo que puede ser expresado en
-    absoluto puede ser expresado claramente}.
+    $\therefore$ Lo que no es no puede ser pensado}
+
+  La conclusió será
+
+  pero antes de llegar a esto da varios pasos
+
+  Anscombe analizará estas dos premisas y su conclusión y llegará a una conclusión
+  equivalente a la afirmación Wittgensteiniana:
+  \blockquote[{\cite[8]{anscombe1981parmenides:pmc}}: ``whatever can be said at
+  all can be said clearly'']{todo lo que puede ser expresado en absoluto puede ser
+    expresado claramente}.
 
 
   Estas premisas y su conclusión
