@@ -323,8 +323,7 @@ http://www.worldcat.org/oclc/873936079
 @mvcollection{anscombe2005ethics,
 title={Human Life Action and Ethics},
 author={Gertrude Elizabeth Margaret Anscombe},
-editora={Mary Geach},
-editorb={Luke Gormally},
+editor={Mary Geach and Luke Gormally},
 isbn={9781845400613},
 series={St. Andrews Studies in Philosophy and Public Affairs},
 publisher={Imprint Academic},
@@ -1169,7 +1168,19 @@ keywords = "conesa, analítica",
 
 
 
-
+** Parmenides
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@book{parmenides2007poema,
+author = "Parmenides",
+editor = "Alberto Bernabé Pajares and Jorge Pérez de Tudela y Velasco",
+title = "Poema",
+subtitle = "Fragmentos y tradición textual",
+publisher = "Itsmo",
+location = "Madrid",
+year = "2007",
+keywords = "parmenides, philosophy",
+}
+#+END_SRC
 * Magisterio
 ** Lumen Fidei
 #+BEGIN_SRC bibtex :tangle secondary.bib

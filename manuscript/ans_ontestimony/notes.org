@@ -415,6 +415,101 @@ profecías (o si estas pueden apelar a un juez externo o historiador apático)
 
 
 * Parmenides, Mystery and Contradiction
+Pq dice ella que tienen el mejor
+approach? Hay que añadir el otro parrafo sobre idealismo y el assumption de
+being como un objeto
+
+lo interesante no es del todo las "conclusiones" o afirmaciones que anscombe o
+parmenides hacen, sino el análisis de anscombe de lo que Parmenides hace y plantea, va
+así
+
+me interesa que los antiguos dicen que un pensamiento es imposible porque la cosa misma
+es imposible
+
+si leemos a Parmenides inatentamente podemos pensar que argumentó así:
+only what can be thought can be
+
+what is not can't be thought of
+
+what is not can't be
+
+pero el argumentó así:
+what can be thought can be
+
+what is nothing cannot be
+
+therefore whatever can be actually is
+
+therefore whatever can be thought actually is
+
+and that argument uses: what is not is nothing
+
+this argument must be taken in sensu diviso and then it is about nothing at all
+
+se puede probar el no mystery arm?
+
+al final lo que está haciendo es decir si se pudiera probar esa manera de plantear lo
+concebible desde lo posible entonces se podrían excluir los misterios
+
+si hubiera una manera de caracterizar lo que puede ser pensado y esta afirmación es
+verdadera, tendriamos una manera rapida de excluir los misterios
+
+en el fondo está diciendo que no hay manera rápida de excluir los misterios.
+
+se puede llegar a decir que lo posible es sólo lo concebible?
+
+Anscombe parece que lo que propone es que solo se puede llegar a afirmar que lo que
+puede ser comprendido en el pensamiento es lo que puede ser presentado en una oración
+sin contradicción
+
+Las dos afirmaciones de Anscombe aquí son
+whatever can be said can be said clearly....
+
+it is false that one mentions either properties or objects when one uses the
+quantifiers binding property variables and object variables, we can bind a self
+contradictory predicate to an object and that doesn't mean being comitted to
+self contradiction in existence
+our property-variable is admitted to range over self-contradictory properties
+
+-> What Plato has in common with Parmenides is the assumption that a significant
+term is a name of an object which is either expressed or characterized by the
+term.
+
+-> The assumption common to Plato and Parmenides is an ancestor of much
+philosophical theorizing and perplexity.
+in Aristotle...theory of substance
+in Descartes... descriptive terms of false pictures must stand for realities
+in Hume... assumption that an object corresponds ot a term...
+in Brentano... thinks that mere predictaive connection of terms is an acknowledgement
+
+For Parmenides, as for Plato, ``being'' is the only term that expressed
+being, but for Parmenides such other terms as are not names of nothing are other
+names of being.
+
+At the present day we are often perplexed with enquiries about what makes true,
+or what something's being thus or so consists in; and the answer to this is
+thought to be an explanation of meaning. If there is no external answer, we are
+apparently commited to a kind of idealism.
+
+
+
+it is false that one mentions either properties or objects when one uses the
+quantifiers binding property variables and object variables... Parmenides is
+deprived of his claim that we are committed to self-contradiction in existence
+just because we are willing to use a self-contradictory predicate... so that our
+property-variable is admitted to range over self-contradictory properties.
+
+The departure from Wittgenstein consists in saying that we might be able to
+grasp a thought which we cannot clear up---cannot, bacause of our human
+finitude.
+
+can we dismiss the possibility that this enigmatic sense is a truth?
+
+
+
+
+
+
 ** Información del texto y planteamiento de la cuestión
 **** Ponencia en el Aristotle Society
 **** La pregunta es acerca de la relación entre lo posible y lo concebible
