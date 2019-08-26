@@ -1,10 +1,8 @@
-* Propecy and Miracles
+* Prophecy and Miracles
 ** Síntesis de lo que Anscombe hace:
-Elizabeth introduce su discusión ofreciendo tres documentos que ser- virán como los
-ejes principales de su análisis:
+Elizabeth introduce su discusión ofreciendo tres documentos que servirán como los ejes principales de su análisis:
 
-Tras esta introducción, Anscombe comienza su análisis desenmara- ñando algunos puntos
-de los argumentos del ensayo de Lessing.
+Tras esta introducción, Anscombe comienza su análisis desenmarañando algunos puntos de los argumentos del ensayo de Lessing.
 
 !!!Falta el primero!
 En una de sus premisas emplea como ejemplo de verdad histórica nuestra creencia en que
@@ -1078,3 +1076,53 @@ CERTAIN PHENOMENA
 
 A general epistemological reason for duobting one will be a reason for doubting all,
 and then none of them would have anythin to test it by
+* The Question for Lingusitic Idealism
+** Fergus Kerr: On Idealism and Realism
+*** Regarding Idealism
+
+Where do color's and number's systems reside?
+In our nature?
+In the nature of things?
+--Witt says: /not/ in the nature of things
+
+This doesn't mean, as Bernard Williams takes it, that it resides in our minds.
+- Far from residing in our minds, the color system lies in a certain colaboration between our nature and the nature of things. ...
+- There would be no color system but for our being in the scene: but that does not mean that we are in a position to revise it at will.
+
+In zettel 357 W. is in a lengthy discussion in which he plays with our knowledge of color to release us from the sense of having to choose between realism and idealism.
+
+If we said that our color concept could not exist if people didn't agree about them is to let in the possibility that we might after all be in a position to identify the colors of things independently of our having the words
+
+-> as if the concept of color resulted from our agreeing in our sense impressions first
+
+*The fact that we generally agree in color judgements /is/ our having the language*
+
+The mentalist-individualist inclination is to say that I know that the color is red before I have learnt to speak at all, or that I learn the public words merely to label the experiences I have already privately and inwardly identified.
+
+*W. reminds us that, whatever we are inclined to say, identifying a thing's color is a skill that is interwoven with language.*
+
+"One can put it this way: If you are going to explain a word to someone by pointing to a patch of color he will know what you mean only to the extent that he knows how the word is being applied. That is to say: there is no way of grasping the object here, of understanding it, except by grasping a technique."
+
+Acquiring a certain technique is what allows me to understand /what is meant/ by the pointing: being able to discriminate between size and color, and between one color and another.
+
+*W. is not suggesting that we do not grasp the object but only a certain linguistic skill*
+
+-> *The color and number systems belong in the realm of that interplay of nature and culture which is 'the natural history of human beings'* (PI 415)
+The only 'a priori' in W. philosophical vision of human life is the /Lebensformen/, the forms of life. kerr 105
+
+- Human action is what is fundamental in W.'s vision :: "they [the truths of logic] are determined by a consensus of action: a consensus of doing the same thing, reacting the same way. There is a consensus, but it is not a consensus of opinion. We all act the same way, walk the same way, count the same way." (WLFM, pp. 183--4) kerr 110
+
+- Following the rule is also a fundamental notion :: Going by a rule, say a sign-post, is a reaction according to the longlasting custom of the community 112
+
+->"Did we invent human speech? No more than we invented walking on two legs" RPP II 435
+
+*Regarding language we are in a level where nature and culture cannot be disentangled. Language neither grew on humane beings like hair nor did they sit down and invent it. Language is not the product of thought or will*
+
+- W. drives us back and back again to discover ourselves in 'the whole, consisting of the language and the activities with which it is interwoven' (PI 7)
+
+- Kerr 118: The meanings that establish the house of reason are not inside our individual minds. They are out in the open, constituting the space...
+
+- Kerr 118: The claim of reason is so exorbitant in our metaphysically inflated self-understanding that it is hard for us to acknowledge what is obvious: the phenomena, including the language games that give rise to the possibility of rational thought in the first place. ... We cannot let our eyes rest on certain phenomena, we are compelled to try to see through them to something more important... ('the yardstick')
+
+*** About Realism
+-
