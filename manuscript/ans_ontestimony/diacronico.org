@@ -1,5 +1,5 @@
 #+PROPERTY: header-args:latex :tangle ../../tex/ch3/diacronico.tex
-# ------------------------------------------------------------------------------------
+# -----------------------------------------------------------------------------
 # Santa Teresa Benedicta de la Cruz, ruega por nosotros
 
 * TODO Análisis /"Diacrónico"/ [14%]
@@ -1525,6 +1525,7 @@ on the best possible grounds."
 \subsubsection{`Creer' cuando la comunicación viene de Dios}
 #+END_SRC
 ** TODO The Question of Linguistic Idealism (1976) [0%]
+
 ** TODO What is it to Believe Someone? (1979) [0%]
 #+BEGIN_SRC latex
   \subsection{¿Qué es creer a alguien?}

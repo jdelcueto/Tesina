@@ -1125,4 +1125,50 @@ The only 'a priori' in W. philosophical vision of human life is the /Lebensforme
 - Kerr 118: The claim of reason is so exorbitant in our metaphysically inflated self-understanding that it is hard for us to acknowledge what is obvious: the phenomena, including the language games that give rise to the possibility of rational thought in the first place. ... We cannot let our eyes rest on certain phenomena, we are compelled to try to see through them to something more important... ('the yardstick')
 
 *** About Realism
--
+- Kerr: 121. I want here only to show that W., alhough certainly not an idealist, is not an ordinary realist either.
+- 122: Cf. Here there is a picture of the essence of human language, the idealist sceptical inclinations, the realist's bluff assurances, are equally dependent upon the myth that speaking, and /a fortiori/ thinking and meaning, are, fundamentally, ostensive definition of physical objects. W.'s investigations are devoted to finding the right point of attack upon the picture. PI has the controversy between realism and idealism at it's heart.
+- PI 366: Is a sum in the head less real than a sum on paper? ---Perhaps one is inclined to say some such thing; but one can get oneself to think the opposite as well by telling oneself: paper, ink, etc. are only logical constructions out of our sense-data.
+  - 125: Sense-data theories steer inexorably towards the myth of the private ostensive definition (PI 380); phenomenalism feeds off a particular picture of the essence of human language (PI 1)
+- !! The controversy between idealism and realism, as it looked to W.: PI 402: When as in this case ['I have such and such a sensation' should really be interpreted as a description of inner life], one is not happy with the expressions of our costumary language... there is an /idée fixe/ in our heads which conflicts with the model of our costumary way of expressing ourselves. We are the tempted to say that our way of expressing ourselves does not describe the facts as they really are. As if, for example, the proposition, 'He has pains' could be false in some other way than by that man's not having pains. As if the form of expression were saying something false even when the proposition /faute de mieux/ asserted something true.
+  + !! The realist sees no difficulty in the idea of my supposing, thinking or imagining that someone else has what I have: BB 48: "but the trouble with the realist is always that he does not solve but skip the difficulties which his adversaries see, though they don't succeed in solving them." *Content to make suppositions on analogy with his own case, the realist simply misses the problem that the idealist strives to articulate.*
+    * *The thing is that the idealist or the phenomenalist are critical about something that the realist just admits. W. is trying to give a response for realism that the realist isn' t searching for*
+- Philosophers continue to take it for granted that meaning should be seen in terms of representation -> Understanding language is characteristically taken as understanding how we represent objects by words. This inevitably encourages a view of the self as a detached spectator in the world. *To understand language as a form, or rather as a multiplicity of forms as W. encourages us to do, is to rehabilitate the self as a responsive agent in vital connection with others of the same kind*
+  + Regarding ourselves as detached observers of the passing scene encourages us to treat language as a representation of reality, and thought as mirror-image of the world (PI 96). However natural and venerable it may be to think along those lines, it is yielding to metaphysical anatipathy to life. Wittgenstein challenges this entire tradition in a sentence: "Would it be correct to say our concepts reflect our life? They stand in the middle of it." RC III, 302
+- The retrieval of the notion of intrinsically expressive behaviour is, philosophically, enormously hard work. It goes against the grain of our metaphysical prejudices: If what I do is significant it is apparently because my action is the outwardly visible effect of hidden events in my secret consciousness. Against this overpowingly plausible line of argument W. quoted this remark by Goethe: 'Don't look for anything behind the phenomena; they themselves are the theory'. Normally, the meaning is on the surface.
+- PI 507: 'I am not merely saying this, I mean something by it'. -- When we consider what is going on in us when we /mean/ (and don't merely say) words, it seems to us as if there were something coupled to these words, which otherwise would run idle. --- As if they, so to speak, connected with something in us.
+- The debate, W. clearly implies, is sustained by a picture of our cognitive situation in which, because of our bodiliness, we are compelled to delay all attributions of intellectual and emotional properties to other people. Again and again he reminds us of the facts of ordinary conversation.
+
+** Anscombe
+
+*** I : Have we in Wittgenstein's last philosophical thought what may be called a linguistic idealism?
+
+**** What does Anscombe means by 'linguistic idealism'
+/PI II, XIII: "If anyone believes that certain concepts are absolutely the right ones, and that having different concepts would mean not realizing something that we realize --- then let him imagine certain very general facts of nature to be different from what we are used to, and the formation of concepts different from usual ones will become intelligible to him"/
+
+Have we what might be called linguistic idealism?
+- linguistic :: because he describes it concepts in terms of lingustic practices,
+
+- W. also he wrote: essence is expressed by grammar ::
+How should we take the dictum /"Essence is expressed by grammar"/?
+
+1. As Plato suggested :: words for the same thing in different language (equus, cheval, horse, etc.) are like the same tool made of different materials
+   + The tool designed to hold an object shares a shape with the object -> a word, then, has something, which we will call its logical shape, answering to the essence it catches hold of (or expresses)
+   + *The logical shape is the grammar of the words* there is a crude grammar common to all these words by which each is, in this case, a count-noun which is the name of a kind of whole living thing.
+   + Now suppose we accept this... what I mean by linguistic idealism would go further and say essence is created by grammar, for the essential is the mark of a concept, not the property of an object
+   + If we assent to the dictum we may as well say :: "these words /have/ to have this grammar."
+   + For example: the language for talking about sensation must have first-third person asymmetry in this sense would mean that language that doesn't have these features, this grammar, is not about sensations but about something else, and if you took language about sensations and changed this aspect of it, it would cease to be language about sensations
+   + the grammar here corresponds to something of the object, its real essence, which it has wether there is language about it or not
+2. The object is itself dependent on language
+   + For example: The language about sensation must have first-third person asymmetry, in this sense this means that this property (first-third person asymmetry) is ascribed to this object (sensation)
+
+- The second way of understanding the dictum is what Anscombe would call linguistic idealism
+
+
+To sum up: Essence is expressed by grammar. But we can conceive of different concepts, i.e. of language without the same grammar. People using this would the not be using language whose grammar expressed the same essences. However, they might not thereby be missing anything that we realize.
+
+-> It is enourmously difficult to steer in the narrow channel here: to avoid the falsehoods of idealism and the stupidities of empiricist realism.
+
+
+
+The forgoing considerations lead to the following test: If we want to know if Wittgenstein is a 'linguistic idealist' we shall ask the question: Does this existence, or this truth, depend upon human linguistic practice?
+*** II: Another way of raising the question of a sort of idealism
