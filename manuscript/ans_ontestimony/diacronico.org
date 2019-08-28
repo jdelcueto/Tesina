@@ -846,6 +846,19 @@ CLOSED: [2019-07-29 Mon 11:02]
 #+BEGIN_SRC latex
 #+END_SRC
 ** TODO On Transubstantiation (1974) [0%]
+*** TODO I. What is transubstantiation?
+
+*** TODO II. Why do we celebrate the Eucharist?
+**** The mysterious fact that he wanted to nourish us with himself
+***** It is clearly a symbol: we are not physically nourished... like the Jews were by the paschal lamb
+***** "I am the bread..." that which these words say, and which on that understanding is literally so, symbolizes something else
+***** The clearest metaphor is that of the vine
+****** the disciples are to share in the divine life, the divine nature itself
+******* but no one can know what it means for us to live with the life of God himself: that is why I say that what is symbolized by that symbol... is deeply mysterious
+****** "to make us into his body": the unity of the life that is pointed to in the figure of speech is no metaphor
+#+BEGIN_SRC latex
+  \blockquote[{\cite[112]{anscombe1981erp:ot}}: Of this life Christ called himself the food. It is the food of the divine life which is promised and started in us: the viaticum of our perpetual flight from Egypt which is the bondage of sin; the sacrificial offering by which we were reconciled; the sign of our unity with one another in him. It is the mystery of faith which is the same for the simple and for the learned. For they believe the same, and what is grasped by the simple is not better understood by the learned: their service is to clear away the rubbish which the human reason so often throws in the way to create obstacles.]{Cristo se llamó a sí mismo alimento de esta vida. Este es el alimento de la vida divina que ha sido prometido y ha comenzado en nosotros: el viático de nuestra perpetua salida de Egipto que es la esclavitud del pecado; la ofrenda sacrificial por la cual hemos sido reconciliados; el signo de nuestra unidad de unos con otros en Él. Este es el misterio de fe el cual es el mismo para el simple y para el docto. Pues ambos creen lo mismo, y lo que es entendido por el simple no es mejor comprendido por el docto: su servicio consiste en quitar de en medio la basura que la razón humana arroja con tanta frecuencia en el camino para crear obstaculos.}
+#+END_SRC
 ** TODO Hume and Julius Caesar (1973) [%]
 :PUBLICATION_INFO:
 Originally published in october 1973 vol 34 Issue 1 of Analysis Journal Reprinted in

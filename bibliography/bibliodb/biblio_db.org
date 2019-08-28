@@ -209,24 +209,18 @@ http://www.worldcat.org/oclc/299374922
  http://www.worldcat.org/oclc/10430565
 :end:
 #+BEGIN_SRC bibtex :tangle primary.bib
-  @collection{anscombe1981metaphysics,
-  title={Metaphysics and the Philosophy of the Mind},
-  author={Gertrude Elizabeth Margaret Anscombe},
-%  editor={Gertrude Elizabeth Margaret Anscombe},
-  isbn={9780816610808},
-  series={The collected philosophical papers of G.E.M. Anscombe},
-  volume={2},
-  publisher={Basil Blackwell, Oxford},
-  year={1981},
-  keywords={Anscombe Elizabeth; Perception; Sensation; Primary Source},
-  abstract={Metaphysics and the Philosophy of Mind: The collected Philosophical
-                    Papers of G.E.M. Anscombe, Volume 2, is part of a multivolume
-                    compilation of her life's work, providing insight into the
-                    mind of a groundbreaking 20th century philosopher. This
-                    volume's work explores memory, intentionality, causality and
-                    time, delving into the language, actions, and logic of
-                    perception, sensation, and more.}
-  }
+    @collection{anscombe1981metaphysics,
+    title={Metaphysics and the Philosophy of the Mind},
+    author={Gertrude Elizabeth Margaret Anscombe},
+   %  editor={Gertrude Elizabeth Margaret Anscombe},
+    isbn={9780816610808},
+    series={The collected philosophical papers of G.E.M. Anscombe},
+    volume={2},
+    publisher={Basil Blackwell, Oxford},
+    year={1981},
+    keywords={Anscombe Elizabeth; Perception; Sensation; Primary Source},
+    abstract={Metaphysics and the Philosophy of Mind: The collected Philosophical Papers of G.E.M. Anscombe, Volume 2, is part of a multivolume compilation of her life's work, providing insight into the mind of a groundbreaking 20th century philosopher. This volume's work explores memory, intentionality, causality and time, delving into the language, actions, and logic of perception, sensation, and more.}
+   }
 #+END_SRC
 ***** Introduction
 #+BEGIN_SRC bibtex :tangle primary.bib
@@ -266,7 +260,7 @@ http://www.worldcat.org/oclc/299374922
 http://www.worldcat.org/oclc/873936079
 :end:
 #+BEGIN_SRC bibtex :tangle primary.bib
-  @mvcollection{anscombe1981ethics,
+  @mvcollection{anscombe1981erp,
   title={From Parmenides to Wittgenstein},
   author={Gertrude Elizabeth Margaret Anscombe},
   editor={Gertrude Elizabeth Margaret Anscombe},
@@ -277,16 +271,7 @@ http://www.worldcat.org/oclc/873936079
   publisher={Basil Blackwell, Oxford},
   year={1981},
   keywords = {Anscombe Elizabeth; Ethics; Religion; Politics; Primary Source},
-  abstract = {Gertrude Elizabeth Margaret Anscombe is considered one of analytical
-                    philosophy's most prominent figures and a leader in the field
-                    of virtue ethics. Ethics, Religion, and Politics: Collected
-                    Philosophical Papers, Volume 3, is part of a multi-volume
-                    compilation of her work surrounding the philosophy of mind,
-                    philosophy of action, philosophy of language, philosophical
-                    logic, and ethics. This volume includes selected works
-                    relating to consequentialism, intention, and more, providing
-                    Ascombe scholars with a high-level view of her evolution of
-                    thought.}
+  abstract = {Gertrude Elizabeth Margaret Anscombe is considered one of analytical philosophy's most prominent figures and a leader in the field of virtue ethics. Ethics, Religion, and Politics: Collected Philosophical Papers, Volume 3, is part of a multi-volume compilation of her work surrounding the philosophy of mind, philosophy of action, philosophy of language, philosophical logic, and ethics. This volume includes selected works relating to consequentialism, intention, and more, providing Ascombe scholars with a high-level view of her evolution of thought.}
   }
 #+END_SRC
 ***** Faith
@@ -299,6 +284,16 @@ http://www.worldcat.org/oclc/873936079
  year = "1981",
  keywords = "primary, anscombe, standrews",
  }
+#+END_SRC
+***** On Transubstantiation
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe1981erp:ot,
+  title={On Transubstantiation},
+  crossref={anscombe1981erp},
+  pages={107--112},
+  keywords={Anscombe Elizabeth; Wittgenstein; Transusbstantiation; Religion; Primary Source},
+  abstract={}
+  }
 #+END_SRC
 
 *** En Philosophical Encounters
