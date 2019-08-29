@@ -627,7 +627,7 @@ CLOSED: [2019-07-29 Mon 11:02]
     :END:
 
 **** El Argumento
-#+BEGIN_SRC latex
++BEGIN_SRC latex
   Los razonamientos Parmenidianos ofrecen muchas oportunidades de reflexión a Elizabeth. Recoge entre ellos una argumentación sobre lo que puede existir y lo que puede ser pensado que le servirá como el foco de su análisis:
   \blockquote[{\cite[3]{anscombe1981parmenides:pmc}}: Parmenides' arguments runs:\\
   It is the same thing that can be thought and can be\\
@@ -708,7 +708,6 @@ CLOSED: [2019-07-29 Mon 11:02]
   del ser, \blockquote[[x]{anscombe1981parmenides}}: What they express is what is
   true of being, so they characterize it as well as naming it]{Lo que expresan es
     lo que es verdadero del ser, así que lo caracterizan además de denominarlo.}
-
   Si combinamos esto con su idea de que ser es un objeto entonces obtenemos sus
   resultados más alocados
 
@@ -845,9 +844,21 @@ CLOSED: [2019-07-29 Mon 11:02]
      :END:
 #+BEGIN_SRC latex
 #+END_SRC
-** TODO On Transubstantiation (1974) [0%]
+** TODO On Transubstantiation (1974) [33%]
+#+BEGIN_SRC latex
+  \subsection{On Transubstantiation}
+#+END_SRC
+*** DONE Intro: About the text
+CLOSED: [2019-08-28 Wed 21:06]
+#+BEGIN_SRC latex
+  Originalmente publicado en un panfleto por el \emph{Catholic Truth Society} en Londres en 1974, \emph{On Transubstantiation} es uno de los escritos recogidos en \emph{Ethics, Religion and Politics}, el tercer volumen de los \emph{Collected Philosophical Papers} de Anscombe. El volumen contiene escritos dirigidos a un público general, o empleados para revistas o reuniones filosóficas; también incluye otros escritos compuestos pensando en lectores católicos, como es el caso de este documento. El dato permite anticipar que Anscombe escribe aquí como católica, dando por hecho presupuestos propios del trasfondo de fe que comparte con los católicos a los que se dirige en su discusión.
+#+END_SRC
 *** TODO I. What is transubstantiation?
+#+BEGIN_SRC latex
+  Considerando el objetivo de su reflexión, resulta llamativo el modo en que Anscombe comienza y termina su artículo. En el centro de su atención está el misterio de la presencia de Jesús en la Eucaristía; entonces elige comenzar su discusión diciendo: \blockquote[{\cite[108]{anscombe1981erp:ot}}: It is easiest to tell what transubstantiation is by saying this: little children should be taught about it as early as possible. El texto en español de este artículo se ha tomado de {\cite{torralbaynubiola2005fayeh:ot}}]{La manera más sencilla de decir qué es la transubstanciación es diciendo esto: debería enseñársele a los niños pequeños lo más temprano posible.}
 
+  \blockquote[{\cite[112]{anscombe1981erp:ot}}: It is the mystery of faith which is the same for the simple and for the learned. For they believe the same, and what is grasped by the simple is not better understood by the learned: their service is to clear away the rubbish which the human reason so often throws in the way to create obstacles.]{Este es el misterio de fe el cual es el mismo para el simple y para el docto. Pues ambos creen lo mismo, y lo que es entendido por el simple no es mejor comprendido por el docto: su servicio consiste en quitar de en medio la basura que la razón humana arroja con tanta frecuencia en el camino para crear obstaculos.}
+#+END_SRC
 *** TODO II. Why do we celebrate the Eucharist?
 **** The mysterious fact that he wanted to nourish us with himself
 ***** It is clearly a symbol: we are not physically nourished... like the Jews were by the paschal lamb
