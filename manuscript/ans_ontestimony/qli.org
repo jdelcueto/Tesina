@@ -1,0 +1,8 @@
+#+PROPERTY: header-args:latex :tangle ../../tex/ch3/diacronico/qli.tex
+# -----------------------------------------------------------------------------
+# Santa Teresa Benedicta de la Cruz, ruega por nosotros
+
+* TODO The Question of Linguistic Idealism (1976) [0%]
+#+BEGIN_SRC latex
+  \subsection{The Question of Linguistic Idealism}
+#+END_SRC
