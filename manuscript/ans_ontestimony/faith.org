@@ -1,50 +1,9 @@
-#+PROPERTY: header-args:latex :tangle ../../tex/ch3/faith.tex
-# ------------------------------------------------------------------------------------
+#+PROPERTY: header-args:latex :tangle ../../tex/ch3/diacronico/faith.tex
+# -----------------------------------------------------------------------------
+# Santa Teresa Benedicta de la Cruz, ruega por nosotros
 
-* /Lectio/:
-:DESCRIPTION:
-Faith & What is it to believe someone
-:END:
-** Análisis
-Después de atender la pregunta sobre la verdad vamos a examinar el análisis de
-la fe que hace Anscombe.
-
-1. Anscombe se plantea decir lo que puede ser entendido sobre la fe por alguien
-   que no la tiene.
-2. Hubo una época en la que se habló de la fe católica como racional. Esta
-   racionalidad estaba apoyada sobre lo que se conoce como 'preámbulos de la
-   fe'.
-3. Hubo una época en la que se hablaba de fe divina y fe humana
-4. Anscombe habla de la fe como se ha propuesto usando la expresión 'creer a X
-   que P' como presupuesto de la fe.
-   1. Tener fe supone confiar en X que P, fe es la creencia puesta en P por la
-      confianza en X.
-
-* /Propositum/:
-  :DESCRIPTION:
-  Saying what it means 'to believe someone that x' better describes
-  the structure of believing testimony than subsuming it under belief in causes
-  and effects. There are things we believe because we 'believe God that x'.
-  Believing God supposes that we believe certain things which we are told or
-  taught come as a word from God. Faith is the belief that we accord to those
-  words. In that regard 'believing someone that x' describes the structure of
-  believing testimony and the suppositions of faith.
-  :END:
-
-** Testimonio y 'creer que'.
-   Hablar del testimonio en el pensamiento de Elizabeth Anscombe es hablar de su
-   analisis de la expresión 'creer a x que p' (fe humana) y 'creer a Dios que p'
-   (fe divina).
-
-** Propositio: "Fe y Conocimiento"
-#   #+BEGIN_SRC latex
-  % SECCIÓN 1: Fe y Conocimiento
-\section{Fe}
-#+END_SRC
-
-
-* /////////////////////////////////////////////////////////
-* /Quaestio/: Understand faith without it
+* TODO Faith (1975) [0%]
+** /Quaestio/: Understand faith without it
 :STATEMENT:
 "I want to say what might be understood about faith by someone who did not have
 it"
@@ -89,7 +48,7 @@ preámbulos.
 #+END_SRC
 
 
-* /Expositio/: Presuppositions of faith
+** /Expositio/: Presuppositions of faith
 :STATEMENT:
 "The right designation for what are called the 'preambles' of faith is not that
 but at least for part of them, 'presuppositions'. According to faith itself
@@ -97,7 +56,7 @@ faith is believing God. If the presuppositions are true, it is, then believing
 on the best possible grounds."
 :END:
 
-** ¿Descripción de `Fe'?
+*** ¿Descripción de `Fe'?
 #+BEGIN_SRC latex
   \subsection{Descripción de `Fe'}
   El objetivo de Elizabeth sitúa su investigación en un contexto específico.
@@ -127,7 +86,7 @@ on the best possible grounds."
   el fenómeno particular de creer cuando la comunicación viene de Dios.
 #+END_SRC
 
-*** Presuposiciones y preámbulos
+**** Presuposiciones y preámbulos
 #+BEGIN_SRC latex
   \subsubsection{Las presuposiciones del creer como descripción de la
     razonabilidad de la fe}
@@ -152,353 +111,11 @@ on the best possible grounds."
   razonamientos que ofrecían una cierta demostración de la verdad de las
   enseñanzas de la Iglesia\autocite[Cf.~][12]{anscombe2008faith:faith}.
 #+END_SRC
-*** Las presuposiciones de creer a una persona humana
+**** Las presuposiciones de creer a una persona humana
 #+BEGIN_SRC latex
 \subsubsection{Las presuposiciones implicadas en creer a alguien}
 #+END_SRC
-*** El extraordinario fenómeno de creer a Dios
+**** El extraordinario fenómeno de creer a Dios
 #+BEGIN_SRC latex
 \subsubsection{`Creer' cuando la comunicación viene de Dios}
 #+END_SRC
-
-*** ¿Que otorgaría a la fe carácter de razonabilidad?
-**** Hubo una epoca en la que hubo gran entusiasmo por la razonabilidad
-**** Se atribuía esta razonabilidad al paso de los preambulos a la fe
-**** Lo que se llamaba `preámbulos', debe ser más bien (al menos algunos) presuposiciones
-***** Los preámbulos son construcciones ideales basadas en un prejuicio sobre lo que es razonable en sostener como creencia
-**** Estas presuposiciones son tuyas y no implican el hecho de que estén dadas
-***** presuposiciones: existe, la comunicación es suya, esto es lo que la carta dice
-**** Un uso que se le ha dado a la fe es creer a alguien.
-***** en el uso moderno se le iguala a creencia
-**** What can be said about faith without having it
-**** Back to believing someone
-***** believing what he says without believing him
-***** believing on his say so but not believing him
-***** even believing that he believes isn't enough
-***** this isn't problematic if you believe that he knows and won't be lying
-**** Another question about the presuppositions
-***** quedan implicadas la creencias, pero no los hechos
-****** que pasa cuando la creencia de que existe no es cierta?
-****** que pasa si dudo de que viene de x
-******* en el caso que venga de alguien conocido
-******** si llego a creer que viene de x no sería por creerle a él
-********* este es un sentido en el los presupuestos no son parte del contenido de la fe
-******* en el caso que venga de alguien desconocido
-****** en cualquier caso las creencias que son casos de creer a N y creer que N existe son lógicamente distintas
-****** Según suarez: en cada pedazo de información N está también declarando que esta comunicando información
-**** now we come to see the difficulty: what can it mean `to believe God' (in contrast to believing someone)
-**** what would be God speaking?
-**** God is not a proper name but a definite description
-***** is equivalent to the one and only true god
-****** it can significantly be denied
-****** it can significantly be seen to be true
-**** now faith can be described as belief accorded to what is believed is word of God
-**** the christian says this is sometimes true, thats what he calls faith
-** notes
-         Cual es la diferencia entre fe
-
-         Un no creyente podría llegar a decir que
-         el que alguien tenga fe supone que cree que algo, una eseñanza o una voz, viene como una
-         palabra de Dios; fe es entonces la creencia que se otorga a esa palabra.
-
-         El cristiano diría, esta suposición de que algo es palabra de Dios es algunas veces la
-         verdad, la creencia otorgada a esa palabra es lo que el cristiano llama fe.
-
-         Para el no creyente fe supone la creencia de que algo viene como palabra de Dios, fe es
-         la creencia otrogada a esa palabra
-
-         fe es la creencia otorgada a aquello que se cree que viene como palabra de Dios.
-
-         el cristiano diría
-
-         fe es la creencia otorgada a aquello que viene verdaderamente como Palabra de Dios.
-
-         fe es la creencia que se pone
-         lo que se cree que viene como
-
-         en la palabra.
-*** Presuposiciones
-Abraham tuvo fe porque: Abraham creyó que su descendencia sería tan numerosa
-como las estrellas porque creyó a Dios.
-
-Presuposiciones de Abraham:
-
-Abraham presupuso que Dios existe. Abraham presupuso que el mensaje sobre su
-descendencia venía de Dios. Abraham presupuso que el mensaje dice efectivamente
-eso.
-
-Abraham creyó que su descendencia sería tan numerosa como las estrellas porque
-creyó a Dios.
-
-Es verdad que Dios existe Es verdad que el mensaje sobre la descendencia de
-Abraham venía de Dios Es verdad que el mensaje dice efectivamente eso
-
-Entonces Abraham creyó apoyado en el mejor fundamento posible.
-
-Si sólo las presuposiciones son dadas sería tonto pensar que Abraham se hallaba
-en la actitud de la mente de uno que cree sin evidencia a uno que dice sin
-conocimiento cosas sin paralelo.
-
-Si las presuposiciones son dadas quedaría refutado decir que Abraham tenía
-certeza sin prueba.
-
-
-¿Hay algo que pueda ser entendido sobre la fe
-
-
-** Preámbulos: Significado de Fe y Racionalidad de la fe
-
-*** "The word was that the Catholic Christian Faith was Rational... a problem was how it was gratuitous"
-+BEGIN_SRC latex
-
-+END_SRC
-
-+BEGIN_SRC latex
-  \subsection{``Solíamos creer que la fe católica era racional''}
-  Anscombe comienza su investigación
-
-  cómo se ha dicho de la fe que es racional?
-
-  Habían pasado casi diez años de la clausura del Concilio Vaticano~II; Anscombe
-  comenzó su ponencia recordando cómo a finales de los años sesenta muchas
-  homilias comenzaban: ``Solíamos creer que\ldots''. ``Soliamos creer --escuchó
-  una vez-- que no había peor pecado que faltar a misa el domingo''. Escuchar la
-  frase le traía un desaliento alarmado, ya que la implicita oposición que se
-  pretendía establecer con la expresión, por lo general, era desaecertada.
-
-  Ahora, hay un ``soliamos creer'' que se podía haber usado con algo de acierto.
-  Hubo una época en el que se profesó gran entusiasmo por la racionalidad. Quizás
-  inspirado por las enseñanzas del Concilio Vaticano I contra el fideismo, pero
-  ciertamente promovido por los estudios neo-tomistas. Se decía entre los
-  entendidos que la fe Católica era racional, el problema parecía ser más bien
-  cómo era un regalo de la gracia. ¿Por qué sería necesaria la gracia para seguir
-  un proceso de razonamiento?
-
-  Es como si se tuviera la seguirdad de que hay una línea de demostración.
-
-  La fe es ciertamente distinta que el conocimiento--pero eso podía ser explicado
-  por el carácter extrinseco de las pruebas de las doctrinas de de fide
-
-  el conocimiento que podía ser contrastado con la fe sería el conocimiento por
-  pruebas intrínsecas a la matería en cuestión, no por pruebas haber dicho de
-  alguien que estas cosas son verdad
-
-  para asuntos que eran estrictamente de la fe las pruebas intrínsecas no eran
-  posibles, y eso era por lo que la fe contrastaba con el conocimiento
-#+END_SRC
-**** These opinions attached the character of rationality entirely to what were called the preambles and to the passage from the preambles to faith itself
-*** Faith=short for divine faith=believing God.
-
-+BEGIN_SRC latex
-\subsection{El significado de la palabra fe}
-
-En el trasfondo del análisis de Anscombe sobre la fe se halla otro trabajo suyo
-titulado \eng{`What Is It to Believe Someone?'}. Un eslabón importante entre
-ambas investigaciones se haya en la valoración del uso del concepto `fe'. Ella
-propone: \citalitinterlin{En la tradición donde el concepto tiene su origen,
-`fe' es la forma breve de `fe divina' y significa `creer a Dios'.} De esa manera
-fue usada la expresión, al menos por los pensadores cristianos. Según este modo
-de hablar 'fe' se distinguía como humana y divina. Fe humana era creer a una
-persona humana, fe divina era creer a Dios.
-
-En el uso moderno 'fe' tiende a significar 'creencia religiosa' o 'religión'. Se
-le llama generalmente 'fe', por ejemplo, a la creencia en la existencia de Dios.
-
-<<Abrám creyó a Dios (\textgreek{ἐπίστευσεν τῷ Θεῷ}) y ésto se le contó como
-justicia.>>\footnote{Gn~15,6} De tal modo que es llamado 'padre de la
-fe'.\footnote{cfr.~Rm~4~y~Ga 3,7} He aquí una expresión sorprendente: <<creer a
-Dios>>. Abrahám creyó a Dios que su descendiencia sería tan numerosa como las
-estrellas del cielo, de este modo se describe su fe.
-
-
-
-
-+END_SRC
-
-
-* /Disputatio/: Believing God
-:STATEMENT:
-"But is there even the possibility of believing God?"
-:END:
-** Fe humana y fe divina
-*** "At one time there was the following way of speaking: faith was distinguished as human and divine."
-**** Human faith was believing a human being
-**** divine faith was believing God
-***** Occurring in discussion without any adjective, the word 'faith' tended to mean mostly divine faith
-**** Both sorts of faith have presuppositions
-
-*** What Is It to Believe Someone?
-**** Preamble
-***** What's wrong with Euthydemus?
-****** Question about how believing someone is problematic.
-***** Believing someone is a topic problematic enough to need philosophical enquiry and important enough to deserve it's attention.
-***** Old value of the expression 'faith'
-****** 'I might have called my subject faith'
-***** New value of the expression 'faith'
-****** belief in God at all o religious belief
-****** 'Abraham believed God'
-****** Disgusting effect in thought about religion
-***** Coinage of the expression "believe x that p" (belief with a personal object)
-** What is it to believe someone?
-** What is it to believe God?
-
-* /Solutio/: Belief accorded to the word of God
-:STATEMENT:
-"the supposition that someone has faith is the supposition that he believes that
-something - it may be a voice, it may be something he has been taught - comes as
-a word from God. Faith is the the belief he accords that word. So much can be
-discerned by an unbeliever"
-:END:
-
-* /In Testimonium/: Structure of belief in testimony
-:STATEMENT:
-"We must acknowledge testimony as giving us our larger world in no smaller
-degree, or even in greater degree than the relation of cause and effect; and
-believing it is quite dissimilar in structure from belief in causes and effects.
-What does a man believes when he 'believes it is God speaking?' In relation to
-the belief that it is God speaking, it doesn't matter how the voice is
-produced."
-:END:
-
-** Structure of testimony:
-Believing testimony is dissimilar in structure from belief in causes and
-effects. Testimony gives us our larger world and is not a detachable part of our
-knowledge of reality. The topic of believing x that p is important for the
-theory of knowledge because the greater part of our knowledge of reality rests
-upon the belief that we repose in things we have been taught and told.
-Describing what it means to believe someone that x better describes the
-structure of believing testimony than subsuming it under belief in causes and
-effects. There are certain things which we are told or taught that we believe
-come as a word from God. Believing God supposes that we regard certain
-testimonies come as words from God.
-
-
-
-
-
-* Prophecy and Miracles (1957)
-
-Tres documentos
-
-- El decreto del Concilio Vaticano I de que las profecias y milagros de moises y los
-profetas y Cristo proveen solidos argumentos externos para la verdad de la cristiandad
-
-- Dt 13. 1-3 sobre los falsos profetas
-
-- Lessing sobre la rpueba de espíritu y fuerza:
-
-Reports of fulfilled prophecies are not fulfilled prohecies, reports of miracles not
-miracles. Those that take place before my own eyes have their effect in an immediate
-wayl the others are supposed to have their effect through a medium that deprives them
-of all power
-
-El argumento de Lessing en este escrito es más complejo de lo que parece, ofrece varios
-puntos:
-
-1. En el argumento sobre Alejandro Magno parece extraño que emplee el hecho de que
-   podría ser que conocieramos de Alejandro sólo por un poema de Choerilus...
-Hay dos razones para esta observación:
-
-a. Ciertamente alude al hecho de que conocemos de las palabras y obras de Cristo en
-definitiva de una sola fuente, el nuevo testamento. Este está compuesto de varios
-libros, pero fue escrito por un circulo estrecho de personas.
-
-b. La razón principal del argumento aparece con evidencia cuando habla sobre las
-   verdades historicas como no siendo pruebas de verdades necesarias de razón. Una
-   verdad necesaria, como una verdad metafísica o matemática no puede seguirse de un
-   hecho histórico. Si esto fuera así una verdad hostórica tendría que tener la misma
-   certeza que una verdad metafísica, pero una verdad histórica puede ser tremendamente
-   incierta, como sería Alejandro si conocieramos de él solo por un poema de Choerilus
-
-Sin embargo, la suposición de que cualquier cosa creible sobre Dios tiene que ser una
-verdad necesaria de razón es pero que dudoso, es incoherente
-
-Posiblemente sea una idea derivada de las nociones leibnicianas de ser necesario
-
-también va con la idea de Lessing de que las verdades de la religion tienen que ser
-todas de tal naturaleza que la raza humana hubiera podido al final pensarlas por si
-misma.
-
-2. Desde el punto de vista del decreto Vaticano la insistencia de Lessing ssobre las
-   verdades historicas siendo inciertas seria poco importante dado que no hay nada
-   acerca de demostración de la verdad del cristianismo, sino más bien sobre solidos
-   argumentos externos.
-
-Sería herejía o casi herejía decir que los misterios de la fe pueden ser demostrados
-(Como si pudieramos decir Jesús es el Señor sin la ayuda del Espíritu Santo y por la
-argumentación de una demostración)
-
-De tal modo, una gran probabilidad como nivel de certeza puede ser suficiente como para
-constituir solidos argumentos externos.
-
-Aún si se descarta la posición de Lessing de que cualquier cosa que se cree de Dios
-tiene que ser una verdad necesaria de razón todavía queda cierta validez en su
-observación sobre construir cosas sobre verdades históricas que uno no tiene
-justificación para construir.
-
-3. Es importante notar que la posición de Lessinf es ciertamente incompatible con la
-   creencia cristiana. Parece estar argumentando en contra de cierto argumento y no de
-   el cree cristiano en especifico. Pero él mismo distingue entre la religión de Cristo
-   y la religión Cristiana, atribuyendole a la primera lo que aparece con claridad en
-   la enseñanza de Cristo y a la segunda lo oscuro.
-
-4. La prueba de poder y espíritu es en milagros y profecias contemporaneos. Lessing
-   exagera la certeza que Orígenes podría tener de éstos. Signos y prodigios, incluso
-   en tiempos apostólicos y realizados por Cristo mismo fueron suficientemente raros
-   como para que la mayoría de la gente los conociera de oídas.
-
-
-----
-
-
-El argumento central llega a ser sobre la razonabilidad de decir:
- pero estas cosas pueden no ser ciertas, entonces cómo puedo usarlas para sostener el
- ser cristiano?
-
-Puesto de ese modo su argumento aparece con fuerza. Y puesto de ese modo está
-claramanete en conflicto con el decreto Vaticano. Su argumento es valioso, porque no
-confunde el problema atacando la verdad de los milagros y cumplimientos de profecias
-que han quedado consignadas.
-
-Lo que hace que el decreto tenga interés extraordinario es que es probablemente común
-enre nosotros el creer en el cumplimiento de profecías y milagros porque creemos en la
-religion católica y estos forman parte de nuestra doctrina.
-
-Ademas, el pasaje del Deuteronomio, así como la reflexión razonable en los
-requerimientos de la fe, nos inclinaría a decir que un profeta o hacedor de maravillas
-debe ser juzgado a la luz de la religion cristiana.
-
-Si los milagros y las profecias ofrecen solidos argumentos externos, ellos parecen
-necesitar ser establecidos como profecias y milagros antes de introducir el creer en la
-cristiandad: pero acaso no hay un elemento teológico en llamar a algo una profecía
-cumplida, o incluso un milagro?
-
-Que parece correcto y qué incorrecto en la conteinda de lessing?
-
-Primero sobre los milagros:
-
-hay que concederle que no puede ser esperado que os relatos de éstos despierten interes
-en un jeuz externo como ciertamente ciertos
-
-La resurrección de Cristo, es el más famoso y el único que todavía se emplea en la
-apologética.
-
-Lessing concede que éste es tan cierto como culaquier otro hecho histórico. Yo no estoy
-de acuerdo.
-
-...
-Para casi todas las profecias, verlas cumplidas es interpretarlas; y esto es por la
-diferencia entre pasado y futuro. Preguntar sobre si el profeta tuvo estos eventos en
-mente es sinsentido
-
-
-
-
-* [Local Variables]
-# Local Variables:
-# mode: org
-# mode: auto-fill
-# word-wrap:t
-# truncate-lines: t
-# org-hide-emphasis-markers: t
-# End:
