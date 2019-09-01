@@ -1,4 +1,3 @@
-# -*- word-wrap: 1; -*-
 #+LANGUAGE:es
 
 * Unsorted
@@ -53,48 +52,27 @@ does not provide an analysis in these cases. By an 'analysis' I mean something t
 at least an equivalent proposition.
 
 ** Verdad (1983)
-   
+
 ** Faith
-There was a "we used to believe…" which I think could have been said with some truth…
-There was in the preceding time a professed enthusiasm for rationality, perhaps
-inspired by the teaching of Vatican I against fideism, certainly carried along by the
-promotion of neo-tomist studies. The word was that the Catholic Christian Faith was
-rational. Why would it essentially need the promptings of grace to follow the process
-of reasoning? It was as if we were assured there was a chain of proof. First God, then
-the divinity of Jesus Christ. Then the establishment of a Church with a Pope at the
-head of it and with a teaching commission from him. This body was readily identifiable.
-Hence you could demonstrate the truth of what the church taught.
+There was a "we used to believe…" which I think could have been said with some truth… There was in the preceding time a professed enthusiasm for rationality, perhaps inspired by the teaching of Vatican I against fideism, certainly carried along by the promotion of neo-tomist studies. The word was that the Catholic Christian Faith was rational. Why would it essentially need the promptings of grace to follow the process of reasoning? It was as if we were assured there was a chain of proof. First God, then the divinity of Jesus Christ. Then the establishment of a Church with a Pope at the head of it and with a teaching commission from him. This body was readily identifiable. Hence you could demonstrate the truth of what the church taught.
 
-That faith and knowledge are not the same could be accounted for by the extrinsic
-character of the proofs of the de fide doctrines.
+That faith and knowledge are not the same could be accounted for by the extrinsic character of the proofs of the de fide doctrines.
 
-The knowledge whch was contrasted with faith would be knowledge by proofs intrinsic to
-the subject matter, not by proofs from someone's having said these things were true.
+The knowledge whch was contrasted with faith would be knowledge by proofs intrinsic to the subject matter, not by proofs from someone's having said these things were true.
 
-For matters which were strictly 'of faith' intrinsic proofs were not possible, and that
-was why faith contrasted with knowledge.
+For matters which were strictly 'of faith' intrinsic proofs were not possible, and that was why faith contrasted with knowledge.
 
 This is a picture of the more extravagant form of this teaching.
 
-A more sober variation: Related to the Church that our lord established; one wouldn't
-identify the church by its having the Pope, but the other way around. Allowing the
-believer to comitt to the Christian faith instead of the pope.
+A more sober variation: Related to the Church that our lord established; one wouldn't identify the church by its having the Pope, but the other way around. Allowing the believer to comitt to the Christian faith instead of the pope.
 
-A yet more sober variant: avoids trading on the cultural inheritance for which the name
-of Jesus was so holy that it was easy to go straight from belief in God to belief in
-Jesus as God's son. In this variant one would be aware of the dependence of the New
-Testament in the Old, raising consciousness to the meaning of calling our Lord
-"Christ".
+A yet more sober variant: avoids trading on the cultural inheritance for which the name of Jesus was so holy that it was easy to go straight from belief in God to belief in Jesus as God's son. In this variant one would be aware of the dependence of the New Testament in the Old, raising consciousness to the meaning of calling our Lord "Christ".
 
-These 'sober variants' had the disadvantage that it wasn't easy to see that what Jesus
-established was matched by the Catholic Church that we know. Learning and skill would
-be required to make th identification.
+These 'sober variants' had the disadvantage that it wasn't easy to see that what Jesus established was matched by the Catholic Church that we know. Learning and skill would be required to make th identification.
 
-The so-called preambles of faith could not possibly have the sort of certainty that it
-had. And if less, then where was the vaunted rationality?
+The so-called preambles of faith could not possibly have the sort of certainty that it had. And if less, then where was the vaunted rationality?
 
-A graver problem was the one about the faith of the simple. They don't have an inferior
-faith. Also those who studied didn't really knew those things. Knowledge was there
+A graver problem was the one about the faith of the simple. They don't have an inferior faith. Also those who studied didn't really knew those things. Knowledge was there
 somehow, perhaps scattered, perhaps theorethically or abstractly available. In the
 belief that this was so, one was being rational in having faith.
 
@@ -111,8 +89,7 @@ Both the preambles and the passage from them to faith itself are an 'ideal'
 construction a fanciful construction dreamed up according to prejudices about what it
 is to be reasonable in holding a belief.
 
-*/The right designation for what are called the "preambles" of faith is not that but at
-least for prt of them, "presuppositions"/*
+*/The right designation for what are called the "preambles" of faith is not that but at least for prt of them, "presuppositions"/*
 
 We can use an example of human faith to explain this.
 
@@ -129,7 +106,7 @@ these are your presuppositions. you beliving jones doesn't entail those three th
 
 In modern use faith can be understood as religion or religious belief.
 
-In the tradition where this concept has it's origin "faith" is short for "divine faith" and means beliving God. 
+In the tradition where this concept has it's origin "faith" is short for "divine faith" and means beliving God.
 
 So used, at least amongst Chrisitan thinkers, faith could not be anything but true.
 
@@ -145,18 +122,15 @@ It is clear that believing somebody* (*see what is to belive someone*) is in the
 
 If we investigate believing jones:
 
-you can't call it believing jones just if jones says something or other and you do believe that very thing he says. Even if it's someone's saying something that causes you to believe it, that doesn't have to be believing him. In this case you judge the matter for yourself. 
+you can't call it believing jones just if jones says something or other and you do believe that very thing he says. Even if it's someone's saying something that causes you to believe it, that doesn't have to be believing him. In this case you judge the matter for yourself.
 
 you can't call it believing jones even if his saying is your evidence that it is true. you can suppose a case in which you are sure that he will lie to you and be mistaken. The opposite of what he says will be true and he will tell you the opposite of what he thinks, so what he tells you will be true and you will believe it because he says it, but you won't be believing him.
 
-you can't call it believing jones when you believe what he says assuming that he says what he believes. You could believe that what he believes will be true, but by accident, as it were. Someone may believe what he gathers from all sources, be them lying or telling the truth, and you know which are the liars and which are the truth-telling. He then tells you something you know came from a truth-telling source, and you would believe what he says as true because you know where he got it. In this case you wouldn't be believing him. 
+you can't call it believing jones when you believe what he says assuming that he says what he believes. You could believe that what he believes will be true, but by accident, as it were. Someone may believe what he gathers from all sources, be them lying or telling the truth, and you know which are the liars and which are the truth-telling. He then tells you something you know came from a truth-telling source, and you would believe what he says as true because you know where he got it. In this case you wouldn't be believing him.
 
 when you believe your history teacher it is enough that you believe what he says because he says it and you don't think he's lying and you think what he believes about that will be true. that's enough for you to be believing him.
 
-The topic of believing someone is difficult. If you could put it that you believe that the person knows what he is telling you, then these difficulties don't arise. 
-
-
-
+The topic of believing someone is difficult. If you could put it that you believe that the person knows what he is telling you, then these difficulties don't arise.
 
 Another question about what is to believe someone related to presuppositions is
 what are we to say about believing jones going with your presuppositions about his existence, having written that letter and having said what you gathered from it but not in fact presupposing those things?
@@ -165,9 +139,9 @@ can we believe someone who doesn't exist?
 
 if we say that the deluded victim does not believe someone who doesn't exist you will deprive yourself of the clearest way of describing this situation: 'he believed the non-existent person". And also what would be the proper expression if we don't use believe in this case?
 
-we have to settle for saying that the ancient was believing in apollo - who doesn't exist. 
+we have to settle for saying that the ancient was believing in apollo - who doesn't exist.
 
-the same point holds for the case where the person we believe does exist, but you have misunderstood what he wrote, or mistakenly supposed that this letter is from him. 
+the same point holds for the case where the person we believe does exist, but you have misunderstood what he wrote, or mistakenly supposed that this letter is from him.
 
 Let us think some more about the presuppositions.
 Presuppositions of faith are not themselves part of the content of what in a narrow sense is believed by faith,
@@ -184,12 +158,11 @@ if i decide to believe the letter is from jones even if there is reason to doubt
 
 in this regard i believe the sentence that states that it is from jones, but it is not because i believe him
 
-
 2. suppose a prisoner in a dungeon,
 
-a letter arrives proposing to help him in various needs. 
+a letter arrives proposing to help him in various needs.
 
-the letter says is from an unknown friend: N. 
+the letter says is from an unknown friend: N.
 
 it invites him to communicate his needs by certain channels
 
@@ -209,7 +182,6 @@ his belief that N exists and that the letters come from N is not a case of belie
 
 *pre-suppositions don't have to be temporarily prior to beliefs*
 
-
 believing N pertains the following pre-suppositions for you:
 that N exists
 that this letter is from N
@@ -217,12 +189,11 @@ that that really is what the letter tells you
 
 there is a difference between believing pre-suppositions and believing information on N's say-so
 
-you can believe the pre-suppositions for reasons other than believing N 
+you can believe the pre-suppositions for reasons other than believing N
 
 Suarez said that in every revelation God reveals that he reveals.
 
 in every bit of information N is also claiming that he is giving the prisoner information
-
 
 it can be made clear what it is for someone to believe someone in the cases considered (human faith)
 
@@ -241,9 +212,9 @@ a man hears a voice saying something to him and he believes it is God speaking, 
 
 what does he believe when he 'believes it is God speaking'? that God has a voice-box?
 
-in relation to the belief that God is speaking, it doesn't matter how the voice is produced. 
+in relation to the belief that God is speaking, it doesn't matter how the voice is produced.
 
-the rabbinical idea of the Bath Qol (daughter of the voice') that describes 
+the rabbinical idea of the Bath Qol (daughter of the voice') that describes
 something heard that leaps out at you, 'speaks to your condition', as a voice that strikes you to the heart and upon which you can act in obedience
 
 Even when the words were uttered in a conversation that had nothing to do with him he beliefs that God has spoken to him in that voice.
@@ -293,7 +264,7 @@ faith was distinguished as human and divine, determined by the personal object o
 
 divine faith was believing God
 
-nowadays it is used to mean much the same thing as 'religion' or 'religious belief'. 
+nowadays it is used to mean much the same thing as 'religion' or 'religious belief'.
 
 Thus belief in God would now generally be called 'faith' (belief in God at all, not belief that God will help one, for example)
 
@@ -324,7 +295,7 @@ to believe that he exists is to accept the letter for what it purports to be and
 
 this topic is important not only for theology and philosophy of religion, it is also of huge importance for the theory of knowledge.
 
-*The greater part of our knowledge of reality rests upon the belief that we repose in things we have been taught and told.* 
+*The greater part of our knowledge of reality rests upon the belief that we repose in things we have been taught and told.*
 
 *Hume thought that the idea of cause-and-effect was the bridge enabling us to reach any idea of a world beyond personal experience*
 
@@ -350,7 +321,7 @@ believe with a personal object cannot be reflexive.
 
 to believe another isn't simply to believe what he says, or believe that what he says is true.
 
-it can happen that what someone's saying brings about is that one forms one's own judgement that the thing is true. 
+it can happen that what someone's saying brings about is that one forms one's own judgement that the thing is true.
 
 believing involves relying on x for it that p
 
@@ -425,7 +396,7 @@ various questions regarding the belief that the communication is addressed to so
 
 We can also regard the inmediate producer of what is taken as a communication of NN. (a messenger or interpreter)
 
-the recipient can fail to belive (as opposed to dibelieve) NN out of a variety of attitudes. he may not notice the communication at all, may notice it but not take it as addresed to him, or even if taken as addressed to him he may make the wrong thing of it, and he may make the right thing of it but not believe that it comes from NN. 
+the recipient can fail to belive (as opposed to dibelieve) NN out of a variety of attitudes. he may not notice the communication at all, may notice it but not take it as addresed to him, or even if taken as addressed to him he may make the wrong thing of it, and he may make the right thing of it but not believe that it comes from NN.
 
 Only when we have excluded or the cases (or assumed their exclusion) do we come to the situation in which the question simply is: Does X believe NN or not?
 
@@ -469,26 +440,26 @@ of an assertion = truth/rightness of a signifying
 
 ** Notas Sueltas
 
-*** 3.1 A 
+*** 3.1 A
 se requiere el poder de un efecto copernicano para cuestionar una concepción ingenua que pretenda ofrecer significado a una afirmación
 
-Anscombe estudio después del primer corte. Desarrolló su filosofía desde el segundo corte. 
-Wittgenstein influenció el pensamiento de Anscombe en su metodología (ella dice que 
+Anscombe estudio después del primer corte. Desarrolló su filosofía desde el segundo corte.
+Wittgenstein influenció el pensamiento de Anscombe en su metodología (ella dice que
 
 
 
 Para Anscombe la filosofía era una actividad ardua y vigorosa. Su comienzo en est actividad fue un ardoroso interés en el tema de la causalidad. En sus diálogos con Foot le manifestó que la mejor manera de comprender a Wittgenstein era un largo periodo de vigorosa objeción.
 
-Wittgenstein recibió aquel día a Anscombe con la pregunta: 
-<<¿Por qué la gente dice que era natural preferir pensar que el sol gira alrededor de la tierra más que pensar que la tierra rota en su propio eje?>> 
+Wittgenstein recibió aquel día a Anscombe con la pregunta:
+<<¿Por qué la gente dice que era natural preferir pensar que el sol gira alrededor de la tierra más que pensar que la tierra rota en su propio eje?>>
 Anscombe respondió:
-<<Supongo que porque parecía verse como si el sol girara alrededor de la tierra.>> 
-<<Bueno>>, añadió Wittgenstein, <<¿cómo se hubiera visto si pareciera verse como si la tierra rotara en en su propio eje?>>. 
+<<Supongo que porque parecía verse como si el sol girara alrededor de la tierra.>>
+<<Bueno>>, añadió Wittgenstein, <<¿cómo se hubiera visto si pareciera verse como si la tierra rotara en en su propio eje?>>.
 
-Anscombe se percató que esta pregunta había puesto en evidencia que hasta aquel momento no le había dado ningún significado relevante a su expresión "parecía verse como si" en su afirmación "parecía verse como si el sol girara alrededor de la tierra". Su reacción fue extender las manos delante de ella con las palmas hacia arriba y levantarlas desde sus rodillas con un movimiento circular mientras se inclinaba hacia atrás asumiendo una expresión de mareo. <<¡Exactamente!>> exclamó Wittgenstein. 
+Anscombe se percató que esta pregunta había puesto en evidencia que hasta aquel momento no le había dado ningún significado relevante a su expresión "parecía verse como si" en su afirmación "parecía verse como si el sol girara alrededor de la tierra". Su reacción fue extender las manos delante de ella con las palmas hacia arriba y levantarlas desde sus rodillas con un movimiento circular mientras se inclinaba hacia atrás asumiendo una expresión de mareo. <<¡Exactamente!>> exclamó Wittgenstein.
 
-Este no es el único caso en que Wittgenstein ayudó a Anscombe a descubrir una afirmación que no expresaba realmente un pensamiento. Con una pregunta ponía en evidencia cómo una proposición carecía de algún significado mayor que el que podía sugerir una concepción ingenua. Este era el método general de Wittgenstein: "mostrar que una persona no ha ofrecido ningún significado (o quizás: ninguna referencia) para ciertos signos en sus afirmaciones." Este es el efecto que Wittgenstein causó en el pensamiento de Anscombe, fue para ella una medicina liberadora. cf. Knowledge and certainty, 151 (IWT) 
-Para Elizabeth la filosofía comenzó como un arduo interés en el tema de la causalidad. En su adolescencia se había convertido a la fe Católica motivada por sus lecturas entre los 12 y 15 años. Su conversión le llevó a leer 'Teología Natural' escrita por un jesuita del s. XIX. Esta obra le presento una piedra de tropiezo que le llevó a la tarea filosófica sin darse cuenta. El libro contenía un argumento sobre la existencia de una Causa Primera, y como preliminar de este argumento ofrecía la prueba de un 'principio de causalidad' según el cual cualquier cosa que viene a ser debe tener una causa. Esta prueba tenía el problema de contar como premisa con un escasamente disimulado supuesto de su propia conclusión. Anscombe pensó que esto fue un descuido del autor y que el argumento sólo necesitaba algo de arreglo, así que comenzó a escribir versiones mejoradas de éste. Estas versiones le dejaban satisfecha por un tiempo, pero sucesivas reflexiones terminaban por mostarle que contenían la misma falla que el argumento original. En dos o tres años produjo cinco versiones de la prueba, todas culpables del mismo error, aunque cada vez mejor escondido. Incluso su último intento fue hecho antes de comenzar en Oxford. 
+Este no es el único caso en que Wittgenstein ayudó a Anscombe a descubrir una afirmación que no expresaba realmente un pensamiento. Con una pregunta ponía en evidencia cómo una proposición carecía de algún significado mayor que el que podía sugerir una concepción ingenua. Este era el método general de Wittgenstein: "mostrar que una persona no ha ofrecido ningún significado (o quizás: ninguna referencia) para ciertos signos en sus afirmaciones." Este es el efecto que Wittgenstein causó en el pensamiento de Anscombe, fue para ella una medicina liberadora. cf. Knowledge and certainty, 151 (IWT)
+Para Elizabeth la filosofía comenzó como un arduo interés en el tema de la causalidad. En su adolescencia se había convertido a la fe Católica motivada por sus lecturas entre los 12 y 15 años. Su conversión le llevó a leer 'Teología Natural' escrita por un jesuita del s. XIX. Esta obra le presento una piedra de tropiezo que le llevó a la tarea filosófica sin darse cuenta. El libro contenía un argumento sobre la existencia de una Causa Primera, y como preliminar de este argumento ofrecía la prueba de un 'principio de causalidad' según el cual cualquier cosa que viene a ser debe tener una causa. Esta prueba tenía el problema de contar como premisa con un escasamente disimulado supuesto de su propia conclusión. Anscombe pensó que esto fue un descuido del autor y que el argumento sólo necesitaba algo de arreglo, así que comenzó a escribir versiones mejoradas de éste. Estas versiones le dejaban satisfecha por un tiempo, pero sucesivas reflexiones terminaban por mostarle que contenían la misma falla que el argumento original. En dos o tres años produjo cinco versiones de la prueba, todas culpables del mismo error, aunque cada vez mejor escondido. Incluso su último intento fue hecho antes de comenzar en Oxford.
 
 Otro tema central que le cautivó sin darse cuenta que era filosofía fue la percepción. Tras leer 'The Nature of Belief' de Fr. Martin D'Arcy, S.J. sacó este interés. Estaba segura de que veía objetos, aunque mas bien se concentraba en artefactos. Los primeros objetos de la naturaleza que le llamaron la atención fue 'madera' y el cielo. El cielo fue un golpe central ya que solia afirmar dogmáticamente que uno debe conocer la categoría del objeto del que habla ya fuera un color o un tipo de cosa, por ejemplo: eso pertenece a la lógica del termino que uno esta usando. No podía ser una cuestión de descubrimiento empírcio que algo pertenecía a una categoría distinta. El cielo la detuvo. (MPM viii)
 
@@ -496,23 +467,23 @@ Conocer a Wittgenstein permitió a Anscombe interesarse en los filósofos del pa
 Hay un modo Wittgensteiniano de rebatir la tendencia de los filósofos de explicar alguna cosa complicada inventando alguna entidad o evento que la causa, como los físicos inventan particulas para explicar fenómenos, como el graviton(xix FPltoW)
 
 Wittgenstein le dijo que esta es la diferencia que el hizo a la filosofía: los libros de filosofía antes de él eran acerca de epistemología o tenían títulos acerca de los principios de alguna cosa u otra. La pregunta es entonces: ¿cómo puede uno estar haciendo filosofía si uno ni trara de presentar los principios más generales ni trata de fundar todo en las perceptiones infalibles de uno mismo?
- Anscombe escribió que la filosofía es pensar sobre las preguntas mas difíciles y generales, y eso es lo que ella hacía.FPLW xviii 
+ Anscombe escribió que la filosofía es pensar sobre las preguntas mas difíciles y generales, y eso es lo que ella hacía.FPLW xviii
 
 Anscombe nació en Limerick en Irlanda porque su padre estaba sirviendo en el British Army. Cuando regresaron a Britain su padre se fue maestro de escuea enseñando ciencia en Dullwich College en Londres.
 Ella se graduó de Sydenham High School en el 1937.
 
-En 1937 se graduó de Sydenham High School y comenzó estudios de clásicos, filosofía e historia antigua en St Hugh's College en Oxford. 
+En 1937 se graduó de Sydenham High School y comenzó estudios de clásicos, filosofía e historia antigua en St Hugh's College en Oxford.
 
 Habiendo comenzado a estudiar en Oxford, en la etapa de Honour Mods, participó de las lecciones de H. H. Price sobre percepción y fenomenalismo. Las encontró muy interesantes. Consideraba que él acertaba en hablar sobre lo importante. Encontró una lectura muy interesante en Hume's Theory of the External World de Price. Despertó en ella interés en el capítulo de Hume: "On scepticism with regard to the senses".
 
-La idea de estudiar con Wittgenstein vino cuando leyó a sección 5.53 "La identidad de objeto la expreso en la identidad del signo y no usando un signo para la 
+La idea de estudiar con Wittgenstein vino cuando leyó a sección 5.53 "La identidad de objeto la expreso en la identidad del signo y no usando un signo para la
 identidad. La diferencia de los objetos la expreso por medio de la diferencia de los signos." (fampeople.com)
 
 En 1944 Ludwig ofrecía lecciones en Cambridge. Anscombe todavía se sentía atrapada por el fenomenalismo. No lo creía, pero no podía salir de él. Aún cuando había visto las objeciones de Russell , la fuerza, el nervio, se mantenía fuerte. El pensamiento central: "Tengo esto y defino amarillo (por ejemplo) como esto" fue atacado por Wittgnstein.
-En las clases Wittgenstein discutía en una ocasión la interpretación del "sign-post", y estalló en Anscombe que el modo en el que vas sobre el es la interpretación final. 
+En las clases Wittgenstein discutía en una ocasión la interpretación del "sign-post", y estalló en Anscombe que el modo en el que vas sobre el es la interpretación final.
 En otra ocasión salió y dijo "Pero aún quiero decir: azul está ahí", hubo risas, pero Wittgenstein considero la pregunta en serio diciendo: "Déjame pensar que medicina necesitas… supón que tuviéramos la palabra 'painy' como la propiedad de algunas superficies". La medicina fue efetiva.
 Uno podría protestar, ciertamente, que esto es lo que está incorrecto en la asimilación de las cualidades secundarias al dolor: puedes esbozar el funcionamiento de "dolor" como una palabra para una cualidad secundaria, pero no puedes hacer la operación inversa.
-La medicina no implicaba que podrías. Si "painy" fuera una posible palabra para una cualidad secundaria, entonces no podría el mismo motivo momverme a decir: Painy is there que lo que movió a decir "Blue is there?" Yo no quería decir "Azul es el nombre de esta sensación que estoy teniendo", ni tampoco cambiar hacia ese pensamiento. 
+La medicina no implicaba que podrías. Si "painy" fuera una posible palabra para una cualidad secundaria, entonces no podría el mismo motivo momverme a decir: Painy is there que lo que movió a decir "Blue is there?" Yo no quería decir "Azul es el nombre de esta sensación que estoy teniendo", ni tampoco cambiar hacia ese pensamiento.
 
 Foot:(en Teich p.4 ) "pensaba que un largo periodo de vigorosa objeción era la mejor manera de entender a Wittgenstein. Aunque era una amiga cercana y reconocía su grandeza, nada podía estar más lejos de su carácter y modo de pensamiento que el discipulado."
 La filosofía de Anscombe es más cercana al espíritu de la de Wittgenstein precisamente porque no se contenta con repetir lo que el afirmaba en distintos modos. (Teich p.4)
@@ -530,14 +501,14 @@ En su lección inaugural en cambridge en 1970 Anscombe presentó una perspectiva
 ?         Protestó en clínicas abortivas y fue apresada por ello
 
 En los círculos académicos ingleses es una tentación mantenerse en silencio cuando se dice algo incorrecto o estúpido. Anscombe pensaba que esto podía llevar a una actitud complaciente que está fuera de lugar en una propuesta seria de filosofía. (cf. Teichmann Ch. P 116-17)
-La actitud de Wittgenstein y Anscombe sobre la Bomba y en general sobre la guerra era distinta. Para ella, según la mentalidad cristiana, protestar en contra del mal era algo que merecía la pena hacerse por sus propios meritos: era un caso de ser testigo de la verdad. 
+La actitud de Wittgenstein y Anscombe sobre la Bomba y en general sobre la guerra era distinta. Para ella, según la mentalidad cristiana, protestar en contra del mal era algo que merecía la pena hacerse por sus propios meritos: era un caso de ser testigo de la verdad.
 Wittgenstein desconfiaba casi patológicamente de las personas que toman una postura moral en público. Prefería asumir una reacción de aversión quasi-fatalista más que el hacer algo para cambiarlos.
 en 1946 escribe:
 El miedo histérico que se experimenta ahora sobre la bomba atómica por el público, o en todo caso el que se expresa, casi sugiere que algo verdaderamente saludable se ha inventado. El espanto al menos da la impresión de una muy efectiva y amarga medicina. No puedo evitar pensar: si esto no tuviera algo de bueno los filisteos no estarían haciendo una protesta. (Culture and Value 48e-49e)(Teich p. 4)
 
 En los 50 y 60 la filosofía de Oxford estaba gobernada por la moda, en la época de Anscombe era la escuela del 'lenguaje ordinario' de J. L. Austin.
 Anscombe se sentía fuera de tono en este ambiente. De esta escuela levantaba las mayores resistencias los temas relacionados a sense-perception.
-en 1965 hace un intento de evitar los errores de los fenomenalismo y filósofos del lenguaje ordinario en 'La intencionalidad de la sensación'. 
+en 1965 hace un intento de evitar los errores de los fenomenalismo y filósofos del lenguaje ordinario en 'La intencionalidad de la sensación'.
 
 No nos podemos imaginar a Karol Wojtyla escribiendo The Acting Person sin el tratado de Anscombe sobre la intención. Incluso en distintas audiencias, al recibir a un obispo y un profesor de Oxford Juan Pablo II preguntó  ¿Conocen a la profesora Anscombe? (catholiceducation.com)
 
@@ -546,10 +517,10 @@ adoptó la expresión "consecuencialismo"
 tuvo tres hijos y cuatro hijas
 
 Vivió la verdad como acción
-Murió rezando los misterios dolorosos del rosario. 
+Murió rezando los misterios dolorosos del rosario.
 Su último acto conciente fue besar a su esposo.
 
-*** 3.1 B 
+*** 3.1 B
 Wittgenstein recibió aquel día a Anscombe con la pregunta: <<¿Por qué la gente dice que
 era natural preferir pensar que el sol gira alrededor de la tierra más que pensar que
 la tierra rota en su propio eje?>> Anscombe respondió: <<Supongo que porque parecía
@@ -706,15 +677,15 @@ enemigos bajo sus pies.' El último enemigo en ser destruido será la Muerte.}
 
 \section{Wittgenstein y Anscombe: La Razonabilidad de la Fe}
 \footnote{
-Ludwig Wittgenstein, 
-Wittgenstein on Rules and Private Language, 
-Wittgenstein, Frege and Ramsey, 
-Wittgenstein: Whose Philosopher?, 
-Wittgenstein's 'two cuts' in the history of philosophy, 
-Consequences of the Picture Theory, 
-On the form of Wittgsenstein's writing, 
-Was Wittgenstein a conventionalist?, 
-The Simplicity of the Tractatus, 
+Ludwig Wittgenstein,
+Wittgenstein on Rules and Private Language,
+Wittgenstein, Frege and Ramsey,
+Wittgenstein: Whose Philosopher?,
+Wittgenstein's 'two cuts' in the history of philosophy,
+Consequences of the Picture Theory,
+On the form of Wittgsenstein's writing,
+Was Wittgenstein a conventionalist?,
+The Simplicity of the Tractatus,
 An Introduction to Wittgenstein's Tractatus
 }
 
@@ -758,7 +729,7 @@ others. They were simply lies out of cowardice. (Wittgenstein: A Life : Young Lu
 
 In the Tractatus truth recieves a good deal more attention than meaning
 
-Nature of philosophy 
+Nature of philosophy
 
 Accordingly, “the word ‘philosophy’ must mean something which
 stands above or below, but not beside the natural sciences” (TLP 4.111). Not
@@ -801,7 +772,7 @@ meaning gets more attetntion than truth
 par 599. In philosophy we do not draw conclusions. ``But it must be like this!'' is not
 a philosophical proposition. Philosophy only states what everyone admits.
 
-nature of philosophy 
+nature of philosophy
 
 In his later writings Wittgenstein holds, as he did in the
 Tractatus, that philosophers do not—or should not—supply a theory, neither do they
@@ -913,12 +884,12 @@ by this idea. (cfr. TEICH 198)
 
 \section{La pregunta sobre la Verdad}
 \footnote{
-Truth: Anselm and Wittgenstein, 
-Truth: Anselm or Thomas?, 
-Anselm and the Unity of Truth, 
-A theory of Language?, 
-Necessity and Truth, 
-Thought and Action in Aristotle: What is Practical Truth?, 
+Truth: Anselm and Wittgenstein,
+Truth: Anselm or Thomas?,
+Anselm and the Unity of Truth,
+A theory of Language?,
+Necessity and Truth,
+Thought and Action in Aristotle: What is Practical Truth?,
 Practical Truth
 }
 
@@ -927,25 +898,25 @@ Anscombe. Este tema nos conducirá a la cuestión sobre la verdad de la fe.
 
 \section{Fe, verdad y testimonio}
 \footnote{
-Faith, 
-What is to believe someone?, 
-A Reply to Mr. C. S. Lewis's Argument that “Naturalism” is Self- Refuting, 
-Has Mankind One Soul: An Angel Distributed among many Bodies?, 
-Human Essence, 
-La esencia Humana, 
-Plato, Soul and 'the Unity of Apperception', 
-Why Anselm's Proof in the Proslogion in not an onthological argument, 
-On the Hatred of God, 
-On Attachment to Things and Obedience to God, 
-On being on Good Faith, 
-On Humanae Vitae, 
-Philosophers and Economists: Two Philosphers' Objections to Usury, 
-Retractation, 
-Sin: the McGivney Lectures, 
-The Inmortality of the Soul, 
-Two Moral Theologians, 
-You Can Have Sex without Children: Christianity and the New Offer, 
-Morality, 
+Faith,
+What is to believe someone?,
+A Reply to Mr. C. S. Lewis's Argument that “Naturalism” is Self- Refuting,
+Has Mankind One Soul: An Angel Distributed among many Bodies?,
+Human Essence,
+La esencia Humana,
+Plato, Soul and 'the Unity of Apperception',
+Why Anselm's Proof in the Proslogion in not an onthological argument,
+On the Hatred of God,
+On Attachment to Things and Obedience to God,
+On being on Good Faith,
+On Humanae Vitae,
+Philosophers and Economists: Two Philosphers' Objections to Usury,
+Retractation,
+Sin: the McGivney Lectures,
+The Inmortality of the Soul,
+Two Moral Theologians,
+You Can Have Sex without Children: Christianity and the New Offer,
+Morality,
 Modern Moral Philosophy
 }
 
@@ -960,22 +931,22 @@ epistemológico del testimonio.
 
 \section{La tradición sobre el valor epistemológico del testimonio}
 \footnote{
-Hume and Julius Caesar, 
-Hume on causality: introductory, 
-The Reality of the Past, 
-Causality and Determination, 
-Causality and Extensionality, 
-“Whatever has a beginning of existence must have a cause”: Hume's Argument Exposed, 
-Times, Beginnings and Causes, 
-Before and After, 
-The Causation of Action, 
-Chisolm on Action, 
-Action, Intention and 'Double Effect', 
+Hume and Julius Caesar,
+Hume on causality: introductory,
+The Reality of the Past,
+Causality and Determination,
+Causality and Extensionality,
+“Whatever has a beginning of existence must have a cause”: Hume's Argument Exposed,
+Times, Beginnings and Causes,
+Before and After,
+The Causation of Action,
+Chisolm on Action,
+Action, Intention and 'Double Effect',
 Part Three: Causality and time
-Aristotle and the Sea Battle: De Interpretatione, Chapter IX, 
-Prophecy and Miracles, 
-Hume on Miracles, 
-Modern Moral Philosophy, 
+Aristotle and the Sea Battle: De Interpretatione, Chapter IX,
+Prophecy and Miracles,
+Hume on Miracles,
+Modern Moral Philosophy,
 Good and Bad Human Action
 }
 
@@ -988,31 +959,31 @@ extraordinarias.
 
 \section{El testimonio en el lenguaje epistémico y creyente}
 \footnote{
-On Wisdom, 
-Knowledge and Certainty, 
-Knowledge and Reverence for Human Life, 
-'The General Form of Proposition', 
-Comments on Professor R. L. Gregory's Paper on Perception, 
-On Brute Facts, 
-Will and Emotion, 
-Memory, 'Experience' and Causation, 
-Understanding Proofs: Meno, 85d9 – 86c2, 
-Subjunctive Conditionals, 
-What is it to Believe Someone?, 
-The Intentionality of Sensation, 
-Substance, 
-The Subjectivity of Sensation, 
-Events in the mind, 
-On Sensations of Position, 
-Intention, 
-Pretending, 
+On Wisdom,
+Knowledge and Certainty,
+Knowledge and Reverence for Human Life,
+'The General Form of Proposition',
+Comments on Professor R. L. Gregory's Paper on Perception,
+On Brute Facts,
+Will and Emotion,
+Memory, 'Experience' and Causation,
+Understanding Proofs: Meno, 85d9 – 86c2,
+Subjunctive Conditionals,
+What is it to Believe Someone?,
+The Intentionality of Sensation,
+Substance,
+The Subjectivity of Sensation,
+Events in the mind,
+On Sensations of Position,
+Intention,
+Pretending,
 Practical Inference
 What is it to Believe Someone?
-Authority in Morals, 
-On the Source of the Authority of the State, 
-The Moral Enviroment of the Child, 
-On Promising and its justice, and Whether it Need be Respected in Foro Interno, 
-Rules, Rights and Promises, 
+Authority in Morals,
+On the Source of the Authority of the State,
+The Moral Enviroment of the Child,
+On Promising and its justice, and Whether it Need be Respected in Foro Interno,
+Rules, Rights and Promises,
 The Two Kinds of error in action
 }
 
@@ -1026,12 +997,12 @@ pregunta sobre el misterio.
 
 \section{Sentido, sinsentido y misterio}
 \footnote{
-`Mysticism' and Solipsism, 
-Analytical Philosophy and the Sipirituality of Man, 
-On Transubstantiation, 
-Parmenides, Mystery and Contradiction, 
-The Question of Linguistic Idealism, 
-Paganism, Superstition and Philosophy, 
+`Mysticism' and Solipsism,
+Analytical Philosophy and the Sipirituality of Man,
+On Transubstantiation,
+Parmenides, Mystery and Contradiction,
+The Question of Linguistic Idealism,
+Paganism, Superstition and Philosophy,
 On Piety, or: Plato's Euthyphro.
 }
 
@@ -1060,7 +1031,7 @@ La libertad de anscombe en su hacer filosofía y su lenguaje
 ** B. La pregunta sobre la Verdad
 Truth, Facts and Faith
 *** Necessity And Truth
-What is known must be true; hence it readily appears that only the necessarily true can be known. 
+What is known must be true; hence it readily appears that only the necessarily true can be known.
 
 What is known is necessarily true
 if something is not true then my certainty that it is the case is -necessarily- not knowledge; and from this nothing follows placing any restriction on the objects of knowledge.
@@ -1084,16 +1055,16 @@ it is true that *what is known is true* (de dicto), it is false that *what is kn
 -back to the trap:-
 
 must not the fact of the knowledge of such contingency itself be equally contingent?
-must it not always be capable of turning out false, 
+must it not always be capable of turning out false,
 that such-and-such a way for the future to turn out is known to be the way it will turn out?
 (¿será posible que siempre resulte no ser falso que el futuro sea como se conoce que será?)
-For, being contingent, this may not happen. 
+For, being contingent, this may not happen.
 
 Many may want to accept this concerning human knowledge, and hold there is no escape from the trap.
 St Thomas is stopped from accepting it for divine knowledge, which *assumes the position of a pure sample in a thought experiment*
 
 In this case thus:
-*if it was known that p is unalterably true* 
+*if it was known that p is unalterably true*
 it does not follow that
 *necessarily p is true*
 
@@ -1101,8 +1072,8 @@ it does not follow that
 
 This can be applied to human knowledge.
 
-Knowledge is not restricted to what could not imaginably turn out mistaken: 
-given that there are not more specific grounds for refusing the title "knowledge" to my claim that something is true, 
+Knowledge is not restricted to what could not imaginably turn out mistaken:
+given that there are not more specific grounds for refusing the title "knowledge" to my claim that something is true,
 it is sufficient thet the claim does not turn out mistaken.
 It may be that I can conceive circumstances that would prove me wrong; that does not show that I may be wrong.
 
@@ -1115,7 +1086,7 @@ the thing known, even though it is known now, can be characterized in itself in 
 (I, c.14, a. 13 ad 3)
 El ser conocido por Dios es inseparable de la realidad; porque lo conocido por Dios no puede ser ignorado. Y este razonamiento sería aplicable si lo que llamo conocido implicara alguna disposición inherente al sujeto, Pero como va referido a acto del que conoce, a la misma realidad conocida, aunque sea conocida desde siempre, se le puede atribuir algo esencial y que no se le atribuye en cuanto conocida. Ejemplo: A una piedra se le atribuye la materialidad, que no se le atribuye en cuanto inteligible.
 
-qua object of God's knowledge the future is necessary, when in itself it is not. 
+qua object of God's knowledge the future is necessary, when in itself it is not.
 
 St Thomas maintains the opinion held by tradition, limiting human knowledge to the necessary (history is considered by aristotle as necessary, so it can be known)
 But St Thomas goes further in his adherence to the Greek conception of knowledge; in hte field of speculative reason, he says everything derives from some first, indemonstrable principles which are known of themselves, and in at least one place we find him saying that everything in this sphere is "founded upon" the principle of contradiction.
@@ -1124,15 +1095,15 @@ Are these views as archaic as they appear?
 
 they are similar to some doctrines recently teached. also it is a standard method to test any philosophical assertion by considering wether a conter-example to ti can be conceived without contradiction. Contradiction being generously conceived, as not every inconceivability can be displayed as "both thus and not thus".
 
-Thus what might seem archaic turns out in reflection to conform to very general philosophical practice: 
+Thus what might seem archaic turns out in reflection to conform to very general philosophical practice:
 philosophic understanding concerns what must be so
 if philosophic understanding is acheived by a succesful deliniation of concepts, then our great interest is to note what could not be supposed changed about a concept without quite changing what we are talking about in using it. What that is belongs to what St Thomas calls the ratio formalis obiecti.
 
 We are nowadays in some ways closer to the ancient and the medievals than, to say, Kant or Hegel. From the point that form this situation two of the most notorious would be the eclipse in the notion of "the given" and the departure from atomistic conceptions (logical atomism).
 
-Regarding the given: we start mediis in rebus. What we belive to exist we credit, what we do not belive to exist we discredit, not on grounds of any apriori conception of knowledge, language, meaning and truth, but because people around us do not. 
+Regarding the given: we start mediis in rebus. What we belive to exist we credit, what we do not belive to exist we discredit, not on grounds of any apriori conception of knowledge, language, meaning and truth, but because people around us do not.
 
-So we accept common views, or remain in views not arrived at by philosophy while we work the concepts and it is noteworthy that the concepts of experiencing are only some among those that we want to understand. The logical features of concepts are such as to make us need tools of philosophic description not always unlike those used by a medieval philosopher. 
+So we accept common views, or remain in views not arrived at by philosophy while we work the concepts and it is noteworthy that the concepts of experiencing are only some among those that we want to understand. The logical features of concepts are such as to make us need tools of philosophic description not always unlike those used by a medieval philosopher.
 
 The sorting put by Aquinas of the 'de re' and 'de dicto' necessities confounded in 'what is known is necessarily true' is something a present-day english philosopher can appreciate.
 
@@ -1140,14 +1111,14 @@ The sorting put by Aquinas of the 'de re' and 'de dicto' necessities confounded 
 *** Faith
 
 There was a "we used to believe…" which I think could have been said with some truth…
-There was in the preceding time a professed enthusiasm for rationality, perhaps inspired by the teaching of Vatican I against fideism, certainly carried along by the promotion of neo-tomist studies. 
+There was in the preceding time a professed enthusiasm for rationality, perhaps inspired by the teaching of Vatican I against fideism, certainly carried along by the promotion of neo-tomist studies.
 The word was that the Catholic Christian Faith was rational.
 Why would it essentially need the promptings of grace to follow the process of reasoning? It was as if we were assured there was a chain of proof.
 First God,  then the divinity of Jesus Christ. Then the establishment of a Church with  a Pope at the head of it and with a teaching commission from him. This body was readily identifiable. Hence you could demonstrate the truth of what the church taught.
 
 That faith and knowledge are not the same could be accounted for by the extrinsic character of the proofs of the de fide doctrines.
 
-The knowledge whch was contrasted with faith would be knowledge by proofs intrinsic to the subject matter, 
+The knowledge whch was contrasted with faith would be knowledge by proofs intrinsic to the subject matter,
 not by proofs from someone's having said these things were true.
 
 For matters which were strictly 'of faith' intrinsic proofs were not possible, and that was why faith contrasted with knowledge.
@@ -1159,21 +1130,21 @@ Related to the Church that our lord established;
 one wouldn't identify the church by its having the Pope, but the other way around. Allowing the believer to comitt to the Christian faith instead of the pope.
 
 A yet more sober variant:
-avoids trading on the cultural inheritance for which the name of Jesus was so holy that it was easy to go straight from belief in God to belief in Jesus as God's son. 
+avoids trading on the cultural inheritance for which the name of Jesus was so holy that it was easy to go straight from belief in God to belief in Jesus as God's son.
 In this variant one would be aware of the dependence of the New Testament in the Old, raising consciousness to the meaning of calling our Lord "Christ".
 
-These 'sober variants' had the disadvantage that it wasn't easy to see that what Jesus established was matched by the Catholic Church that we know. Learning and skill would be required to make th identification. 
+These 'sober variants' had the disadvantage that it wasn't easy to see that what Jesus established was matched by the Catholic Church that we know. Learning and skill would be required to make th identification.
 
 The so-called preambles of faith could not possibly have the sort of certainty that it had. And if less, then where was the vaunted rationality?
 
-A graver problem was the one about the faith of the simple. They don't have an inferior faith. Also those who studied didn't really knew those things. 
+A graver problem was the one about the faith of the simple. They don't have an inferior faith. Also those who studied didn't really knew those things.
 Knowledge was there somehow, perhaps scattered, perhaps theorethically or abstractly available. In the belief that this was so, one was being rational in having faith.
 
 But this was problematic... and so adherence to faith was really a matter of hanging on, and both its being a gift and its voluntariness would at this point be stressed.
 
 There is a vacuum where the ideas about the faith as rational, these considerations, proofs, arguments and problems are now out of fashion.
 
-The passing away of these positions  is not to be regretted. They attached the character of 'rationality' entirely to what were called the preambles to faith itself.  
+The passing away of these positions  is not to be regretted. They attached the character of 'rationality' entirely to what were called the preambles to faith itself.
 
 Both the preambles and the passage from them to faith itself are an 'ideal' construction a fanciful construction dreamed up according to prejudices about what it is to be reasonable in holding a belief.
 
@@ -1194,7 +1165,7 @@ these are your presuppositions. you beliving jones doesn't entail those three th
 
 In modern use faith can be understood as religion or religious belief.
 
-In the tradition where this concept has it's origin "faith" is short for "divine faith" and means beliving God. 
+In the tradition where this concept has it's origin "faith" is short for "divine faith" and means beliving God.
 
 So used, at least amongst Chrisitan thinkers, faith could not be anything but true.
 
@@ -1210,15 +1181,15 @@ It is clear that believing somebody* (*see what is to belive someone*) is in the
 
 If we investigate believing jones:
 
-you can't call it believing jones just if jones says something or other and you do believe that very thing he says. Even if it's someone's saying something that causes you to believe it, that doesn't have to be believing him. In this case you judge the matter for yourself. 
+you can't call it believing jones just if jones says something or other and you do believe that very thing he says. Even if it's someone's saying something that causes you to believe it, that doesn't have to be believing him. In this case you judge the matter for yourself.
 
 you can't call it believing jones even if his saying is your evidence that it is true. you can suppose a case in which you are sure that he will lie to you and be mistaken. The opposite of what he says will be true and he will tell you the opposite of what he thinks, so what he tells you will be true and you will believe it because he says it, but you won't be believing him.
 
-you can't call it believing jones when you believe what he says assuming that he says what he believes. You could believe that what he believes will be true, but by accident, as it were. Someone may believe what he gathers from all sources, be them lying or telling the truth, and you know which are the liars and which are the truth-telling. He then tells you something you know came from a truth-telling source, and you would believe what he says as true because you know where he got it. In this case you wouldn't be believing him. 
+you can't call it believing jones when you believe what he says assuming that he says what he believes. You could believe that what he believes will be true, but by accident, as it were. Someone may believe what he gathers from all sources, be them lying or telling the truth, and you know which are the liars and which are the truth-telling. He then tells you something you know came from a truth-telling source, and you would believe what he says as true because you know where he got it. In this case you wouldn't be believing him.
 
 when you believe your history teacher it is enough that you believe what he says because he says it and you don't think he's lying and you think what he believes about that will be true. that's enough for you to be believing him.
 
-The topic of believing someone is difficult. If you could put it that you believe that the person knows what he is telling you, then these difficulties don't arise. 
+The topic of believing someone is difficult. If you could put it that you believe that the person knows what he is telling you, then these difficulties don't arise.
 
 
 
@@ -1230,9 +1201,9 @@ can we believe someone who doesn't exist?
 
 if we say that the deluded victim does not believe someone who doesn't exist you will deprive yourself of the clearest way of describing this situation: 'he believed the non-existent person". And also what would be the proper expression if we don't use believe in this case?
 
-we have to settle for saying that the ancient was believing in apollo - who doesn't exist. 
+we have to settle for saying that the ancient was believing in apollo - who doesn't exist.
 
-the same point holds for the case where the person we believe does exist, but you have misunderstood what he wrote, or mistakenly supposed that this letter is from him. 
+the same point holds for the case where the person we believe does exist, but you have misunderstood what he wrote, or mistakenly supposed that this letter is from him.
 
 Let us think some more about the presuppositions.
 Presuppositions of faith are not themselves part of the content of what in a narrow sense is believed by faith,
@@ -1252,9 +1223,9 @@ in this regard i believe the sentence that states that it is from jones, but it 
 
 2. suppose a prisoner in a dungeon,
 
-a letter arrives proposing to help him in various needs. 
+a letter arrives proposing to help him in various needs.
 
-the letter says is from an unknown friend: N. 
+the letter says is from an unknown friend: N.
 
 it invites him to communicate his needs by certain channels
 
@@ -1282,7 +1253,7 @@ that that really is what the letter tells you
 
 there is a difference between believing pre-suppositions and believing information on N's say-so
 
-you can believe the pre-suppositions for reasons other than believing N 
+you can believe the pre-suppositions for reasons other than believing N
 
 Suarez said that in every revelation God reveals that he reveals.
 
@@ -1306,9 +1277,9 @@ a man hears a voice saying something to him and he believes it is God speaking, 
 
 what does he believe when he 'believes it is God speaking'? that God has a voice-box?
 
-in relation to the belief that God is speaking, it doesn't matter how the voice is produced. 
+in relation to the belief that God is speaking, it doesn't matter how the voice is produced.
 
-the rabbinical idea of the Bath Qol (daughter of the voice') that describes 
+the rabbinical idea of the Bath Qol (daughter of the voice') that describes
 something heard that leaps out at you, 'speaks to your condition', as a voice that strikes you to the heart and upon which you can act in obedience
 
 Even when the words were uttered in a conversation that had nothing to do with him he beliefs that God has spoken to him in that voice.
@@ -1361,7 +1332,7 @@ faith was distinguished as human and divine, determined by the personal object o
 
 divine faith was believing God
 
-nowadays it is used to mean much the same thing as 'religion' or 'religious belief'. 
+nowadays it is used to mean much the same thing as 'religion' or 'religious belief'.
 
 Thus belief in God would now generally be called 'faith' (belief in God at all, not belief that God will help one, for example)
 
@@ -1392,7 +1363,7 @@ to believe that he exists is to accept the letter for what it purports to be and
 
 this topic is important not only for theology and philosophy of religion, it is also of huge importance for the theory of knowledge.
 
-*The greater part of our knowledge of reality rests upon the belief that we repose in things we have been taught and told.* 
+*The greater part of our knowledge of reality rests upon the belief that we repose in things we have been taught and told.*
 
 *Hume thought that the idea of cause-and-effect was the bridge enabling us to reach any idea of a world beyond personal experience*
 
@@ -1418,7 +1389,7 @@ believe with a personal object cannot be reflexive.
 
 to believe another isn't simply to believe what he says, or believe that what he says is true.
 
-it can happen that what someone's saying brings about is that one forms one's own judgement that the thing is true. 
+it can happen that what someone's saying brings about is that one forms one's own judgement that the thing is true.
 
 believing involves relying on x for it that p
 
@@ -1493,7 +1464,7 @@ various questions regarding the belief that the communication is addressed to so
 
 We can also regard the inmediate producer of what is taken as a communication of NN. (a messenger or interpreter)
 
-the recipient can fail to belive (as opposed to dibelieve) NN out of a variety of attitudes. he may not notice the communication at all, may notice it but not take it as addresed to him, or even if taken as addressed to him he may make the wrong thing of it, and he may make the right thing of it but not believe that it comes from NN. 
+the recipient can fail to belive (as opposed to dibelieve) NN out of a variety of attitudes. he may not notice the communication at all, may notice it but not take it as addresed to him, or even if taken as addressed to him he may make the wrong thing of it, and he may make the right thing of it but not believe that it comes from NN.
 
 Only when we have excluded or the cases (or assumed their exclusion) do we come to the situation in which the question simply is: Does X believe NN or not?
 
@@ -1576,4 +1547,4 @@ There is some grain of truth in phenomenalism
 
 * Ponderations
 ** It is like this:
-*** 
+***
