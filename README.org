@@ -53,7 +53,7 @@
         - [ ] Cambridge: filosofía analítica
         - [ ] Profesora y Catedrática
 ** TODO Cap. 3: La Concepción de G.E.M. Anscombe Sobre el Testimonio [0%]
-*** TODO Análisis Diacrónico [28%]
+*** TODO Análisis Diacrónico [42%]
         - [X] Prophecy and Miracles (1957) [100%]
           + [X] Información del Texto
           + [X] Introducción: Plantieamiento de la Cuestión
@@ -66,7 +66,12 @@
           + [X] I. ¿Qué es transubstanciación?
           + [X] II. ¿Qué es lo que la eucaristía simboliza?
         - [ ] Hume and Julius Caesar (1973) [0%]
-        - [ ] Faith (1975) [0%]
+        - [X] Faith (1975) [100%]
+          + [X] Sobre el documento y cuestión
+          + [X] 'Fe' como 'creer a Dios que p'
+          + [X] De los preámbulos a las presuposiciones
+          + [X] Las presuposiciones de 'creer a alguien'
+          + [X] El extraordinario fenómeno de 'creer a Dios'
         - [ ] The Question of Linguistic Idealism (1976) [0%]
         - [ ] What is it to Believe Someone? (1979) [0%]
 *** TODO Desarrollo Sincrónico [%]
