@@ -53,7 +53,7 @@
         - [ ] Cambridge: filosofía analítica
         - [ ] Profesora y Catedrática
 ** TODO Cap. 3: La Concepción de G.E.M. Anscombe Sobre el Testimonio [0%]
-*** TODO Análisis Diacrónico [42%]
+*** TODO Análisis Diacrónico [57%]
         - [X] Prophecy and Miracles (1957) [100%]
           + [X] Información del Texto
           + [X] Introducción: Plantieamiento de la Cuestión
@@ -73,7 +73,12 @@
           + [X] Las presuposiciones de 'creer a alguien'
           + [X] El extraordinario fenómeno de 'creer a Dios'
         - [ ] The Question of Linguistic Idealism (1976) [0%]
-        - [ ] What is it to Believe Someone? (1979) [0%]
+        - [X] What is it to Believe Someone? (1979) [100%]
+          + [X] Sobre del documento y planteamiento de la cuestión
+          + [X] 'Creer a alguien' como 'Fe humana'
+          + [X] Acceso al mundo más allá de la experiencia
+          + [X] Investigación gramatical de 'creer a /x/ que /p/'
+          + [X] Creer a quien habla rectamente
 *** TODO Desarrollo Sincrónico [%]
         - [ ] Quaestio 1: Epsitemology of Testimony
         - [ ] Quaestio 2: On God's Attestation
