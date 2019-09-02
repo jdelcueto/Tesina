@@ -19,9 +19,22 @@
   inferencia de Eutidemo sea posible, ¿por qué suena tan extraña la posibilidad de
   que les crea a todos y juzgue esa conclusión?
 #+END_SRC
+** `Creer a alguien' como `Fe'
+#+BEGIN_SRC latex
+  Una segunda cuestión que aparece como preámbulo en la investigación de Anscombe es planteada así: \citalitinterlin{Si las palabras siempre guardaran sus antiguos valores, podría haber llamado mi tema `Fe'. Este corto término ha sido usado en el pasado justo con este significado, el de creer a alguien}\footnote{\cite{anscombe2008faith:tobelieve}: <<If words always kept their old values, I might have called my subject `Faith'. That short term has in the past been used in just this meaning, of believing someone.>>}. Este uso de la expresión sera útil para Anscombe en su análisis del uso de la palabra `fe'. Su descripción estará enfocada en `fe' como `creer a Dios que $p$'. Esta segunda ruta será explorada más adelante.
+#+END_SRC
+** Acceso al mundo más allá de la experiencia
+#+BEGIN_SRC latex
+  ¿Cómo accedemos a una idea del mundo más allá de nuestra experiencia personal? Una de las cuestiones que Anscombe plantea como preámbulo a su análisis sobre el `creer a alguien' tiene que ver con esta pregunta.
+
+  Hume diría que el puente que permite nuestro contacto con la realidad más allá de nuestra experiencia es la relación causa-y-efecto\autocite[Cf.~][3]{anscombe2008faith:tobelieve}. Inferimos las causas desde sus efectos porque estamos acostumbrados a ver que causa y efecto van juntas. Estas causas inferidas las verificamos en la percepción inmediata de nuestra memoria o nuestros sentidos, o por medio de la inferencia de otras causas verificadas del mismo modo\autocite[Cf.~][88]{anscombe1981parmenides:humeandjulius}. Hume entonces propone que la relación entre el testimonio y la verdad es de la misma clase, inferimos la verdad del testimonio porque estamos acostumbrados a que vayan juntas\autocite[Cf.~][3]{anscombe2008faith:tobelieve}.
+
+  Anscombe tacha de absurda esta visión del rol del testimonio en el conocimiento humano\autocite[Cf.~][3]{anscombe2008faith:tobelieve} y le parece que \citalitinterlin{el misterio es cómo Hume la pudo haber llegado a sostener}\footnote{\cite[Cf.~][3]{anscombe2008faith:tobelieve}: <<the mystery is how Hume could ever have entertained it.>>}. Entonces explica: \citalitlar{Hemos de reconocer al testimonio como el que nos da nuestro mundo más grande en no menor grado, o incluso en un grado mayor, que la relación de causa y efecto; y creerlo es bastante distinto en estructura que el creer en causas y efectos. Tampoco es lo que el testimonio nos da una parte completamente desprendible, como el borde de grasa en un pedazo de filete. Es más bien como las manchas y rayas de grasa que están distribuidas a través de la buena carne; aunque hay nudos de pura grasa también\footnote{\cite[3]{anscombe2008faith:tobelieve}:<<We must acknowledge testimony as giving us our larger world in no smaller degree, or even in a greater degree, than the relation of cause and effect; and believing it is quite dissimilar in structure from belief in causes and effects. Nor is what testimony gives us entirely a detachable part, like the thick fringe of fat on a chunk of steak. It is more like the flecks and streaks of fat that are distributed through good meat; though there are lumps of pure fat as well>>}.} Elizabeth considera que la mayor parte de nuestro conocimiento de la realidad está apoyado en la creencia que tenemos en las cosas que se nos han enseñado o dicho\autocite[Cf.~][3]{anscombe2008faith:tobelieve}. Para ella, la investigación acerca de `creer a alguien' no sólo es del interés de la teología o de la filosofía de la religión, sino de enorme importancia para la teoría del conocimiento\autocite[Cf.~][3]{anscombe2008faith:tobelieve}.
+
+  La ruta de análisis que Anscombe abre con esta propuesta consiste en una descripción más adecuada de la `estructura del creer en el testimonio' como una estructura distinta de la relación causa y efecto. Aquí la descripción vista sobre el `creer a algiuen' ha ofrecido ya pistas valiosas. Sin embargo, Anscombe aborda el tema en otras discusiones y es necesario tenerlas en cuenta para hacer una descripción más completa.
+#+END_SRC
 ** Investigación en la gramática de creer
 #+BEGIN_SRC latex
-  \subsubsection{Investigación Gramática de `creer a $x$ que $p$'.}
   Anscombe pone el interés de su investigación en la forma de la expresión `creer a $x$ que $p$'\autocite[Cf.~][2]{anscombe2008faith:tobelieve}. Su análisis se va desenvolviendo a lo largo de la descripción de los usos de la expresión.
 
   \citalitinterlin{Si me dijeras `Napoleón perdió la batalla de Waterloo' y te digo `te creo' sería una broma}\footnote{\cite[4]{anscombe2008faith:tobelieve}: <<If you tell me `Napoleon lost the battle of Waterloo' and I say `I believe you' that is a joke.>>}. A primer golpe `creer a $x$ que $p$' parece que significa simplemente creer lo que alguien me dice, o creer que lo que me dice es verdadero. Sin embargo esto no es suficiente. Puede ser que ya crea lo que alguien me venga a decir. Puede ser que la comunicación suscite que forme mi propio juicio acerca de la verdad comunicada, pero aquí no podría decir que estoy creyendo al que comunica o que estoy contando con él para mi creer que $p$.
@@ -48,71 +61,7 @@
 
   Una persona a quien se dirige una comunicación puede \emph{fallar en creerla} si no nota la comunicación, o si notándola no la interpreta como lenguaje, o si notándola como lenguaje no la toma como dirigida hacia ella; o puede que crea todo esto, pero lo interprete incorrectamente, o puede que lo interprete bien pero no crea que viene realmente de $N$. En este tipo de casos la persona no ha descreido, sino que no ha llegado a estar en la situación de plantearse esa pregunta. Para poder llegar a preguntar si alguien cree a $x$ que $p$ habría que excluir o asumir como excluidos todos los casos en los que estas otras presuposiciones no se han cumplido. Es así que Anscombe concluye: \citalitlar{Supongamos que todas la presuposiciones están dadas. $A$ está entonces en la situación ---una muy común--- donde surge la pregunta sobre si creer o dudar (suspender el juicio ante) $NN$. Sin confusión por todas las preguntas que surgen por las presuposiciones, podemos ver que creer a alguien (en el caso particular) es confiar en él para la verdad -- en el caso particular. \footnote{\cite[9]{anscombe2008faith:tobelieve}: <<Let us suppose that all the presuppositions are in. $A$ is then in the situation ---a very normal one--- where the question arises of believing or doubting (suspending judgement in face of) $NN$. Unconfused by all the questions that arise because of the presuppositions, we can see that believing someone (in the particular case) is trusting him for the truth -- in the particular case.>>}.} Que $A$ crea a $N$ que $p$ implica que $A$ cree que en una comunicación, que puede venir de un productor inmediato, $N$ es el que habla y lo que dice es $p$ y esta comunicación está dirigida hacia $A$; entonces $A$, creyendo que $N$ cree que $p$, confia en $N$ sobre la verdad de $p$.
 #+END_SRC
-#+BEGIN_SRC latex
-   \subsubsection{Acceso al mundo más allá de la experiencia}
-   ¿Cómo accedemos a una idea del mundo más allá de nuestra experiencia personal?
-   Una de las cuestiones que Anscombe plantea como preámbulo a su análisis sobre el
-   `creer a alguien' tiene que ver con esta pregunta.
 
-   Hume diría que el puente que permite nuestro contacto con la realidad más allá
-   de nuestra experiencia es la relación
-   causa-y-efecto\autocite[Cf.~][3]{anscombe2008faith:tobelieve}. Inferimos las
-   causas desde sus efectos porque estamos acostumbrados a ver que causa y efecto
-   van juntas. Estas causas inferidas las verificamos en la percepción inmediata de
-   nuestra memoria o nuestros sentidos, o por medio de la inferencia de otras
-   causas verificadas del mismo
-   modo\autocite[Cf.~][88]{anscombe1981parmenides:humeandjulius}. Hume entonces
-   propone que la relación entre el testimonio y la verdad es de la misma clase,
-   inferimos la verdad del testimonio porque estamos acostumbrados a que vayan
-   juntas\autocite[Cf.~][3]{anscombe2008faith:tobelieve}.
-
-   Anscombe tacha de absurda esta visión del rol del testimonio en el conocimiento
-   humano\autocite[Cf.~][3]{anscombe2008faith:tobelieve} y le parece que
-   \citalitinterlin{el misterio es cómo Hume la pudo haber llegado a
-     sostener}\footnote{\cite[Cf.~][3]{anscombe2008faith:tobelieve}: <<the mystery
-     is how Hume could ever have entertained it.>>}. Entonces explica:
-   \citalitlar{Hemos de reconocer al testimonio como el que nos da nuestro mundo
-     más grande en no menor grado, o incluso en un grado mayor, que la relación de
-     causa y efecto; y creerlo es bastante distinto en estructura que el creer en
-     causas y efectos. Tampoco es lo que el testimonio nos da una parte
-     completamente desprendible, como el borde de grasa en un pedazo de filete. Es
-     más bien como las manchas y rayas de grasa que están distribuidas a través
-     de la buena carne; aunque hay nudos de pura grasa
-     también\footnote{\cite[3]{anscombe2008faith:tobelieve}:<<We must acknowledge
-       testimony as giving us our larger world in no smaller degree, or even in a
-       greater degree, than the relation of cause and effect; and believing it is
-       quite dissimilar in structure from belief in causes and effects. Nor is what
-       testimony gives us entirely a detachable part, like the thick fringe of fat
-       on a chunk of steak. It is more like the flecks and streaks of fat that are
-       distributed through good meat; though there are lumps of pure fat as
-       well>>}.} Elizabeth considera que la mayor parte de nuestro conocimiento de
-   la realidad está apoyado en la creencia que tenemos en las cosas que se nos han
-   enseñado o dicho\autocite[Cf.~][3]{anscombe2008faith:tobelieve}. Para ella, la
-   investigación acerca de `creer a alguien' no sólo es del interés de la teología
-   o de la filosofía de la religión, sino de enorme importancia para la teoría del
-   conocimiento\autocite[Cf.~][3]{anscombe2008faith:tobelieve}.
-
-   La ruta de análisis que Anscombe abre con esta propuesta consiste en una
-   descripción más adecuada de la `estructura del creer en el testimonio' como una
-   estructura distinta de la relación causa y efecto. Aquí la descripción vista
-   sobre el `creer a algiuen' ha ofrecido ya pistas valiosas. Sin embargo, Anscombe
-   aborda el tema en otras discusiones y es necesario tenerlas en cuenta para hacer
-   una descripción más completa.
-#+END_SRC
-** `Creer a alguien' como `Fe'
-#+BEGIN_SRC latex
-   \subsubsection{`Creer a alguien' como `Fe'}
-   Una segunda cuestión que aparece como preámbulo en la investigación de Anscombe
-   es planteada así: \citalitinterlin{Si las palabras siempre guardaran sus
-     antiguos valores, podría haber llamado mi tema `Fe'. Este corto término ha
-     sido usado en el pasado justo con este significado, el de creer a
-     alguien}\footnote{\cite{anscombe2008faith:tobelieve}: <<If words always kept
-     their old values, I might have called my subject `Faith'. That short term has
-     in the past been used in just this meaning, of believing someone.>>}. Este uso
-   de la expresión sera útil para Anscombe en su análisis del uso de la palabra
-   `fe'. Su descripción estará enfocada en `fe' como `creer a Dios que $p$'. Esta
-   segunda ruta será explorada más adelante.
-#+END_SRC
 ** Creer a quien habla rectamente
 #+BEGIN_SRC latex
    \subsubsection{Creer a quien habla rectamente}
