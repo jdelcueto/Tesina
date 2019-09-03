@@ -259,13 +259,13 @@ http://www.worldcat.org/oclc/873936079
   keywords={Anscombe Elizabeth; Ethics; Religion; Politics; Primary Source}
   }
 #+END_SRC
-***** Faith
+***** Modern Moral Philosophy
 #+BEGIN_SRC bibtex :tangle primary.bib
-  @incollection{anscombe1981erp:faith,
-  title={Faith},
+  @incollection{anscombe1981erp:mmph,
+  title={Modern Moral Philosophy},
   crossref={anscombe1981erp},
-  pages={113-120},
-  keywords={Anscombe; Faith; Religion; Primary Source}
+  pages={26-42},
+  keywords={Anscombe; Transusbstantiation; Religion; Primary Source}
   }
 #+END_SRC
 ***** On Transubstantiation
@@ -278,6 +278,15 @@ http://www.worldcat.org/oclc/873936079
   }
 #+END_SRC
 
+***** Faith
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe1981erp:faith,
+  title={Faith},
+  crossref={anscombe1981erp},
+  pages={113-120},
+  keywords={Anscombe; Faith; Religion; Primary Source}
+  }
+#+END_SRC
 *** En Philosophical Encounters
 #+BEGIN_SRC bibtex :tangle primary.bib
  @incollection{anscombe1991aqp,
@@ -418,6 +427,14 @@ keywords={Anscombe Elizabeth; Primary Source; St Andrews}
   crossref={anscombe2011plato},
   keywords={Anscombe Elizabeth; Wittgenstein; Logic; Parmenides; Primary Source},
   abstract={}
+  }
+#+END_SRC
+***** Hume on causality: introductory
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe2011plato:humecaus,
+  title={Hume on Causality: Introductory},
+  crossref={anscombe2011plato},
+  keywords={Anscombe Elizabeth; Hume; Belief; Primary Source}
   }
 #+END_SRC
 
@@ -765,16 +782,16 @@ location = {Maryland},
 *** Cartas de Anscombe
 #+BEGIN_SRC bibtex :tangle secondary.bib
  @article{NWR,
-	 author = {Christian Eric Erbacher and Sophia Krebs},
-	 title = {The First Nine Months of Editing Wittgenstein - Letters from G.E.M.
+     author = {Christian Eric Erbacher and Sophia Krebs},
+     title = {The First Nine Months of Editing Wittgenstein - Letters from G.E.M.
                    Anscombe and Rush Rhees to G.H. von Wright},
-	 journal = {Nordic Wittgenstein Review},
-	 year = {2015},
-	 keywords = {Wittgenstein Ludwig; Wittgenstein's Nachlass; scholarly editing;
+     journal = {Nordic Wittgenstein Review},
+     year = {2015},
+     keywords = {Wittgenstein Ludwig; Wittgenstein's Nachlass; scholarly editing;
                    history of analytical philosophy; Philosophical
                    Investigations; Anscombe Elizabeth; Rhees Rush; Wright G.H.
                    von},
-	 abstract = {The National Library of Finland (NLF) and the Von Wright and
+     abstract = {The National Library of Finland (NLF) and the Von Wright and
                    Wittgenstein Archives at the University of Helsinki (WWA) keep
                    the collected correspondence of Georg Henrik von Wright,
                    Wittgenstein’s friend and successor at Cambridge and one of
@@ -798,9 +815,9 @@ location = {Maryland},
                    philosopher, but with the attempt to do justice to the man
                    they knew, to his philosophy and to his wishes for
                    publication.},
-	 issn = {2242-248X},
-	 pages = {195--231},
-	 url = {https://www.nordicwittgensteinreview.com/article/view/3288}
+     issn = {2242-248X},
+     pages = {195--231},
+     url = {https://www.nordicwittgensteinreview.com/article/view/3288}
  }
 #+END_SRC
 ** Exegesis de Investigaciones Filosóficas
@@ -1077,6 +1094,7 @@ keywords = "coady, testimony",
 }
 #+END_SRC
 ** David Hume
+*** An Enquiry Concerning Human Understanding
 #+BEGIN_SRC bibtex :tangle secondary.bib
 @book{hume1777enquiry,
 author = "David Hume",
@@ -1090,6 +1108,20 @@ year = "1993",
 keywords = "hume, philosophy",
 }
 #+END_SRC
+*** A Treatise of Human Nature
+Amazon: https://www.amazon.com/dp/0198751729/ref=rdr_ext_tmb
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@book{hume1740treatise,
+author = "David Hume",
+editor = "Mary J Norton and David Fate Norton",
+title = "A Treatise of Human Nature",
+publisher = "Oxford University Press",
+location = "Oxford",
+year = "2000",
+keywords = "hume, philosophy"
+}
+#+END_SRC
+
 ** Gotthold Ephraim Lessing
 *** Philosophical and Theological Writings
 #+BEGIN_SRC bibtex :tangle secondary.bib
