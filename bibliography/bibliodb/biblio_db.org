@@ -1180,7 +1180,7 @@ publisher={University of Notre Dame Press},
 year={1979},
 }
 #+END_SRC
-
+** Robert Masson
 #+BEGIN_SRC bibtex :tangle secondary.bib
   @article{masson1981,
   title={Rationality and Religious Belief. Edited by C. F. Delaney. Notre Dame},
