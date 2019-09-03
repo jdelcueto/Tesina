@@ -3,7 +3,7 @@
 
 * [[./staging/main.pdf][Documento en desarrollo]]  //  Documento Final (pronto?)
 
-* TODO Progreso Realizado [35%]
+* TODO Progreso Realizado [40%]
 ** DONE Cap. 1: Introducción General al Problema del Testimonio [100%]
 *** DONE Naturaleza de la pregunta sobre el testimonio [100%]
     CLOSED: [2019-04-12 Fri 09:49]
@@ -52,8 +52,8 @@
         - [ ] Oxford: percepción y fenomenalismo de H.H. Price
         - [ ] Cambridge: filosofía analítica
         - [ ] Profesora y Catedrática
-** TODO Cap. 3: La Concepción de G.E.M. Anscombe Sobre el Testimonio [25%]
-*** TODO Análisis Diacrónico [57%]
+** TODO Cap. 3: La Concepción de G.E.M. Anscombe Sobre el Testimonio [50%]
+*** TODO Análisis Diacrónico [71%]
         - [X] Prophecy and Miracles (1957) [100%]
           + [X] Información del Texto
           + [X] Introducción: Plantieamiento de la Cuestión
@@ -65,7 +65,11 @@
           + [X] Sobre el documento
           + [X] I. ¿Qué es transubstanciación?
           + [X] II. ¿Qué es lo que la eucaristía simboliza?
-        - [ ] Hume and Julius Caesar (1973) [0%]
+        - [X] Hume and Julius Caesar (1973) [100%]
+          + [X] Intro: Sobre el documento e interés en Hume
+          + [X] Cuestión sobre creencias más alla de impresiones
+          + [X] "Catching Hume on his mistake"
+          + [X] "Out-huming Hume"
         - [X] Faith (1975) [100%]
           + [X] Sobre el documento y cuestión
           + [X] 'Fe' como 'creer a Dios que p'
