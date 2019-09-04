@@ -413,6 +413,108 @@ profecías (o si estas pueden apelar a un juez externo o historiador apático)
 
 
 * Parmenides, Mystery and Contradiction
+
+  ``Being'' puede ser un nombre abstracto, equivalente al infinitivo ``to be'', pero Parmenides no trata to be como un objeto, sino being, something being or some being thing.
+
+  Es dificil usar el participio en inglés en el modo requerido, y podemos acercarnos al sentido diciendo ``what is''
+
+  Una dificultad similar se encuentra en su descripción de las dos rutas del
+  pensamiento
+  es, y no puede ser
+  no es y necesariamente no puede ser
+
+  These are the only ways of enquiry for thought: one 'is and cannot not be'... the other 'is not, and needs must not be'
+
+  ἔστιν τε καὶ ὡς οὐκ ἔστι μὴ εἶναι,
+
+  οὐκ ἔστιν τε καὶ ὡς χρεών ἐστι μὴ εἶναι,
+
+  lo notable de esto es la
+  combinación de ``es'' con ``no puede no ser''
+  y ``no es'' con ``no puede ser''
+
+  Esto necesita argumento: hemos visto cuál es:
+  lo que no es es nada, y no es posible para lo que es nada que sea
+  y por tanto, ambos lo que sea que puede ser tiene que ser, y lo que pueda ser pensado tiene que ser; puesto que es lo mismo que lo que puede ser
+
+  the proposition shows how things are if it is true, and says that is how they
+  are (whether it is asserted or not)
+
+  w has language pinned to reality
+
+  Parmenides opera bajo el presupuesto de que ..
+
+  Detrás de este análisis está la distinción hecha por Anscombe entre lo mencionado como existente y lo sostenido en la proposición. (puede predicarse en una proposición algo que no es posible o contradictorio sin afirmar lo contradictorio en la existencia)
+
+  sentido y objeto. El sentido de la afirmación es su uso
+
+  no pretendimos mencionar nada cuando dijimos ``Con respecto a lo que no es''
+
+  de la segunda premisa como no creíble está el juicio de
+  Anscombe de que Parmenides tiene en su argumentación
+  \blockquote[{\cite[x]{anscombe1981parmenides}}: \textelp{} the assumption that a significant term is a name of an object which is either expressed or characterized by the term.]{\textelp{} la suposición de que un término significativo es un nombre de un objeto que queda expresado o caracterizado por el término.}
+
+  For Parmenides, as for Plato, ``being'' is the only term that expresses being, but for Parmenides such other terms as are not names of nothing are other names of being.
+
+  What they express is what is true of being, so they characterize it as well as naming it.
+
+  consiste en que emplear un predicado autocontradictorio en una oración no implica que estamos comprometidos con la autocontradicción en la existencia. No es cierto que cuando
+  usamos cuantificadores para unir variables de propiedades con variables de objetos estamos mencionando propiedades u objetos.
+
+  % Si estoy en lo correcto, los antiguos nunca argumentaron desde las limitaciones de lo que puede constituir un pensamiento a las restricciones de lo que puede ser, sino al reves.
+
+  % los antiguos argumentaron desde las restricciones de lo que puede ser cuales son las limitaciones de lo que puede constituir un pensamiento
+
+  % yayayayaya aquí está!!!!!!!!!!!!!!
+
+  % la magnitud de lo que puede existir es la que dicta lo que puede llegar a constituir un pensamiento!!!!!
+
+  % parmenides llega a decir que el ser único tiene muchos nombres, lo único que no es el ser es lo que no es.
+
+  % Aquí hay algo relacionado con que denominamos lo que es....
+
+  % Anscombe juzga que el argumento completo es válido sólo si se entie
+
+  % Anscombe se fija en varias cosas:
+
+  % en primer lugar:
+  % x
+  % the assumption that a significant term is a name of an object which is either
+  % expressed or characterized by the term.
+
+  % For Parmenides ... ``being'' is the only term that expresses being, but ... such
+  % other terms as are not names of nothing are other names of being.
+
+  % What they express is what is true of being, so they characterize it as well as
+  % naming it.
+
+  % If we take Parmenides as simply warning us off the path of thinking there are
+  % things that do not exist, then he seems no more than good sense. But when we
+  % combine this with the idea that being is an object, we get his wilder results.
+
+  % being is treated as an object (what is)
+  % to be is not treated as an object
+
+  % similar difficulty about Parmenides' description of the two paths of thought
+
+  % La conclusió será
+
+  % pero antes de llegar a esto da varios pasos
+
+  % Anscombe analizará estas dos premisas y su conclusión y llegará a una conclusión
+  % equivalente a la afirmación Wittgensteiniana:
+  % \blockquote[{\cite[8]{anscombe1981parmenides:pmc}}: ``whatever can be said at
+  % all can be said clearly'']{todo lo que puede ser expresado en absoluto puede ser
+  %   expresado claramente}.
+
+  % Estas premisas y su conclusión
+  % son las que Anscombe utilizará en su análisis.
+
+
+
+
+
+
 Pq dice ella que tienen el mejor
 approach? Hay que añadir el otro parrafo sobre idealismo y el assumption de
 being como un objeto
