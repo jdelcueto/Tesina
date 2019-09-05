@@ -60,7 +60,12 @@
           + [X] Preámbulo: Análisis del argumento de Lessing
           + [X] Análisis del Punto central del Argumento
           + [X] Conclusiones
-        - [ ] Parmenides, Mystery and Contradiction (1969) [0%]
+        - [-] Parmenides, Mystery and Contradiction (1969) [40%]
+          + [X] Sobre el documento
+          + [X] El argumento de Parmenides
+          + [ ] Los presupuestos de Parmenides
+          + [ ] Los presupuestos de Anscombe
+          + [ ] Lo que puede decirse del todo puede ser dicho claramente
         - [X] On Transubstantiation (1974) [100%]
           + [X] Sobre el documento
           + [X] I. ¿Qué es transubstanciación?
