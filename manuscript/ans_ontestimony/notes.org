@@ -413,14 +413,52 @@ profecías (o si estas pueden apelar a un juez externo o historiador apático)
 
 
 * Parmenides, Mystery and Contradiction
+*At the present day we are often perplexed with enquiries about what makes true, or what somtehing's being thus or so /consists in/; and the answer to this is thought to be an explanation of meaning. If there is no external answer, we are apparently commited to a kind of idealism.*
 
-  ``Being'' puede ser un nombre abstracto, equivalente al infinitivo ``to be'', pero Parmenides no trata to be como un objeto, sino being, something being or some being thing.
+*What Plato has in common with Parmenides is the assumption that a significant term is a name of an object which is either expressed or characterized by the term.*
 
-  Es dificil usar el participio en inglés en el modo requerido, y podemos acercarnos al sentido diciendo ``what is''
+*The assumption common to Plato and Parmenides is an ancestor of much philosophical theorizing and perplexity.*
 
-  Una dificultad similar se encuentra en su descripción de las dos rutas del
-  pensamiento
-  es, y no puede ser
+*it is false that one mentions either properties or objects when one uses the quantifiers binding property variables and object variables... we are [not] commited to self-contradiction in existence just because we are willing to use a self-contradictory predicate --- so that our property-variable is admitted to range over self-contradictory properties*
+
+Anscombe da por hecho que podemos pensar impossible pictures
+
+también da por hecho que podemos decir algo sin mencionar algo
+
+también da por hecho que podemos usar cuantificadores para relacionar objetos con propiedades si que eso implique afrimar auto-contradicción en la existencia
+
+Qué es para Parmenides 'be' y 'think'?
+
+Being = object abstract noun equivalent to 'what is'
+to be = property (not object)
+
+two paths of thought:
+is, and must be
+is not, and can't be
+
+the combination is noteworthy, the argument for this was
+
+what is not is nothing and it is not possible for what is nothing to be;
+and so both whatever can be must be, and what can be thought of must be; for it is the same as what can be
+
+White head's remark about Plato might, somewhat narrowly, be applied to his great predecessor:
+
+Subsequent philosophy is footnotes on Parmenides.
+
+    In a somewhat narrow sense, subsequent philosophy is footnotes on Parmenides.
+
+    In what sense?
+
+
+** At the background of the whole disscusion is W's language description
+
+
+** From the intro...
+"Being'' puede ser un nombre abstracto, equivalente al infinitivo "to be'', pero Parmenides no trata to be como un objeto, sino being, something being or some being thing.
+
+  Es dificil usar el participio en inglés en el modo requerido, y podemos acercarnos al sentido diciendo "what is''
+
+  Una dificultad similar se encuentra en su descripción de las dos rutas del  pensamiento es, y no puede ser
   no es y necesariamente no puede ser
 
   These are the only ways of enquiry for thought: one 'is and cannot not be'... the other 'is not, and needs must not be'
@@ -575,14 +613,9 @@ our property-variable is admitted to range over self-contradictory properties
 term is a name of an object which is either expressed or characterized by the
 term.
 
--> The assumption common to Plato and Parmenides is an ancestor of much
-philosophical theorizing and perplexity.
-in Aristotle...theory of substance
-in Descartes... descriptive terms of false pictures must stand for realities
-in Hume... assumption that an object corresponds ot a term...
-in Brentano... thinks that mere predictaive connection of terms is an acknowledgement
+-> The assumption common to Plato and Parmenides is an ancestor of much philosophical theorizing and perplexity. in Aristotle...theory of substance in Descartes... descriptive terms of false pictures must stand for realities in Hume... assumption that an object corresponds ot a term... in Brentano... thinks that mere predictaive connection of terms is an acknowledgement
 
-For Parmenides, as for Plato, ``being'' is the only term that expressed
+For Parmenides, as for Plato, "being'' is the only term that expressed
 being, but for Parmenides such other terms as are not names of nothing are other
 names of being.
 
