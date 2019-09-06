@@ -370,7 +370,6 @@ keywords={Anscombe Elizabeth; Primary Source; St Andrews}
   }
 #+END_SRC
 
-
 **** From Plato to Wittgenstein
 #+BEGIN_SRC bibtex :tangle primary.bib
 @mvcollection{anscombe2011plato,
@@ -854,7 +853,6 @@ keywords={}
 }
  #+END_SRC
 
-
 #+BEGIN_SRC bibtex :tangle secondary.bib
 @mvbook{bakerhacker2014rules,
 title={Wittgenstein: Rules, Grammar and Necessity},
@@ -869,6 +867,21 @@ year={2014},
 keywords={}
 }
  #+END_SRC
+
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@mvbook{hacker2000mind,
+title={Wittgenstein: Mind and Will},
+subtitle={Exegesis \S\S428--693},
+author={Peter Michael Stephan Hacker},
+series={An Analytical Commentary on the Philosophical Investigations},
+volume={4},
+part={2},
+publisher={Wiley Blackwell},
+year={2000},
+keywords={}
+}
+ #+END_SRC
+
 
 ** Wittgenstein at Work
 #+BEGIN_SRC bibtex :tangle secondary.bib
