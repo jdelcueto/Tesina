@@ -555,11 +555,6 @@ but that doesn't imply that you can say that there may be what can't be thought,
   % Estas premisas y su conclusión
   % son las que Anscombe utilizará en su análisis.
 
-
-
-
-
-
 Pq dice ella que tienen el mejor
 approach? Hay que añadir el otro parrafo sobre idealismo y el assumption de
 being como un objeto
@@ -631,8 +626,6 @@ or what something's being thus or so consists in; and the answer to this is
 thought to be an explanation of meaning. If there is no external answer, we are
 apparently commited to a kind of idealism.
 
-
-
 it is false that one mentions either properties or objects when one uses the
 quantifiers binding property variables and object variables... Parmenides is
 deprived of his claim that we are committed to self-contradiction in existence
@@ -644,11 +637,6 @@ grasp a thought which we cannot clear up---cannot, bacause of our human
 finitude.
 
 can we dismiss the possibility that this enigmatic sense is a truth?
-
-
-
-
-
 
 ** Información del texto y planteamiento de la cuestión
 **** Ponencia en el Aristotle Society
@@ -670,32 +658,21 @@ can we dismiss the possibility that this enigmatic sense is a truth?
 **** What can be grasped in thought = can be presented...
 **** Mere abracadabra
 
-Teichmann 193: Another theme of the Tractatus which Anscombe always took very
-seriously was that of the relationship between thinlability and possibility...
-It is characteristic of Anscombe to have drawn such diverse figures as
-parmenides, plato, hume and Wittgenstein into a single discussion. In the
-Introduction to FPW, she writes: ... it was left to the moderns to deduce... but
-the ancients had the better approach... as the tractatus puts it...
+Teichmann 193: Another theme of the Tractatus which Anscombe always took very seriously was that of the relationship between thinlability and possibility...
+It is characteristic of Anscombe to have drawn such diverse figures as parmenides, plato, hume and Wittgenstein into a single discussion. In the Introduction to FPW, she writes: ... it was left to the moderns to deduce... but the ancients had the better approach... as the tractatus puts it...
 
 211: but for there to be a belief, you would need to be able, at least in
 principle, to state that belief clearly and without contradiction?
 
-In Parmenides, Mystery and Contradiction, Anscombe considers the view that can
-be grasped in thought amounts to can be presented in a sentence which can be
-seen to have an unexceptionable non-contradictory sense.
+In Parmenides, Mystery and Contradiction, Anscombe considers the view that can be grasped in thought amounts to can be presented in a sentence which can be seen to have an unexceptionable non-contradictory sense.
 
 
 Análisis:
 Poema del ser de Parménides
-
 III ... τὸ γὰρ αὐτὸ νοεῖν ἐστίν τε καὶ εἶναι.
-
 VI Χρὴ τὸ λέγειν τε νοεῖν τ΄ ἐὸν ἔµµεναι· ἔστι γὰρ εἶναι, µηδὲν δ΄ οὐκ ἔστιν· τά σ΄ ἐγὼ
 φράζεσθαι ἄνωγα.
-
-
 VIII οὐ γὰρ φατὸν οὐδὲ νοητόν ἔστιν ὅπως οὐκ ἔστι
-
 
 In sensu composito: every F is a G = everything that is an F is also a G (generality)
 
