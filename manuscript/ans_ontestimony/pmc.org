@@ -115,7 +115,24 @@ El misterio sería entonces una ilusión
 
 Pero no hay realmente fundamento para esto, es un tipo de prejuicio
 
-The issue is of
+The issue is of what can or cannot be clarified or expressed clearly. Note that the candidate gloss on `can be grasped in thought' is not `can be presented in a sentence which has an unexceptionable non-contradictory sense', but rather `can be presented in a sentence which can be seen to have an unexceptionable non-contradictory sense'.
+
+Could these two phrases be non-equivalent?
+
+One is tempted to say: `If a sentence has a non-contradictory sense, then it can in principle be seen to have one---and vice versa.' The function of the phrase `in principle' would be to indiciate that a merely psychological or empirical inability to grasp something is irrelevant to our enquiry.
+
+A logical formula may be too long for any human being to calculate its sense in a lifetime; but for all that (the thought goes) the formula would, if well formed, have a determinate sense. Something like this view must, I think, be attributed to the Wittgenstein of the Tractatus.
+
+El asunto es sobre lo que puede o no puede ser clarificado o expresado claramente. Hay que notar que la explicación candidata de `puede ser captada en el pensamiento' no es `puede ser presentada en una oración que tenga un sentido irreprochablemente no-contradictorio', sino más bien `puede ser presentado en una oración que puede ser vista como teniendo un sentido irreprochablemente no-contradictorio'.
+
+¿Podría estas dos frases ser no equivalentes?
+
+Podríamos estar tentados a decir: `Si una oración tiene un sentido no-contradictorio, entonces podría en principio ser visto que lo tiene---y vice versa.' La función de la frase `en principio' sería indicar que una incapacidad para captar algo es irrelevante para nuestra indagación.
+
+Una fórmula lógica podría ser muy larga como para que cualquier ser humano pudiera calcular su sentido en su vida; pero con todo y eso (va el pensamiento) la formula podría, si bien formada, tener un sentido determinado. Algo como esta visión debe, pienso, ser atribuída a el Wittgenstein del Tractatus.
+
+
+
 
 #+END_SRC
 
