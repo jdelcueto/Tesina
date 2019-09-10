@@ -92,6 +92,11 @@ trust if we are to believe them at all. But trust can manifest intellectual virt
 En on transubstantiation anscombe no propone que se anime al niño a visualizar en la mente, sino a entrar en una actividad
 
 
+\blockquote[{\cite[211]{teichmann2008ans}}: It might be thought that a religious person who regards certain articles of faith as `mysteries' is more or less bound to embrace nonsense or self-contradiction; for what \emph{is} a mystery such as that of the Trinity, or of the Incarnation, or of the Eucharistic Transubstantiation, if not something whose appearance of incoherence cannot be dispelled by reason? If somebody utters `I believe' in connection with such mysteries, won't we be entitled to say, along with Wittgenstein: `But is this a belief, a thought at all? Perhaps there is a state of enlightenment, or an urge to find expression for certain experiences of life---but for there to be a belief, you would need to be able, at least in principle, to state that belief clearly and without contradiction'?]{Puede ser pensado que una persona religiosa que considera ciertos artículos de fe como `misterios' está en mayor o menor grado obligada a abrazar el sinsentido o la auto-contradicción; pues ¿qué \emph{es} un misterio como el de la Trinidad, o el de la Encarnación, o el de la Transubstanciación Eucarística, si no algo cuya apariencia de incoherencia no puede ser disipada por la razón? Si alguien dice `Yo creo' en conexión con tales misterios, ¿no estaríamos autorizados a cuestionar, junto con Wittgenstein: `¿Pero es esto una creencia, un pensamiento en absoluto? Quizás haya ahí un estado de iluminación, o un deseo de encontrar expresión para ciertas experiencias de la vida\,---\,pero para que haya una creencia, deberías ser capaz, al menos en principio, de enunciar esa creencia claramente y sin contradicción'?}
+
+
+
+
 * De hume in juluis caesar
 ** no es posible continuar infinitamente una cadena de inferencias
 :TEXT:

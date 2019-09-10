@@ -775,6 +775,96 @@ second premise be taken in sensu diviso... in which it isn't credible
 - Explicitly compares this view with that expressed in the Preface to the Tractatus,
   that `whatever can be said at all can be said clearly'.
 - Having in mind Wittgenstein's notion of what is shown or made manifest, she goes on
+
+Only what can be thought of can exist
+What is not can't be thought of
+What is not can't be
+
+Only what can be thought can be,
+what is not cannot be thought
+therefore what is not cannot be
+
+He who thinks, thinks something
+He who thinks what is not, thinks nothing
+Therefore he who thinks what is not is not thinking
+
+which is certainly an argument for what is not cannot be thought
+
+whatever is going on, it can't be thinking if, if it is thinking, it is thinking what is not
+
+however the ground for this is that what is not is nothing and this would lead to what is not cannot be...........
+
+it is more natural to hold that what is nothing cannot be than to go via only what can be thought can be
+
+
+Primero intenta el argumento cambiando el sujeto de la segunda premisa
+
+además intenta poner wittingly, es decir, intenta esta forma:
+Only what can be thought to be the case by someone who has in mind all the implications of what he thinks can be the case
+but if this were true, nothing could be the case
+
+Parece que dirige nuestra atención a las posibilidades del pensamiento
+
+Si intentamos la negación de la proposición obtenemos
+
+Puede haber lo que no puede ser pensado
+
+Pero no sería satisfactiorio poder refutar esto?
+
+Si pudieramos probar el principio de Parmenides podríamos decir
+
+Entonces esto parece sugerir algo que puede caracterizar lo que puede ser pensado
+
+Ahora bien Anscombe rechaza que afirmar que lo que puede decirse del todo se puede decir claramente implique afirmar que puede haber lo que no puede ser pensado
+
+El misterio sería entonces una ilusión
+
+Pero no hay realmente fundamento para esto, es un tipo de prejuicio
+
+The issue is of what can or cannot be clarified or expressed clearly. Note that the candidate gloss on `can be grasped in thought' is not `can be presented in a sentence which has an unexceptionable non-contradictory sense', but rather `can be presented in a sentence which can be seen to have an unexceptionable non-contradictory sense'.
+
+Could these two phrases be non-equivalent?
+
+One is tempted to say: `If a sentence has a non-contradictory sense, then it can in principle be seen to have one---and vice versa.' The function of the phrase `in principle' would be to indiciate that a merely psychological or empirical inability to grasp something is irrelevant to our enquiry.
+
+A logical formula may be too long for any human being to calculate its sense in a lifetime; but for all that (the thought goes) the formula would, if well formed, have a determinate sense. Something like this view must, I think, be attributed to the Wittgenstein of the Tractatus.
+
+The later Wittgenstein would reject it; hence his remarks to the effect that an unsurveyable proof in mathematics is not a real proof. It is an interesting question wether the later Wittgenstein can still be seen as committed to the equivalence mentioned by Anscombe, between `can be grasped in thought' and `can be presented in a sentence which can be seen to have an unexceptionable non-contradictory sense', given a reading of `can be seen to have' which connects it with empirical human possibility.
+
+Whatever the answer to that question, the equivalence is rejected by Anscombe; or rather it is taken as wanting justification, as is shown by the closing words of PMC, which follow on immediately after the passage just quoted: `The trouble is, there doesn't seem to be any ground for holding this position. It is a sort of prejudice'.
+
+Anscombe would certainly admit that `can be grasped in thought' is incompatible with `can only be presented in a sentence with a contradictory sense'.
+
+Just before her description of Wittgesntein's attitude to Agustine's `He moves without moving', she writes: `what [given what he says about following a rule] will Wittgenstein say about ``illogical'' thinking? As I would, that it isn't thinking?'. An impossible thought is an impossible tought.
+
+What Anscombe is trying to make room for is the idea of grasping a thought which cannot be cleared up, i.e. cannot be shown to have a non-contradictory sense. And this means: cannot be shown by us to have a non-contradictory sense. She is raising the possibility of a person's grasping a thought, even though the sentence expressing it `cannot be seen to have an unexceptionable non-contradictory sense'---seen by us, that is. It is the idea that lies behind her account of what a mystery is:
+
+In the Catholic faith, certain beliefs (such as the Trinity, the Incarnation, the Eucharist) are called `mysteries'; this means at the very least that it is neither possible to demonstrate them nor possible to show once for all that they are not contradictory and absurd. On the other hand contradiction and absurdity is not embraced; `This can be disproved, but I still believe it' is not an attitude of faith at all.
+
+The departure from Wittgenstein consists in saying that we might be able to grasp a thought which we cannot clear up---cannot, because of our human finitude. The problem for Anscombe is how to distinguish amystery from sheer nonsense. She imangines someone producing a sentence and saying `This is true, but what it says is irreducibly enigmatic':
+
+Of course if the sentence is mere abracadabra no one will take any notice. But suppose the sentence is not abracadabra but yet there are difficulties about claiming an unexceptionable sense for it? If that is the situation, can we dismiss the possibility that this enigmatic sense is a truth?
+
+El asunto es sobre lo que puede o no puede ser clarificado o expresado claramente. Hay que notar que la explicación candidata de `puede ser captada en el pensamiento' no es `puede ser presentada en una oración que tenga un sentido irreprochablemente no-contradictorio', sino más bien `puede ser presentado en una oración que puede ser vista como teniendo un sentido irreprochablemente no-contradictorio'.
+
+¿Podría estas dos frases ser no equivalentes?
+
+Podríamos estar tentados a decir: `Si una oración tiene un sentido no-contradictorio, entonces podría en principio ser visto que lo tiene---y vice versa.' La función de la frase `en principio' sería indicar que una incapacidad para captar algo es irrelevante para nuestra indagación.
+
+Una fórmula lógica podría ser muy larga como para que cualquier ser humano pudiera calcular su sentido en su vida; pero con todo y eso (va el pensamiento) la formula podría, si bien formada, tener un sentido determinado. Algo como esta visión debe, pienso, ser atribuída a el Wittgenstein del Tractatus. El Wittgenstein tardío lo rechazaría; de ahí sus comentarios al efecto de que una demostración matemática inconmensurable no es una verdadera demostración.
+
+Es una pregunta interesante si el Wittgenstein tardío podría verse todavía como comprometido con la equivalencia mencionada por Anscombe, entre `puede ser captada en el pensamiento' y `puede ser presentada en una oración que pueda ser vista como teniendo un sentido irreprochablemente no-contradictorio', dada una lectura de `puede ser visto que tenga' que la conecte con la posibilidad humana empírica.
+
+Cualquiera que sea la respuesta a esa pregunta, la equivalencia es rechazada por Anscombe; o más bien es tenida como necesitada de justificación, como queda mostrado en las palabras que cierran PMC, que siguen inmediatamente después del pasaje antes citado: `El problema es que no parece haber ningún fundamento para sostener esta postura. Es una especie de prejuicio.'
+
+Anscombe ciertamente admitiría que `puede ser captado en el pensamiento' es incompatible con `solo puede ser presentado en una oración con un sentido contradictorio'.
+
+Justo antes de su descripción de la actitud de Wittgenstein al `Mueve sin moverse', ella escribe: `¿qué [dado lo que dice sobre seguir una regla] dirá Wittgenstein sobre pensar ``ilógicamente''? ¿Como diría yo, que no es pensar?'. Un pensamiento imposible es un pensamiento imposible.
+
+Para lo que Anscombe está haciendo espacio es la idea de captar un pensamiento que no pueda ser aclarado, a saber, que no pueda ser mostrado como teniendo un sentido no contradictorio. Y esto significa: no puede ser mostrado por nosotros como teiendo un sentido no-contradictorio. Está proponiendo la posibilidad de que una persona este captando un pensamiento, incluso cuando la oración que la expresa `no puede ser vista como teniendo un sentido irreprochablemente no-contradictorio'---visto por nosotros, esto es. Es la idea que está detras de su descripción de lo que es un misterio:
+
+En la fe católica, ciertas creencias (como son la Trinidad, la Encarnación, la Eucaristía) son llamadas `misterios'; esto significa en el mejor de los casos que a la vez no es posible demostrarlos ni es posible mostrar de una vez por todas que no son contradictorios y absurdos. Por otra parte la contradicción y lo absurdo no son abrazados; `Esto puede ser refutado, pero aún así lo creo' no es para nada una actitud de fe.
+
 * Hume and Julius Caesar
 ** Reference
 *** Treatise of Human Nature
