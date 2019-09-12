@@ -196,6 +196,17 @@ http://www.worldcat.org/oclc/299374922
   abstract={}
   }
 #+END_SRC
+
+***** The Question of Linguistic Idealism
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe1981parmenides:qli,
+  title={The Question of Linguistic Idealism},
+  crossref={anscombe1981parmenides},
+  keywords={Anscombe Elizabeth; Wittgenstein; Logic; Parmenides; Primary Source},
+  abstract={}
+  }
+#+END_SRC
+
 **** Metaphysics and the Philosophy of the Mind
 :worldcat:
  http://www.worldcat.org/oclc/10430565

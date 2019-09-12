@@ -36,6 +36,9 @@ final
 
 \SetBlockThreshold{3}
 
+%\makeatletter
+%\patchcmd{\csq@bquote@i}{{#6}}{{\emph{#6}}}{}{}
+%\makeatother
 
 %\makeatletter
 %\DeclareQuoteStyle{threelevel}
@@ -55,6 +58,11 @@ final
 \usepackage{verbatim}
 %Easy Lists
 \usepackage[ampersand]{easylist}
+
+
+%\usepackage{fixltx2e}
+%\renewcommand\eminnershape{\scshape}
+
 
 
 % STYLE
