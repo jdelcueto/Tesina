@@ -1,5 +1,5 @@
 \ProvidesPackage{style}
-%____________________________________________________________________________________________
+%_______________________________________________________________________________
 %Debes recordar, que todo trabajo científico debe incorporar:
     %Cubierta
     %Hoja en blanco
@@ -13,7 +13,7 @@
         %o Cuerpo de la tesina/tesis
         %o Conclusión
     %Índice de nombres / materias / citas bíblicas / particularizado (opcional)
-%--------------------------------------------------------------------------------------------
+%-------------------------------------------------------------------------------
 
 %PAPER-------------------------------
 %[Tamaño de papel]
@@ -23,7 +23,7 @@
 \usepackage[a4paper,inner=2.5cm, outer=6.5cm, top=6cm, bottom=6cm,
 marginparwidth=5cm, marginparsep=1cm]{geometry}
 
-%\usepackage[a4paper,inner=2cm, outer=2cm, top=2cm, bottom=2cm,
+%\usepackage[letterpaper,inner=2cm, outer=2cm, top=2cm, bottom=3cm,
 %marginparwidth=2cm, marginparsep=0cm]{geometry}
 
 %LANGUAGE-----------------------------
@@ -70,16 +70,47 @@ marginparwidth=5cm, marginparsep=1cm]{geometry}
 \usepackage[no-math]{fontspec}
 %\usepackage{fontspec}
 \usepackage{xltxtra,xunicode}
+
 %Font: ARIAL UNICODE REPLACEMENT:TeX Gyre(http://www.gust.org.pl/projects/e-foundry/tex-gyre/)
-\setmainfont[
-    Extension=.otf,
-    UprightFont= *-regular,
-    BoldFont=*-bold,
-    ItalicFont=*-italic,
-    BoldItalicFont=*-bolditalic,
-    Ligatures={Common,TeX},
-    SmallCapsFeatures={Letters=SmallCaps}
-]{texgyreheros}
+%\setmainfont[
+%    Extension=.otf,
+%    UprightFont= *-regular,
+%    BoldFont=*-bold,
+%    ItalicFont=*-italic,
+%    BoldItalicFont=*-bolditalic,
+%    Ligatures={Common,TeX},
+%    SmallCapsFeatures={Letters=SmallCaps}
+%]{texgyreheros}
+
+\setmainfont[Ligatures=TeX]{Georgia}
+
+% \setsansfont[
+% Extension=.otf,
+% UprightFont= *-regular,
+% BoldFont=*-bold,
+% ItalicFont=*-italic,
+% BoldItalicFont=*-bolditalic,
+% Ligatures={Common,TeX},
+% SmallCapsFeatures={Letters=SmallCaps}
+% ]{texgyreheros}
+
+\setsansfont{Arial-Unicode}[
+Path = ./font/,
+UprightFont = *-Regular,
+BoldFont = *-Bold,
+ItalicFont=*-Italic,
+BoldItalicFont=*-Bold-Italic]
+
+
+%\setsansfont[Ligatures=TeX,
+% BoldFont=Arial Unicode MS,
+% BoldFeatures={FakeBold=3},
+% ItalicFont=Arial Unicode MS,
+% BoldItalicFont=Arial Unicode MS,
+% BoldItalicFeatures={FakeBold=3},
+% SmallCapsFeatures={Letters=SmallCaps}]{Arial Unicode MS}
+
+\renewcommand{\familydefault}{\sfdefault}
 
 \setmathsfont(Digits,Latin)[Scale=MatchLowercase, Extension=.otf,
 UprightFont=*-regular, ItalicFont=*-italic, Ligatures=TeX]{texgyreheros}
