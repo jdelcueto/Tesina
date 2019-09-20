@@ -1347,7 +1347,6 @@ The only 'a priori' in W. philosophical vision of human life is the /Lebensforme
 - The debate, W. clearly implies, is sustained by a picture of our cognitive situation in which, because of our bodiliness, we are compelled to delay all attributions of intellectual and emotional properties to other people. Again and again he reminds us of the facts of ordinary conversation.
 
 ** Anscombe
-
 *** I : Have we in Wittgenstein's last philosophical thought what may be called a linguistic idealism?
 
 **** What does Anscombe means by 'linguistic idealism'
@@ -1398,6 +1397,36 @@ Not everything that is 'unmoved' is a foundation. Again, there are some proposit
 
 /I can discover them like the axis around which a body rotates. This axis is not fixed in the sense that anything holds it fast, but the movement around it determines its immobility.
 No one ever taught me that my hands don't dissapear when I am not paying attention to them/
+** Hacker
+las reglas de la gramatica:
++determinan los significados de las expresiones en el lenguaje
+-> puesto que el significado de una expresión se da por medio de la explicación de lo que significa y tal explicación es una regla para el uso de la expresión *un estandar desde el cual se juzga la corrección de su aplicación
+-> el significado que una expresión tiene no está determinado por los efectos de usarla y la regla que determina su significado, distinto de las reglas técnicas, no depende de los efectos del acto en cuestión --- en este caso los efectos de usar esta expresión
++de este modo las reglas gramaticales no son justificadas, como las reglas técnicas por referencia a regularidades causales en la naturaleza
+-> no son los efectos de usar una palabra lo que determina la corrección de una regla para su uso
++puesto que en el sentido en que una regla técnica puede ser dicho que es correcta, las reglas de la gramática no puede ser dicho que son correctas o incorrectas
+->(Se puede hablar de la regla gramatical correcta, en el sentido de que es la regla según la cual otros que hablan en esta comunidad linguistica usan la palabra y que cuando se da, es reconocida como criterio para entender --- saber lo que la palabra significa. Pero esta manera de ser correcta se refiere a que está siendo operativa, la regla misma no es correcta o incorrecta)
+->en este sentido, si alguien usa una regla distinta a esa, no está cometiendo un error, sino que está hablando de otra cosa (si se usan piezas de ajedrez para jugar damas no se esta jugando ajedrez mal, sino que se está jugando damas con piezas de ajedrez)
++las reglas de la gramatica no son dependientes de algun objetivo independientemente especificable, que si no se logra invalida la regla, como el cocinar
++las reglas gramáticas determinan las consecuencias lógicas de su aplicación irrespectivamente de los efectos del uso de las expresiones que estas gobiernan.
+
+En este sentido, las reglas de la gramáticja son reglas constitutivas del lenguaje y no reglas técnicas. El concepto del lenguaje no está definido por el propósito de usar un lenguaje
+
+Hay otros tres sentidos en los que se puede decir que las reglas gramáticas son arbitrarias:
+primero, no quedan hechas correctas en virtud de reflejar la naturaleza de la realidad
+
+no puede haber una cuestión de si el significado de una pelabra, como determinado por las reglas de su uso está de acuerdo con la naturaleza esencial de los objetos, cosas o propiedades que constituyen su extensión
+
+una proposición gramática como "nada puede ser todo rojo y todo verde a la vez" no puede ser justificada por señalar a las posibilidades empíricas, puesto que esta es una proposición gramatical es decir, normas de representación modeladas según la forma de verdades empíricas. (cast in the form of empirical truths) -> la afirmación de que las reglas de la gramática son arbitrarias van en contra de la posibilidad de este tipo de justificación!!
+
+por arbitrario, sin embargo, no significa: capricious, discretionary, unimportant, a matter of individual choice or decision, an alternative wouldn't do just as well, readily dispensable, easily alterable or alterable at will at all.
+
+
+\S520 So does what is, and what is not, called (logically) possible depend wholly on our grammar\,---\,that is, on what it permits?
+
+¿Entonces lo que es, y lo que no es, llamado (lógicamente) posible depende totalmente en nuestra gramática\,---\,esto es, en lo que ella permite?
+
+\S521 Compare `logically possible' with `chemically possible'. One might perhaps call a combination `chemically possible' if a formula with the right valencies existed (e.g. H--O--O--O--H). Of course, such a combination need not exist; but even the formula $HO_2$ cannot have less that no combination  corresponding to it in reality.
 * On Transubstantiation
 What is Anscombe doing?
 

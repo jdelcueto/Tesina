@@ -111,6 +111,20 @@ keywords = "primary, wittgenstein",
 *** Zettel (1967)
 *** Philosophical Remarks
 *** On Certainty (with Denis Paul) (1969)
+#+BEGIN_SRC bibtex :tangle primary.bib
+@book{wittgenstein1969oncert,
+author={Ludwig Wittgenstein},
+title={On Certainty},
+editor={Gertrude Elizabeth Margaret Anscombe and Georg Henrik von Wright},
+publisher={Harper and Row},
+location={New York},
+year={1972},
+edition={1},
+origdate={1969},
+keywords = "primary, wittgenstein",
+}
+#+END_SRC
+
 *** Remarks on the Philosophy of Psicology
 *** Remarks on Colour (1977)
 

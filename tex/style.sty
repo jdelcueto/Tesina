@@ -82,7 +82,7 @@ marginparwidth=5cm, marginparsep=1cm]{geometry}
 %    SmallCapsFeatures={Letters=SmallCaps}
 %]{texgyreheros}
 
-\setmainfont[Ligatures=TeX]{Georgia}
+%\setmainfont[Ligatures=TeX]{Georgia}
 
 % \setsansfont[
 % Extension=.otf,
@@ -94,13 +94,23 @@ marginparwidth=5cm, marginparsep=1cm]{geometry}
 % SmallCapsFeatures={Letters=SmallCaps}
 % ]{texgyreheros}
 
-\setsansfont{Arial-Unicode}[
-Path = ./font/,
-UprightFont = *-Regular,
-BoldFont = *-Bold,
-ItalicFont=*-Italic,
-BoldItalicFont=*-Bold-Italic]
+%\setsansfont[
+%Path = ./font/,
+%UprightFont = *-Regular,
+%BoldFont = *-Bold,
+%ItalicFont=*-Italic,
+%BoldItalicFont=*-Bold-Italic,
+%SmallCapsFont=arial-r,
+%SmallCapsFeatures={Letters=SmallCaps},
+%Ligatures={Common,TeX}]{Arial-Unicode}
 
+\setsansfont[
+Path= ./font/arial/,
+%UprightFont=arialuni.ttf,
+BoldFont=arialbd.ttf,
+ItalicFont=ariali.ttf,
+BoldItalicFont=arialbi.ttf,
+]{arial.ttf}
 
 %\setsansfont[Ligatures=TeX,
 % BoldFont=Arial Unicode MS,
