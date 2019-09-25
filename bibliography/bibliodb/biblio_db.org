@@ -1263,6 +1263,20 @@ year={1979},
   pages={440–441}
   }
 #+END_SRC
+** Fergus Kerr
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@book{kerr1997theo,
+author = "Fergus Kerr",
+title = "Theology after Wittgenstein",
+publisher = "Society for Promoting Christian Knowledge",
+location = "London",
+year = "1997",
+edition = "2",
+origdate = "1986",
+keywords = "Kerr, teología, Wittgenstein",
+}
+#+END_SRC
+
 * Magisterio
 ** Lumen Fidei
 #+BEGIN_SRC bibtex :tangle secondary.bib
