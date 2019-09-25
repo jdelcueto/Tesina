@@ -3,7 +3,7 @@
 
 * [[./staging/main.pdf][Documento en desarrollo]]  //  Documento Final (pronto?)
 
-* TODO Progreso Realizado [47%]
+* TODO Progreso Realizado [60%]
 ** DONE Cap. 1: Introducción General al Problema del Testimonio [100%]
 *** DONE Naturaleza de la pregunta sobre el testimonio [100%]
     CLOSED: [2019-04-12 Fri 09:49]
@@ -52,7 +52,7 @@
         - [ ] Oxford: percepción y fenomenalismo de H.H. Price
         - [ ] Cambridge: filosofía analítica
         - [ ] Profesora y Catedrática
-** TODO Cap. 3: La Concepción de G.E.M. Anscombe Sobre el Testimonio [65%]
+** TODO Cap. 3: La Concepción de G.E.M. Anscombe Sobre el Testimonio [70%]
 *** TODO Análisis Diacrónico [100%]
         - [X] Prophecy and Miracles (1957) [100%]
           + [X] Información del Texto
