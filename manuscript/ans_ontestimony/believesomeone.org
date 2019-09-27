@@ -4,7 +4,7 @@
 
 * DONE What is it to Believe Someone? (1979) [100%]
 #+BEGIN_SRC latex
-  \subsection{What is it to believe someone?}
+  \subsection{What is it to believe someone? (1979)}
 #+END_SRC
 ** DONE Información del documento y planteamiento de la cuestión
 CLOSED: [2019-09-02 Mon 11:05]
