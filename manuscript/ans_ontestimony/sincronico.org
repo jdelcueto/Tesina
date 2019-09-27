@@ -2,12 +2,14 @@
 # ------------------------------------------------------------------------------------
 # Santa Teresa Benedicta de la Cruz, ruega por nosotros
 
+* Análisis Sincrónico
 #+BEGIN_SRC latex
 \section{Análisis Sincrónico}
 #+END_SRC
 
 
 * Valor epistemológico del testimonio
+*** La estructura del creer en el testimonio
 #+BEGIN_SRC latex
 \subsection{Valor espistemológico del testimonio}
 #+END_SRC
@@ -91,6 +93,8 @@ QLI 130 A main them of On Certainty... hinge propositions and inmovable foundati
 * Fuerza del testimonio del absoluto
 
 * Valor proposicional del lenguaje religioso
+
+** La respuesta se encuentra en On transubstantiation que es engañoso en su simplicidad
 
 teichmann 220-221
 una explicación de por qué tenemos estas reglas anscombe rather than w. has demystified
