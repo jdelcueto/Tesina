@@ -1,8 +1,20 @@
-#+PROPERTY: header-args:latex :tangle ../../tex/ch3/truth.tex
+#+PROPERTY: header-args:latex :tangle ../../tex/ch4/critic.tex
 # ------------------------------------------------------------------------------------
 # Santa Teresa Benedicta de la Cruz, ruega por nosotros
 
-* /Lectio/: 
+
+
+
+LA ÚLTIMA LINEA DEL TRABAJO SERÁ ESTA:
+
+Santiago 1,22-25 Poned por obra la Palabra y no os contentéis sólo con oírla,
+engañándoos a vosotros mismos. Porque si alguno se contenta con oír la Palabra
+sin ponerla por obra, ése se parece al que contempla su imagen en un espejo: se
+contempla, pero, en yéndose, se olvida de cómo es. En cambio el que considera
+atentamente la Ley perfecta de la libertad y se mantiene firme, no como oyente
+olvidadizo sino como cumplidor de ella, ése, practicándola, será feliz.
+
+* /Lectio/:
 :DESCRIPTION:
 Truth: Anselm or Thomnas?
 Truth: Anselm and Wittgenstein/Verdad
@@ -24,10 +36,10 @@ parece ser al revés. ¿Anscombe atiende estos temas de la misma manera?
 
 - En los escritos de Anscombe ambos temas se tratan por separado pero gozan
   aproximadamente del mismo status.
-- El significado se 
+- El significado se
 
-* /Propositum/:  
-:DESCRIPTION: 
+* /Propositum/:
+:DESCRIPTION:
 
 :END:
 
@@ -39,7 +51,7 @@ parece ser al revés. ¿Anscombe atiende estos temas de la misma manera?
 
 
 * /////////////////////////////////////////////////////////
-* /Quaestio/: What is to have truth? 
+* /Quaestio/: What is to have truth?
 :STATEMENT:
 The proposition has a sense which is independent of the facts.
 :END:
@@ -49,7 +61,7 @@ The proposition has a sense which is independent of the facts.
 :DESCRIPTION:
 
 :END:
- 
+
 #+BEGIN_SRC latex
   \subsection{Qué es tener la verdad}
   Elizabeth Anscombe visitó muchas veces la Universidad de Navarra junto con Peter
@@ -109,18 +121,18 @@ On Brute Facts
 
 #+END_SRC
 
-* /Disputatio/: 
-:STATEMENT: 
-
-:END:
-
-
-* /Solutio/: 
+* /Disputatio/:
 :STATEMENT:
 
 :END:
 
-* /In Testimonium/: 
+
+* /Solutio/:
+:STATEMENT:
+
+:END:
+
+* /In Testimonium/:
 :STATEMENT:
 
 :END:

@@ -4,5 +4,26 @@
 
 * Valor espistemológico del testimonio [%]
 #+BEGIN_SRC latex
-  \subsection{Valor espistemológico del testimonio}
+\subsection{¿Cuál es el valor espistemológico del testimonio?}
 #+END_SRC
+
+
+in a world-view to believe is not to surmise
+in a religious belief to believe is not to surmise
+a world-view and a religious belief are not the same
+
+In grounds of belief she makes a distintion between tradition or common knowledge and testimony, arguing that things justified on being thaught are justified on something thicker than testimony. Tradition or common knowledge is described by her as being thaught to join in doing something, not to believe something. But because everyone is taught to do such things, an object of belief is generated. The belief is so certainly correct (for it follows the practice) that it is knowledge. _Here knowledge is no other than certainly correct belief in pursuit of a practice. But the connection with testimony is remote and
+indirect._
+
+
+What is it to believe someone ends with the problem about the priority of rightness and
+truthfulness, this connects with the idea of anselm and anscombe that a true
+proposition is doing what it ought
+
+teichmann touches this in p 223
+
+That assertion can have the function or purpose ascribed to it by Anselm (see above, p.
+196)—i.e. that there can be such a thing as assertion—depends on the empirical fact,
+among others, that people don’t generally reject their earlier assertions as unfounded.
+It is ‘by favour of Nature’ that assertion and knowledge are possible (On Certainty,
+para. 505); for Anselm and for Anscombe, it is (also) by the grace of God.

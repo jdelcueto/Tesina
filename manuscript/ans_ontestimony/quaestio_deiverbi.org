@@ -4,5 +4,5 @@
 
 * Atestacion divina [%]
 #+BEGIN_SRC latex
-  \subsection{atestacion divina}
+\subsection{¿Hay justificación para valorar un hecho histórico como atestación divina?}
 #+END_SRC
