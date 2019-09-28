@@ -1,0 +1,8 @@
+#+PROPERTY: header-args:latex :tangle ../../tex/ch3/sincronico/quaestio_episteme.tex
+# -----------------------------------------------------------------------------
+# Santa Teresa Benedicta de la Cruz, ruega por nosotros
+
+* Valor espistemológico del testimonio [%]
+#+BEGIN_SRC latex
+  \subsection{Valor espistemológico del testimonio}
+#+END_SRC

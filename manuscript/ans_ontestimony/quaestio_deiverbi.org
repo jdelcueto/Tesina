@@ -1,0 +1,8 @@
+#+PROPERTY: header-args:latex :tangle ../../tex/ch3/sincronico/quaestio_deiverbi.tex
+# -----------------------------------------------------------------------------
+# Santa Teresa Benedicta de la Cruz, ruega por nosotros
+
+* Atestacion divina [%]
+#+BEGIN_SRC latex
+  \subsection{atestacion divina}
+#+END_SRC

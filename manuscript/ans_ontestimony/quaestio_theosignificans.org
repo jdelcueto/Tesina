@@ -1,0 +1,8 @@
+#+PROPERTY: header-args:latex :tangle ../../tex/ch3/sincronico/quaestio_theosignificans.tex
+# -----------------------------------------------------------------------------
+# Santa Teresa Benedicta de la Cruz, ruega por nosotros
+
+* Valor proposicional teo [%]
+#+BEGIN_SRC latex
+  \subsection{valor prop}
+#+END_SRC
