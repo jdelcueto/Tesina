@@ -2,10 +2,40 @@
 # -----------------------------------------------------------------------------
 # Santa Teresa Benedicta de la Cruz, ruega por nosotros
 
-* Valor proposicional del lenguaje teológico [%]
+* TODO Valor proposicional del lenguaje teológico [0%]
 #+BEGIN_SRC latex
 \subsection{¿Tiene carácter veritativo el lenguaje religioso?}
 #+END_SRC
+
+** El modo más sencillo de expresar lo que es la transubstanciación...
+
+*** Es llamativo del comienzo de OT pq propone expresar el misterio
+*** Si vemos en W. su actitud ante las proposiciones religiosas, asemejaba el todo de la religion a los misterios y trataba con respeto la contradicción
+- Tractatus: ethics, aesthetics are things that are shown or show themselves, though they cannot be said or thought but can nevertheless be seen or understood
+- For W. Religion should be added to that. He takes religious propositions as nonsensical and contradictory, and treats them with respect as such, this because he would rather have these not attempted to be presented as rational.
+- Following this, it might be thought that a religious person who regards certain articles of faith as `mysteries' is more or less bound embrace nonsense and contradiction
+*** Anscombe tiene otra actitud: afirma la racionalidad
+*** No se abraza la contradicción
+*** Distingue proposiciones relacionadas con la religión: Hemos visto ejemplos:
+**** presuposiciones
+**** proposiciones de teología natural
+**** expresiones de misterios
+***** ward each attack
+*** Distinguir entre superstición y religión
+**** En qué sentido una religión es verdadera
+**** Cómo se critica la superstición
+**** En qué sentido puede ser verdadera una religión
+
+** Poned en práctica la palabra y no os contentéis con oírla
+*** El modo en que Anscombe describe la explaición de enseñar el misterio tiene similitudes con su descripción de educar moralmente
+**** Cuenta la anecdota de la frase en el manual de matemáticas
+*** Worship es un verbo intencional
+**** A qué apunta el verbo? `al único Dios verdadero'
+*** El modo de actuar es creer a Dios, creer su promesa
+**** Dios mismo, al prometer, lo hace en lenguaje humano
+*** Creer en el misterio esta justificado por la tradición donde se enseña
+
+
 
 ** La mejor manera
 #+BEGIN_SRC latex
@@ -22,7 +52,6 @@ Puntos de Teichmann
   + considers the view
   + compares this view with whatever can be said...
   + she goes on:
-
 
   \blockquote[{\cite[211]{teichmann2008ans}}: It might be thought that a religious person who regards certain articles of faith as `mysteries' is more or less bound to embrace nonsense or self-contradiction; for what \emph{is} a mystery such as that of the Trinity, or of the Incarnation, or of the Eucharistic Transubstantiation, if not something whose appearance of incoherence cannot be dispelled by reason? If somebody utters `I believe' in connection with such mysteries, won't we be entitled to say, along with Wittgenstein: `But is this a belief, a thought at all? Perhaps there is a state of enlightenment, or an urge to find expression for certain experiences of life---but for there to be a belief, you would need to be able, at least in principle, to state that belief clearly and without contradiction'?]{Puede ser pensado que una persona religiosa que considera ciertos artículos de fe como `misterios' está en mayor o menor grado obligada a abrazar el sinsentido o la auto-contradicción; pues ¿qué \emph{es} un misterio como el de la Trinidad, o el de la Encarnación, o el de la Transubstanciación Eucarística, si no algo cuya apariencia de incoherencia no puede ser disipada por la razón? Si alguien dice `Yo creo' en conexión con tales misterios, ¿no estaríamos autorizados a cuestionar, junto con Wittgenstein: `¿Pero es esto una creencia, un pensamiento en absoluto? Quizás haya ahí un estado de iluminación, o un deseo de encontrar expresión para ciertas experiencias de la vida\,---\,pero para que haya una creencia, deberías ser capaz, al menos en principio, de enunciar esa creencia claramente y sin contradicción'?}
 
@@ -57,8 +86,6 @@ Puntos de Teichmann
 *** Similitudes con enseñanza moral
 #+BEGIN_SRC latex
 En on transubstantiation anscombe no propone que se anime al niño a visualizar en la mente, sino a entrar en una actividad
-
-
 
 La respuesta se encuentra en On transubstantiation que es engañoso en su simplicidad
 
