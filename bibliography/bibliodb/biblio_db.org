@@ -395,6 +395,17 @@ keywords={Anscombe Elizabeth; Primary Source; St Andrews}
   }
 #+END_SRC
 
+***** Paganism, Superstition and Philosophy
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe2008faith:paganism,
+  title={Paganism, Superstition and Philosophy},
+  crossref={anscombe2008faith},
+  keywords={},
+  abstract={}
+  }
+#+END_SRC
+
+
 **** From Plato to Wittgenstein
 #+BEGIN_SRC bibtex :tangle primary.bib
 @mvcollection{anscombe2011plato,
