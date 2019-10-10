@@ -7,6 +7,19 @@
 \subsection{¿Cuál es el valor espistemológico del testimonio?}
 #+END_SRC
 
+#+BEGIN_SRC latex
+\subsubsection{La `estructura' de creer en el testimonio}
+#+END_SRC
+
+
+#+BEGIN_SRC latex
+\subsubsection{Traditional knowledge}
+#+END_SRC
+
+#+BEGIN_SRC latex
+The work of determining England and fixing the meaning of the name \emph{would} depend on testimony\,---\, the testimony of many different people for different parts of it. The work done, people could be taught what Engalnd was (no doubt still disputing some regions). Now those who learned thereafter can hardly be said to have knowledge by testimony.
+#+END_SRC
+
 
 in a world-view to believe is not to surmise
 in a religious belief to believe is not to surmise
