@@ -74,47 +74,11 @@
      la primera, estas trabajan junto a un hipotético para sostener la
      creencia\autocite[Cf.~][300]{anscombe2015logic:qpa}.
 
-     Anscombe entonces propone: \citalitinterlin{Si todo esto es correcto, tenemos
-       aquí un caso bastante interesante de una serie de proposiciones que implican
-       una conclusión pero no son fundamentos posibles para llegar a esa
-       conclusión}\footnote{\cite[300]{anscombe2015logic:qpa} <<If all this is
-       right, we have here a rather interesting case of a set of propositions which
-       entail a conclusion but are impossible grounds for coming to that
-       conclusion>>}. El argumento no necesita que se juzgue como verdadera la
-     conclusión o parte de ella para considerar verdadera alguna de las premisas,
-     pero sí reclama que parte de la conclusión sea fundamento para aceptar la
-     combinación de las premisas de modo que se pueda formar conocimiento o un
-     juicio razonable\footnote{\cite[Cf.~][301]{anscombe2015logic:qpa}}.
+     Anscombe entonces propone: \citalitinterlin{Si todo esto es correcto, tenemos aquí un caso bastante interesante de una serie de proposiciones que implican una conclusión pero no son fundamentos posibles para llegar a esa conclusión}\footnote{\cite[300]{anscombe2015logic:qpa} <<If all this is right, we have here a rather interesting case of a set of propositions which entail a conclusion but are impossible grounds for coming to that conclusion>>}. El argumento no necesita que se juzgue como verdadera la conclusión o parte de ella para considerar verdadera alguna de las premisas, pero sí reclama que parte de la conclusión sea fundamento para aceptar la combinación de las premisas de modo que se pueda formar conocimiento o un juicio razonable\footnote{\cite[Cf.~][301]{anscombe2015logic:qpa}}.
 
-     En este caso `$q$' no se sigue necesariamente de `$p$' y así, al no ser una
-     verdad necesaria, sólo se puede aceptar la conjunción de las primeras dos
-     premisas si se está independientemente seguro de que `no $r$'. No es común que
-     estemos en la situación de pensar que `si $p$ entonces $q$' y que sólo por eso
-     esté claro que `si $r$ entonces no (si $p$ entonces $q$)' y entonces poder
-     deducir razonablemente de esto que `no $r$'. Es más común que al juzgar la
-     conjunción de las primeras dos premisas, el antecedente de la segunda pierda
-     fuerza. El punto de la segunda premisa es arrojar duda sobre la primera; la
-     conjunción de la segunda premisa y la tercera refuerzan la pertinencia de la
-     segunda. Sin embargo la segunda premisa sólo tendrá la fuerza de poner en duda
-     la primera premisa ---y no al revés--- si, además de ser verdadera y
-     pertinente, resulta imposible de descartar porque resulta necesario tomar en
-     serio su antecedente `si $r$'\autocite[Cf.~][301]{anscombe2015logic:qpa}.
+     En este caso `$q$' no se sigue necesariamente de `$p$' y así, al no ser una verdad necesaria, sólo se puede aceptar la conjunción de las primeras dos premisas si se está independientemente seguro de que `no $r$'. No es común que estemos en la situación de pensar que `si $p$ entonces $q$' y que sólo por eso esté claro que `si $r$ entonces no (si $p$ entonces $q$)' y entonces poder deducir razonablemente de esto que `no $r$'. Es más común que al juzgar la conjunción de las primeras dos premisas, el antecedente de la segunda pierda fuerza. El punto de la segunda premisa es arrojar duda sobre la primera; la conjunción de la segunda premisa y la tercera refuerzan la pertinencia de la segunda. Sin embargo la segunda premisa sólo tendrá la fuerza de poner en duda la primera premisa ---y no al revés--- si, además de ser verdadera y pertinente, resulta imposible de descartar porque resulta necesario tomar en serio su antecedente `si $r$'\autocite[Cf.~][301]{anscombe2015logic:qpa}.
 
-     Anscombe acuña la expresión `revocabilidad
-     esencial'\footnote{\cite[Cf.~][301]{anscombe2015logic:qpa}: <<Then we have
-       perhaps discovered the special character of (theoretical) hypotheticals
-       whose consquents don't follow logically from their antecedents. We might
-       call this character `essential defeasibility'>>.} para denominar al carácter
-     especial de hipotéticos teoréticos cuyos consecuentes no se siguen lógicamente
-     de sus antecedentes. En este caso esta característica es la que hace que
-     incluso cuando `no $r$' se sigue de `si $p$ entonces $q$ y si $r$, entonces no
-     (si $p$ entonces $q$)', no sería razonable deducir `no $r$' de esa conjunción.
-     Elizabeth además observa que hay un gran número de juicios que son así. Al
-     hacer una afirmación categórica con la seguridad apropiada, frecuentemente se
-     descarta inmediatamente lo que la falsificaría sólo porque se sabe que ésta es
-     verdadera. Sin embargo existe toda una clase de juicios como el que se ha
-     analizado que al ser hechos no se descarta implicitamente como falso todo lo
-     que los falsificaría\autocite[Cf.~][302]{anscombe2015logic:qpa}.
+     Anscombe acuña la expresión `revocabilidad esencial'\footnote{\cite[Cf.~][301]{anscombe2015logic:qpa}: <<Then we have perhaps discovered the special character of (theoretical) hypotheticals whose consquents don't follow logically from their antecedents. We might call this character `essential defeasibility'>>.} para denominar al carácter especial de hipotéticos teoréticos cuyos consecuentes no se siguen lógicamente de sus antecedentes. En este caso esta característica es la que hace que incluso cuando `no $r$' se sigue de `si $p$ entonces $q$ y si $r$, entonces no (si $p$ entonces $q$)', no sería razonable deducir `no $r$' de esa conjunción. Elizabeth además observa que hay un gran número de juicios que son así. Al hacer una afirmación categórica con la seguridad apropiada, frecuentemente se descarta inmediatamente lo que la falsificaría sólo porque se sabe que ésta es verdadera. Sin embargo existe toda una clase de juicios como el que se ha analizado que al ser hechos no se descarta implicitamente como falso todo lo que los falsificaría\autocite[Cf.~][302]{anscombe2015logic:qpa}.
  #+END_SRC
 *** ramble bramble mumble
  que puedas sacar esta conclusion de estas tres premisas es fundamento para
@@ -1420,64 +1384,44 @@ grounds for a belief  is not the same as grounds for believing
 
 * Knowledge and Essence (1989)
 
-My objetivo principal es señalar la gran importancia del pensamiento del Tractatus de
-que la teoría del conocimiento es filosofía de la psicología.
+My objetivo principal es señalar la gran importancia del pensamiento del
+Tractatus de que la teoría del conocimiento es filosofía de la psicología.
 
-La importancia es para la historia de la filosofía en el sentido de la historia del
-pensamiento filosófico.
+La importancia es para la historia de la filosofía en el sentido de la historia
+del pensamiento filosófico.
 
-No se cuanto ha sido notado, pero aquí, en esta afirmación, 'La teoría del conocimiento
-es filosofía de la psicología' un corte queda hecho.
+No se cuanto ha sido notado, pero aquí, en esta afirmación, 'La teoría del
+conocimiento es filosofía de la psicología' un corte queda hecho.
 
-Durante varios siglos la teoríá del conocimiento había sido lo que la metafísica había
-sido antes de ellas. Había llegado a ser la teoría de la esencia del mundo, de los
-componentes definitivos del universo. Esta corriente empezo a venir con Descartes, si
-él se ganó el título 'el padre de la filosofía moderna'. Las olas llegaron a su máxima
-altitud con declaración de Kant de haber hecho una revolución Copernicana.
+Durante varios siglos la teoríá del conocimiento había sido lo que la metafísica
+había sido antes de ellas. Había llegado a ser la teoría de la esencia del
+mundo, de los componentes definitivos del universo. Esta corriente empezo a
+venir con Descartes, si él se ganó el título 'el padre de la filosofía moderna'.
+Las olas llegaron a su máxima altitud con declaración de Kant de haber hecho una revolución Copernicana.
 
-La posición suprema de la teoría del conocimiento estaba garantizada mucho antes que
-Kant y se mantuvo incluso entre filósofos como Bertrand Russell que abobinaba  a Kant.
+La posición suprema de la teoría del conocimiento estaba garantizada mucho antes que Kant y se mantuvo incluso entre filósofos como Bertrand Russell que
+abobinaba a Kant.
 
-Todavía estaba operativa en Wittgenstein a pesar de su afirmación en el Tractatus.
-En "Philosophical Remarks" encontramos la observación: Una proposición es borrador
-sobre una verificación.
+Todavía estaba operativa en Wittgenstein a pesar de su afirmación en el Tractatus. En "Philosophical Remarks" encontramos la observación: Una proposición es borrador sobre una verificación.
 
-Se le podría dar una interpretación inocente a esta observación si se le asocia con
-Tractatus 4.063:
-para ser capaz de decir: '"p" es verdadero (o falso)', debo haber determinado en qué
-circunstancias llamo a 'p' verdadero, y haciendo esto determino el sentido de la
-proposición
+Se le podría dar una interpretación inocente a esta observación si se le asocia con Tractatus 4.063: para ser capaz de decir: '"p" es verdadero (o falso)', debo haber determinado en qué circunstancias llamo a 'p' verdadero, y haciendo esto determino el sentido de la proposición
 
-Pero aquí también nos recordamos que la explicación llega a su fin y nos preguntamos si
-el determinar del que habla es un determinar por proposiciones adicionales que
-describan las circunstancias en las que llamo a una proposición verdadera.
+Pero aquí también nos recordamos que la explicación llega a su fin y nos preguntamos si el determinar del que habla es un determinar por proposiciones adicionales que describan las circunstancias en las que llamo a una proposición verdadera.
 
-Ciertamente hemos de pensar que no, pues de otro modo la explicación no llegará a su
-fin o habrá una invocación de la experiencia con la que si se llega al fin.
+Ciertamente hemos de pensar que no, pues de otro modo la explicación no llegará a su fin o habrá una invocación de la experiencia con la que si se llega al fin.
 
-Esta última puede estar bien pero no consistirá en una descripción de las
-circunstancias en las que llamo 'p' verdadero -- no si esa descripción misma tiene que
-tener su sentido indicado por una ulterior descripción del mismo tipo.
+Esta última puede estar bien pero no consistirá en una descripción de las circunstancias en las que llamo 'p' verdadero -- no si esa descripción misma tiene que tener su sentido indicado por una ulterior descripción del mismo tipo.
 
-A la luz del pensamiento más tardío, podriamos hablar de la experiencia en cuestión
-como la de aprender un lenguaje.
+A la luz del pensamiento más tardío, podriamos hablar de la experiencia en cuestión como la de aprender un lenguaje.
 ...
-
 
 Las indagaciones interesantes sobre el conocimiento,
 
-una vez que se ha abandonado el
-intento de caracterizarlo como un tipo de creer que satisface ciertas condiciones,
+una vez que se ha abandonado el intento de caracterizarlo como un tipo de creer que satisface ciertas condiciones,
 
-conciernen lo que todos, o todos en ciertas culturas, puede ser asumido que conocen una
-vez que han crecido y son razonablemente competentes;
+conciernen lo que todos, o todos en ciertas culturas, puede ser asumido que conocen una vez que han crecido y son razonablemente competentes;
 
-y la relación de algunas afirmaciones de conocer con preguntas como ¿cómo lo sabes
-(know)?
-
-
-
-
+y la relación de algunas afirmaciones de conocer con preguntas como ¿cómo lo sabes (know)?
 
 ---
 a grammatical imposibility describes the bounds of sense
@@ -1486,7 +1430,6 @@ an epistemic imposibility defines the bounds of knowledge
 I am in pain is the expression of a sensation
 
 not a description based on internal or external criteria
-
 
 * Cual es la estructura del creer en el testimonio?
 
@@ -1507,9 +1450,7 @@ A Toma la comunicación como dirigda a él
 A Interpreta la comunicación correctamente
 A Cree que viene de NN
 
-confiar en NN acerca de la verdad de x cuando una comunicación de NN llega a A por
-medio de un productor inmediato.
-
+confiar en NN acerca de la verdad de x cuando una comunicación de NN llega a A por medio de un productor inmediato.
 
 La estructura de creer en el testimonio de alguien
 si entendemos creer en el testimonio de alguien como
@@ -1527,8 +1468,7 @@ la categoría del testimonio
 de las interconexiones que Anscombe describe
 en el "arco" de la verdad, el sentido y la aserción
 enunciar y significar son distintos
-la rectitud propia de lo que la verdad es aplica tanto a la persona que enuncia como al
-enunciado
+la rectitud propia de lo que la verdad es aplica tanto a la persona que enuncia como al enunciado
 
 la persona puede mentir
 el enunciado falso cuando es creido significa algo pero no enuncia nada.
@@ -1538,8 +1478,7 @@ la paradoja, distinto de el enunciado falso no significa nada.
 el enunciado verdadero hace rectamente aquello para lo que se creó
 la persona que dice una proposición verdadera actua rectamente
 
-creer a alguien que dice una proposición verdadera es reconocer la rectitud de la
-aserción y reconocer la rectitud de la persona que habla
+creer a alguien que dice una proposición verdadera es reconocer la rectitud de la aserción y reconocer la rectitud de la persona que habla
 
 hay, por tanto un modo de conocer la verdad que se puede describir como
 
@@ -1552,31 +1491,16 @@ cuando la proposición es una paradoja no significa ni comunica nada
 
 la rectitud es perceptible a la mente sin tener que acudir a la experiencia
 
-
-
-
 * Valoraciones finales
 
-En un argumento que tiene caracter de revocabilidad esencial la razonabilidad de un
-juicio o conocimiento formado a partir de éste reclama un apoyo externo a sus premisas.
-En el caso del creer a alguien que p el que alguien crea lo que dice es este apoyo
+En un argumento que tiene caracter de revocabilidad esencial la razonabilidad de un juicio o conocimiento formado a partir de éste reclama un apoyo externo a sus premisas. En el caso del creer a alguien que p el que alguien crea lo que dice es este apoyo
 
-Anscombe habla del testigo como una autoridad original, `que él mismo contribuye algo'
-en oposición a simplemente transmitir una información recibida sin embargo se puede
-decir que se cree a x que p sin que este sea una autoridad original
+Anscombe habla del testigo como una autoridad original, `que él mismo contribuye algo' en oposición a simplemente transmitir una información recibida sin embargo se puede decir que se cree a x que p sin que este sea una autoridad original
 
-
-
-Se abren tres rutas desde aquí sobre la primacia de la verdad la fe como creer a Dios
-que p sobre la estructura del testimonio de la estructura del testimonio se pasa a Hume
-on Miracles, de ahí a Prophecy and Miracles
-
-
+Se abren tres rutas desde aquí sobre la primacia de la verdad la fe como creer a Dios que p sobre la estructura del testimonio de la estructura del testimonio se pasa a Hume on Miracles, de ahí a Prophecy and Miracles
 
 | 1 | 2 |
 |   |   |
-
-
 
 * [Local Variables]
 # Local Variables:
