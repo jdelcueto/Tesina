@@ -10,17 +10,13 @@ Truth: Anselm and Wittgenstein/Verdad
 
 :END:
 ** Análisis
-Atender la razonabilidad de la tarea de dar testimonio del Hecho de Cristo como
-anuncio de salvación supone:
+Atender la razonabilidad de la tarea de dar testimonio del Hecho de Cristo como anuncio de salvación supone:
 <<recuperar la legitimidad de la pregunta filosófica y religiosa sobre la
 verdad, en un tiempo que parece a priori que la rechaza.>>
 
-En el contexto de la filosofía analítica la pregunta sobre la verdad (y la
-falsedad) está entrelazada con la pregunta sobre el significado.
+En el contexto de la filosofía analítica la pregunta sobre la verdad (y la falsedad) está entrelazada con la pregunta sobre el significado.
 
-Wittgenstein, que "amó la verdad" ofreció más atención a la verdad que al
-significado en el Tractatus, mientras que en las Investigaciones Filosóficas
-parece ser al revés. ¿Anscombe atiende estos temas de la misma manera?
+Wittgenstein, que "amó la verdad" ofreció más atención a la verdad que al significado en el Tractatus, mientras que en las Investigaciones Filosóficas parece ser al revés. ¿Anscombe atiende estos temas de la misma manera?
 
 - En los escritos de Anscombe ambos temas se tratan por separado pero gozan
   aproximadamente del mismo status.
@@ -38,7 +34,7 @@ parece ser al revés. ¿Anscombe atiende estos temas de la misma manera?
 #+END_SRC
 
 
-* /////////////////////////////////////////////////////////
+* ///////////////////////////////////
 * /Quaestio/: What is to have truth?
 :STATEMENT:
 The proposition has a sense which is independent of the facts.
@@ -52,44 +48,11 @@ The proposition has a sense which is independent of the facts.
 
 #+BEGIN_SRC latex
   \subsection{¿Qué es tener la verdad?}
-  Elizabeth Anscombe visitó muchas veces la Universidad de Navarra junto con Peter
-  Geach. Allí impartió algunos seminarios y participó de las Reuniones
-  Filosóficas.\footcite[Cf.~][15]{torralbaynubiola2005fayeh} En una de sus
-  visitas, en octubre de 1983, ofreció dos lecciones tituladas: ``Verdad'' y ``La
-  unidad de la verdad''. Las dos investigaciones estan apoyadas en algunas
-  reflexiones de San Anselmo cuyos argumentos sirven a Anscombe para explorar
-  modos de hablar de aquello de lo que decimos que tiene verdad. Anscombe dio
-  inicio a su ponencia planteando la cuestión como sigue: \citalitlar{Hay verdad
-    en muchas cosas. Mirando a mi título [`Truth'] me quedo algo sobrecogida por
-    él, pues lo que salta de la página hacia mi es uno de los nombres de Dios. `He
-    amado la verdad' me dijo una vez un profesor moribundo, después de hablarme de
-    la dificultad que sentía sobre la idea de amar a Dios. Sin embargo: `He amado
-    la verdad'. Y luego, temiendo que yo no malentendiera su afirmación: `No me
-    refiero, cuando digo eso, que \emph{tenga} la verdad'.} \citalitlar{Tener la
-    verdad, estar en la verdad---¿qué es esto?
-    \footnote{\cite[71]{anscombe2011plato:truth}: <<There is truth in many things.
-      Looking at my title [`Truth'] I am somewhat awed by it, for what leaps out
-      of the page at me is one of the names of God. `I have loved the truth' a
-      dying teacher once said to me, after speaking of the difficulty he felt
-      about the idea of loving God. But:`I have loved the truth'. And then,
-      fearing lest I misconstrue his statement: `I do not mean, when I say that,
-      that I \emph{have} the truth'. To have the truth, to stand in the truth --
-      what are these?>>}.}
+  Elizabeth Anscombe visitó muchas veces la Universidad de Navarra junto con Peter Geach. Allí impartió algunos seminarios y participó de las Reuniones Filosóficas.\footcite[Cf.~][15]{torralbaynubiola2005fayeh} En una de sus visitas, en octubre de 1983, ofreció dos lecciones tituladas: ``Verdad'' y ``La unidad de la verdad''. Las dos investigaciones estan apoyadas en algunas reflexiones de San Anselmo cuyos argumentos sirven a Anscombe para explorar modos de hablar de aquello de lo que decimos que tiene verdad. Anscombe dio inicio a su ponencia planteando la cuestión como sigue: \citalitlar{Hay verdad en muchas cosas. Mirando a mi título [`Truth'] me quedo algo sobrecogida por él, pues lo que salta de la página hacia mi es uno de los nombres de Dios. `He amado la verdad' me dijo una vez un profesor moribundo, después de hablarme de la dificultad que sentía sobre la idea de amar a Dios. Sin embargo: `He amado la verdad'. Y luego, temiendo que yo no malentendiera su afirmación: `No me refiero, cuando digo eso, que \emph{tenga} la verdad'.} \citalitlar{Tener la verdad, estar en la verdad---¿qué es esto? \footnote{\cite[71]{anscombe2011plato:truth}: <<There is truth in many things. Looking at my title [`Truth'] I am somewhat awed by it, for what leaps out of the page at me is one of the names of God. `I have loved the truth' a dying teacher once said to me, after speaking of the difficulty he felt about the idea of loving God. But:`I have loved the truth'. And then, fearing lest I misconstrue his statement: `I do not mean, when I say that, that I \emph{have} the truth'. To have the truth, to stand in the truth -- what are these?>>}.}
 
-  %Y qué quiso decir Nuestro Señor al llamarse a \emph{sí mismo} la verdad? `No hay
-  %tal cosa como la verdad, sólo hay verdades', decía mi suegro a la primera esposa
-  %de Bertrand Russell. Russell fue su maestro; la influencia se ve con facilidad.}
+  % Y qué quiso decir Nuestro Señor al llamarse a \emph{sí mismo} la verdad? `No hay tal cosa como la verdad, sólo hay verdades', decía mi suegro a la primera esposa de Bertrand Russell. Russell fue su maestro; la influencia se ve con facilidad.}
 
-  %\citalitlar{¿Pero cuáles son las cosas que tienen verdad en ellas? ¿Tiene la
-  %  creación? ¿tienen las acciones? A qué se refería Aristóteles cuando dijo que
-  %  el bien de la razón práctica era `verdad de acuerdo con el recto deseo'? ¿Las
-  %  cosas hechas por los hombres tienen verdad en ellas? ¿Qué, de nuevo, quiso
-  %  decir Aristóteles cuando afirmó que el arte o la habilidad es una disposición
-  %  productiva con un logos verdadero? Mas allá todavía: Qué fuerza tiene contar
-  %  la verdad entre los `trascendentales', esas cosas que `atraviesan' todas las
-  %  categorías y todas las formas especiales de las cosas; y que no pertenecen
-  %  cada uno a una categoría, como el color: amarillo; o el area: un acre; o el
-  %  animal: un caballo.}
+  % \citalitlar{¿Pero cuáles son las cosas que tienen verdad en ellas? ¿Tiene la creación? ¿tienen las acciones? A qué se refería Aristóteles cuando dijo que el bien de la razón práctica era `verdad de acuerdo con el recto deseo'? ¿Las cosas hechas por los hombres tienen verdad en ellas? ¿Qué, de nuevo, quiso decir Aristóteles cuando afirmó que el arte o la habilidad es una disposición productiva con un logos verdadero? Mas allá todavía: Qué fuerza tiene contar la verdad entre los `trascendentales', esas cosas que `atraviesan' todas las categorías y todas las formas especiales de las cosas; y que no pertenecen cada uno a una categoría, como el color: amarillo; o el area: un acre; o el animal: un caballo.}
 #+END_SRC
 
 * /Expositio/: What can be said about what is truth?
@@ -151,358 +114,96 @@ lo mismo se aplica a la negación, etc.
 ** La primacia de la verdad sobre la falsedad
 #+BEGIN_SRC latex
   \subsection{La primacia de la verdad sobre la falsedad}
-  Este cuestionamiento lleva a Anscombe a indagar en una materia en la que
-  Wittgenstein y San Anselmo ---dice--- son `hermanos intelectuales': ¿cuál es la
-  primacía de la verdad sobre la
-  falsedad?\autocite[Cf.~][73]{anscombe2011plato:truth}.
+  Este cuestionamiento lleva a Anscombe a indagar en una materia en la que Wittgenstein y San Anselmo ---dice--- son `hermanos intelectuales': ¿cuál es la primacía de la verdad sobre la falsedad?\autocite[Cf.~][73]{anscombe2011plato:truth}.
 
-  San Anselmo queda prendado de esta pregunta como consecuencia de su indagación
-  en el capítulo segundo del \emph{De Veritate}: ¿qué es la verdad de la
-  enunciación?\footnote{\cite[Cf.~][493]{anselm1952obras:deveritate} Para las
-    citas del texto de San Anselmo se ha empleado la traducción de
-    \cite{anselm1952obras} donde `\emph{enuntiatio}' se traduce como
-    `enunciación', Anscombe lo traducirá como `\emph{proposition}'. `Enunciación'
-    y `proposición' se usarán aquí indistintamente.}. Anselmo elige indagar en las
-  enunciaciones o proposiciones como aquellas clases de las cuales más
-  naturalmente se puede pensar que contienen los posibles portadores del predicado
-  `verdadero'. Así lo expresa cuando dice \citalitinterlin{Busquemos, pues, en
-    primer lugar qué es la verdad de la enunciación, puesto que es ésta la que
-    calificamos con más frecuencia de verdadera o
-    falsa}\autocite[493]{anselm1952obras:deveritate}.
+  San Anselmo queda prendado de esta pregunta como consecuencia de su indagación en el capítulo segundo del \emph{De Veritate}: ¿qué es la verdad de la enunciación?\footnote{\cite[Cf.~][493]{anselm1952obras:deveritate} Para las citas del texto de San Anselmo se ha empleado la traducción de \cite{anselm1952obras} donde `\emph{enuntiatio}' se traduce como `enunciación', Anscombe lo traducirá como `\emph{proposition}'. `Enunciación' y `proposición' se usarán aquí indistintamente.}. Anselmo elige indagar en las enunciaciones o proposiciones como aquellas clases de las cuales más naturalmente se puede pensar que contienen los posibles portadores del predicado `verdadero'. Así lo expresa cuando dice \citalitinterlin{Busquemos, pues, en primer lugar qué es la verdad de la enunciación, puesto que es ésta la que calificamos con más frecuencia de verdadera o falsa}\autocite[493]{anselm1952obras:deveritate}.
 
-  Wittgenstein recorre una ruta análoga en los apartados que conforman el \S4.06
-  del Tractatus. Argumenta que \citalitinterlin{Una proposición puede ser
-    verdadera o falsa sólo en virtud de ser una imagen de la
-    realidad}\footnote{\cite[\S4.06]{wittgenstein1922tractatus}:<<Propositions can
-    be true or false only by being pictures of the reality.>>}. Y advierte que
-  \citalitlar{No debe ser pasado por alto que una proposición tiene un sentido que
-    es independiente de los hechos: de otra manera uno podría fácilmente suponer
-    que verdadero y falso son relaciones igualmente justificadas entre los signos
-    y aquello que
-    significan\footnote{\cite[\S4.061]{wittgenstein1922tractatus}:<<If one does
-      not observe that propositions have a sense independent of the facts, one can
-      easily believe that true and false are two relations between signs and
-      things signified with equal rights.>>}.}
+  Wittgenstein recorre una ruta análoga en los apartados que conforman el \S4.06 del Tractatus. Argumenta que \citalitinterlin{Una proposición puede ser verdadera o falsa sólo en virtud de ser una imagen de la realidad}\footnote{\cite[\S4.06]{wittgenstein1922tractatus}:<<Propositions can be true or false only by being pictures of the reality.>>}. Y advierte que \citalitlar{No debe ser pasado por alto que una proposición tiene un sentido que es independiente de los hechos: de otra manera uno podría fácilmente suponer que verdadero y falso son relaciones igualmente justificadas entre los signos y aquello que significan\footnote{\cite[\S4.061]{wittgenstein1922tractatus}:<<If one does not observe that propositions have a sense independent of the facts, one can easily believe that true and false are two relations between signs and things signified with equal rights.>>}.}
 #+END_SRC
 *** Distinción entre significado y verdad
 #+BEGIN_SRC latex
-  Elizabeth realiza su investigación adentrándose en la misma cuestión trabajada
-  por ambos autores. El primer movimiento que hace en su análisis es indagar en la
-  distinción entre significado y verdad. Según se ha visto, la distinción es
-  familiar en las elucidaciones del Tractatus: \citalitinterlin{La proposición
-    tiene un sentido que es independiente de los hechos}
-  \footnote{\cite[\S~4.061]{wittgenstein1922tractatus}: <<propositions have a
-    sense independent of the fact>>} San Anselmo también lo considera. Una
-  proposición no pierde su significado cuando no es verdadera. Si el significado
-  (\emph{significatio}) de una proposición fuera su verdad, ésta
-  \citalitinterlin{semper esset vera}\autocite[492]{anselm1952obras:deveritate},
-  siempre sería verdadera. Sin embargo el significado de una proposición
-  \citalitinterlin{manent \ldots et cum est quod enunciat, et cum non
-    est}\autocite[492]{anselm1952obras:deveritate}, permanece lo mismo cuando lo
-  que se afirma es el caso que es y cuando no lo es.
+  Elizabeth realiza su investigación adentrándose en la misma cuestión trabajada por ambos autores. El primer movimiento que hace en su análisis es indagar en la distinción entre significado y verdad. Según se ha visto, la distinción es familiar en las elucidaciones del Tractatus: \citalitinterlin{La proposición tiene un sentido que es independiente de los hechos} \footnote{\cite[\S~4.061]{wittgenstein1922tractatus}: <<propositions have a sense independent of the fact>>} San Anselmo también lo considera. Una proposición no pierde su significado cuando no es verdadera. Si el significado (\emph{significatio}) de una proposición fuera su verdad, ésta \citalitinterlin{semper esset vera}\autocite[492]{anselm1952obras:deveritate}, siempre sería verdadera. Sin embargo el significado de una proposición \citalitinterlin{manent \ldots et cum est quod enunciat, et cum non est}\autocite[492]{anselm1952obras:deveritate}, permanece lo mismo cuando lo que se afirma es el caso que es y cuando no lo es.
 
-  Significado y verdad en una proposición son distintos. Entonces, ¿qué es la
-  verdad de una proposición?. Se podría querer responder que es la
-  \citalitinterlin{res enunciata}, es decir, la realidad correspondiente, lo que
-  la proposición verdadera dice. Esta respuesta nos llevaría a confusión. ``La
-  verdad de una proposición es este hecho que es su significado''. Si esto es así,
-  entonces cuando deja de ser verdadera también pierde su significado, pues el
-  hecho que era su signifcado ya no es. Además, si la desaparición del hecho es la
-  desaparición del significado y la verdad, ¿no será entonces que el hecho es la
-  misma cosa que el significado y la
-  verdad?\autocite[Cf.~][72]{anscombe2011plato:truth}. Sin embargo no es así, el
-  hecho es lo que la hace verdadera: lo que la proposición verdadera dice, la
-  \emph{res enunciata} es la causa de la verdad de una proposición y no su verdad:
-  \citalitinterlin{non eius veritas, sed causa veritatis eius dicenda
-    est}\autocite[492]{anselm1952obras:deveritate}.
+  Significado y verdad en una proposición son distintos. Entonces, ¿qué es la verdad de una proposición?. Se podría querer responder que es la \citalitinterlin{res enunciata}, es decir, la realidad correspondiente, lo que la proposición verdadera dice. Esta respuesta nos llevaría a confusión. ``La verdad de una proposición es este hecho que es su significado''. Si esto es así, entonces cuando deja de ser verdadera también pierde su significado, pues el hecho que era su signifcado ya no es. Además, si la desaparición del hecho es la desaparición del significado y la verdad, ¿no será entonces que el hecho es la misma cosa que el significado y la verdad?\autocite[Cf.~][72]{anscombe2011plato:truth}. Sin embargo no es así, el hecho es lo que la hace verdadera: lo que la proposición verdadera dice, la \emph{res enunciata} es la causa de la verdad de una proposición y no su verdad: \citalitinterlin{non eius veritas, sed causa veritatis eius dicenda est}\autocite[492]{anselm1952obras:deveritate}.
 #+END_SRC
 *** Verdad y falsedad, ¿relaciones igualmente justificadas?
 #+BEGIN_SRC latex
-  La distinción abre otra línea de consideraciones. El hecho o la \emph{res
-    enunciata} por la proposición verdadera es la causa de la verdad del
-  enunciado. La proposición tiene significado independientemente de si es
-  verdadera o falsa. En este sentido, una proposición con significado puede
-  guardar relación de verdad o de falsedad con los hechos. Una proposición falsa
-  no carece de toda relación con el hecho, sino que contiene una descripción del
-  hecho que hace a la proposición contraria
-  verdadera\autocite[Cf.~][73]{anscombe2011plato:truth}. Podríamos pensar,
-  entonces, que la proposición verdadera y la proposición falsa pueden
-  intercambiar roles.
+  La distinción abre otra línea de consideraciones. El hecho o la \emph{res enunciata} por la proposición verdadera es la causa de la verdad del enunciado. La proposición tiene significado independientemente de si es verdadera o falsa. En este sentido, una proposición con significado puede guardar relación de verdad o de falsedad con los hechos. Una proposición falsa no carece de toda relación con el hecho, sino que contiene una descripción del hecho que hace a la proposición contraria verdadera\autocite[Cf.~][73]{anscombe2011plato:truth}. Podríamos pensar, entonces, que la proposición verdadera y la proposición falsa pueden intercambiar roles.
 
-  Wittgenstein sugiere esto cuando afirma que el hecho de \citalitinterlin{que los
-    signos ``$p$'' y ``${\sim}p$'' (``no $p$'') pueden intercambiar roles es
-    importante, pues muestra que ``$\sim$'' (``no'') no corresponde con nada en la
-    realidad}\footnote{\cite[\S4.0621]{wittgenstein1922tractatus}: <<That,
-    however, the signs ``$p$'' and ``${\sim}p$'' can say the same thing is important,
-    for it shows that the sign ``$\sim$'' corresponds to nothing in reality.>>}. Más
-  aún ``$p$'' y ``${\sim}p$'' son opuestos en significado pero a ambos enunciados
-  corresponde una sola realidad; esto es el hecho, la \emph{res enunciata} por el
-  enunciado verdadero. Esto permitiría sostener que verdadero y falso son tipos de
-  relaciones entre el signo y la cosa significada que están igualmente
-  justificadas. ``$p$'' y ``${\sim}p$'' significan la misma realidad, cualquiera
-  de las dos posibilidades que resulte ser la realidad correspondería con
-  ambas\autocite[Cf.~][73]{anscombe2011plato:truth}. La única distinción que
-  Wittgenstein se reserva entre ambas proposiciones es que una significa
-  falsamente lo que la otra significa verdaderamente. Sin embargo esta distinción
-  puede quedar disuelta con facilidad si se considera que `significa
-  verdaderamente' o `significa falsamente' no son descripciones de los sentidos de
-  las proposiciones verdaderas o falsas. Se puede entender el sentido de ``estoy
-  sentado'' o ``no estoy sentado'' sin conocer cuál enunciado se corresponde con
-  la realidad o cuál de ambas expresiones está significando verdaderamente y cuál
-  falsamente. En cuanto a la relación entre signo y significado ambas
-  proposiciones no tienen diferencia\autocite[Cf.~][74]{anscombe2011plato:truth}.
+  Wittgenstein sugiere esto cuando afirma que el hecho de \citalitinterlin{que los signos ``$p$'' y ``${\sim}p$'' (``no $p$'') pueden intercambiar roles es importante, pues muestra que ``$\sim$'' (``no'') no corresponde con nada en la realidad}\footnote{\cite[\S4.0621]{wittgenstein1922tractatus}: <<That, however, the signs ``$p$'' and ``${\sim}p$'' can say the same thing is important, for it shows that the sign ``$\sim$'' corresponds to nothing in reality.>>}. Más aún ``$p$'' y ``${\sim}p$'' son opuestos en significado pero a ambos enunciados corresponde una sola realidad; esto es el hecho, la \emph{res enunciata} por el enunciado verdadero. Esto permitiría sostener que verdadero y falso son tipos de relaciones entre el signo y la cosa significada que están igualmente justificadas. ``$p$'' y ``${\sim}p$'' significan la misma realidad, cualquiera de las dos posibilidades que resulte ser la realidad correspondería con ambas\autocite[Cf.~][73]{anscombe2011plato:truth}. La única distinción que Wittgenstein se reserva entre ambas proposiciones es que una significa falsamente lo que la otra significa verdaderamente. Sin embargo esta distinción puede quedar disuelta con facilidad si se considera que `significa verdaderamente' o `significa falsamente' no son descripciones de los sentidos de las proposiciones verdaderas o falsas. Se puede entender el sentido de ``estoy sentado'' o ``no estoy sentado'' sin conocer cuál enunciado se corresponde con la realidad o cuál de ambas expresiones está significando verdaderamente y cuál falsamente. En cuanto a la relación entre signo y significado ambas proposiciones no tienen diferencia\autocite[Cf.~][74]{anscombe2011plato:truth}.
 
-  En San Anselmo esta noción de relaciones igualmente justificadas aparece bajo la
-  forma de una pregunta planteada por el discípulo en el diálogo con su maestro.
-  Dice: \citalitlar{enséñame a responder a aquel que me dijese que aun cuando el
-    discurso exprese la existencia de lo que no existe, significa lo que debe,
-    porque ha podido significar igualmente la existencia de lo que es y de lo que
-    no es. En efecto, si no significara también la existencia de lo que no existe,
-    no lo significaría. Por lo cual, aun cuando dice ser lo que no es, significa
-    lo que debe. Pero si, al significar lo que debe, es recta y verdadera, como
-    has demostrado, el discurso es verdadero aun cuando enuncia la existencia de
-    lo que no existe\autocite[495]{anselm1952obras:deveritate}.} Las dos
-  relaciones son expresadas como una paridad: \citalitinterlin{pariter accepit
-    significare esse, et quod est, et quod non
-    est}\autocite[494]{anselm1952obras:deveritate}. Esta paridad es esencial ya
-  que si la proposición no significara lo que significa igualmente cuando lo que
-  significa es y también cuando tal cosa no es, no sería capaz de significar del
-  todo.
+  En San Anselmo esta noción de relaciones igualmente justificadas aparece bajo la forma de una pregunta planteada por el discípulo en el diálogo con su maestro. Dice: \citalitlar{enséñame a responder a aquel que me dijese que aun cuando el discurso exprese la existencia de lo que no existe, significa lo que debe, porque ha podido significar igualmente la existencia de lo que es y de lo que no es. En efecto, si no significara también la existencia de lo que no existe, no lo significaría. Por lo cual, aun cuando dice ser lo que no es, significa lo que debe. Pero si, al significar lo que debe, es recta y verdadera, como has demostrado, el discurso es verdadero aun cuando enuncia la existencia de lo que no existe\autocite[495]{anselm1952obras:deveritate}.} Las dos relaciones son expresadas como una paridad: \citalitinterlin{pariter accepit significare esse, et quod est, et quod non est}\autocite[494]{anselm1952obras:deveritate}. Esta paridad es esencial ya que si la proposición no significara lo que significa igualmente cuando lo que significa es y también cuando tal cosa no es, no sería capaz de significar del todo.
 
-  A propósito de esta paridad, Wittgenstein plantea: \citalitinterlin{¿Acaso no
-    podríamos hacernos entender usando proposiciones falsas tal como hemos hecho
-    hasta ahora por medio de las verdaderas, siempre y cuando sepamos que están
-    significadas falsamente?}\footnote{\cite[\S4.062]{wittgenstein1922tractatus}:
-    <<Can we not make ourselves understood by means of false propositions as
-    hitherto with true ones, so long as we know that they are meant to be
-    false?>>}. Anscombe compara este posible modo de actuar a una táctica de Santa
-  Juana de Arco. La Santa empleaba un código en las comunicaciones con sus
-  generales subordinados que consistía en que las cartas que ella marcaba con una
-  cruz contenían proposiciones que debían ser interpretadas en el sentido
-  contrario\autocite[Cf.~][73]{anscombe2011plato:truth}. El código es posible.
+  A propósito de esta paridad, Wittgenstein plantea: \citalitinterlin{¿Acaso no podríamos hacernos entender usando proposiciones falsas tal como hemos hecho hasta ahora por medio de las verdaderas, siempre y cuando sepamos que están significadas falsamente?}\footnote{\cite[\S4.062]{wittgenstein1922tractatus}: <<Can we not make ourselves understood by means of false propositions as hitherto with true ones, so long as we know that they are meant to be false?>>}. Anscombe compara este posible modo de actuar a una táctica de Santa Juana de Arco. La Santa empleaba un código en las comunicaciones con sus generales subordinados que consistía en que las cartas que ella marcaba con una cruz contenían proposiciones que debían ser interpretadas en el sentido contrario\autocite[Cf.~][73]{anscombe2011plato:truth}. El código es posible.
 
-  Hasta aquí Anscombe ha insitido en los argumentos de San Anselmo y de
-  Wittgenstein que apoyan la idea de que las proposiciones falsas y verdaderas
-  tienen igualdad de relación con la realidad significada. Wittgenstein ha
-  advertido del supuesto de entender ambas relaciones como igualmente
-  justificadas, sin embargo lo que ha propuesto hasta ahora parece apoyar esta
-  idea. La paridad propuesta ha resultado esencial para el significado, el sentido
-  o \emph{significatio} del tipo de proposiciones que pueden ser verdaderas o
-  falsas. La pregunta ahora es ¿qué, entonces, \emph{es} desigual entre ellas?
-  ¿Cuál es la primacia de la verdad?
+  Hasta aquí Anscombe ha insitido en los argumentos de San Anselmo y de Wittgenstein que apoyan la idea de que las proposiciones falsas y verdaderas tienen igualdad de relación con la realidad significada. Wittgenstein ha advertido del supuesto de entender ambas relaciones como igualmente justificadas, sin embargo lo que ha propuesto hasta ahora parece apoyar esta idea. La paridad propuesta ha resultado esencial para el significado, el sentido o \emph{significatio} del tipo de proposiciones que pueden ser verdaderas o falsas. La pregunta ahora es ¿qué, entonces, \emph{es} desigual entre ellas? ¿Cuál es la primacia de la verdad?
 #+END_SRC
 *** ¿Cuál es la primacia de la verdad?
 **** La respuesta de Wittgenstein
 #+BEGIN_SRC latex
-  La respuesta de Wittgenstein a esta pregunta llegará a ser: no se puede
-  describir a alguien como comunicándose con proposiciones falsas entendidas como
-  significadas falsamente ya que se tornan en proposiciones verdaderas al ser
-  afirmadas\autocite[Cf.~][75]{anscombe2011plato:truth}. Esta es su respuesta a la
-  pregunta ¿podemos darnos a entender con proposiciones falsas?:
-  \citalitinterlin{¡No! Pues una proposición es verdadera si las cosas son así
-    como estamos usándola para decir que son, y entonces si usamos ``$p$'' para
-    decir que ${\sim}p$, y las cosas son como queremos decir que son, entonces
-    ``$p$'' es vedadero en nuestro nuevo modo de tomarlo y no
-    falso}\footnote{\cite[\S4.062]{wittgenstein1922tractatus}: <<No! For a
-    proposition is true, if what we assert by means of it is the case; and if by
-    ``$p$'' we mean ${\sim}p$, and what we mean is the case, then ``$p$'' in the
-    new conception is true and not false.>>}. En la táctica antes descrita, Santa
-  Juana de Arco no mentía con su código y, si no estaba en error acerca de los
-  hechos, sus oraciones eran verdaderas y no
-  falsas\autocite[Cf.~][75]{anscombe2011plato:truth}.
+  La respuesta de Wittgenstein a esta pregunta llegará a ser: no se puede describir a alguien como comunicándose con proposiciones falsas entendidas como significadas falsamente ya que se tornan en proposiciones verdaderas al ser afirmadas\autocite[Cf.~][75]{anscombe2011plato:truth}. Esta es su respuesta a la pregunta ¿podemos darnos a entender con proposiciones falsas?: \citalitinterlin{¡No! Pues una proposición es verdadera si las cosas son así como estamos usándola para decir que son, y entonces si usamos ``$p$'' para decir que ${\sim}p$, y las cosas son como queremos decir que son, entonces ``$p$'' es vedadero en nuestro nuevo modo de tomarlo y no falso}\footnote{\cite[\S4.062]{wittgenstein1922tractatus}: <<No! For a proposition is true, if what we assert by means of it is the case; and if by ``$p$'' we mean ${\sim}p$, and what we mean is the case, then ``$p$'' in the new conception is true and not false.>>}. En la táctica antes descrita, Santa Juana de Arco no mentía con su código y, si no estaba en error acerca de los hechos, sus oraciones eran verdaderas y no falsas\autocite[Cf.~][75]{anscombe2011plato:truth}.
 
-  Para Anscombe, esta descripción de la primacía de la verdad no parece explicar
-  cómo rechazar que verdadero y falso tengan relaciones igualmente justificadas
-  ¿Acaso este tipo de imposibilidad general contiene toda la sustancia de las
-  `relaciones no igualmente justificadas'? Se puede aceptar que verdadero y falso
-  no son relaciones igualmente justificadas porque lo falso no podría hacerse
-  cargo del rol de lo verdadero en las afirmaciones y en el pensamiento. Sin
-  embargo, podemos mentir\ldots\, o equivocarnos. La imposibilidad general de
-  intercambiar los roles de verdadero y falso propuesta por Wittgenstein no
-  considera ni el error ni la mentira. Esta imposibilidad general puede ofrecer
-  una cierta primacia de la verdad dentro de la teoría del significado, pero ¿se
-  podría apoyar en esto el decir que la proposición verdadera tiene una relación
-  mas \emph{justificada} con la realidad que la
-  falsa?\autocite[Cf.~][75]{anscombe2011plato:truth}.
+  Para Anscombe, esta descripción de la primacía de la verdad no parece explicar cómo rechazar que verdadero y falso tengan relaciones igualmente justificadas ¿Acaso este tipo de imposibilidad general contiene toda la sustancia de las `relaciones no igualmente justificadas'? Se puede aceptar que verdadero y falso no son relaciones igualmente justificadas porque lo falso no podría hacerse cargo del rol de lo verdadero en las afirmaciones y en el pensamiento. Sin embargo, podemos mentir\ldots\, o equivocarnos. La imposibilidad general de intercambiar los roles de verdadero y falso propuesta por Wittgenstein no considera ni el error ni la mentira. Esta imposibilidad general puede ofrecer una cierta primacia de la verdad dentro de la teoría del significado, pero ¿se podría apoyar en esto el decir que la proposición verdadera tiene una relación mas \emph{justificada} con la realidad que la falsa?\autocite[Cf.~][75]{anscombe2011plato:truth}.
 #+END_SRC
 **** La respuesta de San Anselmo
 #+BEGIN_SRC latex
-  En San Anselmo, por su parte, se puede encontrar una propuesta sobre la primacía
-  de la verdad dentro de su definición de lo que la verdad es. Su punto de partida
-  ha sido la pregunta: \citalitinterlin{¿Cuál es el fin de la
-    afirmación?}\autocite[495]{anselm1952obras:deveritate} El diálogo se
-  desarrolla de este modo: \citalitlar{\emph{Maestro.}---¿Cuál te parece ser aquí
-    la verdad?\\
-    \emph{Discípulo.}---No sé más que, cuando significa existir lo que existe
-    realmente, está en ella la verdad y es verdadera.\\
-    \emph{M.}---¿Cuál es el fin de la afirmación?\\
-    \emph{D.}---Expresar lo que es.\\
-    \emph{M.}---¿Debe, pues, hacerlo?\\
-    \emph{D.}---Ciertamente.\\
-    \emph{M.}---Por consiguiente, cuando expresa la existencia de lo que existe,
-    expresa lo que debe.\\
-    \emph{D.}---Es evidente.\\
-    \emph{M.}---Y cuando expresa lo que debe, expresa con exactitud.\\
-    \emph{D.}---Así es.\\
-    \emph{M.}---Pero cuando expresa con rectitud, ¿su significación es exacta?\\
-    \emph{D.}---Sin duda ninguna.\\
-    \emph{M.}---Cuando expresa la existencia de lo que es, ¿la significación es recta?\\
-    \emph{D.}---Es una conclusión que se impone.\\
-    \emph{M.}---Igualmente, cuando significa la existencia de lo que existe, su
-    significado es verdadero.\\
-    \emph{D.}---Ciertamente es a la vez verdadera y recta cuando expresa la
-    existencia de lo que es.\\
-    \emph{M.}---¿Entonces es una misma y única cosa para ella el ser recta y
-    verdadera, es decir, manifestar la existencia de lo que es?\\
-    \emph{D.}---Es una sola y misma cosa.\\
-    \emph{M.}---Por consiguiente, para ella, la verdad no es otra cosa que la
-    rectitud.\\
-    \emph{D.}---Sí; veo con claridad que la verdad no es más que esta rectitud.\\
-    \emph{M.}---Lo mismo hay que decir cuando la enunciación expresa la no
-    existencia de lo que existe\autocite[495]{anselm1952obras:deveritate}.}
+    En San Anselmo, por su parte, se puede encontrar una propuesta sobre la primacía de la verdad dentro de su definición de lo que la verdad es. Su punto de partida ha sido la pregunta: \citalitinterlin{¿Cuál es el fin de la afirmación?}\autocite[495]{anselm1952obras:deveritate} El diálogo se desarrolla de este modo:
+  \citalitlar{\emph{Maestro.}---¿Cuál te parece ser aquí
+      la verdad?\\
+      \emph{Discípulo.}---No sé más que, cuando significa existir lo que existe
+      realmente, está en ella la verdad y es verdadera.\\
+      \emph{M.}---¿Cuál es el fin de la afirmación?\\
+      \emph{D.}---Expresar lo que es.\\
+      \emph{M.}---¿Debe, pues, hacerlo?\\
+      \emph{D.}---Ciertamente.\\
+      \emph{M.}---Por consiguiente, cuando expresa la existencia de lo que existe,
+      expresa lo que debe.\\
+      \emph{D.}---Es evidente.\\
+      \emph{M.}---Y cuando expresa lo que debe, expresa con exactitud.\\
+      \emph{D.}---Así es.\\
+      \emph{M.}---Pero cuando expresa con rectitud, ¿su significación es exacta?\\
+      \emph{D.}---Sin duda ninguna.\\
+      \emph{M.}---Cuando expresa la existencia de lo que es, ¿la significación es recta?\\
+      \emph{D.}---Es una conclusión que se impone.\\
+      \emph{M.}---Igualmente, cuando significa la existencia de lo que existe, su
+      significado es verdadero.\\
+      \emph{D.}---Ciertamente es a la vez verdadera y recta cuando expresa la
+      existencia de lo que es.\\
+      \emph{M.}---¿Entonces es una misma y única cosa para ella el ser recta y
+      verdadera, es decir, manifestar la existencia de lo que es?\\
+      \emph{D.}---Es una sola y misma cosa.\\
+      \emph{M.}---Por consiguiente, para ella, la verdad no es otra cosa que la
+      rectitud.\\
+      \emph{D.}---Sí; veo con claridad que la verdad no es más que esta rectitud.\\
+      \emph{M.}---Lo mismo hay que decir cuando la enunciación expresa la no existencia de lo que existe\autocite[495]{anselm1952obras:deveritate}.}
 
-  El discípulo ha visto que la verdad del enunciado no es la \emph{res enunciata}
-  por una proposición verdadera, tampoco está en la significación, o en cualquier
-  cosa perteneciente a la definición, sino que \citalitinterlin{Nihil aliud scio
-    nisi quia cum significat esse qous est, tunc est in ea veritas et est
-    vera}\autocite[492]{anselm1952obras:deveritate}. Cuando una afirmación hace
-  aquello para lo que es, la significación (\emph{significatio}) está hecha
-  rectamente. Esta rectitud es lo que la verdad es. Es aquí que el discípulo
-  presenta la objeción antes expuesta: `Cuando una expresión significa que es algo
-  que no es, ¿se puede decir que está significando lo que debe?'. La respuesta del
-  maestro será: \citalitinterlin{veritatem tamen et rectitudinem habet, quia facit
-    quod debet}\autocite[494]{anselm1952obras:deveritate}. Una expresión falsa
-  hace lo que debe en significar aquello que le ha sido dado significar, hace
-  aquello para lo que la expresión es. Sin embargo, teniendo este modo de ser
-  verdadera, no solemos llamarla verdadera pues habitualmente decimos que la
-  expresión es verdadera y correcta sólo cuando significa que es aquello que es y
-  no cuando significa que es aquello que no es, pues tiene mayor deber de hacer
-  aquello para lo que se le ha dado significar que para lo que no se le ha dado.
-  Es sorprendente que el maestro no rechace la descripción del discípulo, más aún
-  que la reitere. La objeción presentada no supone un impedimento para sostener
-  esta descripción de la verdad. El maestro retiene su explicación apoyada en que
-  la verdad de un enunciado es que hace lo que
-  debe\autocite[Cf.~][76]{anscombe2011plato:truth}.
+    El discípulo ha visto que la verdad del enunciado no es la \emph{res enunciata} por una proposición verdadera, tampoco está en la significación, o en cualquier cosa perteneciente a la definición, sino que \citalitinterlin{Nihil aliud scio nisi quia cum significat esse qous est, tunc est in ea veritas et est vera}\autocite[492]{anselm1952obras:deveritate}. Cuando una afirmación hace aquello para lo que es, la significación (\emph{significatio}) está hecha rectamente. Esta rectitud es lo que la verdad es. Es aquí que el discípulo presenta la objeción antes expuesta: `Cuando una expresión significa que es algo que no es, ¿se puede decir que está significando lo que debe?'. La respuesta del maestro será: \citalitinterlin{veritatem tamen et rectitudinem habet, quia facit quod debet}\autocite[494]{anselm1952obras:deveritate}. Una expresión falsa hace lo que debe en significar aquello que le ha sido dado significar, hace aquello para lo que la expresión es. Sin embargo, teniendo este modo de ser verdadera, no solemos llamarla verdadera pues habitualmente decimos que la expresión es verdadera y correcta sólo cuando significa que es aquello que es y no cuando significa que es aquello que no es, pues tiene mayor deber de hacer aquello para lo que se le ha dado significar que para lo que no se le ha dado. Es sorprendente que el maestro no rechace la descripción del discípulo, más aún que la reitere. La objeción presentada no supone un impedimento para sostener esta descripción de la verdad. El maestro retiene su explicación apoyada en que la verdad de un enunciado es que hace lo que debe\autocite[Cf.~][76]{anscombe2011plato:truth}.
 
-  ¿En qué consiste entonces la primacía de la verdad? La proposición verdadera
-  hace lo que debe de dos maneras: significa justo aquello que se le ha dado
-  significar ---independientemente de si es el caso que es o no--- y significa
-  aquello para lo que se le ha dado esa significación, esto es, afirmar como que
-  es el caso lo que \emph{es} el caso. Calificamos de justa y verdadera la
-  proposición en virtud de ese hacer doblemente lo que debe, es decir, por su
-  rectitud y verdad.\autocite[Cf.~][497]{anselm1952obras:deveritate}.
+    ¿En qué consiste entonces la primacía de la verdad? La proposición verdadera hace lo que debe de dos maneras: significa justo aquello que se le ha dado significar ---independientemente de si es el caso que es o no--- y significa aquello para lo que se le ha dado esa significación, esto es, afirmar como que es el caso lo que \emph{es} el caso. Calificamos de justa y verdadera la proposición en virtud de ese hacer doblemente lo que debe, es decir, por su rectitud y verdad.\autocite[Cf.~][497]{anselm1952obras:deveritate}.
 
-  Una observación adicional de Anselmo puede ser relacionada con la pregunta de
-  Wittgenstein: `¿Podríamos darnos a entender por medio de proposiciones falsas?'.
-  \citalitinterlin{[la enunciación] no ha sido hecha para expresar que una cosa
-    existe cuando no existe o que no existe cuando sí existe, porque fue imposible
-    hacer que expresase solamente la existencia cuando ésta existe, o la no
-    existencia cuando no existe}\autocite[497]{anselm1952obras:deveritate}. A la
-  proposición no se le podía dar significar que algo es solamente cuando eso que
-  significa da el caso que es o su no ser sólo cuando es el caso que no es,
-  solamente por eso puede significar lo contrario de lo que existe, aunque no ha
-  sido hecha para eso\autocite[Cf~.][76]{anscombe2011plato:truth}. La observación
-  se acerca a la respuesta de Wittgenstein. En este sentido, lo falso sólo es
-  posible porque lo verdadero (en este tipo de proposiciones) no puede ser la
-  única posibilidad.
+    Una observación adicional de Anselmo puede ser relacionada con la pregunta de Wittgenstein: `¿Podríamos darnos a entender por medio de proposiciones falsas?'. \citalitinterlin{[la enunciación] no ha sido hecha para expresar que una cosa existe cuando no existe o que no existe cuando sí existe, porque fue imposible hacer que expresase solamente la existencia cuando ésta existe, o la no existencia cuando no existe}\autocite[497]{anselm1952obras:deveritate}. A la proposición no se le podía dar significar que algo es solamente cuando eso que significa da el caso que es o su no ser sólo cuando es el caso que no es, solamente por eso puede significar lo contrario de lo que existe, aunque no ha sido hecha para eso\autocite[Cf~.][76]{anscombe2011plato:truth}. La observación se acerca a la respuesta de Wittgenstein. En este sentido, lo falso sólo es posible porque lo verdadero (en este tipo de proposiciones) no puede ser la única posibilidad.
 
-  La descripción de la verdad que Anselmo comienza aquí le llevará por medio de
-  consideraciones sobre la verdad en el pensamiento, la voluntad, la acción y el
-  ser de las cosas a su conocida definición de la verdad como \emph{veritas est
-    rectitudo sola mente perceptibilis}\autocite[522]{anselm1952obras:deveritate}.
+    La descripción de la verdad que Anselmo comienza aquí le llevará por medio de consideraciones sobre la verdad en el pensamiento, la voluntad, la acción y el ser de las cosas a su conocida definición de la verdad como \emph{veritas est rectitudo sola mente perceptibilis}\autocite[522]{anselm1952obras:deveritate}.
 #+END_SRC
 ** Solución de Anscombe
 ***** balance
  #+BEGIN_SRC latex
    \subsection{Solución de Anscombe}
-   Anscombe no llega a proponer una respuesta suya a la cuestión planteada en
-   \emph{Truth}. Culmina constatando cómo San Anselmo y Wittgenstein indican una
-   cierta primacia de la verdad en la materia del significado apoyados en distintas
-   razones. Sin embargo en \emph{Truth, Sense and
-     Assertion}\autocite{anscombe2015logic:tsa} quedan recogidas sus notas para una
-   lección ofrecida en \emph{Johns Hopkins University} en abril de
-   1987\autocite[Cf.~][264 n.~1]{anscombe2015logic:tsa} en donde continúa su
-   análisis y ofrece una solución propia.
+   Anscombe no llega a proponer una respuesta suya a la cuestión planteada en \emph{Truth}. Culmina constatando cómo San Anselmo y Wittgenstein indican una cierta primacia de la verdad en la materia del significado apoyados en distintas razones. Sin embargo en \emph{Truth, Sense and Assertion}\autocite{anscombe2015logic:tsa} quedan recogidas sus notas para una lección ofrecida en \emph{Johns Hopkins University} en abril de 1987\autocite[Cf.~][264 n.~1]{anscombe2015logic:tsa} en donde continúa su análisis y ofrece una solución propia.
 
-   La pregunta fundamental que plantea Anscombe en este análisis es:
-   \citalitinterlin{¿Es la enunciación lo mismo que la
-     significación?}\footnote{\cite[271]{anscombe2015logic:tsa}:<<Is enuntiation
-     the same as signification?>>}. El sentido de un enunciado es el mismo cuando
-   éste es verdadero o falso, pero ¿se puede decir lo mismo de la enunciación?. La
-   proposición verdadera tiene una \emph{res enuntiata}, ¿hay algo enunciado cuando
-   una proposición es falsa?.
+   La pregunta fundamental que plantea Anscombe en este análisis es: \citalitinterlin{¿Es la enunciación lo mismo que la significación?}\footnote{\cite[271]{anscombe2015logic:tsa}:<<Is enuntiation the same as signification?>>}. El sentido de un enunciado es el mismo cuando éste es verdadero o falso, pero ¿se puede decir lo mismo de la enunciación?. La proposición verdadera tiene una \emph{res enuntiata}, ¿hay algo enunciado cuando una proposición es falsa?.
 
-   Curiosamente, Elizabeth hecha mano de los sofistas para formular su respuesta.
-   Trae a la memoria cómo para el sofista todo lo que opina cualquier persona es
-   verdad, lo que viene al pensamiento es como la percepción, es el modo en que las
-   cosas se presentan a cada uno. Desde esta idea, el sofista inventa el argumento
-   de que \citalitinterlin{Aquel que piensa lo que es falso piensa lo que no es;
-     pero lo que no existe no es nada; así que el que piensa lo que es falso no
-     está pensando nada, pero si no está pensando nada, no está
-     pensando}\footnote{\cite[264]{anscombe2015logic:tsa}: <<`He who thinks what is
-     false thinks what is not; but what is not isn't anything; so he who thinks
-     what is false isn't thinking \emph{anything}, but if he isn't thinking
-     anything, he isn't thinking.'>>}. Anscombe propone entonces lo que considera
-   \citalitinterlin{el último pedazo, la piedra angular del arco que representa las
-     relaciones entre verdad, sentido y
-     aserción}\footnote{\cite[271]{anscombe2015logic:tsa}: <<the last bit, the
-     keystone of the arch representing the relations of truth, sense and
-     assertion>>}, dice:\citalitlar{Se llega a donde los Sofistas estaban en lo
-     correcto en mi formulación presente: la proposición falsa, mientras que sí
-     \emph{dice algo}, no es el caso, cuando es creída, que \emph{enuncie} a sus
-     creyentes cosa alguna. Así: aquel que piensa lo que es falso piensa lo que no
-     es; piensa algo que le dice nada; pero esto no significa que piense nada, es
-     decir, que no esté pensando en nada
-     \footnote{\cite[271]{anscombe2015logic:tsa}<<Where the Sophists were right is
-       reached in my present formulation: the false proposition, while it does
-       \emph{say something}, does not, being believed, \emph{tell} its believers
-       anything. So: he who thinks what is false thinks what is not; he thinks
-       something which tells him nothing; but that does not mean he thinks nothing,
-       i.e. does not think anything.>>}.}
+   Curiosamente, Elizabeth hecha mano de los sofistas para formular su respuesta. Trae a la memoria cómo para el sofista todo lo que opina cualquier persona es verdad, lo que viene al pensamiento es como la percepción, es el modo en que las cosas se presentan a cada uno. Desde esta idea, el sofista inventa el argumento de que \citalitinterlin{Aquel que piensa lo que es falso piensa lo que no es; pero lo que no existe no es nada; así que el que piensa lo que es falso no está pensando nada, pero si no está pensando nada, no está pensando}\footnote{\cite[264]{anscombe2015logic:tsa}: <<`He who thinks what is false thinks what is not; but what is not isn't anything; so he who thinks what is false isn't thinking \emph{anything}, but if he isn't thinking anything, he isn't thinking.'>>}. Anscombe propone entonces lo que considera \citalitinterlin{el último pedazo, la piedra angular del arco que representa las relaciones entre verdad, sentido y aserción}\footnote{\cite[271]{anscombe2015logic:tsa}: <<the last bit, the keystone of the arch representing the relations of truth, sense and assertion>>}, dice:\citalitlar{Se llega a donde los Sofistas estaban en lo correcto en mi formulación presente: la proposición falsa, mientras que sí \emph{dice algo}, no es el caso, cuando es creída, que \emph{enuncie} a sus creyentes cosa alguna. Así: aquel que piensa lo que es falso piensa lo que no es; piensa algo que le dice nada; pero esto no significa que piense nada, es decir, que no esté pensando en nada \footnote{\cite[271]{anscombe2015logic:tsa}<<Where the Sophists were right is reached in my present formulation: the false proposition, while it does \emph{say something}, does not, being believed, \emph{tell} its believers anything. So: he who thinks what is false thinks what is not; he thinks something which tells him nothing; but that does not mean he thinks nothing, i.e. does not think anything.>>}.}
 
-   Según Anscombe una proposición verdadera refleja la existencia de lo que sí es,
-   mientras que la situación analoga en la proposición falsa es que refleja la
-   existencia de aquello que no es; ambos, la existencia reflejada y aquello que no
-   es, son nada\autocite[271]{anscombe2015logic:tsa}. En ese sentido, la proposición
-   falsa, aunque dice o expresa un signo, no transmite o informa nada, puesto que
-   lo que refleja no es.
+   Según Anscombe una proposición verdadera refleja la existencia de lo que sí es, mientras que la situación analoga en la proposición falsa es que refleja la existencia de aquello que no es; ambos, la existencia reflejada y aquello que no es, son nada\autocite[271]{anscombe2015logic:tsa}. En ese sentido, la proposición falsa, aunque dice o expresa un signo, no transmite o informa nada, puesto que lo que refleja no es.
 
-   Elizabeth establece una distinción adicional. Una aserción no sólo tiene como
-   objeto la proposición afirmada, sino que también tiene un sujeto personal. La
-   persona usa la proposición para afirmar lo que la proposición significa. La
-   proposición cumple con la tarea de significar siendo falsa o cierta, la persona
-   que la usa para afirmar, en este sentido, tiene un deber mayor de emplearla para
-   significar la existencia de lo que sí
-   es\autocite[Cf.~][267]{anscombe2015logic:tsa}. Hecha esta distinción, se puede
-   decir que una persona enuncie una falsedad, pero esta proposición, si es creida,
-   no informa a su creyente. El pensamiento que se construya desde esa creencia
-   dice algo que no informa de nada\autocite[Cf.~][271]{anscombe2015logic:tsa}. Una
-   paradoja, por otra parte, no sólo no informa o eununcia, sino que no dice o
-   expresa nada\autocite[Cf.~][271]{anscombe2015logic:tsa}.
+   Elizabeth establece una distinción adicional. Una aserción no sólo tiene como objeto la proposición afirmada, sino que también tiene un sujeto personal. La persona usa la proposición para afirmar lo que la proposición significa. La proposición cumple con la tarea de significar siendo falsa o cierta, la persona que la usa para afirmar, en este sentido, tiene un deber mayor de emplearla para significar la existencia de lo que sí es\autocite[Cf.~][267]{anscombe2015logic:tsa}. Hecha esta distinción, se puede decir que una persona enuncie una falsedad, pero esta proposición, si es creida, no informa a su creyente. El pensamiento que se construya desde esa creencia dice algo que no informa de nada\autocite[Cf.~][271]{anscombe2015logic:tsa}. Una paradoja, por otra parte, no sólo no informa o eununcia, sino que no dice o expresa nada\autocite[Cf.~][271]{anscombe2015logic:tsa}.
 
-   La cuestión planteada al final de la investigación sobre creer a alguien quedó
-   formulada diciendo: dada la posibilidad de adquirir la misma creencia `$p$' de
-   alguien que habla rectamente y es veraz o de alguien que habla equivocadamente y
-   miente, ¿por qué hay una indisposición a llamar al segundo caso creer al que
-   habla?.
+   La cuestión planteada al final de la investigación sobre creer a alguien quedó formulada diciendo: dada la posibilidad de adquirir la misma creencia `$p$' de alguien que habla rectamente y es veraz o de alguien que habla equivocadamente y miente, ¿por qué hay una indisposición a llamar al segundo caso creer al que habla?.
 
-   Después de examinar la descripción que Anscombe ha hecho sobre la verdad se
-   puede añadir aquí que la proposición misma, aún teniendo significación, no
-   enuncia nada (carece de \emph{res enuntiata}) cuando es falsa; en ese sentido
-   significa como debe (tiene esa rectitud) pero no hace aquello para lo que se le
-   ha dado el significar. Cuando una persona hace una afirmación, usa la
-   proposición para significar y en esto tiene rectitud, sin embargo tiene un deber
-   mayor de emplear la proposición para el fin que se le ha dado el significar, es
-   decir, reflejar la existencia de lo que sí es. Cuando una persona se equivoca y
-   miente emplea una proposición que hace lo que debe al significar, y por tanto se
-   puede `calcular' su opuesto para llegar a la verdad; pero no es recta en su
-   deber de emplear la proposición para el fin que se le ha dado el significar. Es
-   esta rectitud en el uso de la proposición lo que generaría la disposición a
-   decir que se cree a alguien, y no sólo lo que dice.
+   Después de examinar la descripción que Anscombe ha hecho sobre la verdad se puede añadir aquí que la proposición misma, aún teniendo significación, no enuncia nada (carece de \emph{res enuntiata}) cuando es falsa; en ese sentido significa como debe (tiene esa rectitud) pero no hace aquello para lo que se le ha dado el significar. Cuando una persona hace una afirmación, usa la proposición para significar y en esto tiene rectitud, sin embargo tiene un deber mayor de emplear la proposición para el fin que se le ha dado el significar, es decir, reflejar la existencia de lo que sí es. Cuando una persona se equivoca y miente emplea una proposición que hace lo que debe al significar, y por tanto se puede `calcular' su opuesto para llegar a la verdad; pero no es recta en su deber de emplear la proposición para el fin que se le ha dado el significar. Es esta rectitud en el uso de la proposición lo que generaría la disposición a decir que se cree a alguien, y no sólo lo que dice.
 
-   Después de este recorrido examinaremos el segundo punto derivado anteriormente
-   desde la investigación sobre el creer: la descripción de `fe' como `creer a
-   Dios'.
+   Después de este recorrido examinaremos el segundo punto derivado anteriormente desde la investigación sobre el creer: la descripción de `fe' como `creer a Dios'.
   #+END_SRC
 
 ***** recurrence to the sophists
@@ -542,7 +243,6 @@ ambas
 que la proposición significa las cosas siendo de este modo
 y
 que la persona usando la proposición también lo hace.
-
 Sin embargo, parece que no nota que la proposicion puede ocurrir como una clausula
 subordinada,
 una if-clause, por ejemplo, y entonces no hay nada malo con su ser falsa .
@@ -589,8 +289,7 @@ A false proposition believed still tells its believer nothing.
 
 ** person may tell falsehood,prop tells something only if it's true
 
- A /person/ may tell one a falsehood
- but
+ A /person/ may tell one a falsehood but
 
  just as we say that a proposition as well as a person /says/ such and such,
 
@@ -600,8 +299,7 @@ A false proposition believed still tells its believer nothing.
 
  for then it reflects the being so of what it is so
 
- but the analogue of this, for a false proposition, would be that it reflects the being
- so of what is not so.
+ but the analogue of this, for a false proposition, would be that it reflects the being so of what is not so.
 
  And there is no such thing as either
 
@@ -639,9 +337,6 @@ a paradox, on the other hand does not say anything.
   símbolos) pueden ser sistematicamente inercambiados, cada uno asumiendo la
   función del otro..
 
-
-
-
 * What can hold of thought
   ``It was left to the moderns to deduce what could be from what could hold of thought,
   as we see Hume to have done. This trend is still strong. But the ancients had the
@@ -653,7 +348,6 @@ a paradox, on the other hand does not say anything.
   is probably the most illuminating thing about W.'s comparison of propositions and
   pictures; namely, this janus-faced aspect of a proposition, an aspect that can be
   expressed in various ways... in her lecture ``la verdad''
-
 
 * Making True (1982)
 
@@ -758,7 +452,6 @@ that is the efficient cause
 
 how assertions of hypocrisy are made true?
 
-
 p is made true by the fact that p
 
 in a tractatus-like metaphysics of facts this would be possible
@@ -816,7 +509,6 @@ that has been introduced
 
 is not so bad after all
 
-
 the general principle
 that
 can't by rebutted by
@@ -832,8 +524,6 @@ when one says what,
 if anything
 
 makes a certain proposition true
-
-
 
 when one says what makes a certain proposition true
 
@@ -950,37 +640,10 @@ es, no lo significaría. Por lo cual, también cuando significa que lo que no es
 significa lo que debe. Y si significando lo que debe, es recta y verdadera, como
 mostraste, el enunciado es verdadero también cuando enuncia que lo que no es, es.
 
-M. No suele decirse verdadera cuando enuncia que lo que no es, es; sin embargo tiene
-rectitud y verdad porque hace lo que debe. Pero cuando significa que lo que es, es,
-hace doblemente lo que debe, porque significa no solo lo que recibió --el significar
-mismo-—, sino también aquello para lo que es hecha. Es según esta rectitud y verdad por
-la cual significa que lo que es, es, que usualmente se dice verdadera la enunciación,
-no según aquella por la cual significa también que lo que no es, es. Debe más aquello
-para lo que recibió la significación que aquello para lo cual no la recibió. Pues no
-recibió significar que la cosa es, cuando no es, o que la cosa no es, cuando es, sino
-porque no pudo dársele solo significar que la que es, es, o que la que no es, no es.
-Una es la rectitud y la verdad de la enunciación por la que significa aquello para
-significar lo cual ha sido hecha, y otra, aquella por la cual recibió el significar.
-Porque esta última es inmutable para el enunciado; la primera es mudable. A esta
-[rectitud y verdad] la tiene siempre; a aquella, no siempre. A esta la tiene
-naturalmente, a aquella accidentamente y según el uso. Pues cuando digo «es de día»
-para significar que lo que es, es, uso con rectitud la significación del enunciado
-porque ha sido hecha con este fin; entonces se dice que significa rectamente. Cuando
-mediante el mismo enunciado significo que lo que no es, es, no la uso rectamente porque
-no ha sido hecha con este fin; y entonces su significación se dice no recta. Aunque
-hay, sin embargo, algunos enunciados en los cuales esas dos rectitudes o verdades
-resultan inseparables, como cuando decimos «el hombre es animal» o «el hombre nunca es
-piedra». Esa afirmación siempre significa que lo que es, es; esta negación, que lo que
-no es, no es; aquella no podemos usarla para decir que lo que es, no es, porque el
-hombre siempre es animal, ni esta para significar que lo que no es, es, porque el
-hombre jamás es piedra. Comenzamos a inquirir la verdad que tiene el enunciado según
-que alguien hace de él uso recto, porque es de conformidad con esta verdad que, en la
-acepción más ususal, se juzga verdadero al enunciado. De aquella verdad que el
-enunciado no puede no tener, hablaremos más tarde.
+M. No suele decirse verdadera cuando enuncia que lo que no es, es; sin embargo tiene rectitud y verdad porque hace lo que debe. Pero cuando significa que lo que es, es, hace doblemente lo que debe, porque significa no solo lo que recibió --el significar mismo-—, sino también aquello para lo que es hecha. Es según esta rectitud y verdad por la cual significa que lo que es, es, que usualmente se dice verdadera la enunciación, no según aquella por la cual significa también que lo que no es, es. Debe más aquello para lo que recibió la significación que aquello para lo cual no la recibió. Pues no recibió significar que la cosa es, cuando no es, o que la cosa no es, cuando es, sino porque no pudo dársele solo significar que la que es, es, o que la que no es, no es. Una es la rectitud y la verdad de la enunciación por la que significa aquello para significar lo cual ha sido hecha, y otra, aquella por la cual recibió el significar. Porque esta última es inmutable para el enunciado; la primera es mudable. A esta [rectitud y verdad] la tiene siempre; a aquella, no siempre. A esta la tiene naturalmente, a aquella accidentamente y según el uso. Pues cuando digo «es de día» para significar que lo que es, es, uso con rectitud la significación del enunciado porque ha sido hecha con este fin; entonces se dice que significa rectamente.
+Cuando mediante el mismo enunciado significo que lo que no es, es, no la uso rectamente porque no ha sido hecha con este fin; y entonces su significación se dice no recta. Aunque hay, sin embargo, algunos enunciados en los cuales esas dos rectitudes o verdades resultan inseparables, como cuando decimos «el hombre es animal» o «el hombre nunca es piedra». Esa afirmación siempre significa que lo que es, es; esta negación, que lo que no es, no es; aquella no podemos usarla para decir que lo que es, no es, porque el hombre siempre es animal, ni esta para significar que lo que no es, es, porque el hombre jamás es piedra. Comenzamos a inquirir la verdad que tiene el enunciado según que alguien hace de él uso recto, porque es de conformidad con esta verdad que, en la acepción más ususal, se juzga verdadero al enunciado. De aquella verdad que el enunciado no puede no tener, hablaremos más tarde.
 
-D. Vuelve entonces al lugar donde comenzamos, porque has discriminado lo suficiente
-entre estas dos verdades del enunciado, siempre que muestres que cuando se miente, ese
-enunciado tiene, según dices, verdad.
+D. Vuelve entonces al lugar donde comenzamos, porque has discriminado lo suficiente entre estas dos verdades del enunciado, siempre que muestres que cuando se miente, ese enunciado tiene, según dices, verdad.
 
 M. Acerca de la verdad de la significación, por donde comenzamos, sea suficiente por el
 momento lo que se ha dicho. La misma razón que hemos descubierto en los enunciados que
@@ -1026,48 +689,31 @@ have said that truth and falsehood do not bear equally justified relations to th
 things depicted.
 
 How does truth and not falsehood bear a 'justified relation' to the thing signified?
-Teichmann thinks the answer can be found in A.'s explanation of practical necessity.
-It has two strands: an account of the nature of stopping/forcing modals; an account of
-the aristotelian necessity of our going in for the practice within which those modals
-have force.
+Teichmann thinks the answer can be found in A.'s explanation of practical necessity. It has two strands: an account of the nature of stopping/forcing modals; an account of the aristotelian necessity of our going in for the practice within which those modals have force.
 
-Still Teichmann believes this answer wouldn't satisfy A., the justified relation that
-truth has to the thing signified is not just one of practical necessity, for lying is
-an offence to truth itself. God as truth is Anselm's notion of summa veritas. A. isn't
-opposed to the idea of there being mysteries. Trascendental unity of truth is stressed
-by this idea. (cfr. TEICH 198)
+Still Teichmann believes this answer wouldn't satisfy A., the justified relation that truth has to the thing signified is not just one of practical necessity, for lying is
+an offence to truth itself. God as truth is Anselm's notion of summa veritas. A. isn't opposed to the idea of there being mysteries. Trascendental unity of truth is stressed by this idea. (cfr. TEICH 198)
 
 * Unity of truth
 
 Something can be true without existing
 
-if truth, rightness, vary according to what kind of thing is true or right, then their
-existence depends on the existence of those subjects of them
+if truth, rightness, vary according to what kind of thing is true or right, then their existence depends on the existence of those subjects of them
 
-contrast truth(rightness) vs properties so inherent in ther subjects that they wouldn't
-exist without their subjects
+contrast truth(rightness) vs properties so inherent in ther subjects that they wouldn't exist without their subjects
 
 truth(rightness) exists without bearers
 
 
 * Truth is:
 
--a property (rectitudo) which something can have without existing propositions don't
-have to exist to be true
+-a property (rectitudo) which something can have without existing propositions don't have to exist to be true
 
--if we want to say that truth is something that varies according to its bearers
-that there are different kinds of truth we first have to attack anselm's first argument
-if truth, rightness, vary according to what kind of thing is true or right, then their
-existence depends on the existence of those subjects of them
+-if we want to say that truth is something that varies according to its bearers that there are different kinds of truth we first have to attack anselm's first argument if truth, rightness, vary according to what kind of thing is true or right, then their existence depends on the existence of those subjects of them
 
 -truth(rightness) exists without bearers
--primary in assertion over falsehood because a true proposition tells something when it
-is believed, but falsehood tells nothing
+-primary in assertion over falsehood because a true proposition tells something when it is believed, but falsehood tells nothing
 -made in propostions by true propositions that aren't made true
-
-
-
-
 
 * /Solutio/:
 :STATEMENT:
