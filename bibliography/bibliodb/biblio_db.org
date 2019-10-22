@@ -491,7 +491,7 @@ keywords={Anscombe Elizabeth; Primary Source; St Andrews}
 ***** PART 2: Thought and Belief
 ****** Belief and Thought
 #+BEGIN_SRC bibtex :tangle primary.bib
-  @incollection{anscombe2015logic:,
+  @incollection{anscombe2015logic:bt,
   title={Belief and Thought},
   crossref={anscombe2015logic},
   keywords={},

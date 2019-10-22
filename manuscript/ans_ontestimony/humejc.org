@@ -92,7 +92,7 @@ Elizabeth entonces concluye que: \blockquote[{\cite[89]{anscombe1981parmenides:h
 #+END_SRC
 *** The interesting problem
 #+BEGIN_SRC latex
-Ahora bien, como se ha dicho antes, el interés de Anscombe no está simplemente en mostrar en qué se equivoca Hume, sino que considera que la cuestión toca el nervio de un problema con cierta profundidad: \blockquote[{\cite[122]{anscombe2011plato:humecaus}}: \enquote{The interesting problem that arises, then, is why the things we are told and the writings that we see are the starting points for our belief in the far distant events and so in the intermediate chain of record.}]{El problema interesante que surge, entonces, es por qué las cosas que se nos dicen y los escritos que vemos son puntos de partida para nuestro creer en eventos distantes y así también en la cadena del relato intermedia.}
+Ahora bien, como se ha dicho antes, el interés de Anscombe no está simplemente en mostrar en qué se equivoca Hume, sino que considera que la cuestión toca el nervio de un problema con cierta profundidad: \blockquote[{\cite[122]{anscombe2011plato:humecaus}}: \enquote{The interesting problem that arises, then, is why the things we are told and the writings that we see \emph{are} the starting points for our belief in the far distant events and so in the intermediate chain of record.}]{El problema interesante que surge, entonces, es por qué las cosas que se nos dicen y los escritos que vemos \emph{son} puntos de partida para nuestro creer en eventos distantes y así también en la cadena del relato intermedia.}
 #+END_SRC
 ** DONE Out-huming Hume
 CLOSED: [2019-09-03 Tue 14:46]
