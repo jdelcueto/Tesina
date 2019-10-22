@@ -2,6 +2,11 @@
 #---------------------------------------------------------------------------
 # Santa Teresa Benedicta de la Cruz, ruega por nosotros
 
+REVISAR BIEN:
+- Nos vamos con la interpretación de teichman? entonces, hay que identificar el brazo que parmenides no usa con la postura del empirismo?
+
+- En Truth sense and assertion hay un punto relacionado con lo que platón respondió a los sofistas, y lo que podría responder, eso añadirlo aquí.
+
 ** DONE Parmenides, Mystery and Contradiction (1969) [100%]
 CLOSED: [2019-09-10 Tue 14:57]
 #+BEGIN_SRC latex
