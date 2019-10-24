@@ -312,6 +312,25 @@ http://www.worldcat.org/oclc/873936079
   keywords={Anscombe; Faith; Religion; Primary Source}
   }
 #+END_SRC
+***** Rules, Rights and Promises
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe1981erp:rrp,
+  title={Rules, Rights and Promises},
+  crossref={anscombe1981erp},
+  pages={97--103},
+  keywords={Anscombe; Faith; Religion; Primary Source}
+  }
+#+END_SRC
+***** TODO Authority in Morals
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe1981erp:am,
+  title={Authority in Morals},
+  crossref={anscombe1981erp},
+  pages={43--50},
+  keywords={Anscombe; Faith; Religion; Primary Source}
+  }
+#+END_SRC
+
 *** En Philosophical Encounters
 #+BEGIN_SRC bibtex :tangle primary.bib
  @incollection{anscombe1991aqp,

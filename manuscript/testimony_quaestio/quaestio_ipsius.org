@@ -359,15 +359,7 @@
     that I have discovered an argument of a like nature, which, if just, will,
     with the wise and learned, be an everlasting check to all kinds of
     superstitious delusion, and consequently will be useful as long as the world
-    endures.} Dice:
-
-  \blockquote[{\cite[\S10,1. 73]{hume1777enquiry}}: in our reasonings concerning
-  matter of fact, there are all imaginable degrees of assurance, from the highest
-  certainty to the lowest species of moral evidence. A wise man, therefore,
-  proportions his belief to the evidence]{en nuestros razonamientos concernientes
-    a cuestiones de hecho, se dan todos los grados imaginables de seguridad, desde la
-    certeza más alta hasta las especies más bajas de evidencia moral. Un hombre
-    sabio, por tanto, adecúa su creencia a la evidencia}.
+    endures.} Dice: \blockquote[{\cite[\S10,1. 73]{hume1777enquiry}}: in our reasonings concerning matter of fact, there are all imaginable degrees of assurance, from the highest certainty to the lowest species of moral evidence. A wise man, therefore, proportions his belief to the evidence]{en nuestros razonamientos concernientes a cuestiones de hecho, se dan todos los grados imaginables de seguridad, desde la certeza más alta hasta las especies más bajas de evidencia moral. Un hombre sabio, por tanto, adecúa su creencia a la evidencia}.
 
   Entonces sugiere un criterio que permite ajustar las creencias
   a la evidencia:
