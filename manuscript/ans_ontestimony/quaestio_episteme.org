@@ -69,6 +69,8 @@ Como consideración final en este punto podemos tener en cuenta una última dist
 Con todas estas consideraciones hemos querido componer una descripción de la estructura del creer en el testimonio como la creencia que se tiene cuando creemos a alguien que nos comunica algo. Para completar esta descripción ahora tendremos en cuenta otro aspecto de los fundamentos que tienen estas creencias que sostenemos apoyados en lo que se nos ha dicho.
 #+END_SRC
 
+Decir alguito de la diferencia de usar creer en primera persona: voicers....
+
 #+BEGIN_SRC latex
 \subsubsection{`Conocimiento Tradicional'}
 #+END_SRC
