@@ -348,34 +348,12 @@
 ** DONE ¿Hay justificación para valorar un hecho histórico como atestación divina?
    CLOSED: [2019-07-02 Tue 10:06]
 #+BEGIN_SRC latex
-  \subsection{¿Hay justificación para valorar un hecho histórico como
-    atestación divina?}
-  El contexto de la reflexión de Hume sobre el testimonio es precisamente el de la
-  creencia en los milagros. La preocupación de Hume es que el \enquote{hombre
-    sabio} pueda verificar sus creencias de modo que no sea víctima de
-  \enquote{engaños supersticiosos}. Para esto, estima que ha encontrado un
-  argumento que servirá para distinguir la superstición de la
-  verdad.\footnote{\cite[Cf.~][\S10,1. 73]{hume1777enquiry}: I flatter myself,
-    that I have discovered an argument of a like nature, which, if just, will,
-    with the wise and learned, be an everlasting check to all kinds of
-    superstitious delusion, and consequently will be useful as long as the world
-    endures.} Dice: \blockquote[{\cite[\S10,1. 73]{hume1777enquiry}}: in our reasonings concerning matter of fact, there are all imaginable degrees of assurance, from the highest certainty to the lowest species of moral evidence. A wise man, therefore, proportions his belief to the evidence]{en nuestros razonamientos concernientes a cuestiones de hecho, se dan todos los grados imaginables de seguridad, desde la certeza más alta hasta las especies más bajas de evidencia moral. Un hombre sabio, por tanto, adecúa su creencia a la evidencia}.
+\subsection{¿Hay justificación para valorar un hecho histórico como atestación divina?}
 
-  Entonces sugiere un criterio que permite ajustar las creencias
-  a la evidencia:
+El contexto de la reflexión de Hume sobre el testimonio es precisamente el de la creencia en los milagros. La preocupación de Hume es que el \enquote{hombre sabio} pueda verificar sus creencias de modo que no sea víctima de \enquote{engaños supersticiosos}. Para esto, estima que ha encontrado un argumento que servirá para distinguir la superstición de la verdad.\footnote{\cite[Cf.~][\S10,1. 73]{hume1777enquiry}: I flatter myself, that I have discovered an argument of a like nature, which, if just, will, with the wise and learned, be an everlasting check to all kinds of superstitious delusion, and consequently will be useful as long as the world endures.} Dice: \blockquote[{\cite[\S10,1. 73]{hume1777enquiry}}: in our reasonings concerning matter of fact, there are all imaginable degrees of assurance, from the highest certainty to the lowest species of moral evidence. A wise man, therefore, proportions his belief to the evidence]{en nuestros razonamientos concernientes a cuestiones de hecho, se dan todos los grados imaginables de seguridad, desde la certeza más alta hasta las especies más bajas de evidencia moral. Un hombre sabio, por tanto, adecúa su creencia a la evidencia}.
 
-  \blockquote[{\cite[\S10,1. 77]{hume1777enquiry}}: `That no testimony is
-  sufficient to establish a miracle, unless the testimony be of such a kind, that
-  its falsehood would be more miraculous than the fact which it endeavours to
-  establish; and, even in that case, there is a mutual destruction of arguments;
-  and the superior only gives us an assurance suitable to that degree of force
-  which remains after deducting the inferior.']{`Que ningún testimonio es
-    suficiente para establecer un milagro, excepto si el testimonio es de tal
-    tipo, que su falsedad sea más milagrosa que el hecho que se esfuerza por
-    establecer; e, incluso en este caso, hay una mutua destrucción de argumentos;
-    y el superior sólo nos da certeza apropiada al grado de fuerza que permanece
-    después de restar el inferior.'}
-
+Entonces sugiere un criterio que permite ajustar las creencias a la evidencia: \blockquote[{\cite[\S10,1. 77]{hume1777enquiry}}: `That no testimony is sufficient to establish a miracle, unless the testimony be of such a kind, that its falsehood would be more miraculous than the fact which it endeavours to establish; and, even in that case, there is a mutual destruction of arguments; and the superior only gives us an assurance suitable to that degree of force which remains after deducting the inferior.']{`Que ningún testimonio es suficiente para establecer un milagro, excepto si el testimonio es de tal tipo, que su falsedad sea más milagrosa que el hecho que se esfuerza por establecer; e, incluso en este caso, hay una mutua destrucción de argumentos; y el superior sólo nos da certeza apropiada al grado de fuerza que permanece después de restar el inferior.'}
+\label{subsec:humarg}
   Esto tiene como consecuencia que lo razonable sea abandonar la razonabilidad de
   las verdades cristianas, comprendiendo que solo pueden ser contempladas desde la
   fe. Empleando su criterio ofrece una valoración de la revelación de la escritura
