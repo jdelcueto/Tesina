@@ -1,0 +1,271 @@
+#+PROPERTY: header-args:latex :tangle ../../tex/ch2/anscombe_bio_n_thought.tex
+# ------------------------------------------------------------------------------------
+
+#+BEGIN_SRC latex
+\section{Biografía y desarrollo filosófico G.\,E.\,M.\,Anscombe}
+#+END_SRC
+
+* Biografía  y desarrollo filosófico de Anscombe
+** Nacimiento, padres
+#+BEGIN_SRC latex
+Gertrude Elizabeth Margaret Anscombe nació el 18 de marzo de 1919, la tercera hija de Gertrude Elizabeth y Alan Wells Anscombe. Aquel año la familia se hallaba en Irlanda donde el Capitán Anscombe había sido asignado como parte de un regimiento de los \emph{Royal Welch Fusiliers} instalado en Limerick. Al terminar la guerra la familia regresó a Londres donde Alan era profesor de secundaria en Dulwich College.\autocite[Cf.~][31]{teichman2002fellows}
+#+END_SRC
+** Ambiente en Sydenham
+#+BEGIN_SRC latex
+Elizabeth hizo sus estudios de bachillerato en Sydenham High School, una escuela independiente localizada a las afueras de Londres y fundada en 1887 por la Girl's Public Day School Trust con el fin de ofrecer oportunidades de educación para mujeres. Se graduó en el curso 1936-1937.
+
+Con doce años de edad Anscombe descubrió el Catolicismo leyendo testimonios de las obras y sufrimientos de los sacerdotes recusantes en Inglaterra a finales del siglo XVI. Esta y otras lecturas realizadas entre los doce y los quince motivaron su conversión a la fe católica.\autocite[Cf.~][33]{teichman2002fellows}
+#+END_SRC
+** Ambiente en Oxford
+#+BEGIN_SRC latex
+Tras su graduación de Sydenham recibió una beca y fue admitida en St.~Hugh's College en la Universidad de Oxford. Allí estudió \emph{Litterae Humaniores}, un programa de cuatro años dividido en dos periodos: \emph{Classical Honour Moderations} (`Mods') y \emph{Final Honour School} (`Greats'). En 1939 Anscombe recibió Second Class en `Mods' compuesto por estudios en latín y griego y literatura antigua que servían como preparación para el segundo periodo. En 1941 recibió First Class en \emph{Litterae Humaniores} cuando culminó los exámenes de 'Greats' que comprendía estudios de filosofía y de historia.
+
+El desempeño de Anscombe en las pruebas finales en `St. Hugh's' manifestó su clara preferencia por la filosofía. Fue premiada con honores de primera clase aún cuando su desempeño en las pruebas de historia fue bastante menos que espectacular.\autocite[Cf.~][3]{teichmann2008ans}
+
+Durante su primer año en Oxford recibió formación en la fe del sacerdote dominico Richard Kehoe, profesor del Blackfriar's Private Hall, centro docente perteneciente a la Orden de Predicadores. El 27 de abril de 1938 fue recibida en la Iglesia Católica.
+
+En la procesión del \emph{Corpus Christi} de aquel año conoció a otro catecúmeno del Padre Kehoe, su nombre era Peter Geach. Había recibido su admisión a la Iglesia unas semanas después de Elizabeth, estudiaba en Balliol College, su madre era polaca, su padre maestro de filosofía. Había sido instruido en lógica por su padre teniendo como libros de texto \emph{Formal Logic} de Neville Keynes y \emph{Principia Mathematica} de Bertrand Russell. Tras la procesión, Peter se acercó a Elizabeth; \enquote{Miss Anscombe} --le dijo-- \enquote{I like your mind}.\autocite[Cf.~][187]{kenny2016fellows} A los pocos meses se habían comprometido y el 26 de diciembre de 1941 Elizabeth y Peter se casaron en el Brompton Oratory de Londres.\autocite[Cf.~][33]{teichman2002fellows}
+
+En el tiempo en el que Anscombe estuvo en St.~Hugh's el programa de lecciones manifestaba la transformación ocurrida en la universidad durante los últimos cincuenta años; desde una docencia e interés de carácter teológico hacia una orientación más secular. En el periodo de `Greats' los estudios de filosofía se fundaban en la República de Platón y la Ética Nicomáquea de Aristóteles. Además de las lecciones dedicadas a los clásicos se estudiaba a filósofos modernos como Berkeley, Locke, Hume y Kant. Al estudio de la Crítica de la Razón Pura se le dedicaban lecciones que ocupaban los tres periodos lectivos de un año académico. Había interes por temas de ética y teoría del conocimiento, así como por temas relacionados con psicología y ética: motivación, acción, libertad. Se estudiaba también a Hobbes y Rosseau y teoría política. Sin embargo, había pocas lecciones dedicadas a cuestiones metafísicas o estéticas. De filosofía medieval se ofrecía solo una lección dedicada a Tomás de Aquino.\autocite[Cf.~][23--24]{torralba2005accion}
+
+Los estudiantes de Oxford contaban con un tutor en la preparación de sus materias. Anscombe contó con la supervisión de G.~Ryle quien en 1939 ofreció el curso de introducción a la filosofía y también otro curso sobre el \emph{Tractatus} de Wittgenstein, junto con el joven A.~J.~Ayer. Adicionalmente disponía de la ayuda de Peter Geach que había terminado sus estudios en 1939.\autocite[Cf.~][24]{torralba2005accion}
+
+En 1941 Anscombe continuó en Oxford como \emph{Research Student} y en 1942 obtuvo una \emph{Research Fellowship} en el Newnham College en Cambridge. El ambiente filosófico en Cambridge era distinto a Oxford. La influencia de Russell ---apoyado en el trabajo de Frege--- con sus investigaciones en la estructura lógica del lenguaje, además del creciente peso de las reflexiones y metodología de Wittgenstein, había generado un denominado `giro linguístico'\autocite[Cf.~][14]{geach1991philaut} prácticamente ausente en Oxford. El efecto de Wittgenstein en Anscombe queda bien expresado en las palabras de Geach: \citalitlar{Elizabeth recibió mucha enseñanza filosófica de mi; podía ver que era buena en la materia, pero su verdadero progreso habría de surgir sólo bajo el poderoso estímulo de las lecciones de Wittgenstein y de sus conversaciones personales con él.\autocite[11]{geach1991philaut}}
+#+END_SRC
+** Ambiente en Cambridge
+:Lent41-1951:
+| L41                                                                              | E41                                                            | M41                                                               |
+| X                                                                                | X                                                              | X                                                                 |
+| L42                                                                              | E42                                                            | M42                                                               |
+| X                                                                                | X                                                              | Anscombe                                                          |
+| L43                                                                              | E43                                                            | M43                                                               |
+| Anscombe                                                                         | Newcastle                                                      | Newcastle                                                         |
+| L44                                                                              | E44                                                            | M44                                                               |
+| Swansea                                                                          | Swansea                                                        | Anscombe (nerve of phenomenalism extracted)                       |
+| L45                                                                              | E45                                                            | M45                                                               |
+| Anscombe                                                                         | Anscombe                                                       | Anscombe                                                          |
+| L46                                                                              | E46                                                            | M46                                                               |
+| Anscombe                                                                         | Anscombe                                                       | Anscombe at Oxford                                                |
+| L47                                                                              | E47                                                            | M47                                                               |
+| Anscombe at Oxford                                                               | Anscombe at Oxford                                             | Wittgenstein Sabbatical                                           |
+| 1948                                                                             | 1948                                                           | 1948                                                              |
+| Ireland                                                                          | Ireland                                                        | Ireland (Anscombe visits in december)                             |
+| 1949                                                                             | 1949                                                           | 1949                                                              |
+|                                                                                  | Ithaca (Malcolm) (July)                                        | 9 november: cambridge 25 november: diagnosed with prostate cancer |
+| 1950                                                                             | 1950                                                           | 1950                                                              |
+|                                                                                  | March left Vienna for London. April moved back to cambridge    | 25 of april went with anscombe in oxford                          |
+| october left for norway                                                          | came back to oxford and tried to go back in december to norway |                                                                   |
+|                                                                                  |                                                                |                                                                   |
+| february 1951 finally resolved to stay at bevan's home in storeys end, cambridge |                                                                |                                                                   |
+
+ANSCOMBE LLEGÓ A CAMBRIDGE EN M42 W. OFRECIA CLASES LOS SÁBADOS Y TRABAJABA EN
+GUY'S. DESDE E43 HASTA E44 NO DIO CLASES. EN M44 EMPEZÓ OTRA VEZ. EN L45 EMPEZÓ
+A TRABAJAR MATERIAL CORRESPONDIENTE A 189-421 PI!!!!!!
+En 1942 Elizabeth Anscombe llegó a Cambridge.
+:END:
+#+BEGIN_SRC latex
+Elizabeth empezó sus estudios en Cambridge en el periodo Michaelmas\footnote{El año lectivo en Cambridge esta dividido en tres periodos académicos: Michaelmas (octubre a diciembre), Lent (enero a marzo) e Easter (abril a junio).} de 1942. Allí asistió a las lecciones de Wittgenstein. Eran unos diez estudiantes en clase, se reunían los sábados y la materia discutida era sobre los fundamentos de las matemáticas. Wittgenstein trabajaba en Guy's Hospital en Newscastle desde noviembre del 41 y en abril de 1943 interrumpió sus clases para dedicarse de lleno a los esfuerzos relizados en el hospital por atender los daños de la Segunda Guerra Mundial. Regresó a Cambridge en octubre de 1944 y el 16 del mismo mes reanudó sus lecciones con seis estudiantes, Anscombe entre ellos. Los temas trabajados en estas lecciones son correspondientes con los números \S189--\S241 de \emph{Philosophical Investigations}. En el curso 1945-1946 Elizabeth asistió junto a otros dieciocho estudiantes a lecciones sobre filosofía de la psicología.\autocite[Cf.~][354--356]{KlaggeNordman2003pubnpriv}
+
+A comienzos del año 1946 a Anscombe se le acabó la beca en Newnham. En otoño del mismo año aceptó un puesto como \emph{Research Fellow} en Sommerville College en Oxford. Peter Geach fue objetor de conciencia para la Segunda Guerra mundial y fue asignado a trabajar en producción de madera en el sur de Inglaterra.\autocite[Cf.~][34]{teichman2002fellows} Al terminar la guerra en 1945 habia decidido que la filosofía sería su medio de sustento, pero antes de aspirar a un puesto de enseñanza tenia que darse a conocer en el mundo filosófico.\autocite[Cf.~][12]{geach1991philaut} Los seis años posteriores al final de la guerra se los dedicó a la investigación. Así fue como ocurrió que entre 1946 y 1951 Anscombe se hospedaba en Oxford y viajaba a Cambridge para estar con Geach y sus dos primeros hijos, Barbara y John. En 1950 Anscombe adquirió la tenencia del 27 St.~John Street en Oxford. En 1951 Peter consigió trabajo en Birmingham y la familia se mudó del 19 FitzWilliam Street en Cambridge para Oxford.\autocite[Cf.~][208]{NWR} Ese mismo año nacería Mary, la tercera hija.
+
+El curso 46-47 fue el último en el que Wittgenstein ofreció clases en Cambridge. Norman Malcolm describe el cargado itinerario de Ludwig: \citalitlar{Wittgenstein le dedicó una gran cantidad de tiempo a los estudiantes aquel año. Tenia sus dos clases semanales de dos horas cada una, dos horas semanales en su casa, una tarde completa conmigo, otra tarde completa dedicada a Elizabeth Anscombe y W.~A.~Hijab y finalmente las reuniones semanales con el Moral Science Club que usualmente atendía.\autocite[358]{KlaggeNordman2003pubnpriv}} Las discusiones en las tardes que Anscombe compartía con W.~A.~Hijab y Wittgenstein eran dedicadas a filosofía de la religión.
+
+#+END_SRC
+** Profesora en Oxford
+#+BEGIN_SRC latex
+En Oxford el ambiente filosófico estaba dominado por los catedráticos Ryle, Austin y Price. Desde su incorporación a Sommerville Anscombe colaboró con Phillipa Foot en la formación de las estudiantes de filosofía. Foot ocupaba el único puesto de \emph{tutor} en el \emph{college} hasta que en 1964 se trasladó a Estados Unidos y Anscombe asumió el puesto. En el tiempo que compartieron en Sommerville se hicieron grandes amigas, Foot díria: \citalitlar{Eramos amigas cercanas a pesar de mi ateísmo y su intransigente Catolicismo\ldots~ fue una filosofa importante y una gran maestra. Muchos dicen <<le debo todo a ella>> y yo lo digo también de mi propia experiencia.\autocite[35]{teichman2002fellows}}
+
+A lo largo de su tiempo en Oxford, Elizabeth ofreció tutorias a estudiantes de \emph{Litterae Humaniores} en lógica y obras de Platón y Aristóteles, también supervisó a estudiantes de licenciatura y doctorado en filosofía. A sus lecciones y seminarios asistían academicos de Europa y América, además de los estudiantes de la Universidad.\autocite[Cf.~][32]{teichman2002fellows}
+
+El 25 de noviembre de 1949 Wittgenstein fue diagnosticado con cancer\autocite[cf.~][loc 11034]{monk}. Durante los próximos dos años trabajaría por la publicación de \emph{Investigaciones Filosóficas} y Anscombe le ayudaría con la traducción al inglés.
+
+Wittgenstein pasó el invierno del 49 en la casa de su familia en Viena. En febrero del año siguiente su hermana Hermine murió de cancer. Anscombe se hallaba en Viena para familiarizarse con el alemán como parte de su preparación para la traducción de las \emph{Investigaciones}. A pesar de su enfermedad y la perdida de su hermana, Wittgenstein contó con la salud suficiente como para encontrarse con Anscombe dos o tres veces cada semana.\autocite[cf.~][loc 11138]{monk}
+
+Al regresar de Viena, Ludwig se hospedó en la casa de Anscombe en St.~John Street desde finales de abril hasta octubre y nuevamente de principios de diciembre hasta principios de febrero de 1951 cuando se mudaría a la casa del Dr.~Bevans en Storey's End.\autocite[cf.~][loc. 11242]{monk} Allí moriría el 29 de abril.
+
+El testamento de Wittgenstein nombraba como albaceas literarios a Elizabeth Anscombe, G.~H.~von~Wright y Rush Rhees quienes continuaron el trabajo para publicar las \emph{Investigaciones Filosóficas}. Anscombe le ofreció la publicación a Basil Blackwell en 1952 y en 1953 fue publicado el texto en alemán editado por von Wright junto con la traducción al inglés de Anscombe. Otras traducciones de la obra de Wittgenstein realizadas por Elizabeth incluyen \emph{Remarks on the Foundation of Mathematics}, \emph{Notebooks 1914-1916}, \emph{Zettel}, \emph{Philosophical Remarks}, \emph{On Certainty} (con Denis Paul) y \emph{Remarks on the Philosophy of Psychology}.\autocite[Cf.~][38]{teichman2002fellows}
+
+En aquellos años Anscombe también publicó \emph{Intention} (1957), \emph{An Introduction to Wittgenstein's Tractatus} (1959) y una parte de \emph{Three Philosophers} (1961) con Peter Geach.\autocite[Cf.~][39]{teichman2002fellows}
+
+#+END_SRC
+** Profesora en Cambridge
+#+BEGIN_SRC latex
+En 1964 Elizabeth recibió la \emph{Official Fellowship} en Oxford, en 1967 fue admitida en la British Academy y en 1970 fue nombrada al \emph{Chair of Philosophy} de la Universidad de Cambridge, la misma cátedra ocupada por Wittgenstein. Cuando la recién nombrada Anscombe pasó por la oficina de administración para su salario fue recibida por el recepcionista con: <<¿Es usted una de las nuevas empleadas de limpieza?>>. Elizabeth, que sin duda llevaba su habitual chaqueta y pantalones desaliñados, contestó suavemente: <<No, soy la nueva Profesora de Filosofía>>.\autocite[cfr.~][p.~37]{teichman2002fellows}
+
+El 6 de mayo pronunció la lección inaugural de la Universidad con el título ``Causality and Determination''.
+
+doctorado honoris causa de la Universidad de Navarra
+
+Sus hijos Barbara, John, Mary, Charles, More, Jennifer y Tamsin.
+
+#+END_SRC
+** Retiro 86-2001
+
+
+#+BEGIN_SRC latex
+    \subsection{Los primeros arduos esfuerzos}
+#+END_SRC
+
+Anscombe se inició es la filosofía indagando en dos temas:
+Causalidad y Percepción.
+Causalidad por Natural Theology
+Percepción por Nature of Belief
+
+La causalidad será el tema de su lección inaugural (causality and determination) en
+1971 en cambridge. Está presente también en "intention".
+
+La percepción la lleva a involucrarse en la discusión con Price y el fenomenalismo en
+Oxford y con Wittgesntein en Cambridge.
+Se enfocará con frecuencia en problemas relacionados con la postura de la
+primera-persona. Como Witt, ella le da mucha importancia a la asimetria que hay en los
+verbos psicologicos entre primera-persona/tercera-persona, especificamente se fija en
+"Yo veo, yo recuerdo, yo pienso (no el ve, el recuerda y el piensa). Esta centralidad
+de la primera persona será un grano de verdad que anscombe ve en el fenomenalismo y que
+trata de sacar.
+En el tema de la percepción además entra en la discusión entre fenomenalismo y
+lenguaje-ordinario (austin) proponiendo la distinción entre objetos intencionales y
+objetos materiales.
+
+
+*** DONE Causalidad, reflexiones iniciales de Anscombe
+#+BEGIN_SRC latex
+  \ifdraft{\subsubsection{Causalidad reflexiones iniciales de Anscombe}}{}
+
+  Por aquella época de mediados de los 30 la joven Gertrude Elizabeth Margaret Anscombe, andaba buscando un buen argumento que demostrara que todo lo que existe tiene que tener una causa. ¿Por qué cuando algo ocurre estamos seguros de que tiene una causa? Nadie sabía darle una respuesta.\autocite[cf.~][p.~vii ]{anscombe1981metaphysicsintro} Así, sin darse cuenta, se iniciaba en lo que sería para ella ardua actividad: la filosofía. Rigurosa y enérgica desde el principio.
+
+  El origen de su peculiar curiosidad por la causalidad se hallaba en una obra llamada `Teología Natural' escrita por un jesuita del siglo XIX. Había llegado a este libro motivada por su conversión a la Iglesia Católica.\autocite[cf.~][p.~vii]{anscombe1981metaphysicsintro} El tratado le resultó problemático en dos cuestiones.
+
+  La primera fue la doctrina de la \emph{`scientia media'}, según la cual Dios tiene conocimiento, por ejemplo, de lo que alguien podría haber hecho si no hubiera muerto cuando murió. A Elizabeth le parecía que lo que hubiera ocurrido si lo que pasó no hubiera pasado simplemente no existe; no hay qué conocer. Y no podía creer esto. Anscombe tuvo la oportunidad de discutir esta preocupación con Richard Kehoe durante su preparación religiosa en su primer año en Oxford. La dificultad para creer aquella doctrina le parecía un límite para aceptar la fe católica. Richard le aclaró que no hacía falta que creyera en eso. Con el tiempo entendió que se trataba de una discusión de escuela, en la que los jesuítas y dominicos entablaron una ardua disputa y que la postura que ella había adoptado era la qu había sido defendida por los dominicos.\autocite[cf.~][p.~vii]{anscombe1981metaphysicsintro}
+
+  La segunda cuestión problematica la encontró en un argumento sobre la existencia de la `Causa Primera'. El tratado ofrecía como preliminar al argumento una demostración de un `principio de causalidad' según el cual todo cuanto existe tiene que tener una causa. Anscombe notó, escasamente escondido en una premisa, un presupuesto de la conclusión del propio argumento. Aquel \emph{petitio principii} le pareció un simple descuido y resolvió, por tanto, escribir una versión mejorada de la demostración. Durante los siguientes dos o tres años produjo unas cinco versiones que le parecían satisfactorias, sin embargo eventualmente descubría que contenían la misma falacia, cada vez disimulada más astutamente. Todo este esfuerzo lo realizó sin ninguna enseñanza formal en filosofía, incluso su último intento de argumento lo hizo antes de estudiar `Greats'.\autocite[cf.~][p.~vii]{anscombe1981metaphysicsintro}
+#+END_SRC
+
+*** DONE Oxford: La Percepción y el fenomenalismo de Price
+#+BEGIN_SRC latex
+  \ifdraft{\subsubsection{Oxford: La Percepción y el fenomenalismo de Price}}{}
+
+  Sus lecturas en torno a su conversión fueron motivo de más reflexiones. Esta vez, como fruto de \emph{The Nature of Belief} de Martin D'Arcy, se interesó por el tema de la percepción. Durante años ocupaba su tiempo, en cafeterías, por ejemplo, mirando fijamente objetos, diciendose a sí misma: <<Veo un paquete. ¿Pero qué veo realmente? ¿Cómo puedo decir que veo algo más que una extensión amarilla?>>\autocite[cf.~][p.~viii]{anscombe1981metaphysicsintro}
+
+  Al principio su impresión era que lo que veía eran objetos: \citalitinterlin{Estaba segura de que veía objetos, como paquetes de cigarrillos o tazas o\ldots~cualquier cosa más o menos sustancial servía.}\autocite[p.~viii]{anscombe1981metaphysicsintro} Además creía que debemos de conocer la categoría de un objeto cuando hablamos de él, eso corresponde a la lógica del término usado para hablar del objeto y no de algún descubrimiento empírico. Estas ideas, sin embargo, las había desarrollado fijándose en artefactos urbanos. Los ejemplos de percepción de la naturaleza que más la impactaron fueron `madera' y el cielo. Este último le hizo retractarse de su creencia sobre el conocimiento lógico de la categoría de los objetos.\autocite[cf.~][p.~viii]{anscombe1981metaphysicsintro}
+
+  Sus indagaciones sobre la percepción, así como le ocurrió con la causalidad, fueron previas al periodo de `Greats' donde estudiaría formalmente la filosofía. Ya desde `Mods' asistía a las lecciones de H.~H.~Price sobre percepción y fenomenalismo. De todos los que escuchó en Oxford fue quién le inspiró mayor respeto, no porque estuviera de acuerdo con lo que decía, sino porque hablaba de lo que había que hablar. El único libro suyo que le pareció realmente bueno fue \emph{Hume's Theory of the External World} y lo leyó sin interrupción de principio a fin. Fue Price quien despertó en ella un intenso interés por el capítulo de Hume sobre ``Del escepticismo con respecto a los sentidos''. Aunque le parecía que Price tendía a suavizar a Hume, el hecho de que escribiera sobre él le parecia que era escribir sobre las cosas mismas que merecía la pena discutir. Asncombe, sin embargo, odiaba el fenomenalismo y se sentía atrapada por él, pero no sabía salir de él, o rebatirlo. La postura escéptica tampoco la convencía como para adoptarla y no la dejaba satisfecha. Esta insatisfacción no haría más que crecer en sus años en Oxford. \autocites[cf.~][p.~viii]{anscombe1981metaphysicsintro} [~y~][p.~26]{torralba2005accion}
+#+END_SRC
+
+*** TODO En Cambridge con Wittgenstein
+    :LOGBOOK:
+    CLOCK: [2018-05-06 Sun 20:12]--[2018-05-06 Sun 20:37] =>  0:25
+    :END:
+    1. Wittgenstein está en época de transición.
+    2. La metodología terapéutica y franca de Wittgenstein fue liberadora
+
+#+BEGIN_SRC latex
+  \ifdraft{\subsubsection{En Cambrdige con Wittgenstein}}{}
+
+  En las lecciones con Wittgenstein en Cambridge fue que el pensamiento central <<Tengo \emph{esto}, y defino `amarillo' como \emph{esto}>> fue efectivamente atacado. Anscombe misma lo narra usando dos ejemplos:
+
+
+#+END_SRC
+
+
+      \begin{revision}
+        ``For a large class of cases of the employment of the word ‘meaning’—though
+        not for all—this way can be explained in this way: the meaning of a word is
+        its use in the language'' (PI 43). This basic statement is what underlies the
+        change of perspective most typical of the later phase of Wittgenstein's
+        thought: a change from a conception of meaning as representation to a view
+        which looks to use as the crux of the investigation.
+      \end{revision}
+
+      \begin{revision}
+        Philosophical Investigations: --Undertake an investigation, leading, not to
+        the construction of new and surprising theories or explanations, but the
+        examination of our life with language. This is a grammatical investigation
+        PI~\S90 --The ideas of explanation and discovery are misleading and
+        inappropiate when applied to questions like: what is meaning? --We feel as if
+        we had to repair a spider web with our fingers PI~\S106 --PI~\S129 --By
+        putting details together in the right way or by using a new analogy or
+        comparison to prompt us to see our practice of using language in a new light,
+        we find that we achieve the understanding that we thought would only come with
+        the construction of an explanatory account. RFGB, p.30 --Philosopher's
+        questions must be treated like an illness is treated. PI~\S133 and \S255.
+        --The aim of grammatical investigations is perspicious representation PI~\S122
+        --Meaning is use. --The question of a philosopher is: how do I go about this?
+        \end{revision}
+
+
+        \begin{revision}
+          What marks the transition from early to later Wittgenstein can be summed up
+          as the total rejection of dogmatism, i.e., as the working out of all the
+          consequences of this rejection. The move from the realm of logic to that of
+          ordinary language as the center of the philosopher's attention; from an
+          emphasis on definition and analysis to ‘family resemblance’ and
+          ‘language-games’; and from systematic philosophical writing to an aphoristic
+          style—all have to do with this transition towards anti-dogmatism in its
+          extreme. It is in the Philosophical Investigations that the working out of
+          the transitions comes to culmination. Other writings of the same period,
+          though, manifest the same anti-dogmatic stance, as it is applied, e.g., to
+          the philosophy of mathematics or to philosophical psychology.
+          \end{revision}
+
+          2. La metodología terapéutica y franca de Wittgenstein fue liberadora
+          \begin{revision}
+
+          El método terapeútico de Wittgenstein tuvo éxito en liberarla de confusiones
+          filosóficas donde otras metodologíás mas teoréticas habían fallado. En sus
+          estudios en St. Hugh's escuchaba a Price/ldots
+          \end{revision}
+
+          \begin{revision}
+            Este modo de criticar una proposición desvelando que no expresa un
+            pensamiento verdadero ilustra los principios propuestos en el
+            \emph{Tractatus} y recuerda una de sus tesis más conocidas: En el prefacio
+            de las Investigaciones Filosóficas, con fecha de enero de 1945
+            Wittgenstein dice que los pensamientos que publica en el libro son el
+            precipitado de invetigaciones filosóficas que le han ocupado durante los
+            pasados 16 años. En enero 1929 Wittgenstein estaba regresando a Cambridge.
+            \end{revision}
+
+#+END_SRC
+
+
+
+#+BEGIN_SRC latex
+  Anscombe conoció a Wittgenstein en los años culminantes de su pensamiento filosófico. Al comienzo de sus lecciones en 1944 Wittgenstein escribía a su amigo Rush Rhees: \citalitinterlin{ \ldots mis clases no han ido tan mal. Thouless esta asistiendo, y una mujer, 'Mrs so and so' que se llama a sí misma 'Miss Anscombe', que ciertamente es inteligente, aunque no del calibre de Kreisel. \autocite[p.~371]{cambridgeletters} } Un año mas tarde escribía a Norman Malcolm: \citalitinterlin{ \ldots mi clase ahora es bastante grande, 19 personas. \ldots Smythies esta viniendo, y una mujer que es muy buena, es decir, más que solamente inteligente\ldots \autocite[p.~388]{cambridgeletters} } Aquellos años no sólo creció en Wittgenstein la apreciación de la capacidad de Anscombe, sino que se afianzó entre ellos una estrecha amistad.
+
+  La influencia de Wittgenstein fue decisiva para el desarrollo filosófico de Elizabeth. Las lecciones con Wittgenstein eran directas y con franqueza. Esta metodología carente de cualquier parafernalia era inquietante para algunos, inspiradora para otros, pero fue tremendamente liberadora para ella.\autocite[loc 9853 Chapter 4, Section 24, \S5]{monk} Esta libertad quedaba demostrada en que Anscombe no se contentaba con repetir lo que decía Wittgenstein, sino que pensaba por sí misma; en esto precisamente era más fiel al espíritu de la filosofía que había aprendido de él. Sobre esta relación, Phillipa Foot, amiga de ambos, cuenta que durante mucho tiempo sostuvo objeciones a las afirmaciones de Wittgenstein, eventualmente, un comentario de Norman Malcom la hizo pensar que podía haber valor en lo que Wittgenstein decía. Cuestionó entonces a Anscombe: ``¿Por qué no me dijiste?'', ella le contestó: ``Porque es importante que uno tenga sus resistencias''. Anscombe evidentemente pensaba ---continúa Foot: \citalitlar{ que un largo periodo de vigorosa objeción era la mejor manera de entender a Wittgenstein. Aun cuando era su amiga cercana y albacea literaria, y una de los primeros en reconocer su grandeza, nada podía ser más lejano de su carácter y modo de pensamiento que el discipulado.\autocite[p.~4]{teichmann} }
+
+  Peter geach que dice que les ayudó que estudiaron otros filósofos antes de Wittgenstein.
+#+END_SRC
+
+** Anscombe en Oxford
+** Anscombe en Cambridge
+
+Torralba p. 25:
+Durante el tercer año empezó a hallar respuestas...
+Causality and Determination
+ La tesis principal de Anscombe...
+
+** Wittgenstein y la fe
+
+\begin{revision}
+ Es una gran bendición para mi poder trabajar hoy. ¡Pero cuán fácilmente olvido todas mis bendiciones! Estoy leyendo: ``Y ningún hombre puede decir Jesús es el Señor, sino el Espíritu Santo.''(1Co 3) Y es cierto: Yo no puedo llamarlo \emph{Señor}; porque eso no me dice absolutamente nada. Sí podría llamarlo 'el ejemplo por excelencia', 'Dios' incluso o quizás: puedo entenderlo cuando es llamado de ese modo; pero Yo no puedo pronunciar la palabra ``Señor'' significativamente. \emph{Porque yo no creo} que el vendrá a juzgarme; porque \emph{eso} no me dice nada. Y sólo me diría algo si yo viviera de un modo considerablemente distinto.
+
+¿Qué me hace inclinarme incluso a mi a creer en la resurrección de Cristo? Entretengo la idea por así decirlo. ---Si él no ha resucitado de los muertos, entonces se descompuso en la tumba como cualquier otro ser humano. \emph{Esta muerto y descompuesto.} En ese caso es un maestro, como cualquier otro y entonces ya no puede \emph{ayudar} más; y estamos una vez más huérfanos y solos. Y tengo que arreglármelas con la sabiduría y la especulación. Es como si estuvieramos en un infierno, en el que solo podemos soñar y estamos dejados fuera del cielo, atrapados bajo el techo, diriamos. Pero si REALMENTE voy a ser redimido, ---necesito \emph{certeza}--- no sabiduría, sueños, especulación--- y esta certeza es la fe. Y fe es fe en lo que mi \emph{corazón}, mi \emph{alma}, necesita, no mi intelecto especulativo. Pues mi alma, con sus pasiones, con su carne y sangre, diría, tiene que ser redimida, no mi mente abstracta. Quizás uno podría decir: Sólo el \emph{amor} puede creer la Resurrección. O: es el \emph{amor} lo que cree la Resurrección. Uno puede decir: el amor redentor cree incluso en la Resurrección; se sostiene firme incluso hasta la Resurrección. Lo que lucha con la duda es, por decirlo de algún modo, la redención. Sostenerse firmemente en esto tiene que ser mantenerse firme en esta creencia. Así esto significa: primero se redimido y sujétate firmemente de tu redención (sostente en tu redención) --- entonces veras que a lo que te estás sujetando es a esta creencia. Así que esto sólo puede ocurrir si ya no te sujetas de esta tierra, sino que te suspendes desde el cielo. Entonces \emph{todo} es distinto y 'no será sorpresa' el que puedas hacer entonces lo que ahora no puedes. (Es verdad que alguien que está suspendido se ve como alguien que está de pie, pero la interacción de fuerzas dentro de él es sin embargo una completamente distinta, y de ahí que sea capaz de hacer cosas bastante distintas de las que puede hacer alguien que está de pie). (Culture and Value p.38-39 MS 120 108 c: 12.12.1937)
+    \end{revision}
+END_SRC
+
+
+¿Qué podemos aprender de Anscombe? Un cierto acercamiento, una cierta actitud
+          hacia la filosofía.
+
+¿Cómo Anscombe hace filosofía? Es una filósofa linguistica?
+
+hay filósofos que
+dirigen nuestra atención hacia lo que decimos de hecho, y a carácteristicas
+de nuestro lenguaje propiamente (o grupo de lenguajes)
+
+hay filósofos que nos llevan a pensar sobre posibles, al igual que actuales, lenguajes o juegos de lenguaje. Anscombe pertenece a este segundo grupo.
+
+sin p.153 dogma that there is no god...
+
+twenty opinions p. 67

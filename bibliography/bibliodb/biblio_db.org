@@ -779,7 +779,7 @@ keywords = "bio, anscombe",
 *** Biographical Memoirs of Fellows of The British Academy XIV
  %%url = "https://www.britac.ac.uk/sites/default/files/09\%20Geach\%201820.pdf"
 #+BEGIN_SRC bibtex :tangle secondary.bib
- @incollection{biofellowsxiv,
+ @incollection{kenny2016fellows,
  author = "Anthony Kenny",
  booktitle = "Biographical Memoirs of Fellows XIV",
  title = "Peter Thomas Geach 1916–2013",

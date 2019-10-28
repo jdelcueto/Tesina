@@ -1,0 +1,7 @@
+#+PROPERTY: header-args:latex :tangle ../../tex/ch2/analytic_phil_n_theo.tex
+# ------------------------------------------------------------------------------------
+
+#+BEGIN_SRC latex
+\section{La filosofía analítica y la teología del testimonio}
+
+#+END_SRC
