@@ -312,6 +312,16 @@ http://www.worldcat.org/oclc/873936079
   keywords={Anscombe; Faith; Religion; Primary Source}
   }
 #+END_SRC
+***** On Promising and its justice
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe1981erp:pj,
+  title={On Promising and its Justice},
+  crossref={anscombe1981erp},
+  pages={10--21},
+  keywords={Anscombe; Faith; Religion; Primary Source}
+  }
+#+END_SRC
+
 ***** Rules, Rights and Promises
 #+BEGIN_SRC bibtex :tangle primary.bib
   @incollection{anscombe1981erp:rrp,
@@ -321,7 +331,7 @@ http://www.worldcat.org/oclc/873936079
   keywords={Anscombe; Faith; Religion; Primary Source}
   }
 #+END_SRC
-***** TODO Authority in Morals
+***** Authority in Morals
 #+BEGIN_SRC bibtex :tangle primary.bib
   @incollection{anscombe1981erp:am,
   title={Authority in Morals},
