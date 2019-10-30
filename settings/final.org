@@ -1,3 +1,23 @@
+* Preamble
+
+ALL settings handled here
+settings files go to tex/style
+including
+bibsettings.tex
+final.sty
+csquote.cfg??
+fonts folder
+etc...
+
+final.tex goes to /tex
+
+!BASIC FUNCTIONAL STUFF in the preamble
+
+STYLE TEMPLATE STUFF IN final.sty
+
+CITATION AND BIBLIOGRAPHY STUFF IN bibsettings.tex
+
+#+BEGIN_SRC latex :tangle ../tex/final.tex
 %Base Document Class
 \documentclass[
 10pt,
@@ -46,7 +66,11 @@ twoside,
 
 
 \begin{document}
+#+END_SRC
 
+
+
+#+BEGIN_SRC latex :tangle ../tex/final.tex
 %INTRODUCCIÓN
 %Introducción General al Problema del Testimonio
 %\subfile{./intro}
@@ -62,5 +86,17 @@ twoside,
 %CAPÍTULO 4:
 %Conclusión General
 %\subfile{./ch4}
+#+END_SRC
 
+#+BEGIN_SRC latex :tangle ../tex/final.tex
 \end{document}
+#+END_SRC
+
+#+BEGIN_SRC latex :tangle ../tex/style/final.sty
+\ProvidesPackage{final}
+#+END_SRC
+
+#+BEGIN_SRC latex :tangle ../tex/style/bibsettings.tex
+
+
+#+END_SRC

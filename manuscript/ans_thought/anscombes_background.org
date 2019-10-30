@@ -3,7 +3,7 @@
 
 * La Filosofía de Wittgenstein como trasfondo de la Filosofía de Anscombe
 #+BEGIN_SRC latex
-\section{La Filosofía de L.\,Wittgenstein como Trasfondo de la Filosofía de G.\,E.\,M.\,Anscombe}
+\section{La Filosofía de Wittgenstein como trasfondo de la Filosofía de Anscombe}
 #+END_SRC
 
 ** Introducción
