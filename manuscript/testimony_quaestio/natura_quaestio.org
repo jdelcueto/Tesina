@@ -1,106 +1,38 @@
 #+PROPERTY: header-args:latex :tangle ../../tex/ch1/natura_quaestio.tex
-# ------------------------------------------------------------------------------------
+# ----------------------------------------------------------------------------
 # Santa Teresa Benedicta de la Cruz, ruega por nosotros
 * DONE Naturaleza de la pregunta sobre el testimonio [100%]
 #+BEGIN_SRC latex
-  \section{Naturaleza de la pregunta sobre el testimonio}
+\section{Naturaleza de la pregunta sobre el testimonio}
 #+END_SRC
 ** DONE Una experiencia familiar
    CLOSED: [2019-04-11 Thu 20:45]
 #+BEGIN_SRC latex
-  Es una experiencia familiar en nuestras comunidades reunirnos en torno a la
-  Sagrada Escritura y compartir la Palabra buscando en ella luz para nuestro
-  presente. Podemos recurrir a este típico escenario para apoyar el primer paso de
-  nuestra investigación sobre el testimonio. Imaginemos un domingo,
-  específicamente un tercer domingo del Tiempo Ordinario. En el ciclo A, el
-  Evangelio que se proclama ese día es este:
+Es una experiencia familiar en nuestras comunidades reunirnos en torno a la Sagrada Escritura y compartir la Palabra buscando en ella luz para nuestro presente. Podemos recurrir a este típico escenario para apoyar el primer paso de nuestra investigación sobre el testimonio. Imaginemos un domingo, específicamente un tercer domingo del Tiempo Ordinario. En el ciclo A, el Evangelio que se proclama ese día es este:
 
-  \blockquote[Mt~4,12--23]{Al enterarse Jesús de que habían arrestado a Juan se
-    retiró a Galilea. Dejando Nazaret se estableció en Cafarnaún, junto al mar, en
-    el territorio de Zabulón y Neftalí, para que se cumpliera lo dicho por medio
-    del profeta Isaías:
+\blockquote[]{Al enterarse Jesús de que habían arrestado a Juan se retiró a Galilea. Dejando Nazaret se estableció en Cafarnaún, junto al mar, en el territorio de Zabulón y Neftalí, para que se cumpliera lo dicho por medio del profeta Isaías:
 
-    \enquote{Tierra de Zabulón y tierra de Neftalí, camino del mar, al otro lado
-      del Jordán, Galilea de los gentiles. El pueblo que habitaba en tinieblas vio
-      una luz grande; a los que habitaban en tierra y sombras de muerte, una luz
-      les brilló}.
+\enquote{Tierra de Zabulón y tierra de Neftalí, camino del mar, al otro lado del Jordán, Galilea de los gentiles. El pueblo que habitaba en tinieblas vio una luz grande; a los que habitaban en tierra y sombras de muerte, una luz les brilló}.
 
-    Desde entonces comenzó Jesús a predicar diciendo: \enquote{Convertíos, porque
-      está cerca el reino de los cielos}.
+Desde entonces comenzó Jesús a predicar diciendo: \enquote{Convertíos, porque está cerca el reino de los cielos}.
 
-    Paseando junto al mar de Galilea vio a dos hermanos, a Simón, llamado Pedro, y
-    a Andrés, que estaban echando la red en el mar, pues eran pescadores. Les
-    dijo: \enquote{Venid en pos de mí y os haré pescadores de hombres}.
-    Inmediatamente dejaron las redes y lo siguieron. Y pasando adelante vio a
-    otros dos hermanos, a Santiago, hijo de Zebedeo, y a Juan, su hermano, que
-    estaban en la barca repasando las redes con Zebedeo, su padre, y los llamó.
-    Inmediatamente dejaron la barca y a su padre y lo siguieron. Jesús recorría
-    toda Galilea enseñando en sus sinagogas, proclamando el evangelio del reino y
-    curando toda enfermedad y toda dolencia en el pueblo.}
+Paseando junto al mar de Galilea vio a dos hermanos, a Simón, llamado Pedro, y a Andrés, que estaban echando la red en el mar, pues eran pescadores. Les dijo: \enquote{Venid en pos de mí y os haré pescadores de hombres}. Inmediatamente dejaron las redes y lo siguieron. Y pasando adelante vio a otros dos hermanos, a Santiago, hijo de Zebedeo, y a Juan, su hermano, que estaban en la barca repasando las redes con Zebedeo, su padre, y los llamó. Inmediatamente dejaron la barca y a su padre y lo siguieron. Jesús recorría toda Galilea enseñando en sus sinagogas, proclamando el evangelio del reino y curando toda enfermedad y toda dolencia en el pueblo. (Mt~4,12--23)}
 
-  No sería difícil ahora visualizar una variedad de situaciones en las que este
-  texto pueda ser discutido en nuestro contexto eclesial. En enero de 2014 el Papa
-  Francisco lo reflexionaba en el Ángelus en la Plaza de San Pedro y destacaba que
-  la misión de Jesús comenzara en una zona periférica:
+No sería difícil ahora visualizar una variedad de situaciones en las que este texto pueda ser discutido en nuestro contexto eclesial. En enero de 2014 el Papa Francisco lo reflexionaba en el Ángelus en la Plaza de San Pedro y destacaba que la misión de Jesús comenzara en una zona periférica:
 
-  \blockquote[{\cite{francisco2014angelus}}]{Es una tierra de frontera, una zona
-    de tránsito donde se encuentran personas diversas por raza, cultura y
-    religión. La Galilea se convierte así en el lugar simbólico para la apertura
-    del Evangelio a todos los pueblos. Desde este punto de vista, Galilea se
-    asemeja al mundo de hoy: presencia simultánea de diversas culturas, necesidad
-    de confrontación y necesidad de encuentro. También nosotros estamos inmersos
-    cada día en una \enquote{Galilea de los gentiles}, y en este tipo de contexto
-    podemos asustarnos y ceder a la tentación de construir recintos para estar más
-    seguros, más protegidos. Pero Jesús nos enseña que la Buena Noticia, que Él
-    trae, no está reservada a una parte de la humanidad, sino que se ha de
-    comunicar a todos. Es un feliz anuncio destinado a quienes lo esperan, pero
-    también a quienes tal vez ya no esperan nada y no tienen ni siquiera la fuerza
-    de buscar y pedir.}
+\blockquote[{\cite{francisco2014angelus}}]{Es una tierra de frontera, una zona de tránsito donde se encuentran personas diversas por raza, cultura y religión. La Galilea se convierte así en el lugar simbólico para la apertura del Evangelio a todos los pueblos. Desde este punto de vista, Galilea se asemeja al mundo de hoy: presencia simultánea de diversas culturas, necesidad de confrontación y necesidad de encuentro. También nosotros estamos inmersos cada día en una \enquote{Galilea de los gentiles}, y en este tipo de contexto podemos asustarnos y ceder a la tentación de construir recintos para estar más seguros, más protegidos. Pero Jesús nos enseña que la Buena Noticia, que Él trae, no está reservada a una parte de la humanidad, sino que se ha de comunicar a todos. Es un feliz anuncio destinado a quienes lo esperan, pero también a quienes tal vez ya no esperan nada y no tienen ni siquiera la fuerza de buscar y pedir.}
 
-  El Papa Benedicto XVI también había ofrecido su comentario unos años antes. En
-  su caso el acento del relato lo encontró en la fuerza singular de esa
-  \enquote{buena nueva} que Cristo comenzaba a anunciar:
+El Papa Benedicto XVI también había ofrecido su comentario unos años antes. En su caso el acento del relato lo encontró en la fuerza singular de esa `buena nueva' que Cristo comenzaba a anunciar:
 
-  \blockquote[{\cite{benedicto2008angelus}}]{El término \enquote{evangelio}, en
-    tiempos de Jesús, lo usaban los emperadores romanos para sus proclamas.
-    Independientemente de su contenido, se definían \enquote{buenas nuevas}, es
-    decir, anuncios de salvación, porque el emperador era considerado el señor del
-    mundo, y sus edictos, buenos presagios. Por eso, aplicar esta
-    palabra a la predicación de Jesús asumió un sentido fuertemente crítico, como
-    para decir: Dios, no el emperador, es el Señor del mundo, y el verdadero
-    Evangelio es el de Jesucristo.
+\blockquote[{\cite{benedicto2008angelus}}]{El término \enquote{evangelio}, en tiempos de Jesús, lo usaban los emperadores romanos para sus proclamas. Independientemente de su contenido, se definían \enquote{buenas nuevas}, es decir, anuncios de salvación, porque el emperador era considerado el señor del mundo, y sus edictos, buenos presagios. Por eso, aplicar esta palabra a la predicación de Jesús asumió un sentido fuertemente crítico, como para decir: Dios, no el emperador, es el Señor del mundo, y el verdadero Evangelio es el de Jesucristo.
 
-    La \enquote{buena nueva} que Jesús proclama se resume en estas palabras:
-    \enquote{El reino de Dios ---o reino de los cielos--- está cerca}. ¿Qué
-    significa esta expresión? Ciertamente, no indica un reino terreno, delimitado
-    en el espacio y en el tiempo; anuncia que Dios es quien reina, que Dios es el
-    Señor, y que su señorío está presente, es actual, se está realizando.
+La \enquote{buena nueva} que Jesús proclama se resume en estas palabras: \enquote{El reino de Dios ---o reino de los cielos--- está cerca}. ¿Qué significa esta expresión? Ciertamente, no indica un reino terreno, delimitado en el espacio y en el tiempo; anuncia que Dios es quien reina, que Dios es el Señor, y que su señorío está presente, es actual, se está realizando.
 
-    Por tanto, la novedad del mensaje de Cristo es que en él Dios se ha hecho
-    cercano, que ya reina en medio de nosotros, como lo demuestran los milagros y
-    las curaciones que realiza.}
+Por tanto, la novedad del mensaje de Cristo es que en él Dios se ha hecho cercano, que ya reina en medio de nosotros, como lo demuestran los milagros y las curaciones que realiza.}
 
-  Ciertamente este texto no se le encontraría solamente en San Pedro, sino que
-  estaría presente en la celebración de la eucaristía domincal resonando en las
-  comunidades y parroquias alrededor del mundo; en las homilias, oraciones,
-  reflexiones o cánticos, invitando a la conversión y haciendo nueva la invitación
-  de Jesús: \enquote{Convertíos, porque está cerca el reino de los cielos}. Quizás
-  tambíen se le oiga entre algún grupo juvenil donde Simón, Andrés, Santiago y
-  Juan sean tratados como modelos de vocación a la vida consagrada o al
-  apostolado, atendiendo con entusiasmo cómo lo dejaron todo en el momento para
-  seguir a Jesús. Seguramente algún joven reconociendo aquella llamada:
-  \enquote{Venid en pos de mí y os haré pescadores de hombres} sonando como voz
-  dentro de sí.
+Ciertamente este texto no se proclamaría solamente en San Pedro, sino que estaría presente en la celebración de la eucaristía domincal resonando en las comunidades y parroquias alrededor del mundo; en las homilias, oraciones, reflexiones o cánticos, invitando a la conversión y haciendo nueva la invitación de Jesús: \enquote*{Convertíos, porque está cerca el reino de los cielos}. Quizás tambíen se le oiga entre algún grupo juvenil donde Simón, Andrés, Santiago y Juan sean tratados como modelos de vocación a la vida consagrada o al apostolado, atendiendo con entusiasmo cómo lo dejaron todo en el momento para seguir a Jesús. Seguramente algún joven reconocería aquella llamada: \enquote*{Venid en pos de mí y os haré pescadores de hombres} sonando como voz dentro de sí.
 
-  El texto de la Escritura es tratado en estos contextos como testimonio de la
-  vida de Jesucristo y de la vida de aquellos que le llaman maestro y que
-  participan de su misión. No son, sin embargo, tratados como historias del
-  pasado, sino como palabras para el presente. Es hoy que la Buena Noticia no está
-  reservada a una parte de la humanidad, sino que ha de comunicarse a todos como
-  insiste el Papa Francisco. Es hoy que Dios se hace cercano en Cristo para reinar
-  en medio de nosotros como enseñó Benedicto XVI. Es hoy que Jesús nos invita a la
-  conversión y a ir en pos de él.
-
+El texto de la Escritura es tratado en estos contextos como testimonio de la vida de Jesucristo y de la vida de aquellos que le llaman maestro y que participan de su misión. No son tratados como historias del pasado, sino como palabras para el presente. Es hoy cuando la Buena Noticia no está reservada a una parte de la humanidad, sino que ha de comunicarse a todos como insiste el Papa Francisco. Es hoy cuando Dios se hace cercano en Cristo para reinar en medio de nosotros como enseñó Benedicto XVI. Es hoy cuando Jesús nos invita a la conversión y a ir en pos de él.
 #+END_SRC
 ** DONE Una pregunta "filosófica" sobre el testimonio
    CLOSED: [2019-04-11 Thu 20:45]
@@ -108,87 +40,19 @@
    CLOCK: [2019-04-12 Fri 08:00]--[2019-04-12 Fri 08:04] =>  0:04
    :END:
 #+BEGIN_SRC latex
-  Es sobre esta costumbre de la Iglesia que quisieramos formular una pregunta que
-  ponga en marcha nuestra investigación. Para esto nos servirá emplear otra
-  costumbre eclesial y acudir al pensamiento de San Agustín para encontrar algo de
-  luz. En el capítulo XI de las \emph{Confesiones} nos lo encontramos inquieto
-  ---como siempre--- esta vez pensando en Dios y pensando en el tiempo, asaltado
-  por una serie de preguntas:
+Es sobre esta práctica de la Iglesia que quisieramos formular una pregunta que ponga en marcha nuestra investigación. Para esto nos servirá acudir al pensamiento de San Agustín y encontrar algo de luz. En el capítulo XI de las \emph{Confesiones} nos lo encontramos inquieto ---como siempre--- esta vez pensando en Dios y pensando en el tiempo, asaltado por una serie de preguntas:
 
-  \blockquote[Confesiones XI.14 n.17]{¿Qué es, pues, el tiempo? ¿Quién
-    podrá explicar esto fácil y brevemente? ¿Quién podrá comprenderlo con el
-    pensamiento, para hablar luego de él? Y, sin embargo, ¿qué cosa más familiar y
-    conocida mentamos en nuestras conversaciones que el tiempo? Y cuando hablamos
-    de él, sabemos sin duda qué es, como sabemos o entendemos lo que es cuando lo
-    oímos pronunciar a otro. ¿Qué es, pues, el tiempo? Si nadie me lo pregunta, lo
-    sé; pero si quiero explicárselo al que me lo pregunta, no lo sé.}
+\blockquote[Confesiones XI.14 n.17]{¿Qué es, pues, el tiempo? ¿Quién podrá explicar esto fácil y brevemente? ¿Quién podrá comprenderlo con el pensamiento, para hablar luego de él? Y, sin embargo, ¿qué cosa más familiar y conocida mentamos en nuestras conversaciones que el tiempo? Y cuando hablamos de él, sabemos sin duda qué es, como sabemos o entendemos lo que es cuando lo oímos pronunciar a otro. ¿Qué es, pues, el tiempo? Si nadie me lo pregunta, lo sé; pero si quiero explicárselo al que me lo pregunta, no lo sé.}
 
-  Agustín expresa su extrañeza de que un concepto empleado ordinariamente se torne
-  tan desconocido cuando llega la hora de explicarlo. \enquote{¿Qué es el tiempo?}
-  o \enquote{¿qué es conocer?}, \enquote{¿la libertad?} y \enquote{¿qué es la fe?}
-  son preguntas de este tipo; distintas, por ejemplo, a \enquote{¿cuál es el peso
-    exacto de este objeto?} o \enquote{¿quién será la próxima persona en entrar
-    por esa puerta?}.\footnote{\cite[Cf.~][304]{wittgenstein2005bt}: (Questions of
-    different kinds occupy us. For instance, ``What is the specific weight of this
-    body'', ``Will the weather stay nice today'', ``Who will come through the door
-    next'', etc. But among our questions there are those of a special kind. Here
-    we have a different experience. These questions seem to be more fundamental
-    than the others. And now I say: When we have this experience, we have arrived
-    at the limits of language.)} Preguntar \enquote{¿qué es conocer una verdad
-    para la vida por el testimonio de la Escritura?} sería, como la pregunta
-  agustiniana sobre el tiempo, una pregunta sobre la naturaleza o esencia de este
-  fenómeno. Un concepto familiar en la vida de la Iglesia como el testimonio queda
-  enmarcado como problema cuando nos acercamos a él queriendo comprender su
-  esencia.
+Agustín expresa su extrañeza de que un concepto empleado ordinariamente se torne tan desconocido cuando llega la hora de explicarlo. \enquote*{¿Qué es el tiempo?} o \enquote*{¿qué es conocer?}, \enquote*{¿la libertad?} y \enquote*{¿qué es la fe?} son preguntas de este tipo; distintas, por ejemplo, a \enquote*{¿cuál es el peso exacto de este objeto?} o \enquote*{¿quién será la próxima persona en entrar por esa puerta?}.\footnote{\cite[Cf.~][304]{wittgenstein2005bt}: (Questions of different kinds occupy us. For instance, ``What is the specific weight of this body'', ``Will the weather stay nice today'', ``Who will come through the door next'', etc. But among our questions there are those of a special kind. Here we have a different experience. These questions seem to be more fundamental than the others. And now I say: When we have this experience, we have arrived at the limits of language.)} Preguntar \enquote*{¿qué es conocer una verdad para la vida por el testimonio de la Escritura?} sería, como la pregunta agustiniana sobre el tiempo, una pregunta sobre la naturaleza o esencia de este fenómeno. Un concepto familiar en la vida de la Iglesia como el testimonio queda enmarcado como problema cuando nos acercamos a él queriendo comprender su esencia.
 
-  Esto ya nos da una pista sobre el modo en que nos cuestionaremos acerca del
-  testimonio. El siguiente elemento que servirá de clave para el estudio lo
-  obtenemos si precisamos un poco cómo Elizabeth Anscombe se conduce a través de
-  cuestiones filosóficas como las planteadas anteriormente. Así como telón de
-  fondo podemos desplegar otro cierto modo de proceder como el que se encuentra en
-  la investigación realizada a inicios del siglo XX por el psicólogo William
-  James. Esto nos servirá para contrastar.
+Esto ya nos da una pista sobre el modo en que nos cuestionaremos acerca del testimonio. El siguiente elemento que servirá de clave para el estudio lo obtenemos si precisamos un poco cómo Elizabeth Anscombe se conduce a través de cuestiones filosóficas como las planteadas anteriormente. Así, como telón de fondo, podemos desplegar otro modo de proceder como el que se encuentra en la investigación realizada a inicios del siglo XX por el psicólogo William James. Nos servirá para contrastar.
 
-  Al comienzo de sus conferencias sobre \emph{religión natural} dedica una
-  exposición breve para explicar algo del método de su estudio sobre las
-  tendencias religiosas de las personas. Se apoya sobre la literatura de lógica de
-  su época para distinguir dos niveles de investigación sobre cualquier tema:
-  aquellas preguntas que se resuelven por medio de proposiciones
-  \emph{existenciales}, como \enquote{¿qué constitución, qué origen, qué historia
-    tiene esto?} o \enquote{¿cómo se ha realizado esto?}. En otro nivel están las
-  preguntas que se responden con proposiciones de \emph{valor} como \enquote{¿cuál
-    es la importancia, sentido o significado actual de esto?}. A este segundo
-  juicio James lo denomina \emph{juicio espiritual}. El enfoque de sus
-  conferencias sobre la religión será el existencial, pero no deja de ser
-  interesante su apreciación de lo que sería un juicio espiritual aplicado a la
-  Escritura:
+Al comienzo de sus conferencias sobre \emph{religión natural} James dedica una exposición breve para explicar algo del método de su estudio sobre las tendencias religiosas de las personas. Se apoya sobre la literatura de la lógica de su época para distinguir dos niveles de investigación sobre cualquier tema: aquellas preguntas que se resuelven por medio de proposiciones \emph{existenciales}, como \enquote*{¿qué constitución, qué origen, qué historia tiene esto?} o \enquote*{¿cómo se ha realizado esto?}. En otro nivel están las preguntas que se responden con proposiciones de \emph{valor} como \enquote*{¿cuál es la importancia, sentido o significado actual de esto?}. A este segundo juicio James lo denomina \emph{juicio espiritual}. El enfoque de sus conferencias sobre la religión será el existencial, pero no deja de ser interesante su apreciación de lo que sería un juicio espiritual aplicado a la Escritura:
 
-  \blockquote[{\cite[27]{james2002variedades}}]{\enquote{¿Bajo qué condiciones
-      biográficas los escritores sagrados aportan sus diferentes contribuciones al
-      volumen sacro?}, \enquote{¿Cúal era exactamente el contenido intelectual de
-      sus declaraciones en cada caso particular?}. Por supuesto, éstas son
-    preguntas sobre hechos históricos y no vemos cómo las respuestas pueden
-    resolver, de súbito, la última pregunta: \enquote{¿De qué modo este libro, que
-      nace de la forma descrita, puede ser una guía para nuestra vida y una
-      revelación?}. Para contestar habríamos de poseer alguna teoría general que
-    nos mostrara con qué peculiaridades ha de contar una cosa para adquirir valor
-    en lo que concierne a la revelación; y, en ella misma, tal teoría sería lo que
-    antes hemos denominado un juicio espiritual.}
+\blockquote[{\cite[27]{james2002variedades}}]{\enquote{¿Bajo qué condiciones biográficas los escritores sagrados aportan sus diferentes contribuciones al volumen sacro?}, \enquote{¿Cúal era exactamente el contenido intelectual de sus declaraciones en cada caso particular?}. Por supuesto, éstas son preguntas sobre hechos históricos y no vemos cómo las respuestas pueden resolver, de súbito, la última pregunta: \enquote{¿De qué modo este libro, que nace de la forma descrita, puede ser una guía para nuestra vida y una revelación?}. Para contestar habríamos de poseer alguna teoría general que nos mostrara con qué peculiaridades ha de contar una cosa para adquirir valor en lo que concierne a la revelación; y, en ella misma, tal teoría sería lo que antes hemos denominado un juicio espiritual.}
 
-  Desde esta perspectiva la pregunta sobre cómo el testimonio de la Escritura
-  puede ser una guía para nuestra vida es una investigación sobre la importancia,
-  sentido o significado que éste pueda tener de hecho. La respuesta emitida en
-  conclusión sería un juicio de valor sobre este fenómeno testimonial. James
-  propone que sería necesaria una teoría general que explicara qué características
-  debería de tener alguna cosa para que merezca ser valorada como revelación. Así
-  planteado, la pregunta sobre el testimonio de la Escritura sería atendida
-  adecuadamente por medio de una investigación que indagara dentro de este
-  fenómeno para descubrir los elementos que le otorgan el valor adecuado como para
-  ser considerado como revelación o estimado como guía para nuestra vida. La
-  explicación de dichos elementos configurarían una teoría que nos permitiría
-  juzgar este testimonio concreto como valioso, o no, como revelación y guía para
-  nuestras vidas.
-
+Desde esta perspectiva la pregunta sobre cómo el testimonio de la Escritura puede ser una guía para nuestra vida es una investigación sobre la importancia, sentido o significado que éste pueda tener de hecho. La respuesta emitida sería un juicio de valor sobre este fenómeno testimonial. James propone que sería necesaria una teoría general que explicara qué características debería tener alguna cosa para que merezca ser valorada como revelación. Así planteada, la pregunta sobre el testimonio de la Escritura sería atendida adecuadamente por medio de una investigación que indagara dentro de este fenómeno para descubrir los elementos que le otorgan el valor adecuado como para ser considerado como revelación o estimado como guía para nuestra vida. La explicación de dichos elementos configurarían una teoría que nos permitiría juzgar este testimonio concreto como valioso o no, como revelación y guía para nuestras vidas.
 #+END_SRC
 ** DONE Peculiaridad del método de Anscombe
    CLOSED: [2019-04-12 Fri 08:04]
@@ -196,199 +60,21 @@
    CLOCK: [2019-04-12 Fri 07:45]--[2019-04-12 Fri 07:57] =>  0:12
    :END:
 #+BEGIN_SRC latex
-  Si traemos al frente ahora la metodología de Anscombe y la comparamos con la
-  propuesta de William James se aprecian bien algunas distinciones características
-  de su filosofía que de tener en cuenta nos evitarán confusiones en la travesía a
-  lo largo de su obra y pensamiento. En efecto:
-  \blockquote[{\cite[1]{teichmann2008ans}}: Part of the difficulty in reading
-  Anscombe is in finding your bearings, and this has to do with her eschewal of
-  System. A system or theory often makes things easier for the reader. Once you
-  have grasped N's theory, you can frequently infer what N would have to say on
-  some point by simply `applying' the theory. But it can often be hard to predict
-  in advance what Anscombe will say about some given thing. She is infuriatingly
-  prone to take each case on its merits.]{Parte de la dificultad en leer a
-    Anscombe está en encontrar nuestro rumbo, y esto tiene que ver con su evasión
-    de Sistema. Un sistema o teoría a menudo hace las cosas más fáciles para el
-    lector. Una vez que haz captado la teoría de N, con frecuencia puedes inferir
-    qué N tendría que decir sobre algún punto al simplemente \enquote*{aplicar} la
-    teoría. Pero frecuentemente puede ser difícil predecir de antemano qué
-    Anscombe dirá acerca de alguna cosa dada. Tiene la exasperante tendencia a
-    tomar cada caso en sus propios méritos.}
-  No quiere decir esto que Anscombe carezca de rigor o sistematicidad en sus
-  escritos, sin embargo suele adentrarse \enquote{in medias res} en las
-  discusiones con la intención de llegar a algún sitio por la fuerza de sus
-  propias reflexiones sin detenerse a dar mucha explicación de sus presupuestos o
-  del trasfondo de su discusión.\footnote{\cite[Cf.~][1]{teichmann2008ans}:
-    \textelp{} there is another reason for the lack of apparent systematicity in
-    Anscombe's writings, and that is that her purpose in writing was typically to
-    get somewhere in her own thoughts on some topic; she usually spends little or
-    no time in providing a background, or in justifying her main `assumptions',
-    preferring to begin \emph{in medias res}.} Sin embargo en esta característica
-  de su método hay una cuestión de fondo que tiene que ver con la influencia de
-  Wittgenstein:
-  \blockquote[{\cite[1]{teichmann2008ans}}: There is a familiar philosophical, or
-  meta-philosophical, issue here, to do with the pointfulness or otherwise of
-  constructing generalizations. Wittgenstein considered prefacing the text of the
-  Philosophical Investigations with the epigraph `I'll teach you differences', and
-  Anscombe certainly shared Wittgenstein's belief that glossing over differences
-  was one of the main sources of error in philosophy.]{Hay una familiar
-    filosófica, o meta-filosófica, cuestión aquí, concerniente a la utilidad o no
-    de construir generalizaciones. Wittgenstein consideró prologar el texto de
-    \emph{Investigaciones Filosóficas} con el epígrafe \enquote*{Te enseñaré
-      diferencias}, y Anscombe ciertamente compartía la creencia de Wittgenstein
-    de que pasar por encima de las diferencias era una de las principales fuentes
-    de error en la filosofía.}
+Si examinamos ahora la metodología de Anscombe y la comparamos con la propuesta de William James se aprecian algunas distinciones características de su filosofía que nos evitarán confusiones en la travesía a lo largo de su obra y pensamiento. En efecto: \blockquote[{\cite[1]{teichmann2008ans}}: Part of the difficulty in reading Anscombe is in finding your bearings, and this has to do with her eschewal of System. A system or theory often makes things easier for the reader. Once you have grasped N's theory, you can frequently infer what N would have to say on some point by simply `applying' the theory. But it can often be hard to predict in advance what Anscombe will say about some given thing. She is infuriatingly prone to take each case on its merits.]{Parte de la dificultad en leer a Anscombe está en encontrar nuestro rumbo, y esto tiene que ver con su evasión de Sistema. Un sistema o teoría a menudo hace las cosas más fáciles para el lector. Una vez que haz captado la teoría de $N$, con frecuencia puedes inferir qué tendría que decir $N$ sobre algún punto al simplemente \enquote*{aplicar} la teoría. Pero frecuentemente puede ser difícil predecir de antemano qué dirá Anscombe acerca de alguna cosa dada. Tiene la exasperante tendencia a tomar cada caso en sus propios méritos.} No quiere decir esto que Anscombe carezca de rigor o sistematicidad en sus escritos, sin embargo suele adentrarse \enquote{in medias res} en las discusiones con la intención de llegar a algún sitio por la fuerza de sus propias reflexiones sin detenerse a dar mucha explicación de sus presupuestos o del trasfondo de su discusión.\footnote{\cite[Cf.~][1]{teichmann2008ans}: \textelp{} there is another reason for the lack of apparent systematicity in Anscombe's writings, and that is that her purpose in writing was typically to get somewhere in her own thoughts on some topic; she usually spends little or no time in providing a background, or in justifying her main `assumptions', preferring to begin \emph{in medias res}.} Sin embargo en esta característica de su método hay una cuestión de fondo que tiene que ver con la influencia de Wittgenstein: \blockquote[{\cite[1]{teichmann2008ans}}: There is a familiar philosophical, or meta-philosophical, issue here, to do with the pointfulness or otherwise of constructing generalizations. Wittgenstein considered prefacing the text of the Philosophical Investigations with the epigraph `I'll teach you differences', and Anscombe certainly shared Wittgenstein's belief that glossing over differences was one of the main sources of error in philosophy.]{Hay aquí una cuestión familiar filosófica, o meta-filosófica, concerniente a la utilidad o no de construir generalizaciones. Wittgenstein consideró prologar el texto de \emph{Investigaciones Filosóficas} con el epígrafe \enquote*{Te enseñaré las diferencias}, y Anscombe ciertamente compartía la creencia de Wittgenstein de que pasar por encima de las diferencias era una de las principales fuentes de error en la filosofía.}
 
-  Efectivamente esta preocupación por el modo específico de confrontar un problema
-  filosófico ocupa un lugar importante en \emph{Investigaciones Filosóficas}. En
-  el \S89 se encuentra una referencia al texto antes citado de las
-  \emph{Confesiones} para describir la peculiaridad de las preguntas filosóficas:
-  \blockquote[{\cite[\S89]{wittgenstein1953phiinv}}: Augustine says in
-  \emph{Confessions} XI. 14, \enquote{quid est ergo tempus? si nemo ex me quaerat
-    scio; si quaerenti explicare velim nescio}. --This could not be said about a
-  question of natural science (\enquote{What is the specific gravity of hydrogen},
-  for instance). Something that one knows when nobody asks one but no longer knows
-  when one is asked to explain it, is something that has to be \emph{called to
-    mind}. (And it is obviously something which, for some reason, it is difficult
-  to call to mind.)]{Agustín dice en \emph{Confesiones} XI. 14, \enquote{quid est
-      ergo tempus? si nemo ex me quaerat scio; si quaerenti explicare velim
-      nescio}. ---Esto no podría ser dicho de una pregunta propia de la ciencia
-    natural (\enquote{Cuál es la gravedad específica del hidrógeno}, por ejemplo).
-    Algo que uno conoce cuando nadie le pregunta pero que no conoce ya cuando
-    alguien pide que lo explique, es algo que tiene que \emph{ser traído a la
-      mente}. (Y esto es obviamente algo que, por algún motivo, es dificil de
-    traer a la mente.)}
-  Para Ludwig es de gran importancia atender el paso que damos para resolver
-  la perplejidad causada por el reclamo de explicar un fenómeno. El deseo de
-  aclararlo nos puede impulsar a buscar una explicación dentro del fenómeno mismo,
-  o como él diría:
-  \blockquote[{\cite[\S90]{wittgenstein1953phiinv}}: We feel as if we had to see
-  right into phenomena.]{Nos sentimos como si tuviéramos que mirar directamente
-  hacia dentro de los fenómenos}.
-  Esta predisposición nos puede conducir a ignorar la amplitud del modo en que el
-  lenguaje es empleado en la actividad humana para hablar de lo que se investiga y
-  a enfocarnos sólo en un elemento particular del lenguaje sobre este fenómeno y
-  tomarlo como un ejemplo paradigmático para construir un modelo abstrayendo
-  explicaciones y generalizaciones sobre él. Esta manera de indagar, le parece a
-  Wittgenstein, nos hunde cada vez más profundamente en un estado de frustración y
-  confusión filosófica de modo que llegamos a imaginar que para alcanzar claridad:
-  \blockquote[{\cite[\S106]{wittgenstein1953phiinv}}: we have to describe extreme
-  subtleties, which again we are quite unable to describe with the means at our
-  disposal. We feel as if we had to repair a torn spider's web with our fingers.
-  ]{tenemos que describir sutilezas extremas, las cuales una vez más somos
-    bastante incapaces de describir con los medios que tenemos a nuestra
-    disposición. Sentimos como si tuvieramos que reparar una telaraña rota usando
-    nuestros dedos.}
+Efectivamente esta preocupación por el modo específico de afrontar un problema filosófico ocupa un lugar importante en \emph{Investigaciones Filosóficas}. En el \S89 se encuentra una referencia al texto antes citado de las \emph{Confesiones} para describir la peculiaridad de las preguntas filosóficas: \blockquote[{\cite[\S89]{wittgenstein1953phiinv}}: Augustine says in \emph{Confessions} XI. 14, \enquote{quid est ergo tempus? si nemo ex me quaerat scio; si quaerenti explicare velim nescio}. --This could not be said about a question of natural science (\enquote{What is the specific gravity of hydrogen}, for instance). Something that one knows when nobody asks one but no longer knows when one is asked to explain it, is something that has to be \emph{called to mind}. (And it is obviously something which, for some reason, it is difficult to call to mind.)]{Agustín dice en \emph{Confesiones} XI. 14, \enquote{quid est ergo tempus? si nemo ex me quaerat scio; si quaerenti explicare velim nescio}. ---Esto no podría ser dicho de una pregunta propia de la ciencia natural (\enquote{Cuál es la gravedad específica del hidrógeno}, por ejemplo). Algo que uno conoce cuando nadie le pregunta pero que no conoce ya cuando alguien pide que lo explique, es algo que tiene que \emph{ser traído a la mente}. (Y esto es obviamente algo que, por algún motivo, es dificil de traer a la mente.)} Para Ludwig es de gran importancia atender el paso que damos para resolver la perplejidad causada por el reclamo de explicar un fenómeno. El deseo de aclararlo nos puede impulsar a buscar una explicación dentro del fenómeno mismo, o como él diría: \blockquote[{\cite[\S90]{wittgenstein1953phiinv}}: We feel as if we had to see right into phenomena.]{Nos sentimos como si tuviéramos que mirar directamente hacia dentro de los fenómenos}. Esta predisposición nos puede conducir a ignorar la amplitud del modo en que el lenguaje es empleado en la actividad humana para hablar de lo que se investiga y a enfocarnos sólo en un elemento particular del lenguaje sobre este fenómeno y tomarlo como un ejemplo paradigmático para construir un modelo abstrayendo explicaciones y generalizaciones sobre él. Esta manera de indagar, le parece a Wittgenstein, nos hunde cada vez más profundamente en un estado de frustración y confusión filosófica de modo que llegamos a imaginar que para alcanzar claridad: \blockquote[{\cite[\S106]{wittgenstein1953phiinv}}: we have to describe extreme subtleties, which again we are quite unable to describe with the means at our disposal. We feel as if we had to repair a torn spider's web with our fingers. ]{tenemos que describir sutilezas extremas, las cuales una vez más somos bastante incapaces de describir con los medios que tenemos a nuestra disposición. Sentimos como si tuvieramos que reparar una telaraña rota usando nuestros dedos.}
 
-  La alternativa que Wittgenstein propone es una investigación que no esté
-  dirigida hacia dentro del fenómeno, sino
-  \blockquote[{\cite[\S90]{wittgenstein1953phiinv}}: as one might say, towards the
-  \emph{`possibilities'} of phenomena. What that means is that we call to mind the
-  \emph{kinds of statement} that we make about phenomena.]{como se podría decir,
-    hacia \enquote{\emph{posibilidades}} de fenómenos. Lo que eso significa es que
-    traemos a la mente los \emph{tipos de afirmaciones} que hacemos acerca de los
-    fenómenos.}
-  Este tipo de investigación la denomina \enquote{gramatical} y la describe
-  diciendo:
-  \blockquote[{\cite[\S90]{wittgenstein1953phiinv}}: Our inquiry is therefore a
-  grammatical one. And this inquiry sheds light on our problem by clearing
-  misunderstandings away. Misunderstandings concerning the use of words, brought
-  about, among other things, by certain analogies between the forms of expression
-  in different regions of our language. --- Some of them can be removed by
-  substituting one form of expression for another; this may be called
-  \enquote{analysing} our forms of expression, for sometimes this procedure
-  resembles taking things apart.]{Por tanto nuestra investigación es una
-    gramatical. Y esta investigación arroja luz sobre nuestro problema al despejar
-    los malentendidos. Malentendidos concernientes al uso de las palabras,
-    suscitados, entre otras cosas, por ciertas analogías entre las formas de
-    expresión en diferentes regiones de nuestro lenguaje. --- Algunos de éstos
-    pueden ser eliminados por medio de sustituir una forma de expresión por otra;
-    esto puede ser llamado \enquote{analizar} nuestras formas de expresión, puesto
-    que a veces este procedimiento se parece a desarmar algo.}
+La alternativa que Wittgenstein propone es una investigación que no esté dirigida hacia dentro del fenómeno, sino \blockquote[{\cite[\S90]{wittgenstein1953phiinv}}: as one might say, towards the \emph{`possibilities'} of phenomena. What that means is that we call to mind the \emph{kinds of statement} that we make about phenomena.]{como se podría decir, hacia \enquote{\emph{posibilidades}} de fenómenos. Lo que eso significa es que traemos a la mente los \emph{tipos de afirmaciones} que hacemos acerca de los fenómenos.} Este tipo de investigación la denomina \enquote{gramatical} y la describe diciendo: \blockquote[{\cite[\S90]{wittgenstein1953phiinv}}: Our inquiry is therefore a grammatical one. And this inquiry sheds light on our problem by clearing misunderstandings away. Misunderstandings concerning the use of words, brought about, among other things, by certain analogies between the forms of expression in different regions of our language. --- Some of them can be removed by substituting one form of expression for another; this may be called \enquote{analysing} our forms of expression, for sometimes this procedure resembles taking things apart.]{Por tanto nuestra investigación es gramatical. Y esta investigación arroja luz sobre nuestro problema al despejar los malentendidos. Malentendidos concernientes al uso de las palabras, suscitados, entre otras cosas, por ciertas analogías entre las formas de expresión en diferentes regiones de nuestro lenguaje.\,---\,Algunos de éstos pueden ser eliminados si se sustituye una forma de expresión por otra; esto puede ser llamado \enquote{analizar} nuestras formas de expresión, puesto que a veces este procedimiento se parece a desarmar algo.}
 
-  El modo de salir de nuestra perplejidad, por tanto, consiste en prestar
-  cuidadosa atención al uso que hacemos de hecho con las palabras y la aplicación
-  que empleamos de las expresiones. Esto está al descubierto en nuestro uso del
-  lenguaje de modo que la dificultad para \emph{traer a la mente} aquello que
-  aclare un fenómeno no está en descubrir algo oculto en éste, sino en aprender a
-  valorar lo que tenemos ante nuestra vista:
-  \blockquote[{\cite[\S129]{wittgenstein1953phiinv}}: The aspects of things that
-  are most important for us are hidden because of their simplicity and
-  familiarity. (One is unable to notice something --- because it is always before
-  one's eyes.)]{Los aspectos de las cosas que son más importantes para nosotros
-    están escondidos por su simplicidad y familiaridad. (Uno es incapaz de notar
-    algo --- porque lo tiene siempre ante sus ojos.)}
-  La descripción de los hechos concernientes al uso del lenguaje en nuestra
-  actividad humana ordinaria componen los pasos del tipo de investigación sugerido
-  por Wittgenstein. Hay cierta insatisfacción en este modo de proceder, como él
-  mismo afirma:
-  \blockquote[{\cite[\S118]{wittgenstein1953phiinv}}: Where does this
-  investigation get its importance from, given that it seems only to destroy
-  everything interesting: that is, all that is great and important? (As it were,
-  all the buildings, leaving behind only bits of stone and rubble.) But what we
-  are destroying are only houses of cards, and we are clearing up the ground of
-  language on which they stood.]{¿De dónde esta investigación adquiere su
-    importancia, dado que parece solo destruir todo lo interesante: esto es, todo
-    lo que es grandioso e importante? (Por así decirlo, todos los edificios,
-    dejando solamente pedazos de piedra y escombros.) Pero lo que estamos
-    destruyendo son solo casas de naipes, y estamos despejando el terreno del
-    lenguaje donde estaban erigidas.}
+El modo de salir de nuestra perplejidad, por tanto, consiste en prestar cuidadosa atención al uso que hacemos de hecho de las palabras y la aplicación que asignamos a las expresiones. Esto queda al descubierto en nuestro uso del lenguaje de modo que la dificultad para \emph{traer a la mente} aquello que aclare un fenómeno no está en descubrir algo oculto en éste, sino en aprender a valorar lo que tenemos ante nuestra vista: \blockquote[{\cite[\S129]{wittgenstein1953phiinv}}: The aspects of things that are most important for us are hidden because of their simplicity and familiarity. (One is unable to notice something --- because it is always before one's eyes.)]{Los aspectos de las cosas que son más importantes para nosotros están escondidos por su simplicidad y familiaridad. (Uno es incapaz de notar algo --- porque lo tiene siempre ante sus ojos.)} La descripción de los hechos concernientes al uso del lenguaje en nuestra actividad humana ordinaria componen los pasos del tipo de investigación sugerido por Wittgenstein. Hay cierta insatisfacción en este modo de proceder, como él mismo afirma: \blockquote[{\cite[\S118]{wittgenstein1953phiinv}}: Where does this investigation get its importance from, given that it seems only to destroy everything interesting: that is, all that is great and important? (As it were, all the buildings, leaving behind only bits of stone and rubble.) But what we are destroying are only houses of cards, and we are clearing up the ground of language on which they stood.]{¿De dónde adquiere su importancia esta investigación, dado que parece solo destruir todo lo interesante: esto es, todo lo que es grandioso e importante? (Por así decirlo, todos los edificios, dejando solamente pedazos de piedra y escombros.) Pero lo que estamos destruyendo son solo casas de naipes, y estamos despejando el terreno del lenguaje donde estaban erigidas.}
 
-  La estrategia de Anscombe comparte estas actitudes explicadas por Wittgenstein.
-  A la hora de atender una pregunta filosófica lo que Anscombe nos invita a
-  \emph{traer a la mente} no son elementos ocultos en el fenómeno que se estudia,
-  sino los tipos de afirmaciones ---que están claramente ante nuestra vista---
-  empleados para expresar aquello que se está indagando. Al describir estas
-  expresiones se aclara el uso del lenguaje y se disuelve el problema filosófico.
-  Elizabeth adopta, por tanto, ese:
-  \blockquote[{\cite[xix]{anscombe2011plato}}: There is however a somehow
-  chracteristically Wittgenstenian way of countering the philosopher's tendency to
-  explain a philosophically puzzling thing by inventing an entity or event which
-  causes it, as physicists invent particles like the graviton.]{modo
-    característicamente Wittgensteniano de rebatir la tendencia del filósofo de
-    explicar alguna cuestión filosóficamente enigmática inventando una entidad o
-    evento que la causa, así como los físicos inventan partículas como el
-    gravitón.}
+La estrategia de Anscombe comparte estas actitudes explicadas por Wittgenstein. A la hora de atender una pregunta filosófica lo que Anscombe nos invita a \emph{traer a la mente} no son elementos ocultos en el fenómeno que se estudia, sino los tipos de afirmaciones ---que están claramente ante nuestra vista--- empleados para expresar aquello que se está indagando. Al describir estas expresiones se aclara el uso del lenguaje y se disipa el problema filosófico. Elizabeth adopta, por tanto, ese: \blockquote[{\cite[xix]{anscombe2011plato}}: There is however a somehow chracteristically Wittgenstenian way of countering the philosopher's tendency to explain a philosophically puzzling thing by inventing an entity or event which causes it, as physicists invent particles like the graviton.]{modo característicamente Wittgensteniano de rebatir la tendencia del filósofo de explicar alguna cuestión filosóficamente enigmática inventando una entidad o evento que la causa, así como los físicos inventan partículas como el gravitón.}
 
-  Ciertamente Anscombe no se limita exclusivamente a un solo método. El mismo
-  Wittgenstein diría que
-  \blockquote[{\cite[\S133]{wittgenstein1953phiinv}}: There is not a single
-  philosophical method, though there are indeed methods, different therapies as it
-  were]{No hay un solo método filosófico, aunque ciertamente hay métodos,
-    diferentes terapias por así decirlo.}
+Ciertamente Anscombe no se limita exclusivamente a un solo método. El mismo Wittgenstein diría que \blockquote[{\cite[\S133]{wittgenstein1953phiinv}}: There is not a single philosophical method, though there are indeed methods, different therapies as it were]{No hay un solo método filosófico, aunque ciertamente hay métodos, diferentes terapias por así decirlo.}
 
-  Sin embargo cabe destacar esta estrategia porque la emplea con frecuencia. En
-  escritos importantes de su obra podemos encontrarla empleando lenguajes o juegos
-  de lenguaje imaginarios para arrojar luz sobre modos actuales de usar el
-  lenguaje o esquemas conceptuales; del mismo modo su trabajo esta lleno de
-  ejemplos donde la encontramos examinando con detenimiento el uso que de hecho
-  hacemos del lenguaje.\footnote{\cite[Cf.~][228--229]{teichmann2008ans}: Another
-    way which we can learn from Anscombe is by seeing \emph{how} she does
-    philosophy, and understanding why she does it the way she does. Here is the
-    point where it might be useful to consider whether Anscombe can be called a
-    `linguistic philosopher', and if so, in what sense. A distinction worth making
-    straight away is that between (a) philosophers who direct our attention to
-    what we actually say, and to features of our actual language (or group of
-    languages), and (b) philosophers who ask us to think about possible, as well
-    as actual, languages and language-games. The first group of philosophers might
-    be called ordinary-language philosophers. Anscombe quite clearly belongs to
-    (b), not to (a); examples of her imafinary languages include the language
-    containing the self-referential `A', the language containing the verb to
-    REMBER \textelp{}, the language containing the verb to blip, analogous to
-    `promise' \textelp{}, and the language containing the primitive past-tense
-    report `red' \textelp{}. The purpose of presenting these imaginary languages
-    is of course to cast light on our actual languages and conceptual schemes.}
+Sin embargo cabe destacar esta estrategia porque la emplea con frecuencia. En escritos importantes de su obra podemos encontrarla empleando lenguajes o juegos de lenguaje imaginarios para arrojar luz sobre modos actuales de usar el lenguaje o esquemas conceptuales; del mismo modo su trabajo esta lleno de ejemplos donde la encontramos examinando con detenimiento el uso que de hecho hacemos del lenguaje.\footnote{\cite[Cf.~][228--229]{teichmann2008ans}: Another way which we can learn from Anscombe is by seeing \emph{how} she does philosophy, and understanding why she does it the way she does. Here is the point where it might be useful to consider whether Anscombe can be called a `linguistic philosopher', and if so, in what sense. A distinction worth making straight away is that between (a) philosophers who direct our attention to what we actually say, and to features of our actual language (or group of languages), and (b) philosophers who ask us to think about possible, as well as actual, languages and language-games. The first group of philosophers might be called ordinary-language philosophers. Anscombe quite clearly belongs to (b), not to (a); examples of her imafinary languages include the language containing the self-referential `A', the language containing the verb to REMBER \textelp{}, the language containing the verb to blip, analogous to `promise' \textelp{}, and the language containing the primitive past-tense report `red' \textelp{}. The purpose of presenting these imaginary languages is of course to cast light on our actual languages and conceptual schemes.}
 
-  El título de este trabajo promete que el análisis sobre el testimonio que será
-  expuesto es el que se encuentra desarrollado en el pensamiento de Elizabeth
-  Anscombe. La pregunta planteada al inicio: ¿qué es conocer una verdad para la
-  vida por el testimonio de la Escritura?, entendida como investigación
-  filosófica, será examinada en las descripiciones que Anscombe realiza sobre el
-  modo de usar el lenguaje sobre el creer, la confianza, la verdad, la fe y otros
-  fenómenos relacionados con el conocer por testimonio. El modo en que Anscombe
-  trata el lenguaje actual y posible en su metodología, no solo influirá en el
-  capítulo dedicado a su obra, sino que orienta el desarrollo general de este
-  estudio sobre la categoría del testimonio.
+El título de este trabajo señala que el análisis sobre el testimonio que será expuesto es el que se encuentra desarrollado en el pensamiento de Elizabeth Anscombe. La pregunta planteada al inicio: ¿qué es conocer una verdad para la vida por el testimonio de la Escritura?, entendida como investigación filosófica, será examinada a partir de las descripiciones que Anscombe realiza sobre el modo de usar el lenguaje sobre el creer, la confianza, la verdad, la fe y otros fenómenos relacionados con el conocer por testimonio. El modo en que Anscombe trata el lenguaje actual y posible en su metodología, no solo influirá en el capítulo dedicado a su obra, sino que orienta el desarrollo general de este estudio sobre la categoría del testimonio.
 #+END_SRC
 ** DONE Carácter teológico del estudio
    CLOSED: [2019-04-12 Fri 09:49]
@@ -396,52 +82,15 @@
    CLOCK: [2019-04-12 Fri 08:07]--[2019-04-12 Fri 08:54] =>  0:47
    :END:
 #+BEGIN_SRC latex
-  Como nuestro título también advierte, este estudio dirigido al pensamiento y
-  obra de Anscombe es realizado en perspectiva teológica. Sobre la relación que
-  pueda haber en una investigación teológica enfocada en el pensamiento filosófico
-  de una autora como Elizabeth es iluminadora la perspectiva de Joseph Ratzinger
-  en su respuesta a la pregunta \enquote{¿Qué es teología?}:
-  \blockquote[{\cite[380]{ratzinger2005teoria}}]{Me viene a las mientes, por un
-    lado, \textelp*{la expresión}: \emph{Dios todo en todos}, y el programa
-    espiritual contenido \textelp*{ahí}; por otra parte, \textelp{} un modo de
-    interrogar total y absolutamente filosófico, que no se detiene en reales o
-    supuestas comprobaciones históricas, en diagnósticos sociológicos o en
-    técnicas pastorales, sino que se lanza implacablemente a la busqueda de los
-    fundamentos.
+Como nuestro título también señala, el estudio dirigido al pensamiento y obra de Anscombe se realiza en perspectiva teológica. Sobre la relación que pueda haber en una investigación teológica enfocada en el pensamiento filosófico de una autora como Elizabeth es iluminadora la perspectiva de Joseph Ratzinger en su respuesta a la pregunta \enquote{¿Qué es teología?}: \blockquote[{\cite[380]{ratzinger2005teoria}}]{Me viene a las mientes, por un lado, \textelp*{la expresión}: \emph{Dios todo en todos}, y el programa espiritual contenido \textelp*{ahí}; por otra parte, \textelp{} un modo de interrogar total y absolutamente filosófico, que no se detiene en reales o supuestas comprobaciones históricas, en diagnósticos sociológicos o en técnicas pastorales, sino que se lanza implacablemente a la busqueda de los fundamentos.
 
-    Según esto, cabría formular ya dos tesis que pueden servirnos de hilo
-    conductor para nuestro interrogante sobre la esencia de la teología:
-    \begin{enumerate}
-      \item La teología se refiere a Dios.
-      \item El pensamiento teológico está vinculado al modo de cuestionar
-        filosófico como a su método fundamental.
-     \end{enumerate}
+Según esto, cabría formular ya dos tesis que pueden servirnos de hilo conductor para nuestro interrogante sobre la esencia de la teología:
+\begin{enumerate}
+\item La teología se refiere a Dios.
+\item El pensamiento teológico está vinculado al modo de cuestionar filosófico como a su método fundamental.
+\end{enumerate}
 
-    Podría parecer que estas tesis son contradictorias si, por un lado, se
-    entiende por filosofía un pensamiento que, en virtud de su propia
-    naturaleza, prescinde ---y debe prescindir--- de la revelación y si, por
-    otro lado, se sustenta la opinión de que sólo se puede llegar al
-    conocimiento de Dios por el camino de la revelación y en consecuencia, el
-    problema de Dios no es, estrictamente hablando, un tema de la razón en
-    cuanto tal. Estoy convencido de que esta postura \textelp{} a largo plazo
-    desembocará irremediablemente en la paralización por un igual de la
-    filosofía y de la teología.}
-  Esta investigación sobre el testimonio como parte de la vida de la Iglesia será
-  realizada atendiendo al modo de cuestionar filosófico realizado por Elizabeth
-  Anscombe como método, examinando esta experiencia en referencia a Dios, es
-  decir, como vivencia de su ser y de su obrar.
+Podría parecer que estas tesis son contradictorias si, por un lado, se entiende por filosofía un pensamiento que, en virtud de su propia naturaleza, prescinde ---y debe prescindir--- de la revelación y si, por otro lado, se sustenta la opinión de que sólo se puede llegar al conocimiento de Dios por el camino de la revelación y en consecuencia, el problema de Dios no es, estrictamente hablando, un tema de la razón en cuanto tal. Estoy convencido de que esta postura \textelp{} a largo plazo desembocará irremediablemente en la paralización por un igual de la filosofía y de la teología.} Esta investigación sobre el testimonio como expresión de la vida de la Iglesia será realizada atendiendo al modo de cuestionar filosófico realizado por Elizabeth Anscombe como método, examinando esta experiencia en referencia a Dios, es decir, como vivencia de su ser y de su obrar.
 
-  Hasta aquí simplemente se ha descrito un modo de andar a través de la discusión
-  acerca de la categoría del testimonio atendiendo el hecho de que tanto la
-  temática como la figura de Anscombe otorgan a este camino peculiaridades que hay
-  que tener en cuenta para no caer en confusiones. Siendo conscientes de estas
-  particularidades podríamos ahora ampliar más el horizonte respecto de dos
-  cuestiones brevemente expuestas anteriormente. En primer lugar es necesario
-  ampliar la descripción hecha hasta aquí del fenómeno del testimonio en la vida
-  de la Iglesia, ya que aunque nos resulte familiar relacionarlo con el testimonio
-  de la Sagrada Escritura, tanto en la vida eclesial, como en el Magisterio de la
-  Iglesia, como en la propia Escritura, esta categoría se haya presente con una
-  riqueza más grande y diversa. En segundo lugar habría que detallar todavía mejor
-  lo problemático del testimonio, sobre todo cuando se considera su importancia en
-  la transmisión de la fe y el anuncio del Evangelio en el mundo.
+Hasta aquí simplemente se ha descrito un modo de andar a través de la discusión acerca de la categoría del testimonio atendiendo el hecho de que tanto la temática como la figura de Anscombe otorgan a este camino peculiaridades que hay que tener en cuenta. Siendo conscientes de estas particularidades podríamos ahora ampliar el horizonte respecto de dos cuestiones brevemente ya expuestas antes. En primer lugar es necesario ampliar la descripción hecha hasta aquí del fenómeno del testimonio en la vida de la Iglesia, ya que aunque nos resulte familiar relacionarlo con el testimonio de la Sagrada Escritura esta categoría se halla presente con una riqueza más grande y diversa tanto en la vida eclesial, como en el Magisterio de la Iglesia, como en la propia Escritura. En segundo lugar habría que detallar todavía mejor el aspecto problemático del testimonio, sobre todo cuando se considera su importancia en la transmisión de la fe y el anuncio del Evangelio en el mundo.
 #+END_SRC
