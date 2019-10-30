@@ -3,5 +3,54 @@
 
 #+BEGIN_SRC latex
 \section{La filosofía analítica y la teología del testimonio}
-
 #+END_SRC
+
+#+BEGIN_SRC latex
+Antes de adentrarnos en el pensamiento de Anscombe simplemente anotamos aquí algo sobre la motivación para estudiar la categoría teológica del testimonio dentro de la filosofía analítica. Quizás las últimas consideraciones del apartado anterior anticipan una pista al respecto.
+
+Elizabeth misma explica que `filosofía analítica' representa más un modo de investigar que un contenido doctrinal.\footnote{\cite[66]{anscombe2008faith:twenty}: \enquote{Analytical philosophy is more characterised by styles of argument and investigation than by doctrinal content. It is thus possible for people of widely different beliefs to be practitioners of this sort of philosophy. It ought not to surprise anyone that a seriously believing Catholic Christian should also be an analytical philosopher}} El tipo de análisis del lenguaje propuesto en \emph{Investigaciones Filosóficas} ofrece un paradigma de estudio que está bien en sintonía con la naturaleza del fenómeno del testimonio puesto que nos dirige a la actividad pública de la vida humana, donde al testimonio se le encuentra en acción.
+
+C.\,A.\,J. Coady, en su investigación sobre el testimonio, nota que este es un tema relativamente poco atendido en épocas pasadas del pensamiento filosófico. Entonces se pregunta si esta negligencia se debe al hecho de que el testimonio verdaderamente no juega un papel significativo en la formación de creencias razonables. Su conclusión será que no. Aún cuando el testimonio tiene de hecho un papel importante en el conocimiento humano, se ha dado por supuesto su poca importancia. Una de las explicaciones que Coady ofrece para este supuesto es la perspectiva individualista dominante en el pensamiento y la práctica política, social y económica del mundo occidental tras el renacimiento. Así como estas ideas e ideales han tenido efecto sobre nociones como la libertad y la sociedad, también han influenciado nuestro modo de pensar sobre el conocimiento, la verdad o la racionalidad.\footnote{\cite[Cf.~][6--13]{coady1992test}} En este sentido, un estudio dedicado al testimonio esta motivado por el deseo de salir de una concepción y retórica individualista del conocimiento.
+
+En sintonía con este interés es de mucho valor la aportación de Fergus Kerr en \emph{Theology after Wittgenstein}. Una de sus contiendas principales en el libro es que la teología moderna está saturada por presupuestos individualistas cartesianos.\footnote{\cite[Cf.~][8]{kerr1997theo}: \enquote{My argument in this book is that, far from still having to incorporate Cartesian assumptions about the self, as Rahner supposed, modern theology is already saturated with them.}} Su impresión es que muchos teólogos han pactado con este hecho:\blockquote[{\cite[10]{kerr1997theo}}: \enquote{Theologians are thus well aware of the difficulties that the modern philosophy of the self has created. My suspicion, however, is that versions of the mental ego of Cartesianism are ensconced in a great deal of Christian thinking, and that many theologians regard this as inevitable and even desirable.}]{Los teólogos están claramente conscientes de las dificultades que la filosofía moderna del ego ha creado. Mi sospecha, sin embargo, es que versiones del ego mental del cartesianismo están acomodadas en una gran cantidad de pensamiento cristiano, y que muchos teólogos consideran esto como algo inevitable o deseable.} Sin pretender hacer aquí una valoración o juicio de la imagen que Kerr describe sobre la teología, tomaremos una tésis central de su discusión, esto es, que las reflexiones de las etapas más tardías del pensamiento de Wittgenstein pueden servir a la teología para desmitificar el rol del ego desconectado del mundo y del lenguaje como paradigma teológico.\footnote{\cite[Cf.~][23]{kerr1997theo}: \enquote{My claim is that the most illuminating exploration of the continuing power of the myth of the worldless (and often essentially wordless) ego is to be found in the later writings of Ludwig Wittgenstein.}}
+
+La propuesta de Kerr merecería una consideración más detallada, pero aquí nos limitaremos a considerar dos de sus premisas relacionadas con \emph{Investigaciones Filosóficas}. Lo primero es que es llamativa la cita de San Agustín en el punto de partida del análisis de Wittgenstein. Fergus destaca que:
+\blockquote[{\cite[42]{kerr1997theo}}: \enquote{he could have found it in many other philosophers: he might have been thinking of the author of the \emph{Tractatus}. Finally however, he chose to direct his readers to the greatest autobiography in the Christian tradition. To probe the epistemological predicament of the soul in the \emph{Confessions} was to open up a seam in the theological anthropology that has shaped Christian self-understanding since the fifth century. It is difficult to believe that Wittgenstein did not know what he was doing.}]{}
+
+En segundo lugar es la breve referencia a teología en el contexto de la discusión sobre la esencia de los conceptos. En \S371: \emph{Essence} is expressed in grammar. y en \S373 Grammar tells what kind of object anything is. (Theology as grammar.)
+
+\cite[32]{ambrose2001lectures}: \enquote{What happens with the words ``God'' and ``soul'' is what happens with the word ``number''. Even though we give up explaining these words ostensively, by pointing, we don't give up explaining them in substantival terms. \textelp{} Luther said that theology is the grammar of the word ``God''. In interpret this to mean that an investigation of the word would be a grammatical one. For example, people might dispute by denying that one could talk about arms of God. This would throw light on the use of the word. What is ridiculous or blasphemous also shows the grammar of the word.}
+
+\blockquote[{\cite[148--149]{kerr1997theo}}: \enquote{In effect, by remarking that theology is grammar, he is reminding us that it is only by listening to what we say about God (what has been said for many generations), and to how what is said about God ties in with what we say and do in innumerable other connections, that we have any chance of understanding what we mean when we speak of God.}]{}
+#+END_SRC
+10. he expands the discussion to take in other dimensions of human life; but it is always as the cognitive subject that people first appear in Rahner's theology.
+
+10. Students alerted to the bias of the Cartesian legacy would suggest that language or action, conversation or collaboration, are more likely starting points, particularly if, like Rahner, you want to move towards a very strong ecclesiology.
+
+33-34 .El originario estar-en-sí del sujeto en su realización auténtica de la existencia intenta traducirse cada vez más a lo conceptual, a lo objetivado, al lenguaje, a la comunicación con otros; cada uno intenta decir al otro ---especialmente al hombre amado--- lo que él padece. Y así en esa relación tensa entre saber originario y el concepto que lo acompaña siempre, inhabita una tendencia a una mayor conceptualización, al lenguaje, a la comunicación.
+
+11. Rahner's natural assumption ---  that comunication comes after language, and language comes after having concepts --- is precisely what the Cartesian tradition has reinforced.
+
+11. The picture would thus be that I enjoy immediate non-linguitic knowledge of my own inner experiences, while what I am experiencig at any moment necessarily remains hidden from other people unless I deliberately choose to disclose it.
+
+12-13. his preoccupation with the cognitive subject is clear: other people remain marginal to his epistemology. The emphasis on the subject's capacity for self-conciousness and self-reflexiveness, and his openness for absolute being, is equally conspicuous. By our insatiable questioning we are, perhaps unwittingly, the products of a dynamic movement of ceaseless self-transcendence towards the steadily receding horizon which is the absolute: in effect, anonymously, the deity.
+
+13. The theological rewards of Rahner's account of the epistemological privileges of the subject are very great. When he comes to discuss arguments for the existence of God, for example, he is able to say that we already have in place all that is required to substantiate them
+
+13. The unattractively abstract jargon [...] easily tempts the reader to skip the epistemological preliminaries to get on to Rahner's theology.
+
+*14. there surely is a prima facie case for suggesting that Rahner's most characteristic theological profundities are embedded in an extremely mentalist-individualist epistemology of inmistakably Cartesian provenance. Central to his whole theology, that is to say, is the possibility for the individual to occupy a standpoint beyond his immersion in the bodily, the historical and the institutional.
+
+*14.Rahner's consistently individualist presentation of the self emphasizes cognition, self-relexiveness and an unrestricted capacity to know.
+
+42. Thus, by opening the \emph{Investiagtions} with this passage from Augustine's \emph{Confessions}, Wittgenstein was placing his explorations of the epistemological predicament of the self in the context of a narrative which, as it interweaves biblical language with metaphysical dualism, autobiography with doxology, establishes the sense of `I' in the sight of God whcih remains the paradigm for the self even where the theologyhas been
+
+*42.he could have found it in many other philosophers: he might have been thinking of the author of the \emph{Tractatus}. Finally however, he chose to direct his readers to the greatest autobiography in the Christian tradition. To probe the epistemological predicament of the soul in the \emph{Confessions} was to open up a seam in the theological anthropology that has shaped Christian self-understanding since the fifth century. It is difficult to believe that Wittgenstein did not know what he was doing.
+
+\S371 \emph{Essence} is expressed in grammar.
+\S373 Grammar tells what kind of object anything is. (Theology as grammar.)
+
+ambrose2001lectures [32]
+What happens with the words ``God'' and ``soul'' is what happens with the word ``number''. Even though we give up explaining these words ostensively, by pointing, we don't give up explaining them in substantival terms. \textelp{} Luther said that theology is the grammar of the word ``God''. In interpret this to mean that an investigation of the word would be a grammatical one. For example, people might dispute by denying that one could talk about arms of God. This would throw light on the use of the word. What is ridiculous or blasphemous also shows the grammar of the word.
+
+*148-149. In effect, by remarking that theology is grammar, he is reminding us that it is only by listening to what we say about God (what has been said for many generations), and to how what is said about God ties in with what we say and do in innumerable other connections, that we have any chance of understanding what we mean when we speak of God.

@@ -423,6 +423,17 @@ keywords={Anscombe Elizabeth; Primary Source; St Andrews}
   abstract={}
   }
 #+END_SRC
+***** Twenty Opinions Common among Modern Anglo-American Philosophers
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe2008faith:twenty,
+  title={Twenty Opinions Common among Modern Anglo-American Philosophers},
+  crossref={anscombe2008faith},
+  keywords={},
+  abstract={}
+  }
+#+END_SRC
+
+
 ***** Faith
 #+BEGIN_SRC bibtex :tangle primary.bib
   @incollection{anscombe2008faith:faith,
@@ -874,6 +885,20 @@ location = {Maryland},
  }
 #+END_SRC
 
+*** Wittgenstein's Lectures
+#+BEGIN_SRC bibtex :tangle secondary.bib
+ @book{ambrose2001lectures,
+ editor = {Alice Ambrose},
+ title = {Wittgenstein's Lectures},
+ subtitle = {Cambridge, 1932--1935},
+ publisher = {Prometheus Books},
+location = {New York},
+ year = {2001},
+ keywords = {secondary, wittgenstein, biography}
+ }
+#+END_SRC
+
+
 ** Artículos
 *** The Tablet, wiseman lectures
 #+BEGIN_SRC bibtex :tangle secondary.bib
@@ -1021,6 +1046,17 @@ keywords={}
   author={Ray Monk},
   year={2005},
   publisher={W. W. Norton \& Company},
+  location={New York}
+}
+#+END_SRC
+
+** Routledge Guidebook
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@collection{mcginn2013guide,
+  title={The Routledge Guidebook to Wittgenstein's Philosophical Investigations},
+  author={Marie McGinn},
+  year={2013},
+  publisher={Routledge},
   location={New York}
 }
 #+END_SRC
