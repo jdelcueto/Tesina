@@ -44,6 +44,20 @@ keywords = "primary, wittgenstein",
 }
 #+END_SRC
 
+#+BEGIN_SRC bibtex :tangle primary.bib
+@book{wittgenstein1922tractatuses,
+author = "Ludwig Wittgenstein",
+title = "Tractatus Logico-Philosophicus",
+publisher = "Alianza Editorial",
+location = "Madrid",
+translator = "Jacobo Muñoz and Isidoro Reguera",
+origdate = "1922",
+year = "1992",
+keywords = "primary, wittgenstein",
+}
+#+END_SRC
+
+
 *** Wittgenstein's Journal
 #+BEGIN_SRC bibtex :tangle primary.bib
 @book{wittgenstein1998cnv,
@@ -106,6 +120,20 @@ year = "1956",
 keywords = "primary, wittgenstein",
 }
 #+END_SRC
+
+#+BEGIN_SRC bibtex :tangle primary.bib
+@book{wittgenstein1956remmathes,
+author = "Ludwig Wittgenstein",
+title = "Observaciones sobre los fundamentos de la matemática",
+translator = "Isidoro Reguera",
+publisher = "Alianza Editorial",
+year = "2007",
+%edition = "4",
+keywords = "primary, wittgenstein",
+}
+#+END_SRC
+
+
 
 *** Notebooks 1914-1916 (1961)
 *** Zettel (1967)
@@ -756,6 +784,23 @@ keywords = "primary, anscombe, teichmann",
 }
 #+END_SRC
 
+** Elisa Grimi
+#+BEGIN_SRC bibtex :tangle secondary.bib
+%Books on Anscombe
+@book{grimi2014dl,
+author = "Elisa Grimi",
+title = "G.E.M. Anscombe",
+subtitle = "The Dragon Lady",
+publisher = "Cantagalli",
+location = "Siena",
+year = "2014",
+keywords = "primary, anscombe, grimi",
+}
+#+END_SRC
+
+
+
+
 ** Testimonios Biográficos Anscombe y Geach
 *** Biographical Memoirs of Fellows of The British Academy I
 :worldcat:
@@ -968,6 +1013,18 @@ keywords={}
   crossref={ammereller2004wittgenstein},
   }
 #+END_SRC
+
+** How to read Wittgenstein
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@collection{monk2005howto,
+  title={How to Read Wittgenstein},
+  author={Ray Monk},
+  year={2005},
+  publisher={W. W. Norton \& Company},
+  location={New York}
+}
+#+END_SRC
+
 
 i
 ** Papa Francisco
