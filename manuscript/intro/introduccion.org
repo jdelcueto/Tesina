@@ -1,3 +1,11 @@
+#+PROPERTY: header-args:latex :tangle ../../tex/intro/presentacion.tex
+# ------------------------------------------------------------------------------------
+# Santa Teresa Benedicta de la Cruz, ruega por nosotros
+
+#+BEGIN_SRC latex
+Lo que existía desde el principio, lo que hemos oído, lo que hemos visto con nuestros propios ojos, lo que contemplamos y palparon nuestras manos acerca del Verbo de la vida; pues la Vida se hizo visible, y nosotros hemos visto, damos testimonio y os anunciamos la vida eterna que estaba junto al Padre y se nos manifestó. 3 Eso que hemos visto y oído os lo anunciamos, para que estéis en comunión con nosotros y nuestra comunión es con el Padre y con su Hijo Jesucristo. Os escribimos esto, para que nuestro gozo sea completo. (1 Jn 1--4)
+#+END_SRC
+
 The approach:
 
 - From Teichmann
@@ -14,7 +22,7 @@ category of testimony.
 Another reason for the apparent lack of systemacity in Anscombe's writings is due to
 her purpose of getting somewhere in her own thoughts on some topic; she usually spends
 little or no time in providing a background, or in justifying her main 'assumptions',
-prefering to begin in media res 
+prefering to begin in media res
 These same assumptions may be justified or addressed elsewhere in her ouvre. There are
 manifold connections between her thoughts on different topics. Such connections do bind
 Anscombe's thoughts together into a sort of system, but this is not a system concocted
@@ -41,8 +49,3 @@ wittgenstenian notions, practices and propositions.
 
 ... as such this investigation has to show Wittgenstein's way of soing philosophy as a
 backdrop to what Anscombe does.
-
-
-
-
-
