@@ -19,16 +19,11 @@ CITATION AND BIBLIOGRAPHY STUFF IN bibsettings.tex
 
 #+BEGIN_SRC latex :tangle ../tex/final.tex
 %Base Document Class
-\documentclass[
-10pt,
-twoside,
-]{scrbook}
+\documentclass{scrbook}
 
 %PACKAGES
 %subfiles to include the chapters
 \usepackage{subfiles}
-%csquotes for advanced facilities for inline and display quotations
-\usepackage[autostyle,spanish=spanish,maxlevel=2]{csquotes}
 
 %BIBLIOGRAPHY
 \input{../bibliography/style/bibsettings.tex}
@@ -52,7 +47,7 @@ twoside,
 
 % STYLE
 %Load ./final.sty
-\usepackage{final}
+\usepackage{style/final}
 
 %\usepackage{graphicx}
 
@@ -63,11 +58,12 @@ twoside,
 %Mathspec for math and fontspec for the rest
 %\usepackage{mathspec}
 %\usepackage[no-math]{fontspec}
-
+\usepackage{layouts}
 
 \begin{document}
 #+END_SRC
 
+** Stuff to do
 chequear los esto y este y solo, cuidado de no cambiar los textos citados
 
 revisar también los enquotes....
@@ -86,10 +82,15 @@ check escritura con mayúscula, tambien revelacion e iglesia
 
 verificar guiones largos, añadir espacios pequeños
 
+* SUBFILES
 #+BEGIN_SRC latex :tangle ../tex/final.tex
+%\input{./tester.tex}
+
+\tableofcontents
+
 %INTRODUCCIÓN
 %Introducción General al Problema del Testimonio
-%\subfile{./intro}
+\subfile{./intro}
 %CAPÍTULO 1:
 %Introducción General al Problema del Testimonio
 \subfile{./ch1}
@@ -98,23 +99,173 @@ verificar guiones largos, añadir espacios pequeños
 \subfile{./ch2}
 %CAPÍTULO 3:
 %La concepción de Elizabeth Anscombe sobre el Testimonio
-%\subfile{./ch3}
+\subfile{./ch3}
 %CAPÍTULO 4:
 %Conclusión General
-%\subfile{./ch4}
+\subfile{./ch4}
+
+%Bibliography
+%\clearpage
+%\addcontentsline{toc}{chapter}{Bibliography}
+\subfile{./bibliography}
+
 #+END_SRC
 
 #+BEGIN_SRC latex :tangle ../tex/final.tex
 \end{document}
 #+END_SRC
 
+* Style
 Setear csquotes para que ponga el numero de cita antes del punto. también para citar la biblia y magisterio en paréntesis en el texto
-
+** Package name
 #+BEGIN_SRC latex :tangle ../tex/style/final.sty
-\ProvidesPackage{final}
+\ProvidesPackage{style/final}
+#+END_SRC
+** Directrices
+*** El Texto del cuerpo del documento, tamaño de letra 10pt.
+#+BEGIN_SRC latex :tangle ../tex/style/final.sty
+\KOMAoptions{fontsize=10pt}
+#+END_SRC
+*** Tamaño de papel:  La tesina ha a de estar escrita en un formato de papel DIN‐A4,  “A4 (21 cm x 29,7 cm)” Debido a la encuadernación la tesina debe llevar una serie de márgenes muy concretos:
+   - Superior: 6cm
+   - Inferior: 6cm
+   - Interior: 2,5cm
+   - Exterior: 6,5cm
+   - Encuadernación: 0cm
+   - Posición del margen interno: Izquierda
+   - Márgenes simétricos
+   - Encabezado: 1,25cm (desde el borde)
+   - Pie de página: 4cm (desde el borde)
+#+BEGIN_SRC latex :tangle ../tex/style/final.sty
+\KOMAoptions{twoside=true}
+%No header, page number at footer.
+\pagestyle{plain}
+
+\usepackage[
+a4paper,
+inner=2.5cm,
+outer=6.5cm,
+top=6cm,
+bottom=6cm,
+bindingoffset=0cm,
+footskip=1cm,
+footnotesep=0.5cm,
+%showframe,
+nohead,
+]{geometry}
+#+END_SRC
+*** La tipografía para a todo el texto es “Arial Unicode MS”.
+#+BEGIN_SRC latex :tangle ../tex/style/final.sty
+%Extra math symbols
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+%Mathspec for math and fontspec for the rest.
+\usepackage{mathspec}
+\usepackage[no-math]{fontspec}
+\usepackage{xltxtra,xunicode}
+
+%Set sans font to Arial.
+\setsansfont[
+Path= ./font/arial/,
+BoldFont=arialbd.ttf,
+ItalicFont=ariali.ttf,
+BoldItalicFont=arialbi.ttf,
+]{arial.ttf}
+
+%Set default font to sans.
+\renewcommand{\familydefault}{\sfdefault}
+
+%Set math font to arial.
+\setmathsfont(Digits,Latin)[
+Path= ./font/arial/,
+ItalicFont=ariali.ttf,
+Ligatures=TeX]{arial.ttf}
+
+%Arial Unicode for greek text
+\newfontfamily\greekfont[
+Path= ./font/arial/,
+Scale=MatchUppercase,
+Ligatures=TeX]{arialuni.ttf}
+
+\renewcommand{\textgreek}[1]{\bgroup\greekfont{#1}\egroup} % Greek text
+#+END_SRC
+*** Interlineado de 17 pt .
+#+BEGIN_SRC latex :tangle ../tex/style/final.sty
+\usepackage{setspace}
+\setstretch{1.41667}
+#+END_SRC
+*** La primera línea de cada párrafo tiene una sangría a de 1,25 cm
+#+BEGIN_SRC latex :tangle ../tex/style/final.sty
+\KOMAoptions{parskip=off}
+\setlength{\parindent}{1.25cm}
+
+#+END_SRC
+*** Los títulos de inicio del capítulo o sección irán centrados, en mayúsculas, negrita y a 12pt. NOTA IMPORTANTE: Los títulos de inicio del capítulo o sección deben quedar en página impar.
+#+BEGIN_SRC latex :tangle ../tex/style/final.sty
+\renewcommand*\thechapter{\Roman{chapter}}
+\renewcommand{\raggedchapter}{\centering}
+\addtokomafont{chapter}{\sffamily\bfseries\fontsize{12pt}{12pt}\selectfont}
+
+#+END_SRC
+*** Los títulos  del primer nivel irán en negrita y sin sangría; los del segundo nivel en negrita y con sangría de 0,5 cm;  los de tercer y cuarto nivel, irán sin negrita y con sangría de 0,5 cm.
+#+BEGIN_SRC latex :tangle ../tex/style/final.sty
+\setcounter{secnumdepth}{5}
+\renewcommand*\thesection{\arabic{section}}
+\addtokomafont{section}{\sffamily\bfseries\fontsize{10pt}{10pt}\selectfont}
+\addtokomafont{subsection}{\sffamily\bfseries\fontsize{10pt}{10pt}\selectfont}
+\addtokomafont{subsubsection}{\sffamily\mdseries\fontsize{10pt}{10pt}\selectfont}
+
+\RedeclareSectionCommand[%
+indent=0.5cm,%
+]{subsection}
+
+\RedeclareSectionCommand[%
+indent=0.5cm,%
+]{subsubsection}
+
+#+END_SRC
+*** Las notas al pie de página deben estar justificadas y sin sangría. La letra tendrá un tamaño de 8pt
+#+BEGIN_SRC latex :tangle ../tex/style/final.sty
+% Defaults are sufficient.
+\deffootnote[1.5em]{.5em}{1em}{%
+\textsuperscript{\thefootnotemark}\,%
+}
+#+END_SRC
+*** Las citas literales de una obra, citadas en el cuerpo de el texto, irán entrecomilladas, excepto cuando tengan más de tres líneas, en cuyo caso será un párrafo independiente con una sangría de 1, 2 cm y opcionalmente en cursiva.
+#+BEGIN_SRC latex :tangle ../tex/style/final.sty
+%csquotes for advanced facilities for inline and display quotations
+\usepackage[autostyle,spanish=spanish,maxlevel=2]{csquotes}
+
+\renewenvironment{quotation}
+{\list{}{\listparindent=0cm%whatever you need
+         \itemindent    \listparindent
+         \leftmargin=1.2cm%  whatever you need
+         \rightmargin=0cm%whatever you need
+         \topsep=0cm%%%%%whatever you need
+         \parsep        \z@ \@plus\p@}%
+         \item\relax}
+{\endlist}
+
+\SetBlockEnvironment{quotation}
+
+\renewcommand{\mkcitation}[1]{\footnote{#1}}
+\renewcommand{\mktextquote}[6]{#1#2#3#6#4#5}
+\renewcommand{\mkblockquote}[4]{#1#4#2#3}
+#+END_SRC
+*** URLs en citas
+#+BEGIN_SRC latex :tangle ../tex/style/final.sty
+% URL
+\usepackage{url}
+% By default the URLs are put in typewriter type in the body and the
+% bibliography of the document when using the \url command.  If you are
+% using many long URLs you may want to uncommennt the next line so they
+% are typeset a little smaller.
+% \renewcommand{\UrlFont}{\small\tt}
+\renewcommand{\UrlFont}{\sffamily}
 #+END_SRC
 
+* Bibliografía
 #+BEGIN_SRC latex :tangle ../tex/style/bibsettings.tex
-
 
 #+END_SRC
