@@ -4,604 +4,103 @@
 
 * DONE La Categoría del Testimonio como Problema [100%]
 #+BEGIN_SRC latex
-  \section{La Categoría del Testimonio como Problema}
+\section{La categoría del testimonio como objeto de estudio teológico}
 #+END_SRC
 ** DONE Reformulación pregunta inicial, desafíos filosóficos
    CLOSED: [2019-07-02 Tue 10:06]
- :LOGBOOK:
-    CLOCK: [2019-04-25 Thu 16:38]--[2019-04-25 Thu 17:03] =>  0:25
-    CLOCK: [2019-04-25 Thu 16:06]--[2019-04-25 Thu 16:31] =>  0:25
-    CLOCK: [2019-04-25 Thu 13:18]--[2019-04-25 Thu 13:43] =>  0:25
-    CLOCK: [2019-04-25 Thu 12:10]--[2019-04-25 Thu 12:35] =>  0:25
-    CLOCK: [2019-04-25 Thu 11:39]--[2019-04-25 Thu 12:04] =>  0:25
-    CLOCK: [2019-04-25 Thu 12:40]--[2019-04-25 Thu 13:05] =>  0:25
-    CLOCK: [2019-04-24 Wed 17:33]--[2019-04-24 Wed 17:58] =>  0:25
-    CLOCK: [2019-04-24 Wed 16:25]--[2019-04-24 Wed 16:50] =>  0:25
- :END:
 *** De lo familiar a la cuestión problematica
 #+BEGIN_SRC latex
-  Hasta aquí se ha querido ofrecer una descripción general del modo en que se
-  puede encontrar la categoría de testimonio empleada en la Escritura, el
-  Magisterio y la vida de la Iglesia. En términos generales, al hablar del
-  testimonio en estos contextos en donde se le encuentra como \enquote{\emph{cosa
-      familiar y conocida}}, se ha querido destacar el uso que se le da a esta
-  categoría como analogía empleada para hablar de la acción divina en la
-  Revelación. Ahora nos permitimos tratar al testimonio como algo que hay que
-  esclarecer, algo que se encuentra presente en la actividad humana y sobre lo que
-  se plantean preguntas, de modo que hay que \enquote{\emph{traer a la mente}} una
-  explicación adecuada.
+En la Escritura, el Magisterio y la vida de la Iglesia, hablar del testimonio en donde se le encuentra como \enquote*{\emph{cosa familiar y conocida}}, se ha querido destacar el uso que se le da a esta categoría como analogía empleada para hablar de la acción divina en la Revelación. Ahora nos permitimos tratar al testimonio como algo que hay que esclarecer, algo que se encuentra presente en la actividad humana y sobre lo que se plantean preguntas, de modo que hay que \enquote*{\emph{traer a la mente}} una explicación adecuada.
 #+END_SRC
 *** Por qué y para qué preguntarse sobre el testimonio
 #+BEGIN_SRC latex
-  Se pueden destacar varios objetivos al preguntarse sobre el testimonio. Desde el
-  punto de vista teológico el hecho mismo de que esta categoría sea empleada en la
-  Escritura sirve ya como justificación para estudiar mejor el fenómeno del
-  testimonio, como dice Latourelle:
-  \blockquote[{\cite[1523]{latourelle2000testimonio}}]{Si la revelación misma se
-    apoya en la experiencia humana del testimonio para expresar una de las
-    relaciones fundamentales que unen al hombre con Dios, la reflexión teológica
-    se encuentra entonces autorizada a explorar los datos de esta experiencia.}
-  Sin embargo el interés por la categoría del testimonio en la investigación
-  teológica más reciente claramente está motivado por la presencia de esta noción
-  en las reflexiones del Concilio Vaticano~II y el magisterio post-conciliar:
-  \blockquote[{\cite[81]{prades2015testimonio}}]{La teología ha ido revalorizando
-    el testimonio, que había quedado relegado a un segundo plano en otros momentos
-    de la historia de la teología, hasta alcanzar una difusión realmente masiva en
-    los años posteriores al Concilio.}
-  El testimonio es un tema privilegiado en el Concilio y se le encuentra presente
-  como \enquote{\emph{leitmotiv}} en las constituciones y
-  decretos.\footnote{Cf.~\cite[1523]{latourelle2000testimonio}} Vaticano~II
-  potencia así este termino que ya se encontraba presente en las reflexiones del
-  Vaticano~I:
-  \blockquote[{\cite[572]{ninot2009tf}}]{Desde hace aproximadamente un siglo, la
-    categoría testimonio se ha introducido de forma progresiva en el vocabulario
-    eclesial. La concentración y personalización operada por el Concilio
-    Vaticano~II conlleva la potenciación de un término nuevo como es el
-    testimonio. \textelp{} lo que el Vaticano I pretendía al tratar el signo de la
-    Iglesia, que también era visto como ``un testimonio'' [DH 3013], se encuentra
-    en la categoría testimonio, que con el Vaticano~II irrumpe masivamente.}
+Se pueden destacar varios objetivos al preguntarse sobre el testimonio. Desde el punto de vista teológico el hecho mismo de que esta categoría sea empleada en la Escritura sirve ya como justificación para estudiar mejor el fenómeno del testimonio, como dice Latourelle: \blockquote[{\cite[1523]{latourelle2000testimonio}}]{Si la revelación misma se apoya en la experiencia humana del testimonio para expresar una de las relaciones fundamentales que unen al hombre con Dios, la reflexión teológica se encuentra entonces autorizada a explorar los datos de esta experiencia.} Sin embargo el interés por la categoría del testimonio en la investigación teológica más reciente claramente está motivado por la presencia de esta noción en las reflexiones del Concilio Vaticano~II y el magisterio post-conciliar: \blockquote[{\cite[81]{prades2015testimonio}}]{La teología ha ido revalorizando el testimonio, que había quedado relegado a un segundo plano en otros momentos de la historia de la teología, hasta alcanzar una difusión realmente masiva en los años posteriores al Concilio.} El testimonio es un tema privilegiado en el Concilio y se le encuentra presente como \enquote{\emph{leitmotiv}} en las constituciones y decretos.\footnote{Cf.~\cite[1523]{latourelle2000testimonio}} Vaticano~II potencia así este termino que ya se encontraba presente en las reflexiones del Vaticano~I: \blockquote[{\cite[572]{ninot2009tf}}]{Desde hace aproximadamente un siglo, la categoría testimonio se ha introducido de forma progresiva en el vocabulario eclesial. La concentración y personalización operada por el Concilio Vaticano~II conlleva la potenciación de un término nuevo como es el testimonio. \textelp{} lo que el Vaticano I pretendía al tratar el signo de la Iglesia, que también era visto como ``un testimonio'' [DH 3013], se encuentra en la categoría testimonio, que con el Vaticano~II irrumpe masivamente.}
 
-  Tras el entusiasmo inicial por el testimonio en ámbitos pastorales y teológicos
-  se ha ido advirtiendo en algunos textos magisteriales y teológicos el aviso de
-  cierto peligro de ambigüedad o abuso en el uso de esta
-  categoría:\footnote{Cf.~\cite[83]{prades2015testimonio}}
-  \blockquote[{\cite[84]{prades2015testimonio}}]{se ha hecho notar que el
-    testimonio podía verse limitado a la manifestación de una especie de seriedad
-    con lo humano, ya fuera en términos de reivindicación social o de autenticidad
-    existencial, con la inevitable prevalencia del sujeto ---individual o
-    colectivo--- pero sin llegar a remitir a la verdad de Cristo. \textelp{}
+  Tras el entusiasmo inicial por el testimonio en ámbitos pastorales y teológicos se ha ido advirtiendo en algunos textos magisteriales y teológicos el aviso de cierto peligro de ambigüedad o abuso en el uso de esta categoría:\footnote{Cf.~\cite[83]{prades2015testimonio}} \blockquote[{\cite[84]{prades2015testimonio}}]{se ha hecho notar que el testimonio podía verse limitado a la manifestación de una especie de seriedad con lo humano, ya fuera en términos de reivindicación social o de autenticidad existencial, con la inevitable prevalencia del sujeto ---individual o colectivo--- pero sin llegar a remitir a la verdad de Cristo. \textelp{}
 
-    Se trataría del riesgo de una reducción experiencialista del testimonio, donde
-    lo más importante sería su carácter social-existencial y no tanto la efectiva
-    verdad teologal transmitida. Se ha criticado consecuentemente la reducción del
-    testimonio ---y de la misma teología--- a puro relato autobiográfico.
+    Se trataría del riesgo de una reducción experiencialista del testimonio, donde lo más importante sería su carácter social-existencial y no tanto la efectiva verdad teologal transmitida. Se ha criticado consecuentemente la reducción del testimonio ---y de la misma teología--- a puro relato autobiográfico.
 
-    Si se recupera la profundidad implicada en el testimonio se contribuirá a
-    salir del subjetivismo ---antiguo y moderno---, con su carga correspondiente
-    de individualismo, tan contrario a la verdadera naturaleza social del hombre y
-    al carácter a la vez personal y comunitario de la salvación cristiana.}
-  Atendiendo a estos datos, una investigación teológica sobre el testimonio tiene
-  el interés de profundizar en una categoría valiosa en el ámbito teológico y
-  pastoral de modo que sea empleada y formulada adecuadamente.
+    Si se recupera la profundidad implicada en el testimonio se contribuirá a salir del subjetivismo ---antiguo y moderno---, con su carga correspondiente de individualismo, tan contrario a la verdadera naturaleza social del hombre y al carácter a la vez personal y comunitario de la salvación cristiana.} Atendiendo a estos datos, una investigación teológica sobre el testimonio tiene el interés de profundizar en una categoría valiosa en el ámbito teológico y pastoral de modo que sea empleada y formulada adecuadamente.
 
-  Este interés interno de la discusión teológica está enmarcado en un contexto
-  histórico actual del que también se derivan motivaciones para una valoración de
-  la categoría del testimonio. Dos rasgos que cabe destacar de este momento
-  presente son:
-  \blockquote[{\cite[75]{prades2015testimonio}} Un análisis detallado del contexto
-  presente se encuentra en {\cite[3--77]{prades2015testimonio}}]{la tensión entre
-    multiculturalismo y globalización como indicio de la dificultad para combinar
-    positivamente el carácter individual y comunitario de la vida humana, y la
-    discusión sobre el papel público de la religión, donde la tesis dominante de
-    la <<edad secular>> se ve contrapesada por la irrupción de un nuevo paradigma
-    que se denomina <<postsecular>>.}
+  Este interés interno de la discusión teológica está enmarcado en un contexto histórico actual del que también se derivan motivaciones para una valoración de la categoría del testimonio. Dos rasgos que cabe destacar de este momento presente son: \blockquote[{\cite[75]{prades2015testimonio}} Un análisis detallado del contexto presente se encuentra en {\cite[3--77]{prades2015testimonio}}]{la tensión entre multiculturalismo y globalización como indicio de la dificultad para combinar positivamente el carácter individual y comunitario de la vida humana, y la discusión sobre el papel público de la religión, donde la tesis dominante de la <<edad secular>> se ve contrapesada por la irrupción de un nuevo paradigma que se denomina <<postsecular>>.}
 
-  En este contexto, el preguntarse sobre el testimonio tiene como objetivo un
-  adecuado modo de entender la presencia pública de los cristianos en las
-  sociedades plurales de occidente donde resulta problemática la comprensión del
-  ser humano en su relación con Dios a través de la
-  realidad.\footnote{Cf.~\cite[75]{prades2015testimonio}} Es importante que en
-  este contexto la cuestión de la presencia del cristianismo en la sociedad no
-  tiene como solución adecuada una
-  \enquote*{<<autorrelativización>>}\footnote{Cf.~\cite[75;\,40--44]{prades2015testimonio}}
-  de sí mismo; igualmente:
-  \blockquote[{\cite[75; Cf.~33--40]{prades2015testimonio}}]{no podemos presuponer
-    el reconocimiento de su carácter universal por parte de los interlocutores ni
-    podemos pretender alcanzarlo por una mera comparación de argumentos racionales
-    que desnaturalice el carácter libre y singular de la revelación personal de
-    Dios en Jesucristo.}
-  El análisis de la categoría del testimonio viene a responder a la necesidad de
-  recuperar una concepción de la razón y de la verdad más rica y más amplia;
-  \blockquote[{\cite[76]{prades2015testimonio}}]{Es imprescindible repensar el
-    nexo entre razón, afectos y libertad en la relación del hombre con lo real. Si
-    se recupera esa visión amplia e integral de razón y de realidad se puede
-    entonces mostrar convincentemente la credibilidad de la fe como asentimiento a
-    una revelación personal en la historia.}
+  En este contexto, el preguntarse sobre el testimonio tiene como objetivo un adecuado modo de entender la presencia pública de los cristianos en las sociedades plurales de occidente donde resulta problemática la comprensión del ser humano en su relación con Dios a través de la realidad.\footnote{Cf.~\cite[75]{prades2015testimonio}} Es importante que en este contexto la cuestión de la presencia del cristianismo en la sociedad no tiene como solución adecuada una \enquote*{<<autorrelativización>>}\footnote{Cf.~\cite[75;\,40--44]{prades2015testimonio}} de sí mismo; igualmente: \blockquote[{\cite[75; Cf.~33--40]{prades2015testimonio}}]{no podemos presuponer el reconocimiento de su carácter universal por parte de los interlocutores ni podemos pretender alcanzarlo por una mera comparación de argumentos racionales que desnaturalice el carácter libre y singular de la revelación personal de Dios en Jesucristo.} El análisis de la categoría del testimonio viene a responder a la necesidad de recuperar una concepción de la razón y de la verdad más rica y más amplia; \blockquote[{\cite[76]{prades2015testimonio}}]{Es imprescindible repensar el nexo entre razón, afectos y libertad en la relación del hombre con lo real. Si se recupera esa visión amplia e integral de razón y de realidad se puede entonces mostrar convincentemente la credibilidad de la fe como asentimiento a una revelación personal en la historia.}
 #+END_SRC
 *** En qué modo nos preguntamos sobre el testimonio
 #+BEGIN_SRC latex
-  Teniendo en cuenta estas motivaciones desarrollaremos los elementos que componen
-  las cuestiones problemáticas del testimonio que serán estudiadas en el
-  pensamiento de Anscombe. Para ello recuperamos la pregunta formulada al inicio
-  de éste capítulo, que si ampliamos un poco queda: \enquote{¿qué es conocer una
-    verdad para la vida por el testimonio de la revelación divina?}. Desde esta
-  pregunta se pueden distinguir ya dos cuestiones: ¿qué implica conocer una verdad
-  por medio del testimonio? y ¿qué valor puede tener para la vida un testimonio de
-  la revelación divina? ---o incluso--- ¿qué puede ser valorado como un testimonio
-  de la revelación divina? Desde las perspectivas de diversas reflexiones
-  filosóficas de la época moderna y contemporánea, agrupamos en tres cuestiones
-  generales la problemática sobre el testimonio que será atendida en este estudio.
+  Teniendo en cuenta estas motivaciones desarrollaremos los elementos que componen las cuestiones problemáticas del testimonio que serán estudiadas en el pensamiento de Anscombe. Para ello recuperamos la pregunta formulada al inicio de éste capítulo, que si ampliamos un poco queda de este modo: \enquote{¿qué es conocer una verdad para la vida por el testimonio de la revelación divina?}. Desde esta pregunta se pueden distinguir ya dos cuestiones: ¿qué implica conocer una verdad por medio del testimonio? y ¿qué valor puede tener para la vida un testimonio de la revelación divina? ---o incluso--- ¿qué puede ser valorado como un testimonio de la revelación divina? Desde las perspectivas de diversas reflexiones filosóficas de la época moderna y contemporánea, agrupamos en tres cuestiones generales la problemática sobre el testimonio que será atendida en este estudio.
 #+END_SRC
 ** DONE ¿Cuál es el valor espistemológico del testimonio
    CLOSED: [2019-07-02 Tue 10:06]
 #+BEGIN_SRC latex
-  \subsection{¿Cuál es el valor epistemológico del testimonio?}
-  Corresponde a la epistemología la tarea de estudiar la naturaleza del conocer y
-  su justificación. ¿Cuáles son los componentes del conocimiento? ¿sus fuentes o
-  condiciones? ¿sus límites?\footnote{Cf.~\cite[3]{moser2002ep}: Epistemology,
-    characterized broadly, is an account of knowledge. Within the discipline of
-    philosophy, epistemology is the study of the nature of knowledge and
-    justification: in particular, the study of (a) the defining components, (b)
-    the substantive conditions or sources, and (c) the limits of knowledge and
-    justification.} La pregunta sobre el valor epistemológico del testimonio
-  consiste en juzgar el lugar que éste ocupa en una descripción del conocimiento;
-  ¿qué se puede decir del testimonio como estrategia para adquirir la verdad y
-  evitar el error?\footnote{Cf.~\cite[14]{moser2002ep}: Any standard or strategy
-    worthy of the title ``epistemic'' must have as its fundamental goal the
-    acquisition of truth and the avoidance of error.}
+\subsection{¿Cuál es el valor epistemológico del testimonio?}
 
-  Podemos recurrir al análisis tradicional empleado para hablar del conocimiento
-  proposicional y entenderlo como \enquote{creencia verdadera
-    justificada}.\footnote{\cite[4]{moser2002ep}: Ever since Plato's Theaetetus,
-    epipstemologists have tried to identify the essential, defining components of
-    propositional knowledge. These components will yield an analysis of
-    propositional knowledge. An influential traditional view, inspired by Plato
-    and Kant among others, is that propositional knowledge has three individually
-    necessary and jointly sufficient components: justification, truth, and belief.
-    On this view, propositional knowledge is, by definition, justified true
-    belief. This tripartite definition has come to be called ``the standard
-    analysis''.} Según esta composición tripartita la pregunta sobre el valor
-  epistemológico del testimonio se puede plantear diciendo: \enquote{dada una
-    comunicación que cualifique como testimonio y que sea al caso que la creencia
-    formada desde esta comunicación está basada enteramente en el testimonio
-    recibido,\footnote{Cf.~\cite[4]{lackeysosa2006eptest}: Even if an expression
-      of thought qualifies as testimony and the resulting belief formed is
-      entirely testimonially based for the hearer, however, there is the further
-      question of how precisely such a belief successfully counts as justified
-      belief or an instance of knowledge.} ¿cómo adquirimos efectivamente una
-    creencia verdadera justificada sobre la base de lo que alguien nos ha
-    dicho?},\footnote{Cf.~\cite[2]{lackeysosa2006eptest}: how we successfully
-    acquire justified belief or knowledge on the basis of what other people tell
-    us. This, rather than what testimony is, is often taken to be the issue of
-    central import from an epistemological point of view.} es decir,
-  \enquote{¿cómo, precisamente, una creencia como esta puede ser contada
-    satisfactoriamente como creencia justificada o una instancia de conocimiento?}
-  \footnote{Cf.~\cite[4]{lackeysosa2006eptest}: how precisely such a belief
-    successfully counts as justified belief or an instance of knowledge}
+Corresponde a la epistemología la tarea de estudiar la naturaleza del conocer y su justificación. ¿Cuáles son los componentes del conocimiento? ¿sus fuentes o condiciones? ¿sus límites? La pregunta sobre el valor epistemológico del testimonio consiste en juzgar el lugar que éste ocupa en una descripción del conocimiento; ¿qué se puede decir del testimonio como estrategia para adquirir la verdad y evitar el error?
 
-  Las respuestas a esta pregunta central sobre la epistemología del testimonio se
-  han situado en dos posturas que se han denominado \enquote{reduccionista} y
-  \enquote{no-reduccionista}.\footnote{Cf.~\cite[4]{lackeysosa2006eptest}: Indeed,
-    this is the question at the center of the epistemology of testimony, and the
-    current philosophical literature contains two central options for answering
-    it: non-reductionism and reductionism.} Las raíces históricas de la primera
-  postura se le suelen atribuir a Hume y de la segunda a Thomas Reid.
+Podemos recurrir al análisis tradicional empleado para hablar del conocimiento proposicional y entenderlo como \enquote*{creencia verdadera justificada}.\footnote{\cite[4]{moser2002ep}: Ever since Plato's Theaetetus, epipstemologists have tried to identify the essential, defining components of propositional knowledge. These components will yield an analysis of propositional knowledge. An influential traditional view, inspired by Plato and Kant among others, is that propositional knowledge has three individually necessary and jointly sufficient components: justification, truth, and belief. On this view, propositional knowledge is, by definition, justified true belief. This tripartite definition has come to be called ``the standard analysis''.} Según esta composición tripartita la pregunta sobre el valor epistemológico del testimonio se puede plantear diciendo: \enquote*{dada una comunicación que cualifique como testimonio y que sea al caso que la creencia formada desde esta comunicación está basada enteramente en el testimonio recibido},\footnote{Cf.~\cite[4]{lackeysosa2006eptest}: Even if an expression of thought qualifies as testimony and the resulting belief formed is entirely testimonially based for the hearer, however, there is the further question of how precisely such a belief successfully counts as justified belief or an instance of knowledge.} \enquote*{¿cómo adquirimos efectivamente una creencia verdadera justificada sobre la base de lo que alguien nos ha dicho?},\footnote{Cf.~\cite[2]{lackeysosa2006eptest}: how we successfully acquire justified belief or knowledge on the basis of what other people tell us. This, rather than what testimony is, is often taken to be the issue of central import from an epistemological point of view.} es decir, \enquote*{¿cómo, precisamente, una creencia como esta puede ser contada satisfactoriamente como creencia justificada o una instancia de conocimiento?} \footnote{Cf.~\cite[4]{lackeysosa2006eptest}: how precisely such a belief successfully counts as justified belief or an instance of knowledge}
 
-  De acuerdo a los no-reduccionistas el testimonio es simplemente una fuente de
-  justificación como lo sería la percepción de los sentidos, la memoria o la
-  inferencia. Según esto, siempre que no haya una justificación contraria
-  suficientemente relevante, el que escucha tiene justificación verdadera para
-  creer las proposiciones del testimonio del que
-  habla.\footnote{Cf.~\cite[4]{lackeysosa2006eptest}: According to
-    non-reductionists ---whose historical roots are standardly traced back to
-    Reid--- testimony is just as basic a source of justification (warrant,
-    entitlement, knowledge, etc.) as sense perception, memory, inference, and the
-    like. Accordingly, so long as there are no relevant defeaters, hearers can
-    justifiedly accept the assertions of speakers merely on the basis of a
-    speaker's testimony.}
+Las respuestas a esta pregunta central sobre la epistemología del testimonio se han situado en dos posturas que se han denominado \enquote{reduccionista} y \enquote{no-reduccionista}.\footnote{Cf.~\cite[4]{lackeysosa2006eptest}: Indeed, this is the question at the center of the epistemology of testimony, and the current philosophical literature contains two central options for answering it: non-reductionism and reductionism.} Las raíces históricas de la primera postura se le suelen atribuir a Hume y de la segunda a Thomas Reid.
 
-  Hume, por su parte, \blockquote[{\cite[79]{coady1992test}}: is one of the few
-  philosophers who has offered anything like a sustained account of testimony and
-  if any view has a claim to the title of `the received view' it is his]{es uno de
-    los pocos filósofos que ha ofrecido algo así como una descripción sostenida
-    acerca del testimonio y si alguna perspectiva puede reclamar el título de `el
-    punto de vista adoptado' es la suya}. En la base de su valoración del
-  testimonio está su estima de la relación de causa y efecto como fundamento de
-  cualquier razonamiento concerniente a cuestiones de hecho.
+De acuerdo a los no-reduccionistas el testimonio es simplemente una fuente de justificación como lo sería la percepción de los sentidos, la memoria o la inferencia. Según esto, siempre que no haya una justificación contraria suficientemente relevante, el que escucha tiene justificación verdadera para creer las proposiciones del testimonio del que habla.\footnote{Cf.~\cite[4]{lackeysosa2006eptest}: According to non-reductionists ---whose historical roots are standardly traced back to Reid--- testimony is just as basic a source of justification (warrant, entitlement, knowledge, etc.) as sense perception, memory, inference, and the like. Accordingly, so long as there are no relevant defeaters, hearers can justifiedly accept the assertions of speakers merely on the basis of a speaker's testimony.}
 
-  Distinto a las relaciones de ideas, la evidencia de la veracidad de una cuestión
-  de hecho no se demuestra a priori, sino que ha de ser descubierta en la
-  experiencia. Ahora bien, ¿cuál es la naturaleza de la evidencia de aquellas
-  cuestiones de hecho que están más allá de la percepción de nuestros sentidos o
-  de las impresiones de nuestra memoria?\footnote{Cf.~\cite[\S4,1.
-    15]{hume1777enquiry}: Matters of fact, which are the second objects of human
-    reason, are not ascertained in the same manner; nor is our evidence of their
-    truth, however great, of a like nature with the foregoing (relations of ideas)
-    \textelp{} The contrary of every matter of fact is still possible \textelp{}
-    We should, in vain, therefore attempt to demonstrate its falsehood. Were it
-    demonstratively false, it would imply a contradiction, and could never be
-    distinctly conceived by the mind \textelp{} what is the nature of that
-    evidence which assures us of any real existence and matter of fact, beyond the
-    present testimony of our senses, or the records of our memory.} Nuestros
-  razonamientos relacionados con algún hecho se componen de inferencias realizadas
-  a partir del conocimiento que tenemos de que a una causa se sigue su
-  efecto.\footnote{Cf.~\cite[\S4,1. 16]{hume1777enquiry}: All our reasonings
-    concerning fact are of the same nature; and here it is constantly supposed
-    that there is a connection between the present fact and that which is inferred
-    from it. Were there nothing to bind them together, the inference would be
-    entirely precarious.} Este conocimiento de la relación causa y efecto, a su
-  vez, no consiste en un razonamiento a priori, \blockquote[{\cite[\S4,1.
-    17]{hume1777enquiry}}: that the knowledge of this relation is not, in any
-  instance, attained by reasonings a priori, but arises entirely from experience,
-  when we find that any particular objects are constantly conjoined with each
-  other.]{sino que surge completamente de la experiencia, cuando descubrimos que
-    cualesquiera objetos particulares están constantemente unidos entre sí}. Es
-  así que \blockquote[{\cite[\S4,1. 16]{hume1777enquiry}}: By means of that
-  relation alone, we can go beyond the evidence of our memory and senses.]{tan
-    solo por medio de esta relación, podemos ir más allá de nuestra memoria y
-    sentidos}.
+Hume, por su parte, \blockquote[{\cite[79]{coady1992test}}: is one of the few philosophers who has offered anything like a sustained account of testimony and if any view has a claim to the title of `the received view' it is his]{es uno de los pocos filósofos que ha ofrecido algo así como una descripción sostenida acerca del testimonio y si alguna perspectiva puede reclamar el título de `el punto de vista común' es la suya}. En la base de su valoración del testimonio está su estima de la relación de causa y efecto como fundamento de cualquier razonamiento concerniente a cuestiones de hecho.
 
-  Esta misma línea de razonamiento es la que se sigue en la descripción acerca del
-  testimonio y su valor: \blockquote[{\cite[\S10,1. 74]{hume1777enquiry}}: there
-  is no species of reasoning more common, more useful, and even necessary to human
-  life, than that which is derived from the testimony of men, and the reports of
-  eye witnesses and spectators. This species of reasoning, perhaps, one may deny
-  to be founded on the relation of cause and effect. I shall not dispute about a
-  word. It will be sufficient to observe, that our assurance in any argument of
-  this kind, is derived from no other principle than our observation of the
-  veracity of human testimony, and of the usual conformity of facts to the reports
-  of witnesses. It being a general maxim, that no objects have any discoverable
-  connection together, and that all the inferences which we can draw from one to
-  another, are founded merely on our experience of their constant and regular
-  conjunction; it is evident, that we ought not to make an exception to this maxim
-  in favour of human testimony, whose connection with any event seems, in itself,
-  as little necessary as any other. Were not the memory tenacious to a certain
-  degree; had not men commonly an inclination to truth and a principle of probity;
-  were they not sensible to shame, when detected in a falsehood; were not these, I
-  say, discovered by experience to be qualities inherent in human nature, we
-  should never repose the least confidence in human testimony. A man delirious, or
-  noted for falsehood and villany, has no manner of authority with us.]{no hay un
-    tipo de razonamiento más común, más útil, e incluso necesario para la vida
-    humana, que aquel que se deriva del testimonio de los hombres, y los informes
-    de testigos oculares y espectadores. Quizá uno pueda negar que esta clase de
-    razonamiento esté fundada en la relación de causa y efecto. No discutiré por
-    una palabra. Será suficiente observar, que nuestra confianza en un argumento
-    de este tipo, no se deriva de otro principio que el de nuestra observación de
-    la veracidad del testimonio humano, y la correspondencia habitual de los
-    hechos con los informes de los testigos. Siendo esto una máxima general, que
-    ningún caso de objetos tienen alguna conexión entre sí que pueda ser
-    descubierta, y que todas las inferencias que podamos sacar de uno por el otro,
-    son fundadas meramente en nuestra experiencia de su constante y regular
-    conjunción; es evidente, que no deberíamos hacer una excepción a esta máxima
-    en favor del testimonio humano, cuya conexión con cualquier evento parece, en
-    sí misma, tan poco necesaria como cualquier otra. Si la memoria no fuera tenaz
-    en cierto grado; si no tuvieran los hombres comúnmente una inclinación a la
-    verdad y un principio de honradez; si no fueran sensibles a la vergüenza,
-    cuando son descubiertos en la mentira; digo yo, si éstas no fueran cualidades
-    que la experiencia descubre como inherentes a la naturaleza humana, jamas
-    tendríamos la menor confianza en el testimonio humano. Un hombre delirante, o
-    notorio por mentiroso o villano, no tiene ninguna clase de autoridad entre
-    nosotros.}
+Distinto a las relaciones de ideas, la evidencia de la veracidad de una cuestión de hecho no se demuestra a priori, sino que ha de ser descubierta en la experiencia. Ahora bien, ¿cuál es la naturaleza de la evidencia de aquellas cuestiones de hecho que están más allá de la percepción de nuestros sentidos o de las impresiones de nuestra memoria?\footnote{Cf.~\cite[\S4,1. 15]{hume1777enquiry}: Matters of fact, which are the second objects of human reason, are not ascertained in the same manner; nor is our evidence of their truth, however great, of a like nature with the foregoing (relations of ideas) \textelp{} The contrary of every matter of fact is still possible \textelp{} We should, in vain, therefore attempt to demonstrate its falsehood. Were it demonstratively false, it would imply a contradiction, and could never be distinctly conceived by the mind \textelp{} what is the nature of that evidence which assures us of any real existence and matter of fact, beyond the present testimony of our senses, or the records of our memory.} Nuestros razonamientos relacionados con algún hecho se componen de inferencias realizadas a partir del conocimiento que tenemos de que a una causa se sigue su efecto.\footnote{Cf.~\cite[\S4,1. 16]{hume1777enquiry}: All our reasonings concerning fact are of the same nature; and here it is constantly supposed that there is a connection between the present fact and that which is inferred from it. Were there nothing to bind them together, the inference would be entirely precarious.} Este conocimiento de la relación causa y efecto, a su vez, no consiste en un razonamiento a priori, \blockquote[{\cite[\S4,1. 17]{hume1777enquiry}}: that the knowledge of this relation is not, in any instance, attained by reasonings a priori, but arises entirely from experience, when we find that any particular objects are constantly conjoined with each other.]{sino que surge completamente de la experiencia, cuando descubrimos que cualesquiera objetos particulares están constantemente unidos entre sí}. Es así que \blockquote[{\cite[\S4,1. 16]{hume1777enquiry}}: By means of that relation alone, we can go beyond the evidence of our memory and senses.]{tan solo por medio de esta relación, podemos ir más allá de nuestra memoria y sentidos}.
 
-  Así como nuestra habitual experiencia de la relación de causa y efecto nos
-  permite hacer inferencias acerca de las cuestiones de hecho que están más allá
-  de nuestros sentidos, la conformidad que usualmente experimentamos entre los
-  hechos y el informe que un testigo nos da de ellos nos permite inferir su
-  veracidad. Según el análisis ofrecido por C.\,A.\,J.~Coady, la teoría de Hume:
-  \blockquote[{\cite[79]{coady1992test}}: constitutes a reduction of testimony as
-  a form of evidence or support to the status of a species (one might almost say,
-  a mutation) of inductive inference. And, again, in so far as inductive inference
-  is reduced by Hume to a species of observation and consequences attendant upon
-  observations, then in a like fashion testimony meets the same fate.]{constituye
-    una reducción del testimonio como una forma de evidencia o fundamento al
-    estatuto de una especie (uno podría casi decir, una mutación) de inferencia
-    inductiva. Y, una vez más, en tanto que la inferencia inductiva queda reducida
-    por Hume a una especie de observación y consecuencias relacionadas con las
-    observaciones, en consecuencia igualmente el testimonio corre la misma suerte}
-  La valoración epistemológica del testimonio y la perspectiva ofrecida por Hume
-  nos deja así con un primer desafío:
-  \blockquote[{\cite[294]{prades2015testimonio}}]{en la vida social cabe aceptar
-    un conocimiento por testimonio a condición de que su grado de certeza se
-    limite a la probabilidad, y a condición de que pueda ser siempre reconducido a
-    una verificación por conocimiento directo}.
+Esta misma línea de razonamiento es la que se sigue en la descripción acerca del testimonio y su valor. Así lo sostiene uno de los grandes especialistas en la epistemología del testimonio, C.\,A.\,J. Coady, del que tomo esta larga cita: \blockquote[{\cite[\S10,1. 74]{hume1777enquiry}}: there is no species of reasoning more common, more useful, and even necessary to human life, than that which is derived from the testimony of men, and the reports of eye witnesses and spectators. This species of reasoning, perhaps, one may deny to be founded on the relation of cause and effect. I shall not dispute about a word. It will be sufficient to observe, that our assurance in any argument of this kind, is derived from no other principle than our observation of the veracity of human testimony, and of the usual conformity of facts to the reports of witnesses. It being a general maxim, that no objects have any discoverable connection together, and that all the inferences which we can draw from one to another, are founded merely on our experience of their constant and regular conjunction; it is evident, that we ought not to make an exception to this maxim in favour of human testimony, whose connection with any event seems, in itself, as little necessary as any other. Were not the memory tenacious to a certain degree; had not men commonly an inclination to truth and a principle of probity; were they not sensible to shame, when detected in a falsehood; were not these, I say, discovered by experience to be qualities inherent in human nature, we should never repose the least confidence in human testimony. A man delirious, or noted for falsehood and villany, has no manner of authority with us.]{no hay un tipo de razonamiento más común, más útil, e incluso necesario para la vida humana, que aquel que se deriva del testimonio de los hombres, y los informes de testigos oculares y espectadores. Quizá uno pueda negar que esta clase de razonamiento esté fundada en la relación de causa y efecto. No discutiré por una palabra. Será suficiente observar, que nuestra confianza en un argumento de este tipo, no se deriva de otro principio que el de nuestra observación de la veracidad del testimonio humano, y la correspondencia habitual de los hechos con los informes de los testigos. Siendo esto una máxima general, que ningún caso de objetos tienen alguna conexión entre sí que pueda ser descubierta, y que todas las inferencias que podamos sacar de uno por el otro, son fundadas meramente en nuestra experiencia de su constante y regular conjunción; es evidente, que no deberíamos hacer una excepción a esta máxima en favor del testimonio humano, cuya conexión con cualquier evento parece, en sí misma, tan poco necesaria como cualquier otra. Si la memoria no fuera tenaz en cierto grado; si no tuvieran los hombres comúnmente una inclinación a la verdad y un principio de honradez; si no fueran sensibles a la vergüenza, cuando son descubiertos en la mentira; digo yo, si éstas no fueran cualidades que la experiencia descubre como inherentes a la naturaleza humana, jamas tendríamos la menor confianza en el testimonio humano. Un hombre delirante, o notorio por mentiroso o villano, no tiene ninguna clase de autoridad entre nosotros.}
 
-  Será interesante hacer notar aquí que el desafío expresado por Hume en la época
-  moderna no deja de ser un reto en la época contemporanea. El mismo Coady lo
-  constata cuando narra la acogida del tema del testimonio en los ámbitos en donde
-  plantea la discusión:
-  \blockquote[{\cite[vii]{coady1992test}}: When I began reading papers on the
-  subject, my audiences mostly reacted with incomprehension, or the sort of
-  disbelief evoked by denials of the merest common sense. Gradually, the climate
-  of thought has changed and there is now more sympathy for the view that
-  testimony is a prominent and underexplored epistemological landscape, although
-  what sort of feature it is and how largely it looms are still naturally matters
-  for disagreement.]{Cuando comencé a ofrecer lecciones sobre este tema, las
-    audiencias mayormente reaccionaban con incomprensión, o el tipo de
-    incredulidad evocada por rechazos del más básico sentido común. Gradualmente,
-    el clima del pensamiento ha cambiado y ahora hay más simpatía para el punto de
-    vista de que el testimonio es un campo epistemológico prominente y poco
-    explorado, aunque en qué tipo de rasgo consiste y con cuánta magnitud se
-    impone son todavía cuestiones en debate.}
-  De igual interés es también aquí el informe de Coady sobre las discusiones de
-  Anscombe que generaron en él motivaciones para estudiar el testimonio:
-  \blockquote[{\cite[vii]{coady1992test}}: I first began thinking about the
-  epistemological status of testimony in the 1960s when writing a thesis at Oxford
-  on issues in the theory of perception. \textelp{} I recall being intrigued by
-  some remarks of Elizabeth Anscombe on the topic during her lectures on the
-  empiricists \textelp{}]{Empecé por primera vez a pensar sobre la situación
-    epistemológica del testimonio en los años 60 cuando estuve escribiendo una
-    tesis en Oxford sobre problemas en la teoría de la percepción. \textelp{}
-    Recuerdo haber quedado intrigado por algunas afirmaciones de Elizabeth
-    Anscombe sobre el tema durante sus lecciones sobre los empiristas \textelp{}}
+Así como nuestra habitual experiencia de la relación de causa y efecto nos permite hacer inferencias acerca de las cuestiones de hecho que están más allá de nuestros sentidos, la conformidad que usualmente experimentamos entre los hechos y el informe que un testigo nos da de ellos nos permite inferir su veracidad. Según el análisis ofrecido por Coady, la teoría de Hume: \blockquote[{\cite[79]{coady1992test}}: constitutes a reduction of testimony as a form of evidence or support to the status of a species (one might almost say, a mutation) of inductive inference. And, again, in so far as inductive inference is reduced by Hume to a species of observation and consequences attendant upon observations, then in a like fashion testimony meets the same fate.]{constituye una reducción del testimonio como una forma de evidencia o fundamento al estatuto de una especie (uno podría casi decir, una mutación) de inferencia inductiva. Y, una vez más, en tanto que la inferencia inductiva queda reducida por Hume a una especie de observación y consecuencias relacionadas con las observaciones, en consecuencia igualmente el testimonio corre la misma suerte} La valoración epistemológica del testimonio y la perspectiva ofrecida por Hume nos deja así con un primer desafío: \blockquote[{\cite[294]{prades2015testimonio}}]{en la vida social cabe aceptar un conocimiento por testimonio a condición de que su grado de certeza se limite a la probabilidad, y a condición de que pueda ser siempre reconducido a una verificación por conocimiento directo}.
 
-  Estas consideraciones añaden algunos elementos a nuestra cuestión inicial.
-  Conocer una verdad para la vida desde el testimonio implica que pueda obtenerse
-  una creencia verdadera justificada basada en lo que una persona ha comunicado.
-  La visión de Hume es que la evidencia que puede ofrecer un testimonio para
-  justificar una creencia no es mayor que la probabilidad y esta evidencia está
-  basada en la inferencia que nos permite la habitual experiencia de que el
-  testimonio comunicado y la verdad de los hechos suelen ir unidos. Más adelante
-  veremos qué tiene que decir Anscombe ante este desafío. Todavía podemos plantear
-  una segunda cuestión; esta vez relacionada con la segunda parte de nuestra
-  pregunta original.
+Será interesante hacer notar aquí que el desafío expresado por Hume en la época moderna no deja de ser un reto en la época contemporanea. El mismo Coady lo constata cuando narra la acogida del tema del testimonio en los ámbitos en donde plantea la discusión: \blockquote[{\cite[vii]{coady1992test}}: When I began reading papers on the subject, my audiences mostly reacted with incomprehension, or the sort of disbelief evoked by denials of the merest common sense. Gradually, the climate of thought has changed and there is now more sympathy for the view that testimony is a prominent and underexplored epistemological landscape, although what sort of feature it is and how largely it looms are still naturally matters for disagreement.]{Cuando comencé a ofrecer lecciones sobre este tema, las audiencias mayormente reaccionaban con incomprensión, o el tipo de incredulidad evocada por rechazos del más básico sentido común. Gradualmente, el clima del pensamiento ha cambiado y ahora hay más simpatía para el punto de vista de que el testimonio es un campo epistemológico prominente y poco explorado, aunque en qué tipo de rasgo consiste y con cuánta magnitud se impone son todavía cuestiones en debate.} De igual interés es también aquí la apreciación de Coady sobre las discusiones de Anscombe que le movieron a estudiar el testimonio: \blockquote[{\cite[vii]{coady1992test}}: I first began thinking about the epistemological status of testimony in the 1960s when writing a thesis at Oxford on issues in the theory of perception. \textelp{} I recall being intrigued by some remarks of Elizabeth Anscombe on the topic during her lectures on the empiricists \textelp{}]{Empecé por primera vez a pensar sobre la situación epistemológica del testimonio en los años 60 cuando escribía una tesis en Oxford sobre problemas en la teoría de la percepción. \textelp{} Recuerdo haber quedado intrigado por algunas afirmaciones de Elizabeth Anscombe sobre el tema durante sus lecciones sobre los empiristas \textelp{}}
+
+Estas consideraciones añaden algunos elementos a nuestra cuestión inicial. Conocer una verdad para la vida desde el testimonio implica que pueda obtenerse una creencia verdadera justificada basada en lo que una persona ha comunicado. La visión de Hume es que la evidencia que puede ofrecer un testimonio para justificar una creencia no es mayor que la probabilidad y esta evidencia está basada en la inferencia que nos permite la habitual experiencia de que el testimonio comunicado y la verdad de los hechos suelen ir unidos. Más adelante veremos qué tiene que decir Anscombe ante este desafío. Todavía podemos plantear una segunda cuestión; esta vez relacionada con la segunda parte de nuestra pregunta original.
 #+END_SRC
 ** DONE ¿Hay justificación para valorar un hecho histórico como atestación divina?
    CLOSED: [2019-07-02 Tue 10:06]
 #+BEGIN_SRC latex
 \subsection{¿Hay justificación para valorar un hecho histórico como atestación divina?}
 
-El contexto de la reflexión de Hume sobre el testimonio es precisamente el de la creencia en los milagros. La preocupación de Hume es que el \enquote{hombre sabio} pueda verificar sus creencias de modo que no sea víctima de \enquote{engaños supersticiosos}. Para esto, estima que ha encontrado un argumento que servirá para distinguir la superstición de la verdad.\footnote{\cite[Cf.~][\S10,1. 73]{hume1777enquiry}: I flatter myself, that I have discovered an argument of a like nature, which, if just, will, with the wise and learned, be an everlasting check to all kinds of superstitious delusion, and consequently will be useful as long as the world endures.} Dice: \blockquote[{\cite[\S10,1. 73]{hume1777enquiry}}: in our reasonings concerning matter of fact, there are all imaginable degrees of assurance, from the highest certainty to the lowest species of moral evidence. A wise man, therefore, proportions his belief to the evidence]{en nuestros razonamientos concernientes a cuestiones de hecho, se dan todos los grados imaginables de seguridad, desde la certeza más alta hasta las especies más bajas de evidencia moral. Un hombre sabio, por tanto, adecúa su creencia a la evidencia}.
+El contexto de la reflexión de Hume sobre el testimonio es precisamente el de la creencia en los milagros. La preocupación de Hume es que el \enquote{hombre sabio} pueda verificar sus creencias de modo que no sea víctima de \enquote{engaños supersticiosos}. Para esto, estima que ha encontrado un argumento que servirá para distinguir la superstición de la verdad.\footnote{\cite[Cf.~][\S10,1. 73]{hume1777enquiry}: I flatter myself, that I have discovered an argument of a like nature, which, if just, will, with the wise and learned, be an everlasting check to all kinds of superstitious delusion, and consequently will be useful as long as the world endures.} Dice el filósofo escocés: \blockquote[{\cite[\S10,1. 73]{hume1777enquiry}}: in our reasonings concerning matter of fact, there are all imaginable degrees of assurance, from the highest certainty to the lowest species of moral evidence. A wise man, therefore, proportions his belief to the evidence]{en nuestros razonamientos concernientes a cuestiones de hecho, se dan todos los grados imaginables de seguridad, desde la certeza más alta hasta las especies más bajas de evidencia moral. Un hombre sabio, por tanto, adecúa su creencia a la evidencia}.
 
 Entonces sugiere un criterio que permite ajustar las creencias a la evidencia: \blockquote[{\cite[\S10,1. 77]{hume1777enquiry}}: `That no testimony is sufficient to establish a miracle, unless the testimony be of such a kind, that its falsehood would be more miraculous than the fact which it endeavours to establish; and, even in that case, there is a mutual destruction of arguments; and the superior only gives us an assurance suitable to that degree of force which remains after deducting the inferior.']{`Que ningún testimonio es suficiente para establecer un milagro, excepto si el testimonio es de tal tipo, que su falsedad sea más milagrosa que el hecho que se esfuerza por establecer; e, incluso en este caso, hay una mutua destrucción de argumentos; y el superior sólo nos da certeza apropiada al grado de fuerza que permanece después de restar el inferior.'}
 \label{subsec:humarg}
-  Esto tiene como consecuencia que lo razonable sea abandonar la razonabilidad de
-  las verdades cristianas, comprendiendo que solo pueden ser contempladas desde la
-  fe. Empleando su criterio ofrece una valoración de la revelación de la escritura
-  como sigue:
+Esto tiene como consecuencia que lo razonable sea abandonar la razonabilidad de las verdades cristianas, comprendiendo que solo pueden ser contempladas desde la fe. Empleando su criterio ofrece una valoración de la revelación de la Escritura como sigue:
 
-  \blockquote[{\cite[\S10,1. 89]{hume1777enquiry}}: I am the better pleased with
-  the method of reasoning here delivered, as I think it may serve to confound
-  those dangerous friends, or disguised enemies to the Christian religion, who
-  have undertaken to defend it by the principles of human reason. Our most holy
-  religion is founded on faith, not on reason; and it is a sure method of exposing
-  it, to put it to such a trial as it is by no means fitted to endure. To make
-  this more evident, let us examine those miracles related in Scripture; and, not
-  to lose ourselves in too wide a field, let us confine ourselves to such as we
-  find in the Pentateuch, which we shall examine according to the principles of
-  these pretended Christians, not as the word or testimony of God himself, but as
-  the production of a mere human writer and historian. Here then we are first to
-  consider a book, presented to us by a barbarous and ignorant people, written in
-  an age when they were still more barbarous, and in all probability long after
-  the facts which it relates, corroborated by no concurring testimony, and
-  resembling those fabulous accounts which every nation gives of its origin. Upon
-  reading this book, we find it full of prodigies and miracles. It gives an
-  account of a state of the world and of human nature entirely different from the
-  present: of our fall from that state; of the age of man extended to near a
-  thousand years; of the destruction of the world by a deluge; of the arbitrary
-  choice of one people, as the favourites of heaven, and that people the
-  countrymen of the author; of their deliverance from
-  bondage by prodigies the most astonishing imaginable.\\
-  I desire any one to lay his hand upon his heart, and, after a serious
-  consideration, declare, whether he thinks that the falsehood of such a book,
-  supported by such a testimony, would be more extraordinary and miraculous than
-  all the miracles it relates; which is, however, necessary to make it be received
-  according to the measures of probability above established.]{Estoy más
-    satisfecho con el método de razonar aquí expuesto, pues pienso que puede
-    servir para confundir esos amigos peligrosos, o los enemigos disfrazados de la
-    religión Cristiana, que se han propuesto defenderla con los principios de la
-    razón humana. Nuestra más sagrada religión se funda en la fe, no en la razón;
-    y es un modo seguro de exponerla, el someterla a una prueba que de ningún modo
-    está capacitada para soportar. Para hacer esto más evidente examinemos los
-    milagros relatados en la escritura y, para no perdernos en un campo demasiado
-    amplio, limitémonos a los que encontramos en el Pentatéuco, que examinaremos
-    de acuerdo con los principios de aquellos supuestos Cristianos, no como la
-    palabra o testimonio de Dios mismo, sino como la producción de un mero
-    escritor e historiador humano. Aquí entonces hemos de considerar primero un
-    libro que un pueblo bárbaro e ignorante nos presenta, escrito en una edad aún
-    más bárbara y, con toda probabilidad, mucho después de los hechos que relata,
-    no corroborado por testimonio concurrente alguno, y asemejándose a las
-    narraciones fabulosas que toda nación da de su origen. Al leer este libro, lo
-    encontramos lleno de prodigios y milagros. Ofrece un relato del estado del
-    mundo y de la naturaleza humana totalmente distinto al presente: de nuestra
-    pérdida de aquella condición; de la edad del hombre que alcanza a casi mil
-    años; de la destrucción del mundo por un diluvio; de la elección arbitraria de
-    un pueblo como el favorito del cielo y que dicho pueblo lo componen los
-    compatriotas del autor; de su liberación de la servidumbre por los prodigios
-    más asombrosos que se puede uno imaginar.
+\blockquote[{\cite[\S10,1. 89]{hume1777enquiry}}: I am the better pleased with the method of reasoning here delivered, as I think it may serve to confound those dangerous friends, or disguised enemies to the Christian religion, who have undertaken to defend it by the principles of human reason. Our most holy religion is founded on faith, not on reason; and it is a sure method of exposing it, to put it to such a trial as it is by no means fitted to endure. To make this more evident, let us examine those miracles related in Scripture; and, not to lose ourselves in too wide a field, let us confine ourselves to such as we find in the Pentateuch, which we shall examine according to the principles of these pretended Christians, not as the word or testimony of God himself, but as the production of a mere human writer and historian. Here then we are first to consider a book, presented to us by a barbarous and ignorant people, written in an age when they were still more barbarous, and in all probability long after the facts which it relates, corroborated by no concurring testimony, and resembling those fabulous accounts which every nation gives of its origin. Upon reading this book, we find it full of prodigies and miracles. It gives an account of a state of the world and of human nature entirely different from the present: of our fall from that state; of the age of man extended to near a thousand years; of the destruction of the world by a deluge; of the arbitrary choice of one people, as the favourites of heaven, and that people the countrymen of the author; of their deliverance from bondage by prodigies the most astonishing imaginable.\\
+I desire any one to lay his hand upon his heart, and, after a serious consideration, declare, whether he thinks that the falsehood of such a book, supported by such a testimony, would be more extraordinary and miraculous than all the miracles it relates; which is, however, necessary to make it be received according to the measures of probability above established.]{Estoy más satisfecho con el método de razonar aquí expuesto, pues pienso que puede servir para confundir esos amigos peligrosos, o enemigos disfrazados de la religión Cristiana, que se han propuesto defenderla con los principios de la razón humana. Nuestra más sagrada religión se funda en la fe, no en la razón; y es un modo seguro de exponerla, el someterla a una prueba que de ningún modo está capacitada para soportar. Para hacer esto más evidente examinemos los milagros relatados en la escritura y, para no perdernos en un campo demasiado amplio, limitémonos a los que encontramos en el Pentatéuco, que examinaremos de acuerdo con los principios de aquellos supuestos Cristianos, no como la palabra o testimonio de Dios mismo, sino como la producción de un mero escritor e historiador humano. Aquí entonces hemos de considerar primero un libro que un pueblo bárbaro e ignorante nos presenta, escrito en una edad aún más bárbara y, con toda probabilidad, mucho después de los hechos que relata, no corroborado por testimonio concurrente alguno, y asemejándose a las narraciones fabulosas que toda nación da de su origen. Al leer este libro, lo encontramos lleno de prodigios y milagros. Ofrece un relato del estado del mundo y de la naturaleza humana totalmente distinto al presente: de nuestra pérdida de aquella condición; de la edad del hombre que alcanza a casi mil años; de la destrucción del mundo por un diluvio; de la elección arbitraria de un pueblo como el favorito del cielo y que dicho pueblo lo componen los compatriotas del autor; de su liberación de la servidumbre por los prodigios más asombrosos que se puede uno imaginar.
 
-    Invito a cualquiera a que ponga su mano sobre el corazón, y, tras seria
-    consideración, declare, si piensa que la falsedad de tal libro, apoyado por
-    tal testimonio, sería más extraordinaria y milagrosa que todos los milagros
-    que narra; lo cual, sin embargo, es necesario para que sea aceptado de acuerdo
-    con las medidas de probabilidad arriba establecidas.}
+Invito a cualquiera a que ponga su mano sobre el corazón, y, tras seria consideración, declare, si piensa que la falsedad de tal libro, apoyado por tal testimonio, sería más extraordinaria y milagrosa que todos los milagros que narra; lo cual, sin embargo, es necesario para que sea aceptado de acuerdo con las medidas de probabilidad arriba establecidas.}
 
-  ¿Se puede afirmar que sería más \enquote{milagrosa} la falsedad de los milagros
-  que atestigua la escritura? La posibilidad de recibir este testimonio como
-  evidencia de alguna verdad descansaría sobre esta condición y una persona
-  razonable debería medir la probabilidad de veracidad de estos relatos teniendo
-  en cuenta que el estado de las cosas que describe es distinto al que
-  experimentamos en el presente.
+¿Se puede afirmar que sería más `milagrosa' la falsedad de los milagros que atestigua la escritura? La posibilidad de recibir este testimonio como evidencia de alguna verdad descansaría sobre esta condición y una persona razonable debería medir la probabilidad de veracidad de estos relatos teniendo en cuenta que el estado de las cosas que describe es distinto al que experimentamos en el presente.
 
-  En una línea similar de pensamiento encontramos las reflexiones de
-  G.\,E.~Lessing. Dos cuestiones expresadas en \emph{Sobre la demostración en
-    Espíritu y Fuerza} merecen ser destacadas:
+En una línea similar de pensamiento encontramos las reflexiones de G.\,E.~Lessing. Dos cuestiones expresadas en \emph{Sobre la demostración en Espíritu y Fuerza} merecen ser destacadas:
 
-  \blockquote[{\cite[446]{lessing1982escritos:demo}}]{Porque las noticias de
-    profecías cumplidas no son profecías cumplidas, porque las noticias de
-    milagros no son milagros. Las profecías que se cumplen ante mis ojos, los
-    milagros que suceden ante mis ojos, influyen \emph{directamente}. Pero las
-    noticias de profecías y milagros cumplidos, han de influir \emph{mediante}
-    algo que les quita toda la fuerza.}
+\blockquote[{\cite[446]{lessing1982escritos:demo}}]{Porque las noticias de profecías cumplidas no son profecías cumplidas, porque las noticias de milagros no son milagros. Las profecías que se cumplen ante mis ojos, los milagros que suceden ante mis ojos, influyen \emph{directamente}. Pero las noticias de profecías y milagros cumplidos, han de influir \emph{mediante} algo que les quita toda la fuerza.}
 
-  Lo que debería tener la fuerza para justificar la credibilidad queda debilitado
-  por su medio de transmisión, entonces el problema es que
-  \blockquote[{\cite[446]{lessing1982escritos:demo}}]{esa prueba en espíritu y
-    fuerza ya no tiene ahora ni espíritu ni fuerza, sino que ha descendido a la
-    categoría de testimonio humano sobre el espíritu y la fuerza}.
+Lo que debería tener la fuerza para justificar la credibilidad queda debilitado por su medio de transmisión, entonces el problema es que \blockquote[{\cite[446]{lessing1982escritos:demo}}]{esa prueba en espíritu y fuerza ya no tiene ahora ni espíritu ni fuerza, sino que ha descendido a la categoría de testimonio humano sobre el espíritu y la fuerza}.
 
-  Tal como lo plantea Lessing y teniendo en cuenta el criterio propuesto por Hume,
-  el testimonio, en tanto que dinamismo humano, no tiene fuerza suficiente para
-  justificar razonablemente creencias sobre Dios como verdadero conocimiento. Esta
-  objeción nos lleva a la siguiente:
-  \blockquote[{\cite[446]{lessing1982escritos:demo}}]{las noticias de aquellas
-    profecías y milagros son tan atendibles como puedan serlo en todo caso las
-    verdades históricas \textelp{} Pero si \emph{sólo} pueden ser tan atendibles,
-    ¿por qué al mismo tiempo se las hace de hecho infinitamente más atendibles?
-    \textelp{} Si no puede demostrarse ninguna verdad histórica, tampoco podrá
-    demostrarse nada \emph{por medio} de verdades históricas. Es decir: \emph{Las
-      verdades históricas, como contingentes que son, no pueden servir de prueba
-      de las verdades de razón como necesarias que son}.}
+Tal como lo plantea Lessing y teniendo en cuenta el criterio propuesto por Hume, el testimonio, en tanto que dinamismo humano, no tiene fuerza suficiente para justificar razonablemente creencias sobre Dios como verdadero conocimiento. Esta objeción nos lleva a la siguiente: \blockquote[{\cite[446]{lessing1982escritos:demo}}]{las noticias de aquellas profecías y milagros son tan atendibles como puedan serlo en todo caso las verdades históricas \textelp{} Pero si \emph{sólo} pueden ser tan atendibles, ¿por qué al mismo tiempo se las hace de hecho infinitamente más atendibles? \textelp{} Si no puede demostrarse ninguna verdad histórica, tampoco podrá demostrarse nada \emph{por medio} de verdades históricas. Es decir: \emph{Las verdades históricas, como contingentes que son, no pueden servir de prueba de las verdades de razón como necesarias que son}.}
 
-  El punto que Lessing señala es infranqueable para él y para su intento de
-  comprometerse con la verdad que la creencia cristiana pretende comunicar. La
-  singularidad de la persona y obra de Jesús como manifestación de la realidad de
-  Dios pierde para él toda su fuerza, puesto que no puede estimar estas verdades
-  históricas como fundamento para una verdad necesaria como lo es la verdad de
-  Dios. Esto nos deja con un problema adicional:
-  \blockquote[{\cite[294]{prades2015testimonio}}]{no se puede tener conocimiento
-    directo de milagros y profecías \textelp{} no se puede aceptar una
-    comunicación divina que no sea inmediatamente dirigida al individuo}.
+El punto que Lessing señala es infranqueable para él y para su intento de comprometerse con la verdad que la creencia cristiana pretende comunicar. La singularidad de la persona y obra de Jesús como manifestación de la realidad de Dios pierde para él toda su fuerza, puesto que no puede estimar estas verdades históricas como fundamento para una verdad necesaria como lo es la verdad de Dios. Esto nos deja con un problema adicional: \blockquote[{\cite[294]{prades2015testimonio}}]{no se puede tener conocimiento directo de milagros y profecías \textelp{} no se puede aceptar una comunicación divina que no sea inmediatamente dirigida al individuo}.
 
-  Este desafío viene a poner en cuestión que un hecho histórico de la vida
-  personal o colectiva pueda ser estimado como testimonio del absoluto. La
-  revelación de Dios por medio de testigos no es un fenómeno que tenga
-  justificación razonable para su veracidad, y por tanto sólo puede ser acogida
-  por una fe desconectada de la razón.
+Este desafío viene a poner en cuestión que un hecho histórico de la vida personal o colectiva pueda ser estimado como testimonio del absoluto. La revelación de Dios por medio de testigos no es un fenómeno que tenga justificación razonable para su veracidad, y por tanto sólo puede ser acogida por una fe desconectada de la razón.
 #+END_SRC
 ** DONE ¿Tiene carácter veritativo el lenguaje teológico?
    CLOSED: [2019-07-02 Tue 10:06]
 #+BEGIN_SRC latex
-  \subsection{¿Tiene carácter veritativo el lenguaje teológico?}
-  Un tercer punto de nuestra problemática está representado en la crítica al
-  lenguaje religioso planteada por el Círculo de Viena. Este fenómeno cultural fue
-  una corriente de renovación del positivismo y empirismo sostenido por el interés
-  de univocidad semántica en los terminos empleados por las ciencias, la busqueda
-  de rigor lógico-sintáctico en los sistemas científicos y un frenético intento de
-  verificación empírica como justificación de las proposiciones
-  veritativas.\footnote{Cf.~\cite[152]{dominguez2009at}} Desde la perspectiva de
-  esta corriente, los discursos metafísicos, entre ellos la teología, eran
-  considerados como una forma de especulación incontrolada.
+\subsection{¿Tiene carácter veritativo el lenguaje teológico?}
 
-  En su \emph{Introduction to Wittgenstein's Tractatus}, Anscombe describe de modo
-  general la actitud del Círculo como aplicación de una de las afirmaciones
-  principales de esta obra: \blockquote[{\cite[150]{anscombe1959iwt}}: Probably
-  the best known thesis of the \emph{Tractatus} is that `metaphysical' statements
-  are nonsensical, and that the only sayable things are propositions of natural
-  sciences (6.53). Now natural science is surely the sphere of the empirically
-  discoverable; and the `empirically discoverable' is the same as `what can be
-  verified by the senses'. The passage therefore suggests the following quick and
-  easy way of dealing with `metaphysical' propositions: what sense-observations
-  would verify and falsify them? If none, then they are senseless. This was the
-  method of criticism adopted by the Vienna Circle and in this country by
-  Professor A.J.Ayer.]{Probablemente la tesis más conocida del \emph{Tractatus} es
-    que las afirmaciones `metafísicas' no tienen sentido, y que las únicas cosas
-    que pueden afirmarse son las proposiciones de las ciencias naturales (6.53).
-    Ahora ciencia natural es ciertamente el ámbito de lo que puede ser descubierto
-    empíricamente; y `lo que puede ser descubierto empíricamente' es lo mismo que
-    `lo que puede ser verificado por los sentidos'. El pasaje entonces sugiere el
-    siguiente modo fácil y rápido para lidiar con las proposiciones `metafísicas':
-    ¿qué observaciones-sensoriales las verificarían o falsificarían? Si ninguna,
-    entonces son sin-sentido. Este fue el método adoptado por el Círculo de Viena
-    y en este país por el Professor A.J.Ayer.}
+Un tercer punto de nuestra problemática está representado en la crítica al lenguaje religioso planteada por el Círculo de Viena. Este fenómeno cultural fue una corriente de renovación del positivismo y empirismo sostenido por el interés de univocidad semántica en los terminos empleados por las ciencias, la busqueda de rigor lógico-sintáctico en los sistemas científicos y un frenético intento de verificación empírica como justificación de las proposiciones veritativas.\footnote{Cf.~\cite[152]{dominguez2009at}} Desde la perspectiva de esta corriente, los discursos metafísicos, entre ellos la teología, eran considerados como una forma de especulación incontrolada.
 
-  Las expresiones de A.J. Ayer manifiestan la aplicación del método antes sugerido
-  de modo que no solo no es posible demostrar de la existencia de un dios
-  trascendente, sino incluso resulta imposible demostrar su probabilidad:
-  \blockquote[{\cite[155]{dominguez2009at}}]{Si la existencia de tal dios fuese
-    probable, la proposición de que existiera sería una hipótesis empírica. Y, en
-    ese caso, sería posible deducir de ella, y de otras hipótesis científicas,
-    ciertas proposiciones experienciales que no fuesen deducibles de esas otras
-    hipótesis solas. Pero, en realidad esto no es posible. [\ldots] Porque decir
-    que ``Dios existe'' es realizar una expresión metafísica que no pude ser ni
-    verdadera ni falsa. Y, según el mismo criterio, ninguna oración que pretenda
-    describir la naturaleza de un Dios trascendente puede poseer ninguna
-    significación literal.} Esta crítica, entonces, no se limita a cuestionar la
-  justificación que pueda tener la creencia en Dios o las afirmaciones religiosas,
-  sino que pone en duda la posibilidad de emplear este lenguaje como uno cuyas
-  proposiciones comunican algún conocimiento:
-  \blockquote[{\cite[155]{dominguez2009at}}]{La crítica del Círculo de Viena no se
-    suma al ``Dios ha muerto'' de Nietzsche, sino que va aún más allá: lo que ha
-    muerto es la misma palabra: ``Dios''. Nos encontramos ante lo que podemos
-    considerar una nueva y refinada especie de ateísmo: el ateísmo semántico. Esta
-    forma de ateísmo se sustenta en un equivocismo hermenéutico. No cabe comparar,
-    arguyen los equivocistas, los nombres de supuestas realidades trascendentes
-    con los de las realidades empíricas.}
+En su \emph{Introduction to Wittgenstein's Tractatus}, Anscombe describe de modo general la actitud del Círculo como aplicación de una de las afirmaciones principales de esta obra: \blockquote[{\cite[150]{anscombe1959iwt}}: Probably the best known thesis of the \emph{Tractatus} is that `metaphysical' statements are nonsensical, and that the only sayable things are propositions of natural sciences (6.53). Now natural science is surely the sphere of the empirically discoverable; and the `empirically discoverable' is the same as `what can be verified by the senses'. The passage therefore suggests the following quick and easy way of dealing with `metaphysical' propositions: what sense-observations would verify and falsify them? If none, then they are senseless. This was the method of criticism adopted by the Vienna Circle and in this country by Professor A.J.Ayer.]{Probablemente la tesis más conocida del \emph{Tractatus} es que las afirmaciones `metafísicas' no tienen sentido, y que las únicas cosas que pueden afirmarse son las proposiciones de las ciencias naturales (6.53). Ahora ciencia natural es ciertamente el ámbito de lo que puede ser descubierto empíricamente; y `lo que puede ser descubierto empíricamente' es lo mismo que `lo que puede ser verificado por los sentidos'. El pasaje entonces sugiere el siguiente modo fácil y rápido para lidiar con las proposiciones `metafísicas': ¿qué observaciones sensoriales las verificarían o falsificarían? Si no hay ninguna, entonces son sin-sentido. Este fue el método adoptado por el Círculo de Viena y en este país por el Profesor A.J.Ayer.}
 
-  Anscombe advierte, sin embargo que \blockquote[{\cite[150]{anscombe1959iwt}}:
-  There are certain difficulties about ascribing this doctrine to the
-  \emph{Tractatus}. There is nothing about sensible verification there.]{Hay
-    ciertas dificultades para adscribir esta doctrina al \emph{Tractatus}. No hay
-    nada sobre verificación sensible ahí}. Ciertamente, a juicio de Anscombe, la
-  metodología creada por el Círculo de Viena no se corresponde con la tesis del
-  \emph{Tractatus}. Tampoco va en sintonía con los objetivos de Wittgenstein en su
-  esfuerzo por purificar la metodología filosófica:
-  \blockquote[{\cite[152]{anscombe1959iwt}}: `Psychology is no more akin to
-  philosophy than any other natural science. Theory of knowledge is the philosophy
-  of psychology' (4.1121). In this passage Wittgenstein is trying to break the
-  dictatorial control over the rest of philosophy that had long been exercised by
-  what is called theory of knowledge---that is, by the philosophy of sensation,
-  perception, imagination, and, generally, of `experience'. He did not succeed. He
-  and Frege avoided making theory of knowledge the cardinal theory of philosophy
-  simply by cutting it dead; by doing none, and concentrating on the philosophy of
-  logic. But the influence of the \emph{Tractatus} produced logical positivism,
-  whose main doctrine is `verificationism'; and in that doctrine theory of
-  knowledge once more reigned supreme, and a prominent position was given to the
-  test for significance by asking for the observations that would verify a
-  statement.]{`La psicológia no es más semejante a la filosofía que cualquier otra
-    ciencia natural. La teoría del conocimiento es filosofía de la psicología'
-    (4.1121). En este pasaje Wittgenstein esta tratando de romper el control
-    dictatorial sobre el resto de la filosofía que por largo tiempo ha sido
-    ejercido por lo que se llama teoría del conocimiento---esto es, por la
-    filosofía de la sensación, percepción, imaginación, y, en general, de la
-    experiencia. No tuvo éxito. Él y Frege evitaron hacer de la teoría del
-    conocimiento la teoría cardinal de la filosofía simplemente al no alimentarla;
-    al no hacer ninguna, y concentrándose en la filosofía de la lógica. Sin
-    embargo la influencia del \emph{Tractatus} produjo el positivismo lógico, cuya
-    doctrina principal es el `verificacionismo'; y en esa doctrina la teoría del
-    conocimiento una vez más reinó, y una posición prominente se le dio a la
-    prueba sobre la significación por el requisito de observaciones que pudieran
-    verificar una afirmación.}
+Las expresiones de A.J. Ayer manifiestan la aplicación del método antes sugerido de modo que no solo no es posible demostrar la existencia de un Dios trascendente, sino incluso resulta imposible demostrar su probabilidad: \blockquote[{\cite[Véase~][155]{dominguez2009at}}]{Si la existencia de tal dios fuese probable, la proposición de que existiera sería una hipótesis empírica. Y, en ese caso, sería posible deducir de ella, y de otras hipótesis científicas, ciertas proposiciones experienciales que no fuesen deducibles de esas otras hipótesis solas. Pero, en realidad esto no es posible. \textelp{} Porque decir que ``Dios existe'' es realizar una expresión metafísica que no puede ser ni verdadera ni falsa. Y, según el mismo criterio, ninguna oración que pretenda describir la naturaleza de un Dios trascendente puede poseer ninguna significación literal.} Esta crítica, entonces, no se limita a cuestionar la justificación que pueda tener la creencia en Dios o las afirmaciones religiosas, sino que pone en duda la posibilidad de emplear este lenguaje como uno cuyas proposiciones comunican algún conocimiento: \blockquote[{\cite[155]{dominguez2009at}}]{La crítica del Círculo de Viena no se suma al ``Dios ha muerto'' de Nietzsche, sino que va aún más allá: lo que ha muerto es la misma palabra: ``Dios''. Nos encontramos ante lo que podemos considerar una nueva y refinada especie de ateísmo: el ateísmo semántico. Esta forma de ateísmo se sustenta en un equivocismo hermenéutico. No cabe comparar, arguyen los equivocistas, los nombres de supuestas realidades trascendentes con los de las realidades empíricas.}
 
-  La influencia del Círculo de Viena, sin embargo, fue notable y las posturas de
-  las reflexiones sucesivas fueron diversas. A. Flew propuso que dado que el
-  lenguaje teológico no es falseable, tampoco es susceptible de afirmar alguna
-  verdad o conocimiento proposicional.\footnote{Cf.~\cite[27--30]{conesa1994cc}}
-  R.M.Hare consideró el lenguaje religioso como uno evocativo, más que
-  informativo.\footnote{Cf.~\cite[35--36]{conesa1994cc}} Van Buren consideró
-  artificial la posibilidad de un antagonismo entre la Ciencia y la Teología
-  puesto que: \blockquote[{\cite[156]{dominguez2009at}}]{el lenguaje de la Ciencia
-    y el de la teología pertenencen a dos ámbitos tan distintos entre sí
-    ---equívocos--- que al carecer de una semántica común, hasta la rivalidad
-    resultaría artificial. Poniendo un ejemplo analógico: igual que no es posible
-    oponer ``voltios'' a ``sentimientos'', no es posible hacer entrar en conflicto
-    la Ciencia con la Metafísica. ¿Es en verdad esto sostenible?}
+Anscombe advierte, sin embargo que \blockquote[{\cite[150]{anscombe1959iwt}}: There are certain difficulties about ascribing this doctrine to the \emph{Tractatus}. There is nothing about sensible verification there.]{Hay ciertas dificultades para adscribir esta doctrina al \emph{Tractatus}. No hay nada sobre verificación sensible ahí}. Ciertamente, a juicio de Anscombe, la metodología creada por el Círculo de Viena no se corresponde con la tesis del \emph{Tractatus}. Tampoco va en sintonía con los objetivos de Wittgenstein en su esfuerzo por purificar la metodología filosófica. Dice Anscombe: \blockquote[{\cite[152]{anscombe1959iwt}}: `Psychology is no more akin to philosophy than any other natural science. Theory of knowledge is the philosophy of psychology' (4.1121). In this passage Wittgenstein is trying to break the dictatorial control over the rest of philosophy that had long been exercised by what is called theory of knowledge---that is, by the philosophy of sensation, perception, imagination, and, generally, of `experience'. He did not succeed. He and Frege avoided making theory of knowledge the cardinal theory of philosophy simply by cutting it dead; by doing none, and concentrating on the philosophy of logic. But the influence of the \emph{Tractatus} produced logical positivism, whose main doctrine is `verificationism'; and in that doctrine theory of knowledge once more reigned supreme, and a prominent position was given to the test for significance by asking for the observations that would verify a statement.]{`La psicología no es más semejante a la filosofía que cualquier otra ciencia natural. La teoría del conocimiento es filosofía de la psicología' (4.1121). En este pasaje Wittgenstein esta tratando de romper el control dictatorial sobre el resto de la filosofía que por largo tiempo ha sido ejercido por lo que se llama teoría del conocimiento\,---\,esto es, por la filosofía de la sensación, percepción, imaginación, y, en general, de la experiencia. No tuvo éxito. Él y Frege evitaron hacer de la teoría del conocimiento la teoría cardinal de la filosofía simplemente al no alimentarla; al no hacer ninguna, y concentrándose en la filosofía de la lógica. Sin embargo la influencia del \emph{Tractatus} produjo el positivismo lógico, cuya doctrina principal es el `verificacionismo'; y en esa doctrina la teoría del conocimiento una vez más reinó, y se le dio una posición prominente a la prueba sobre la significación requiriendo observaciones que pudieran verificar una afirmación.}
 
-  Los desafíos que representan las discusiones del Círculo de Viena vienen a
-  ofrecernos la pregunta \enquote{¿es cognoscitivo el lenguaje religioso?}. Esto
-  no es una pregunta sobre si es significativo como lo pudiera ser el lenguaje
-  poético o mítico, sino específicamente si es susceptible de ser verdadero o
-  falso. ¿Existe un conocimiento religioso? ¿Cúal es su
-  valor?\footnote{Cf.~\cite[23]{conesa1994cc}} La pregunta se dirige
-  específicamente hacia el lenguaje del testimonio. ¿Puede significar algo? ¿Puede
-  comunicar un conocimiento? Un ejemplo propuesto por Anscombe tiene que ver con
-  la ocasión de enseñar a un niño sobre la transubstanciación, para ello es útil
-  señalar lo que ocurre y decir cómo está haciendose presente Jesús y cómo hemos
-  de reaccionar. Al hacer esto \blockquote[{\cite[21]{conesa1994cc}}]{le está
-    enseñando una técnica, a la vez que le abre a un modo de relación con Dios y
-    le enseña parte del mensaje revelado. Estos modos de conocimiento no solo
-    están vinculados, sino también en una íntima relación: el saber proposicional
-    conduce a conocer, éste a saber obrar, y viceversa.}
+La influencia del Círculo de Viena, sin embargo, fue notable y las posturas de las reflexiones sucesivas fueron diversas. A. Flew propuso que dado que el lenguaje teológico no es falseable, tampoco es susceptible de afirmar alguna verdad o conocimiento proposicional.\footnote{Cf.~\cite[27--30]{conesa1994cc}} R.\,M. Hare consideró el lenguaje religioso como evocativo, más que informativo.\footnote{Cf.~\cite[35--36]{conesa1994cc}} Van Buren consideró artificial la posibilidad de un antagonismo entre la Ciencia y la Teología puesto que: \blockquote[{\cite[156]{dominguez2009at}}]{el lenguaje de la Ciencia y el de la Teología pertenencen a dos ámbitos tan distintos entre sí ---equívocos--- que al carecer de una semántica común, hasta la rivalidad resultaría artificial. Poniendo un ejemplo analógico: igual que no es posible oponer ``voltios'' a ``sentimientos'', no es posible hacer entrar en conflicto la Ciencia con la Metafísica. ¿Es en verdad esto sostenible?}
 
-  Será en el pensamiento de Elizabeth Anscombe donde investigaremos respuestas y
-  discusiones en torno a estas cuestiones problemáticas de la categoría del
-  testimonio. Antes de entrar en este análisis resultará útil hacer un recorrido
-  general por la vida, obra y pensamiento de Anscombe.
+Los desafíos que representan las discusiones del Círculo de Viena vienen a ofrecernos la pregunta \enquote{¿es cognoscitivo el lenguaje religioso?}. Esto no es una pregunta sobre si es significativo como lo pudiera ser el lenguaje poético o mítico, sino específicamente si es susceptible de ser verdadero o falso. ¿Existe un conocimiento religioso? ¿Cúal es su valor?\footnote{Cf.~\cite[23]{conesa1994cc}} La pregunta se dirige específicamente hacia el lenguaje del testimonio. ¿Puede significar algo? ¿Puede comunicar un conocimiento? Un ejemplo propuesto por Anscombe tiene que ver con la ocasión de enseñar a un niño sobre la transubstanciación, para ello es útil señalar lo que ocurre y decir cómo está haciendose presente Jesús y cómo hemos de reaccionar. Al hacer esto \blockquote[{\cite[21]{conesa1994cc}}]{le está enseñando una técnica, a la vez que le abre a un modo de relación con Dios y le enseña parte del mensaje revelado. Estos modos de conocimiento no solo están vinculados, sino también en una íntima relación: el saber proposicional conduce a conocer, éste a saber obrar, y viceversa.}
+
+  Será en el pensamiento de Elizabeth Anscombe donde investigaremos respuestas y discusiones en torno a estas cuestiones problemáticas de la categoría del testimonio. Antes de entrar en este análisis resultará útil hacer un recorrido general por la vida, obra y pensamiento de Anscombe.
 #+END_SRC
-* [Local Variables]
-# Local Variables:
-# mode: org
-# mode: auto-fill
-# word-wrap:t
-# truncate-lines: t
-# org-hide-emphasis-markers: t
-# End:

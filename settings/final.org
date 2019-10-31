@@ -68,7 +68,23 @@ twoside,
 \begin{document}
 #+END_SRC
 
+chequear los esto y este y solo, cuidado de no cambiar los textos citados
 
+revisar también los enquotes....
+
+términos o conceptos van entre comillas simples
+expresiones o referencias a expresiones hechas ``''
+citas de documentos <<>>
+
+dentro de las citas no se usa enquote, sin las comillas como aparecen en el texto
+
+revisar títulos y subtitulos... puntuación y  mayusculas/minusculas
+
+buscar una traducción española de hume, lessing y las obras de W. no traducidas por anscombe
+
+check escritura con mayúscula, tambien revelacion e iglesia
+
+verificar guiones largos, añadir espacios pequeños
 
 #+BEGIN_SRC latex :tangle ../tex/final.tex
 %INTRODUCCIÓN
@@ -91,6 +107,8 @@ twoside,
 #+BEGIN_SRC latex :tangle ../tex/final.tex
 \end{document}
 #+END_SRC
+
+Setear csquotes para que ponga el numero de cita antes del punto. también para citar la biblia y magisterio en paréntesis en el texto
 
 #+BEGIN_SRC latex :tangle ../tex/style/final.sty
 \ProvidesPackage{final}

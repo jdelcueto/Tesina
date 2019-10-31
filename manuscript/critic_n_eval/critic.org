@@ -18,5 +18,8 @@ According to this psychology, an intention was an interior act of the mind which
 LA ÚLTIMA LINEA DEL TRABAJO SERÁ ESTA:
 
 #+BEGIN_SRC latex
+Entender la revelación de Dios como testimonio
+Valor apologético del testimonio
+
 Poned en práctica la palabra y no os contentéis con oírla, engañándoos a vosotros mismos. Porque quien oye la palabra y no la pone en práctica, ese se parece al hombre que se miraba la cara en un espejo y, apenas se miraba, daba media vuelta y se olvidaba de cómo era. Pero el que se concentra en una ley perfecta, la de la libertad, y permanece en ella, no como oyente olvidadizo, sino poniéndola en práctica, ese será dichoso al practicarla. (St 1, 22--25)
 #+END_SRC
