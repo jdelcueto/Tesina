@@ -43,7 +43,7 @@ year = "1999",
 keywords = "primary, wittgenstein",
 }
 #+END_SRC
-
+*** Tractatus Español
 #+BEGIN_SRC bibtex :tangle primary.bib
 @book{wittgenstein1922tractatuses,
 author = "Ludwig Wittgenstein",
@@ -56,8 +56,6 @@ year = "1992",
 keywords = "primary, wittgenstein",
 }
 #+END_SRC
-
-
 *** Wittgenstein's Journal
 #+BEGIN_SRC bibtex :tangle primary.bib
 @book{wittgenstein1998cnv,
@@ -120,7 +118,7 @@ year = "1956",
 keywords = "primary, wittgenstein",
 }
 #+END_SRC
-
+*** Observaciones sobre los fundamentos de la matemática
 #+BEGIN_SRC bibtex :tangle primary.bib
 @book{wittgenstein1956remmathes,
 author = "Ludwig Wittgenstein",
@@ -132,9 +130,6 @@ year = "2007",
 keywords = "primary, wittgenstein",
 }
 #+END_SRC
-
-
-
 *** Notebooks 1914-1916 (1961)
 *** Zettel (1967)
 *** Philosophical Remarks
@@ -152,10 +147,8 @@ origdate={1969},
 keywords = "primary, wittgenstein",
 }
 #+END_SRC
-
 *** Remarks on the Philosophy of Psicology
 *** Remarks on Colour (1977)
-
 ** By G.E.M. Anscombe
 *** Intention (1957)
 *** An Introduction to Wittgenstein's Tractatus (1959)
@@ -238,7 +231,6 @@ http://www.worldcat.org/oclc/299374922
   abstract={}
   }
 #+END_SRC
-
 ***** The Question of Linguistic Idealism
 #+BEGIN_SRC bibtex :tangle primary.bib
   @incollection{anscombe1981parmenides:qli,
@@ -248,7 +240,6 @@ http://www.worldcat.org/oclc/299374922
   abstract={}
   }
 #+END_SRC
-
 **** Metaphysics and the Philosophy of the Mind
 :worldcat:
  http://www.worldcat.org/oclc/10430565
@@ -330,7 +321,6 @@ http://www.worldcat.org/oclc/873936079
   keywords={Anscombe; Transusbstantiation; Religion; Primary Source}
   }
 #+END_SRC
-
 ***** Faith
 #+BEGIN_SRC bibtex :tangle primary.bib
   @incollection{anscombe1981erp:faith,
@@ -349,7 +339,6 @@ http://www.worldcat.org/oclc/873936079
   keywords={Anscombe; Faith; Religion; Primary Source}
   }
 #+END_SRC
-
 ***** Rules, Rights and Promises
 #+BEGIN_SRC bibtex :tangle primary.bib
   @incollection{anscombe1981erp:rrp,
@@ -368,7 +357,6 @@ http://www.worldcat.org/oclc/873936079
   keywords={Anscombe; Faith; Religion; Primary Source}
   }
 #+END_SRC
-
 *** En Philosophical Encounters
 #+BEGIN_SRC bibtex :tangle primary.bib
  @incollection{anscombe1991aqp,
@@ -432,8 +420,6 @@ keywords={Anscombe Elizabeth; Primary Source; St Andrews}
   abstract={}
   }
 #+END_SRC
-
-
 ***** Faith
 #+BEGIN_SRC bibtex :tangle primary.bib
   @incollection{anscombe2008faith:faith,
@@ -452,7 +438,6 @@ keywords={Anscombe Elizabeth; Primary Source; St Andrews}
   abstract={}
   }
 #+END_SRC
-
 ***** Prophecy and Miracles
 #+BEGIN_SRC bibtex :tangle primary.bib
   @incollection{anscombe2008faith:prophandmi,
@@ -462,7 +447,6 @@ keywords={Anscombe Elizabeth; Primary Source; St Andrews}
   abstract={}
   }
 #+END_SRC
-
 ***** Paganism, Superstition and Philosophy
 #+BEGIN_SRC bibtex :tangle primary.bib
   @incollection{anscombe2008faith:paganism,
@@ -472,14 +456,12 @@ keywords={Anscombe Elizabeth; Primary Source; St Andrews}
   abstract={}
   }
 #+END_SRC
-
-
 **** From Plato to Wittgenstein
 #+BEGIN_SRC bibtex :tangle primary.bib
 @mvcollection{anscombe2011plato,
 title={From Plato to Wittgenstein},
 author={Gertrude Elizabeth Margaret Anscombe},
-editors={Mary Geach and Luke Gormally},
+editor={Mary Geach and Luke Gormally},
 isbn={9781845402334},
 series={St. Andrews Studies in Philosophy and Public Affairs},
 publisher={Imprint Academic},
@@ -499,7 +481,6 @@ keywords={Anscombe Elizabeth; Primary Source; St Andrews}
  keywords = "primary, anscombe, standrews",
  }
 #+END_SRC
-
 ***** The Simplicity of the Tractatus
 #+BEGIN_SRC bibtex :tangle primary.bib
  @incollection{anscombe2011plato:simplicity,
@@ -511,7 +492,6 @@ keywords={Anscombe Elizabeth; Primary Source; St Andrews}
  keywords = "primary, anscombe, standrews",
  }
 #+END_SRC
-
 ***** Wittgenstein on Rules and Private Language
 #+BEGIN_SRC bibtex :tangle primary.bib
  @incollection{anscombe2011plato:rnpl,
@@ -540,7 +520,6 @@ keywords={Anscombe Elizabeth; Primary Source; St Andrews}
   keywords={Anscombe Elizabeth; Hume; Belief; Primary Source}
   }
 #+END_SRC
-
 **** Logic, Truth and Meaning
 #+BEGIN_SRC bibtex :tangle primary.bib
 @mvcollection{anscombe2015logic,
@@ -702,7 +681,6 @@ keywords={Anscombe Elizabeth; Primary Source; St Andrews}
  keywords = {primary, anscombe}
  }
 #+END_SRC
-
 **** Sobre la transubstanciación
 #+BEGIN_SRC bibtex :tangle primary.bib
   @inbook{torralbaynubiola2005fayeh:ot,
@@ -713,7 +691,6 @@ keywords={Anscombe Elizabeth; Primary Source; St Andrews}
   abstract={}
   }
 #+END_SRC
-
 ** By Peter Geach
 *** A Philosophical Autobiography
 #+BEGIN_SRC bibtex :tangle primary.bib
@@ -731,7 +708,6 @@ keywords={Anscombe Elizabeth; Primary Source; St Andrews}
  keywords = "bio, anscombe, geach",
  }
 #+END_SRC
-
 ** By Anselm
 #+BEGIN_SRC bibtex :tangle primary.bib
 @mvcollection{anselm1952obras,
@@ -794,7 +770,6 @@ year = "2008",
 keywords = "primary, anscombe, teichmann",
 }
 #+END_SRC
-
 ** Elisa Grimi
 #+BEGIN_SRC bibtex :tangle secondary.bib
 %Books on Anscombe
@@ -808,10 +783,6 @@ year = "2014",
 keywords = "primary, anscombe, grimi",
 }
 #+END_SRC
-
-
-
-
 ** Testimonios Biográficos Anscombe y Geach
 *** Biographical Memoirs of Fellows of The British Academy I
 :worldcat:
@@ -831,9 +802,8 @@ isbn="0197262783",
 keywords = "bio, anscombe",
 }
 #+END_SRC
-
 *** Biographical Memoirs of Fellows of The British Academy XIV
- %%url = "https://www.britac.ac.uk/sites/default/files/09\%20Geach\%201820.pdf"
+ url : https://www.britac.ac.uk/sites/default/files/09\%20Geach\%201820.pdf
 #+BEGIN_SRC bibtex :tangle secondary.bib
  @incollection{kenny2016fellows,
  author = "Anthony Kenny",
@@ -847,7 +817,6 @@ keywords = "bio, anscombe",
  keywords = "bio, anscombe, geach",
  }
 #+END_SRC
-
 ** Biografías de Wittgenstein
 *** Ray Monk
 #+BEGIN_SRC bibtex :tangle secondary.bib
@@ -870,7 +839,6 @@ keywords = "bio, anscombe",
   keywords = "primary, wittgenstein, biography",
   }
 #+END_SRC
-
 ** Accounts of Wittgenstein's Lectures
 *** Public and Private Occasions
 #+BEGIN_SRC bibtex :tangle secondary.bib
@@ -884,7 +852,6 @@ location = {Maryland},
  keywords = {secondary, wittgenstein, biography}
  }
 #+END_SRC
-
 *** Wittgenstein's Lectures
 #+BEGIN_SRC bibtex :tangle secondary.bib
  @book{ambrose2001lectures,
@@ -897,8 +864,6 @@ location = {New York},
  keywords = {secondary, wittgenstein, biography}
  }
 #+END_SRC
-
-
 ** Artículos
 *** The Tablet, wiseman lectures
 #+BEGIN_SRC bibtex :tangle secondary.bib
@@ -915,47 +880,20 @@ location = {New York},
 #+END_SRC
 *** Cartas de Anscombe
 #+BEGIN_SRC bibtex :tangle secondary.bib
- @article{NWR,
-     author = {Christian Eric Erbacher and Sophia Krebs},
-     title = {The First Nine Months of Editing Wittgenstein - Letters from G.E.M.
-                   Anscombe and Rush Rhees to G.H. von Wright},
-     journal = {Nordic Wittgenstein Review},
-     year = {2015},
-     keywords = {Wittgenstein Ludwig; Wittgenstein's Nachlass; scholarly editing;
-                   history of analytical philosophy; Philosophical
-                   Investigations; Anscombe Elizabeth; Rhees Rush; Wright G.H.
-                   von},
-     abstract = {The National Library of Finland (NLF) and the Von Wright and
-                   Wittgenstein Archives at the University of Helsinki (WWA) keep
-                   the collected correspondence of Georg Henrik von Wright,
-                   Wittgenstein’s friend and successor at Cambridge and one of
-                   the three literary executors of Wittgenstein’s Nachlass. Among
-                   von Wright’s correspondence partners, Elizabeth Anscombe and
-                   Rush Rhees are of special interest to Wittgenstein scholars as
-                   the two other trustees of the Wittgenstein papers. Thus, von
-                   Wright’s collections held in Finland promise to shed light on
-                   the context of decades of editorial work that made
-                   Wittgenstein’s later philosophy available to all interested
-                   readers. In this text, we present the letters which von Wright
-                   received from Anscombe and Rhees during the first nine months
-                   after Wittgenstein’s death. This correspondence provides a
-                   vivid picture of the literary executors as persons and of
-                   their developing relationships. The presented letters are
-                   beautiful examples of what the correspondence as a whole has
-                   to offer; it depicts – besides facts of editing – the story of
-                   three philosophers, whose conversing voices unfold the human
-                   aspects of inheriting Wittgenstein’s Nachlass. Their story
-                   does not only deal with editing the papers of an eminent
-                   philosopher, but with the attempt to do justice to the man
-                   they knew, to his philosophy and to his wishes for
-                   publication.},
-     issn = {2242-248X},
-     pages = {195--231},
-     url = {https://www.nordicwittgensteinreview.com/article/view/3288}
- }
+  @article{NWR,
+      author = {Christian Eric Erbacher and Sophia Krebs},
+      title = {The First Nine Months of Editing Wittgenstein - Letters from G.E.M. Anscombe and Rush Rhees to G.H. von Wright},
+      journal = {Nordic Wittgenstein Review},
+      year = {2015},
+      keywords = {Wittgenstein Ludwig; Wittgenstein's Nachlass; scholarly editing; history of analytical philosophy; Philosophical Investigations; Anscombe Elizabeth; Rhees Rush; Wright G.H. von},
+      abstract = {The National Library of Finland (NLF) and the Von Wright and Wittgenstein Archives at the University of Helsinki (WWA) keep the collected correspondence of Georg Henrik von Wright, Wittgenstein’s friend and successor at Cambridge and one of the three literary executors of Wittgenstein’s Nachlass. Among von Wright’s correspondence partners, Elizabeth Anscombe and Rush Rhees are of special interest to Wittgenstein scholars as the two other trustees of the Wittgenstein papers. Thus, von Wright’s collections held in Finland promise to shed light on the context of decades of editorial work that made Wittgenstein’s later philosophy available to all interested readers. In this text, we present the letters which von Wright received from Anscombe and Rhees during the first nine months after Wittgenstein’s death. This correspondence provides a vivid picture of the literary executors as persons and of their developing relationships. The presented letters are beautiful examples of what the correspondence as a whole has to offer; it depicts – besides facts of editing – the story of three philosophers, whose conversing voices unfold the human aspects of inheriting Wittgenstein’s Nachlass. Their story does not only deal with editing the papers of an eminent philosopher, but with the attempt to do justice to the man they knew, to his philosophy and to his wishes for publication.},
+      issn = {2242-248X},
+      pages = {195--231},
+      url = {https://www.nordicwittgensteinreview.com/article/view/3288}
+  }
 #+END_SRC
 ** Exegesis de Investigaciones Filosóficas
-
+*** Understanding and Meaning I
 #+BEGIN_SRC bibtex :tangle secondary.bib
 @mvbook{bakerhacker2005understanding,
 title={Wittgenstein: Understanding and Meaning},
@@ -971,7 +909,7 @@ year={2014},
 keywords={}
 }
  #+END_SRC
-
+*** Understanding and Meaning II 1-184
 #+BEGIN_SRC bibtex :tangle secondary.bib
 @mvbook{bakerhacker2009understanding,
 title={Wittgenstein: Understanding and Meaning},
@@ -986,8 +924,8 @@ publisher={Wiley Blackwell},
 year={2009},
 keywords={}
 }
- #+END_SRC
-
+#+END_SRC
+*** Rules, Grammar and Necessity 185-242
 #+BEGIN_SRC bibtex :tangle secondary.bib
 @mvbook{bakerhacker2014rules,
 title={Wittgenstein: Rules, Grammar and Necessity},
@@ -1001,8 +939,8 @@ publisher={Wiley Blackwell},
 year={2014},
 keywords={}
 }
- #+END_SRC
-
+#+END_SRC
+*** Mind and Will
 #+BEGIN_SRC bibtex :tangle secondary.bib
 @mvbook{hacker2000mind,
 title={Wittgenstein: Mind and Will},
@@ -1016,29 +954,26 @@ year={2000},
 keywords={}
 }
  #+END_SRC
-
-
 ** Wittgenstein at Work
 #+BEGIN_SRC bibtex :tangle secondary.bib
 @collection{ammereller2004wittgenstein,
-  title={Wittgenstein at Work: Method in the Philosophical Investigations},
-  author={Erich Ammereller and Eugen Fischer},
-  isbn={9781134374953},
-  year={2004},
-  publisher={Taylor \& Francis},
-  location={New York}
+title={Wittgenstein at Work: Method in the Philosophical Investigations},
+author={Erich Ammereller and Eugen Fischer},
+isbn={9781134374953},
+year={2004},
+publisher={Taylor \& Francis},
+location={New York}
 }
 #+END_SRC
 
 #+BEGIN_SRC bibtex :tangle secondary.bib
-  @incollection{diamond2004crisscross,
-  title={Criss-cross Philosophy},
-  author={Cora Diamond},
-  pages={201-220},
-  crossref={ammereller2004wittgenstein},
-  }
+@incollection{diamond2004crisscross,
+title={Criss-cross Philosophy},
+author={Cora Diamond},
+pages={201-220},
+crossref={ammereller2004wittgenstein},
+}
 #+END_SRC
-
 ** How to read Wittgenstein
 #+BEGIN_SRC bibtex :tangle secondary.bib
 @collection{monk2005howto,
@@ -1049,7 +984,6 @@ keywords={}
   location={New York}
 }
 #+END_SRC
-
 ** Routledge Guidebook
 #+BEGIN_SRC bibtex :tangle secondary.bib
 @collection{mcginn2013guide,
@@ -1060,9 +994,6 @@ keywords={}
   location={New York}
 }
 #+END_SRC
-
-
-i
 ** Papa Francisco
 #+BEGIN_SRC bibtex :tangle secondary.bib
 @online{francisco2014angelus,
@@ -1074,7 +1005,6 @@ urldate   = "2019-03-19",
 keywords  = "francisco, angelus"
 }
 #+END_SRC
-
 ** Papa Benedicto
 #+BEGIN_SRC bibtex :tangle secondary.bib
 @online{benedicto2008angelus,
@@ -1086,7 +1016,6 @@ urldate   = "2019-03-19",
 keywords  = "benedictoo, angelus"
 }
 #+END_SRC
-
 ** Javier Prades
 #+BEGIN_SRC bibtex :tangle secondary.bib
 @book{prades2015testimonio,
@@ -1103,51 +1032,50 @@ keywords = "prades, testimonio",
 *** Voz Testimonio en Diccionario Teología Fundamental
 #+BEGIN_SRC bibtex :tangle secondary.bib
 @incollection{latourelle2000testimonio,
-    editor    = "René Latourelle and Rino Fisichella and Salvador Pié I Ninot",
-    booktitle = "Diccionario de Teología Fundamental",
-    publisher = "San Pablo, Madrid",
-    author    = "René Latourelle",
-    title     = "Testimonio",
-    %volume   = "",
-    %number   = "",
-    %series   = "",
-    %address  = "",
-    edition  = "2",
-    year      = "2000",
-    pages     = "1523--1542",
-    %month    = "",
-    %note     = "",
-    keywords ="testimonio, latourelle",
+editor    = "René Latourelle and Rino Fisichella and Salvador Pié I Ninot",
+booktitle = "Diccionario de Teología Fundamental",
+publisher = "San Pablo, Madrid",
+author    = "René Latourelle",
+title     = "Testimonio",
+%volume   = "",
+%number   = "",
+%series   = "",
+%address  = "",
+edition  = "2",
+year      = "2000",
+pages     = "1523--1542",
+%month    = "",
+%note     = "",
+keywords ="testimonio, latourelle",
 }
 #+END_SRC
 
 *** Evangelisation
   #+BEGIN_SRC bibtex :tangle secondary.bib
-  @mvcollection{dhavamony1975evangelisation,
-    title={Evangelisation},
-    editor={Mariasusai Dhavamony~S.J.},
-    isbn={9788876524769},
-    series={Documenta Missionalia},
-    volume={9},
-    url={https://books.google.es/books?id=XPB9U31X7AkC},
-    year={1975},
-    publisher={Università Gregoriana Editrice},
-    location={Roma},
-  }
-  #+END_SRC
-
+@mvcollection{dhavamony1975evangelisation,
+title={Evangelisation},
+editor={Mariasusai Dhavamony~S.J.},
+isbn={9788876524769},
+series={Documenta Missionalia},
+volume={9},
+url={https://books.google.es/books?id=XPB9U31X7AkC},
+year={1975},
+publisher={Università Gregoriana Editrice},
+location={Roma},
+}
+#+END_SRC
 *** Evangelisation et temoignage
 #+BEGIN_SRC bibtex :tangle secondary.bib
-  @incollection{latourelle1975et,
-  title={Évangelisation et témoignage},
-  author={René Latourelle},
-  crossref={dhavamony1975evangelisation},
-  pages={77--110},
-  keywords={latourelle; secondary Source},
-  abstract={}
-  }
+@incollection{latourelle1975et,
+title={Évangelisation et témoignage},
+author={René Latourelle},
+crossref={dhavamony1975evangelisation},
+pages={77--110},
+keywords={latourelle; secondary Source},
+abstract={}
+}
 #+END_SRC
-
+*** Teología de la Revelación
 #+BEGIN_SRC bibtex :tangle secondary.bib
 @book{latourelle1999rev,
 author = "Rene Latourelle",
@@ -1159,8 +1087,6 @@ year = "1999",
 keywords = "latourelle, testimonio",
 }
 #+END_SRC
-
-
 ** Salvador Pié-Ninot
 #+BEGIN_SRC bibtex :tangle secondary.bib
 @book{ninot2009tf,
@@ -1201,14 +1127,14 @@ keywords = "ninot, teología fundamental",
  keywords = "secondary, ratzinger, fundamental",
  }
 #+END_SRC
-
+** Jesús de Nazaret
 #+BEGIN_SRC bibtex :tangle secondary.bib
  @mvbook{ratzinger2007jdenaz,
  translator = "Carmen Bas Álvarez",
  author = "Joseph Ratzinger",
  title = "Jesús de Nazaret",
  subtitle = "Desde el Bautismo a la Transfiguración",
- part = "1",
+% part = "1",
  publisher = "Planeta",
  location = "Colombia",
  edition = "1",
@@ -1216,7 +1142,6 @@ keywords = "ninot, teología fundamental",
  keywords = "secondary, ratzinger, cristología",
  }
 #+END_SRC
-
 ** Pablo Dominguez
 #+BEGIN_SRC bibtex :tangle secondary.bib
 @book{dominguez2009at,
@@ -1251,7 +1176,6 @@ year = "2002",
 keywords = "moser, epistemology",
 }
 #+END_SRC
-
 ** Coady
 #+BEGIN_SRC bibtex :tangle secondary.bib
 @book{coady1992test,
@@ -1279,6 +1203,19 @@ year = "1993",
 keywords = "hume, philosophy",
 }
 #+END_SRC
+*** An Enquiry Concerning Human Understanding
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@book{hume1777enquiryes,
+author = "David Hume",
+translator = "Jaime de Salas Ortueta",
+title = "Investigación sobre el conocimiento humano",
+publisher = "Alianza Editorial",
+location = "Madrid",
+edition = "1",
+year = "1988",
+keywords = "hume, philosophy",
+}
+#+END_SRC
 *** A Treatise of Human Nature
 Amazon: https://www.amazon.com/dp/0198751729/ref=rdr_ext_tmb
 #+BEGIN_SRC bibtex :tangle secondary.bib
@@ -1292,7 +1229,6 @@ year = "2000",
 keywords = "hume, philosophy"
 }
 #+END_SRC
-
 ** Gotthold Ephraim Lessing
 *** Philosophical and Theological Writings
 #+BEGIN_SRC bibtex :tangle secondary.bib
@@ -1307,7 +1243,6 @@ year = "2005",
 keywords = "lessing, philosophy",
 }
 #+END_SRC
-
 *** On the proof of the spirit and of power
 #+BEGIN_SRC bibtex :tangle primary.bib
   @incollection{lessing2005writings:proof,
@@ -1318,7 +1253,6 @@ keywords = "lessing, philosophy",
   abstract={}
   }
 #+END_SRC
-
 *** Escritos Filosóficos y Teológicos
 #+BEGIN_SRC bibtex :tangle secondary.bib
 @collection{lessing1982escritos,
@@ -1331,8 +1265,7 @@ year = "1982",
 keywords = "lessing, philosophy",
 }
 #+END_SRC
-
-*** On the proof of the spirit and of power
+*** Demostración en Espíriru y Fuerza
 #+BEGIN_SRC bibtex :tangle primary.bib
   @incollection{lessing1982escritos:demo,
   title={Sobre la Demostración en Espíritu y Fuerza},
@@ -1342,7 +1275,6 @@ keywords = "lessing, philosophy",
   abstract={}
   }
 #+END_SRC
-
 ** Francisco Conesa
 #+BEGIN_SRC bibtex :tangle secondary.bib
 @book{conesa1994cc,
@@ -1355,10 +1287,6 @@ year = "1994",
 keywords = "conesa, analítica",
 }
 #+END_SRC
-
-
-
-
 ** Parmenides
 #+BEGIN_SRC bibtex :tangle secondary.bib
 @book{parmenides2007poema,
@@ -1409,7 +1337,6 @@ origdate = "1986",
 keywords = "Kerr, teología, Wittgenstein",
 }
 #+END_SRC
-
 * Magisterio
 ** Lumen Fidei
 #+BEGIN_SRC bibtex :tangle secondary.bib
@@ -1424,9 +1351,7 @@ year = "2013",
 keywords = "magisterio, francisco",
 }
 #+END_SRC
-
 ** Fides et Ratio
-
 
 ** Dei Filius
 #+BEGIN_SRC bibtex :tangle secondary.bib
@@ -1450,12 +1375,8 @@ keywords = "magisterio, francisco",
       keywords ="magisterio",
   }
 #+END_SRC
-
-
-
 * Testers
-
-#+BEGIN_SRC bibtex :tangle primary.bib
+#+BEGIN_SRC bibtex :tangle no
   @mvcollection{mvcollectiontest,
   title={Multiple Volume Collection},
   author={Collection's Author Dickens},
@@ -1475,8 +1396,7 @@ keywords = "magisterio, francisco",
   abstract = {}
   }
 #+END_SRC
-
-#+BEGIN_SRC bibtex :tangle secondary.bib
+#+BEGIN_SRC bibtex :tangle no
   @incollection{incollectiontest,
   title={Article in a Collection},
   author={Article's Author Smith},
@@ -1484,8 +1404,7 @@ keywords = "magisterio, francisco",
   crossref={mvcollectiontest},
   }
 #+END_SRC
-
-#+BEGIN_SRC bibtex :tangle secondary.bib
+#+BEGIN_SRC bibtex :tangle no
   @incollection{incollectiontest2,
   title={Second Article in a Collection},
   author={Article's Author Smith},
@@ -1493,8 +1412,7 @@ keywords = "magisterio, francisco",
   crossref={mvcollectiontest},
   }
 #+END_SRC
-
-#+BEGIN_SRC bibtex :tangle secondary.bib
+#+BEGIN_SRC bibtex :tangle no
  @article{articletest,
      author  = "Article's Author",
      title   = "Article's Title",
@@ -1506,8 +1424,7 @@ keywords = "magisterio, francisco",
      number  = "6858"
  }
 #+END_SRC
-
-#+BEGIN_SRC bibtex :tangle primary.bib
+#+BEGIN_SRC bibtex :tangle no
   @book{booktest,
   title={Book},
   author={Book's Author Higgins},
@@ -1523,9 +1440,7 @@ keywords = "magisterio, francisco",
   abstract = {}
   }
 #+END_SRC
-
-
-#+BEGIN_SRC bibtex :tangle primary.bib
+#+BEGIN_SRC bibtex :tangle no
   @mvcollection{anothermvcollectiontest,
   title={Another Multiple Volume Collection},
   editor={John Editor Flint and Alan Editor Anderson and Evan Editor Baker},
@@ -1544,8 +1459,7 @@ keywords = "magisterio, francisco",
   abstract = {}
   }
 #+END_SRC
-
-#+BEGIN_SRC bibtex :tangle secondary.bib
+#+BEGIN_SRC bibtex :tangle no
   @incollection{anotherincollectiontest,
   title={Another Article in a Collection},
   author={Another Author Smith},

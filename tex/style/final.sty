@@ -70,6 +70,7 @@ Ligatures=TeX]{arialuni.ttf}
 \addtokomafont{subsubsection}{\sffamily\mdseries\fontsize{10pt}{10pt}\selectfont}
 
 \RedeclareSectionCommand[%
+beforeskip=-1em,%
 indent=0.5cm,%
 ]{subsection}
 
@@ -90,7 +91,7 @@ indent=0.5cm,%
          \itemindent    \listparindent
          \leftmargin=1.2cm%  whatever you need
          \rightmargin=0cm%whatever you need
-         \topsep=0cm%%%%%whatever you need
+         \topsep=.25em%%%%%whatever you need
          \parsep        \z@ \@plus\p@}%
          \item\relax}
 {\endlist}
