@@ -3,7 +3,7 @@
 
 * [[./staging/final.pdf][Documento en desarrollo]]  //  Documento Final (pronto?)
 
-* TODO Progreso Realizado [50%]
+* TODO Progreso Realizado [99%]
 ** TODO Introducción [10%]
 ** DONE Cap. 1: Introducción General al Problema del Testimonio [100%]
 *** DONE Naturaleza de la pregunta sobre el testimonio [100%]
