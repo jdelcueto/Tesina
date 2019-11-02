@@ -147,6 +147,20 @@ origdate={1969},
 keywords = "primary, wittgenstein",
 }
 #+END_SRC
+*** Sobre la Certeza
+#+BEGIN_SRC bibtex :tangle primary.bib
+@book{wittgenstein1969oncertes,
+author={Ludwig Wittgenstein},
+title={Sobre la Certeza},
+editor={Gertrude Elizabeth Margaret Anscombe and Georg Henrik von Wright},
+translator={Josep Lluis Prades and Vicent Raga},
+publisher={Gedias Editorial},
+location={Barcelona},
+year={1998},
+edition={1},
+keywords = "primary, wittgenstein",
+}
+#+END_SRC
 *** Remarks on the Philosophy of Psicology
 *** Remarks on Colour (1977)
 ** By G.E.M. Anscombe
