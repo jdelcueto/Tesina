@@ -13,24 +13,24 @@ keywords={primary}
 ** Three Philosopers (with Peter Geach) (1961)
 
 ** Collected Philosophical Papers (1981)
-**** From Parmenides to Wittgenstein
+*** From Parmenides to Wittgenstein
 :worldcat:
 http://www.worldcat.org/oclc/299374922
 :end:
 #+BEGIN_SRC bibtex :tangle primary.bib
-@collection{anscombe1981parmenides,
+@mvcollection{anscombe1981parmenides,
 title={From Parmenides to Wittgenstein},
 author={Gertrude Elizabeth Margaret Anscombe},
 isbn={9780631129226},
 lccn={81004317},
-series={The collected philosophical papers of G.E.M. Anscombe},
+series={The Collected Philosophical Papers of G.E.M. Anscombe},
 volume={1},
 publisher={Basil Blackwell, Oxford},
 year={1981},
 keywords={primary}
 }
 #+END_SRC
-***** Parmenides, Mystery and Contradiction
+**** Parmenides, Mystery and Contradiction
 #+BEGIN_SRC bibtex :tangle primary.bib
 @incollection{anscombe1981parmenides:pmc,
 title={Parmenides, Mystery and Contradiction},
@@ -40,7 +40,7 @@ year={1969},
 keywords={primary},
 }
 #+END_SRC
-***** Hume and Julius Caesar
+**** Hume and Julius Caesar
 #+BEGIN_SRC bibtex :tangle primary.bib
 @incollection{anscombe1981parmenides:humeandjulius,
 title={Hume and Julius Caesar},
@@ -50,7 +50,7 @@ year={1973},
 keywords={primary},
 }
 #+END_SRC
-***** The Question of Linguistic Idealism
+**** The Question of Linguistic Idealism
 #+BEGIN_SRC bibtex :tangle primary.bib
 @incollection{anscombe1981parmenides:qli,
 title={The Question of Linguistic Idealism},
@@ -60,7 +60,7 @@ year={1976},
 keywords={primary},
   }
 #+END_SRC
-**** Metaphysics and the Philosophy of the Mind
+*** Metaphysics and the Philosophy of the Mind
 :worldcat:
  http://www.worldcat.org/oclc/10430565
 :end:
@@ -69,14 +69,14 @@ keywords={primary},
 title={Metaphysics and the Philosophy of the Mind},
 author={Gertrude Elizabeth Margaret Anscombe},
 isbn={9780816610808},
-series={The collected philosophical papers of G.E.M. Anscombe},
+series={The Collected Philosophical Papers of G.E.M. Anscombe},
 volume={2},
 publisher={Basil Blackwell, Oxford},
 year={1981},
 keywords={primary}
 }
 #+END_SRC
-***** The Intetionality of Sensation
+**** The Intetionality of Sensation
 #+BEGIN_SRC bibtex :tangle primary.bib
 @incollection{anscombe1981metaphysics:intsens,
 title={The Intetionality of Sensation: A Grammatical Feature},
@@ -86,7 +86,7 @@ year={1965},
 keywords={primary},
 }
 #+END_SRC
-**** Ethics, Religion and Politics
+*** Ethics, Religion and Politics
 :worldcat:
 http://www.worldcat.org/oclc/873936079
 :end:
@@ -96,14 +96,14 @@ title={Ethics, Religion and Politics},
 author={Gertrude Elizabeth Margaret Anscombe},
 isbn={9780631129226},
 lccn={81004317},
-series={The collected philosophical papers of G.E.M. Anscombe},
+series={The Collected Philosophical Papers of G.E.M. Anscombe},
 volume={3},
 publisher={Basil Blackwell, Oxford},
 year={1981},
 keywords={primary}
 }
 #+END_SRC
-***** On Promising and its justice
+**** On Promising and its justice
 #+BEGIN_SRC bibtex :tangle primary.bib
 @incollection{anscombe1981erp:pj,
 title={On Promising and its Justice, and Whether it Need be Respected \emph{in Foro Interno}},
@@ -113,7 +113,7 @@ year={1969},
 keywords={primary}
 }
 #+END_SRC
-***** Modern Moral Philosophy
+**** Modern Moral Philosophy
 #+BEGIN_SRC bibtex :tangle primary.bib
 @incollection{anscombe1981erp:mmph,
 title={Modern Moral Philosophy},
@@ -123,7 +123,7 @@ year={1958},
 keywords={primary}
 }
 #+END_SRC
-***** Authority in Morals
+**** Authority in Morals
 #+BEGIN_SRC bibtex :tangle primary.bib
 @incollection{anscombe1981erp:am,
 title={Authority in Morals},
@@ -133,7 +133,7 @@ year={1960},
 keywords={primary}
 }
 #+END_SRC
-***** Rules, Rights and Promises
+**** Rules, Rights and Promises
 #+BEGIN_SRC bibtex :tangle primary.bib
 @incollection{anscombe1981erp:rrp,
 title={Rules, Rights and Promises},
@@ -143,7 +143,7 @@ year={1978},
 keywords={primary}
 }
 #+END_SRC
-***** On Transubstantiation
+**** On Transubstantiation
 #+BEGIN_SRC bibtex :tangle primary.bib
 @incollection{anscombe1981erp:ot,
 title={On Transubstantiation},
@@ -153,7 +153,7 @@ year={1974},
 keywords={primary}
 }
 #+END_SRC
-***** Faith
+**** Faith
 #+BEGIN_SRC bibtex :tangle primary.bib
 @incollection{anscombe1981erp:faith,
 title={Faith},
@@ -163,26 +163,26 @@ year={1975},
 keywords={primary}
 }
 #+END_SRC
-*** En Philosophical Encounters
+** En Philosophical Encounters (1991)
 #+BEGIN_SRC bibtex :tangle primary.bib
- @incollection{anscombe1991aqp,
- editor = "H. A. Lewis",
- booktitle = "Peter Geach: Philosophical Encounters",
- title = "On a Queer Pattern of Argument",
- author = "Gertrude Elizabeth Margaret Anscombe",
- publisher = "Springer Science \& Business Media",
- series = "Synthese Library",
- year = "1991",
- location="Dordrecht",
- number = "213",
- pages = "121-135",
- keywords = "bio, anscombe, geach",
- }
+@incollection{anscombe1991aqp,
+editor = "H. A. Lewis",
+booktitle = "Peter Geach: Philosophical Encounters",
+title = "On a Queer Pattern of Argument",
+author = "Gertrude Elizabeth Margaret Anscombe",
+publisher = "Springer Science \& Business Media",
+series = "Synthese Library",
+year = "1991",
+location="Dordrecht",
+number = "213",
+pages = "121-135",
+keywords = "primary",
+}
 #+END_SRC
-*** St. Andrews Studies Collection (2005-2016)
-**** Human Life Action and Ethics
+** St. Andrews Studies Collection (2005-2016)
+*** Human Life Action and Ethics
 #+BEGIN_SRC bibtex :tangle primary.bib
-@collection{anscombe2005ethics,
+@mvcollection{anscombe2005ethics,
 title={Human Life Action and Ethics},
 author={Gertrude Elizabeth Margaret Anscombe},
 editor={Mary Geach and Luke Gormally},
@@ -190,10 +190,10 @@ isbn={9781845400613},
 series={St. Andrews Studies in Philosophy and Public Affairs},
 publisher={Imprint Academic},
 year={2005},
-keywords={Anscombe Elizabeth; Primary Source; St Andrews}
+keywords={primary}
 }
  #+END_SRC
-**** Faith in a Hard Ground
+*** Faith in a Hard Ground
 #+BEGIN_SRC bibtex :tangle primary.bib
 @mvcollection{anscombe2008faith,
 title={Faith in a Hard Ground},
@@ -205,64 +205,69 @@ number={3},
 publisher={Imprint Academic},
 location={Exeter},
 year={2008},
-keywords={Anscombe Elizabeth; Primary Source; St Andrews}
+keywords={primiary}
 }
  #+END_SRC
-***** What is it to Believe Someone
+**** What is it to Believe Someone
 #+BEGIN_SRC bibtex :tangle primary.bib
-  @incollection{anscombe2008faith:tobelieve,
-  title={What Is It to Believe Someone?},
-  crossref={anscombe2008faith},
-  keywords={},
-  abstract={}
-  }
+@incollection{anscombe2008faith:tobelieve,
+title={What Is It to Believe Someone?},
+crossref={anscombe2008faith},
+pages={1-10},
+year={1979},
+keywords={primary},
+}
 #+END_SRC
-***** Twenty Opinions Common among Modern Anglo-American Philosophers
+**** Faith
 #+BEGIN_SRC bibtex :tangle primary.bib
-  @incollection{anscombe2008faith:twenty,
-  title={Twenty Opinions Common among Modern Anglo-American Philosophers},
-  crossref={anscombe2008faith},
-  keywords={},
-  abstract={}
-  }
+@incollection{anscombe2008faith:faith,
+title={Faith},
+crossref={anscombe2008faith},
+year={1975},
+pages={11-19},
+keywords={primary},
+}
 #+END_SRC
-***** Faith
+**** Prophecy and Miracles
 #+BEGIN_SRC bibtex :tangle primary.bib
-  @incollection{anscombe2008faith:faith,
-  title={Faith},
-  crossref={anscombe2008faith},
-  keywords={},
-  abstract={}
-  }
+@incollection{anscombe2008faith:prophandmi,
+title={Prophecy and Miracles},
+crossref={anscombe2008faith},
+pages={20-39},
+origdate={1957},
+keywords={primary},
+}
 #+END_SRC
-***** Hume on Miracles
+**** Hume on Miracles
 #+BEGIN_SRC bibtex :tangle primary.bib
-  @incollection{anscombe2008faith:hummi,
-  title={Hume on Miracles},
-  crossref={anscombe2008faith},
-  keywords={},
-  abstract={}
-  }
+@incollection{anscombe2008faith:hummi,
+title={Hume on Miracles},
+crossref={anscombe2008faith},
+pages={40-48},
+keywords={primary},
+}
 #+END_SRC
-***** Prophecy and Miracles
+**** Paganism, Superstition and Philosophy
 #+BEGIN_SRC bibtex :tangle primary.bib
-  @incollection{anscombe2008faith:prophandmi,
-  title={Prophecy and Miracles},
-  crossref={anscombe2008faith},
-  keywords={},
-  abstract={}
-  }
+@incollection{anscombe2008faith:paganism,
+title={Paganism, Superstition and Philosophy},
+crossref={anscombe2008faith},
+pages={49-60},
+year={1985},
+keywords={primary},
+}
 #+END_SRC
-***** Paganism, Superstition and Philosophy
+**** Twenty Opinions Common among Modern Anglo-American Philosophers
 #+BEGIN_SRC bibtex :tangle primary.bib
-  @incollection{anscombe2008faith:paganism,
-  title={Paganism, Superstition and Philosophy},
-  crossref={anscombe2008faith},
-  keywords={},
-  abstract={}
-  }
+@incollection{anscombe2008faith:twenty,
+title={Twenty Opinions Common among Modern Anglo-American Philosophers},
+crossref={anscombe2008faith},
+pages={66-68},
+year={1987},
+keywords={primary},
+}
 #+END_SRC
-**** From Plato to Wittgenstein
+*** From Plato to Wittgenstein
 #+BEGIN_SRC bibtex :tangle primary.bib
 @mvcollection{anscombe2011plato,
 title={From Plato to Wittgenstein},
@@ -275,192 +280,116 @@ location={Exeter},
 year={2011},
 keywords={Anscombe Elizabeth; Primary Source; St Andrews}
 }
- #+END_SRC
-***** Wittgenstein's 'two cuts' in the history of philosophy
-#+BEGIN_SRC bibtex :tangle primary.bib
- @incollection{anscombe2011plato:twocuts,
- author = "Gertrude Elizabeth Margaret Anscombe",
- booktitle = "From Plato to Wittgenstein",
- title = "Wittgenstein's 'two cuts' in the history of philosophy",
- publisher = "Imprint Academic",
- year = "2011",
- keywords = "primary, anscombe, standrews",
- }
 #+END_SRC
-***** The Simplicity of the Tractatus
+**** The Simplicity of the Tractatus
 #+BEGIN_SRC bibtex :tangle primary.bib
- @incollection{anscombe2011plato:simplicity,
- author = "Gertrude Elizabeth Margaret Anscombe",
- booktitle = "From Plato to Wittgenstein",
- title = "The Simplicity of the Tractatus",
- publisher = "Imprint Academic",
- year = "2011",
- keywords = "primary, anscombe, standrews",
- }
+@incollection{anscombe2011plato:simplicity,
+title={The Simplicity of the Tractatus},
+year={1989},
+pages={171-180},
+keywords={primary},
+}
 #+END_SRC
-***** Wittgenstein on Rules and Private Language
+**** Wittgenstein's 'two cuts' in the history of philosophy
 #+BEGIN_SRC bibtex :tangle primary.bib
- @incollection{anscombe2011plato:rnpl,
- author = "Gertrude Elizabeth Margaret Anscombe",
- booktitle = "From Plato to Wittgenstein",
- title = "Wittgenstein on Rules and Private Language",
- publisher = "Imprint Academic",
- year = "2011",
- keywords = "primary, anscombe, standrews",
- }
+@incollection{anscombe2011plato:twocuts,
+title={Wittgenstein's 'two cuts' in the history of philosophy},
+crossref={anscombe2011plato},
+year={1982},
+pages={181-186},
+keywords={primary},
+}
 #+END_SRC
-***** Truth: Anselm and Wittgenstein
+**** Wittgenstein on Rules and Private Language
 #+BEGIN_SRC bibtex :tangle primary.bib
-  @incollection{anscombe2011plato:truth,
-  title={Truth: Anselm and Wittgenstein},
-  crossref={anscombe2011plato},
-  keywords={Anscombe Elizabeth; Wittgenstein; Logic; Parmenides; Primary Source},
-  abstract={}
-  }
+@incollection{anscombe2011plato:rnpl,
+title={Wittgenstein on Rules and Private Language},
+crossref={anscombe2011plato},
+year={1985},
+pages={231-246},
+keywords={primary},
+}
 #+END_SRC
-***** Hume on causality: introductory
+**** Truth: Anselm and Wittgenstein
 #+BEGIN_SRC bibtex :tangle primary.bib
-  @incollection{anscombe2011plato:humecaus,
-  title={Hume on Causality: Introductory},
-  crossref={anscombe2011plato},
-  keywords={Anscombe Elizabeth; Hume; Belief; Primary Source}
-  }
+@incollection{anscombe2011plato:truth,
+title={Truth: Anselm and Wittgenstein},
+crossref={anscombe2011plato},
+year={1983},
+pages={71-76},
+keywords={primary},
+}
 #+END_SRC
-**** Logic, Truth and Meaning
+**** Hume on causality: introductory
+#+BEGIN_SRC bibtex :tangle primary.bib
+@incollection{anscombe2011plato:humecaus,
+title={Hume on Causality: Introductory},
+crossref={anscombe2011plato},
+pages={95-123},
+keywords={primary}
+}
+#+END_SRC
+*** Logic, Truth and Meaning
 #+BEGIN_SRC bibtex :tangle primary.bib
 @mvcollection{anscombe2015logic,
 title={Logic, Truth and Meaning},
-%author={Gertrude Elizabeth Margaret Anscombe},
+author={Gertrude Elizabeth Margaret Anscombe},
 editor={Mary Geach and Luke Gormally},
 isbn={9781845408800},
 series={St. Andrews Studies in Philosophy and Public Affairs},
 publisher={Imprint Academic},
 year={2015},
-keywords={Anscombe Elizabeth; Primary Source; St Andrews}
+keywords={primary}
 }
  #+END_SRC
-***** Introduction
-***** PART 1: Wittgenstein and the Tractatus
-***** PART 2: Thought and Belief
-****** Belief and Thought
+**** Belief and Thought
 #+BEGIN_SRC bibtex :tangle primary.bib
-  @incollection{anscombe2015logic:bt,
-  title={Belief and Thought},
-  crossref={anscombe2015logic},
-  keywords={},
-  abstract={}
-  }
+@incollection{anscombe2015logic:bt,
+title={Belief and Thought},
+crossref={anscombe2015logic},
+pages={149-181},
+keywords={primary},
+}
 #+END_SRC
-****** Grounds of Belief
+**** Grounds of Belief
 #+BEGIN_SRC bibtex :tangle primary.bib
-  @incollection{anscombe2015logic:grounds,
-  title={Grounds of Belief},
-  crossref={anscombe2015logic},
-  keywords={},
-  abstract={}
-  }
+@incollection{anscombe2015logic:grounds,
+title={Grounds of Belief},
+crossref={anscombe2015logic},
+pages={182-189},
+keywords={primary},
+}
 #+END_SRC
-****** Motives for Beliefs of All Sorts
+**** Motives for Beliefs of All Sorts
 #+BEGIN_SRC bibtex :tangle primary.bib
-  @incollection{anscombe2015logic:motives,
-  title={Motives for Beliefs of All Sorts},
-  crossref={anscombe2015logic},
-  keywords={},
-  abstract={}
-  }
+@incollection{anscombe2015logic:motives,
+title={Motives for Beliefs of All Sorts},
+crossref={anscombe2015logic},
+pages={190-197},
+keywords={primary},
+}
 #+END_SRC
-****** Thought and Existent Objects
+**** PART 3: Meaning, Truth and Existence
+***** Truth, Sense and Assertion
 #+BEGIN_SRC bibtex :tangle primary.bib
-  @incollection{anscombe2015logic:teo,
-  title={Thought and Existent Objects},
-  crossref={anscombe2015logic},
-  keywords={},
-  abstract={}
-  }
+@incollection{anscombe2015logic:tsa,
+title={Truth, Sense and Assertion},
+crossref={anscombe2015logic},
+year={1987},
+pages={264-273},
+keywords={primary},
+}
 #+END_SRC
-****** Knowledge and Essence
+***** On a Queer Pattern of Argument
 #+BEGIN_SRC bibtex :tangle primary.bib
-  @incollection{anscombe2015logic:ke,
-  title={Knowledge and Essence},
-  crossref={anscombe2015logic},
-  keywords={},
-  abstract={}
-  }
-#+END_SRC
-****** Grammar, Structure and Essence
-#+BEGIN_SRC bibtex :tangle primary.bib
-  @incollection{anscombe2015logic:gse,
-  title={Grammar, Structure and Essence},
-  crossref={anscombe2015logic},
-  keywords={},
-  abstract={}
-  }
-#+END_SRC
-***** PART 3: Meaning, Truth and Existence
-****** Private Ostensive Definition
-#+BEGIN_SRC bibtex :tangle primary.bib
-  @incollection{anscombe2015logic:pod,
-  title={Private Ostensive Definition},
-  crossref={anscombe2015logic},
-  keywords={},
-  abstract={}
-  }
-#+END_SRC
-****** Kripke on Rules and Private Language
-#+BEGIN_SRC bibtex :tangle primary.bib
-  @incollection{anscombe2015logic:krpl,
-  title={Kripke on Rules and Private Language},
-  crossref={anscombe2015logic},
-  keywords={},
-  abstract={}
-  }
-#+END_SRC
-****** Truth, Sense and Assertion
-#+BEGIN_SRC bibtex :tangle primary.bib
-  @incollection{anscombe2015logic:tsa,
-  title={Truth, Sense and Assertion},
-  crossref={anscombe2015logic},
-  keywords={},
-  abstract={}
-  }
-#+END_SRC
-****** 'Making True'
-#+BEGIN_SRC bibtex :tangle primary.bib
-  @incollection{anscombe2015logic:mt,
-  title={`Making True'},
-  crossref={anscombe2015logic},
-  keywords={},
-  abstract={}
-  }
-#+END_SRC
-****** Existence and Truth
-#+BEGIN_SRC bibtex :tangle primary.bib
-  @incollection{anscombe2015logic:et,
-  title={Existence and Truth},
-  crossref={anscombe2015logic},
-  keywords={},
-  abstract={}
-  }
-#+END_SRC
-
-****** Existence and the Existential Quantifier
-#+BEGIN_SRC bibtex :tangle primary.bib
-  @incollection{anscombe2015logic:eeq,
-  title={Existence and the Existential Quantifier},
-  crossref={anscombe2015logic},
-  keywords={},
-  abstract={}
-  }
-#+END_SRC
-****** On a Queer Pattern of Argument
-#+BEGIN_SRC bibtex :tangle primary.bib
-  @incollection{anscombe2015logic:qpa,
-  title={On a Queer Pattern of Argument},
-  crossref={anscombe2015logic},
-  pages={299-312},
-  keywords={},
-  abstract={}
-  }
+@incollection{anscombe2015logic:qpa,
+title={On a Queer Pattern of Argument},
+crossref={anscombe2015logic},
+pages={299-312},
+year={1991},
+keywords={},
+abstract={}
+}
 #+END_SRC
 **** The Moral Philosophy of Elizabeth Anscombe
 #+BEGIN_SRC bibtex :tangle primary.bib
