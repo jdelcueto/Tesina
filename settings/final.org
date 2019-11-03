@@ -153,6 +153,8 @@ footnotesep=0.5cm,
 %showframe,
 nohead,
 ]{geometry}
+
+
 #+END_SRC
 *** La tipografía para a todo el texto es “Arial Unicode MS”.
 #+BEGIN_SRC latex :tangle ../tex/style/final.sty
