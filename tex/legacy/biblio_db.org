@@ -1,0 +1,1483 @@
+* Primary Sources
+:DEFINITION:
+A primary source provides direct or firsthand evidence about an event, object, person,
+or work of art.
+
+Primary sources are first-hand, authoritative accounts of an event, topic, or
+historical time period. They are typically produced at the time of the event by a
+person who experienced it, but can also be made later on in the form of personal
+memoirs or oral histories.
+
+Anything that contains original information on a topic is considered a primary source.
+Usually, primary sources are the object discussed in your paper. For instance, if you
+are writing an analysis on Upton Sinclair’s The Jungle, the book would be a primary
+source. But, just because a source is old does not mean it is a primary source.
+:END:
+** By Russell
+*** Introduction to Mathematical Philosophy
+#+BEGIN_SRC bibtex :tangle primary.bib
+@book{russell1919intromathphi,
+author={Bertrand Russell},
+title={Introduction to Mathematical Philosophy},
+publisher={Spokesman},
+location={Nottingham},
+year={2008},
+origdate={1919},
+origlocation={London},
+isbn={9780851247380},
+%note={Reprint, Originally published in London in Allen and Unwin, 1919.},
+keywords={primary, wittgenstein, biography},
+}
+#+END_SRC
+
+** By Wittgenstein
+*** Tractatus Logico-Philosophicus
+#+BEGIN_SRC bibtex :tangle primary.bib
+@book{wittgenstein1922tractatus,
+author = "Ludwig Wittgenstein",
+title = "Tractatus Logico-Philosophicus",
+publisher = "Dover Publications",
+location = "Mineola, New York",
+origdate = "1922",
+year = "1999",
+keywords = "primary, wittgenstein",
+}
+#+END_SRC
+*** Tractatus Español
+#+BEGIN_SRC bibtex :tangle primary.bib
+@book{wittgenstein1922tractatuses,
+author = "Ludwig Wittgenstein",
+title = "Tractatus Logico-Philosophicus",
+publisher = "Alianza Editorial",
+location = "Madrid",
+translator = "Jacobo Muñoz and Isidoro Reguera",
+origdate = "1922",
+year = "1992",
+keywords = "primary, wittgenstein",
+}
+#+END_SRC
+*** Wittgenstein's Journal
+#+BEGIN_SRC bibtex :tangle primary.bib
+@book{wittgenstein1998cnv,
+ author = "Ludwig Wittgenstein",
+ editor = "Georg Henrik von Wright and Heikki Nyman and Alois Pichler",
+ title = "Culture and Value",
+ publisher = "Blackwell Publishing, Oxford",
+ year = "1998",
+ edition = {2 Rev.},
+ keywords = "primary, wittgenstein, biography",
+ }
+#+END_SRC
+*** Wittgenstein's Letters
+#+BEGIN_SRC bibtex :tangle primary.bib
+ @book{wittgenstein2012letters,
+ editor = "Brian McGuinness",
+ title = "Wittgenstein in Cambridge",
+ subtitle = "Letters and Documents 1911-1951",
+ publisher = "Wiley-Blackwell",
+ year = "2012",
+ keywords = "primary, wittgenstein, biography",
+ }
+#+END_SRC
+** By Wittgenstein edited/translated by others
+*** The big typescript : TS 213
+#+BEGIN_SRC bibtex :tangle primary.bib
+ @book{wittgenstein2005bt,
+ editor = "C. Grant Luckhardt and Maximilian A. E. Aue",
+ author = "Ludwig Wittgenstein",
+ title = "The Big Typescript:\,TS 213",
+ publisher = "Wiley-Blackwell",
+ location ="Oxford",
+ year = "2005",
+ keywords = "primary, wittgenstein, biography",
+ }
+#+END_SRC
+** By Wittgenstein translated by G.E.M. Anscombe
+*** Philosophical Investigations (1953)
+#+BEGIN_SRC bibtex :tangle primary.bib
+@book{wittgenstein1953phiinv,
+author={Ludwig Wittgenstein},
+title={Philosophical Investigations},
+publisher={Wiley Blackwell},
+location={Chichester},
+year={2009},
+edition={4},
+origdate={1953},
+isbn={9781405159289},
+keywords = "primary, wittgenstein",
+}
+#+END_SRC
+*** Remarks on the Foundation of Mathematics (1956)
+#+BEGIN_SRC bibtex :tangle primary.bib
+@book{wittgenstein1956remmath,
+author = "Ludwig Wittgenstein",
+title = "Remarks on the Foundations of Mathematics",
+publisher = "Basil Blackwell",
+year = "1956",
+%edition = "4",
+keywords = "primary, wittgenstein",
+}
+#+END_SRC
+*** Observaciones sobre los fundamentos de la matemática
+#+BEGIN_SRC bibtex :tangle primary.bib
+@book{wittgenstein1956remmathes,
+author = "Ludwig Wittgenstein",
+title = "Observaciones sobre los fundamentos de la matemática",
+translator = "Isidoro Reguera",
+publisher = "Alianza Editorial",
+year = "2007",
+%edition = "4",
+keywords = "primary, wittgenstein",
+}
+#+END_SRC
+*** Notebooks 1914-1916 (1961)
+*** Zettel (1967)
+*** Philosophical Remarks
+*** On Certainty (with Denis Paul) (1969)
+#+BEGIN_SRC bibtex :tangle primary.bib
+@book{wittgenstein1969oncert,
+author={Ludwig Wittgenstein},
+title={On Certainty},
+editor={Gertrude Elizabeth Margaret Anscombe and Georg Henrik von Wright},
+publisher={Harper and Row},
+location={New York},
+year={1972},
+edition={1},
+origdate={1969},
+keywords = "primary, wittgenstein",
+}
+#+END_SRC
+*** Sobre la Certeza
+#+BEGIN_SRC bibtex :tangle primary.bib
+@book{wittgenstein1969oncertes,
+author={Ludwig Wittgenstein},
+title={Sobre la Certeza},
+editor={Gertrude Elizabeth Margaret Anscombe and Georg Henrik von Wright},
+translator={Josep Lluis Prades and Vicent Raga},
+publisher={Gedias Editorial},
+location={Barcelona},
+year={1998},
+edition={1},
+keywords = "primary, wittgenstein",
+}
+#+END_SRC
+*** Remarks on the Philosophy of Psicology
+*** Remarks on Colour (1977)
+** By G.E.M. Anscombe
+*** Intention (1957)
+*** An Introduction to Wittgenstein's Tractatus (1959)
+#+BEGIN_SRC bibtex :tangle primary.bib
+@book{anscombe1959iwt,
+author={Gertrude Elizabeth Margaret Anscombe},
+title={An Introduction to Wittgenstein's Tractatus},
+publisher={St. Augustine's Press, Indiana},
+year={1971},
+keywords={primary, anscombe}
+}
+#+END_SRC
+*** Three Philosopers (with Peter Geach) (1961)
+*** Collected Philosophical Papers (1981)
+**** From Parmenides to Wittgenstein
+:worldcat:
+http://www.worldcat.org/oclc/299374922
+:end:
+#+BEGIN_SRC bibtex :tangle primary.bib
+    @mvcollection{anscombe1981parmenides,
+    title={From Parmenides to Wittgenstein},
+    author={Gertrude Elizabeth Margaret Anscombe},
+    isbn={9780631129226},
+    lccn={81004317},
+    series={The collected philosophical papers of G.E.M. Anscombe},
+    volume={1},
+    publisher={Basil Blackwell, Oxford},
+    year={1981},
+    keywords={Anscombe Elizabeth; Wittgenstein; Logic; Parmenides; Primary Source}
+  }
+#+END_SRC
+***** Introduction
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe1981parmenidesintro,
+  booktitle={From Parmenides to Wittgenstein},
+  title={Introduction},
+  author={Gertrude Elizabeth Margaret Anscombe},
+  series={The collected philosophical papers of G.E.M. Anscombe},
+  volume={1},
+  publisher={Basil Blackwell, Oxford},
+  year={1981},
+  keywords={Anscombe Elizabeth; Wittgenstein; Logic; Parmenides; Primary Source},
+  abstract={}
+  }
+#+END_SRC
+***** Parmenides, Mystery and Contradiction
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe1981parmenides:pmc,
+  booktitle={From Parmenides to Wittgenstein},
+  title={Parmenides, Mystery and Contradiction},
+  author={Gertrude Elizabeth Margaret Anscombe},
+  series={The collected philosophical papers of G.E.M. Anscombe},
+  volume={1},
+  publisher={Basil Blackwell, Oxford},
+  year={1981},
+  keywords={Anscombe Elizabeth; Wittgenstein; Logic; Parmenides; Primary Source},
+  abstract={}
+  }
+#+END_SRC
+***** The Early Theory of Forms
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe1981parmenidesetof,
+  booktitle={From Parmenides to Wittgenstein},
+  title={The Early Theory of Forms},
+  author={Gertrude Elizabeth Margaret Anscombe},
+  series={The collected philosophical papers of G.E.M. Anscombe},
+  volume={1},
+  publisher={Basil Blackwell, Oxford},
+  year={1981},
+  keywords={Anscombe Elizabeth; Wittgenstein; Logic; Parmenides; Primary Source},
+  abstract={}
+  }
+#+END_SRC
+***** Hume and Julius Caesar
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe1981parmenides:humeandjulius,
+  title={Hume and Julius Caesar},
+  crossref={anscombe1981parmenides},
+  keywords={Anscombe Elizabeth; Wittgenstein; Logic; Parmenides; Primary Source},
+  abstract={}
+  }
+#+END_SRC
+***** The Question of Linguistic Idealism
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe1981parmenides:qli,
+  title={The Question of Linguistic Idealism},
+  crossref={anscombe1981parmenides},
+  keywords={Anscombe Elizabeth; Wittgenstein; Logic; Parmenides; Primary Source},
+  abstract={}
+  }
+#+END_SRC
+**** Metaphysics and the Philosophy of the Mind
+:worldcat:
+ http://www.worldcat.org/oclc/10430565
+:end:
+#+BEGIN_SRC bibtex :tangle primary.bib
+   @collection{anscombe1981metaphysics,
+   title={Metaphysics and the Philosophy of the Mind},
+   author={Gertrude Elizabeth Margaret Anscombe},
+   isbn={9780816610808},
+   series={The collected philosophical papers of G.E.M. Anscombe},
+   volume={2},
+   publisher={Basil Blackwell, Oxford},
+   year={1981},
+   keywords={Anscombe Elizabeth; Perception; Sensation; Primary Source}
+  }
+#+END_SRC
+***** Introduction
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe1981metaphysics:intro,
+  title={Introduction},
+  crossref={anscombe1981metaphysics},
+  keywords={Anscombe Elizabeth; Wittgenstein; Logic; Parmenides; Primary Source},
+  abstract={}
+  }
+#+END_SRC
+***** The Intetionality of Sensation
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe1981metaphysics:intsens,
+  title={The Intetionality of Sensation: A Grammatical Feature},
+  crossref={anscombe1981metaphysics},
+  pages={3-20},
+  keywords={Anscombe Elizabeth; Wittgenstein; Logic; Parmenides; Primary Source},
+  abstract={}
+  }
+#+END_SRC
+***** The First Person
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe1981metaphysics:1stperson,
+  title={The First Person},
+  crossref={anscombe1981metaphysics},
+  pages={21-36},
+  keywords={Anscombe Elizabeth; Wittgenstein; Logic; Parmenides; Primary Source},
+  abstract={}
+  }
+#+END_SRC
+**** Ethics, Religion and Politics
+:worldcat:
+http://www.worldcat.org/oclc/873936079
+:end:
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @mvcollection{anscombe1981erp,
+  title={Ethics, Religion and Politics},
+  author={Gertrude Elizabeth Margaret Anscombe},
+  editor={Gertrude Elizabeth Margaret Anscombe},
+  isbn={9780631129226},
+  lccn={81004317},
+  series={The collected philosophical papers of G.E.M. Anscombe},
+  volume={3},
+  publisher={Basil Blackwell, Oxford},
+  year={1981},
+  keywords={Anscombe Elizabeth; Ethics; Religion; Politics; Primary Source}
+  }
+#+END_SRC
+***** Modern Moral Philosophy
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe1981erp:mmph,
+  title={Modern Moral Philosophy},
+  crossref={anscombe1981erp},
+  pages={26-42},
+  keywords={Anscombe; Transusbstantiation; Religion; Primary Source}
+  }
+#+END_SRC
+***** On Transubstantiation
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe1981erp:ot,
+  title={On Transubstantiation},
+  crossref={anscombe1981erp},
+  pages={107-112},
+  keywords={Anscombe; Transusbstantiation; Religion; Primary Source}
+  }
+#+END_SRC
+***** Faith
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe1981erp:faith,
+  title={Faith},
+  crossref={anscombe1981erp},
+  pages={113-120},
+  keywords={Anscombe; Faith; Religion; Primary Source}
+  }
+#+END_SRC
+***** On Promising and its justice
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe1981erp:pj,
+  title={On Promising and its Justice},
+  crossref={anscombe1981erp},
+  pages={10--21},
+  keywords={Anscombe; Faith; Religion; Primary Source}
+  }
+#+END_SRC
+***** Rules, Rights and Promises
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe1981erp:rrp,
+  title={Rules, Rights and Promises},
+  crossref={anscombe1981erp},
+  pages={97--103},
+  keywords={Anscombe; Faith; Religion; Primary Source}
+  }
+#+END_SRC
+***** Authority in Morals
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe1981erp:am,
+  title={Authority in Morals},
+  crossref={anscombe1981erp},
+  pages={43--50},
+  keywords={Anscombe; Faith; Religion; Primary Source}
+  }
+#+END_SRC
+*** En Philosophical Encounters
+#+BEGIN_SRC bibtex :tangle primary.bib
+ @incollection{anscombe1991aqp,
+ editor = "H. A. Lewis",
+ booktitle = "Peter Geach: Philosophical Encounters",
+ title = "On a Queer Pattern of Argument",
+ author = "Gertrude Elizabeth Margaret Anscombe",
+ publisher = "Springer Science \& Business Media",
+ series = "Synthese Library",
+ year = "1991",
+ location="Dordrecht",
+ number = "213",
+ pages = "121-135",
+ keywords = "bio, anscombe, geach",
+ }
+#+END_SRC
+*** St. Andrews Studies Collection (2005-2016)
+**** Human Life Action and Ethics
+#+BEGIN_SRC bibtex :tangle primary.bib
+@mvcollection{anscombe2005ethics,
+title={Human Life Action and Ethics},
+author={Gertrude Elizabeth Margaret Anscombe},
+editor={Mary Geach and Luke Gormally},
+isbn={9781845400613},
+series={St. Andrews Studies in Philosophy and Public Affairs},
+publisher={Imprint Academic},
+year={2005},
+keywords={Anscombe Elizabeth; Primary Source; St Andrews}
+}
+ #+END_SRC
+**** Faith in a Hard Ground
+#+BEGIN_SRC bibtex :tangle primary.bib
+@mvcollection{anscombe2008faith,
+title={Faith in a Hard Ground},
+author={Gertrude Elizabeth Margaret Anscombe},
+editor={Mary Geach and Luke Gormally},
+isbn={9781845401214},
+series={St. Andrews Studies in Philosophy and Public Affairs},
+number={3},
+publisher={Imprint Academic},
+location={Exeter},
+year={2008},
+keywords={Anscombe Elizabeth; Primary Source; St Andrews}
+}
+ #+END_SRC
+***** What is it to Believe Someone
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe2008faith:tobelieve,
+  title={What Is It to Believe Someone?},
+  crossref={anscombe2008faith},
+  keywords={},
+  abstract={}
+  }
+#+END_SRC
+***** Twenty Opinions Common among Modern Anglo-American Philosophers
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe2008faith:twenty,
+  title={Twenty Opinions Common among Modern Anglo-American Philosophers},
+  crossref={anscombe2008faith},
+  keywords={},
+  abstract={}
+  }
+#+END_SRC
+***** Faith
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe2008faith:faith,
+  title={Faith},
+  crossref={anscombe2008faith},
+  keywords={},
+  abstract={}
+  }
+#+END_SRC
+***** Hume on Miracles
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe2008faith:hummi,
+  title={Hume on Miracles},
+  crossref={anscombe2008faith},
+  keywords={},
+  abstract={}
+  }
+#+END_SRC
+***** Prophecy and Miracles
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe2008faith:prophandmi,
+  title={Prophecy and Miracles},
+  crossref={anscombe2008faith},
+  keywords={},
+  abstract={}
+  }
+#+END_SRC
+***** Paganism, Superstition and Philosophy
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe2008faith:paganism,
+  title={Paganism, Superstition and Philosophy},
+  crossref={anscombe2008faith},
+  keywords={},
+  abstract={}
+  }
+#+END_SRC
+**** From Plato to Wittgenstein
+#+BEGIN_SRC bibtex :tangle primary.bib
+@mvcollection{anscombe2011plato,
+title={From Plato to Wittgenstein},
+author={Gertrude Elizabeth Margaret Anscombe},
+editor={Mary Geach and Luke Gormally},
+isbn={9781845402334},
+series={St. Andrews Studies in Philosophy and Public Affairs},
+publisher={Imprint Academic},
+location={Exeter},
+year={2011},
+keywords={Anscombe Elizabeth; Primary Source; St Andrews}
+}
+ #+END_SRC
+***** Wittgenstein's 'two cuts' in the history of philosophy
+#+BEGIN_SRC bibtex :tangle primary.bib
+ @incollection{anscombe2011plato:twocuts,
+ author = "Gertrude Elizabeth Margaret Anscombe",
+ booktitle = "From Plato to Wittgenstein",
+ title = "Wittgenstein's 'two cuts' in the history of philosophy",
+ publisher = "Imprint Academic",
+ year = "2011",
+ keywords = "primary, anscombe, standrews",
+ }
+#+END_SRC
+***** The Simplicity of the Tractatus
+#+BEGIN_SRC bibtex :tangle primary.bib
+ @incollection{anscombe2011plato:simplicity,
+ author = "Gertrude Elizabeth Margaret Anscombe",
+ booktitle = "From Plato to Wittgenstein",
+ title = "The Simplicity of the Tractatus",
+ publisher = "Imprint Academic",
+ year = "2011",
+ keywords = "primary, anscombe, standrews",
+ }
+#+END_SRC
+***** Wittgenstein on Rules and Private Language
+#+BEGIN_SRC bibtex :tangle primary.bib
+ @incollection{anscombe2011plato:rnpl,
+ author = "Gertrude Elizabeth Margaret Anscombe",
+ booktitle = "From Plato to Wittgenstein",
+ title = "Wittgenstein on Rules and Private Language",
+ publisher = "Imprint Academic",
+ year = "2011",
+ keywords = "primary, anscombe, standrews",
+ }
+#+END_SRC
+***** Truth: Anselm and Wittgenstein
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe2011plato:truth,
+  title={Truth: Anselm and Wittgenstein},
+  crossref={anscombe2011plato},
+  keywords={Anscombe Elizabeth; Wittgenstein; Logic; Parmenides; Primary Source},
+  abstract={}
+  }
+#+END_SRC
+***** Hume on causality: introductory
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe2011plato:humecaus,
+  title={Hume on Causality: Introductory},
+  crossref={anscombe2011plato},
+  keywords={Anscombe Elizabeth; Hume; Belief; Primary Source}
+  }
+#+END_SRC
+**** Logic, Truth and Meaning
+#+BEGIN_SRC bibtex :tangle primary.bib
+@mvcollection{anscombe2015logic,
+title={Logic, Truth and Meaning},
+%author={Gertrude Elizabeth Margaret Anscombe},
+editor={Mary Geach and Luke Gormally},
+isbn={9781845408800},
+series={St. Andrews Studies in Philosophy and Public Affairs},
+publisher={Imprint Academic},
+year={2015},
+keywords={Anscombe Elizabeth; Primary Source; St Andrews}
+}
+ #+END_SRC
+***** Introduction
+***** PART 1: Wittgenstein and the Tractatus
+***** PART 2: Thought and Belief
+****** Belief and Thought
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe2015logic:bt,
+  title={Belief and Thought},
+  crossref={anscombe2015logic},
+  keywords={},
+  abstract={}
+  }
+#+END_SRC
+****** Grounds of Belief
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe2015logic:grounds,
+  title={Grounds of Belief},
+  crossref={anscombe2015logic},
+  keywords={},
+  abstract={}
+  }
+#+END_SRC
+****** Motives for Beliefs of All Sorts
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe2015logic:motives,
+  title={Motives for Beliefs of All Sorts},
+  crossref={anscombe2015logic},
+  keywords={},
+  abstract={}
+  }
+#+END_SRC
+****** Thought and Existent Objects
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe2015logic:teo,
+  title={Thought and Existent Objects},
+  crossref={anscombe2015logic},
+  keywords={},
+  abstract={}
+  }
+#+END_SRC
+****** Knowledge and Essence
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe2015logic:ke,
+  title={Knowledge and Essence},
+  crossref={anscombe2015logic},
+  keywords={},
+  abstract={}
+  }
+#+END_SRC
+****** Grammar, Structure and Essence
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe2015logic:gse,
+  title={Grammar, Structure and Essence},
+  crossref={anscombe2015logic},
+  keywords={},
+  abstract={}
+  }
+#+END_SRC
+***** PART 3: Meaning, Truth and Existence
+****** Private Ostensive Definition
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe2015logic:pod,
+  title={Private Ostensive Definition},
+  crossref={anscombe2015logic},
+  keywords={},
+  abstract={}
+  }
+#+END_SRC
+****** Kripke on Rules and Private Language
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe2015logic:krpl,
+  title={Kripke on Rules and Private Language},
+  crossref={anscombe2015logic},
+  keywords={},
+  abstract={}
+  }
+#+END_SRC
+****** Truth, Sense and Assertion
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe2015logic:tsa,
+  title={Truth, Sense and Assertion},
+  crossref={anscombe2015logic},
+  keywords={},
+  abstract={}
+  }
+#+END_SRC
+****** 'Making True'
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe2015logic:mt,
+  title={`Making True'},
+  crossref={anscombe2015logic},
+  keywords={},
+  abstract={}
+  }
+#+END_SRC
+****** Existence and Truth
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe2015logic:et,
+  title={Existence and Truth},
+  crossref={anscombe2015logic},
+  keywords={},
+  abstract={}
+  }
+#+END_SRC
+
+****** Existence and the Existential Quantifier
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe2015logic:eeq,
+  title={Existence and the Existential Quantifier},
+  crossref={anscombe2015logic},
+  keywords={},
+  abstract={}
+  }
+#+END_SRC
+****** On a Queer Pattern of Argument
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anscombe2015logic:qpa,
+  title={On a Queer Pattern of Argument},
+  crossref={anscombe2015logic},
+  pages={299-312},
+  keywords={},
+  abstract={}
+  }
+#+END_SRC
+**** The Moral Philosophy of Elizabeth Anscombe
+#+BEGIN_SRC bibtex :tangle primary.bib
+@mvcollection{anscombe2016moral,
+title={The Moral Philosophy of Elizabeth Anscombe},
+author={Gertrude Elizabeth Margaret Anscombe},
+editora={Mary Geach},
+editorb={Luke Gormally},
+isbn={9781845408961},
+series={St. Andrews Studies in Philosophy and Public Affairs},
+publisher={Imprint Academic},
+year={2011},
+keywords={Anscombe Elizabeth; Primary Source; St Andrews}
+}
+ #+END_SRC
+*** La Filosofía Analítica y la Espiritualidad del Hombre
+#+BEGIN_SRC bibtex :tangle primary.bib
+ @book{torralbaynubiola2005fayeh,
+ editor = {J.~M.~Torralba and J.~Nubiola},
+ title = {La Filosofía Analítica y la Espiritualidad del Hombre},
+ publisher = {Ediciones Universidad de Navarra},
+ location= {S.A., Pamplona},
+ year = {2005},
+ keywords = {primary, anscombe}
+ }
+#+END_SRC
+**** Sobre la transubstanciación
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @inbook{torralbaynubiola2005fayeh:ot,
+  title={Sobre la transubstanciación},
+  crossref={torralbaynubiola2005fayeh},
+  pages={85-94},
+  keywords={Anscombe Elizabeth; Wittgenstein; Transusbstantiation; Religion; Primary Source},
+  abstract={}
+  }
+#+END_SRC
+** By Peter Geach
+*** A Philosophical Autobiography
+#+BEGIN_SRC bibtex :tangle primary.bib
+ @incollection{geach1991philaut,
+ editor = "H. A. Lewis",
+ booktitle = "Peter Geach: Philosophical Encounters",
+ title = "A Philosophical Autobiography",
+ author = "Peter Geach",
+ publisher = "Springer Science \& Business Media",
+ series = "Synthese Library",
+ year = "1991",
+ location="Dordrecht",
+ number = "213",
+ pages = "1-25",
+ keywords = "bio, anscombe, geach",
+ }
+#+END_SRC
+** By Anselm
+#+BEGIN_SRC bibtex :tangle primary.bib
+@mvcollection{anselm1952obras,
+title={Obras Completas de San Anselmo},
+author={San Anselmo},
+editor={P.~Julián Alameda, O.S.B.},
+%isbn={},
+series={BAC},
+volume={82},
+part={I},
+publisher={BAC},
+location={Madrid},
+year={1952},
+keywords={Anscombe Elizabeth; Primary Source; St Andrews}
+}
+ #+END_SRC
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{anselm1952obras:deveritate,
+  title={De la Verdad},
+  pages={487-535},
+  crossref={anselm1952obras},
+  keywords={},
+  abstract={}
+  }
+#+END_SRC
+* Secondary Sources
+:DEFINITION:
+Secondary sources describe, discuss, interpret, comment upon, analyze, evaluate,
+summarize, and process primary sources.
+
+Secondary sources interpret or critique primary sources. They often include an analysis
+of the event that was discussed or featured in the primary source.
+
+They are second-hand accounts that interpret or draw conclusions from one or more
+primary sources.
+:END:
+** José María Torralba
+*** Acción intencional y razonamiento práctico según G.E.M. Anscombe
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@book{torralba2005accion,
+author = "José María Torralba",
+title = "Acción Intencional y Razonamiento Práctico Según G.E.M. Anscombe",
+publisher = "Ediciones Universidad de Navarra",
+location = "S.A., Pamplona",
+year = "2005",
+series = "Colección Filosófica",
+volume = "189",
+keywords = "anscombe, torralba",
+}
+#+END_SRC
+** Roger Teichmann
+*** The Philosophy of Elizabeth Anscombe
+#+BEGIN_SRC bibtex :tangle secondary.bib
+%Books on Anscombe
+@book{teichmann2008ans,
+author = "Roger Teichmann",
+title = "The Philosophy of Elizabeth Anscombe",
+publisher = "Oxford University Press",
+year = "2008",
+keywords = "primary, anscombe, teichmann",
+}
+#+END_SRC
+** Elisa Grimi
+#+BEGIN_SRC bibtex :tangle secondary.bib
+%Books on Anscombe
+@book{grimi2014dl,
+author = "Elisa Grimi",
+title = "G.E.M. Anscombe",
+subtitle = "The Dragon Lady",
+publisher = "Cantagalli",
+location = "Siena",
+year = "2014",
+keywords = "primary, anscombe, grimi",
+}
+#+END_SRC
+** Testimonios Biográficos Anscombe y Geach
+*** Biographical Memoirs of Fellows of The British Academy I
+:worldcat:
+http://www.worldcat.org/oclc/61430741
+:end:
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@incollection{teichman2002fellows,
+author = "Jenny Teichman",
+editor = "F. M. L. Thompson",
+booktitle = "Biographical Memoirs of Fellows I",
+title = "Gertrude Elizabeth Margaret Anscombe, 1919-2001",
+publisher = "Oxford University Press, Oxford",
+year = "2002",
+series= "Proceedings of the British Academy",
+volume = "115",
+isbn="0197262783",
+keywords = "bio, anscombe",
+}
+#+END_SRC
+*** Biographical Memoirs of Fellows of The British Academy XIV
+ url : https://www.britac.ac.uk/sites/default/files/09\%20Geach\%201820.pdf
+#+BEGIN_SRC bibtex :tangle secondary.bib
+ @incollection{kenny2016fellows,
+ author = "Anthony Kenny",
+ booktitle = "Biographical Memoirs of Fellows XIV",
+ title = "Peter Thomas Geach 1916–2013",
+ publisher = "Oxford University Press, Oxford",
+ year = "2016",
+ series= "Biographical Memoirs of Fellows",
+ volume = "14",
+ isbn = "9780197265918",
+ keywords = "bio, anscombe, geach",
+ }
+#+END_SRC
+** Biografías de Wittgenstein
+*** Ray Monk
+#+BEGIN_SRC bibtex :tangle secondary.bib
+  @book{monk1991duty,
+  author = "Ray Monk",
+  title = "Ludwig Wittgenstein: the duty of genius",
+  publisher = "Vintage, London",
+  year = "1991",
+  keywords = "primary, wittgenstein, biography",
+  }
+#+END_SRC
+*** Brian McGuinness
+#+BEGIN_SRC bibtex :tangle secondary.bib
+  @book{mcguinness1988alife,
+  author = "Brian McGuinness",
+  title = "Wittgenstein: A Life",
+  subtitle = "Young Ludwig 1889-1921",
+  publisher = "University of California Press",
+  year = "1988",
+  keywords = "primary, wittgenstein, biography",
+  }
+#+END_SRC
+** Accounts of Wittgenstein's Lectures
+*** Public and Private Occasions
+#+BEGIN_SRC bibtex :tangle secondary.bib
+ @book{KlaggeNordman2003pubnpriv,
+ editor = {James C. Klagge and Alfred Nordman},
+ title = {Ludwig Wittgenstein},
+ subtitle = {Public and Private Occasions},
+ publisher = {Rowman \& Littlefield Publishers Inc.},
+location = {Maryland},
+ year = {2003},
+ keywords = {secondary, wittgenstein, biography}
+ }
+#+END_SRC
+*** Wittgenstein's Lectures
+#+BEGIN_SRC bibtex :tangle secondary.bib
+ @book{ambrose2001lectures,
+ editor = {Alice Ambrose},
+ title = {Wittgenstein's Lectures},
+ subtitle = {Cambridge, 1932--1935},
+ publisher = {Prometheus Books},
+location = {New York},
+ year = {2001},
+ keywords = {secondary, wittgenstein, biography}
+ }
+#+END_SRC
+** Artículos
+*** The Tablet, wiseman lectures
+#+BEGIN_SRC bibtex :tangle secondary.bib
+ @article{wisemanlects,
+     author  = "",
+     title   = "From Our Notebook",
+     day     = "13",
+     month   = "11",
+     year    = "1971",
+     journal = "Tablet",
+     volume  = "225",
+     number  = "6858"
+ }
+#+END_SRC
+*** Cartas de Anscombe
+#+BEGIN_SRC bibtex :tangle secondary.bib
+  @article{NWR,
+      author = {Christian Eric Erbacher and Sophia Krebs},
+      title = {The First Nine Months of Editing Wittgenstein - Letters from G.E.M. Anscombe and Rush Rhees to G.H. von Wright},
+      journal = {Nordic Wittgenstein Review},
+      year = {2015},
+      keywords = {Wittgenstein Ludwig; Wittgenstein's Nachlass; scholarly editing; history of analytical philosophy; Philosophical Investigations; Anscombe Elizabeth; Rhees Rush; Wright G.H. von},
+      abstract = {The National Library of Finland (NLF) and the Von Wright and Wittgenstein Archives at the University of Helsinki (WWA) keep the collected correspondence of Georg Henrik von Wright, Wittgenstein’s friend and successor at Cambridge and one of the three literary executors of Wittgenstein’s Nachlass. Among von Wright’s correspondence partners, Elizabeth Anscombe and Rush Rhees are of special interest to Wittgenstein scholars as the two other trustees of the Wittgenstein papers. Thus, von Wright’s collections held in Finland promise to shed light on the context of decades of editorial work that made Wittgenstein’s later philosophy available to all interested readers. In this text, we present the letters which von Wright received from Anscombe and Rhees during the first nine months after Wittgenstein’s death. This correspondence provides a vivid picture of the literary executors as persons and of their developing relationships. The presented letters are beautiful examples of what the correspondence as a whole has to offer; it depicts – besides facts of editing – the story of three philosophers, whose conversing voices unfold the human aspects of inheriting Wittgenstein’s Nachlass. Their story does not only deal with editing the papers of an eminent philosopher, but with the attempt to do justice to the man they knew, to his philosophy and to his wishes for publication.},
+      issn = {2242-248X},
+      pages = {195--231},
+      url = {https://www.nordicwittgensteinreview.com/article/view/3288}
+  }
+#+END_SRC
+** Exegesis de Investigaciones Filosóficas
+*** Understanding and Meaning I
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@mvbook{bakerhacker2005understanding,
+title={Wittgenstein: Understanding and Meaning},
+subtitle={Part I: Essays},
+author={Gordon Park Baker and Peter Michael Stephan Hacker},
+isbn={1405101768},
+series={An Analytical Commentary on the Philosophical Investigations},
+volume={1},
+part={1},
+edition={2},
+publisher={Wiley Blackwell},
+year={2014},
+keywords={}
+}
+ #+END_SRC
+*** Understanding and Meaning II 1-184
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@mvbook{bakerhacker2009understanding,
+title={Wittgenstein: Understanding and Meaning},
+subtitle={Part II: Exegesis \S\S1--184},
+author={Gordon Park Baker and Peter Michael Stephan Hacker},
+isbn={9781405199254},
+series={An Analytical Commentary on the Philosophical Investigations},
+volume={1},
+part={2},
+edition={2},
+publisher={Wiley Blackwell},
+year={2009},
+keywords={}
+}
+#+END_SRC
+*** Rules, Grammar and Necessity 185-242
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@mvbook{bakerhacker2014rules,
+title={Wittgenstein: Rules, Grammar and Necessity},
+subtitle={Essays and Exegesis \S\S185--242},
+author={Gordon Park Baker and Peter Michael Stephan Hacker},
+isbn={9781118854594},
+series={An Analytical Commentary on the Philosophical Investigations},
+volume={2},
+edition={2},
+publisher={Wiley Blackwell},
+year={2014},
+keywords={}
+}
+#+END_SRC
+*** Mind and Will
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@mvbook{hacker2000mind,
+title={Wittgenstein: Mind and Will},
+subtitle={Exegesis \S\S428--693},
+author={Peter Michael Stephan Hacker},
+series={An Analytical Commentary on the Philosophical Investigations},
+volume={4},
+part={2},
+publisher={Wiley Blackwell},
+year={2000},
+keywords={}
+}
+ #+END_SRC
+** Wittgenstein at Work
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@collection{ammereller2004wittgenstein,
+title={Wittgenstein at Work: Method in the Philosophical Investigations},
+author={Erich Ammereller and Eugen Fischer},
+isbn={9781134374953},
+year={2004},
+publisher={Taylor \& Francis},
+location={New York}
+}
+#+END_SRC
+
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@incollection{diamond2004crisscross,
+title={Criss-cross Philosophy},
+author={Cora Diamond},
+pages={201-220},
+crossref={ammereller2004wittgenstein},
+}
+#+END_SRC
+** How to read Wittgenstein
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@collection{monk2005howto,
+  title={How to Read Wittgenstein},
+  author={Ray Monk},
+  year={2005},
+  publisher={W. W. Norton \& Company},
+  location={New York}
+}
+#+END_SRC
+** Routledge Guidebook
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@collection{mcginn2013guide,
+  title={The Routledge Guidebook to Wittgenstein's Philosophical Investigations},
+  author={Marie McGinn},
+  year={2013},
+  publisher={Routledge},
+  location={New York}
+}
+#+END_SRC
+** Papa Francisco
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@online{francisco2014angelus,
+author    = "Francisco",
+title     = "Angelus",
+date      = "2014-01-26",
+url       = "http://w2.vatican.va/content/francesco/es/angelus/2014/documents/papa-francesco_angelus_20140126.html",
+urldate   = "2019-03-19",
+keywords  = "francisco, angelus"
+}
+#+END_SRC
+** Papa Benedicto
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@online{benedicto2008angelus,
+author    = "Benedicto~XVI",
+title     = "Angelus",
+date      = "2008-01-27",
+url       = "http://w2.vatican.va/content/benedict-xvi/es/angelus/2008/documents/hf_ben-xvi_ang_20080127.html",
+urldate   = "2019-03-19",
+keywords  = "benedictoo, angelus"
+}
+#+END_SRC
+** Javier Prades
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@book{prades2015testimonio,
+author = "Javier María Prades",
+title = "Dar Testimonio",
+subtitle = "La Presencia de los Cristianos en la Sociedad Plural",
+publisher = "BAC",
+location = "Madrid",
+year = "2015",
+keywords = "prades, testimonio",
+}
+#+END_SRC
+** René Latourelle
+*** Voz Testimonio en Diccionario Teología Fundamental
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@incollection{latourelle2000testimonio,
+editor    = "René Latourelle and Rino Fisichella and Salvador Pié I Ninot",
+booktitle = "Diccionario de Teología Fundamental",
+publisher = "San Pablo, Madrid",
+author    = "René Latourelle",
+title     = "Testimonio",
+%volume   = "",
+%number   = "",
+%series   = "",
+%address  = "",
+edition  = "2",
+year      = "2000",
+pages     = "1523--1542",
+%month    = "",
+%note     = "",
+keywords ="testimonio, latourelle",
+}
+#+END_SRC
+
+*** Evangelisation
+  #+BEGIN_SRC bibtex :tangle secondary.bib
+@mvcollection{dhavamony1975evangelisation,
+title={Evangelisation},
+editor={Mariasusai Dhavamony~S.J.},
+isbn={9788876524769},
+series={Documenta Missionalia},
+volume={9},
+url={https://books.google.es/books?id=XPB9U31X7AkC},
+year={1975},
+publisher={Università Gregoriana Editrice},
+location={Roma},
+}
+#+END_SRC
+*** Evangelisation et temoignage
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@incollection{latourelle1975et,
+title={Évangelisation et témoignage},
+author={René Latourelle},
+crossref={dhavamony1975evangelisation},
+pages={77--110},
+keywords={latourelle; secondary Source},
+abstract={}
+}
+#+END_SRC
+*** Teología de la Revelación
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@book{latourelle1999rev,
+author = "Rene Latourelle",
+title = "Teología de la Revelación",
+publisher = "Sígueme",
+location = "Salamanca",
+edition = "10",
+year = "1999",
+keywords = "latourelle, testimonio",
+}
+#+END_SRC
+** Salvador Pié-Ninot
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@book{ninot2009tf,
+author = "Salvador Pié-Ninot",
+title = "La Teología Fundamental",
+subtitle = "Dar Razón de la Esperanza",
+publisher = "Secretariado Trinitario",
+location = "Salamanca",
+year = "2009",
+edition = "7",
+keywords = "ninot, teología fundamental",
+}
+#+END_SRC
+** William James
+#+BEGIN_SRC bibtex :tangle secondary.bib
+ @book{james2002variedades,
+ translator = "J. F. Yvars",
+ title = "Las Variedades de la Experiencia Religiosa",
+ subtitle = "Estudio de la Naturaleza Humana",
+ publisher = "Peninsula",
+ location = "Barcelona",
+ edition = "1",
+ year = "2002",
+ keywords = "secondary, james, psychology",
+ }
+#+END_SRC
+** Ratzinger
+#+BEGIN_SRC bibtex :tangle secondary.bib
+ @book{ratzinger2005teoria,
+ translator = "Marciano Villanueva",
+ author = "Joseph Ratzinger",
+ title = "Teoría de los Principios Teológicos",
+ subtitle = "Materiales para una teología fundamental",
+ publisher = "Herder",
+ location = "Barcelona",
+ edition = "1",
+ year = "2005",
+ keywords = "secondary, ratzinger, fundamental",
+ }
+#+END_SRC
+** Jesús de Nazaret
+#+BEGIN_SRC bibtex :tangle secondary.bib
+ @mvbook{ratzinger2007jdenaz,
+ translator = "Carmen Bas Álvarez",
+ author = "Joseph Ratzinger",
+ title = "Jesús de Nazaret",
+ subtitle = "Desde el Bautismo a la Transfiguración",
+% part = "1",
+ publisher = "Planeta",
+ location = "Colombia",
+ edition = "1",
+ year = "2005",
+ keywords = "secondary, ratzinger, cristología",
+ }
+#+END_SRC
+** Pablo Dominguez
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@book{dominguez2009at,
+author = "Pablo Domínguez Prieto",
+title = "La Analogía Teológica",
+subtitle = "Su posibilidad metalógica y sus consecuencias físicas, metafísicas y antropológicas",
+publisher = "Publicaciones San Dámaso",
+location = "Madrid",
+year = "2009",
+keywords = "dominguez, analogía",
+}
+#+END_SRC
+** Jennifer Lackey and Ernest Sosa
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@book{lackeysosa2006eptest,
+editor = "Jennifer Lackey and Ernest Sosa",
+title = "The Epistemology of Testimony",
+publisher = "Oxford University Press",
+location = "New York",
+year = "2006",
+keywords = "lackey, epistemology, testimony",
+}
+#+END_SRC
+** Paul K. Moser
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@book{moser2002ep,
+editor = "Paul K. Moser",
+title = "The Oxford Handbook of Epistemology",
+publisher = "Oxford University Press",
+location = "New York",
+year = "2002",
+keywords = "moser, epistemology",
+}
+#+END_SRC
+** Coady
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@book{coady1992test,
+author = "C.A.J. Coady",
+title = "Testimony",
+subtitle ="A Philosophical Study",
+publisher = "Oxford University Press",
+location = "New York",
+year = "1992",
+keywords = "coady, testimony",
+}
+#+END_SRC
+** David Hume
+*** An Enquiry Concerning Human Understanding
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@book{hume1777enquiry,
+author = "David Hume",
+editor = "Eric Steinberg",
+title = "An Enquiry Concerning Human Understanding",
+subtitle ="A Philosophical Study",
+publisher = "Hackett Publishing Company",
+location = "Indianapolis",
+edition = "2",
+year = "1993",
+keywords = "hume, philosophy",
+}
+#+END_SRC
+*** An Enquiry Concerning Human Understanding
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@book{hume1777enquiryes,
+author = "David Hume",
+translator = "Jaime de Salas Ortueta",
+title = "Investigación sobre el conocimiento humano",
+publisher = "Alianza Editorial",
+location = "Madrid",
+edition = "1",
+year = "1988",
+keywords = "hume, philosophy",
+}
+#+END_SRC
+*** A Treatise of Human Nature
+Amazon: https://www.amazon.com/dp/0198751729/ref=rdr_ext_tmb
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@book{hume1740treatise,
+author = "David Hume",
+editor = "Mary J Norton and David Fate Norton",
+title = "A Treatise of Human Nature",
+publisher = "Oxford University Press",
+location = "Oxford",
+year = "2000",
+keywords = "hume, philosophy"
+}
+#+END_SRC
+** Gotthold Ephraim Lessing
+*** Philosophical and Theological Writings
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@collection{lessing2005writings,
+author = "Gotthold Ephraim Lessing",
+editor = "H. B. Nisbet",
+translator = "H. B. Nisbet",
+title = "Philosophical and Theological Writings",
+publisher = "Cambridge University Press",
+location = "Cambridge",
+year = "2005",
+keywords = "lessing, philosophy",
+}
+#+END_SRC
+*** On the proof of the spirit and of power
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{lessing2005writings:proof,
+  title={On the proof of the spirit and of power},
+  crossref={lessing2005writings},
+  pages={83--88},
+  keywords={},
+  abstract={}
+  }
+#+END_SRC
+*** Escritos Filosóficos y Teológicos
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@collection{lessing1982escritos,
+author = "Gotthold Ephraim Lessing",
+translator = "Agustín Andreu Rodrigo",
+title = "Escritos Filosóficos y Teológicos",
+publisher = "Editora Nacional",
+location = "Madrid",
+year = "1982",
+keywords = "lessing, philosophy",
+}
+#+END_SRC
+*** Demostración en Espíriru y Fuerza
+#+BEGIN_SRC bibtex :tangle primary.bib
+  @incollection{lessing1982escritos:demo,
+  title={Sobre la Demostración en Espíritu y Fuerza},
+  crossref={lessing1982escritos},
+  pages={480--487},
+  keywords={},
+  abstract={}
+  }
+#+END_SRC
+** Francisco Conesa
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@book{conesa1994cc,
+author = "Francisco Conesa",
+title = "Creer y Conocer",
+subtitle = "El Valor Cognoscitivo de la Fe en la Filosofía Analítica",
+publisher = "EUNSA",
+location = "Navarra",
+year = "1994",
+keywords = "conesa, analítica",
+}
+#+END_SRC
+** Parmenides
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@book{parmenides2007poema,
+author = "Parmenides",
+editor = "Alberto Bernabé Pajares and Jorge Pérez de Tudela y Velasco",
+title = "Poema",
+subtitle = "Fragmentos y tradición textual",
+publisher = "Itsmo",
+location = "Madrid",
+year = "2007",
+keywords = "parmenides, philosophy",
+}
+#+END_SRC
+** C.F. Delaney
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@book{delaney1979rnrbeleief,
+title={Rationality and Religious Belief},
+editor={Cornelius F. Delaney},
+volume={1},
+series={University of Notre Dame studies in the philosophy of religion},
+publisher={University of Notre Dame Press},
+year={1979},
+}
+#+END_SRC
+** Robert Masson
+#+BEGIN_SRC bibtex :tangle secondary.bib
+  @article{masson1981,
+  title={Rationality and Religious Belief. Edited by C. F. Delaney. Notre Dame},
+  volume={8},
+  number={2},
+  journal={Horizons},
+  publisher={Cambridge University Press},
+  author={Robert Masson},
+  year={1981},
+  pages={440–441}
+  }
+#+END_SRC
+** Fergus Kerr
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@book{kerr1997theo,
+author = "Fergus Kerr",
+title = "Theology after Wittgenstein",
+publisher = "Society for Promoting Christian Knowledge",
+location = "London",
+year = "1997",
+edition = "2",
+origdate = "1986",
+keywords = "Kerr, teología, Wittgenstein",
+}
+#+END_SRC
+* Magisterio
+** Lumen Fidei
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@book{francis2013lf,
+author = "Papa~Francisco",
+title = "Lumen Fidei",
+subtitle = "Sobre la Fe",
+shorttitle = "LF",
+day= "29",
+month = "6",
+year = "2013",
+keywords = "magisterio, francisco",
+}
+#+END_SRC
+** Fides et Ratio
+
+** Dei Filius
+#+BEGIN_SRC bibtex :tangle secondary.bib
+  @incollection{vati1870df,
+      editor    = "Heinrich Denzinger and Peter Hünermann",
+      booktitle = "El Magisterio de la Iglesia",
+      booksubtitle = "Enchiridion Symbolorum Definitionum et Declarationum de
+                    Rebus Fidei et Morum",
+      publisher = "Herder",
+      author    = "Vaticano~I",
+      title     = "Constitución Dogmática Dei Filius",
+      %volume   = "",
+      %number   = "",
+      %series   = "",
+      %address  = "",
+      edition  = "2",
+      year      = "2000",
+      pages     = "764--775",
+      %month    = "",
+      %note     = "",
+      keywords ="magisterio",
+  }
+#+END_SRC
+* Testers
+#+BEGIN_SRC bibtex :tangle no
+  @mvcollection{mvcollectiontest,
+  title={Multiple Volume Collection},
+  author={Collection's Author Dickens},
+  editor={John Editor Flint and Alan Editor Anderson and Evan Editor Baker and
+                    Jonas Editor Belcher},
+  isbn={4444444},
+  lccn={5555555},
+  series={Series this belongs to},
+  volume={1},
+  publisher={Publishing Agency},
+  location={Location},
+  year={2000},
+  edition={5},
+  origpublisher={Original Publisher},
+  origlocation={Original Location},
+  keywords = {},
+  abstract = {}
+  }
+#+END_SRC
+#+BEGIN_SRC bibtex :tangle no
+  @incollection{incollectiontest,
+  title={Article in a Collection},
+  author={Article's Author Smith},
+  pages={201-220},
+  crossref={mvcollectiontest},
+  }
+#+END_SRC
+#+BEGIN_SRC bibtex :tangle no
+  @incollection{incollectiontest2,
+  title={Second Article in a Collection},
+  author={Article's Author Smith},
+  pages={201-220},
+  crossref={mvcollectiontest},
+  }
+#+END_SRC
+#+BEGIN_SRC bibtex :tangle no
+ @article{articletest,
+     author  = "Article's Author",
+     title   = "Article's Title",
+     day     = "13",
+     month   = "11",
+     year    = "1971",
+     journal = "Journal",
+     volume  = "225",
+     number  = "6858"
+ }
+#+END_SRC
+#+BEGIN_SRC bibtex :tangle no
+  @book{booktest,
+  title={Book},
+  author={Book's Author Higgins},
+  isbn={4444444},
+  lccn={5555555},
+  publisher={Publishing Agency},
+  location={Location},
+  year={2000},
+  edition={5},
+  origpublisher={Original Publisher},
+  origlocation={Original Location},
+  keywords = {},
+  abstract = {}
+  }
+#+END_SRC
+#+BEGIN_SRC bibtex :tangle no
+  @mvcollection{anothermvcollectiontest,
+  title={Another Multiple Volume Collection},
+  editor={John Editor Flint and Alan Editor Anderson and Evan Editor Baker},
+  isbn={4444444},
+  lccn={5555555},
+  series={Another Series this belongs to},
+  volume={4},
+  publisher={Publishing Agency},
+  location={Location},
+  year={2000},
+  edition={5},
+  origpublisher={Original Publisher},
+  origlocation={Original Location},
+  origyear={1922},
+  keywords = {},
+  abstract = {}
+  }
+#+END_SRC
+#+BEGIN_SRC bibtex :tangle no
+  @incollection{anotherincollectiontest,
+  title={Another Article in a Collection},
+  author={Another Author Smith},
+  pages={201-220},
+  crossref={mvcollectiontest},
+  }
+#+END_SRC
