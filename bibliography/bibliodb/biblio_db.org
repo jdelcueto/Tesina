@@ -4,6 +4,7 @@
 @book{anscombe1959iwt,
 author={Gertrude Elizabeth Margaret Anscombe},
 title={An Introduction to Wittgenstein's Tractatus},
+shorttitle={Introduction to Wittgenstein's Tractatus},
 publisher={St. Augustine's Press, Indiana},
 year={1971},
 keywords={primary}
@@ -17,6 +18,7 @@ http://www.worldcat.org/oclc/299374922
 #+BEGIN_SRC bibtex :tangle primary.bib
 @mvcollection{anscombe1981parmenides,
 title={From Parmenides to Wittgenstein},
+shorttitle={Parmenides to Wittgesntein},
 author={Gertrude Elizabeth Margaret Anscombe},
 isbn={9780631129226},
 lccn={81004317},
@@ -77,6 +79,7 @@ keywords={primary}
 #+BEGIN_SRC bibtex :tangle primary.bib
 @incollection{anscombe1981metaphysics:intsens,
 title={The Intetionality of Sensation: A Grammatical Feature},
+shorttitle={The Intetionality of Sensation},
 crossref={anscombe1981metaphysics},
 pages={3-20},
 year={1965},

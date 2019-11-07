@@ -87,6 +87,10 @@ verificar guiones largos, añadir espacios pequeños
 %\input{./tester.tex}
 
 \tableofcontents
+\thispagestyle{empty}
+\addtocontents{toc}{\protect\thispagestyle{empty}}
+
+\setcounter{page}{0}
 
 %INTRODUCCIÓN
 %Introducción General al Problema del Testimonio
@@ -147,13 +151,14 @@ Setear csquotes para que ponga el numero de cita antes del punto. también para 
 \usepackage[
 a4paper,
 inner=2.5cm,
-outer=6.5cm,
-top=6cm,
-bottom=6cm,
+outer=6.1985cm,
+top=5.887748cm,
+bottom=5.887748cm,
 bindingoffset=0cm,
 footskip=1cm,
 footnotesep=0.5cm,
 %showframe,
+%heightrounded,
 nohead,
 ]{geometry}
 
@@ -221,6 +226,12 @@ Ligatures=TeX]{arialuni.ttf}
 \addtokomafont{subsection}{\sffamily\bfseries\fontsize{10pt}{10pt}\selectfont}
 \addtokomafont{subsubsection}{\sffamily\mdseries\fontsize{10pt}{10pt}\selectfont}
 
+
+\RedeclareSectionCommand[%
+%expandtopt=true,%
+beforeskip=-1em,%
+]{section}
+
 \RedeclareSectionCommand[%
 beforeskip=-1em,%
 indent=0.5cm,%
@@ -230,11 +241,14 @@ indent=0.5cm,%
 indent=0.5cm,%
 ]{subsubsection}
 
+%\let\oldsection\section
+%\def\section{\filbreak\oldsection}
+
 #+END_SRC
 *** Las notas al pie de página deben estar justificadas y sin sangría. La letra tendrá un tamaño de 8pt
 #+BEGIN_SRC latex :tangle ../tex/style/final.sty
 % Defaults are sufficient.
-\deffootnote[1.5em]{.5em}{1em}{%
+\deffootnote[1.5em]{0em}{0em}{%
 \textsuperscript{\thefootnotemark}\,%
 }
 #+END_SRC
