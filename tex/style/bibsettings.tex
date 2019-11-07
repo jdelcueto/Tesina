@@ -1,1 +1,29 @@
+\usepackage[
+backend=biber,
+bibstyle=style/custom-authortitle,
+%citestyle=../bibliography/style/verbose-ibid-custom,
+citestyle=style/custom-verbose-trad1,
+opcittracker=false,
+loccittracker=false,
+%bibstyle=authortitle,
+%citestyle=verbose-ibid,
+%refsection=section,
+%giveninits=true,
+%autocite=footnote,
+%block=none,
+%useprefix=true,
+%sorting=nyvt,
+%isbn=false,
+%url=false,
+%autopunct=false,
+%pagetracker=false,
+%ibidpage=true,
+%hyperref=false,
+]{biblatex}
 
+\DefineBibliographyStrings{spanish}{%
+    andothers = {et al.},
+    in = {\lowercase{e}n:},
+    editor = {(\lowercase{e}d.),},
+    editors = {(\lowercase{e}ds.),},
+}

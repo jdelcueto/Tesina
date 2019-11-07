@@ -42,6 +42,15 @@ hyperref=false,
     editors = {(\lowercase{e}ds.),},
 }
 
+%Id in smallcaps
+\providecommand*{\mkidem}[1]{\textsc{#1}}
+% substitute: \mkidem for \mkibid
+%\renewbibmacro*{cite:idem}{\bibstring[\mkidem]{idem\thefield‌{gender}}\setunit{\p‌​rintdelim{nametitled‌​elim}}}
+
+%Hide p.
+\DeclareFieldFormat{postnote}{#1}
+\DeclareFieldFormat{multipostnote}{#1}
+
 %Hide Publisher
 \AtEveryBibitem{%
   \clearlist{publisher}%
