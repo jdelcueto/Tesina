@@ -98,13 +98,13 @@ verificar guiones largos, añadir espacios pequeños
 \subfile{./intro}
 %CAPÍTULO 1:
 %Introducción General al Problema del Testimonio
-\subfile{./ch1}
+%\subfile{./ch1}
 %CAPÍTULO 2:
 %Vida y Pensamiento Propio de Elizabeth Anscombe
 %\subfile{./ch2}
 %CAPÍTULO 3:
 %La concepción de Elizabeth Anscombe sobre el Testimonio
-\subfile{./ch3}
+%\subfile{./ch3}
 %CAPÍTULO 4:
 %Conclusión General
 \subfile{./ch4}
