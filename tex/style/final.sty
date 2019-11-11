@@ -70,6 +70,11 @@ Ligatures=TeX]{arialuni.ttf}
 \addtokomafont{subsection}{\sffamily\bfseries\fontsize{10pt}{10pt}\selectfont}
 \addtokomafont{subsubsection}{\sffamily\mdseries\fontsize{10pt}{10pt}\selectfont}
 
+\RedeclareSectionCommand[%
+beforeskip=-1em,%
+%indent=0.5cm,%
+]{chapter}
+
 
 \RedeclareSectionCommand[%
 %expandtopt=true,%
@@ -84,9 +89,6 @@ indent=0.5cm,%
 \RedeclareSectionCommand[%
 indent=0.5cm,%
 ]{subsubsection}
-
-%\let\oldsection\section
-%\def\section{\filbreak\oldsection}
 
 % Defaults are sufficient.
 \deffootnote[1.5em]{0em}{0em}{%

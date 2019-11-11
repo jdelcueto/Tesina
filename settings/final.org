@@ -98,13 +98,13 @@ verificar guiones largos, añadir espacios pequeños
 \subfile{./intro}
 %CAPÍTULO 1:
 %Introducción General al Problema del Testimonio
-%\subfile{./ch1}
+\subfile{./ch1}
 %CAPÍTULO 2:
 %Vida y Pensamiento Propio de Elizabeth Anscombe
-%\subfile{./ch2}
+\subfile{./ch2}
 %CAPÍTULO 3:
 %La concepción de Elizabeth Anscombe sobre el Testimonio
-%\subfile{./ch3}
+\subfile{./ch3}
 %CAPÍTULO 4:
 %Conclusión General
 \subfile{./ch4}
@@ -223,6 +223,11 @@ Ligatures=TeX]{arialuni.ttf}
 \addtokomafont{subsection}{\sffamily\bfseries\fontsize{10pt}{10pt}\selectfont}
 \addtokomafont{subsubsection}{\sffamily\mdseries\fontsize{10pt}{10pt}\selectfont}
 
+\RedeclareSectionCommand[%
+beforeskip=-1em,%
+%indent=0.5cm,%
+]{chapter}
+
 
 \RedeclareSectionCommand[%
 %expandtopt=true,%
@@ -238,8 +243,6 @@ indent=0.5cm,%
 indent=0.5cm,%
 ]{subsubsection}
 
-%\let\oldsection\section
-%\def\section{\filbreak\oldsection}
 
 #+END_SRC
 *** Las notas al pie de página deben estar justificadas y sin sangría. La letra tendrá un tamaño de 8pt
