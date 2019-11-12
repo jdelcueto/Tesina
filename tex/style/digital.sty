@@ -1,0 +1,127 @@
+\ProvidesPackage{style/final}
+
+\KOMAoptions{fontsize=12pt}
+
+\KOMAoptions{twoside=false}
+%No header, page number at footer.
+\pagestyle{plain}
+
+%\usepackage[
+%a4paper,
+%inner=2.5cm,
+%outer=6.1985cm,
+%top=5.887748cm,
+%bottom=5.887748cm,
+%bindingoffset=0cm,
+%footskip=1cm,
+%footnotesep=0.5cm,
+%showframe,
+%heightrounded,
+%nohead,
+%]{geometry}
+
+\KOMAoptions{DIV=12}
+
+%Extra math symbols
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+%Mathspec for math and fontspec for the rest.
+\usepackage{mathspec}
+\usepackage[no-math]{fontspec}
+\usepackage{xltxtra,xunicode}
+
+%Set sans font to Arial.
+\setsansfont[
+Path= ./font/arial/,
+BoldFont=arialbd.ttf,
+ItalicFont=ariali.ttf,
+BoldItalicFont=arialbi.ttf,
+]{arial.ttf}
+
+%Set default font to sans.
+\renewcommand{\familydefault}{\sfdefault}
+
+%Set math font to arial.
+\setmathsfont(Digits,Latin)[
+Path= ./font/arial/,
+ItalicFont=ariali.ttf,
+Ligatures=TeX]{arial.ttf}
+
+%Arial Unicode for greek text
+\newfontfamily\greekfont[
+Path= ./font/arial/,
+Scale=MatchUppercase,
+Ligatures=TeX]{arialuni.ttf}
+
+\renewcommand{\textgreek}[1]{\bgroup\greekfont{#1}\egroup} % Greek text
+
+\usepackage{setspace}
+\setstretch{1.41667}
+
+\KOMAoptions{parskip=off}
+\setlength{\parindent}{1.25cm}
+
+\renewcommand*\thechapter{\Roman{chapter}}
+\renewcommand{\raggedchapter}{\centering}
+\addtokomafont{chapter}{\sffamily\bfseries\fontsize{12pt}{12pt}\selectfont}
+
+\setcounter{secnumdepth}{5}
+\renewcommand*\thesection{\arabic{section}}
+\addtokomafont{section}{\sffamily\bfseries\fontsize{10pt}{10pt}\selectfont}
+\addtokomafont{subsection}{\sffamily\bfseries\fontsize{10pt}{10pt}\selectfont}
+\addtokomafont{subsubsection}{\sffamily\mdseries\fontsize{10pt}{10pt}\selectfont}
+
+\RedeclareSectionCommand[%
+beforeskip=-34.00012pt,%
+afterskip=8.50003pt,%
+%indent=0.5cm,%
+]{chapter}
+
+
+\RedeclareSectionCommand[%
+%expandtopt=true,%
+beforeskip=-1em,%
+]{section}
+
+\RedeclareSectionCommand[%
+beforeskip=-1em,%
+indent=0.5cm,%
+]{subsection}
+
+\RedeclareSectionCommand[%
+indent=0.5cm,%
+]{subsubsection}
+
+% Defaults are sufficient.
+\deffootnote[1.5em]{0em}{0em}{%
+\textsuperscript{\thefootnotemark}\,%
+}
+
+%csquotes for advanced facilities for inline and display quotations
+\usepackage[autostyle,spanish=spanish,maxlevel=2]{csquotes}
+
+\renewenvironment{quotation}
+{\list{}{\listparindent=0cm%whatever you need
+         \itemindent    \listparindent
+         \leftmargin=1.2cm%  whatever you need
+         \rightmargin=0cm%whatever you need
+         \topsep=.25em%%%%%whatever you need
+         \parsep        \z@ \@plus\p@}%
+         \item\relax}
+{\endlist}
+
+\SetBlockEnvironment{quotation}
+
+\renewcommand{\mkcitation}[1]{\footnote{#1}}
+\renewcommand{\mktextquote}[6]{#1#2#3#6#4#5}
+\renewcommand{\mkblockquote}[4]{#1#4#2#3}
+
+% URL
+\usepackage{url}
+% By default the URLs are put in typewriter type in the body and the
+% bibliography of the document when using the \url command.  If you are
+% using many long URLs you may want to uncommennt the next line so they
+% are typeset a little smaller.
+% \renewcommand{\UrlFont}{\small\tt}
+\renewcommand{\UrlFont}{\sffamily}

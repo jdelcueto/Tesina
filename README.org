@@ -1,4 +1,4 @@
-* La Categoría del Testimonio en el Pensamiento de Elizabeth Anscombe
+* La Categoría de Testimonio en el Pensamiento de Elizabeth Anscombe
 [[./tex/img/anscombe.jpg]]
 
 * [[./staging/final.pdf][Documento FINAL (en revisión)]]

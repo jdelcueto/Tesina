@@ -35,7 +35,7 @@ CITATION AND BIBLIOGRAPHY STUFF IN bibsettings.tex
 
 %Document Info
 \usepackage{style/portadasandamaso}
-\title{La Categoría del Testimonio en el pensamiento de Elizabeth
+\title{La Categoría de Testimonio en el pensamiento de Elizabeth
     Anscombe.\space Valoración y crítica en perspectiva teológico-fundamental.}
 \author{Joel E. Del Cueto}
 \supervisor{Prof. Javier Prades}
