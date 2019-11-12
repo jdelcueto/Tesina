@@ -1,134 +1,346 @@
-\ProvidesFile{authortitle.bbx}
+\ProvidesFile{custom-authortitle.bbx}
 [\abx@bbxid]
 
-\RequireBibliographyStyle{standard}
-\ExecuteBibliographyOptions{pagetracker}
+% \RequireBibliographyStyle{standard}
+% \ExecuteBibliographyOptions{pagetracker}
 
-\DeclareBibliographyOption[boolean]{dashed}[true]{%
-  \ifstrequal{#1}{true}
-    {\ExecuteBibliographyOptions{pagetracker}%
-     \renewbibmacro*{bbx:savehash}{\savefield{fullhash}{\bbx@lasthash}}}
-    {\renewbibmacro*{bbx:savehash}{}}}
+% \DeclareBibliographyOption[boolean]{dashed}[true]{%
+%   \ifstrequal{#1}{true}
+%     {\ExecuteBibliographyOptions{pagetracker}%
+%      \renewbibmacro*{bbx:savehash}{\savefield{fullhash}{\bbx@lasthash}}}
+%     {\renewbibmacro*{bbx:savehash}{}}}
 
-\DeclareFieldFormat{shorthandwidth}{#1}
-\setlength{\bibitemsep}{0pt}
+% \DeclareFieldFormat{shorthandwidth}{#1}
+% \setlength{\bibitemsep}{0pt}
 
-\DeclareNameAlias{author}{sortname}
-\DeclareNameAlias{editor}{sortname}
-\DeclareNameAlias{translator}{sortname}
+% \DeclareNameAlias{author}{sortname}
+% \DeclareNameAlias{editor}{sortname}
+% \DeclareNameAlias{translator}{sortname}
 
-\DeclareNameWrapperAlias{author}{sortname}
-\DeclareNameWrapperAlias{editor}{sortname}
-\DeclareNameWrapperAlias{translator}{sortname}
+% \DeclareNameWrapperAlias{author}{sortname}
+% \DeclareNameWrapperAlias{editor}{sortname}
+% \DeclareNameWrapperAlias{translator}{sortname}
 
-\defbibenvironment{bibliography}
-  {\list
-     {}
-     {\setlength{\leftmargin}{\bibhang}%
-      \setlength{\itemindent}{-\leftmargin}%
-      \setlength{\itemsep}{\bibitemsep}%
-      \setlength{\parsep}{\bibparsep}}}
-  {\endlist}
-  {\item}
+% \defbibenvironment{bibliography}
+%   {\list
+%      {}
+%      {\setlength{\leftmargin}{\bibhang}%
+%       \setlength{\itemindent}{-\leftmargin}%
+%       \setlength{\itemsep}{\bibitemsep}%
+%       \setlength{\parsep}{\bibparsep}}}
+%   {\endlist}
+%   {\item}
 
-\defbibenvironment{shorthand}
-  {\list
-     {\printfield[shorthandwidth]{shorthand}}
-     {\setlength{\labelwidth}{\shorthandwidth}%
-      \setlength{\leftmargin}{\labelwidth}%
-      \setlength{\labelsep}{\biblabelsep}%
-      \addtolength{\leftmargin}{\labelsep}%
-      \setlength{\itemsep}{\bibitemsep}%
-      \setlength{\parsep}{\bibparsep}%
-      \renewcommand*{\makelabel}[1]{##1\hss}}}
-  {\endlist}
-  {\item}
+% \defbibenvironment{shorthand}
+%   {\list
+%      {\printfield[shorthandwidth]{shorthand}}
+%      {\setlength{\labelwidth}{\shorthandwidth}%
+%       \setlength{\leftmargin}{\labelwidth}%
+%       \setlength{\labelsep}{\biblabelsep}%
+%       \addtolength{\leftmargin}{\labelsep}%
+%       \setlength{\itemsep}{\bibitemsep}%
+%       \setlength{\parsep}{\bibparsep}%
+%       \renewcommand*{\makelabel}[1]{##1\hss}}}
+%   {\endlist}
+%   {\item}
 
-\InitializeBibliographyStyle{%
-  \global\undef\bbx@lasthash}
+% \InitializeBibliographyStyle{%
+%   \global\undef\bbx@lasthash}
 
-\newbibmacro*{bbx:savehash}{%
-  \savefield{fullhash}{\bbx@lasthash}}
+% \newbibmacro*{bbx:savehash}{%
+%   \savefield{fullhash}{\bbx@lasthash}}
 
-\newbool{bbx@inset}
-\DeclareBibliographyDriver{set}{%
-  \booltrue{bbx@inset}%
-  \entryset{}{}%
+% \newbool{bbx@inset}
+% \DeclareBibliographyDriver{set}{%
+%   \booltrue{bbx@inset}%
+%   \entryset{}{}%
+%   \newunit\newblock
+%   \usebibmacro{setpageref}%
+%   \finentry}
+
+% \renewbibmacro*{begrelated}{%
+%   \booltrue{bbx@inset}}
+
+% \renewbibmacro*{endrelated}{%
+%   \usebibmacro*{bbx:savehash}}
+
+% \renewbibmacro*{author}{%
+%   \ifboolexpr{
+%     test \ifuseauthor
+%     and
+%     not test {\ifnameundef{author}}
+%   }
+%     {\usebibmacro{bbx:dashcheck}
+%        {\bibnamedash}
+%        {\printnames{author}%
+%         \setunit{\printdelim{authortypedelim}}%
+%         \usebibmacro{bbx:savehash}}%
+%      \usebibmacro{authorstrg}}
+%     {\global\undef\bbx@lasthash}}
+
+% \renewbibmacro*{editor}{%
+%   \usebibmacro{bbx:editor}{editorstrg}}
+% \renewbibmacro*{editor+others}{%
+%   \usebibmacro{bbx:editor}{editor+othersstrg}}
+% \newbibmacro*{bbx:editor}[1]{%
+%   \ifboolexpr{
+%     test \ifuseeditor
+%     and
+%     not test {\ifnameundef{editor}}
+%   }
+%     {\usebibmacro{bbx:dashcheck}
+%        {\bibnamedash}
+%        {\printnames{editor}%
+%         \setunit{\printdelim{editortypedelim}}%
+%         \usebibmacro{bbx:savehash}}%
+%      \usebibmacro{#1}%
+%      \clearname{editor}}
+%     {\global\undef\bbx@lasthash}}
+
+% \renewbibmacro*{translator}{%
+%   \usebibmacro{bbx:translator}{translatorstrg}}
+% \renewbibmacro*{translator+others}{%
+%   \usebibmacro{bbx:translator}{translator+othersstrg}}
+% \newbibmacro*{bbx:translator}[1]{%
+%   \ifboolexpr{
+%     test \ifusetranslator
+%     and
+%     not test {\ifnameundef{translator}}
+%   }
+%     {\usebibmacro{bbx:dashcheck}
+%        {\bibnamedash}
+%        {\printnames{translator}%
+%         \setunit{\printdelim{translatortypedelim}}%
+%         \usebibmacro{bbx:savehash}}%
+%      \usebibmacro{#1}%
+%      \clearname{translator}}
+%     {\global\undef\bbx@lasthash}}
+
+% \newbibmacro*{bbx:dashcheck}[2]{%
+%   \ifboolexpr{
+%     test {\iffieldequals{fullhash}{\bbx@lasthash}}
+%     and
+%     not test \iffirstonpage
+%     and
+%     (
+%        not bool {bbx@inset}
+%        or
+%        test {\iffieldequalstr{entrysetcount}{1}}
+%     )
+%   }
+%     {#1}
+%     {#2}}
+
+%     \endinput
+
+\RequireBibliographyStyle{authortitle}
+
+%BOOK
+\DeclareBibliographyDriver{book}{%
+  \usebibmacro{bibindex}%
+  \usebibmacro{begentry}%
+  \usebibmacro{author/editor+others/translator+others}%
+  \setunit{\printdelim{nametitledelim}}\newblock
+  \usebibmacro{maintitle+title}%
+  \newunit
+  \printlist{language}%
   \newunit\newblock
-  \usebibmacro{setpageref}%
-  \finentry}
+  \usebibmacro{byauthor}%
+  \newunit\newblock
+  \usebibmacro{byeditor+others}%
+ % \newunit\newblock
+  %\printfield{edition}%
+  %\newunit
+  \iffieldundef{maintitle}
+  {\printfield{volume}%
+      \iffieldundef{part}{}{\addslash}
+     \printfield{part}}
+    {}%
+    %  \newunit
+%  \printfield{volumes}%
+  %\newunit\newblock
+%  \usebibmacro{series+number}%
+  \newunit\newblock
+  \printfield{note}%
+  \newunit\newblock
+  \usebibmacro{publisher+location+date}%
+  \newunit\newblock
+  \usebibmacro{chapter+pages}%
+  \newunit
+  \printfield{pagetotal}%
+  \newunit\newblock
+  \iftoggle{bbx:isbn}
+    {\printfield{isbn}}
+    {}%
+  \newunit\newblock
+  \usebibmacro{doi+eprint+url}%
+  \newunit\newblock
+  \usebibmacro{addendum+pubstate}%
+  \setunit{\bibpagerefpunct}\newblock
+  \usebibmacro{pageref}%
+  \newunit\newblock
+  \iftoggle{bbx:related}
+    {\usebibmacro{related:init}%
+     \usebibmacro{related}}
+    {}%
+  \usebibmacro{finentry}}
 
-\renewbibmacro*{begrelated}{%
-  \booltrue{bbx@inset}}
 
-\renewbibmacro*{endrelated}{%
-  \usebibmacro*{bbx:savehash}}
+\DeclareBibliographyDriver{collection}{%
+  \usebibmacro{bibindex}%
+  \usebibmacro{begentry}%
+  \usebibmacro{editor+others}%
+  \setunit{\printdelim{nametitledelim}}\newblock
+  \usebibmacro{maintitle+title}%
+  \newunit
+  \printlist{language}%
+  \newunit\newblock
+  \usebibmacro{byeditor+others}%
+  \newunit\newblock
+  \printfield{edition}%
+  \newunit
+  \iffieldundef{maintitle}
+    {\printfield{volume}%
+     \printfield{part}}
+    {}%
+  \newunit
+  \printfield{volumes}%
+ % \newunit\newblock
+  %\usebibmacro{series+number}%
+  \newunit\newblock
+  \printfield{note}%
+  \newunit\newblock
+  \usebibmacro{publisher+location+date}%
+  \newunit\newblock
+  \usebibmacro{chapter+pages}%
+  \newunit
+  \printfield{pagetotal}%
+  \newunit\newblock
+  \iftoggle{bbx:isbn}
+    {\printfield{isbn}}
+    {}%
+  \newunit\newblock
+  \usebibmacro{doi+eprint+url}%
+  \newunit\newblock
+  \usebibmacro{addendum+pubstate}%
+  \setunit{\bibpagerefpunct}\newblock
+  \usebibmacro{pageref}%
+  \newunit\newblock
+  \iftoggle{bbx:related}
+    {\usebibmacro{related:init}%
+     \usebibmacro{related}}
+    {}%
+  \usebibmacro{finentry}}
 
-\renewbibmacro*{author}{%
-  \ifboolexpr{
-    test \ifuseauthor
-    and
-    not test {\ifnameundef{author}}
-  }
-    {\usebibmacro{bbx:dashcheck}
-       {\bibnamedash}
-       {\printnames{author}%
-        \setunit{\printdelim{authortypedelim}}%
-        \usebibmacro{bbx:savehash}}%
-     \usebibmacro{authorstrg}}
-    {\global\undef\bbx@lasthash}}
+\DeclareBibliographyDriver{inbook}{%
+  \usebibmacro{bibindex}%
+  \usebibmacro{begentry}%
+  \usebibmacro{author/translator+others}%
+  \setunit{\printdelim{nametitledelim}}\newblock
+  \usebibmacro{title}%
+  \newunit
+  \printlist{language}%
+  \newunit\newblock
+  \usebibmacro{byauthor}%
+  \newunit\newblock
+  \usebibmacro{in:}%
+  \usebibmacro{bybookauthor}%
+  \newunit\newblock
+  \usebibmacro{maintitle+booktitle}%
+  \newunit\newblock
+  \usebibmacro{byeditor+others}%
+  \newunit\newblock
+  \printfield{edition}%
+  \newunit
+  \iffieldundef{maintitle}
+    {\printfield{volume}%
+     \printfield{part}}
+    {}%
+  \newunit
+  \printfield{volumes}%
+ % \newunit\newblock
+ % \usebibmacro{series+number}%
+  \newunit\newblock
+  \printfield{note}%
+  \newunit\newblock
+  \usebibmacro{publisher+location+date}%
+  \newunit\newblock
+  \usebibmacro{chapter+pages}%
+  \newunit\newblock
+  \iftoggle{bbx:isbn}
+    {\printfield{isbn}}
+    {}%
+  \newunit\newblock
+  \usebibmacro{doi+eprint+url}%
+  \newunit\newblock
+  \usebibmacro{addendum+pubstate}%
+  \setunit{\bibpagerefpunct}\newblock
+  \usebibmacro{pageref}%
+  \newunit\newblock
+  \iftoggle{bbx:related}
+    {\usebibmacro{related:init}%
+     \usebibmacro{related}}
+    {}%
+  \usebibmacro{finentry}}
 
-\renewbibmacro*{editor}{%
-  \usebibmacro{bbx:editor}{editorstrg}}
-\renewbibmacro*{editor+others}{%
-  \usebibmacro{bbx:editor}{editor+othersstrg}}
-\newbibmacro*{bbx:editor}[1]{%
-  \ifboolexpr{
-    test \ifuseeditor
-    and
-    not test {\ifnameundef{editor}}
-  }
-    {\usebibmacro{bbx:dashcheck}
-       {\bibnamedash}
-       {\printnames{editor}%
-        \setunit{\printdelim{editortypedelim}}%
-        \usebibmacro{bbx:savehash}}%
-     \usebibmacro{#1}%
-     \clearname{editor}}
-    {\global\undef\bbx@lasthash}}
+\DeclareBibliographyDriver{incollection}{%
+  \usebibmacro{bibindex}%
+  \usebibmacro{begentry}%
+  \usebibmacro{author/translator+others}%
+  \setunit{\printdelim{nametitledelim}}\newblock
+  \usebibmacro{title}%
+  \newunit
+  \printlist{language}%
+  \newunit\newblock
+  \usebibmacro{byauthor}%
+  \newunit\newblock
+  \usebibmacro{in:}%
+  \usebibmacro{byeditor+others}%
+  \usebibmacro{maintitle+booktitle}%
+  \newunit\newblock
+  \printfield{edition}%
+  \newunit
+  \iffieldundef{maintitle}
+    {\printfield{volume}%
+     \printfield{part}}
+    {}%
+  \newunit
+  \printfield{volumes}%
+  %\newunit\newblock
+  %\usebibmacro{series+number}%
+  \newunit\newblock
+  \printfield{note}%
+  \newunit\newblock
+  \usebibmacro{publisher+location+date}%
+  \newunit\newblock
+  \usebibmacro{chapter+pages}%
+  \newunit\newblock
+  \iftoggle{bbx:isbn}
+    {\printfield{isbn}}
+    {}%
+  \newunit\newblock
+  \usebibmacro{doi+eprint+url}%
+  \newunit\newblock
+  \usebibmacro{addendum+pubstate}%
+  \setunit{\bibpagerefpunct}\newblock
+  \usebibmacro{pageref}%
+  \newunit\newblock
+  \iftoggle{bbx:related}
+    {\usebibmacro{related:init}%
+     \usebibmacro{related}}
+    {}%
+  \usebibmacro{finentry}}
 
-\renewbibmacro*{translator}{%
-  \usebibmacro{bbx:translator}{translatorstrg}}
-\renewbibmacro*{translator+others}{%
-  \usebibmacro{bbx:translator}{translator+othersstrg}}
-\newbibmacro*{bbx:translator}[1]{%
-  \ifboolexpr{
-    test \ifusetranslator
-    and
-    not test {\ifnameundef{translator}}
-  }
-    {\usebibmacro{bbx:dashcheck}
-       {\bibnamedash}
-       {\printnames{translator}%
-        \setunit{\printdelim{translatortypedelim}}%
-        \usebibmacro{bbx:savehash}}%
-     \usebibmacro{#1}%
-     \clearname{translator}}
-    {\global\undef\bbx@lasthash}}
 
-\newbibmacro*{bbx:dashcheck}[2]{%
-  \ifboolexpr{
-    test {\iffieldequals{fullhash}{\bbx@lasthash}}
-    and
-    not test \iffirstonpage
-    and
-    (
-       not bool {bbx@inset}
-       or
-       test {\iffieldequalstr{entrysetcount}{1}}
-    )
-  }
-    {#1}
-    {#2}}
+% ================= Redefined Declarations ==============================
+\DeclareNameAlias{sortname}{family-given}
+\DeclareFieldFormat[*]{pages}{#1}%
+\DeclareFieldFormat[*]{edition}{#1}%
 
-\endinput
+\DeclareFieldFormat[*]{volume}{#1}%
+\DeclareFieldFormat[*]{part}{#1}%
+
+
+
+\DeclareFieldFormat[incollection]{citetitle}{``#1''}
+\DeclareFieldFormat[incollection]{title}{``#1''}

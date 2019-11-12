@@ -33,6 +33,16 @@ CITATION AND BIBLIOGRAPHY STUFF IN bibsettings.tex
 \addbibresource{../bibliography/bibliodb/primary.bib}
 \addbibresource{../bibliography/bibliodb/secondary.bib}
 
+%Document Info
+\usepackage{style/portadasandamaso}
+\title{La Categoría del Testimonio en el pensamiento de Elizabeth
+    Anscombe.\space Valoración y crítica en perspectiva teológico-fundamental.}
+\author{Joel E. Del Cueto}
+\supervisor{Prof. Javier Prades}
+\project{Tesina de Licenciatura}
+\faculty{Facultad de Teología}
+\date{2019}
+
 
 %hyperref to handle cross-referencing commands
 %\usepackage[hyperfootnotes=false]{hyperref}
@@ -61,6 +71,9 @@ CITATION AND BIBLIOGRAPHY STUFF IN bibsettings.tex
 %\usepackage[no-math]{fontspec}
 \usepackage{layouts}
 
+
+
+
 \begin{document}
 #+END_SRC
 
@@ -86,6 +99,7 @@ verificar guiones largos, añadir espacios pequeños
 * SUBFILES
 #+BEGIN_SRC latex :tangle ../tex/final.tex
 %\input{./tester.tex}
+\maketitle
 
 \tableofcontents
 \thispagestyle{empty}
@@ -289,66 +303,45 @@ indent=0.5cm,%
 
 * Bibliografía
 
-REPETICIÓN DE CITAS
-Cuando se cita de nuevo la última obra citada, úsese:
-Ibid. / ibid.
-Cf. ibid., 34.
-Ibid., 2-3.
-Cuando se cita de nuevo el último autor/autora citado/a, úsese:
-ID. / EAD.
-C. Gil, “ley”, en: ID. (ed.), El Pentateuco (Madrid 2000) 23.
-
-Cuando en el trabajo se señala la misma obra varias
-veces, a partir de su segunda aparición se abrevia la
-cita:
-- No se ponen las iniciales de los nombres, ni la función de
-editores/directores…
-- se indican sólo las primeras palabras del título
-- señálese el volumen de la obra cuando haya posibilidad de confusión
-PACoMio et alii, “dios existe”, 235-240.
-ColoMBo, Gli archivi imperfetti, 131-132.
-Gil, El Antiguo Testamento iii, 282-283.
-Cuando se cita por primera vez un artículo, pero de un
-libro ya citado, éste se abrevia según lo ya dicho:
-P. BAldelli, “Gli ospizi negli stati italiani”, en: renCkstorF –
-MCQuAil, Novel evidence for Roman slavery, 121-146.
-20
-si por la naturaleza del trabajo conviene citar el año de
-edición de la obra, puede hacerse:
-ColoMBo, Gli archivi imperfetti, 1982, 131-132.
-
-
 #+BEGIN_SRC latex :tangle ../tex/style/bibsettings.tex
-\usepackage[
-backend=biber,
-bibstyle=style/custom-authortitle,
-citestyle=style/custom-verbose-trad1,
-opcittracker=false,
-loccittracker=constrict,
-refsection=none,
-giveninits=true,
-autocite=footnote,
-block=none,
-useprefix=true,
-sorting=nyvt,
-isbn=false,
-url=false,
-autopunct=false,
-pagetracker=spread,
-ibidpage=true,
-hyperref=false,
-]{biblatex}
+  \usepackage[
+  backend=biber,
+  bibstyle=style/custom-authortitle,
+  citestyle=style/custom-verbose-trad1,
+  opcittracker=false,
+  loccittracker=context,
+  refsection=none,
+  giveninits=true,
+  autocite=footnote,
+  block=none,
+  useprefix=true,
+  sorting=nyvt,
+  isbn=false,
+  url=false,
+  autopunct=false,
+  pagetracker=spread,
+  ibidpage=true,
+  hyperref=false,
+  ]{biblatex}
 
-\DefineBibliographyStrings{spanish}{%
-    andothers = {et al.},
-    in = {\lowercase{e}n:},
-    editor = {(\lowercase{e}d.),},
-    editors = {(\lowercase{e}ds.),},
-}
+  \DefineBibliographyStrings{spanish}{%
+    andothers   = {et al.},
+    in          = {\lowercase{e}n:},
+    editor      = {(\lowercase{e}d.),},
+    editors     = {(\lowercase{e}ds.),},
+    translator  = {(\lowercase{t}rad.),},
+    translators = {(\lowercase{t}rads.),},
+    idem        = {\uppercase{i}d.},
+    }
 
-%Hide p.
-\DeclareFieldFormat{postnote}{#1}
-\DeclareFieldFormat{multipostnote}{#1}
+  \renewcommand*{\multinamedelim}{\space--\space}
+  \renewcommand*{\finalnamedelim}{\space--\space}
+  \renewcommand*{\newunitpunct}{\addcomma\space}
+  \renewcommand*{\subtitlepunct}{\addperiod\space}
+  \renewcommand*{\labelnamepunct}{\addcomma\addspace}
+  \renewcommand*{\bibnamedash}{\mbox{------\space}}
+  \renewcommand*{\mkbibnamefamily}[1]{\textsc{#1}}
+
 
 
 #+END_SRC

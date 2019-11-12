@@ -1,10 +1,12 @@
 * La Categoría del Testimonio en el Pensamiento de Elizabeth Anscombe
 [[./tex/img/anscombe.jpg]]
 
-* [[./staging/final.pdf][Documento en desarrollo]]  //  Documento Final (pronto?)
+* [[./staging/final.pdf][Documento FINAL (en revisión)]]
 
-* TODO Progreso Realizado [99%]
-** TODO Introducción [10%]
+* DONE Progreso Realizado [100%]
+CLOSED: [2019-11-12 Tue 17:15]
+** DONE Introducción [100%]
+CLOSED: [2019-11-12 Tue 17:15]
 ** DONE Cap. 1: Introducción General al Problema del Testimonio [100%]
 *** DONE Naturaleza de la pregunta sobre el testimonio [100%]
     CLOSED: [2019-04-12 Fri 09:49]
@@ -101,5 +103,7 @@ CLOSED: [2019-11-02 Sat 10:30]
         - [X] Quaestio 1: Epsitemology of Testimony
         - [X] Quaestio 2: On God's Attestation
         - [X] Quaestio 3: Mystery and Nonsense
-** TODO Cap. 4: Valoración Final [10%]
-** TODO Bibliografía [95%]
+** DONE Cap. 4: Valoración Final [100%]
+CLOSED: [2019-11-12 Tue 17:15]
+** DONE Bibliografía [100%]
+CLOSED: [2019-11-12 Tue 17:15]

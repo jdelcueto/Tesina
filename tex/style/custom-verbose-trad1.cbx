@@ -294,10 +294,98 @@
 % \endinput
 
 
-  \RequireCitationStyle{verbose-trad1}
+\RequireCitationStyle{verbose-trad1}
 
-% =========================== Redefined Declarations ==============================
-
+%========================= Redefined Declarations ==============================
+%Title in italics
 \DeclareFieldFormat
 [article,inbook,incollection,inproceedings,patent,thesis,unpublished]
 {title}{\emph{#1\isdot}}
+
+%Hide p.
+\DeclareFieldFormat{postnote}{#1}
+\DeclareFieldFormat{multipostnote}{#1}
+%\DeclareFieldFormat{pages}{#1}
+
+%Small caps Id.
+\providecommand*{\mkidem}[1]{\textsc{#1}}
+\renewbibmacro*{cite:idem}{%
+\bibstring[\mkidem]{idem\thefield{gender}}%
+\setunit{\printdelim{nametitledelim}}}
+
+%Author's Last Name in Small Caps
+%\renewcommand{\mkbibnamefamily}[1]{\textsc{#1}}
+
+\DeclareFieldFormat{url}{en\addcolon\space\url{#1}}
+
+
+\renewbibmacro*{byeditor+others}{%
+    \ifnameundef{editor}
+    {}
+    {\printnames[byeditor]{editor}%
+        \setunit{\addspace}%
+        \usebibmacro{editor+othersstrg}%
+        \clearname{editor}%
+        \newunit}%
+    \usebibmacro{byeditorx}%
+    \usebibmacro{bytranslator+others}}
+
+\renewbibmacro*{bytranslator+others}{%
+    \ifnameundef{translator}
+    {}
+    {\printnames[bytranslator]{translator}%
+        \setunit{\addspace}%
+        \usebibmacro{translator+othersstrg}%
+        \clearname{translator}%
+        \newunit}%
+    \usebibmacro{withothers}}
+
+\renewbibmacro*{location+date}{%
+    \printlist{location}%
+    \setunit*{\addcomma\space}%
+    \usebibmacro{date}%
+    \newunit}
+
+\renewbibmacro*{publisher+location+date}{%
+    \printtext[parens]{\iffieldundef{series}
+        {}
+        {\printfield{series}%
+            \setunit*{\addspace}%
+            \iffieldundef{number}
+            {}
+            {\printfield{number}\addsemicolon}%
+        \setunit*{\addsemicolon\addspace}}%
+        \iflistundef{publisher}
+        {\setunit*{\space}}
+        {\setunit*{\addcomma\space}}%
+        \printlist{publisher}%
+        \setunit*{\addcomma\space}
+        \printlist{location}%
+        \setunit*{\space}%
+        \textsuperscript{\printfield{edition}}%
+        \usebibmacro{date}%
+    }
+    \newunit}
+
+
+
+%\renewbibmacro*{byeditor+others}{%
+%    \ifnameundef{editor}
+%    {}
+%    {\usebibmacro{byeditor+othersstrg}%
+%        \setunit{\addspace}%
+%        \printnames{editor}%
+%        \clearname{editor}%
+%        \newunit}%
+%    \usebibmacro{byeditorx}%
+%    \usebibmacro{bytranslator+others}}
+
+%\renewbibmacro*{bytranslator+others}{%
+%    \ifnameundef{translator}
+%    {}
+%    {\usebibmacro{bytranslator+othersstrg}%
+%        \setunit{\addspace}%
+%        \printnames[bytranslator]{translator}%
+%        \clearname{translator}%
+%        \newunit}%
+%    \usebibmacro{withothers}}
