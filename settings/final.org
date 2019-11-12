@@ -225,7 +225,8 @@ Ligatures=TeX]{arialuni.ttf}
 \addtokomafont{subsubsection}{\sffamily\mdseries\fontsize{10pt}{10pt}\selectfont}
 
 \RedeclareSectionCommand[%
-beforeskip=-1em,%
+beforeskip=-34.00012pt,%
+afterskip=8.50003pt,%
 %indent=0.5cm,%
 ]{chapter}
 
