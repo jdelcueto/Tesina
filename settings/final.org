@@ -110,8 +110,9 @@ verificar guiones largos, añadir espacios pequeños
 \subfile{./ch4}
 
 %Bibliography
-%\clearpage
+\clearpage
 %\addcontentsline{toc}{chapter}{Bibliography}
+\renewcommand{\thepage}{}
 \subfile{./bibliography}
 #+END_SRC
 
@@ -319,27 +320,22 @@ ColoMBo, Gli archivi imperfetti, 1982, 131-132.
 #+BEGIN_SRC latex :tangle ../tex/style/bibsettings.tex
 \usepackage[
 backend=biber,
-%bibstyle=style/custom-authortitle,
-%citestyle=../bibliography/style/verbose-ibid-custom,
-%citestyle=style/custom-verbose-trad1,
-bibstyle=authortitle,
-citestyle=verbose-trad1,
+bibstyle=style/custom-authortitle,
+citestyle=style/custom-verbose-trad1,
 opcittracker=false,
 loccittracker=constrict,
-%bibstyle=authortitle,
-%citestyle=verbose-ibid,
-%refsection=section,
-%giveninits=true,
-%autocite=footnote,
-%block=none,
-%useprefix=true,
-%sorting=nyvt,
-%isbn=false,
-%url=false,
-%autopunct=false,
+refsection=none,
+giveninits=true,
+autocite=footnote,
+block=none,
+useprefix=true,
+sorting=nyvt,
+isbn=false,
+url=false,
+autopunct=false,
 pagetracker=spread,
 ibidpage=true,
-%hyperref=false,
+hyperref=false,
 ]{biblatex}
 
 \DefineBibliographyStrings{spanish}{%
@@ -348,5 +344,10 @@ ibidpage=true,
     editor = {(\lowercase{e}d.),},
     editors = {(\lowercase{e}ds.),},
 }
+
+%Hide p.
+\DeclareFieldFormat{postnote}{#1}
+\DeclareFieldFormat{multipostnote}{#1}
+
 
 #+END_SRC
