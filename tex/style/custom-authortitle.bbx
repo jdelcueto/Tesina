@@ -148,18 +148,17 @@
   \usebibmacro{byauthor}%
   \newunit\newblock
   \usebibmacro{byeditor+others}%
- % \newunit\newblock
+  \newunit\newblock
   %\printfield{edition}%
   %\newunit
   \iffieldundef{maintitle}
   {\printfield{volume}%
-      \iffieldundef{part}{}{\addslash}
      \printfield{part}}
     {}%
-    %  \newunit
-%  \printfield{volumes}%
-  %\newunit\newblock
-%  \usebibmacro{series+number}%
+      \newunit
+  \printfield{volumes}%
+  % \newunit\newblock
+  % \usebibmacro{series+number}%
   \newunit\newblock
   \printfield{note}%
   \newunit\newblock

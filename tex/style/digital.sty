@@ -20,7 +20,7 @@
 %nohead,
 %]{geometry}
 
-\KOMAoptions{DIV=12}
+\KOMAoptions{DIV=14}
 
 %Extra math symbols
 \usepackage{amsmath}
@@ -64,28 +64,28 @@ Ligatures=TeX]{arialuni.ttf}
 
 \renewcommand*\thechapter{\Roman{chapter}}
 \renewcommand{\raggedchapter}{\centering}
-\addtokomafont{chapter}{\sffamily\bfseries\fontsize{12pt}{12pt}\selectfont}
+\addtokomafont{chapter}{\sffamily\bfseries\fontsize{14pt}{14pt}\selectfont}
 
 \setcounter{secnumdepth}{5}
 \renewcommand*\thesection{\arabic{section}}
-\addtokomafont{section}{\sffamily\bfseries\fontsize{10pt}{10pt}\selectfont}
-\addtokomafont{subsection}{\sffamily\bfseries\fontsize{10pt}{10pt}\selectfont}
-\addtokomafont{subsubsection}{\sffamily\mdseries\fontsize{10pt}{10pt}\selectfont}
+\addtokomafont{section}{\sffamily\bfseries\fontsize{12pt}{12pt}\selectfont}
+\addtokomafont{subsection}{\sffamily\bfseries\fontsize{12pt}{12pt}\selectfont}
+\addtokomafont{subsubsection}{\sffamily\mdseries\fontsize{12pt}{12pt}\selectfont}
 
 \RedeclareSectionCommand[%
-beforeskip=-34.00012pt,%
-afterskip=8.50003pt,%
+%beforeskip=-34.00012pt,%
+%afterskip=8.50003pt,%
 %indent=0.5cm,%
 ]{chapter}
 
 
 \RedeclareSectionCommand[%
 %expandtopt=true,%
-beforeskip=-1em,%
+%beforeskip=-1em,%
 ]{section}
 
 \RedeclareSectionCommand[%
-beforeskip=-1em,%
+%beforeskip=-1em,%
 indent=0.5cm,%
 ]{subsection}
 
@@ -94,9 +94,9 @@ indent=0.5cm,%
 ]{subsubsection}
 
 % Defaults are sufficient.
-\deffootnote[1.5em]{0em}{0em}{%
-\textsuperscript{\thefootnotemark}\,%
-}
+%\deffootnote[1.5em]{0em}{0em}{%
+%\textsuperscript{\thefootnotemark}\,%
+%}
 
 %csquotes for advanced facilities for inline and display quotations
 \usepackage[autostyle,spanish=spanish,maxlevel=2]{csquotes}
