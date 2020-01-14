@@ -1,0 +1,8 @@
+#+PROPERTY: header-args:latex :tangle ../../tex/ch3/diacronico/dia_intro.tex
+# -----------------------------------------------------------------------------
+# Santa Teresa Benedicta de la Cruz, ruega por nosotros
+
+
+#+BEGIN_SRC latex
+Breve introducción explicando los artículos y orden de presentación, su naturaleza, etc...
+#+END_SRC
