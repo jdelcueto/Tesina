@@ -1,37 +1,37 @@
-\usepackage[
-backend=biber,
-bibstyle=style/custom-authortitle,
-citestyle=style/custom-verbose-trad1,
-opcittracker=false,
-loccittracker=context,
-refsection=none,
-giveninits=true,
-autocite=footnote,
-block=none,
-useprefix=true,
-sorting=nyvt,
-isbn=false,
-url=false,
-autopunct=false,
-pagetracker=spread,
-ibidpage=true,
-hyperref=false,
-]{biblatex}
+  \usepackage[
+  backend=biber,
+  bibstyle=style/custom-authortitle,
+  citestyle=style/custom-verbose-trad1,
+  opcittracker=false,
+  loccittracker=context,
+  refsection=none,
+  giveninits=true,
+  autocite=footnote,
+  block=none,
+  useprefix=true,
+  sorting=nyvt,
+  isbn=false,
+  url=false,
+  autopunct=false,
+  pagetracker=spread,
+  ibidpage=true,
+  hyperref=false,
+  ]{biblatex}
 
-\DefineBibliographyStrings{spanish}{%
-  andothers   = {et al.},
-  in          = {\lowercase{e}n:},
-  editor      = {(\lowercase{e}d.),},
-  editors     = {(\lowercase{e}ds.),},
-  translator  = {(\lowercase{t}rad.),},
-  translators = {(\lowercase{t}rads.),},
-  idem        = {\uppercase{i}d.},
-  }
+  \DefineBibliographyStrings{spanish}{%
+    andothers   = {et al.},
+    in          = {\lowercase{e}n:},
+    editor      = {(\lowercase{e}d.),},
+    editors     = {(\lowercase{e}ds.),},
+    translator  = {(\lowercase{t}rad.),},
+    translators = {(\lowercase{t}rads.),},
+    idem        = {\uppercase{i}d.},
+    }
 
-\renewcommand*{\multinamedelim}{\space--\space}
-\renewcommand*{\finalnamedelim}{\space--\space}
-\renewcommand*{\newunitpunct}{\addcomma\space}
-\renewcommand*{\subtitlepunct}{\addperiod\space}
-\renewcommand*{\labelnamepunct}{\addcomma\addspace}
-\renewcommand*{\bibnamedash}{\mbox{------\space}}
-\renewcommand*{\mkbibnamefamily}[1]{\textsc{#1}}
+  \renewcommand*{\multinamedelim}{\space--\space}
+  \renewcommand*{\finalnamedelim}{\space--\space}
+  \renewcommand*{\newunitpunct}{\addcomma\space}
+  \renewcommand*{\subtitlepunct}{\addperiod\space}
+  \renewcommand*{\labelnamepunct}{\addcomma\addspace}
+  \renewcommand*{\bibnamedash}{\mbox{------\space}}
+  \renewcommand*{\mkbibnamefamily}[1]{\textsc{#1}}

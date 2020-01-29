@@ -5,6 +5,23 @@
 
 #+BEGIN_SRC latex
 Breve introducción explicando los artículos y orden de presentación, su naturaleza, etc...
+Se presentan en orden cronológico para ver la evolución del pensamiento, aunque más bien es para entablar las relaciones entre los distintos documentos.
 
+Los Artículos
+Parmenides, Mystery and Contradiction, Hume and Julius Caesar y The Question for Linguistic Idealism se encuentran en From Parmenides to Wittgenstein
+
+Verdad, sentido y certeza.
+El interés de estos artículos es doble: la noción del lenguaje y de la justificación que tenemos para lo que podemos llamar conocimiento.
+
+Los Artículos
+On Transubstantiation
+Faith
+En Ethics, Religion and Politics
+
+Se encuentran junto a What is it to believe someone? y Prophecy and Miracles
+en Faith in a Hard Ground
+
+
+En Hume and Juluis Caesar
 
 #+END_SRC
