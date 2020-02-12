@@ -5,7 +5,6 @@
                      '(("subfiles" "../main.tex")))
    (TeX-run-style-hooks
     "latex2e"
-    "./ch1/magisterium"
     "./ch1/test_et_revelatio"
     "./ch1/quaestio_ipsius"
     "subfiles"
