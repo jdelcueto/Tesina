@@ -66,7 +66,7 @@ El intento de llegar desde el lenguaje al pensamiento por medio de las proposici
 
 *** DONE El pensamiento como representación
     CLOSED: [2018-04-14 Sat 11:13]
-#+BEGIN_SRC latex
+#+BEGIN_SRC latex 
 \subsubsection{El pensamiento como representación}
 
 El pensamiento es representación de la realidad por la identidad existente entre la posibilidad de la estructura de una proposición y la posibilidad de la estructura un hecho: \blockquote[{\Cite[171]{anscombe2011plato:simplicity}}: \enquote{Objects ---which are simples--- combine into elementary situations. The kind of way they hang together in such a situation is its \emph{Structure}. \emph{Form} is the possibility of the structure. Not all possible structures are actual: one that is actual is an `elementary fact'. We form pictures of facts, of possible facts indeed, but some of them are actual too. A picture consists in \emph{its} elements combining in a particular kind of way. Their doing so presents the objects named by them as combined in just that way. The combination of the elements of the picture ---the presenting combination--- is called \emph{its} structure and its possibility the form of representation of the picture. This `form of representation' is the possibility that things are combined as are the elements of the picture.}; {\cite[Cf.][\S2.15]{wittgenstein1922tractatuses}}.]{Los objetos ---que son simples--- se combinan en situaciones elementales. El modo en el que se sujetan juntos en una situación tal es su \emph{Estructura}. \emph{Forma} es la posibilidad de esa estructura. No todas las estructuras posibles son actuales: una que es actual es un `hecho elemental'. Nosotros formamos imágenes de los hechos, de hechos posibles ciertamente, pero algunos de ellos son actuales también. Una imagen consiste en \emph{sus} elementos combinados en un modo específico. Al estar así presentan a los objetos denominados por ellos como combinados específicamente en ese mismo modo. La combinación de los elementos de la imagen ---la combinación siendo presentada--- se llama su estructura y su posibilidad se llama la forma de representación de la imagen. Esta `forma de representación' es la posibilidad de que las cosas están combinadas como lo están los elementos de la imagen}.
@@ -76,7 +76,7 @@ La representación y los hechos tienen en común la forma lógica: \blockquote[{
 
 *** DONE Las proposiciones como proyecciones con polos de verdad-falsedad
     CLOSED: [2018-04-14 Sat 11:13]
-#+BEGIN_SRC latex
+#+BEGIN_SRC latex 
 \subsubsection{Las proposiciones como proyecciones con polos de verdad-falsedad}
 
 La imagen de la realidad se convierte en proposición en el momento en que nosotros correlacionamos sus elementos con las cosas actuales\footnote{\cite[Cf.][73]{anscombe1959iwt}: \enquote{a picture (in the ordinary sense) becomes a proposition the moment we correlate its elements with actual things}.}. La condición de posibilidad de entablar dicha correlación es la relación interna entre los elementos de la imagen en una estructura con sentido\footnote{\cite[Cf.][68]{anscombe1959iwt}: \enquote{only if significant relations hold among the elements of the picture \emph{can} they be correlated with objects outside so as to stand for them}.}. De este modo: \blockquote[{\Cite[\S5.4733]{wittgenstein1922tractatuses}}.]{Frege dice: cualquier proposición formada correctamente debe tener un sentido; y yo digo: cualquier proposición posible está correctamente formada y si carece de sentido ello solo puede deberse a que no hemos dado \emph{significado} a algunas de sus partes integrantes}.
@@ -95,7 +95,7 @@ La verdad de las proposiciones es posible, de las tautologías es cierta y de la
 
 *** DONE La distinción entre el decir y el mostrar
     CLOSED: [2018-04-14 Sat 11:13]
-#+BEGIN_SRC latex
+#+BEGIN_SRC latex 
 \subsubsection{La distinción entre el decir y el mostrar}
 
 La conexión entre las tautologías y aquello que no se puede decir, sino mostrar, es que estas ---siendo proposiciones lógicas sin sentido--- muestran la 'lógica del mundo'\footnote{\cite[Cf.][163]{anscombe1959iwt}: \enquote{tautologies shew the `logic of the world'. But what they shew is not what they are an attempt to say: for Wittgenstein does not regard them as an attempt to say anything}.}. Esta 'lógica del mundo' o 'de los hechos' es la que más prominentemente aparece en el Tractatus entre las cosas que no pueden ser dichas, sino mostradas. Esta lógica no solo se muestra en las tautologías, sino en todas las proposiciones. Queda exhibida en las proposiciones diciendo aquello que pueden decir.

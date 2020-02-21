@@ -115,7 +115,7 @@ verificar guiones largos, añadir espacios pequeños
 \subfile{./ch1}
 %CAPÍTULO 2:
 %Vida y Pensamiento Propio de Elizabeth Anscombe
-%\subfile{./ch2}
+\subfile{./ch2}
 %CAPÍTULO 3:
 %La concepción de Elizabeth Anscombe sobre el Testimonio
 %\subfile{./ch3}
