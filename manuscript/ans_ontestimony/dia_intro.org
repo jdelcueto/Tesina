@@ -2,26 +2,34 @@
 # -----------------------------------------------------------------------------
 # Santa Teresa Benedicta de la Cruz, ruega por nosotros
 
+  Breve introducción explicando los artículos y orden de presentación, su naturaleza, etc...
+  Se presentan en orden cronológico para ver la evolución del pensamiento, aunque más bien es para entablar las relaciones entre los distintos documentos.
+
+  Los Artículos
+  Parmenides, Mystery and Contradiction, Hume and Julius Caesar y The Question for Linguistic Idealism se encuentran en From Parmenides to Wittgenstein
+
+  Verdad, sentido y certeza.
+  El interés de estos artículos es doble: la noción del lenguaje y de la justificación que tenemos para lo que podemos llamar conocimiento.
+
+  Los Artículos
+  On Transubstantiation
+  Faith
+  En Ethics, Religion and Politics
+
+  Se encuentran junto a What is it to believe someone? y Prophecy and Miracles
+  en Faith in a Hard Ground
+
+  En Hume and Juluis Caesar
 
 #+BEGIN_SRC latex
-Breve introducción explicando los artículos y orden de presentación, su naturaleza, etc...
-Se presentan en orden cronológico para ver la evolución del pensamiento, aunque más bien es para entablar las relaciones entre los distintos documentos.
+R. Teichmann destaca un reto que podemos encontrar al investigar sobre algún tema específico dentro de la obra de Anscombe:
+\blockquote[{\Cite[1]{teichmann2008ans}}: Part of the difficulty in reading Anscombe is in finding your bearings, and this has to do with her eschewal of System. A system or theory often makes things easier for the reader. Once you have grasped N's theory, you can frequently infer what N would have to say on some point by simply `applying' the theory. But it can often be hard to predict in advance what Anscombe will say about some given thing. She is infuriatingly prone to take each case on its merits.]
+{Parte de la dificultad en leer a Anscombe está en encontrar nuestro rumbo, y esto tiene que ver con su evasión de Sistema. Un sistema o teoría a menudo hace las cosas más fáciles para el lector. Una vez que haz captado la teoría de $N$, con frecuencia puedes inferir qué tendría que decir $N$ sobre algún punto al simplemente \enquote*{aplicar} la teoría. Pero frecuentemente puede ser difícil predecir de antemano qué dirá Anscombe acerca de alguna cosa dada. Tiene la exasperante tendencia a tomar cada caso en sus propios méritos}. 
+Esto no quiere decir que Anscombe carezca de rigor o sistematicidad en sus escritos, sin embargo suele adentrarse \enquote*{in medias res} en sus discusiones con la intención de llegar a algún sitio por la fuerza de sus propias reflexiones sin detenerse a dar mucha explicación de sus presupuestos o del trasfondo de su discusión\footnote{\Cite[Cf.][1]{teichmann2008ans}: \textelp{} there is another reason for the lack of apparent systematicity in Anscombe's writings, and that is that her purpose in writing was typically to get somewhere in her own thoughts on some topic; she usually spends little or no time in providing a background, or in justifying her main `assumptions', preferring to begin \emph{in medias res}.}.
+En este apartado se presentan algunos artículos en torno a cuestiones diferentes y cada uno representa un esfuerzo de Anscombe por \enquote*{llegar a algún sitio} . Sin embargo, hay entre ellos argumentaciones y temáticas comunes que establecen conexiones que permiten componer una noción del pensamiento de Elizabeth sobre el testimonio. 
 
-Los Artículos
-Parmenides, Mystery and Contradiction, Hume and Julius Caesar y The Question for Linguistic Idealism se encuentran en From Parmenides to Wittgenstein
+En este apartado los artículos serán presentados en orden cronológico con el fin de visualizar el desarrollo de las reflexiones de Anscombe a lo largo de su quehacer filosófico. Un marco de referencia que permite una cierta sistematización de estos artículos se encuentra en la ubicación de estos ensayos en las colecciones publicadas por Anscombe en 1981 y por M. Geach y L. Gormally tras su muerte. Los Artículos \emph{Parmenides, Mystery and Contradiction}, \emph{Hume and Julius Caesar} y \emph{The Question for Linguistic Idealism} se encuentran en el volumen \emph{From Parmenides to Wittgenstein} que recoge artículos que estudian la relacion entre lo posible y lo concebible. Dentro de la obra de Anscombe la investigación de esta relación consiste en un análisis del lenguaje. 
 
-Verdad, sentido y certeza.
-El interés de estos artículos es doble: la noción del lenguaje y de la justificación que tenemos para lo que podemos llamar conocimiento.
-
-Los Artículos
-On Transubstantiation
-Faith
-En Ethics, Religion and Politics
-
-Se encuentran junto a What is it to believe someone? y Prophecy and Miracles
-en Faith in a Hard Ground
-
-
-En Hume and Juluis Caesar
+Los Artículos \emph{On Transubstantiation} y \emph{Faith} se encuentra en el volumen \emph{Ethics, Religion and Politics} y \emph{What is it to believe someone?} y \emph{Prophecy and Miracles} en \emph{Faith in a Hard Ground}. Ambos volúmenes recogen artículos relacionados con la fe 
 
 #+END_SRC
