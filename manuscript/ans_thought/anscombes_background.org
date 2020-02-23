@@ -3,7 +3,7 @@
 
 * La Filosofía de Wittgenstein como trasfondo de la Filosofía de Anscombe
 #+BEGIN_SRC latex
-\section{Trasfondo Filosófico de Elizabeth Anscombe}
+\section{Filosofía analítica y método filosófico de Elizabeth Anscombe}
 #+END_SRC
 
 ** Introducción

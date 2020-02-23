@@ -2,7 +2,7 @@
 # ------------------------------------------------------------------------------------
 
 #+BEGIN_SRC latex
-\section{La filosofía analítica y la teología del testimonio}
+\section{Filosofía analítica y la teología del testimonio}
 #+END_SRC
 
 #+BEGIN_SRC latex
