@@ -101,19 +101,11 @@ Teniendo en cuenta estas ideas, para Anscombe, creer en un misterio no presupone
 
 * Parrafito final
 #+BEGIN_SRC latex
-El tema que se ha empezado a discutir en este artículo y que continúa en \emph{The Question of Linguistic Idealism} consiste en un esfuerzo por analizar \enquote{la aptitud del lenguaje humano para hablar de forma significativa y verdadera incluso de lo que supera toda experiencia humana} (FR 67) teniendo en cuenta que \enquote{la fe presupone con claridad que el lenguaje humano es capaz de expresar de manera universal —aunque en términos analógicos, pero no por ello menos significativos— la realidad divina y trascendente. 103 Si no fuera así, la palabra de Dios, que es siempre palabra divina en lenguaje humano, no sería capaz de expresar nada sobre Dios} (FR 84)
-
-análisis del lenguaje. Los resultados a los que llegan estos estudios pueden ser muy útiles para la comprensión de la fe, ya que ponen de manifiesto la estructura de nuestro modo de pensar y de hablar y el sentido contenido en el lenguaje
-
-Este análisis esta relacionado con la cuestión de la analogía. 
-
-, componen una discusión en la que Anscombe estudia elementos importantes de la relación entre lenguaje, pensamiento y realidad dentro de la obra de Wittgenstein. La noción del lenguaje que esta discusión detalla el terreno en el que el testimonio es la práctica lingüística
-y \emph{On Transubstantiation} recogen las ideas de Anscombe relacionadas más directamente con la tercera cuestión planteada en el primer capítulo. 
+El tema que se ha empezado a discutir en este artículo y que continúa en \emph{The Question of Linguistic Idealism} consiste en un esfuerzo por analizar \enquote{la aptitud del lenguaje humano para hablar de forma significativa y verdadera incluso de lo que supera toda experiencia humana} (FR 67, Cf. FR 83) Dentro de la obra de Anscombe este análisis se encuentra en distintas investigaciones sobre las nociones wittgenstenianas de la verdad, el significado y la relacion entre la realidad y el pensamiento expresada en el lenguaje.
+Estas investigaciones \enquote{pueden ser muy útiles para la comprensión de la fe, ya que ponen de manifiesto la estructura de nuestro modo de pensar y de hablar y el sentido contenido en el lenguaje} (FR 84), teniendo en cuenta que \enquote{la fe presupone con claridad que el lenguaje humano es capaz de expresar de manera universal ---aunque en términos analógicos, pero no por ello menos significativos--- la realidad divina y trascendente. Si no fuera así, la palabra de Dios, que es siempre palabra divina en lenguaje humano, no sería capaz de expresar nada sobre Dios} (Íbid.)
+En el contexto del estudio del testimonio, este tema de la capacidad del lenguaje de significar, por medio de la analogía, la realidad divina implica la vida misma del creyente y de la comunidad de la iglesia en tanto que imagen de Cristo vivo en la historia. 
 
 
-
- 
-FR 83 DH 3016
 La vida misma del creyente, la vida de la Iglesia son signo visible de la presencia de Dios vivo
 El ser humano es imagen de Dios
 
