@@ -19,7 +19,7 @@ http://www.worldcat.org/oclc/299374922
 #+BEGIN_SRC bibtex :tangle primary.bib
 @book{anscombe1981parmenides,
 title={From Parmenides to Wittgenstein},
-shorttitle={Parmenides to Wittgesntein},
+shorttitle={Parmenides to Wittgenstein},
 author={Gertrude Elizabeth Margaret Anscombe},
 isbn={9780631129226},
 lccn={81004317},

@@ -99,6 +99,47 @@ Junto a esto, el análisis que Anscombe propone acerca de la relación entre la 
 Teniendo en cuenta estas ideas, para Anscombe, creer en un misterio no presupone una actitud acrítica que abrace la contradicción, sino que consiste mas bien en la disposición de examinar el uso que se hace de las expresiones en el lenguaje y la actividad humana, teniendo en cuenta que los misterios son expresiones que no pueden quedar definitivamente demostradas, pero que tampoco pueden quedar descartadas como no expresando un pensamiento posible.
 #+END_SRC
 
+* Parrafito final
+#+BEGIN_SRC latex
+El tema que se ha empezado a discutir en este artículo y que continúa en \emph{The Question of Linguistic Idealism} consiste en un esfuerzo por analizar \enquote{la aptitud del lenguaje humano para hablar de forma significativa y verdadera incluso de lo que supera toda experiencia humana} (FR 67). 
+
+Este análisis esta relacionado con la cuestión de la analogía. 
+
+, componen una discusión en la que Anscombe estudia elementos importantes de la relación entre lenguaje, pensamiento y realidad dentro de la obra de Wittgenstein. La noción del lenguaje que esta discusión detalla el terreno en el que el testimonio es la práctica lingüística
+y \emph{On Transubstantiation} recogen las ideas de Anscombe relacionadas más directamente con la tercera cuestión planteada en el primer capítulo. 
+
+
+
+ 
+FR 83 DH 3016
+La vida misma del creyente, la vida de la Iglesia son signo visible de la presencia de Dios vivo
+El ser humano es imagen de Dios
+
+posturas previas a la definicion de la verdad 
+
+se propone
+\blockquote[{\Cite[Cf.][354-356]{dominguez2009at}. Destaca tres estadios de la actitud ante la verdad en la historia: \enquote{En la época medieval, \emph{grosso modo}, la verdad era testimoniada \textelp{} el amante de la verdad, el hombre corriente, era consciente de ser ``testigo'' de una verdad que le excedía, y que le había sido dada \textelp{} la pretensión humana de ser autónomo chocó de frente con esta actitud \textelp{dando} paso a la concepción ilustrada donde la verdad era el confereciante mismo \textelp{y posteriormente} la época contemporánea post-idealista niega la existencia de la verdad ontológica.}}]{mostrar qué actitudes no hacen justicia a la noción de libertad en el hombre que se sigue de su ser \emph{imago Dei}, y cuál sí}.
+
+La postura que se tiene previo a la definición de la verdad la actitud hacia la condición de posibilidad de algún tipo de existencia ---o inexistencia de la verdad--- es una ``consideración mística''. 
+
+\blockquote[357]{Cabría decir que ésta es una consideración \emph{mística}. Con místico me refiero, en principio al uso wittgensteniano: ``Nicht wie die Welt ist, ist das Mystische, sondern daß sie ist''. En efecto, a la actitud mística pertenece la persuasión de que la verdad es un tema vital que trasciende, la certeza de que ante ella el ejercicio racional culmina en contemplación. Es, de nuevo, un momento en el que la racionalidad filosófica de pone en busca de otro nivel que la supera: la Revelación.
+
+Esta dimensión mistica no está lejos de la metafísica, ni de la ética. \textelp{} En consecuencia, la actitud previa que se ha de mantener ante la verdad es, no cabe duda, martirial; sí, testimonial en el sentido cabal de la palabra}.
+
+\blockquote[{\Cite[410-411]{dominguez2009at}}]{Este Absoluto concreto, por el que entramos en la vida de la Trinidad, no es una ``abstracción '' inexistenete, sino que está presente en la expresión más viva de la experiencia de la fe.}
+
+La tercera cuestión planteada en el primer capítulo 
+Una cuestión compleja relacionada con el testimonio tiene que ver con el hecho de que En qué consiste la pregunta sobre qué hace significativo al lenguaje.
+Relación entre lo concebible y lo posible
+cual es la respuesta dentro de la filosofía de Anscombe
+a en qué consiste que algo sea verdadero o que algo sea de tal cosa
+es una pregunta sobre el significado
+
+esta discusión y qli nos dan una noción de los fundamentos que 
+la relación de este tema con el testimonio está en la noción misma del lenguaje 
+#+END_SRC
+
+
 Elizabeth enfatiza la indepencia del lenguaje respecto de la realidad,
 y también A Parmenides le parece que emplear en el lenguaje o atribuir al pensamiento afirmaciones
 
