@@ -101,7 +101,9 @@ Teniendo en cuenta estas ideas, para Anscombe, creer en un misterio no presupone
 
 * Parrafito final
 #+BEGIN_SRC latex
-El tema que se ha empezado a discutir en este artículo y que continúa en \emph{The Question of Linguistic Idealism} consiste en un esfuerzo por analizar \enquote{la aptitud del lenguaje humano para hablar de forma significativa y verdadera incluso de lo que supera toda experiencia humana} (FR 67). 
+El tema que se ha empezado a discutir en este artículo y que continúa en \emph{The Question of Linguistic Idealism} consiste en un esfuerzo por analizar \enquote{la aptitud del lenguaje humano para hablar de forma significativa y verdadera incluso de lo que supera toda experiencia humana} (FR 67) teniendo en cuenta que \enquote{la fe presupone con claridad que el lenguaje humano es capaz de expresar de manera universal —aunque en términos analógicos, pero no por ello menos significativos— la realidad divina y trascendente. 103 Si no fuera así, la palabra de Dios, que es siempre palabra divina en lenguaje humano, no sería capaz de expresar nada sobre Dios} (FR 84)
+
+análisis del lenguaje. Los resultados a los que llegan estos estudios pueden ser muy útiles para la comprensión de la fe, ya que ponen de manifiesto la estructura de nuestro modo de pensar y de hablar y el sentido contenido en el lenguaje
 
 Este análisis esta relacionado con la cuestión de la analogía. 
 
