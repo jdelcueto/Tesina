@@ -89,5 +89,5 @@ Este es el misterio que creemos y que el sabio no comprende mejor que el ignoran
 #+END_SRC
 * Conclusión
 #+BEGIN_SRC latex
-La retlexión de Elizabeth en este artículo sirve como contrapunto a sus inveetigaciomrs en pmc y qli. Com un tono distimto aborda un mismo aspecto 
+La reflexión de Elizabeth en este artículo sirve como contrapunto a sus investigaciones en \emph{Parmenides, Mystery and Contradiction} y \emph{The Question for Linguistic Idealism}. Con un tono y acercamiento distinto aborda el mismo tema de la capacidad del lenguaje de significar la verdad sin entrar en las argumentaciones mas densas de esos dos artículos expressa la misma actitud hacia el misterio 
 #+END_SRC
