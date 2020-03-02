@@ -468,6 +468,17 @@ pages={47-54},
 keywords={primary}
 }
 #+END_SRC
+**** La unidad de la verdad
+#+BEGIN_SRC bibtex :tangle primary.bib
+@inbook{torralbaynubiola2005fayeh:unidadverdad,
+title={La unidad de la verdad},
+crossref={torralbaynubiola2005fayeh},
+author={Gertrude Elizabeth Margaret Anscombe},
+year={1983},
+pages={55-62},
+keywords={primary}
+}
+#+END_SRC
 **** La esencia humana
 #+BEGIN_SRC bibtex :tangle primary.bib
 @inbook{torralbaynubiola2005fayeh:esencia,
