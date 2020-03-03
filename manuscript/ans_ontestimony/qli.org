@@ -148,21 +148,11 @@ Elizabeth mantiene en sus distintos artículos esa distinción entre el sinsenti
 #+BEGIN_SRC latex
 El análisis de Anscombe en este artículo consiste en una valoración del `realismo' particular que Wittgenstein pretendió alcanzar en su filosofía. Sin embargo lo que interesa para nuestro estudio, más que un análisis de las ideas de Wittgenstein, son ciertos elementos de sus ideas sobre el significado y el lenguaje que Elizabeth desarrolla más en su propio pensamiento.
 
-Una de estas nociones es la complementariedad entre la `necesidad lógica' y la `necesidad aristotélica' y su relación con la práctica lingüística. La justificación del `\emph{tener que}' lógico se encuentra en la aplicación real que le damos a estas reglas dentro de nuestra actividad lingüística y esta aplicación se justifica en virtud de nuestro ser las criaturas que encuentran natural actuar según ellas de este modo. Junto a esto, la justificación del `\emph{tener que}' aristotélico se entiende como lo imprescindible para alcanzar el bien. 
+Una de estas nociones ya la hemos visto desarrollada en las discusiones sobre el conocimiento histórico. Cuando Anscombe habla de proposiciones históricas presentes en nuestro conocimiento común como `sólidas' está haciendo referencia a la `imagen del mundo' como el trasfondo heredado que sirve como fundamento de nuestra certeza. La ilustración de este trasfondo como el cauce de un río sirve para entender cómo la transmisión de los hechos históricos está compuesta por proposiciones que sirven de fundamento y otras que fluctuan y son sostenidas por estas primeras. Esta noción servirá a Anscombe para hablar sobre la relación entre testimonio y tradición (\S\ref{subsec:testtrad}, p.~\pageref{subsec:testtrad}).
 
+Otra de estas ideas es la complementariedad entre la `necesidad lógica' y la `necesidad aristotélica' y su relación con la práctica lingüística. La justificación del `\emph{tener que}' lógico se encuentra en la aplicación real que le damos a estas reglas dentro de nuestra actividad lingüística y esta aplicación se justifica en virtud de nuestro ser las criaturas que encuentran natural actuar según ellas de este modo. Junto a esto, la justificación del `\emph{tener que}' aristotélico se entiende como lo imprescindible para alcanzar el bien y evitar el mal. La síntesis de estos modos de entender la necesidad de las reglas que aplicamos en el uso del lenguaje llegan a ser una respuesta a la cuestión ética planteada en el \emph{Tractatus} y sirven a Anscombe para describir cómo la verdad ética, que allí se trata como inaccesible, esta `encarnada' en el modo que la actividad del lenguaje refleja nuestra naturaleza humana (\S\ref{subsec:logicbien}, p.~\pageref{subsec:logicbien}). 
 
-Necesidad lógica y aristotélica
-el fundamento de la necesidad, del como se aplican las reglas, de como se usa la expresión
-dependende de la práctica linguistica 
-el dato de que una regla tenga aplicación o no impide que sea arbitraria
-le damos a estas reglas esta aplicación real en virtud de nuestro ser las criaturas que encuentra natural el darle esta aplicación y que estamos de acuerdo en darle esta aplicación
+Una última idea interesante que podemos destacar está relacionada con la respuesta sobre lo que significa `acuerdo en el lenguaje'. Para responder a esta cuestión, Anscombe especifíca lo que constituye un conflicto o desacuerdo real en el lenguaje: un conflicto entre imágenes del mundo o el conflicto causado por una evidencia que muestra  la falsedad de una creencia que se había juzgado cierta. Entonces parece que el acuerdo en el lenguaje consistiría en persuasión o decisión. Sin embargo, la conclusión es que el acuerdo en el lenguaje depende de un hecho general de la naturaleza, y la confianza en este hecho hace posible el juego de lenguaje de la aseveración. Esta premisa sirve a Elizabeth para valorar la actividad humana del lenguaje como providencia divina (\S\ref{subsec:providencia}, p.~\pageref{subsec:providencia}).
 
-acuerdo en el lenguaje
-conflicto, persuasión o la decisión?
-el acuerdo en el lenguaje depende del 
-hecho general de la naturaleza de que es rara la secuencia no puedo estar equivocándome -> descubrir que no fui competenete para juzgar
-
--> confianza
-visión más clara del lenguaje
-
+Estas argumentaciones que destacamos sirven para entender la confianza como la actitud que Anscombe tiene hacia la capacidad del lenguaje humano ---y del ser humano mismo--- de expresar y comunicar la Verdad que le trasciende. Su actitud hacia el misterio termina siendo la expresión culminante de esa misma confianza.
 #+END_SRC

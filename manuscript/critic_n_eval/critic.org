@@ -18,6 +18,7 @@ According to this psychology, an intention was an interior act of the mind which
 LA ÚLTIMA LINEA DEL TRABAJO SERÁ ESTA:
 
 #+BEGIN_SRC latex
+\label{subsec:providencia}
 \blockquote[{\Cite[\S505]{wittgenstein1969oncertes}}.]{Es ist immer von Gnaden der Natur, wenn man etwas weiß}. Para Wittgenstein, el juego de lenguaje, que es esencial en nuestra experiencia de conocer, es posible por una especie de providencia de la naturaleza. Con esto se refiere al hecho de que nuestras aseveraciones son posibles porque no ocurre constantemente que neguemos los fundamentos o justificaciones de afirmaciones que hemos llegado a considerar un juicio cierto y sólido. Añade que el \blockquote[{\Cite[\S509]{wittgenstein1969oncertes}}.]{juego de lenguaje sólo es posible si se confía en algo}. Y con esto no quiere decir \enquote*{si es posible confiar}, sino si se confía de hecho, si se actúa en confianza.
 
 Elizabeth Anscombe añadiría que este juego de lenguaje, y por tanto el conocer, es posible por la Gracia de Dios\footnote{\Cite[Cf.][224]{teichmann2008ans}: \enquote{It is `by favour of Nature' that assertion and knowledge are posible (cf. \emph{On Certainty, para. 505}); for Anselm and for Anscombe, it is (also) by the grace of God}.}. Con esto no estaríamos diciendo que ella simplemente cambiaría `Naturaleza' por `Dios' en la afirmación de Wittgenstein sobre la certeza, se refiere a otras cosas más.
