@@ -1175,6 +1175,21 @@ year={2000},
 keywords={secondary}
 }
 #+END_SRC
+*** A Treatise of Human Nature español
+:URL:
+https://www.dipualba.es/publicaciones/LibrosPapel/LibrosRed/Clasicos/Libros/Hume.pm65.pdf
+:END:
+#+BEGIN_SRC bibtex :tangle secondary.bib
+@book{hume1740treatisees,
+author={David Hume},
+translato={Vicente Viqueira},
+title={Tratado Sobre la Naturaleza Humana},
+publisher={Libros en la Red},
+location={Diputación de Albacete},
+year={2001},
+keywords={secondary}
+}
+#+END_SRC
 ** Gotthold Ephraim Lessing
 *** Philosophical and Theological Writings
 #+BEGIN_SRC bibtex :tangle secondary.bib
@@ -1287,14 +1302,11 @@ keywords={secondary}
 #+BEGIN_SRC bibtex :tangle secondary.bib
 @book{newman1870assent,
 author={John Henry Newman},
-title={El Asentimiento Religioso},
-subtitle={Ensayo sobre los motivos racionales de la fe},
-publisher={Herder},
-translator={José Vives},
-location={Barcelona},
-year={1960},
-edition={2},
-origdate={1870},
+title={Ensayo para contribuir a una Gramática del Asentimiento},
+publisher={Encuentro},
+translator={Josep Vives},
+location={Madrid},
+year={2011},
 keywords={secondary}
 }
 #+END_SRC
