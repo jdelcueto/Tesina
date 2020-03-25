@@ -7,13 +7,13 @@ REVISAR BIEN:
 
 - En Truth sense and assertion hay un punto relacionado con lo que platón respondió a los sofistas, y lo que podría responder, eso añadirlo aquí.
 
-** DONE Parmenides, Mystery and Contradiction (1969) [100%]
-CLOSED: [2019-09-10 Tue 14:57]
+* DONE Parmenides, Mystery and Contradiction (1969) [100%]
+  CLOSED: [2019-09-10 Tue 14:57]
 #+BEGIN_SRC latex
 \subsection{Parmenides, Mystery and Contradiction (1969)}
 #+END_SRC
-*** DONE Información del texto
-    CLOSED: [2019-08-21 Wed 13:27]
+** DONE Información del texto
+   CLOSED: [2019-08-21 Wed 13:27]
 #+BEGIN_SRC latex
 En 1981 Anscombe publicó una colección de sus escritos en tres volúmenes llamados \emph{The Collected Philosophical Papers of G.\,E.\,M.\,Anscombe}. El primero de estos, titulado \emph{From Parmenides to Wittgenstein}, recoge un tema que juega un papel importante en el \emph{Tractatus} de Wittgenstein y que Anscombe trató con gran interés: la relación entre lo concebible y lo posible. En el contexto del pensamiento de Wittgenstein la cuestión de lo concebible se encuentra dentro de la discusión sobre lo que puede ser dicho claramente. Ahí se encuentran también característicos temas wittgensteinianos como la falta de significado, el sinsentido, lo misterioso y lo inefable; nociones que estarán presentes en el análisis de Anscombe.
 
@@ -64,10 +64,10 @@ Este punto le sirve a Anscombe para argumentar a favor de una idea donde el \emp
 El argumento parmenidiano también le sirve a Elizabeth para rechazar una confusión heredada por el \emph{Tractatus}. Se trata de un presupuesto que Parmenides tiene en común con Platón: \blockquote[{\Cite[x]{anscombe1981parmenides}}: \enquote{that a significant term is a name of an object which is either expressed or characterized by the term}.]{que un término significativo es el nombre de un objeto que está expresado o caracterizado por el término}. Este presupuesto, propone Anscombe, \blockquote[{\Cite[xi]{anscombe1981parmenides}}: \enquote{is an ancestor of much philosophical theorizing and perplexity}; En el texto continúa dando ejemplos de esta tradición que coinciden con las discusiones que están recogidas en este volumen de la colección: \enquote{In Aristotle \textelp{} the theory of substance and the inherence in substances of individualized forms of properties and relations of various kinds \textelp{} In Descartes \textelp{} the assertion that the descriptive terms which we use to construct even false pictures of the world must themselves stand for realities \textelp{} In Hume \textelp{} the assumption that `an object' corresponds to a term, even such a term as ``a cause'' as it occurs in ``A beginning of existence must have a cause.'' \textelp{} Brentano thinks that the mere predicative connection of terms is an `acknowledgement' \textelp{} Wittgenstein himself in the \emph{Tractatus} has language pinned to reality by its (postulated) simple names, which mean simple objects}.]{es un ancestro de mucha teorización y perplejidad filosófica}.
 Esta tradición de \enquote*{teorización y perplejidad} que Anscombe traza culminando en el \emph{Tractatus} hace referencia al modelo de representación que se encuentra criticado en \emph{Investigaciones Filosóficas}. Anscombe nota en el argumento de Parménides un germen de la tradición subyacente a la conexión a priori entre el lenguaje y la realidad que aparece en el \emph{Tractatus}.
 #+END_SRC
-*** DONE Análisis del Argumento de Parmenides
-CLOSED: [2019-09-10 Tue 14:57]
-**** El Argumento
-**** La Segunda Premisa
+** DONE Análisis del Argumento de Parmenides
+   CLOSED: [2019-09-10 Tue 14:57]
+*** El Argumento
+*** La Segunda Premisa
 #+BEGIN_SRC latex
 %Aclaradas las intenciones de Anscombe, podemos adentrarnos en su investigación, ¿qué tiene ella que decir sobre el argumento de Parménides? En primer lugar examina la segunda premisa: \enquote*{Lo que no es no puede ser}. La modalidad según la cual se interprete la premisa le otorga distintas acepciones. Entendida \emph{in sensu composito}, es decir, como una proposición general, la verdad de la premisa \enquote*{Lo que no es no puede ser} puede ser entendida como la imposibilidad de la afirmación \enquote*{Lo que no es, es}\footnote{\cite[Cf.][vii]{anscombe1981parmenides}: \enquote{\textelp{} the impossibility of the proposition ``What is not is'' ---i.e. the truth of ``What is not cannot be'', taken in \emph{sensu composito}}.}. Si, por otra parte, se entiende \emph{in sensu diviso}, o como una proposición particular, puede ser interpretada como \blockquote[{\Cite[3]{anscombe1981parmenides:pmc}}: \enquote{Concerning that which is not, it holds that \emph{that} cannot be}.]{Concerniendo aquello que no es, se sostiene que \emph{eso} no puede ser}. Es importante notar aquí los dos modos de usar el término `ser' antes descritos, `lo que no es' lo emplea como nombre de un objeto, y `no puede ser' como una propiedad de este objeto o un predicado de este. Igualmente puede notarse la ruta \enquote*{no es y no puede ser} examinada también anteriormente.
 
