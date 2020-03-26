@@ -53,8 +53,54 @@ La consideración de la fe como aceptación del testimonio de Dios puede tambié
 
 
 #+BEGIN_SRC latex
-\subsection{}
+\subsection{Intro}
+A lo largo de esta investigación hay una línea que se ha ido desarrollando y que desemboca en una región de la obra de Anscombe que trata sobre la compleja cuestión filosófica de la relación entre lo concebible y lo posible expresada en la práctica linguística. Ha partido desde la propuesta de repensar el nexo entre razón, afectos y libertad con una visión más amplia y la consideración de que en el contexto de la filosofía analítica este nexo se estudia dentro de la actividad humana del lenguaje. () Desde la perspectiva de la investigación teológica esta misma cuestión está relaciónada con la pregunta sobre la aptitud del lenguaje para hablar de forma significativa incluso de lo que supera la experiencia humana. () Además indagamos sobre este tema al exponer los desafíos planteados por la interpretación del Círculo de Viena de ciertas nociones wittgensteinianas y su crítica de la capacidad del lenguaje religioso de comunicar conocimiento.() Adentrándonos más al ámbito de la filosofía de Wittgenstein, F. Kerr nos proponía que su análisis de la relación entre realidad, pensamiento y lenguaje constituye un intento de reconocer cómo es el ser humano y junto a esto que la investigación teológica puede ser entendida como investigación gramatical.() Estas ideas culminan en este apartado con la consideración de que para comprender la categoría de testimonio en la obra de Amscombe es preciso tener en cuenta su comprensión del lenguaje. 
+
+Para explicar mejor como la comprensión del lenguaje y el tema del testimonio se relacionan en el pensamiento de Anscombe podemos recurrir a dos ideas propuestas por F. Conesa en su estudio sobre el valor cognoscitivo de la fe. En primer lugar
+:
+\blockquote[{\Cite[310-311]{conesa1994cc}}]{Las observaciones de L. Wittgenstein a este respecto subrayan la importancia que tiene en el contexto de la fe el aprendizaje del lenguaje. No se trata, sin embargo, de aprender un lenguaje esotérico y distanciado del lenguaje ordinario. Se trata de <<aprender cómo usar el lenguaje con más amplitud. El lenguaje que usa la religión es el mismo que se usa en otros universos de discurso. No es un lenguaje especial sino el mismo lenguaje ordinario al que se da un uso particular>>.
+
+Este lenguaje es aprendido de la Iglesia. Una de las tareas del proceso catequético es precisamente la enseñanza del lenguaje de la fe. La profesora Anscombe subraya esto en un escrito sobre la transubstanciación
+\textelp{} El fin de este aprendizaje es ---como subraya el texto--- introducirnos en la inteligencia y vida de la fe. /emph{Saber usar} el lenguaje de la fe es una habilidad técnica que ayuda a la fe en su desarrollo y a la vez ayuda a introducirnos en ella.}
+
+\blockquote[{\Cite[259]{conesa1994cc}}]{La consideración de la fe como aceptación del testimonio de Dios puede también ser vista desde otra perspectiva similar: el motivo de la fe es Dios en cuanto Verdad Primera. Al creer, el hombre se apoya en la infalibilidad divina como garantía suprema de verdad. Este aspecto aparece especialmente en la expresión \emph{creer a Dios}. Al creer a Dios, el hombre se apoya en la veracidad divina y por lo mismo se confía al Dios de la verdad.}
+
+
+
+
+
 #+END_SRC
+
+
+Recap:
+
+cap 1, p.5 y 6: es imprescindible repensar el nexo ... razón, afectos y libertad en la relación del hombre con lo real:: este nexo en el lenguaje
+mostrar la credibilidad de la fe como asentimiento a una revelación personal en la historia
+
+c. 1 p. 9  aptitud del lenguaje para hablar de forma significativa....
+
+c.1 sec 1.3 p 19 ¿es cognoscitivo el lenguaje relijioso? puede significar? puede comunicar conocimiento?
+
+c2. p. 37 el análisis de ludwig sobre la relación entre la realidad, el lenguaje y el pensamiento no deja de ser un intento de reconocer definitivamente como somos realmente 
+
+c2 p. 38 teología como gramática: de lo que decimos sobre Dios
+
+c. 3 p. 42 dos líneas: descripción de lo que constituye lenguaje significativo y descripción de la naturaleza especial de la creencia que llamamos `fe'
+
+Al comienzo de nuestra investigación, como al comienzo de este capítulo
+
+Podemos tomar de F. Conesa algunas claves para comprender la relación del tema del testimonio y la comprensión del lenguaje dentro de la filosofía analítica.
+
+Conesa 310-311
+Las observaciones de L. Wittgenstein a este respecto subrayan la importancia que tiene en el contexto de la fe el aprendizaje del lenguaje. No se trata, sin embargo, de aprender un lenguaje esotérico y distanciado del lenguaje ordinario. Se trata de <<aprender cómo usar el lenguaje con más amplitud. El lenguaje que usa la religión es el mismo que se usa en otros universos de discurso. No es un lenguaje especial sino el mismo lenguaje ordinario al que se da un uso particular>>.
+
+Este lenguaje es aprendido de la Iglesia. Una de las tareas del proceso catequético es precisamente la enseñanza del lenguaje de la fe. La profesora Anscombe subraya esto en un escrito sobre la transubstanciación
+
+311
+El fin de este aprendizaje es ---como subraya el texto--- introducirnos en la inteligencia y vida de la fe. /emph{Saber usar} el lenguaje de la fe es una habilidad técnica que ayuda a la fe en su desarrollo y a la vez ayuda a introducirnos en ella.
+
+La fe necesita un lenguaje ya que sólo puede referirse a su objeto mediante símbolos. Por ello el lenguaje no es sólo un modo de comunicación de la fe sino, sobre todo, algo necesario para estructurarse, definirse, identificarse.
+
 
 #+BEGIN_SRC latex
 \subsection{From Parmenides to Wittgenstein (1981)}
