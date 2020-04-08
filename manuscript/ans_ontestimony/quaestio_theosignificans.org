@@ -4,7 +4,7 @@
 
 * TODO Valor proposicional del lenguaje teológico [0%]
 #+BEGIN_SRC latex
-\subsection{¿Tiene carácter veritativo el lenguaje religioso?}
+\subsection{¿Tiene carácter `veritativo' el lenguaje religioso?}
 #+END_SRC
 
 ** El modo más sencillo de expresar lo que es la transubstanciación...
