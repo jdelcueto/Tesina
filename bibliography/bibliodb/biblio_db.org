@@ -84,8 +84,8 @@ keywords={primary}
 **** The Intetionality of Sensation
 #+BEGIN_SRC bibtex :tangle primary.bib
 @incollection{anscombe1981metaphysics:intsens,
-title={The Intetionality of Sensation: A Grammatical Feature},
-shorttitle={The Intetionality of Sensation},
+title={The Intentionality of Sensation: A Grammatical Feature},
+shorttitle={The Intentionality of Sensation},
 crossref={anscombe1981metaphysics},
 series={CP},
 pages={3-20},
@@ -975,7 +975,7 @@ subtitle ={La Presencia de los Cristianos en la Sociedad Plural},
 publisher ={BAC},
 location ={Madrid},
 year ={2015},
-keywords ={Secondary}
+keywords ={secondary}
 }
 #+END_SRC
 ** René Latourelle
