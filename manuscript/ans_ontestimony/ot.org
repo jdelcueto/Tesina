@@ -104,6 +104,7 @@ Este es el misterio que creemos y que el sabio no comprende mejor que el ignoran
 * Conclusión
 #+BEGIN_SRC latex
 \vspace{2.83334em}
+\vspace{1.41667em}
 La reflexión de Elizabeth en este artículo sirve como contrapunto a sus investigaciones en \emph{Parmenides, Mystery and Contradiction} y \emph{The Question for Linguistic Idealism}. Su modo de describir la capacidad del lenguaje humano para comunicar el misterio divino en este ensayo constituye un modo distinto y más sencillo de abordar esta cuestión, pero armoniza con las argumentaciones más densas que se encuentran en los otros dos artículos.
 
 El aspecto que esta discusión permite destacar es la conexión entre el testimonio particular y el contexto comunitario. La vida de la comunidad en la que se introduce al niño le enseña lo que `transubstanciación' significa. Esto es un ejemplo de como Anscombe comprende la presencia de la Verdad en la práctica lingüística humana; no como una idea que se abstrae, sino como Logos encarnado. En esto consideramos que hay en su pensamiento una idea análoga a una afirmación cristológica como puede ser: \blockquote[{\Cite[410-411]{dominguez2009at}}]{Cristo es el Verbo de Dios hecho hombre \textelp{} Él es el Logos encarnado \textelp{} Este Absoluto concreto, por el que entramos en la vida de la Trinidad, no es una ``abstracción '' inexistente, sino que está presente en la expresión más viva de la experiencia de la fe}.
