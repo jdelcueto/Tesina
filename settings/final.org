@@ -264,7 +264,7 @@ indent=0.5cm,%
 *** Las notas al pie de página deben estar justificadas y sin sangría. La letra tendrá un tamaño de 8pt
 #+BEGIN_SRC latex :tangle ../tex/style/final.sty
 % Defaults are sufficient.
-\deffootnote[1em]{1.5em}{1em}{%
+\deffootnote[1em]{0em}{1em}{%
 \textsuperscript{\thefootnotemark}\,%
 }
 #+END_SRC
