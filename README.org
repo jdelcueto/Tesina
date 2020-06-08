@@ -1,7 +1,7 @@
 * La Categoría de Testimonio en el Pensamiento de Elizabeth Anscombe
 [[./tex/img/anscombe.jpg]]
 
-* [[./staging/final.pdf][Documento FINAL (en revisión)]]
+* [[./staging/final.pdf][Documento FINAL]]
 
 * DONE Progreso Realizado [100%]
 CLOSED: [2019-11-12 Tue 17:15]
